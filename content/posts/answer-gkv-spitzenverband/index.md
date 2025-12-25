@@ -1,5 +1,4 @@
 ---
-_wp_old_date: "2019-06-29"
 author: alper
 categories:
   - berlin
@@ -24,7 +23,7 @@ aliases:
 >
 > Kind Regards
 >
-> Kathleen Lehmann  
+> Kathleen Lehmann
 Referat 2140 — Bedarfsplanung, Psychotherapie, neue Versorgungsformen
 
 I think they told me to go fuck myself. But in any case our problem finding a pediatrician has been solved through other means.

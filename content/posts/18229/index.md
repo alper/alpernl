@@ -1,5 +1,4 @@
 ---
-_publicize_pending: "1"
 author: alper
 categories:
   - english

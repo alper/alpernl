@@ -1,5 +1,4 @@
 ---
-_share_on_mastodon_url: https://rls.social/@alper/112023161997355119
 author: alper
 categories:
   - berlin

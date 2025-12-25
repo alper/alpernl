@@ -8,7 +8,6 @@ date: "2025-08-26T08:19:24+00:00"
 title: ""
 aliases:
   - /dingen/2025/08/18297/
-wp_jp_foreign_id: BD93ABA1-E696-42A2-A375-9DCC149F7A92
 
 ---
 Cycling in London is more joyful than in Berlin and I feel it’s more of a cycling city now.

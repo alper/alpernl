@@ -9,7 +9,6 @@ date: "2024-11-12T18:00:57+00:00"
 title: Renaming half a street
 aliases:
   - /dingen/2024/11/17708/
-wp_jp_foreign_id: B11F1A6C-3443-47AA-B15A-F6FC447696EB
 
 ---
 An interesting article to read about how the city botched renaming the Manteuffelstraße to Audrey-Lord-Straße. I cycle past this street every day and I don't think it's a bad change. Unfortunately, they've done it in such a bad way that it'll poison every person who hears about it against the very concept of government:

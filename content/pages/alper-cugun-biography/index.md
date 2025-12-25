@@ -1,5 +1,4 @@
 ---
-_wp_page_template: default
 author: admin
 date: "2018-12-21T02:12:34+00:00"
 title: Biography

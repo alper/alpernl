@@ -1,6 +1,4 @@
 ---
-_tweet-244398354044440576: ""
-_tweet-244443168869851136: ""
 author: alper
 categories:
   - english

@@ -1,5 +1,4 @@
 ---
-_tweet-246181714177695744: ""
 author: alper
 categories:
   - berlin

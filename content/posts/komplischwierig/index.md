@@ -1,5 +1,4 @@
 ---
-_wp_old_date: "2018-04-09"
 author: alper
 categories:
   - deutsch

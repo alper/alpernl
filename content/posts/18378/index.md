@@ -8,7 +8,6 @@ date: "2025-10-11T20:55:40+00:00"
 title: ""
 aliases:
   - /dingen/2025/10/18378/
-wp_jp_foreign_id: 24FB9D3C-D44C-45B7-919B-2202078A322E
 
 ---
 The marketing that DHH does for projects was always bad, disingenuous and annoying.

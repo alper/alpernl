@@ -1,6 +1,4 @@
 ---
-_jetpack_memberships_contains_paid_content: ""
-_jetpack_memberships_contains_paywalled_content: ""
 author: alper
 categories:
   - english

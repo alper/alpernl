@@ -1,5 +1,4 @@
 ---
-_publicize_pending: "1"
 author: alper
 date: "2018-04-22T12:50:58+00:00"
 title: About

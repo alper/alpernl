@@ -1,6 +1,4 @@
 ---
-_publicize_pending: "1"
-_wp_old_date: "2025-10-24"
 author: alper
 categories:
   - english

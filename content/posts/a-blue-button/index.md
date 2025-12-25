@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2011-11-11T22:25:24+00:00"
-geo_latitude: "52.378098"
-geo_longitude: "4.878150"
-geo_public: "1"
 title: A blue button
 aliases:
   - /dingen/2011/11/a-blue-button/

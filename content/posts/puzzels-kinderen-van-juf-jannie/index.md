@@ -1,5 +1,4 @@
 ---
-_wp_old_date: "2019-05-01"
 author: alper
 categories:
   - games

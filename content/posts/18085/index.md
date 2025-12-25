@@ -9,8 +9,6 @@ date: "2025-09-29T20:40:33+00:00"
 title: ""
 aliases:
   - /dingen/2025/09/18085/
-wp_jp_foreign_id: 77D5B052-CCFB-41F2-A03A-0BE36550207A
-
 ---
 > He is a Marxist who understands the importance of money and markets; without Marx, you cannot understand the movement of history, but without money, you can’t do anything about it.
 

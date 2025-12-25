@@ -7,7 +7,6 @@ date: "2025-02-04T18:18:41+00:00"
 title: ""
 aliases:
   - /dingen/2025/02/17993/
-wp_jp_foreign_id: 9225E6A1-5183-4D9B-B9C0-C738CC7ACC59
 
 ---
 After reading about it, I started trying out Sonshi style myself. RMS is a disgusting character so let’s just pretend the guru is somebody else.

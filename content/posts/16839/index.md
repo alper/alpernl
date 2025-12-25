@@ -1,5 +1,4 @@
 ---
-_wp_old_date: "2022-08-21"
 author: alper
 categories:
   - amsterdam

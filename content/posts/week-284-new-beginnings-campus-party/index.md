@@ -1,6 +1,4 @@
 ---
-_tweet-238700483097808896: ""
-_tweet-238701118513893376: ""
 author: alper
 categories:
   - monster-swell

@@ -7,7 +7,6 @@ date: "2025-09-20T10:12:12+00:00"
 title: ""
 aliases:
   - /dingen/2025/09/18348/
-wp_jp_foreign_id: A41FDFD7-2F24-4EC6-8108-2975ACE0B2C2
 
 ---
 > The point is that once again China is teaching us to think at scale. The future scale of a more developed, post-Western world is gigantic. If we are to have any hope of climate stabilization the only realistic policy, therefore, is not some twee Western European vision of “sustainability”, it is radical and transformative. Cities will be bigger, energy needs will be bigger, production will be bigger than anything we have previously conceived.

@@ -1,5 +1,4 @@
 ---
-_wp_old_date: "2019-11-26"
 author: alper
 categories:
   - english

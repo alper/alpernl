@@ -1,5 +1,4 @@
 ---
-_wp_old_date: "2022-09-24"
 author: alper
 categories:
   - english
