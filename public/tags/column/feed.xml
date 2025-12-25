@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Column on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/column/</link>
+    <link>http://localhost:1313/tags/column/</link>
     <description>Recent content in Column on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 09 Aug 2010 06:27:09 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/column/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/column/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Directie #1</title>
-      <link>http://localhost:62818/dingen/dingen/2010/08/design-directie-1/</link>
+      <link>http://localhost:1313/dingen/2010/08/design-directie-1/</link>
       <pubDate>Mon, 09 Aug 2010 06:27:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2017</guid> 
       <description>&lt;p&gt;&lt;em&gt;‘Design Directie’ is een periodiek stukje van Alper over het raakvlak van design en technologie met de maatschappij ((En boven alles een experiment.)).&lt;/em&gt;&lt;/p&gt;

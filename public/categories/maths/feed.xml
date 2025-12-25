@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Maths on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/maths/</link>
+    <link>http://localhost:1313/categories/maths/</link>
     <description>Recent content in Maths on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 22 Dec 2025 00:08:37 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/maths/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/maths/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/12/18720/</link>
+      <link>http://localhost:1313/dingen/2025/12/18720/</link>
       <pubDate>Mon, 22 Dec 2025 00:08:37 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18720</guid> 
       <description>&lt;p&gt;Do you want some flashbacks to the horrors of trigonometry? Here&amp;rsquo;s fizz buzz in cosines.&lt;/p&gt;
@@ -19,7 +19,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/10/18419/</link>
+      <link>http://localhost:1313/dingen/2025/10/18419/</link>
       <pubDate>Sat, 25 Oct 2025 10:08:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18419</guid> 
       <description>&lt;p&gt;Good to have explained this explicitly why mathematics is such an essential component of programming. People without an inclination for this kind of abstract mathematical thinking often are poor and chaotic programmers.&lt;/p&gt;
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/10/18387/</link>
+      <link>http://localhost:1313/dingen/2025/10/18387/</link>
       <pubDate>Tue, 21 Oct 2025 16:51:14 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18387</guid> 
       <description>&lt;p&gt;Visual explanations of mathematical concepts are nice if they work. Here&amp;rsquo;s one such explanation of functional optics which is almost kinda accessible.&lt;/p&gt;
@@ -35,7 +35,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/08/18289/</link>
+      <link>http://localhost:1313/dingen/2025/08/18289/</link>
       <pubDate>Wed, 06 Aug 2025 05:52:35 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18289</guid> 
       <description>&lt;p&gt;A very cool and simple introduction into Lean and what makes it interesting. I&amp;rsquo;m not sure exactly what draws people in this direction but it&amp;rsquo;s cool to see the progress that&amp;rsquo;s being made here.&lt;/p&gt;
@@ -43,7 +43,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/07/18281/</link>
+      <link>http://localhost:1313/dingen/2025/07/18281/</link>
       <pubDate>Fri, 25 Jul 2025 22:08:47 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18281</guid> 
       <description>&lt;p&gt;Solvers are very annoying to setup and plug your problem into if you&amp;rsquo;re using them regularly. That&amp;rsquo;s why hooking them into LLMs to do the annoying manipulation work is an amazing idea.&lt;/p&gt;

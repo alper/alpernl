@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Museum on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/museum/</link>
+    <link>http://localhost:1313/tags/museum/</link>
     <description>Recent content in Museum on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 22 Apr 2007 12:50:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/museum/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/museum/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getuigenis over essentiele verhalen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/04/getuigenis-over-essentiele-verhalen/</link>
+      <link>http://localhost:1313/dingen/2007/04/getuigenis-over-essentiele-verhalen/</link>
       <pubDate>Sun, 22 Apr 2007 12:50:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/getuigenis-over-essentiele-verhalen/</guid> 
       <description>&lt;p&gt;Gisteren dus de &lt;a href=&#34;http://www.ted.com/index.php/talks/view/id/84&#34;&gt;TEDPrize presentatie&lt;/a&gt; van &lt;a href=&#34;http://en.wikipedia.org/wiki/James_Nachtwey&#34;&gt;James Nachtwey&lt;/a&gt; bekeken op schitterend hoog resolutie video.&lt;/p&gt;

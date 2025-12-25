@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Noma on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/noma/</link>
+    <link>http://localhost:1313/tags/noma/</link>
     <description>Recent content in Noma on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 30 Mar 2010 15:37:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/noma/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/noma/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coworker.nl â€” Map of coworking spots in the Netherlands</title>
-      <link>http://localhost:62818/dingen/dingen/2008/08/coworkernl-%E2%80%94-map-of-coworking-spots-in-the-netherlands/</link>
+      <link>http://localhost:1313/dingen/2008/08/coworkernl-%E2%80%94-map-of-coworking-spots-in-the-netherlands/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=333</guid> 
       <description>&lt;p&gt;Some ideas start out small and then grow larger than you thought imaginable. &lt;a href=&#34;http://coworker.nl&#34;&gt;Coworker.nl&lt;/a&gt; is one such idea. This is a write up about how it came to be and how you can build your own.&lt;/p&gt;

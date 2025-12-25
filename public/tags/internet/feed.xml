@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Internet on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/internet/</link>
+    <link>http://localhost:1313/tags/internet/</link>
     <description>Recent content in Internet on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 04 Jan 2012 16:32:35 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/internet/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/internet/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eindelijk Radio 1 luisteren op de Mac</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</link>
+      <link>http://localhost:1313/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</link>
       <pubDate>Wed, 04 Jan 2012 16:32:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</guid> 
-      <description>&lt;p&gt;Ik heb hier &lt;a href=&#34;http://localhost:62818/dingen/blog/alper/623&#34;&gt;wel&lt;/a&gt; &lt;a href=&#34;http://localhost:62818/dingen/blog/alper/637&#34;&gt;vaker&lt;/a&gt; geschreven over de beroerde webstreams beschikbaar voor &lt;a href=&#34;http://www.radio1.nl&#34;&gt;Radio 1&lt;/a&gt; bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb hier &lt;a href=&#34;http://localhost:1313/blog/alper/623&#34;&gt;wel&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/blog/alper/637&#34;&gt;vaker&lt;/a&gt; geschreven over de beroerde webstreams beschikbaar voor &lt;a href=&#34;http://www.radio1.nl&#34;&gt;Radio 1&lt;/a&gt; bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.&lt;/p&gt;
 &lt;p&gt;Reden tot blijdschap dus, maar nog steeds vreemd waarom ze niet gewoon één MP3-stream (( &lt;a href=&#34;http://en.wikipedia.org/wiki/Shoutcast&#34;&gt;SHOUTcast&lt;/a&gt; ofzo ook al heb ik geen idee hoe dat schaalt.)) hebben opgezet die volgens mij door alle drie die players ((En eigenlijk door bijna elke fatsoenlijke MP3-speler.)) probleemloos kan worden afgespeeld.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/portfolio/</link>
+      <link>http://localhost:1313/dingen/2007/06/portfolio/</link>
       <pubDate>Thu, 16 Jun 2011 21:59:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/portfolio/</guid> 
-      <description>&lt;p&gt;Sommigen hebben het al gezien, ik heb &lt;a href=&#34;http://localhost:62818/dingen/photography/&#34;&gt;een kleine site&lt;/a&gt; gemaakt waar ik een &lt;a href=&#34;http://localhost:62818/dingen/photography/&#34;&gt;fotoportfolio&lt;/a&gt; kwijt kan.&lt;/p&gt;
-&lt;p&gt;Een paar templates, een invoerbestand met de foto&amp;rsquo;s en beschrijvingen en een script draaien de boel uit. Ik heb gisteren ook nog even de links naar Flickr toegevoegd en &lt;a href=&#34;http://localhost:62818/dingen/photography/People.html&#34;&gt;categorie-overzichtspagina&amp;rsquo;s&lt;/a&gt; gemaakt.&lt;/p&gt;
+      <description>&lt;p&gt;Sommigen hebben het al gezien, ik heb &lt;a href=&#34;http://localhost:1313/photography/&#34;&gt;een kleine site&lt;/a&gt; gemaakt waar ik een &lt;a href=&#34;http://localhost:1313/photography/&#34;&gt;fotoportfolio&lt;/a&gt; kwijt kan.&lt;/p&gt;
+&lt;p&gt;Een paar templates, een invoerbestand met de foto&amp;rsquo;s en beschrijvingen en een script draaien de boel uit. Ik heb gisteren ook nog even de links naar Flickr toegevoegd en &lt;a href=&#34;http://localhost:1313/photography/People.html&#34;&gt;categorie-overzichtspagina&amp;rsquo;s&lt;/a&gt; gemaakt.&lt;/p&gt;
 &lt;p&gt;Veel simpeler kan het niet echt, veel ingewikkelder hoeft het van mij op dit moment ook niet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breedband luchtkastelen</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/breedband-luchtkastelen/</link>
+      <link>http://localhost:1313/dingen/2008/05/breedband-luchtkastelen/</link>
       <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=290</guid> 
       <description>&lt;p&gt;Ik zat gisteren op station Leiden verlegen om een klein beetje internet om iets op te zoeken. Voor die paar minuten had ik geen zin om aan KPN €5,95 te betalen voor een uur toegang, dus ik &lt;em&gt;war walkte&lt;/em&gt; een beetje om me heen.&lt;/p&gt;
@@ -36,16 +36,16 @@
     </item>
     <item>
       <title>Rovende reporter</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/rovende-reporter/</link>
+      <link>http://localhost:1313/dingen/2008/04/rovende-reporter/</link>
       <pubDate>Thu, 24 Apr 2008 16:15:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/rovende-reporter/</guid> 
-      <description>&lt;p&gt;Afgelopen week donderdag en vrijdag was &lt;a href=&#34;http://2008.thenextweb.org/&#34;&gt;the Next Web&lt;/a&gt; weer in Amsterdam. Ik had met &lt;a href=&#34;http://tipit.to&#34;&gt;Tipit.to&lt;/a&gt; via &lt;a href=&#34;http://localhost:62818/dingen/2008/03/stemmen-op-ons-filmpje/&#34;&gt;de wedstrijd&lt;/a&gt; al kaartjes gewonnen maar &lt;a href=&#34;http://blog.eelkedekker.nl&#34;&gt;Eelke&lt;/a&gt; en ik wilden geloof ik meer video maken. Voor &lt;a href=&#34;http://www.frankwatching.com&#34;&gt;Frankwatching&lt;/a&gt; ((Ik kwam Frank maandag tegen op het knap saaie Mobile Monday.)) hebben we toen een verslag van de eerste conferentie-dag in elkaar gezet.&lt;/p&gt;
+      <description>&lt;p&gt;Afgelopen week donderdag en vrijdag was &lt;a href=&#34;http://2008.thenextweb.org/&#34;&gt;the Next Web&lt;/a&gt; weer in Amsterdam. Ik had met &lt;a href=&#34;http://tipit.to&#34;&gt;Tipit.to&lt;/a&gt; via &lt;a href=&#34;http://localhost:1313/dingen/2008/03/stemmen-op-ons-filmpje/&#34;&gt;de wedstrijd&lt;/a&gt; al kaartjes gewonnen maar &lt;a href=&#34;http://blog.eelkedekker.nl&#34;&gt;Eelke&lt;/a&gt; en ik wilden geloof ik meer video maken. Voor &lt;a href=&#34;http://www.frankwatching.com&#34;&gt;Frankwatching&lt;/a&gt; ((Ik kwam Frank maandag tegen op het knap saaie Mobile Monday.)) hebben we toen een verslag van de eerste conferentie-dag in elkaar gezet.&lt;/p&gt;
 &lt;p&gt;Ik voor de camera en vragen, Eelke achter de camera en snijden. Het resultaat is tof:
 &lt;a href=&#34;http://www.vimeo.com/862205/l:embed_862205&#34;&gt;Frankwatching @ The Next Web 2008&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/eelke/l:embed_862205&#34;&gt;Eelke D.&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/l:embed_862205&#34;&gt;Vimeo&lt;/a&gt;.Het is erg leuk om te doen en mits goed gedaan ((Daar knijpt het hem een beetje bij de meeste online video.)) kan het resultaat leuk zijn. Ik ben dus van plan om meer kennis en ervaring op te doen. Één van de dingen die ik al langer wil, is om als ik op reis ben korte video&amp;rsquo;tjes te schieten met mijn iSight, mobiel of &lt;a href=&#34;http://www.theflip.com/&#34;&gt;Flip&lt;/a&gt; ((Nog te kopen.)) en die terplekke te uploaden, zeg maar cross-media burgerjournalistiek op locatie.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fooien geven</title>
-      <link>http://localhost:62818/dingen/dingen/2008/02/fooien-geven/</link>
+      <link>http://localhost:1313/dingen/2008/02/fooien-geven/</link>
       <pubDate>Thu, 14 Feb 2008 12:59:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/fooien-geven/</guid> 
       <description>&lt;p&gt;Er staat nu een knop hiernaast wat een klein &lt;a href=&#34;https://tipit.to&#34;&gt;projectje van ons&lt;/a&gt; was. Dus klik erop en geef gul als je dit een leuke site vindt.&lt;/p&gt;
@@ -53,7 +53,7 @@
     </item>
     <item>
       <title>Vrij weekend</title>
-      <link>http://localhost:62818/dingen/dingen/2008/02/vrij-weekend/</link>
+      <link>http://localhost:1313/dingen/2008/02/vrij-weekend/</link>
       <pubDate>Mon, 04 Feb 2008 06:10:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/vrij-weekend/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2240415290/&#34; title=&#34;Roomware DevHouse by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Roomware DevHouse&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2415/2240415290_0516f4e6a8.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -62,16 +62,16 @@
     </item>
     <item>
       <title>Treingenoten</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/treingenoten/</link>
+      <link>http://localhost:1313/dingen/2008/01/treingenoten/</link>
       <pubDate>Thu, 31 Jan 2008 00:58:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/treingenoten/</guid> 
-      <description>&lt;p&gt;Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die &lt;a href=&#34;http://localhost:62818/dingen/2008/01/leeslijsten/#footnote-link-2-238&#34;&gt;boeken leest&lt;/a&gt;.)) naast me zat.&lt;/p&gt;
+      <description>&lt;p&gt;Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die &lt;a href=&#34;http://localhost:1313/dingen/2008/01/leeslijsten/#footnote-link-2-238&#34;&gt;boeken leest&lt;/a&gt;.)) naast me zat.&lt;/p&gt;
 &lt;p&gt;Een grappig toeval en leuk om wat te praten maar als ik ingestapt was via een andere deur dan hadden we elkaar niet gesproken.&lt;/p&gt;
 &lt;p&gt;Reken maar even uit: Een ontmoeting als deze gebeurt eens per weken/maanden. Je kent honderden mensen waar je wel een gesprek mee zou willen/kunnen hebben. Dus als je meer informatie had wanneer kennissen van je in een trein zitten en waar, zouden dit soort ontmoetingen veel vaker voor kunnen komen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Set my WiFi free</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/steel-mijn-internet/</link>
+      <link>http://localhost:1313/dingen/2008/01/steel-mijn-internet/</link>
       <pubDate>Thu, 17 Jan 2008 10:32:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/steel-mijn-internet/</guid> 
       <description>&lt;p&gt;Naar aanleiding van &lt;a href=&#34;http://www.wired.com/politics/security/commentary/securitymatters/2008/01/securitymatters_0110&#34;&gt;dit artikel in Wired&lt;/a&gt; van veiligheids- &lt;a href=&#34;http://geekz.co.uk/schneierfacts/&#34;&gt;goeroe&lt;/a&gt; &lt;a href=&#34;http://www.schneier.com/&#34;&gt;Bruce Schneier&lt;/a&gt; heb ik gedaan waar ik al een tijdje over zat te denken. Ik heb mijn draadloos internet thuis open gegooid voor iedereen in de buurt om te gebruiken.&lt;/p&gt;
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>Wordpress openid nu nog beter</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/wordpress-openid-nu-nog-beter/</link>
+      <link>http://localhost:1313/dingen/2007/11/wordpress-openid-nu-nog-beter/</link>
       <pubDate>Wed, 12 Dec 2007 20:17:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/wordpress-openid-nu-nog-beter/</guid> 
       <description>&lt;p&gt;Met de vorige versie van de wpopenid+ plugin werden commentaren op dit blog van OpenID-gebruikers anoniem geplaatst. Nu is &lt;a href=&#34;http://openid.net&#34;&gt;OpenID&lt;/a&gt; een identity systeem, en meestal is anonimiteit wel mogelijk maar niet direct de bedoeling.&lt;/p&gt;
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>In bedrijf</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/in-bedrijf/</link>
+      <link>http://localhost:1313/dingen/2007/11/in-bedrijf/</link>
       <pubDate>Tue, 20 Nov 2007 18:01:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/in-bedrijf/</guid> 
       <description>&lt;p&gt;Na veel nadenken en schrijven heb ik dan eindelijk een enigzins presentabele website waar ik mij zakelijk kan manifesteren. Boodschappen van anderen helder formuleren is één ding, voor je zelf is het een stuk moeilijker.&lt;/p&gt;
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>Vandaar die hoed</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/vandaar-die-hoed/</link>
+      <link>http://localhost:1313/dingen/2007/11/vandaar-die-hoed/</link>
       <pubDate>Mon, 05 Nov 2007 01:03:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/vandaar-die-hoed/</guid> 
       <description>&lt;p&gt;Als jullie je afvroegen waarom ik die hoed op had, het komt door &lt;a href=&#34;http://www.blogpiloten.de/2007/11/04/barcamp-berlin-blogger-interviewen-blogger/&#34;&gt;het estafette-interview voor Blogpiloten.de&lt;/a&gt; dat ik gegeven heb.&lt;/p&gt;
@@ -104,21 +104,21 @@
     </item>
     <item>
       <title>Hyves zit erop</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/hyves-zit-erop/</link>
+      <link>http://localhost:1313/dingen/2007/10/hyves-zit-erop/</link>
       <pubDate>Thu, 01 Nov 2007 14:42:49 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/hyves-zit-erop/</guid> 
       <description>&lt;p&gt;Ik probeerde vandaag eens te kijken of ik voor een gegeven &lt;a href=&#34;http://www.hyves.nl&#34;&gt;Hyves&lt;/a&gt;-gebruiker zou kunnen achterhalen wie zijn vrienden zijn. Hyves-profielen en vriendenlijsten zijn te bekijken als je niet ingelogd bent. Daar wilde ik dus een scriptje voor schrijven, en als je dan heel Hyves afgaat kun je zo de complete sociale graaf ophalen ((Je zou denken dat dit niet mag, maar Google doet het ook en dan heet het indexeren voor zoektoepassingen.)), superhandig voor analyse en toepassingen ((Er zijn al mensen die &lt;a href=&#34;http://wiki2.issuecrawler.net/twiki/bin/view/Dmi/AfstandTussenHyvesNetwerken&#34;&gt;dit hebben verzonnen&lt;/a&gt; en stappen hebben genomen om &lt;a href=&#34;http://wiki2.issuecrawler.net/twiki/bin/view/Dmi/ScrapesterResearch#Sources&#34;&gt;dit te realiseren&lt;/a&gt;.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Een corrupt Brein zorgt voor stilstand</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/</link>
+      <link>http://localhost:1313/dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/</link>
       <pubDate>Wed, 24 Oct 2007 21:28:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/</guid> 
       <description>&lt;p&gt;De &lt;a href=&#34;http://www.anti-piracy.nl/&#34;&gt;stichting Brein&lt;/a&gt; is een club van advocaten, lobbyisten en accountants in dienst van de auteursrechten-industrieën. Ze hebben aardig wat geld te besteden, maar al het geld in de wereld kan niet op tegen een culturele trend die het einde betekent van oude businessmodellen. De stichting en hun bazen zullen verdwijnen, het is alleen de vraag hoe lang ze een corrupte ((Corrupt in de zin van Lessig nl. overheidsorganen die meer beïnvloed zijn door geld dan door dat wat correct is.)) overheid kunnen misbruiken om hun doelen te dienen en het onvermijdelijke uit te stellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Veranderingen ook in de e-mail</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/veranderingen-ook-in-de-e-mail/</link>
+      <link>http://localhost:1313/dingen/2007/09/veranderingen-ook-in-de-e-mail/</link>
       <pubDate>Tue, 11 Sep 2007 13:36:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/veranderingen-ook-in-de-e-mail/</guid> 
       <description>&lt;p&gt;Ik heb geen idee wanneer maar het lijkt me niet meer dan logisch dat mijn TU Delft e-mailadres binnenkort ophoudt met werken. Dus voor de duidelijkheid nooit meer dingen sturen naar &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@student.tudelft.nl&#34;&gt;a.cugun@student.tudelft.nl&lt;/a&gt;&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@student.twi.tudelft.nl&#34;&gt;a.cugun@student.twi.tudelft.nl&lt;/a&gt;&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@ewi.tudelft.nl&#34;&gt;a.cugun@ewi.tudelft.nl&lt;/a&gt;&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@elektron.its.tudelft.nl&#34;&gt;a.cugun@elektron.its.tudelft.nl&lt;/a&gt;&lt;/strong&gt; en noem nog maar een boel aliassen voor hetzelfde adres op.&lt;/p&gt;
@@ -126,7 +126,7 @@
     </item>
     <item>
       <title>hAvatar voor Wordpress</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/havatar-voor-wordpress/</link>
+      <link>http://localhost:1313/dingen/2007/08/havatar-voor-wordpress/</link>
       <pubDate>Fri, 17 Aug 2007 16:23:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/havatar-voor-wordpress/</guid> 
       <description>&lt;p&gt;Ik had het al een tijdje gehad met &lt;a href=&#34;http://www.gravatar.com/&#34;&gt;gravatar&lt;/a&gt; en alle andere verschillende manieren om avatars ((Plaatjes van gebruikers.)) toe te voegen aan blogs en vond tijd dat er een simpele open versie kwam.&lt;/p&gt;
@@ -134,25 +134,25 @@
     </item>
     <item>
       <title>OpenID een robuuste open manier van Single Sign On</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/openid-een-robuuste-open-manier-van-single-sign-on/</link>
+      <link>http://localhost:1313/dingen/2007/07/openid-een-robuuste-open-manier-van-single-sign-on/</link>
       <pubDate>Sun, 05 Aug 2007 23:21:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/openid-een-robuuste-open-manier-van-single-sign-on/</guid> 
-      <description>&lt;p&gt;In ander nieuws, dit weblog ondersteunt sinds zojuist &lt;a href=&#34;http://openid.net&#34;&gt;OpenID&lt;/a&gt;. Dat is een manier van inloggen met een gebruikersnaam ((Eigenlijk een URL maar dat gaat makkelijker worden. Die van mij is lekker kort &amp;ldquo;alper.nl&amp;rdquo; maar dat zal niet voor de meeste mensen opgaan.)) en wachtwoord ((Het hoeft niet per se geverifieerd te worden met een wachtwoord, mag ook met een paslezer of een SMS maar wachtwoord zal voorlopig het meeste voorkomen.)) op verschillende sites die veilig is en waarbij je toch zelf de controle over je gegevens houdt.Ik heb er eerder al een uitleg over &lt;a href=&#34;http://www.frankwatching.com/archive/2007/03/19/openid-een-wachtwoord-voor-de-toekomst/&#34;&gt;geschreven op Frankwatching&lt;/a&gt; wat redelijk veel aandacht trok en &lt;a href=&#34;http://fourstarters.com/2007/07/12/making-openid-really-really-easy-a-use-case/&#34;&gt;een recent artikel op Four Starters&lt;/a&gt; sloeg ook lekker in. De strekking van dat laatste artikel is dat de meeste mensen als een OpenID hebben, maar zich er niet van bewust zijn. Kijken of je toch een OpenID hebt, spoed je dan naar &lt;a href=&#34;http://localhost:62818/dingen/ajax/openid.html&#34;&gt;mijn OpenID generator&lt;/a&gt;.Als je niet wil dat er iets verandert, verandert er ook niets. Ik heb de &lt;a href=&#34;http://willnorris.com/projects/wpopenid&#34;&gt;wpopenid+&lt;/a&gt; plugin hier geïnstalleerd om wat dingen met betrekking tot OpenID en innovatieve toepassingen hiervan uit te kunnen proberen. Dus misschien gaan dingen hier een beetje kapot in de komend tijd, maar ik probeer de gewoonlijke diensten hier zo goed mogelijk doorgang te doen vinden.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In ander nieuws, dit weblog ondersteunt sinds zojuist &lt;a href=&#34;http://openid.net&#34;&gt;OpenID&lt;/a&gt;. Dat is een manier van inloggen met een gebruikersnaam ((Eigenlijk een URL maar dat gaat makkelijker worden. Die van mij is lekker kort &amp;ldquo;alper.nl&amp;rdquo; maar dat zal niet voor de meeste mensen opgaan.)) en wachtwoord ((Het hoeft niet per se geverifieerd te worden met een wachtwoord, mag ook met een paslezer of een SMS maar wachtwoord zal voorlopig het meeste voorkomen.)) op verschillende sites die veilig is en waarbij je toch zelf de controle over je gegevens houdt.Ik heb er eerder al een uitleg over &lt;a href=&#34;http://www.frankwatching.com/archive/2007/03/19/openid-een-wachtwoord-voor-de-toekomst/&#34;&gt;geschreven op Frankwatching&lt;/a&gt; wat redelijk veel aandacht trok en &lt;a href=&#34;http://fourstarters.com/2007/07/12/making-openid-really-really-easy-a-use-case/&#34;&gt;een recent artikel op Four Starters&lt;/a&gt; sloeg ook lekker in. De strekking van dat laatste artikel is dat de meeste mensen als een OpenID hebben, maar zich er niet van bewust zijn. Kijken of je toch een OpenID hebt, spoed je dan naar &lt;a href=&#34;http://localhost:1313/ajax/openid.html&#34;&gt;mijn OpenID generator&lt;/a&gt;.Als je niet wil dat er iets verandert, verandert er ook niets. Ik heb de &lt;a href=&#34;http://willnorris.com/projects/wpopenid&#34;&gt;wpopenid+&lt;/a&gt; plugin hier geïnstalleerd om wat dingen met betrekking tot OpenID en innovatieve toepassingen hiervan uit te kunnen proberen. Dus misschien gaan dingen hier een beetje kapot in de komend tijd, maar ik probeer de gewoonlijke diensten hier zo goed mogelijk doorgang te doen vinden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eindelijk WiFi in huis</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/eindelijk-wifi-in-huis/</link>
+      <link>http://localhost:1313/dingen/2007/05/eindelijk-wifi-in-huis/</link>
       <pubDate>Sat, 04 Aug 2007 10:50:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/eindelijk-wifi-in-huis/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/486973408/&#34; title=&#34;photo sharing&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://www.flickr.com/photos/alper/486973408/&#34;&gt;linksys&lt;/a&gt;, originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/alper/&#34;&gt;illustir&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Sinds ik een Mac heb maak ik gebruik van het bestaande draadnetwerk in huis. Het is een beetje primitief maar met de twee kabels die er zijn kon ik op de meeste plekken wel internetten.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/487004211/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Mess of cables&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/223/487004211_69d9698c1c_m.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;De drang naar WiFi was er wel maar het was nog niet zo makkelijk te realiseren. In de eerste plaats was onze internet router een oude Linux-bak ((Die ook begon te piepen en te kraken. Ik weet niet meer hoeveel foute sectoren er op die harde schijf stonden maar blijkbaar markeert Linux die dan en gaat gewoon verder. Hij heeft prima als web-/fileserver gefunctioneerd met als enige manco dat de /-partitie minder dan 40Mb vrij had.)) waar tegelijkertijd de webserver ((Dit waren zowel een Apache frontend webserver alswel een complete geproxyde &lt;a href=&#34;http://www.zope.org&#34;&gt;Zope&lt;/a&gt; installatie waar het blog onder draaide. Het feit dat Zope zo bijzonder exotisch is, zorgde ervoor dat migratie naar een standaard PHP/MySQL hosting provider niet één-twee-drie geklaard was.)) van &lt;a href=&#34;http://alper.nl&#34;&gt;alper.nl&lt;/a&gt; op draaide. Dat moest dus blijven draaien. Met &lt;a href=&#34;http://localhost:62818/dingen/blog/alper/830&#34;&gt;de recente migratie&lt;/a&gt; van alles van alper.nl naar &lt;a href=&#34;http://www.dreamhost.com&#34;&gt;Dreamhost&lt;/a&gt; is de weg dus vrij gemaakt voor het opheffen van die bak en het installeren van een echte draadloze router.&lt;/p&gt;</description>
+&lt;p&gt;De drang naar WiFi was er wel maar het was nog niet zo makkelijk te realiseren. In de eerste plaats was onze internet router een oude Linux-bak ((Die ook begon te piepen en te kraken. Ik weet niet meer hoeveel foute sectoren er op die harde schijf stonden maar blijkbaar markeert Linux die dan en gaat gewoon verder. Hij heeft prima als web-/fileserver gefunctioneerd met als enige manco dat de /-partitie minder dan 40Mb vrij had.)) waar tegelijkertijd de webserver ((Dit waren zowel een Apache frontend webserver alswel een complete geproxyde &lt;a href=&#34;http://www.zope.org&#34;&gt;Zope&lt;/a&gt; installatie waar het blog onder draaide. Het feit dat Zope zo bijzonder exotisch is, zorgde ervoor dat migratie naar een standaard PHP/MySQL hosting provider niet één-twee-drie geklaard was.)) van &lt;a href=&#34;http://alper.nl&#34;&gt;alper.nl&lt;/a&gt; op draaide. Dat moest dus blijven draaien. Met &lt;a href=&#34;http://localhost:1313/blog/alper/830&#34;&gt;de recente migratie&lt;/a&gt; van alles van alper.nl naar &lt;a href=&#34;http://www.dreamhost.com&#34;&gt;Dreamhost&lt;/a&gt; is de weg dus vrij gemaakt voor het opheffen van die bak en het installeren van een echte draadloze router.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marktfalen in de telecom</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/marktfalen-in-de-telecom/</link>
+      <link>http://localhost:1313/dingen/2007/08/marktfalen-in-de-telecom/</link>
       <pubDate>Wed, 01 Aug 2007 14:33:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/marktfalen-in-de-telecom/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.parool.nl/nieuws/2007/AUG/01/eco2.html&#34;&gt;Berichtje in de Parool&lt;/a&gt; van iets wat natuurlijk al veel langer bekend is. Als je dataverkeer verbruikt in het buitenland dan betaal je je compleet scheel aan roaming mobiele data rates. En je hoeft er &lt;a href=&#34;http://www.marketingfacts.nl/berichten/20070215_vodafone_hsdpa_niet_doen/&#34;&gt;niet eens voor&lt;/a&gt; naar het buitenland ((Dat bericht over Vodafone leidde toen geloof ik nog tot een aardig staaltje belangenverstrengeling.)).&lt;/p&gt;
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>Internetcultuur dringt het gewone leven binnen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/</link>
+      <link>http://localhost:1313/dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/</link>
       <pubDate>Sun, 15 Jul 2007 17:08:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/</guid> 
       <description>&lt;p&gt;Iedereen die enige tijd online heeft doorgebracht kent &lt;a href=&#34;http://www.youtube.com/watch?v=Kw0YHv3ub-k&#34;&gt;de dansroutine van OK GO&lt;/a&gt; voor het lied “A Million Ways”wel en de vele vele keren dat het nagedaan is door mensen over de hele wereld.&lt;/p&gt;
@@ -170,14 +170,14 @@
     </item>
     <item>
       <title>Capoeira sites</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/capoeira-sites/</link>
+      <link>http://localhost:1313/dingen/2007/07/capoeira-sites/</link>
       <pubDate>Wed, 11 Jul 2007 12:15:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/capoeira-sites/</guid> 
       <description>&lt;p&gt;Ik bladerde net door de feed van &lt;a href=&#34;http://www.liberdade.nl/&#34;&gt;onze Capoeira-site&lt;/a&gt; heen en ik moet zeggen dat ik er toch wel erg blij mee ben. Een aardige stroom van berichten met redelijk sterke foto&amp;rsquo;s flink groot ((500px)) geplaatst is toch wel erg cool.Dat moest ik even kwijt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaONE Afterglow - Desktop Java</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/javaone-afterglow-desktop-java/</link>
+      <link>http://localhost:1313/dingen/2007/06/javaone-afterglow-desktop-java/</link>
       <pubDate>Wed, 27 Jun 2007 23:36:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/javaone-afterglow-desktop-java/</guid> 
       <description>&lt;p&gt;Ik was gisteren op de JavaONE Afterglow in Affligem en hier zijn mijn aantekeningen van een sessie daar (geconverteerd van Markdown):&lt;/p&gt;
@@ -192,7 +192,7 @@ Myspace video uploader (IILWY.com does the same with Flash and does it very well
     </item>
     <item>
       <title>De Volkskrant toch maar opzeggen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/de-volkskrant-toch-maar-opzeggen/</link>
+      <link>http://localhost:1313/dingen/2007/06/de-volkskrant-toch-maar-opzeggen/</link>
       <pubDate>Tue, 19 Jun 2007 00:42:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/de-volkskrant-toch-maar-opzeggen/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/564358043/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Alper en Pieter Hilhorst&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1314/564358043_24afc03d47_m.jpg&#34;&gt;&lt;/a&gt;&lt;em&gt;Foto &lt;a href=&#34;http://www.ter-burg.nl/&#34;&gt;Sebastiaan ter Burg&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
@@ -202,7 +202,7 @@ Hilhorst zelf had er natuurlijk alle belang bij om deze gedachtengang in stand t
     </item>
     <item>
       <title>De open samenleving en haar vijanden</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/de-open-samenleving-en-haar-vijanden/</link>
+      <link>http://localhost:1313/dingen/2007/06/de-open-samenleving-en-haar-vijanden/</link>
       <pubDate>Thu, 14 Jun 2007 21:47:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/de-open-samenleving-en-haar-vijanden/</guid> 
       <description>&lt;p&gt;Een &lt;a href=&#34;http://frontpage.fok.nl/nieuws/77854&#34;&gt;nieuwsbericht op Fok&lt;/a&gt; over dat de doodstraf staat op mobiel bellen in Noord-Korea.&lt;/p&gt;
@@ -212,7 +212,7 @@ Hilhorst zelf had er natuurlijk alle belang bij om deze gedachtengang in stand t
     </item>
     <item>
       <title>Starre denkpatronen in de webindustrie</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/</link>
+      <link>http://localhost:1313/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/</link>
       <pubDate>Fri, 08 Jun 2007 14:02:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/</guid> 
       <description>&lt;p&gt;Een tijdje geleden praatten we met &lt;a href=&#34;http://www.happyclog.nl/&#34;&gt;wat verlichte zielen&lt;/a&gt; over de stand van webstandaarden in Nederland. We vonden dat daar verbetering in moest komen en we hebben allemaal wel ons best gedaan om mensen hiervan te overtuigen. Het lijkt er nu op dat de verbetering voor een deel is gerealiseerd maar dat sommige mensen wellicht zijn doorgeschoten.&lt;/p&gt;
@@ -220,7 +220,7 @@ Hilhorst zelf had er natuurlijk alle belang bij om deze gedachtengang in stand t
     </item>
     <item>
       <title>Second Life: Wat moeten we ermee?</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/second-life-wat-moeten-we-ermee/</link>
+      <link>http://localhost:1313/dingen/2007/05/second-life-wat-moeten-we-ermee/</link>
       <pubDate>Wed, 23 May 2007 23:25:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/second-life-wat-moeten-we-ermee/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/510724346/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Second Life; Abort, Retry, Ignore?&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/224/510724346_e40cb94907_m.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -231,7 +231,7 @@ Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapin
     </item>
     <item>
       <title>Koolstofneutraal is het nieuwe zwart</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/</link>
+      <link>http://localhost:1313/dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/</link>
       <pubDate>Fri, 11 May 2007 04:12:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/</guid> 
       <description>&lt;p&gt;Op &lt;a href=&#34;http://www.topdesk.com&#34;&gt;TOPdesk&lt;/a&gt; vandaag het nieuws dat al ons drukwerk ((Ja, ik weet het. Zó vorige eeuw.)) milieuvriendelijk gedrukt wordt ((Voor zover dat mogelijk is met een &lt;em&gt;dode-bomen-medium&lt;/em&gt;.))&lt;/p&gt;
@@ -240,7 +240,7 @@ Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapin
     </item>
     <item>
       <title>PC Magazine over OpenID</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/pc-magazine-over-openid/</link>
+      <link>http://localhost:1313/dingen/2007/05/pc-magazine-over-openid/</link>
       <pubDate>Wed, 02 May 2007 11:40:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/pc-magazine-over-openid/</guid> 
       <description>&lt;p&gt;Ik lees bijna geen print media, maar de meeste mensen boven de 30 doen dat wel en laten zich in hun beslissingen ook daardoor leiden. Daar moeten we rekening mee houden.&lt;/p&gt;
@@ -249,7 +249,7 @@ Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapin
     </item>
     <item>
       <title>Open Beer Delft vanavond in het Klooster</title>
-      <link>http://localhost:62818/dingen/dingen/2007/04/open-beer-delft-vanavond-in-het-klooster/</link>
+      <link>http://localhost:1313/dingen/2007/04/open-beer-delft-vanavond-in-het-klooster/</link>
       <pubDate>Fri, 27 Apr 2007 10:36:49 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/open-beer-delft-vanavond-in-het-klooster/</guid> 
       <description>&lt;p&gt;Nog even ter herinnering, vanavond is de eerste editie van de netwerkborrel voor web professionals en zelfstandigen in Delft en omstreken.&lt;/p&gt;
@@ -257,7 +257,7 @@ Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapin
     </item>
     <item>
       <title>Heldere standpunten over copyright in Noorwegen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/</link>
+      <link>http://localhost:1313/dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/</link>
       <pubDate>Thu, 26 Apr 2007 08:39:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/</guid> 
       <description>&lt;p&gt;Bij &lt;a href=&#34;http://www.redmonk.com/jgovernor/2007/04/17/norway-liberal-party-on-copyright-law-politics-meets-clue/&#34;&gt;Redmonk&lt;/a&gt; &lt;a href=&#34;http://www.uv.no/politics/translated-items/culture-wants-to-be-free?set_language=en&#34;&gt;een manifest&lt;/a&gt; van de Noorse Liberale Partij waar ik het heel erg mee eens ben.&lt;/p&gt;
@@ -267,7 +267,7 @@ Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapin
     </item>
     <item>
       <title>Even testen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/04/even-testen/</link>
+      <link>http://localhost:1313/dingen/2007/04/even-testen/</link>
       <pubDate>Sun, 22 Apr 2007 12:16:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/even-testen/</guid> 
       <description>&lt;p&gt;Ik heb net de onnavolgbare voetnoten plugin gedownload en geïnstalleerd op dit blog ((En wel &lt;a href=&#34;http://www.elvery.net/drzax/more-things/wordpress-footnotes-plugin/&#34;&gt;hiervandaan&lt;/a&gt;.)).&lt;/p&gt;

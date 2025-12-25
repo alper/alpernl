@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Berlin on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/berlin/</link>
+    <link>http://localhost:1313/categories/berlin/</link>
     <description>Recent content in Berlin on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 15 Oct 2025 16:27:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/berlin/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/berlin/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/10/18379/</link>
+      <link>http://localhost:1313/dingen/2025/10/18379/</link>
       <pubDate>Wed, 15 Oct 2025 16:27:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/2025/10/18379/</guid> 
       <description>&lt;p&gt;Cycling home from having done groceries yesterday night, I wondered why there were police officers with machine guns standing on the sidewalk.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>U-Bahn Takes</title>
-      <link>http://localhost:62818/dingen/dingen/2025/09/u-bahn-takes/</link>
+      <link>http://localhost:1313/dingen/2025/09/u-bahn-takes/</link>
       <pubDate>Wed, 10 Sep 2025 21:22:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18324</guid> 
       <description>&lt;p&gt;Subway Takes is publishing episodes they filmed in Berlin’s U-Bahn, and the results are both amusing and unexpectedly revealing.&lt;/p&gt;
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/09/18305/</link>
+      <link>http://localhost:1313/dingen/2025/09/18305/</link>
       <pubDate>Sun, 07 Sep 2025 10:26:03 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18305</guid> 
       <description>&lt;p&gt;How much time for an innovative/edgy/creative agency to copy this (poorly) in Berlin?&lt;/p&gt;
@@ -35,7 +35,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/03/18183/</link>
+      <link>http://localhost:1313/dingen/2025/03/18183/</link>
       <pubDate>Sat, 22 Mar 2025 20:47:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18183</guid> 
       <description>&lt;p&gt;We have kids in two parallel classes at school which lets us compare things directly and gives us insights many of the other parents don&amp;rsquo;t have.&lt;/p&gt;
@@ -44,7 +44,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/02/18071/</link>
+      <link>http://localhost:1313/dingen/2025/02/18071/</link>
       <pubDate>Tue, 18 Feb 2025 08:42:04 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18071</guid> 
       <description>&lt;p&gt;Hundred percent sure that if the same policy would be applied to Berlin most car traffic would evaporate from our streets here immediately. Most traffic in my neighborhood is people without really that much to do who could be doing something other than driving and drug dealers.&lt;/p&gt;
@@ -52,7 +52,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/02/18066/</link>
+      <link>http://localhost:1313/dingen/2025/02/18066/</link>
       <pubDate>Tue, 11 Feb 2025 08:30:17 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18066</guid> 
       <description>&lt;p&gt;We&amp;rsquo;ve revived our tech blog and will be sharing a bunch of stuff around our AI process and what it means to be an &amp;ldquo;AI first&amp;rdquo; company. Here&amp;rsquo;s an in-depth first piece about what it takes to develop a successful real life product with LLMs.&lt;/p&gt;
@@ -60,7 +60,7 @@
     </item>
     <item>
       <title>December Adventure</title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/december-adventure/</link>
+      <link>http://localhost:1313/dingen/2024/12/december-adventure/</link>
       <pubDate>Mon, 02 Dec 2024 23:44:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17749</guid> 
       <description>&lt;p&gt;So I felt I couldn&amp;rsquo;t really bring myself to do &lt;a href=&#34;https://adventofcode.com&#34;&gt;Advent of Code&lt;/a&gt; this year since I have more than enough other things to do (and &lt;a href=&#34;https://en.wikipedia.org/wiki/Arcane_(TV_series)&#34;&gt;watch&lt;/a&gt; and &lt;a href=&#34;https://store.steampowered.com/app/333640/Caves_of_Qud/&#34;&gt;play&lt;/a&gt;) and with work and the kids, it&amp;rsquo;s always pretty miserable to keep up.&lt;/p&gt;
@@ -68,7 +68,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17725/</link>
+      <link>http://localhost:1313/dingen/2024/11/17725/</link>
       <pubDate>Thu, 21 Nov 2024 22:08:49 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17725</guid> 
       <description>&lt;p&gt;Nicolas from &lt;a href=&#34;https://allaboutberlin.com&#34;&gt;All About Berlin&lt;/a&gt; has done so much to make living in this administrative nightmare bearable for people. It&amp;rsquo;s a very clear example of what kind of 10-100x improvements are there to be had.&lt;/p&gt;
@@ -76,7 +76,7 @@
     </item>
     <item>
       <title>Renaming half a street</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17708/</link>
+      <link>http://localhost:1313/dingen/2024/11/17708/</link>
       <pubDate>Tue, 12 Nov 2024 18:00:57 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17708</guid> 
       <description>&lt;p&gt;An interesting article to read about how the city botched renaming the Manteuffelstraße to Audrey-Lord-Straße. I cycle past this street every day and I don&amp;rsquo;t think it&amp;rsquo;s a bad change. Unfortunately, they&amp;rsquo;ve done it in such a bad way that it&amp;rsquo;ll poison every person who hears about it against the very concept of government:&lt;/p&gt;
@@ -90,33 +90,33 @@
     </item>
     <item>
       <title>GIFT</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/gift/</link>
+      <link>http://localhost:1313/dingen/2024/11/gift/</link>
       <pubDate>Sun, 10 Nov 2024 08:39:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17699</guid> 
       <description>&lt;p&gt;Watched “Evil Does Not Exist” as GIFT, the recut and rescored (silent) version performed live by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eiko_Ishibashi&#34;&gt;Eiko Ishibashi&lt;/a&gt; at HAU1.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/11/IMG%5F7406.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_7406.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;This has a shorter runtime than the movie because a lot of fluff is cut out and we are only left with a very summary story. That is a good choice and I can&amp;rsquo;t say the movie suffers from it very much even though this is version is very much its own thing (i.e. not a narrative movie).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17669/</link>
+      <link>http://localhost:1313/dingen/2024/11/17669/</link>
       <pubDate>Sun, 03 Nov 2024 17:37:10 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17669</guid> 
       <description>&lt;p&gt;Love having the kids be off school every 6 weeks or so which means we get a week of everybody adjusting to them being at home and then another week of adjusting them being back at school. All thanks to the trash tier school logistics of Germany.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reckoning with the Greens</title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/reckoning-with-the-greens/</link>
+      <link>http://localhost:1313/dingen/2024/10/reckoning-with-the-greens/</link>
       <pubDate>Thu, 17 Oct 2024 06:52:55 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17567</guid> 
       <description>&lt;p&gt;After some occasional brushes with party politics and reading up on the minimal political agency that we foreigners get here, I dove in. The rise of right-wing sentiment seemed to be a good reason to become a member of the Greens just like I imagine it did for a number of people. Much good that did do if you see the continued rise of that sentiment and this Green government all but enabling right-wing parties with their politics of austerity.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17632/</link>
+      <link>http://localhost:1313/dingen/2024/10/17632/</link>
       <pubDate>Thu, 10 Oct 2024 20:04:04 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17632</guid> 
       <description>&lt;p&gt;Wanted to show the kids some chiaroscuro for their art class about light and dark tomorrow and ran through some of &lt;a href=&#34;https://www.artrenewal.org/artists/caravaggio/589&#34;&gt;the all time greats from Caravaggio&lt;/a&gt;. They were particularly impressed by Holofernes being beheaded.&lt;/p&gt;
@@ -124,7 +124,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17624/</link>
+      <link>http://localhost:1313/dingen/2024/10/17624/</link>
       <pubDate>Thu, 03 Oct 2024 10:39:40 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17624</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://mspr0.de/newsletter/&#34;&gt;Krasse Links&lt;/a&gt; looks like yet another collection of links but the German wall of text notwithstanding, it&amp;rsquo;s a remarkable act of curation and contextualisation. Remarkable and unique for sure in Germany.&lt;/p&gt;
@@ -132,7 +132,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17606/</link>
+      <link>http://localhost:1313/dingen/2024/10/17606/</link>
       <pubDate>Thu, 03 Oct 2024 00:26:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17606</guid> 
       <description>&lt;p&gt;Trying for years to explain to people that Germany has almost zero &lt;a href=&#34;https://adamtooze.substack.com/p/chartbook-296-project-power-hegemony&#34;&gt;project power&lt;/a&gt; and is incapable of any progress and then suddenly &lt;a href=&#34;https://eu-acc.com&#34;&gt;a movement springs up&lt;/a&gt; that agrees entirely with that assessment.&lt;/p&gt;
@@ -140,7 +140,7 @@
     </item>
     <item>
       <title>Waarom ik geen ID-Check kan gebruiken</title>
-      <link>http://localhost:62818/dingen/dingen/2024/09/waarom-ik-geen-id-check-kan-gebruiken/</link>
+      <link>http://localhost:1313/dingen/2024/09/waarom-ik-geen-id-check-kan-gebruiken/</link>
       <pubDate>Thu, 12 Sep 2024 07:51:49 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17600</guid> 
       <description>&lt;p&gt;Met een nieuwe identiteitskaart of paspoort die je in het buitenland krijgt (als je niet meer in Nederland woont), kun je niet meer ID-Check van DigiD gebruiken.&lt;/p&gt;
@@ -150,7 +150,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/08/17584/</link>
+      <link>http://localhost:1313/dingen/2024/08/17584/</link>
       <pubDate>Wed, 14 Aug 2024 15:11:17 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17584</guid> 
       <description>&lt;p&gt;Always nice to be able to write stuff that the team has been doing and share it with the world.&lt;/p&gt;
@@ -158,7 +158,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/07/17552/</link>
+      <link>http://localhost:1313/dingen/2024/07/17552/</link>
       <pubDate>Sat, 20 Jul 2024 08:20:18 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17552</guid> 
       <description>&lt;p&gt;I remember when I got banned from the forum of one of Germany&amp;rsquo;s larger liberal podcasts for saying that Bitcoin is mostly something by and for criminals. I think that statement was pretty much entirely correct.&lt;/p&gt;
@@ -166,7 +166,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17513/</link>
+      <link>http://localhost:1313/dingen/2024/03/17513/</link>
       <pubDate>Sat, 16 Mar 2024 11:28:53 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17513</guid> 
       <description>&lt;p&gt;Netzpolitik has done a lot of good things, no doubt. But I&amp;rsquo;m left with a bit of a double feeling after reading Beckedahl&amp;rsquo;s farewell post. Imagine having spent 20 years to improve the state of the German internet (“eine bessere digitale Welt möglich ist”) and you leave with the situation like it is.&lt;/p&gt;
@@ -174,7 +174,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17505/</link>
+      <link>http://localhost:1313/dingen/2024/03/17505/</link>
       <pubDate>Mon, 11 Mar 2024 23:48:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17505</guid> 
       <description>&lt;p&gt;The news that an OSINT researcher spent 30 minutes to find a fugitive that the German police couldn&amp;rsquo;t find in the past 30 years says a lot about how government works here.&lt;/p&gt;
@@ -182,7 +182,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17496/</link>
+      <link>http://localhost:1313/dingen/2024/03/17496/</link>
       <pubDate>Mon, 11 Mar 2024 18:30:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17496</guid> 
       <description>&lt;p&gt;Come to Berlin, they said. There&amp;rsquo;s lots of space here, they said.&lt;/p&gt;
@@ -191,7 +191,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17492/</link>
+      <link>http://localhost:1313/dingen/2024/03/17492/</link>
       <pubDate>Sun, 10 Mar 2024 12:40:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17492</guid> 
       <description>&lt;p&gt;I found a new German podcast crush in Hart Unfair which is my favorite format: three people (Anna Dushime, Yelda Türkmen and Ari Christmann) rambling through one another but in a way that&amp;rsquo;s funny, intelligent and diverse. It&amp;rsquo;s a shame that they publish so irregularly that I can&amp;rsquo;t tell if the podcast is dead or not.&lt;/p&gt;
@@ -199,7 +199,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17479/</link>
+      <link>http://localhost:1313/dingen/2024/03/17479/</link>
       <pubDate>Sun, 10 Mar 2024 09:36:51 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17479</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/ProgrammerDude/status/1758148576134177246&#34;&gt;https://twitter.com/ProgrammerDude/status/1758148576134177246&lt;/a&gt;&lt;/p&gt;
@@ -208,19 +208,19 @@
     </item>
     <item>
       <title>SPY x Family - Das Leben der Anderen</title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17455/</link>
+      <link>http://localhost:1313/dingen/2024/03/17455/</link>
       <pubDate>Sat, 02 Mar 2024 00:03:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17455</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m enjoying another light season of &lt;a href=&#34;https://en.wikipedia.org/wiki/Spy_%C3%83%E2%80%94_Family&#34;&gt;SPY x FAMILY&lt;/a&gt;. It&amp;rsquo;s a light anime whose premise is that of a spy (Loid) who needs live in deep cover in hostile territory and forms a family of convenience. He finds a woman (Yor) who&amp;rsquo;s secretly an assassin also in need of cover and an orphan child (Anya) who&amp;rsquo;s a telepath. It&amp;rsquo;s great fun.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/03/IMG%5F5912.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_5912.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Season 2 goes on with the story arc and some filler segments thrown in between. Of these, in the third episode ( &lt;a href=&#34;https://trakt.tv/shows/spy-x-family/seasons/2/episodes/3&#34;&gt;S02E03&lt;/a&gt;) they pull off a stunning take on &lt;a href=&#34;https://letterboxd.com/film/the-lives-of-others/&#34;&gt;“Das Leben der Anderen”&lt;/a&gt;. I was watching it and by the time it was over I couldn&amp;rsquo;t believe they&amp;rsquo;d done this.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/02/17438/</link>
+      <link>http://localhost:1313/dingen/2024/02/17438/</link>
       <pubDate>Wed, 28 Feb 2024 12:40:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17438</guid> 
       <description>&lt;p&gt;As somebody who dove pretty deep into how to run a creative agency in a way that&amp;rsquo;s innovative and goes against the grain, I really like what Village One here in Berlin are doing with their cooperative approach.&lt;/p&gt;
@@ -229,7 +229,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/01/17418/</link>
+      <link>http://localhost:1313/dingen/2024/01/17418/</link>
       <pubDate>Wed, 17 Jan 2024 17:44:07 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17418</guid> 
       <description>&lt;p&gt;I don&amp;rsquo;t really buy this idea that Japan&amp;rsquo;s urban environment has been the key factor to create its immense specialization in crafts. Compare it to Berlin where rents have been incredibly cheap and zoning mixed but without the necessary human capital the only thing those factors generated were cheap bars.&lt;/p&gt;
@@ -237,7 +237,7 @@
     </item>
     <item>
       <title>2023 Year in Review</title>
-      <link>http://localhost:62818/dingen/dingen/2024/01/2023-year-in-review/</link>
+      <link>http://localhost:1313/dingen/2024/01/2023-year-in-review/</link>
       <pubDate>Mon, 01 Jan 2024 01:49:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17382</guid> 
       <description>&lt;p&gt;Looking back on 2023 I can say that we made lemonade out of an overall pretty shit year.&lt;/p&gt;
@@ -245,7 +245,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/12/17357/</link>
+      <link>http://localhost:1313/dingen/2023/12/17357/</link>
       <pubDate>Tue, 26 Dec 2023 11:37:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17357</guid> 
       <description>&lt;p&gt;The last episode of Spaßbremse treats the history of German-Israeli relations and clarifies what the strategic foundations of the current complex are: white-washing and moral standing for one side and economic reparations and industrial capacity building for the other.&lt;/p&gt;
@@ -254,14 +254,14 @@
     </item>
     <item>
       <title>Fragment Ones and Tooze: Live from Berlin - Lindner</title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/fragment-ones-and-tooze-live-from-berlin-lindner/</link>
+      <link>http://localhost:1313/dingen/2023/11/fragment-ones-and-tooze-live-from-berlin-lindner/</link>
       <pubDate>Fri, 24 Nov 2023 12:06:31 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17325</guid> 
       <description>&lt;p&gt;Given the current developments around the German debt brake, I think it&amp;rsquo;s good to refer to this bit about German financial politics and Adam Tooze&amp;rsquo;s initial prediction ( &lt;a href=&#34;https://www.ft.com/content/8edcb755-b05a-4ee4-940c-f3660d4240c5&#34;&gt;FT&lt;/a&gt;, &lt;a href=&#34;https://adamtooze.com/2021/10/27/it-would-be-a-mistake-to-grant-him-his-wish/&#34;&gt;Zeit&lt;/a&gt;) that Christian Lindner as finance minister would not be good.&lt;/p&gt;
 &lt;p&gt;Fragment from around 45:00 clipped below:&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/11/volkskorper.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;volkskorper.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -272,7 +272,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17317/</link>
+      <link>http://localhost:1313/dingen/2023/11/17317/</link>
       <pubDate>Mon, 20 Nov 2023 09:12:32 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17317</guid> 
       <description>&lt;p&gt;An unexpected deep dive on the problem of unaffordable and underutilized land as it relates to Berlin. It manages to even sneak in some mentions of land reform and land value taxes (which would solve this problem pretty much instantaneously).&lt;/p&gt;
@@ -280,7 +280,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17312/</link>
+      <link>http://localhost:1313/dingen/2023/11/17312/</link>
       <pubDate>Sat, 18 Nov 2023 15:24:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17312</guid> 
       <description>&lt;p&gt;Finding time for side projects and putting out new versions of Cuppings is difficult as always, but I&amp;rsquo;m glad we have a new version out this week again.&lt;/p&gt;
@@ -289,7 +289,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17308/</link>
+      <link>http://localhost:1313/dingen/2023/11/17308/</link>
       <pubDate>Tue, 07 Nov 2023 17:45:54 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17308</guid> 
       <description>&lt;blockquote&gt;
@@ -297,7 +297,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/05/17185/</link>
+      <link>http://localhost:1313/dingen/2023/05/17185/</link>
       <pubDate>Sun, 21 May 2023 22:23:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17185</guid> 
       <description>&lt;p&gt;In this podcast episode a court case is treated (with the public prosecutor) where during a fluke accident a girl riding along on a bike is killed by a bus in Amsterdam.&lt;/p&gt;
@@ -306,7 +306,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/17095/</link>
+      <link>http://localhost:1313/dingen/2023/03/17095/</link>
       <pubDate>Sat, 04 Mar 2023 07:55:35 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17095</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s super lovely that Berlin has a lab which does these kind of user tested innovations on city processes. The work that needs to be done is written up here and it&amp;rsquo;s relatively straight-forward (there are just no short-cuts).&lt;/p&gt;
@@ -314,7 +314,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/17033/</link>
+      <link>http://localhost:1313/dingen/2023/02/17033/</link>
       <pubDate>Sat, 11 Feb 2023 09:42:51 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17033</guid> 
       <description>&lt;p&gt;Important prototyping work to show how German government forms can be much better and much friendlier than what&amp;rsquo;s out there right now.&lt;/p&gt;
@@ -323,7 +323,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/17010/</link>
+      <link>http://localhost:1313/dingen/2023/02/17010/</link>
       <pubDate>Thu, 02 Feb 2023 23:26:15 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17010</guid> 
       <description>&lt;p&gt;For my notes, a bunch of receipts about just one of the dark pasts of the German Green Party.&lt;/p&gt;
@@ -331,7 +331,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/01/16991/</link>
+      <link>http://localhost:1313/dingen/2023/01/16991/</link>
       <pubDate>Mon, 30 Jan 2023 11:31:54 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16991</guid> 
       <description>&lt;p&gt;Always nice to have the company you work for be covered by the local newspaper.&lt;/p&gt;
@@ -339,7 +339,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/01/16977/</link>
+      <link>http://localhost:1313/dingen/2023/01/16977/</link>
       <pubDate>Tue, 24 Jan 2023 11:28:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16977</guid> 
       <description>&lt;p&gt;Love to see these updates from the German Digital Service. Not sure everybody knows that that organization exists now and what they&amp;rsquo;re busy with.&lt;/p&gt;
@@ -348,7 +348,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/09/16854/</link>
+      <link>http://localhost:1313/dingen/2022/09/16854/</link>
       <pubDate>Sun, 25 Sep 2022 11:55:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16854</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/SteveFi04457564/status/1558065690820624387&#34;&gt;https://twitter.com/SteveFi04457564/status/1558065690820624387&lt;/a&gt;&lt;/p&gt;
@@ -358,7 +358,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/04/16785/</link>
+      <link>http://localhost:1313/dingen/2022/04/16785/</link>
       <pubDate>Wed, 13 Apr 2022 19:52:26 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16785</guid> 
       <description>&lt;p&gt;Lots of hours put in over the past year to achieve this and the only thing it means is that I get to put lots more hours in. Let&amp;rsquo;s go!&lt;/p&gt;
@@ -366,7 +366,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/16739/</link>
+      <link>http://localhost:1313/dingen/2022/03/16739/</link>
       <pubDate>Mon, 07 Mar 2022 12:11:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16739</guid> 
       <description>&lt;p&gt;Not verified but an interesting data point in how German civil servants don&amp;rsquo;t have that attractive a position and can get better deals working indirectly for the people &amp;lsquo;at the engines of the global economy&amp;rsquo;.&lt;/p&gt;
@@ -374,7 +374,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Property dealings in Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/16736/</link>
+      <link>http://localhost:1313/dingen/2022/03/16736/</link>
       <pubDate>Mon, 07 Mar 2022 12:01:57 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16736</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://parisinstitute.org/the-real-academy-in-exile/#ref1&#34;&gt;https://parisinstitute.org/the-real-academy-in-exile/#ref1&lt;/a&gt;&lt;/p&gt;
@@ -382,7 +382,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/16718/</link>
+      <link>http://localhost:1313/dingen/2022/03/16718/</link>
       <pubDate>Sun, 06 Mar 2022 21:45:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16718</guid> 
       <description>&lt;p&gt;I was on a Dutch podcast about working in Germany: FSG podcast over de Duitse digitale achterstand with Derk Marseille and Ruurd van der Weide.&lt;/p&gt;
@@ -390,7 +390,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Year Note 2021</title>
-      <link>http://localhost:62818/dingen/dingen/2022/01/year-note-2021/</link>
+      <link>http://localhost:1313/dingen/2022/01/year-note-2021/</link>
       <pubDate>Mon, 10 Jan 2022 09:14:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16685</guid> 
       <description>&lt;blockquote&gt;
@@ -402,27 +402,27 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Update on the construction site</title>
-      <link>http://localhost:62818/dingen/dingen/2021/12/update-on-the-construction-site/</link>
+      <link>http://localhost:1313/dingen/2021/12/update-on-the-construction-site/</link>
       <pubDate>Tue, 21 Dec 2021 22:03:35 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16655</guid> 
-      <description>&lt;p&gt;The &lt;a href=&#34;http://localhost:62818/dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/&#34;&gt;construction site next&lt;/a&gt; to our house is still spewing forth noise and fumes at all hours. The city is unable to do anything here it seems and calling the people at the construction site we are met with nothing but deflection and lies.&lt;/p&gt;
+      <description>&lt;p&gt;The &lt;a href=&#34;http://localhost:1313/dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/&#34;&gt;construction site next&lt;/a&gt; to our house is still spewing forth noise and fumes at all hours. The city is unable to do anything here it seems and calling the people at the construction site we are met with nothing but deflection and lies.&lt;/p&gt;
 &lt;p&gt;They have built a housing around the heater which has maybe reduced the noise by 5dB and we are still left with a value that is far above what is allowed here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chasing down noise complaints for the construction site next to our house</title>
-      <link>http://localhost:62818/dingen/dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/</link>
+      <link>http://localhost:1313/dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/</link>
       <pubDate>Sun, 14 Nov 2021 21:35:14 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16630</guid> 
       <description>&lt;p&gt;The construction site that surrounds our house has started a bunch of space heaters this week. The devices had been there for a while but only started being annoying now that they&amp;rsquo;re turned on. These things run day and night, they make a ridiculous amount of noise (some 60 dB at our window) and because they burns diesel oil they also pollute and stink up the entire courtyard.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2021/11/IMG%5F1458-1.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_1458-1.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;We are used to some noise and annoyance during the day time with this construction site. Some of the noise we went through was truly unbelievable and for some periods we have received a reduction in our rent. We thought that with most external construction being done, we would finally be able to get some peace but now these things are running and will probably run all winter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tram lines</title>
-      <link>http://localhost:62818/dingen/dingen/2021/08/tram-lines/</link>
+      <link>http://localhost:1313/dingen/2021/08/tram-lines/</link>
       <pubDate>Sat, 28 Aug 2021 08:00:23 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16583</guid> 
       <description>&lt;p&gt;Looking at this map of expansions we may have a tram line in front of our house in the near future.&lt;/p&gt;
@@ -430,7 +430,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/07/16538/</link>
+      <link>http://localhost:1313/dingen/2021/07/16538/</link>
       <pubDate>Sat, 03 Jul 2021 15:57:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16538</guid> 
       <description>&lt;blockquote&gt;
@@ -441,7 +441,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/03/16461/</link>
+      <link>http://localhost:1313/dingen/2021/03/16461/</link>
       <pubDate>Wed, 17 Mar 2021 10:49:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16461</guid> 
       <description>&lt;p&gt;Another big volley towards more tenants’ rights in Berlin that if won will provoke a vast shift in thinking around housing politics both locally and globally.&lt;/p&gt;
@@ -451,7 +451,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/09/16310/</link>
+      <link>http://localhost:1313/dingen/2020/09/16310/</link>
       <pubDate>Sun, 27 Sep 2020 19:28:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16310</guid> 
       <description>&lt;blockquote&gt;
@@ -461,7 +461,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/07/16145/</link>
+      <link>http://localhost:1313/dingen/2020/07/16145/</link>
       <pubDate>Sun, 12 Jul 2020 10:30:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16145</guid> 
       <description>&lt;p&gt;Some friends of ours have started a coworking space in Berlin hat includes childcare. The space looks great and I think that flexible solutions like this could alleviate a lot of the burden on parents right now.&lt;/p&gt;
@@ -469,7 +469,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/06/16104/</link>
+      <link>http://localhost:1313/dingen/2020/06/16104/</link>
       <pubDate>Fri, 12 Jun 2020 19:00:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16104</guid> 
       <description>&lt;p&gt;I was saddened by reading that Iepe, a Dutch fixture here in Berlin, had passed away suddenly and far too young.&lt;/p&gt;
@@ -477,7 +477,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15896/</link>
+      <link>http://localhost:1313/dingen/2019/11/15896/</link>
       <pubDate>Fri, 29 Nov 2019 08:34:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15896</guid> 
       <description>&lt;p&gt;German publications fail cyclists in all of the ways described here.&lt;/p&gt;
@@ -485,7 +485,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15873/</link>
+      <link>http://localhost:1313/dingen/2019/11/15873/</link>
       <pubDate>Wed, 27 Nov 2019 11:31:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15873</guid> 
       <description>&lt;p&gt;A bunch of incredibly grim stories of people whose lives were destroyed in the DDR.&lt;/p&gt;
@@ -493,7 +493,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15843/</link>
+      <link>http://localhost:1313/dingen/2019/11/15843/</link>
       <pubDate>Mon, 25 Nov 2019 12:33:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15843</guid> 
       <description>&lt;p&gt;English language critique of Turkish rap produced in my backyard here in Berlin. That&amp;rsquo;s the way I like it.&lt;/p&gt;
@@ -501,7 +501,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15839/</link>
+      <link>http://localhost:1313/dingen/2019/11/15839/</link>
       <pubDate>Mon, 25 Nov 2019 12:05:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15839</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been a part of the Berlin Dad&amp;rsquo;s Slack for a while now which is proving to be an essential resource for dads who want to live a balanced life.&lt;/p&gt;
@@ -510,7 +510,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>My easily incensed people</title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/my-easily-incensed-people/</link>
+      <link>http://localhost:1313/dingen/2019/11/my-easily-incensed-people/</link>
       <pubDate>Sat, 16 Nov 2019 13:52:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/2019/11/my-easily-incensed-people/</guid> 
       <description>&lt;p&gt;A Turkish guy in a van turns the corner tight enough to almost run us over. He then stops and pulls down the window: &amp;ldquo;Möchtest du mir etwas sagen?&amp;rdquo;&lt;/p&gt;
@@ -519,7 +519,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15821/</link>
+      <link>http://localhost:1313/dingen/2019/11/15821/</link>
       <pubDate>Sun, 10 Nov 2019 09:36:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15821</guid> 
       <description>&lt;p&gt;Always nice to read a positive career history from somebody, like this one by Alicia Hickey, but especially nice if you&amp;rsquo;re in it named as the team lead who made a crucial suggestion.&lt;/p&gt;
@@ -527,7 +527,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15816/</link>
+      <link>http://localhost:1313/dingen/2019/11/15816/</link>
       <pubDate>Sun, 10 Nov 2019 09:21:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15816</guid> 
       <description>&lt;p&gt;I remember some very early conversations about the Basslet (now Lofelt) and its creative possibilities. Building their own design tools for this medium is a key move and I look forward to trying it out.&lt;/p&gt;
@@ -535,7 +535,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/10/15775/</link>
+      <link>http://localhost:1313/dingen/2019/10/15775/</link>
       <pubDate>Sat, 19 Oct 2019 19:46:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15775</guid> 
       <description>&lt;blockquote&gt;
@@ -547,7 +547,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15688/</link>
+      <link>http://localhost:1313/dingen/2019/09/15688/</link>
       <pubDate>Mon, 09 Sep 2019 21:54:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15688</guid> 
       <description>&lt;p&gt;Berlin is finally thinking of fixing its totally and utterly broken website. That&amp;rsquo;s good news but a shame that we have had to use this monstrosity for the past ten years.&lt;/p&gt;
@@ -555,7 +555,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15664/</link>
+      <link>http://localhost:1313/dingen/2019/09/15664/</link>
       <pubDate>Mon, 02 Sep 2019 22:54:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15664</guid> 
       <description>&lt;p&gt;This lament on SF does not sound that far off from where Berlin is. The city is a lot bigger and less boring, but without measures, it could go the same way when it comes to property prices and hollowing out of public services.&lt;/p&gt;
@@ -563,7 +563,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15659/</link>
+      <link>http://localhost:1313/dingen/2019/09/15659/</link>
       <pubDate>Sun, 01 Sep 2019 19:24:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15659</guid> 
       <description>&lt;p&gt;We were represented at PM Camp last week and here&amp;rsquo;s a blog post (in German) by Alicia, one of my team members about the way we work.&lt;/p&gt;
@@ -571,7 +571,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15655/</link>
+      <link>http://localhost:1313/dingen/2019/09/15655/</link>
       <pubDate>Sun, 01 Sep 2019 19:12:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15655</guid> 
       <description>&lt;p&gt;Berlin is instituting a rent cap which honestly is the only way the city will remain liveable for the majority of its inhabitants.&lt;/p&gt;
@@ -579,7 +579,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Answer GKV Spitzenverband</title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/answer-gkv-spitzenverband/</link>
+      <link>http://localhost:1313/dingen/2019/08/answer-gkv-spitzenverband/</link>
       <pubDate>Sat, 10 Aug 2019 12:31:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15557</guid> 
       <description>&lt;blockquote&gt;
@@ -589,7 +589,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15627/</link>
+      <link>http://localhost:1313/dingen/2019/08/15627/</link>
       <pubDate>Wed, 07 Aug 2019 21:31:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15627</guid> 
       <description>&lt;blockquote&gt;
@@ -600,7 +600,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15612/</link>
+      <link>http://localhost:1313/dingen/2019/08/15612/</link>
       <pubDate>Sun, 04 Aug 2019 11:04:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15612</guid> 
       <description>&lt;p&gt;First I hear about &lt;em&gt;Mauerkrankheit&lt;/em&gt;—and I&amp;rsquo;m not the only one—but a politically triggered rise in mental health problems would explain many things both past and present.&lt;/p&gt;
@@ -608,7 +608,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15598/</link>
+      <link>http://localhost:1313/dingen/2019/08/15598/</link>
       <pubDate>Sat, 03 Aug 2019 22:36:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15598</guid> 
       <description>&lt;p&gt;Berlin right now is the frontline for transportation applications with 4 scooter services alone. I&amp;rsquo;m glad that Jon has made a comprehensive overview of multi-modal transportation apps because I sure as hell wasn&amp;rsquo;t going to have the time for it.&lt;/p&gt;
@@ -616,7 +616,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/07/15577/</link>
+      <link>http://localhost:1313/dingen/2019/07/15577/</link>
       <pubDate>Sun, 14 Jul 2019 12:43:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15577</guid> 
       <description>&lt;p&gt;Cath writes some very salient points about growing into leadership that on the one hand should be more widespread, but on the other hand, everybody will likely have to find out for themselves.&lt;/p&gt;
@@ -625,7 +625,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/07/15572/</link>
+      <link>http://localhost:1313/dingen/2019/07/15572/</link>
       <pubDate>Sun, 07 Jul 2019 19:33:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15572</guid> 
       <description>&lt;p&gt;My foray into local politics showed me that more than anything the Grüne are a party of yuppies without much or any social face behind it.&lt;/p&gt;
@@ -633,7 +633,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Figuring out why there is a shortage of pediatricians</title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/finding-a-pediatrician-in-berlin/</link>
+      <link>http://localhost:1313/dingen/2019/06/finding-a-pediatrician-in-berlin/</link>
       <pubDate>Fri, 21 Jun 2019 11:34:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15529</guid> 
       <description>&lt;p&gt;Just like almost every public service in Berlin the pediatrician situation is absolute squalor. It&amp;rsquo;s impossible to find one who picks up the phone or takes on new patients ((Don&amp;rsquo;t bother tipping me a pediatrician unless you&amp;rsquo;re sure they take new patients.)).&lt;/p&gt;
@@ -641,7 +641,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/15522/</link>
+      <link>http://localhost:1313/dingen/2019/06/15522/</link>
       <pubDate>Sat, 15 Jun 2019 20:48:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15522</guid> 
       <description>&lt;p&gt;Reading about Amsterdam canceling 10&#39;000 parking spaces, does make me feel as if I&amp;rsquo;m living in an idiot&amp;rsquo;s city.&lt;/p&gt;
@@ -649,7 +649,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Living without a car in Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/living-without-a-car-in-berlin/</link>
+      <link>http://localhost:1313/dingen/2019/06/living-without-a-car-in-berlin/</link>
       <pubDate>Sun, 02 Jun 2019 21:47:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15480</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/berlin/comments/bv66jt/senatorin_will_zwangsbvgticket_f%C3%BCr_autofahrer/epnd77d/&#34;&gt;From a thread&lt;/a&gt; about whether it is possible or not to live in Berlin without a car (gasp!). This is what a normal odd day of mine looks like.&lt;/p&gt;
@@ -673,7 +673,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15468/</link>
+      <link>http://localhost:1313/dingen/2019/05/15468/</link>
       <pubDate>Mon, 27 May 2019 22:08:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15468</guid> 
       <description>&lt;p&gt;I had no idea but it seems Berlin has a booming Chinese art scene.&lt;/p&gt;
@@ -681,7 +681,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15437/</link>
+      <link>http://localhost:1313/dingen/2019/05/15437/</link>
       <pubDate>Sun, 26 May 2019 12:15:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15437</guid> 
       <description>&lt;p&gt;Berlin will also regularly call on McKinsey to ‘fix’ its problems. As this description of them giving Puerto Rico the Greece-treatment shows, where they come nothing good will follow.&lt;/p&gt;
@@ -689,7 +689,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15388/</link>
+      <link>http://localhost:1313/dingen/2019/05/15388/</link>
       <pubDate>Sat, 04 May 2019 22:53:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15388</guid> 
       <description>&lt;p&gt;A paean for canteens something of which Berlin has ample for a variety of historic reasons.&lt;/p&gt;
@@ -697,7 +697,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15325/</link>
+      <link>http://localhost:1313/dingen/2019/04/15325/</link>
       <pubDate>Mon, 15 Apr 2019 21:57:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15325</guid> 
       <description>&lt;p&gt;Looking forward to the Micromobility Summit coming to Berlin this year. I hope we manage to have some serious progress on infrastructure and street legal scooters by then.&lt;/p&gt;
@@ -705,7 +705,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15321/</link>
+      <link>http://localhost:1313/dingen/2019/04/15321/</link>
       <pubDate>Mon, 15 Apr 2019 21:50:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15321</guid> 
       <description>&lt;p&gt;Barcelona is implementing a traffic transition we here in Berlin can only dream of.&lt;/p&gt;
@@ -713,7 +713,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15317/</link>
+      <link>http://localhost:1313/dingen/2019/04/15317/</link>
       <pubDate>Mon, 15 Apr 2019 21:45:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15317</guid> 
       <description>&lt;p&gt;Berlin opens its first mobility hub and makes it look about as shabby as the average parking lot in Kreuzberg (which is what it is).&lt;/p&gt;
@@ -721,7 +721,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15313/</link>
+      <link>http://localhost:1313/dingen/2019/04/15313/</link>
       <pubDate>Mon, 15 Apr 2019 21:41:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15313</guid> 
       <description>&lt;p&gt;If Berlin votes to expropriate Deutsche Wohnen, it will be a welcome step towards decommodification of housing. Not to mention the long overdue correction that it will give the local housing market.&lt;/p&gt;
@@ -729,7 +729,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/15300/</link>
+      <link>http://localhost:1313/dingen/2019/03/15300/</link>
       <pubDate>Sun, 31 Mar 2019 22:11:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15300</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ll be proud to live in Berlin when the home owner expropriations are passed and the real estate madness is curtailed.&lt;/p&gt;
@@ -740,7 +740,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Late arrival to VerrÃ¼cktes Blut</title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/late-arrival-to-verrucktes-blut/</link>
+      <link>http://localhost:1313/dingen/2019/03/late-arrival-to-verrucktes-blut/</link>
       <pubDate>Thu, 28 Mar 2019 23:25:22 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=15270</guid> 
       <description>&lt;p&gt;I was supposed to see &lt;a href=&#34;https://gorki.de/index.php/de/verruecktes-blut&#34;&gt;this play&lt;/a&gt; six years ago. Let&amp;rsquo;s say better late than never. Seen Wednesday, March 20th at the Maxim Gorki Theater.&lt;/p&gt;
@@ -748,11 +748,11 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Scooters in Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/scooters-in-berlin/</link>
+      <link>http://localhost:1313/dingen/2019/03/scooters-in-berlin/</link>
       <pubDate>Fri, 15 Mar 2019 22:22:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15255</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/03/JPEG-image-33A58FAF2AC2-1-1.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;JPEG-image-33A58FAF2AC2-1-1.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Scooters are not legal in Germany yet but in select locations like here in Berlin you can try them out on private land.&lt;/p&gt;
@@ -761,7 +761,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/15219/</link>
+      <link>http://localhost:1313/dingen/2019/03/15219/</link>
       <pubDate>Wed, 06 Mar 2019 22:40:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15219</guid> 
       <description>&lt;p&gt;A well written defense by Markthalle IX in Berlin that sounds good but still paints a much more rosy picture of reality than is justified. Let&amp;rsquo;s be totally clear: removing the ALDI will advance the area&amp;rsquo;s socio-economic cleansing.&lt;/p&gt;
@@ -769,7 +769,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/02/15183/</link>
+      <link>http://localhost:1313/dingen/2019/02/15183/</link>
       <pubDate>Wed, 27 Feb 2019 21:52:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15183</guid> 
       <description>&lt;p&gt;A very necessary housing revolution is underway in Berlin that has the potential to halt market forces that are running amok. After Barcelona, now Berlin. Who&amp;rsquo;s next?&lt;/p&gt;
@@ -777,7 +777,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Parklets BergmannstraÃŸe</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/parklets-bergmannstrase/</link>
+      <link>http://localhost:1313/dingen/2018/05/parklets-bergmannstrase/</link>
       <pubDate>Thu, 24 May 2018 18:17:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6007</guid> 
       <description>&lt;p&gt;I got around to visiting the Parklets in the Bergmannstraße. That is a plural because there are two of them during this pilot and that’s it.&lt;/p&gt;
@@ -786,7 +786,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>UIKonf Unconference: Gradual Coordinators</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/uikonf-unconference-gradual-coordinators/</link>
+      <link>http://localhost:1313/dingen/2018/05/uikonf-unconference-gradual-coordinators/</link>
       <pubDate>Thu, 17 May 2018 07:05:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5997</guid> 
       <description>&lt;p&gt;I dropped by the UIKonf unconference yesterday and gave a quick code/architecture talk. Normally I do mostly design/strategy type talks which are a lot more handwavy, so this felt a bit out of my water.&lt;/p&gt;
@@ -795,7 +795,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>The UX and Messaging of Chatbots</title>
-      <link>http://localhost:62818/dingen/dingen/2017/06/the-ux-and-messaging-of-chatbots/</link>
+      <link>http://localhost:1313/dingen/2017/06/the-ux-and-messaging-of-chatbots/</link>
       <pubDate>Mon, 12 Jun 2017 16:05:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5806</guid> 
       <description>&lt;p&gt;One for the archives, this a talk I gave last summer that I thought went pretty well.&lt;/p&gt;
@@ -805,7 +805,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>A possible agenda for a tech workers solidarity movement</title>
-      <link>http://localhost:62818/dingen/dingen/2017/03/a-possible-agenda-for-a-tech-workers-solidarity-movement/</link>
+      <link>http://localhost:1313/dingen/2017/03/a-possible-agenda-for-a-tech-workers-solidarity-movement/</link>
       <pubDate>Thu, 30 Mar 2017 10:32:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5746</guid> 
       <description>&lt;p&gt;The USA example of resistance against Trump in the form of &lt;a href=&#34;https://twitter.com/TechSolidarity&#34;&gt;Tech Solidarity&lt;/a&gt; quickly gained a following in the Netherlands with &lt;a href=&#34;https://www.techsolidarity.nl/&#34;&gt;TechSolidarity.nl&lt;/a&gt; and here in Berlin with some &lt;a href=&#34;https://www.meetup.com/Tech-Solidarity-Berlin/&#34;&gt;Tech-Solidarity-Berlin&lt;/a&gt;. I&amp;rsquo;ve had a small role in both of those groups&amp;rsquo; creation but I&amp;rsquo;m currently not an active participant.&lt;/p&gt;
@@ -813,7 +813,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Welt am Draht</title>
-      <link>http://localhost:62818/dingen/dingen/2016/06/welt-am-draht/</link>
+      <link>http://localhost:1313/dingen/2016/06/welt-am-draht/</link>
       <pubDate>Mon, 27 Jun 2016 08:41:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5587</guid> 
       <description>&lt;p&gt;I strolled through the massive exhibition ‘Welt am Draht’ at Leipziger Strasse this weekend. This is a selection of video art from the massive &lt;a href=&#34;http://www.julia-stoschek-collection.net/&#34;&gt;Julia Stoschek Collection&lt;/a&gt; exhibited in the former Czech Cultural center.&lt;/p&gt;
@@ -821,7 +821,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Why KÃ¤the Kollwitz is one of Germany&#39;s most important figurative artists</title>
-      <link>http://localhost:62818/dingen/dingen/2016/05/kathe-kollwitz-museum-berlin/</link>
+      <link>http://localhost:1313/dingen/2016/05/kathe-kollwitz-museum-berlin/</link>
       <pubDate>Sun, 01 May 2016 16:58:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5567</guid> 
       <description>&lt;p&gt;Today I got a tour of the &lt;a href=&#34;http://www.kaethe-kollwitz.de/&#34;&gt;Käthe Kollwitz museum&lt;/a&gt; in Berlin. I had wanted to visit this museum for a while but this proved the concrete reason to finally go (though &lt;a href=&#34;https://foursquare.com/v/caf%C3%A9-restaurant-wintergarten/4adcda78f964a5205c4621e3&#34;&gt;the café next door&lt;/a&gt; makes some mean pancakes if you find yourself in the area).&lt;/p&gt;
@@ -829,7 +829,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>That spread in Elsevier</title>
-      <link>http://localhost:62818/dingen/dingen/2016/04/that-spread-in-elsevier/</link>
+      <link>http://localhost:1313/dingen/2016/04/that-spread-in-elsevier/</link>
       <pubDate>Tue, 05 Apr 2016 07:35:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5557</guid> 
       <description>&lt;p&gt;I shared it elsewhere but to briefly clip it here as well. I took a bunch more pictures with the photographer that were a lot of fun but of course this is the one they chose.&lt;/p&gt;
@@ -837,7 +837,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Sleep by Max Richter</title>
-      <link>http://localhost:62818/dingen/dingen/2016/03/sleep-by-max-richter/</link>
+      <link>http://localhost:1313/dingen/2016/03/sleep-by-max-richter/</link>
       <pubDate>Fri, 18 Mar 2016 07:33:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5513</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/rknLA&#34;&gt;Kevin&lt;/a&gt; posted yesterday that he had an extra ticket for &lt;a href=&#34;http://www.berlinerfestspiele.de/de/aktuell/festivals/maerzmusik/mm16_programm/mm16_programm_sleep/mm16_Veranstaltungsdetail_sleep_150936.php&#34;&gt;Max Richter&amp;rsquo;s Sleep&lt;/a&gt; at Kraftwerk Berlin yesterday. Without a moment&amp;rsquo;s hesitation I packed my sleeping bag and cycled there with him.&lt;/p&gt;
@@ -845,7 +845,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>New beginnings</title>
-      <link>http://localhost:62818/dingen/dingen/2016/01/new-beginnings/</link>
+      <link>http://localhost:1313/dingen/2016/01/new-beginnings/</link>
       <pubDate>Tue, 05 Jan 2016 22:01:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5465</guid> 
       <description>&lt;p&gt;At the end of 2015 personal and professional changes made it clear to us that we would &lt;a href=&#34;http://whatsthehubbub.nl/blog/2016/01/engaging-sleep-mode/&#34;&gt;not continue Hubbub in its current form&lt;/a&gt;. That realization made me reorient myself in Berlin and refocus on my core skills as an engineer.&lt;/p&gt;
@@ -853,7 +853,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Mann/Frau</title>
-      <link>http://localhost:62818/dingen/dingen/2015/11/mann-frau/</link>
+      <link>http://localhost:1313/dingen/2015/11/mann-frau/</link>
       <pubDate>Thu, 12 Nov 2015 08:29:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5368</guid> 
       <description>&lt;p&gt;The idea that German television is necessarily terrible has to be reconsidered. I&amp;rsquo;ve recently started watching &lt;a href=&#34;https://en.wikipedia.org/wiki/Deutschland_83&#34;&gt;Deutschland &amp;lsquo;83&lt;/a&gt; which is amazing (more on that later) and yesterday I finished season two of the web series Mann/Frau by &lt;a href=&#34;http://www.br.de/puls/index.html&#34;&gt;BR PULS&lt;/a&gt;.&lt;/p&gt;
@@ -861,7 +861,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Les Contes d&#39;Hoffmann</title>
-      <link>http://localhost:62818/dingen/dingen/2015/10/les-contes-dhoffmann/</link>
+      <link>http://localhost:1313/dingen/2015/10/les-contes-dhoffmann/</link>
       <pubDate>Mon, 12 Oct 2015 16:01:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5336</guid> 
       <description>&lt;p&gt;I went to &lt;a href=&#34;https://www.komische-oper-berlin.de/spielplan/les-contes-d-hoffmann/&#34;&gt;“Les Contes d&amp;rsquo;Hoffmann”&lt;/a&gt; yesterday in one of Berlin&amp;rsquo;s three operas thanks to &lt;a href=&#34;http://www.theguardian.com/music/2015/oct/08/berlin-opera-weekend-staatsoper-komische-oper-deutsche-oper&#34;&gt;this piece in the Guardian&lt;/a&gt;. Yes, I have to rely on a British paper for reliable cultural advice about Berlin.&lt;/p&gt;
@@ -869,23 +869,23 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>The redesign of Moritzplatz roundabout</title>
-      <link>http://localhost:62818/dingen/dingen/2015/08/the-redesign-of-moritzplatz-roundabout/</link>
+      <link>http://localhost:1313/dingen/2015/08/the-redesign-of-moritzplatz-roundabout/</link>
       <pubDate>Fri, 14 Aug 2015 09:14:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5237</guid> 
-      <description>&lt;p&gt;This is turning into a traffic blog more than anything else. After taking stock of &lt;a href=&#34;http://localhost:62818/dingen/2015/05/encounter-zone-maasenstrase/&#34;&gt;the plans for the new Maaßenstraße&lt;/a&gt; which is very slowly nearing completion, now let&amp;rsquo;s take a look at another place close to my heart: &lt;a href=&#34;https://www.google.com/maps?q=moritzplatz%2C%20berlin&#34;&gt;Moritzplatz&lt;/a&gt;. The square is right underneath my office and as such I cross it several times daily both on foot and by bike.&lt;/p&gt;
+      <description>&lt;p&gt;This is turning into a traffic blog more than anything else. After taking stock of &lt;a href=&#34;http://localhost:1313/dingen/2015/05/encounter-zone-maasenstrase/&#34;&gt;the plans for the new Maaßenstraße&lt;/a&gt; which is very slowly nearing completion, now let&amp;rsquo;s take a look at another place close to my heart: &lt;a href=&#34;https://www.google.com/maps?q=moritzplatz%2C%20berlin&#34;&gt;Moritzplatz&lt;/a&gt;. The square is right underneath my office and as such I cross it several times daily both on foot and by bike.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/19875484324/in/dateposted-public/&#34; title=&#34;Cyclist get hits on Moritzplatz&#34;&gt;&lt;img alt=&#34;Cyclist get hits on Moritzplatz&#34; loading=&#34;lazy&#34; src=&#34;https://farm1.staticflickr.com/489/19875484324_d2634140ea_z.jpg&#34;&gt;&lt;/a&gt; A couple of weeks ago week an accident took place there where a cyclist was touched by a car. No big deal in his case, but it could have been worse considering the way motorists behave here. I have to pay close attention every time I cross this roundabout otherwise this could happen to me as well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Encounter Zone MaaÃŸenstraÃŸe</title>
-      <link>http://localhost:62818/dingen/dingen/2015/05/encounter-zone-maasenstrase/</link>
+      <link>http://localhost:1313/dingen/2015/05/encounter-zone-maasenstrase/</link>
       <pubDate>Thu, 28 May 2015 13:18:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5215</guid> 
-      <description>&lt;p&gt;Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after &lt;a href=&#34;https://begegnungszonen.berlin.de/&#34;&gt;a public consultation&lt;/a&gt; was finished last year or the year before. I looked around a bit but I couldn&amp;rsquo;t find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got &lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/05/06-Flyer_Begegnungszone_maassenstr.pdf&#34;&gt;a PDF of the plan&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after &lt;a href=&#34;https://begegnungszonen.berlin.de/&#34;&gt;a public consultation&lt;/a&gt; was finished last year or the year before. I looked around a bit but I couldn&amp;rsquo;t find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got &lt;a href=&#34;06-Flyer_Begegnungszone_maassenstr.pdf&#34;&gt;a PDF of the plan&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/17361704548&#34; title=&#34;Redesigning Maaßenstraße by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;Redesigning Maaßenstraße&#34; loading=&#34;lazy&#34; src=&#34;https://c2.staticflickr.com/6/5445/17361704548_cb4465b6a7_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Session of the traffic commission of the Berlin borough of NeukÃ¶lln</title>
-      <link>http://localhost:62818/dingen/dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/</link>
+      <link>http://localhost:1313/dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/</link>
       <pubDate>Thu, 26 Mar 2015 00:24:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5167</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/16579780102&#34; title=&#34;Neukölln committee for traffic meeting by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;Neukölln committee for traffic meeting&#34; loading=&#34;lazy&#34; src=&#34;https://farm8.staticflickr.com/7349/16579780102_6f86aa18a1_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -894,7 +894,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>DOTA night at Meltdown Esports Bar</title>
-      <link>http://localhost:62818/dingen/dingen/2015/02/dota-night-at-meltdown-esports-bar/</link>
+      <link>http://localhost:1313/dingen/2015/02/dota-night-at-meltdown-esports-bar/</link>
       <pubDate>Mon, 23 Feb 2015 17:56:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5164</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/16544389286&#34; title=&#34;Dota night at Meltdown by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;Dota night at Meltdown&#34; loading=&#34;lazy&#34; src=&#34;https://farm8.staticflickr.com/7332/16544389286_480c94066a_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -902,7 +902,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Berlin real estate development Victoriapark edition</title>
-      <link>http://localhost:62818/dingen/dingen/2014/05/berlin-real-estate-development-victoriapark-edition/</link>
+      <link>http://localhost:1313/dingen/2014/05/berlin-real-estate-development-victoriapark-edition/</link>
       <pubDate>Tue, 27 May 2014 12:27:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4988</guid> 
       <description>&lt;p&gt;Last Sunday the Senate&amp;rsquo;s plan to build on Tempelhof was voted off thankfully. Not just to preserve the field which is a one-of-a-kind but to signal to the city that their way of managing construction and housing is not the right way ( &lt;a href=&#34;http://www.spreeblick.com/2014/05/26/als-ginge-es-nur-um-das-tempelhofer-feld/&#34;&gt;a full treatment in German&lt;/a&gt;).&lt;/p&gt;
@@ -910,7 +910,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Tempelhofer Park and the union between local government and property developers</title>
-      <link>http://localhost:62818/dingen/dingen/2014/04/tempelhofer-park-and-the-union-between-local-government-and-property-developers/</link>
+      <link>http://localhost:1313/dingen/2014/04/tempelhofer-park-and-the-union-between-local-government-and-property-developers/</link>
       <pubDate>Fri, 11 Apr 2014 07:59:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4965</guid> 
       <description>&lt;p&gt;There is a shack on Tempelhofer Feld that explains the senate&amp;rsquo;s plans with the park and the construction they plan to do there:&lt;/p&gt;
@@ -919,23 +919,23 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>The Union issue</title>
-      <link>http://localhost:62818/dingen/dingen/2014/04/the-union-issue/</link>
+      <link>http://localhost:1313/dingen/2014/04/the-union-issue/</link>
       <pubDate>Thu, 10 Apr 2014 07:40:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4955</guid> 
       <description>&lt;p&gt;I have been long flummoxed by how terrible the &lt;a href=&#34;http://en.wikipedia.org/wiki/CDU/CSU&#34;&gt;CDU/CSU&lt;/a&gt; complex in Germany is. I could not understand how people could be that stupid and that conservative to the detriment of everybody including themselves. The number of examples is near infinite, but this post was prompted by yesterday&amp;rsquo;s &lt;a href=&#34;http://juberlin.de/2014/04/08/raeumung-des-oranienplatzes-danke-frank/&#34;&gt;action by the young Union Berlin&lt;/a&gt; ((Who will never ever demonstrate except at the opportune moment where they can celebrate the state&amp;rsquo;s boot crushing down on the poor and the oppressed. See &lt;a href=&#34;http://www.vice.com/de/vice-news/berlin-oranienplatz-refugee-camp-raeumung&#34;&gt;this VICE report&lt;/a&gt; to see how incredibly fucked that situation is.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unleash the panther</title>
-      <link>http://localhost:62818/dingen/dingen/2014/02/unleash-the-panther/</link>
+      <link>http://localhost:1313/dingen/2014/02/unleash-the-panther/</link>
       <pubDate>Mon, 17 Feb 2014 10:07:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4879</guid> 
       <description>&lt;p&gt;On Saturday evening I was in the Volksbühne for &lt;a href=&#34;http://www.we-are-stargaze.com/&#34;&gt;Stargaze&lt;/a&gt; among others to see &lt;a href=&#34;http://www.cantusdomus.de/&#34;&gt;Cantus Domus&lt;/a&gt; perform a set with an odd German band called 1000 Robota. After that there was an intermission and the main performance of the evening by Pantha du Prince and The Bell Laboratory.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/12585602454/&#34; title=&#34;Pantha du Prince &amp;amp; The Bell Laboratory by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Pantha du Prince &amp;amp; The Bell Laboratory&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7335/12585602454_c27340d1cc_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The artistic mandate of the evening bordered a bit on the odd. &lt;a href=&#34;http://1000robota.com/&#34;&gt;1000 Robota&lt;/a&gt; is more or less a lunatic act part of the melodramatic German singer-songwriter movement. Pantha du Prince &amp;amp; The Bell Laboratory were forced to interpret &lt;a href=&#34;http://en.wikipedia.org/wiki/Terry_Riley&#34;&gt;Terry Riley&amp;rsquo;s&lt;/a&gt; in C as part of the program. Of course they said it was a great inspiration to them and they did quite a good job of it. After the official part of the program they started making some real music and the entire Volksbühne got to its feet ((I had a similar experience in the same venue where &lt;a href=&#34;http://localhost:62818/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/&#34;&gt;a performance by Apparat was mired by a boring play&lt;/a&gt; about Russian nobility.)). I asked myself: ‘What the fuck were we doing up until this point?’&lt;/p&gt;</description>
+&lt;p&gt;The artistic mandate of the evening bordered a bit on the odd. &lt;a href=&#34;http://1000robota.com/&#34;&gt;1000 Robota&lt;/a&gt; is more or less a lunatic act part of the melodramatic German singer-songwriter movement. Pantha du Prince &amp;amp; The Bell Laboratory were forced to interpret &lt;a href=&#34;http://en.wikipedia.org/wiki/Terry_Riley&#34;&gt;Terry Riley&amp;rsquo;s&lt;/a&gt; in C as part of the program. Of course they said it was a great inspiration to them and they did quite a good job of it. After the official part of the program they started making some real music and the entire Volksbühne got to its feet ((I had a similar experience in the same venue where &lt;a href=&#34;http://localhost:1313/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/&#34;&gt;a performance by Apparat was mired by a boring play&lt;/a&gt; about Russian nobility.)). I asked myself: ‘What the fuck were we doing up until this point?’&lt;/p&gt;</description>
     </item>
     <item>
       <title>Germany still isn&#39;t really a democracy</title>
-      <link>http://localhost:62818/dingen/dingen/2013/10/4806/</link>
+      <link>http://localhost:1313/dingen/2013/10/4806/</link>
       <pubDate>Mon, 28 Oct 2013 16:34:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4806</guid> 
       <description>&lt;p&gt;I tried to register to vote for &lt;a href=&#34;http://www.berliner-energietisch.net/&#34;&gt;the buyback of the Berlin energy grid&lt;/a&gt; and then I got this letter back informing me that I cannot vote.&lt;/p&gt;
@@ -944,7 +944,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 335</title>
-      <link>http://localhost:62818/dingen/dingen/2013/09/week-335/</link>
+      <link>http://localhost:1313/dingen/2013/09/week-335/</link>
       <pubDate>Mon, 30 Sep 2013 09:09:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4782</guid> 
       <description>&lt;p&gt;A funny week and with these weeknotes falling ever further behind it is also becoming increasingly vague what ever did happen back then.&lt;/p&gt;
@@ -952,7 +952,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Symphonie CinÃ©tique</title>
-      <link>http://localhost:62818/dingen/dingen/2013/09/symphonie-cinetique/</link>
+      <link>http://localhost:1313/dingen/2013/09/symphonie-cinetique/</link>
       <pubDate>Mon, 23 Sep 2013 07:29:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4769</guid> 
       <description>&lt;p&gt;Tonight I saw the magical &lt;a href=&#34;http://made-blog.com/2013/09/symphonie-cinetique-the-pieces/&#34;&gt;Symphonie Cinétique works at MADE in Berlin&lt;/a&gt;.&lt;/p&gt;
@@ -960,14 +960,14 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Voting advice for the German elections</title>
-      <link>http://localhost:62818/dingen/dingen/2013/09/voting-advice-for-the-german-elections/</link>
+      <link>http://localhost:1313/dingen/2013/09/voting-advice-for-the-german-elections/</link>
       <pubDate>Fri, 20 Sep 2013 20:50:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4745</guid> 
       <description>&lt;p&gt;I will be gone during the peak of the horrible German election campaigns (in fact I&amp;rsquo;m just back and voting is this Sunday). The only thing that is keeping things somewhat bearable are the low-budget fake news broadcasts by &lt;a href=&#34;https://www.youtube.com/channel/UCIvthGRDv___2gL2JGiDryQ&#34;&gt;Tagesschaum&lt;/a&gt;. I pay taxes in this damned country but I am not eligible to vote. That&amp;rsquo;s why I penned this election advice before I left for those that are. I didn&amp;rsquo;t have time to polish it then but here it is, better late than never.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 334</title>
-      <link>http://localhost:62818/dingen/dingen/2013/09/week-334/</link>
+      <link>http://localhost:1313/dingen/2013/09/week-334/</link>
       <pubDate>Fri, 13 Sep 2013 05:04:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4751</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m writing this from Japan after seeing I have fallen seriously off the blogging horse. I think this particular week I was a bit under the weather but I did manage to get out a minimal prototype for AJI.&lt;/p&gt;
@@ -978,7 +978,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 333</title>
-      <link>http://localhost:62818/dingen/dingen/2013/09/week-333/</link>
+      <link>http://localhost:1313/dingen/2013/09/week-333/</link>
       <pubDate>Thu, 05 Sep 2013 13:23:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4724</guid> 
       <description>&lt;p&gt;This week was a bit more stationary than the last thankfully. I tried out a competitor to &lt;a href=&#34;http://cuppin.gs&#34;&gt;Cuppings&lt;/a&gt; called Bean Seeker which is a rather terrible app.&lt;/p&gt;
@@ -988,7 +988,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 332</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/week-332/</link>
+      <link>http://localhost:1313/dingen/2013/08/week-332/</link>
       <pubDate>Mon, 26 Aug 2013 07:15:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4719</guid> 
       <description>&lt;p&gt;Oh, this week. This week was how to put it rather intense.&lt;/p&gt;
@@ -996,21 +996,21 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>The Declaration for a Better Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/the-declaration-for-a-better-berlin/</link>
+      <link>http://localhost:1313/dingen/2013/08/the-declaration-for-a-better-berlin/</link>
       <pubDate>Fri, 23 Aug 2013 14:29:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4726</guid> 
       <description>&lt;p&gt;Right now in Berlin we are being bombarded with the election campaign but I do not know anybody who looks forward to voting come September. I cannot vote but if I were allowed I would also face a tough choice. None of the options are appealing and what we will get seems so certain and terrible that potential alternatives pale. Germany being as it is the election focuses on the heartland and there isn&amp;rsquo;t that much being discussed that people living in a city can relate to.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 331</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/week-331/</link>
+      <link>http://localhost:1313/dingen/2013/08/week-331/</link>
       <pubDate>Mon, 19 Aug 2013 07:28:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4713</guid> 
       <description>&lt;p&gt;With KANT we were still figuring out mostly what it is we are doing and seeing as we are neither a collective or a coworking space it was up in the air a bit. I &lt;a href=&#34;http://kantberlin.com/offering&#34;&gt;wrote up our offering&lt;/a&gt; in a more straight-forward and streamlined way where you can very easily find what it is you may be looking for. In other news we are discussing next steps for KANT in the future but anything on that order is off for at least 6-12 months.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 329</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/week-329/</link>
+      <link>http://localhost:1313/dingen/2013/08/week-329/</link>
       <pubDate>Mon, 05 Aug 2013 08:28:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4698</guid> 
       <description>&lt;p&gt;Most of the time this week was spent doing heads down work ( &lt;a href=&#34;http://whatsthehubbub.nl/blog/category/weeknotes/&#34;&gt;notes on which elsewhere&lt;/a&gt;). Meeting with &lt;a href=&#34;https://twitter.com/zeigor&#34;&gt;Igor&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/TijmenR&#34;&gt;Tijmen&lt;/a&gt; and hanging out in parks. Summer.&lt;/p&gt;
@@ -1019,7 +1019,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 327: car-freeness, banging Q&amp;A, the fabled Autobahn and the administrative organization of infrastructure</title>
-      <link>http://localhost:62818/dingen/dingen/2013/07/week-327-car-freeness-banging-qa-the-fabled-autobahn-and-the-administrative-organization-of-infrastructure/</link>
+      <link>http://localhost:1313/dingen/2013/07/week-327-car-freeness-banging-qa-the-fabled-autobahn-and-the-administrative-organization-of-infrastructure/</link>
       <pubDate>Tue, 16 Jul 2013 16:03:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4687</guid> 
       <description>&lt;p&gt;This was the week that Kars returned from his honeymoon on Bali. And all for the better as well, because I had worked through most of our stack —we didn&amp;rsquo;t have any running projects at the time— and I was getting so annoyed by &lt;a href=&#34;http://www.dopplr.com/&#34;&gt;Dopplr&amp;rsquo;s&lt;/a&gt; performance that I was about to write a clean implementation of its trip model to store my upcoming travels in.&lt;/p&gt;
@@ -1027,7 +1027,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 326</title>
-      <link>http://localhost:62818/dingen/dingen/2013/07/week-326/</link>
+      <link>http://localhost:1313/dingen/2013/07/week-326/</link>
       <pubDate>Tue, 16 Jul 2013 15:01:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4683</guid> 
       <description>&lt;p&gt;As my work based weeknotes are being catered for rather nicely both at &lt;a href=&#34;http://whatsthehubbub.nl/&#34;&gt;Hubbub&lt;/a&gt; and &lt;a href=&#34;http://kantberlin.com/&#34;&gt;KANT&lt;/a&gt;, I&amp;rsquo;m going to keep writing weeknotes here, but instead of making an overview of the week&amp;rsquo;s work, I&amp;rsquo;ll do some more long form reflecting on stuff that happened. A bit more casual and personal than we are used to.&lt;/p&gt;
@@ -1035,7 +1035,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Autofreies Kreuzberg: ManteuffelstraÃŸe</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/</link>
+      <link>http://localhost:1313/dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/</link>
       <pubDate>Tue, 18 Jun 2013 20:52:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4669</guid> 
       <description>&lt;p&gt;So today I went to the meeting of &lt;a href=&#34;https://twitter.com/autofrei&#34;&gt;Autofreies Kreuzberg&lt;/a&gt; about the traffic calming of the Manteuffelstraße between Skalitzer and Naunynstraße.&lt;/p&gt;
@@ -1044,7 +1044,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Getting building permits in Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/getting-building-permits-in-berlin/</link>
+      <link>http://localhost:1313/dingen/2013/06/getting-building-permits-in-berlin/</link>
       <pubDate>Sat, 15 Jun 2013 13:34:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4660</guid> 
       <description>&lt;p&gt;There&amp;rsquo;s an absurd amount of construction being done in my neighborhood and I presumed that as a resident somewhere you would be entitled to see the changes that are being planned in the area. Not to mention to be able to know the traffic blockades that result from this construction (which almost exclusively seem to black the foot/bike paths.&lt;/p&gt;
@@ -1052,7 +1052,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 323</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/week-323/</link>
+      <link>http://localhost:1313/dingen/2013/06/week-323/</link>
       <pubDate>Mon, 10 Jun 2013 08:01:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4629</guid> 
       <description>&lt;p&gt;This week started with Pentecost. Trying to get stuff done in Germany during the bank holiday flurry that is May is always a challenge. I spent more time working on Cuppings. In all likelihood this app will never make any serious money, but there are other advantages to building apps which may become apparent in the future.&lt;/p&gt;
@@ -1060,16 +1060,16 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Almost hit and run</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/4575/</link>
+      <link>http://localhost:1313/dingen/2013/05/4575/</link>
       <pubDate>Sat, 18 May 2013 15:41:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4575</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-05-18 at 5.33.27 PM&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/05/Screen-Shot-2013-05-18-at-5.33.27-PM.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-05-18 at 5.33.27 PM&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2013/05/4575/Screen-Shot-2013-05-18-at-5.33.27-PM.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The turn above from Rosa-Luxemburg-Straße into Schönhauser Allee yesterday around 19:15 is where I almost got hit by a woman driving a black car with license plates &lt;strong&gt;LDS HS 179&lt;/strong&gt;. Shaken but not too shaken I pursued them up the street to demonstrate my discontent and to write down the plate number.&lt;/p&gt;
 &lt;p&gt;I should have seen that they weren&amp;rsquo;t going to stop though they usually do but this was rather unexpected during a leisurely evening ride where absolutely nothing should have gone wrong.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moving into KANT</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/moving-into-kant/</link>
+      <link>http://localhost:1313/dingen/2013/05/moving-into-kant/</link>
       <pubDate>Mon, 13 May 2013 19:59:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4557</guid> 
       <description>&lt;p&gt;So that cat is out of the bag: I&amp;rsquo;ve taken up residency at KANT, the &lt;a href=&#34;https://foursquare.com/v/kant--kreuzberg-academy-for-nerdery-and-tinkering/51238e70e4b04e6a13aaddc9&#34;&gt;Kreuzberg Academy for Nerdery and Tinkering&lt;/a&gt;. Peter who you may have read before on &lt;a href=&#34;http://www.thewavingcat.com/&#34;&gt;The Waving Cat&lt;/a&gt; just wrote &lt;a href=&#34;http://kantberlin.tumblr.com/post/50347362153/hello-world&#34;&gt;the inaugural post&lt;/a&gt; on our freshly pressed Tumblr (tweets are still &lt;a href=&#34;https://twitter.com/kantberlin&#34;&gt;forthcoming&lt;/a&gt;).&lt;/p&gt;
@@ -1078,7 +1078,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>War and Peace under the shadow of the Apparat</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/</link>
+      <link>http://localhost:1313/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/</link>
       <pubDate>Thu, 09 May 2013 21:02:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4533</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve learned my lessons: I will not go to traditional German theater anymore and I will never again book a play without first checking its duration.&lt;/p&gt;
@@ -1086,7 +1086,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 318</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/week-318/</link>
+      <link>http://localhost:1313/dingen/2013/05/week-318/</link>
       <pubDate>Wed, 08 May 2013 13:26:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4524</guid> 
       <description>&lt;p&gt;Unbelievable how many weeks behind I am on these. That&amp;rsquo;s not wholly intended, but the last couple of weeks have been a bit busier than usual. This was the week of April 15th which I spent mostly in Amsterdam.&lt;/p&gt;
@@ -1097,16 +1097,16 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 317</title>
-      <link>http://localhost:62818/dingen/dingen/2013/04/week-317/</link>
+      <link>http://localhost:1313/dingen/2013/04/week-317/</link>
       <pubDate>Sun, 21 Apr 2013 19:25:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4508</guid> 
-      <description>&lt;p&gt;The week before this on Monday (almost two weeks ago), I went to a lecture by Graham Harman. &lt;a href=&#34;http://localhost:62818/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/&#34;&gt;Notes on that&lt;/a&gt; were blogged in a timely fashion.&lt;/p&gt;
+      <description>&lt;p&gt;The week before this on Monday (almost two weeks ago), I went to a lecture by Graham Harman. &lt;a href=&#34;http://localhost:1313/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/&#34;&gt;Notes on that&lt;/a&gt; were blogged in a timely fashion.&lt;/p&gt;
 &lt;p&gt;That week also involved a one-day trip to Munich to present on the work we did for a client there. More on that on the Hubbub blog in due course.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/8638417758/&#34; title=&#34;My desk optically flipped (not an Instagram filter) by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;My desk optically flipped (not an Instagram filter)&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8110/8638417758_05037692c5_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 316</title>
-      <link>http://localhost:62818/dingen/dingen/2013/04/week-316/</link>
+      <link>http://localhost:1313/dingen/2013/04/week-316/</link>
       <pubDate>Mon, 15 Apr 2013 08:01:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4494</guid> 
       <description>&lt;p&gt;The week before this is getting a bit boring, but as soon as the current project is over I promise that adventures will resume again.&lt;/p&gt;
@@ -1117,14 +1117,14 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Graham Harman at the UniversitÃ¤t der Kunste</title>
-      <link>http://localhost:62818/dingen/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/</link>
+      <link>http://localhost:1313/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/</link>
       <pubDate>Sun, 14 Apr 2013 21:20:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4496</guid> 
       <description>&lt;p&gt;Last Monday I heard &lt;a href=&#34;http://doctorzamalek2.wordpress.com/&#34;&gt;Graham Harman&lt;/a&gt; give &lt;a href=&#34;http://www.flusser-archive.org/publications/internationalflusserlectures&#34;&gt;the International Flusser Lecture&lt;/a&gt; in Berlin. The lecture was in German and for me as a non-native speaker somewhat hard to follow, but the present Germans loved it. ‘The English dominated academia’ seems to be problematic for them ((I have been in that conundrum myself and experienced that talking in English to a traditional German audience results in a &amp;gt; 75% loss of signal and a total negation of empathy.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeks 313-4</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/weeks-313-4/</link>
+      <link>http://localhost:1313/dingen/2013/03/weeks-313-4/</link>
       <pubDate>Mon, 25 Mar 2013 12:27:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4463</guid> 
       <description>&lt;p&gt;Two week notes in one because last week seems to have been too busy to write any.&lt;/p&gt;
@@ -1135,14 +1135,14 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 311</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/week-311/</link>
+      <link>http://localhost:1313/dingen/2013/03/week-311/</link>
       <pubDate>Tue, 05 Mar 2013 10:04:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4385</guid> 
       <description>&lt;p&gt;Last week we were on something of a tear continuously shipping things (it beats continuous integration). As Kars mentioned in &lt;a href=&#34;http://whatsthehubbub.nl/blog/2013/03/week-184/&#34;&gt;the Hubbub weeknotes&lt;/a&gt; I was featured in the rather shiny &lt;a href=&#34;http://thenextweb.com/magazine/&#34;&gt;TNW magazine&lt;/a&gt; about the subject of gamification. Much to my surprise this issue was filled with blabbering by Gabe Zichermann. It&amp;rsquo;s not only that we take issue with the way he approaches games, it looks like everything about the man is shameful. You can &lt;a href=&#34;http://slavin.tumblr.com/post/43893717103/futuristgerd-to-meet-these-needs-we-believe&#34;&gt;read unparalleled levels of douchebaggery over at Kevin Slavin&lt;/a&gt; and to my dismay even &lt;a href=&#34;http://gigaom.com/&#34;&gt;GigaOM&lt;/a&gt; ((I thought GigaOM was a spark of light in the cesspool of tech journalism but it turns out I was wrong.)) is complicit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recess! 4 â€” Glass</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/recess-4-glass/</link>
+      <link>http://localhost:1313/dingen/2013/03/recess-4-glass/</link>
       <pubDate>Fri, 01 Mar 2013 19:37:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4352</guid> 
       <description>&lt;p&gt;Hi Niels &amp;amp; Kars,&lt;/p&gt;
@@ -1150,7 +1150,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 310</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/week-310/</link>
+      <link>http://localhost:1313/dingen/2013/02/week-310/</link>
       <pubDate>Mon, 25 Feb 2013 15:19:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4346</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://twitter.com/thornet/status/303586923719557122&#34;&gt;http://twitter.com/thornet/status/303586923719557122&lt;/a&gt;&lt;/p&gt;
@@ -1162,7 +1162,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>V. in Ballhaus Ost</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/v-in-ballhaus-ost/</link>
+      <link>http://localhost:1313/dingen/2013/02/v-in-ballhaus-ost/</link>
       <pubDate>Sat, 16 Feb 2013 12:57:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4327</guid> 
       <description>&lt;p&gt;I swore to myself never to go to the theater again ((Just after seeing mightysociety10 in Amsterdam.)) which took a lot of the pressure off. But yesterday I did go to see &lt;a href=&#34;http://ballhausost.de/spip.php?article512&#34;&gt;V. in Ballhaus Ost&lt;/a&gt;. The posters hanging around town piqued my interest that a group in Berlin would stage a text by &lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Pynchon&#34;&gt;Thomas Pynchon&lt;/a&gt;. And if anyone should break my rules, it should be me.&lt;/p&gt;
@@ -1170,22 +1170,22 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 307</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/week-307/</link>
+      <link>http://localhost:1313/dingen/2013/02/week-307/</link>
       <pubDate>Wed, 06 Feb 2013 08:09:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4254</guid> 
       <description>&lt;p&gt;Last Monday &lt;a href=&#34;http://uber.com/&#34;&gt;Uber&lt;/a&gt; had drinks here in Berlin and took a complimentary Uber there to chat with their Berlin team. The experience was extremely comfortable but given big city traffic it wasn&amp;rsquo;t very fast ((I could have done the same distance quicker by public transportation and even a well-trained runner may have beat the S Class Mercedes.)). In cities where the cab market is unreliable and corrupt I can definitely imagine the appeal of Uber. People working on transit apps should take note, this is the way it should work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Grindinâ€™ at the office</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/grindin-at-the-office/</link>
+      <link>http://localhost:1313/dingen/2013/02/grindin-at-the-office/</link>
       <pubDate>Tue, 05 Feb 2013 09:28:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4277</guid> 
       <description>&lt;p&gt;Here in the Berlin office we grind by hand:
-&lt;a href=&#34;http://localhost:62818/dingen/2013/02/grindin-at-the-office/grindin-alper/&#34;&gt;&lt;img alt=&#34;Grindin Alper&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/02/Grindin-Alper.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;http://localhost:1313/dingen/2013/02/grindin-at-the-office/grindin-alper/&#34;&gt;&lt;img alt=&#34;Grindin Alper&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2013/02/grindin-at-the-office/Grindin-Alper.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who still thinks in Germany?</title>
-      <link>http://localhost:62818/dingen/dingen/2013/01/who-still-thinks-in-germany/</link>
+      <link>http://localhost:1313/dingen/2013/01/who-still-thinks-in-germany/</link>
       <pubDate>Sat, 26 Jan 2013 10:50:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4066</guid> 
       <description>&lt;p&gt;&lt;em&gt;German friends some things need to be written but don&amp;rsquo;t take them personally. If anything, as I write below, this presents a very large opportunity for who will take it.&lt;/em&gt;&lt;/p&gt;
@@ -1193,7 +1193,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 303: starting everything back up again</title>
-      <link>http://localhost:62818/dingen/dingen/2013/01/week-303-starting-everything-back-up-again/</link>
+      <link>http://localhost:1313/dingen/2013/01/week-303-starting-everything-back-up-again/</link>
       <pubDate>Wed, 09 Jan 2013 07:32:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4172</guid> 
       <description>&lt;p&gt;Nothing much happened during the Christmas week before, so I decided to skip that note. Most of Berlin shut down into a deep hibernation normally only witnessed in student towns.&lt;/p&gt;
@@ -1202,7 +1202,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Mailing books within Germany</title>
-      <link>http://localhost:62818/dingen/dingen/2013/01/mailing-books-within-germany/</link>
+      <link>http://localhost:1313/dingen/2013/01/mailing-books-within-germany/</link>
       <pubDate>Fri, 04 Jan 2013 15:25:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4022</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3200604927/&#34; title=&#34;Amazon.com by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Amazon.com&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.staticflickr.com/3346/3200604927_5508e9388d.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1210,7 +1210,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 300: odds and ends</title>
-      <link>http://localhost:62818/dingen/dingen/2012/12/week-300/</link>
+      <link>http://localhost:1313/dingen/2012/12/week-300/</link>
       <pubDate>Mon, 17 Dec 2012 11:54:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4061</guid> 
       <description>&lt;p&gt;Last week was a week without travel or deadlines so a lot of stuff that had been lying around for too long got done.&lt;/p&gt;
@@ -1219,7 +1219,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Games on Ignite Berlin #3</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/games-on-ignite-berlin-3/</link>
+      <link>http://localhost:1313/dingen/2012/10/games-on-ignite-berlin-3/</link>
       <pubDate>Thu, 25 Oct 2012 11:41:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3965</guid> 
       <description>&lt;p&gt;Last week I &lt;a href=&#34;http://igniteberlin.com/2012/10/alper-cugun-new-games-for-new-cities/&#34;&gt;presented at the Berlin Ignite&lt;/a&gt;. I had been present at the last one and greatly enjoyed, so I looked what I could add to the mix.&lt;/p&gt;
@@ -1227,7 +1227,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Berlin Inefficiences: 1/2 Cents</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/berlin-inefficiences-12-cents/</link>
+      <link>http://localhost:1313/dingen/2012/10/berlin-inefficiences-12-cents/</link>
       <pubDate>Sun, 21 Oct 2012 17:39:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3911</guid> 
       <description>&lt;p&gt;Just to start a series here about ways in which German society could be organized more sensibly ((Paraphrasing Harry Potter from the Methods of Rationality: “I don&amp;rsquo;t want to rule the universe. I just think it could be more sensibly organised.”)) ((Also I need to document this somewhere to get it out of my head.)).&lt;/p&gt;
@@ -1236,7 +1236,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Conquest of the Useless</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/conquest-of-the-useless/</link>
+      <link>http://localhost:1313/dingen/2012/10/conquest-of-the-useless/</link>
       <pubDate>Sat, 20 Oct 2012 11:04:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3951</guid> 
       <description>&lt;p&gt;Yesterday we went to see Werner Herzog read from his own work in &lt;a href=&#34;http://www.volksbuehne-berlin.de/praxis/eroberung_des_nutzlosen/&#34;&gt;‘Erroberung des Nutzlosen’&lt;/a&gt; at the Volksbühne. While an impressive display of authorship my enjoyment of the performance was hampered by me having no knowledge of his movies and a recent aversion towards the theater.&lt;/p&gt;
@@ -1244,7 +1244,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>The Selim Varol Collection</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/the-selim-varol-collection/</link>
+      <link>http://localhost:1313/dingen/2012/10/the-selim-varol-collection/</link>
       <pubDate>Fri, 19 Oct 2012 17:05:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3943</guid> 
       <description>&lt;p&gt;Last Saturday I made it out to the penultimate day of the exhibition of the &lt;a href=&#34;https://twitter.com/www_toykio_com&#34;&gt;Selim Varol&lt;/a&gt; Collection in the &lt;a href=&#34;http://www.me-berlin.com/&#34;&gt;me collectors room&lt;/a&gt; here in Berlin. I&amp;rsquo;m glad I did. This was one of the most complete and stunning collections of contemporary toys and subversive art on display anywhere.&lt;/p&gt;
@@ -1252,7 +1252,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>PIVOT over Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2012/09/pivot-over-berlin/</link>
+      <link>http://localhost:1313/dingen/2012/09/pivot-over-berlin/</link>
       <pubDate>Thu, 27 Sep 2012 20:17:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3890</guid> 
       <description>&lt;p&gt;I biked over tonight to see the installation &lt;a href=&#34;http://fonik.dk/works/pivot.html&#34;&gt;PIVOT by Jacob Kirkegaard&lt;/a&gt; at the leap in Berlin ((In the Berlin Carré, which is quite a bit different from the Amsterdam Carré. That I can assure you.)) before it finishes tomorrow.&lt;/p&gt;
@@ -1260,7 +1260,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 287: kohi, praxis</title>
-      <link>http://localhost:62818/dingen/dingen/2012/09/week-287-kohi-praxis/</link>
+      <link>http://localhost:1313/dingen/2012/09/week-287-kohi-praxis/</link>
       <pubDate>Mon, 17 Sep 2012 16:21:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3872</guid> 
       <description>&lt;p&gt;Work on the &lt;a href=&#34;http://playingwithpigs.nl/&#34;&gt;Pigs&lt;/a&gt; continues though my part is sort of finished now. The rest of the team is very busy getting the thing into the stable.&lt;/p&gt;
@@ -1269,7 +1269,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 282: back in Berlin, street games at Play Publik</title>
-      <link>http://localhost:62818/dingen/dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/</link>
+      <link>http://localhost:1313/dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/</link>
       <pubDate>Sat, 18 Aug 2012 08:00:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3775</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/7724995406/&#34; title=&#34;Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8423/7724995406_bc89014832.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1277,14 +1277,14 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Het BMW Guggenheim Lab in Berlijn</title>
-      <link>http://localhost:62818/dingen/dingen/2012/08/het-bmw-guggenheim-lab-in-berlijn/</link>
+      <link>http://localhost:1313/dingen/2012/08/het-bmw-guggenheim-lab-in-berlijn/</link>
       <pubDate>Fri, 17 Aug 2012 12:43:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3781</guid> 
       <description>&lt;p&gt;Geconfronteerd met het feit dat de meeste dertigers die in de stad wonen geen auto meer willen hebben en veel twintigers niet eens meer hun rijbewijs halen, zetten automakers zichzelf opnieuw in de markt. Ze zijn niet meer verkopers van een statussymbool, maar aanbieders van vervoersoplossingen in een toekomstvisie waarin de auto een plek heeft naast de fiets, het openbaar vervoer en alle andere dingen die steden leuk maken. Audi komt in Londen binnenkort met haar &lt;a href=&#34;http://www.audi.co.uk/audi-innovation/audi-city.html&#34;&gt;Audicity&lt;/a&gt; en BMW toert &lt;a href=&#34;http://www.bmwguggenheimlab.org/&#34;&gt;in samenwerking met het Guggenheim&lt;/a&gt; langs de wereld met haar lab. Eerst New York, nu Berlijn en straks in Mumbai. (Daimler is MIA.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Protests on Kotti against rent rises</title>
-      <link>http://localhost:62818/dingen/dingen/2012/05/protests-on-kotti-against-rent-rises/</link>
+      <link>http://localhost:1313/dingen/2012/05/protests-on-kotti-against-rent-rises/</link>
       <pubDate>Wed, 30 May 2012 17:18:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3573</guid> 
       <description>&lt;p&gt;Today I wandered over to the rent increase protest camp on Kottbusser Tor. Some initial unformed thoughts.&lt;/p&gt;
@@ -1293,7 +1293,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 267: Hack and Tell, Thinkup, Gesellschaft im digitalen Wandel, Taobao and Gallery Weekend</title>
-      <link>http://localhost:62818/dingen/dingen/2012/05/week-267-hack-and-tell-thinkup-gesellschaft-im-digitalen-wandel-taobao-and-gallery-weekend/</link>
+      <link>http://localhost:1313/dingen/2012/05/week-267-hack-and-tell-thinkup-gesellschaft-im-digitalen-wandel-taobao-and-gallery-weekend/</link>
       <pubDate>Fri, 04 May 2012 07:46:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3531</guid> 
       <description>&lt;p&gt;I got a bunch of accessories for the office among which a bike stand:
@@ -1304,7 +1304,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Week 265: Tatort debate, presentations, writing about theater, reading</title>
-      <link>http://localhost:62818/dingen/dingen/2012/04/week-265-tatort-debate-presentations-writing-about-theater-reading/</link>
+      <link>http://localhost:1313/dingen/2012/04/week-265-tatort-debate-presentations-writing-about-theater-reading/</link>
       <pubDate>Mon, 23 Apr 2012 11:33:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3519</guid> 
       <description>&lt;p&gt;The week before last (I&amp;rsquo;m running one week behind), was a good weak. Easter Monday was spent cleaning up the house which is now finally fully operational and fit to live in.&lt;/p&gt;
@@ -1314,7 +1314,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>Blind Sequence Trust</title>
-      <link>http://localhost:62818/dingen/dingen/2012/04/blind-sequence-trust/</link>
+      <link>http://localhost:1313/dingen/2012/04/blind-sequence-trust/</link>
       <pubDate>Thu, 12 Apr 2012 17:03:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3503</guid> 
       <description>&lt;p&gt;De serie video&amp;rsquo;s &lt;a href=&#34;http://www.dam-berlin.de/mlExhibitions-pa-showpage-pid-1-newlang-english.html&#34;&gt;Blind Sequence Trust&lt;/a&gt; van kunstenaar &lt;a href=&#34;http://www.kubasik.biz/&#34;&gt;Joan Leandre&lt;/a&gt; speelt in DAM nog tot en met 5 mei.&lt;/p&gt;
@@ -1323,17 +1323,17 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
     </item>
     <item>
       <title>What the SchaubÃ¼hne is about</title>
-      <link>http://localhost:62818/dingen/dingen/2012/04/what-the-schaubuhne-is-about/</link>
+      <link>http://localhost:1313/dingen/2012/04/what-the-schaubuhne-is-about/</link>
       <pubDate>Thu, 12 Apr 2012 08:10:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3420</guid> 
       <description>&lt;p&gt;Yesterday night I went to see &lt;a href=&#34;http://www.schaubuehne.de/de_DE/program/detail/10489810&#34;&gt;Maß für Maß&lt;/a&gt; (Measure for Measure by Shakespeare) at die Schaubühne here in Berlin and it marked the first occasion where I saw a play directed by the intendant of that theater Thomas Ostermeier himself (see &lt;a href=&#34;http://www.guardian.co.uk/stage/2011/nov/13/thomas-ostermeier-hamlet-schaubuhne&#34;&gt;this Guardian piece&lt;/a&gt; for a bit of background).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/mass-fur-mass.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/mass-fur-mass.jpg&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;mass-fur-mass.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2012/04/what-the-schaubuhne-is-about/mass-fur-mass.jpg&#34;&gt;&lt;/a&gt;
 Picture by Arno Declair&lt;/p&gt;
 &lt;p&gt;Up until that moment I had seen lots of pieces by other directors at the same house which were —I&amp;rsquo;m afraid to say— quite boring, almost all except for this one: &lt;a href=&#34;http://www.schaubuehne.de/de_DE/program/repertoire/577997&#34;&gt;Die Macht der Finsternis&lt;/a&gt; by Michael Thalheimer. The dance pieces that Falk Richter makes together with Anouk van Dijk are also very much worth watching, but not theater really.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Dutch theater debate in Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2012/04/a-dutch-theater-debate-in-berlin/</link>
+      <link>http://localhost:1313/dingen/2012/04/a-dutch-theater-debate-in-berlin/</link>
       <pubDate>Wed, 11 Apr 2012 17:45:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3424</guid> 
       <description>&lt;p&gt;A week or two ago I attended a discussion at the Deutsches Theater &lt;a href=&#34;http://www.deutschestheater.de/spielplan/spielplan/holland_in_not/&#34;&gt;‘Holland in Not’&lt;/a&gt; that was organized because of &lt;a href=&#34;http://www.spiegel.de/spiegel/vorab/0,1518,820528,00.html&#34;&gt;a recently published book “Der Kulturinfarkt, vom Allem zu viel und überall das Gleiche”&lt;/a&gt; that proposed to close half of all theaters in Germany.&lt;/p&gt;
@@ -1341,7 +1341,7 @@ Picture by Arno Declair&lt;/p&gt;
     </item>
     <item>
       <title>Week 264: playable prototypes and Open State</title>
-      <link>http://localhost:62818/dingen/dingen/2012/04/week-264-playable-prototypes-and-open-state/</link>
+      <link>http://localhost:1313/dingen/2012/04/week-264-playable-prototypes-and-open-state/</link>
       <pubDate>Wed, 11 Apr 2012 08:12:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3476</guid> 
       <description>&lt;p&gt;Last week was crazy hectic, notwithstanding the fact that I was ill at the same time. Sickness and deadlines are not fun, but thankfully both were survived.&lt;/p&gt;
@@ -1351,24 +1351,24 @@ Picture by Arno Declair&lt;/p&gt;
     </item>
     <item>
       <title>[unnamed] is the best kept secret of Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2012/04/unnamed-is-the-best-kept-secret-of-berlin/</link>
+      <link>http://localhost:1313/dingen/2012/04/unnamed-is-the-best-kept-secret-of-berlin/</link>
       <pubDate>Mon, 02 Apr 2012 07:42:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3305</guid> 
       <description>&lt;p&gt;We live in perhaps one of the nicest parts of Berlin I am finding out. It has every thinkable amenity: highly specialized stores, a diverse assortment of restaurants and cafés with some real gems. Our house is smack in the center of this in walking distance of three major U lines. If you talked to me recently you probably know where this is at, but for the purpose of this blogpost I&amp;rsquo;m going to play mum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Toneelgroep Amsterdam - Husbands</title>
-      <link>http://localhost:62818/dingen/dingen/2012/03/toneelgroep-amsterdam-husbands/</link>
+      <link>http://localhost:1313/dingen/2012/03/toneelgroep-amsterdam-husbands/</link>
       <pubDate>Tue, 13 Mar 2012 13:20:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3389</guid> 
       <description>&lt;p&gt;Last weekend I saw &lt;a href=&#34;http://www.tga.nl/default.asp?path=h8ql0lx8&#34;&gt;Husbands&lt;/a&gt; by &lt;a href=&#34;http://www.tga.nl/&#34;&gt;Toneelgroep Amsterdam&lt;/a&gt; director Ivo van Hove in the Schaubühne in Berlin. I was not unequivocally enthusiastic about the play, though it has a boisterous quality that has stayed with me these past days.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/husbands.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/husbands-300x199.jpg&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;husbands.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2012/03/toneelgroep-amsterdam-husbands/husbands-300x199.jpg&#34;&gt;&lt;/a&gt;
 Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt;Jan Versweyveld&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Germans on the other hand have not deigned to give the play five minutes before deciding it is trash, see &lt;a href=&#34;http://www.freitag.de/community/blogs/juloeffl/find-4--husbands&#34;&gt;Jule Löffler for Freitag&lt;/a&gt; and &lt;a href=&#34;http://stagescreen.wordpress.com/2012/03/10/manner-am-rande-des-nervenzusammenbruchs/&#34;&gt;Sascha Krieger&lt;/a&gt;. They stumble over each other and their poorly worded mischaracterizations to denounce the play, calling it boring, grotesque and poorly founded.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Administrative No-ops</title>
-      <link>http://localhost:62818/dingen/dingen/2012/02/administrative-no-ops/</link>
+      <link>http://localhost:1313/dingen/2012/02/administrative-no-ops/</link>
       <pubDate>Mon, 27 Feb 2012 11:33:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3365</guid> 
       <description>&lt;p&gt;Last week Peter Robinett sent me a link to &lt;a href=&#34;http://www.nytimes.com/2012/02/23/business/global/in-germany-a-limp-domestic-economy-stifled-by-regulation.html?_r=1&amp;amp;pagewanted=all&#34;&gt;this Times article&lt;/a&gt; that would seem a bit far fetched if it wasn&amp;rsquo;t mostly true. The headline (“a Limp Domestic Economy”) doesn&amp;rsquo;t really cover the article because it describes how massively things have improved in Germany. If I can believe stories, the situation here used to be far far worse. That however is no excuse.&lt;/p&gt;
@@ -1376,7 +1376,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>A deeper simulation fever (at the Berliner GesprÃ¤che)</title>
-      <link>http://localhost:62818/dingen/dingen/2012/02/a-deeper-simulation-fever-at-the-berliner-gesprache/</link>
+      <link>http://localhost:1313/dingen/2012/02/a-deeper-simulation-fever-at-the-berliner-gesprache/</link>
       <pubDate>Tue, 14 Feb 2012 16:07:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3318</guid> 
       <description>&lt;p&gt;Last Wednesday I was at a gathering by the &lt;a href=&#34;http://hiig.de/&#34;&gt;Institue for Internet and Society&lt;/a&gt; here in Berlin in collaboration with Deutschlandfunk called &lt;a href=&#34;http://hiig.de/2012/02/10/%C2%BBberliner-gespr%C3%A4che%C2%AB-zu-internet-und-gesellschaft/&#34;&gt;“Berliner Gespräche”&lt;/a&gt; about how the internet influences society.&lt;/p&gt;
@@ -1385,16 +1385,16 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Working theory regarding bureaucracy</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/working-theory-regarding-bureaucracy/</link>
+      <link>http://localhost:1313/dingen/2012/01/working-theory-regarding-bureaucracy/</link>
       <pubDate>Fri, 03 Feb 2012 16:32:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3277</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/6719904761/&#34; title=&#34;German form terror by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;German form terror&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7167/6719904761_3ba1c56336.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m revising my working theory for Germany based on experiences from last week and other things that have happened. My old one on &lt;a href=&#34;http://localhost:62818/dingen/2011/12/working-theory-for-germany/&#34;&gt;Germany&amp;rsquo;s attitude towards modernity&lt;/a&gt; still holds, but talking with open government activists and my experiences with government here, have prompted the following.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m revising my working theory for Germany based on experiences from last week and other things that have happened. My old one on &lt;a href=&#34;http://localhost:1313/dingen/2011/12/working-theory-for-germany/&#34;&gt;Germany&amp;rsquo;s attitude towards modernity&lt;/a&gt; still holds, but talking with open government activists and my experiences with government here, have prompted the following.&lt;/p&gt;
 &lt;p&gt;One of the biggest mysteries for me is why Germany is so far behind when it comes to open government compared to the Netherlands. With &lt;a href=&#34;http://www.hackdeoverheid.nl/&#34;&gt;Hack de Overheid&lt;/a&gt; we have been on a roll last year with nearly every institution coming forward and pushing towards more openness. We even got &lt;a href=&#34;http://nos.nl/op3/video/334610-minister-verhagen-over-open-data.html&#34;&gt;Minister Verhagen on television&lt;/a&gt; to pledge to our goal. All of this does not mean we have won yet, but it does show a momentum into the right direction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Early 2012 Events</title>
-      <link>http://localhost:62818/dingen/dingen/2012/02/early-2012-events/</link>
+      <link>http://localhost:1313/dingen/2012/02/early-2012-events/</link>
       <pubDate>Fri, 03 Feb 2012 06:41:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3293</guid> 
       <description>&lt;p&gt;The year has started nicely and the event line-up is already brimful.&lt;/p&gt;
@@ -1403,7 +1403,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Starting up self-employed in Germany</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/starting-up-self-employed-in-germany/</link>
+      <link>http://localhost:1313/dingen/2012/01/starting-up-self-employed-in-germany/</link>
       <pubDate>Wed, 18 Jan 2012 14:28:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3257</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m reading up on German tax and trade rules because I&amp;rsquo;m going to incorporate here this month and most of the things I read do not make me very happy. They look like they are more suited to a 19th century gentry than to creative workers in the multipolar 21st.&lt;/p&gt;
@@ -1411,14 +1411,14 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Whither the theater?</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/whither-the-theater/</link>
+      <link>http://localhost:1313/dingen/2012/01/whither-the-theater/</link>
       <pubDate>Tue, 17 Jan 2012 07:27:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3131</guid> 
       <description>&lt;p&gt;Talking to two young theater makers yesterday, I remarked that the majority of the Dutch plays I see don&amp;rsquo;t deliver the relevant and socially engaged experiences I would want them to. To which they asked why I still bothered going to the theater, a question I hear regularly from those in the more modern performing arts. They themselves hardly ever go and they make participatory theater, not the stage dramas that first come to mind. That is a response I get more often: that theater is boring, irrelevant and really &lt;strong&gt;‘Why would anybody want to go?’&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cultural Criticism Without Borders</title>
-      <link>http://localhost:62818/dingen/dingen/2011/12/cultural-criticism-without-borders/</link>
+      <link>http://localhost:1313/dingen/2011/12/cultural-criticism-without-borders/</link>
       <pubDate>Sun, 15 Jan 2012 23:28:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3165</guid> 
       <description>&lt;p&gt;When I just got into Germany we managed to pin point something I had noticed before. It is striking how conservative people in Germany are when it comes to the internet and especially people who work in cultural positions. Compared to that, the Netherlands of the past five years has gone through a rather tumultuous revolution.&lt;/p&gt;
@@ -1426,7 +1426,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Week 251</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/week-251/</link>
+      <link>http://localhost:1313/dingen/2012/01/week-251/</link>
       <pubDate>Sat, 14 Jan 2012 07:01:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3236</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/6619859985/&#34; title=&#34;Dropped in for a bit at the Wostel by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Dropped in for a bit at the Wostel&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7171/6619859985_98b3085eda.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1434,7 +1434,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Week 249</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/week-249/</link>
+      <link>http://localhost:1313/dingen/2012/01/week-249/</link>
       <pubDate>Tue, 03 Jan 2012 07:13:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3191</guid> 
       <description>&lt;p&gt;In the beginning of the week I spotted an interesting dataset on Sargasso, requested to play with it and got the following &lt;a href=&#34;http://sargasso.nl/archief/2011/12/20/interrupties-tweede-kamer-mooi-verbeeld/&#34;&gt;visual published the next day&lt;/a&gt; ( &lt;a href=&#34;http://monsterswell.com/blog/2012/01/parliamentary-interruptions/&#34;&gt;our write-up&lt;/a&gt;).&lt;/p&gt;
@@ -1445,14 +1445,14 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Scepticism on the Filter Bubble</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/scepticism-on-the-filter-bubble/</link>
+      <link>http://localhost:1313/dingen/2012/01/scepticism-on-the-filter-bubble/</link>
       <pubDate>Sun, 01 Jan 2012 09:54:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3179</guid> 
       <description>&lt;p&gt;I think most of the thinking around &lt;a href=&#34;http://www.thefilterbubble.com/&#34;&gt;The Filter Bubble&lt;/a&gt; comes from people who are not very procedurally literate to begin with. That is to say they are not very adept at understanding the rules that govern interactive systems nor are they well equipped at reconfiguring them to suit their ends. I touch on this because the same tired argument was parroted in &lt;a href=&#34;http://www.zeit.de/campus/2012/01/sprechstunde-miriam-meckel/komplettansicht&#34;&gt;this Zeit interview with Miriam Meckel&lt;/a&gt;, a leading German communication scientist ((eine Koryphäe ihres Fachs)). It starts off with some very sensible sentiments but then it quickly derails on the topic of algorithms and concludes on several sidelines.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working theory for Germany</title>
-      <link>http://localhost:62818/dingen/dingen/2011/12/working-theory-for-germany/</link>
+      <link>http://localhost:1313/dingen/2011/12/working-theory-for-germany/</link>
       <pubDate>Sat, 24 Dec 2011 14:46:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3167</guid> 
       <description>&lt;p&gt;I have been in Berlin for a couple of hectic days now and I&amp;rsquo;m trying to come to terms with my surroundings. I have got a new working theory to use for the foreseeable future. Let&amp;rsquo;s see how well this holds up:&lt;/p&gt;
@@ -1461,7 +1461,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Michael LaFond - Berlin Co-Housing</title>
-      <link>http://localhost:62818/dingen/dingen/2011/10/michael-lafond-berlin-co-housing/</link>
+      <link>http://localhost:1313/dingen/2011/10/michael-lafond-berlin-co-housing/</link>
       <pubDate>Mon, 24 Oct 2011 22:21:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3034</guid> 
       <description>&lt;p&gt;I was at &lt;a href=&#34;http://www.arcam.nl/lezingen/programma_nl.html&#34;&gt;an event organized by ARCAM&lt;/a&gt; tonight concerning co-operative housing projects which are already very popular in Berlin but are rapidly expanding to other cities. Amsterdam is busy launching its own initiative and Michael LaFond from Berlin presented their experiences with this way of building.&lt;/p&gt;
@@ -1469,7 +1469,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>A more messy city</title>
-      <link>http://localhost:62818/dingen/dingen/2011/03/a-more-messy-city/</link>
+      <link>http://localhost:1313/dingen/2011/03/a-more-messy-city/</link>
       <pubDate>Fri, 04 Mar 2011 16:07:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2464</guid> 
       <description>&lt;p&gt;We spent last weekend having &lt;a href=&#34;http://www.flickr.com/photos/alper/5496175719/&#34;&gt;a veritable blast&lt;/a&gt; at the &lt;a href=&#34;http://cognitivecities.com/&#34;&gt;Cognitive Cities&lt;/a&gt; conference. It was a great spectacle of familiar faces, a nicely curated program and full frontal confrontations with the city of Berlin.&lt;/p&gt;
@@ -1477,7 +1477,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Ein Berliner</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/ein-berliner/</link>
+      <link>http://localhost:1313/dingen/2008/01/ein-berliner/</link>
       <pubDate>Tue, 15 Jan 2008 16:38:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/ein-berliner/</guid> 
       <description>&lt;p&gt;Net een dag terug uit Berlijn na een weekend van straf rijden, drinken en &lt;a href=&#34;http://blog.plazes.com/?p=222&#34;&gt;programmeren&lt;/a&gt; ((Klinkt redelijk ideaal, niet?)).&lt;/p&gt;
@@ -1486,7 +1486,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Berliner Existenz</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/berliner-existenz/</link>
+      <link>http://localhost:1313/dingen/2007/11/berliner-existenz/</link>
       <pubDate>Tue, 13 Nov 2007 01:57:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/berliner-existenz/</guid> 
       <description>&lt;p&gt;Na in Berlijn aangekomen te zijn, heb ik:&lt;/p&gt;
@@ -1507,7 +1507,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>Vandaar die hoed</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/vandaar-die-hoed/</link>
+      <link>http://localhost:1313/dingen/2007/11/vandaar-die-hoed/</link>
       <pubDate>Mon, 05 Nov 2007 01:03:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/vandaar-die-hoed/</guid> 
       <description>&lt;p&gt;Als jullie je afvroegen waarom ik die hoed op had, het komt door &lt;a href=&#34;http://www.blogpiloten.de/2007/11/04/barcamp-berlin-blogger-interviewen-blogger/&#34;&gt;het estafette-interview voor Blogpiloten.de&lt;/a&gt; dat ik gegeven heb.&lt;/p&gt;
@@ -1515,7 +1515,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>ZurÃ¼ck aus Deutschland</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/zuruck-aus-deutschland/</link>
+      <link>http://localhost:1313/dingen/2007/10/zuruck-aus-deutschland/</link>
       <pubDate>Mon, 15 Oct 2007 15:08:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/zuruck-aus-deutschland/</guid> 
       <description>&lt;p&gt;Even twee dagen weg zijn en aan niks anders dan &lt;a href=&#34;http://www.expressaopaulista.com/DE/&#34;&gt;capoeira&lt;/a&gt; en andere Brazilianischen Sachen hoeven te denken is fijn. Nu nog even 1500 foto&amp;rsquo;s verwerken.&lt;/p&gt;
@@ -1531,7 +1531,7 @@ Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt
     </item>
     <item>
       <title>NS Internationaal</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/ns-internationaal/</link>
+      <link>http://localhost:1313/dingen/2007/10/ns-internationaal/</link>
       <pubDate>Mon, 08 Oct 2007 04:33:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/ns-internationaal/</guid> 
       <description>&lt;p&gt;Ik ga eind deze maand naar Berlijn om &lt;a href=&#34;http://www.eelkedekker.nl/&#34;&gt;Eelke&lt;/a&gt; te bezoeken en acte de présence te geven op de &lt;a href=&#34;http://www.web2expo.com/&#34;&gt;Web 2.0 Expo&lt;/a&gt; en Barcamp Berlin. Nu dacht ik dat het wel leuk zou zijn om met de trein te gaan. Ik heb pas ook een Railplus Kaart bij mijn kortingskaart gekocht. Daar zou ik iets aan moeten hebben.&lt;/p&gt;

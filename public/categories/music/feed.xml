@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Music on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/music/</link>
+    <link>http://localhost:1313/categories/music/</link>
     <description>Recent content in Music on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 15 Jan 2025 09:59:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/music/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/music/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17936/</link>
+      <link>http://localhost:1313/dingen/2025/01/17936/</link>
       <pubDate>Wed, 15 Jan 2025 09:59:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17936</guid> 
       <description>&lt;p&gt;Imagine shipping an app that is so bad that the CEO has to step down. Sonos has made it happen.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17897/</link>
+      <link>http://localhost:1313/dingen/2025/01/17897/</link>
       <pubDate>Sat, 11 Jan 2025 13:43:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17897</guid> 
       <description>&lt;p&gt;A tear down of how women still get erased from narratives like Toshi here in the new Bob Dylan movie.&lt;/p&gt;
@@ -26,26 +26,26 @@
     </item>
     <item>
       <title>GIFT</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/gift/</link>
+      <link>http://localhost:1313/dingen/2024/11/gift/</link>
       <pubDate>Sun, 10 Nov 2024 08:39:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17699</guid> 
       <description>&lt;p&gt;Watched “Evil Does Not Exist” as GIFT, the recut and rescored (silent) version performed live by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eiko_Ishibashi&#34;&gt;Eiko Ishibashi&lt;/a&gt; at HAU1.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/11/IMG%5F7406.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_7406.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;This has a shorter runtime than the movie because a lot of fluff is cut out and we are only left with a very summary story. That is a good choice and I can&amp;rsquo;t say the movie suffers from it very much even though this is version is very much its own thing (i.e. not a narrative movie).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17452/</link>
+      <link>http://localhost:1313/dingen/2024/03/17452/</link>
       <pubDate>Fri, 01 Mar 2024 17:55:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17452</guid> 
       <description>&lt;p&gt;After trying apps by Sony and Garmin I think that Apple should be the only hardware manufacturer who&amp;rsquo;s allowed to write software.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/08/17270/</link>
+      <link>http://localhost:1313/dingen/2023/08/17270/</link>
       <pubDate>Sat, 26 Aug 2023 21:57:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17270</guid> 
       <description>&lt;p&gt;&amp;ldquo;ChatGPT is fast-tracking the commodification of the human spirit by mechanising the imagination.&amp;rdquo;&lt;/p&gt;
@@ -54,7 +54,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15851/</link>
+      <link>http://localhost:1313/dingen/2019/11/15851/</link>
       <pubDate>Mon, 25 Nov 2019 20:43:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15851</guid> 
       <description>&lt;p&gt;Nice to find some more socially conscious and also quality rap in Germany.&lt;/p&gt;
@@ -62,7 +62,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15843/</link>
+      <link>http://localhost:1313/dingen/2019/11/15843/</link>
       <pubDate>Mon, 25 Nov 2019 12:33:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15843</guid> 
       <description>&lt;p&gt;English language critique of Turkish rap produced in my backyard here in Berlin. That&amp;rsquo;s the way I like it.&lt;/p&gt;
@@ -70,7 +70,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/15816/</link>
+      <link>http://localhost:1313/dingen/2019/11/15816/</link>
       <pubDate>Sun, 10 Nov 2019 09:21:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15816</guid> 
       <description>&lt;p&gt;I remember some very early conversations about the Basslet (now Lofelt) and its creative possibilities. Building their own design tools for this medium is a key move and I look forward to trying it out.&lt;/p&gt;
@@ -78,7 +78,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15645/</link>
+      <link>http://localhost:1313/dingen/2019/09/15645/</link>
       <pubDate>Sun, 01 Sep 2019 12:05:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15645</guid> 
       <description>&lt;p&gt;Finally a proper English language profile of Turkish star rapper Ezhel.&lt;/p&gt;
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title>To Christiania!</title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/to-christiania/</link>
+      <link>http://localhost:1313/dingen/2019/05/to-christiania/</link>
       <pubDate>Sun, 26 May 2019 18:19:37 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=15443</guid> 
       <description>&lt;p&gt;After their long nap, I took both out for a round of recycling cardboard, pumping some tires and buying some coffee beans ((Johann &amp;amp; Nyström at Chapter One)).&lt;/p&gt;
@@ -94,10 +94,10 @@
     </item>
     <item>
       <title>XiR - Angela Merkel</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/xir-angela-merkel/</link>
+      <link>http://localhost:1313/dingen/2017/12/xir-angela-merkel/</link>
       <pubDate>Thu, 28 Dec 2017 22:06:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5903</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2017/12/XiR-%E2%80%94-Angela-Merkel-%E2%80%94-alper.nl-2017-12-28-23-11-53-1024x618.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;XiR-%E2%80%94-Angela-Merkel-%E2%80%94-alper.nl-2017-12-28-23-11-53-1024x618.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Turkish MC &lt;a href=&#34;https://www.facebook.com/xirgokdeniz/&#34;&gt;XiR&lt;/a&gt; has a new trap song out with the noteworthy title Angela Merkel. There is even somebody with a Merkel mask in the video.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/5Ci2kwIob6c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -107,7 +107,7 @@
     </item>
     <item>
       <title>Sleep by Max Richter</title>
-      <link>http://localhost:62818/dingen/dingen/2016/03/sleep-by-max-richter/</link>
+      <link>http://localhost:1313/dingen/2016/03/sleep-by-max-richter/</link>
       <pubDate>Fri, 18 Mar 2016 07:33:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5513</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/rknLA&#34;&gt;Kevin&lt;/a&gt; posted yesterday that he had an extra ticket for &lt;a href=&#34;http://www.berlinerfestspiele.de/de/aktuell/festivals/maerzmusik/mm16_programm/mm16_programm_sleep/mm16_Veranstaltungsdetail_sleep_150936.php&#34;&gt;Max Richter&amp;rsquo;s Sleep&lt;/a&gt; at Kraftwerk Berlin yesterday. Without a moment&amp;rsquo;s hesitation I packed my sleeping bag and cycled there with him.&lt;/p&gt;
@@ -115,7 +115,7 @@
     </item>
     <item>
       <title>Les Contes d&#39;Hoffmann</title>
-      <link>http://localhost:62818/dingen/dingen/2015/10/les-contes-dhoffmann/</link>
+      <link>http://localhost:1313/dingen/2015/10/les-contes-dhoffmann/</link>
       <pubDate>Mon, 12 Oct 2015 16:01:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5336</guid> 
       <description>&lt;p&gt;I went to &lt;a href=&#34;https://www.komische-oper-berlin.de/spielplan/les-contes-d-hoffmann/&#34;&gt;“Les Contes d&amp;rsquo;Hoffmann”&lt;/a&gt; yesterday in one of Berlin&amp;rsquo;s three operas thanks to &lt;a href=&#34;http://www.theguardian.com/music/2015/oct/08/berlin-opera-weekend-staatsoper-komische-oper-deutsche-oper&#34;&gt;this piece in the Guardian&lt;/a&gt;. Yes, I have to rely on a British paper for reliable cultural advice about Berlin.&lt;/p&gt;
@@ -123,7 +123,7 @@
     </item>
     <item>
       <title>Capitalism is magical</title>
-      <link>http://localhost:62818/dingen/dingen/2014/11/capitalism-is-magical/</link>
+      <link>http://localhost:1313/dingen/2014/11/capitalism-is-magical/</link>
       <pubDate>Thu, 27 Nov 2014 22:34:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5061</guid> 
       <description>&lt;p&gt;A story I meant to write up for a while is my discovery of the German rap formation &lt;a href=&#34;http://en.m.wikipedia.org/wiki/K.I.Z.&#34;&gt;K.I.Z.&lt;/a&gt; (Kapitalismus ist Zauberhaft) and with that German pop culture that is actually worthwhile and fun.&lt;/p&gt;
@@ -131,24 +131,24 @@
     </item>
     <item>
       <title>Unleash the panther</title>
-      <link>http://localhost:62818/dingen/dingen/2014/02/unleash-the-panther/</link>
+      <link>http://localhost:1313/dingen/2014/02/unleash-the-panther/</link>
       <pubDate>Mon, 17 Feb 2014 10:07:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4879</guid> 
       <description>&lt;p&gt;On Saturday evening I was in the Volksbühne for &lt;a href=&#34;http://www.we-are-stargaze.com/&#34;&gt;Stargaze&lt;/a&gt; among others to see &lt;a href=&#34;http://www.cantusdomus.de/&#34;&gt;Cantus Domus&lt;/a&gt; perform a set with an odd German band called 1000 Robota. After that there was an intermission and the main performance of the evening by Pantha du Prince and The Bell Laboratory.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/12585602454/&#34; title=&#34;Pantha du Prince &amp;amp; The Bell Laboratory by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Pantha du Prince &amp;amp; The Bell Laboratory&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7335/12585602454_c27340d1cc_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The artistic mandate of the evening bordered a bit on the odd. &lt;a href=&#34;http://1000robota.com/&#34;&gt;1000 Robota&lt;/a&gt; is more or less a lunatic act part of the melodramatic German singer-songwriter movement. Pantha du Prince &amp;amp; The Bell Laboratory were forced to interpret &lt;a href=&#34;http://en.wikipedia.org/wiki/Terry_Riley&#34;&gt;Terry Riley&amp;rsquo;s&lt;/a&gt; in C as part of the program. Of course they said it was a great inspiration to them and they did quite a good job of it. After the official part of the program they started making some real music and the entire Volksbühne got to its feet ((I had a similar experience in the same venue where &lt;a href=&#34;http://localhost:62818/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/&#34;&gt;a performance by Apparat was mired by a boring play&lt;/a&gt; about Russian nobility.)). I asked myself: ‘What the fuck were we doing up until this point?’&lt;/p&gt;</description>
+&lt;p&gt;The artistic mandate of the evening bordered a bit on the odd. &lt;a href=&#34;http://1000robota.com/&#34;&gt;1000 Robota&lt;/a&gt; is more or less a lunatic act part of the melodramatic German singer-songwriter movement. Pantha du Prince &amp;amp; The Bell Laboratory were forced to interpret &lt;a href=&#34;http://en.wikipedia.org/wiki/Terry_Riley&#34;&gt;Terry Riley&amp;rsquo;s&lt;/a&gt; in C as part of the program. Of course they said it was a great inspiration to them and they did quite a good job of it. After the official part of the program they started making some real music and the entire Volksbühne got to its feet ((I had a similar experience in the same venue where &lt;a href=&#34;http://localhost:1313/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/&#34;&gt;a performance by Apparat was mired by a boring play&lt;/a&gt; about Russian nobility.)). I asked myself: ‘What the fuck were we doing up until this point?’&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eindelijk Radio 1 luisteren op de Mac</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</link>
+      <link>http://localhost:1313/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</link>
       <pubDate>Wed, 04 Jan 2012 16:32:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</guid> 
-      <description>&lt;p&gt;Ik heb hier &lt;a href=&#34;http://localhost:62818/dingen/blog/alper/623&#34;&gt;wel&lt;/a&gt; &lt;a href=&#34;http://localhost:62818/dingen/blog/alper/637&#34;&gt;vaker&lt;/a&gt; geschreven over de beroerde webstreams beschikbaar voor &lt;a href=&#34;http://www.radio1.nl&#34;&gt;Radio 1&lt;/a&gt; bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb hier &lt;a href=&#34;http://localhost:1313/blog/alper/623&#34;&gt;wel&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/blog/alper/637&#34;&gt;vaker&lt;/a&gt; geschreven over de beroerde webstreams beschikbaar voor &lt;a href=&#34;http://www.radio1.nl&#34;&gt;Radio 1&lt;/a&gt; bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.&lt;/p&gt;
 &lt;p&gt;Reden tot blijdschap dus, maar nog steeds vreemd waarom ze niet gewoon één MP3-stream (( &lt;a href=&#34;http://en.wikipedia.org/wiki/Shoutcast&#34;&gt;SHOUTcast&lt;/a&gt; ofzo ook al heb ik geen idee hoe dat schaalt.)) hebben opgezet die volgens mij door alle drie die players ((En eigenlijk door bijna elke fatsoenlijke MP3-speler.)) probleemloos kan worden afgespeeld.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Downloadverbod op Radio 1</title>
-      <link>http://localhost:62818/dingen/dingen/2011/04/downloadverbod-op-radio-1/</link>
+      <link>http://localhost:1313/dingen/2011/04/downloadverbod-op-radio-1/</link>
       <pubDate>Mon, 11 Apr 2011 15:39:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2551</guid> 
       <description>&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;a href=&#34;http://www.radio1.nl/contents/28849&#34;&gt;Het staat al online!&lt;/a&gt;&lt;/p&gt;
@@ -157,7 +157,7 @@
     </item>
     <item>
       <title>Urbanode: first steps in environmental control</title>
-      <link>http://localhost:62818/dingen/dingen/2010/12/urbanode-first-steps-in-environmental-control/</link>
+      <link>http://localhost:1313/dingen/2010/12/urbanode-first-steps-in-environmental-control/</link>
       <pubDate>Mon, 20 Dec 2010 14:38:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2341</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://vimeo.com/17403000&#34;&gt;Urbanode running from an Android Phone&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user5376973&#34;&gt;VURB&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;. The movie shows an Android phone controlling the stagelights at the Melkweg using a colour picker on a webpage.&lt;/p&gt;
@@ -165,14 +165,14 @@
     </item>
     <item>
       <title>PLAY Pilots conclusie: Bandjesland</title>
-      <link>http://localhost:62818/dingen/dingen/2010/12/play-pilots-conclusie-bandjesland/</link>
+      <link>http://localhost:1313/dingen/2010/12/play-pilots-conclusie-bandjesland/</link>
       <pubDate>Sat, 11 Dec 2010 14:50:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2331</guid> 
       <description>&lt;p&gt;Alle &lt;a href=&#34;http://playpilots.nl/games/bandjesland/&#34;&gt;samples van Bandjesland&lt;/a&gt; staan online en het is af. En &lt;a href=&#34;http://blog.playpilots.nl/luister-naar-de-bandjeslandsessies-play-pilot&#34;&gt;dat is —zoals ze zeggen— ‘a wrap’&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RFID Meets Retro</title>
-      <link>http://localhost:62818/dingen/dingen/2010/11/rfid-meets-retro/</link>
+      <link>http://localhost:1313/dingen/2010/11/rfid-meets-retro/</link>
       <pubDate>Thu, 11 Nov 2010 16:14:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2278</guid> 
       <description>&lt;p&gt;At the upcoming &lt;a href=&#34;http://www.leguesswho.nl/&#34;&gt;Le Guess Who?&lt;/a&gt; festival, hipsters will employ RFIDs for interesting purposes:&lt;/p&gt;
@@ -180,15 +180,15 @@
     </item>
     <item>
       <title>Zuiverheid</title>
-      <link>http://localhost:62818/dingen/dingen/2010/08/2043/</link>
+      <link>http://localhost:1313/dingen/2010/08/2043/</link>
       <pubDate>Sun, 22 Aug 2010 10:45:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2043</guid> 
       <description>&lt;p&gt;In de nacht van vrijdag op zaterdag kreeg onze &lt;a href=&#34;http://www.ramseynasr.nl&#34;&gt;Dichter des Vaderlands&lt;/a&gt; een blok van anderhalf uur radio in Zomernachten om te vertellen wat hij wilde. Ik had me in de dag vergist, maar het stond vannacht ook &lt;a href=&#34;http://casaluna.ncrv.nl/pagina/ramsey-nasr&#34;&gt;al op de website&lt;/a&gt;. De MP3 is hier uit de podcast te vissen: &lt;a href=&#34;http://tools.ncrv.nl/download/podcast_tool/casaluna_2010_08_21_1282352652_Zomernachten_Ramsey__-_.MP3&#34;&gt;Zomernacht van Ramsey Nasr&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Het mag &lt;a href=&#34;http://localhost:62818/dingen/index.php?s=nasr&#34;&gt;hier&lt;/a&gt; al duidelijk zijn dat ik een fan ben van Nasr. Als je die anderhalf uur luistert, word je het waarschijnlijk ook. Een prettige aanklacht tegen de huidige stand van zaken in Nederland, niet populair maar wel goed onderbouwd. Alleen ben ik bang dat hij er geen nieuw publiek mee bereikt. Zolang wij zó in de minderheid zijn kunnen we zeggen wat we willen maar denk ik niet dat we er iets mee bereiken.&lt;/p&gt;</description>
+&lt;p&gt;Het mag &lt;a href=&#34;http://localhost:1313/dingen/index.php?s=nasr&#34;&gt;hier&lt;/a&gt; al duidelijk zijn dat ik een fan ben van Nasr. Als je die anderhalf uur luistert, word je het waarschijnlijk ook. Een prettige aanklacht tegen de huidige stand van zaken in Nederland, niet populair maar wel goed onderbouwd. Alleen ben ik bang dat hij er geen nieuw publiek mee bereikt. Zolang wij zó in de minderheid zijn kunnen we zeggen wat we willen maar denk ik niet dat we er iets mee bereiken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Table Viewer for Music Hackday</title>
-      <link>http://localhost:62818/dingen/dingen/2010/04/table-viewer-for-music-hackday/</link>
+      <link>http://localhost:1313/dingen/2010/04/table-viewer-for-music-hackday/</link>
       <pubDate>Tue, 27 Apr 2010 09:39:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1744</guid> 
       <description>&lt;p&gt;This entire weekend was taken up by &lt;a href=&#34;http://amsterdam.musichackday.org/&#34;&gt;Amsterdam Music Hackday&lt;/a&gt; for which &lt;a href=&#34;http://twitter.com/dmos&#34;&gt;Alex&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/dvbosch&#34;&gt;Dirk&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/alper&#34;&gt;I&lt;/a&gt; had planned to build a prototype version of a surface table projector for music discovery.&lt;/p&gt;
@@ -196,7 +196,7 @@
     </item>
     <item>
       <title>Turkse Muziek - MFÃ–</title>
-      <link>http://localhost:62818/dingen/dingen/2008/03/turkse-muziek-mfo/</link>
+      <link>http://localhost:1313/dingen/2008/03/turkse-muziek-mfo/</link>
       <pubDate>Tue, 21 Jul 2009 23:32:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/turkse-muziek-mfo/</guid> 
       <description>&lt;p&gt;Wat nu volgt naar aanleiding van een gesprek met Joris over Turkije en Turkse muziek. Hij vroeg waarom ik niet in İstanbul ging wonen, wat op zich een goede vraag is. Dat komt misschien nog wel een keer, maar voor nu een kleine serie over Turkse muziek.&lt;/p&gt;
@@ -204,7 +204,7 @@
     </item>
     <item>
       <title>Rebooted</title>
-      <link>http://localhost:62818/dingen/dingen/2009/07/rebooted/</link>
+      <link>http://localhost:1313/dingen/2009/07/rebooted/</link>
       <pubDate>Fri, 03 Jul 2009 09:35:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1090</guid> 
       <description>&lt;p&gt;Last week I got Rebooted in Copenhagen again. Drove up with &lt;a href=&#34;http://www.flickr.com/photos/alper/3676235876/in/set-72157620636875097/&#34;&gt;Peter&lt;/a&gt; and &lt;a href=&#34;http://www.flickr.com/photos/alper/3676238350/in/set-72157620636875097/&#34;&gt;Iskander&lt;/a&gt;.&lt;/p&gt;
@@ -214,7 +214,7 @@
     </item>
     <item>
       <title>Opera do Malandro</title>
-      <link>http://localhost:62818/dingen/dingen/2009/06/opera-do-malandro/</link>
+      <link>http://localhost:1313/dingen/2009/06/opera-do-malandro/</link>
       <pubDate>Fri, 19 Jun 2009 07:16:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1063</guid> 
       <description>&lt;p&gt;Zondag waren we naar de “Opera do Malandro”opvoering van Chico Buarque door &lt;a href=&#34;http://www.codarts.nl/&#34;&gt;CODARTS&lt;/a&gt; in Rotterdam. Het was een erg tof muzikaal optreden en een leuke dag. Het was onderdeel van het &lt;a href=&#34;http://www.brazilcontemporary.nl/&#34;&gt;Brazil Contemporary&lt;/a&gt; festival dat nog doorloopt in Rotterdam.&lt;/p&gt;
@@ -223,7 +223,7 @@
     </item>
     <item>
       <title>Backyard performances</title>
-      <link>http://localhost:62818/dingen/dingen/2009/06/backyard-performances/</link>
+      <link>http://localhost:1313/dingen/2009/06/backyard-performances/</link>
       <pubDate>Sat, 06 Jun 2009 20:35:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1025</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3600861927/&#34; title=&#34;Dance by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Dance&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3615/3600861927_997d6b5ba8.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -231,7 +231,7 @@
     </item>
     <item>
       <title>Kyteman and his Hip Hop Orchestar</title>
-      <link>http://localhost:62818/dingen/dingen/2009/06/kyteman-and-his-hip-hop-orchestar/</link>
+      <link>http://localhost:1313/dingen/2009/06/kyteman-and-his-hip-hop-orchestar/</link>
       <pubDate>Sat, 06 Jun 2009 13:03:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1020</guid> 
       <description>&lt;p&gt;For my international audience; if you&amp;rsquo;ve been living in the Netherlands you could not have missed this.&lt;/p&gt;
@@ -240,7 +240,7 @@
     </item>
     <item>
       <title>Zeg Nee! tegen copyright</title>
-      <link>http://localhost:62818/dingen/dingen/2009/04/zeg-nee-tegen-copyright/</link>
+      <link>http://localhost:1313/dingen/2009/04/zeg-nee-tegen-copyright/</link>
       <pubDate>Tue, 28 Apr 2009 10:10:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=947</guid> 
       <description>&lt;p&gt;Even een kleine copyright roundup na de farce van het proces tegen &lt;a href=&#34;http://thepiratebay.org/&#34;&gt;the Pirate Bay&lt;/a&gt; en &lt;a href=&#34;http://tweakers.net/nieuws/59677/brein-wil-na-vonnis-the-pirate-bay-in-nederland-laten-blokkeren.html&#34;&gt;Brein die daar weer in springt&lt;/a&gt;. Gebruik in de tussentijd &lt;a href=&#34;http://www.thepirategoogle.com/&#34;&gt;the Pirate Google&lt;/a&gt; totdat Brein die ook weet te blokkeren.&lt;/p&gt;
@@ -248,7 +248,7 @@
     </item>
     <item>
       <title>Beirut is alive</title>
-      <link>http://localhost:62818/dingen/dingen/2009/01/beirut-is-alive/</link>
+      <link>http://localhost:1313/dingen/2009/01/beirut-is-alive/</link>
       <pubDate>Mon, 19 Jan 2009 02:34:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=732</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.beirutband.com/&#34;&gt;Beirut&lt;/a&gt; announced European tour dates of which 5th of May they will be playing in &lt;a href=&#34;http://www.paradiso.nl/&#34;&gt;Paradiso&lt;/a&gt;, Amsterdam. Yesterday, I got myself two tickets for that gig, which should be fantastic.&lt;/p&gt;
@@ -257,7 +257,7 @@
     </item>
     <item>
       <title>Environmental music experiences</title>
-      <link>http://localhost:62818/dingen/dingen/2008/12/environmental-music-experiences/</link>
+      <link>http://localhost:1313/dingen/2008/12/environmental-music-experiences/</link>
       <pubDate>Sun, 07 Dec 2008 00:10:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=628</guid> 
       <description>&lt;p&gt;I recently bought the full version of &lt;a href=&#34;http://rjdj.me/&#34;&gt;RJDJ&lt;/a&gt; and it is a very fun way to create a dynamic &lt;a href=&#34;http://www.tacticalsoundgarden.net/&#34;&gt;soundgarden&lt;/a&gt; based on your environment. I also started using &lt;a href=&#34;http://last.fm&#34;&gt;last.fm&lt;/a&gt; again even though they don&amp;rsquo;t have an iPhone player available yet in the Netherlands ((Yet another reason to move to London or the US, the late release date in the low countries of any significant innovation.)).&lt;/p&gt;
@@ -265,7 +265,7 @@
     </item>
     <item>
       <title>Lazy ass music videos</title>
-      <link>http://localhost:62818/dingen/dingen/2008/11/lazy-ass-music-videos/</link>
+      <link>http://localhost:1313/dingen/2008/11/lazy-ass-music-videos/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=621</guid> 
       <description>&lt;p&gt;So I get bored on a Friday night and I want a decent way to watch music videos. Rather than look for a service which provides this ((Surely there are a ton of usable music video players online by now.)), I decided to revive our own toy of a couple years ago, so it&amp;rsquo;s alive (again!): &lt;a href=&#34;http://lasttv.net/&#34;&gt;LastTV&lt;/a&gt;.&lt;/p&gt;
@@ -273,7 +273,7 @@
     </item>
     <item>
       <title>Echte Boter</title>
-      <link>http://localhost:62818/dingen/dingen/2008/02/echte-boter/</link>
+      <link>http://localhost:1313/dingen/2008/02/echte-boter/</link>
       <pubDate>Mon, 03 Mar 2008 16:43:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/echte-boter/</guid> 
       <description>&lt;p&gt;Morgen is het weer zover, het vetste feestconcept van Delft is terug, &lt;a href=&#34;http://www.rundfunk.nl/?p=404&#34;&gt;Echte Boter&lt;/a&gt;:

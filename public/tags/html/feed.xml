@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Html on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/html/</link>
+    <link>http://localhost:1313/tags/html/</link>
     <description>Recent content in Html on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 16 Jun 2011 21:59:45 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/html/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/html/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/portfolio/</link>
+      <link>http://localhost:1313/dingen/2007/06/portfolio/</link>
       <pubDate>Thu, 16 Jun 2011 21:59:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/portfolio/</guid> 
-      <description>&lt;p&gt;Sommigen hebben het al gezien, ik heb &lt;a href=&#34;http://localhost:62818/dingen/photography/&#34;&gt;een kleine site&lt;/a&gt; gemaakt waar ik een &lt;a href=&#34;http://localhost:62818/dingen/photography/&#34;&gt;fotoportfolio&lt;/a&gt; kwijt kan.&lt;/p&gt;
-&lt;p&gt;Een paar templates, een invoerbestand met de foto&amp;rsquo;s en beschrijvingen en een script draaien de boel uit. Ik heb gisteren ook nog even de links naar Flickr toegevoegd en &lt;a href=&#34;http://localhost:62818/dingen/photography/People.html&#34;&gt;categorie-overzichtspagina&amp;rsquo;s&lt;/a&gt; gemaakt.&lt;/p&gt;
+      <description>&lt;p&gt;Sommigen hebben het al gezien, ik heb &lt;a href=&#34;http://localhost:1313/photography/&#34;&gt;een kleine site&lt;/a&gt; gemaakt waar ik een &lt;a href=&#34;http://localhost:1313/photography/&#34;&gt;fotoportfolio&lt;/a&gt; kwijt kan.&lt;/p&gt;
+&lt;p&gt;Een paar templates, een invoerbestand met de foto&amp;rsquo;s en beschrijvingen en een script draaien de boel uit. Ik heb gisteren ook nog even de links naar Flickr toegevoegd en &lt;a href=&#34;http://localhost:1313/photography/People.html&#34;&gt;categorie-overzichtspagina&amp;rsquo;s&lt;/a&gt; gemaakt.&lt;/p&gt;
 &lt;p&gt;Veel simpeler kan het niet echt, veel ingewikkelder hoeft het van mij op dit moment ook niet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starre denkpatronen in de webindustrie</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/</link>
+      <link>http://localhost:1313/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/</link>
       <pubDate>Fri, 08 Jun 2007 14:02:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/</guid> 
       <description>&lt;p&gt;Een tijdje geleden praatten we met &lt;a href=&#34;http://www.happyclog.nl/&#34;&gt;wat verlichte zielen&lt;/a&gt; over de stand van webstandaarden in Nederland. We vonden dat daar verbetering in moest komen en we hebben allemaal wel ons best gedaan om mensen hiervan te overtuigen. Het lijkt er nu op dat de verbetering voor een deel is gerealiseerd maar dat sommige mensen wellicht zijn doorgeschoten.&lt;/p&gt;
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title>Even testen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/04/even-testen/</link>
+      <link>http://localhost:1313/dingen/2007/04/even-testen/</link>
       <pubDate>Sun, 22 Apr 2007 12:16:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/even-testen/</guid> 
       <description>&lt;p&gt;Ik heb net de onnavolgbare voetnoten plugin gedownload en geïnstalleerd op dit blog ((En wel &lt;a href=&#34;http://www.elvery.net/drzax/more-things/wordpress-footnotes-plugin/&#34;&gt;hiervandaan&lt;/a&gt;.)).&lt;/p&gt;

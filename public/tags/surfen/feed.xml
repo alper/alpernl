@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Surfen on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/surfen/</link>
+    <link>http://localhost:1313/tags/surfen/</link>
     <description>Recent content in Surfen on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 22 Jul 2007 19:56:09 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/surfen/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/surfen/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geronimo!</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/geronimo/</link>
+      <link>http://localhost:1313/dingen/2007/07/geronimo/</link>
       <pubDate>Sun, 22 Jul 2007 19:56:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/geronimo/</guid> 
       <description>&lt;p&gt;Altijd leuk om vrienden de dood te zien tarten.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>Surf&#39;s up!</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/surfs-up/</link>
+      <link>http://localhost:1313/dingen/2007/05/surfs-up/</link>
       <pubDate>Tue, 29 May 2007 01:37:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/surfs-up/</guid> 
       <description>&lt;p&gt;Na het weekend van capoeira vandaag een beetje uitgebrakt in de golven. Guur weer maar prima surfen op Scheveningen.&lt;/p&gt;

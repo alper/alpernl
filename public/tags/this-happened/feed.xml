@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>This-Happened on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/this-happened/</link>
+    <link>http://localhost:1313/tags/this-happened/</link>
     <description>Recent content in This-Happened on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 30 Nov 2010 11:15:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/this-happened/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/this-happened/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Happened #8 - Sound Bytes</title>
-      <link>http://localhost:62818/dingen/dingen/2010/11/this-happened-8-sound-bytes/</link>
+      <link>http://localhost:1313/dingen/2010/11/this-happened-8-sound-bytes/</link>
       <pubDate>Tue, 30 Nov 2010 11:15:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2303</guid> 
       <description>&lt;p&gt;The quotable &lt;a href=&#34;http://thishappened.org/utrecht/8/&#34;&gt;This Happened Utrecht #8&lt;/a&gt;.&lt;/p&gt;

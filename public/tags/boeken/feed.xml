@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Boeken on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/boeken/</link>
+    <link>http://localhost:1313/tags/boeken/</link>
     <description>Recent content in Boeken on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 29 Apr 2011 10:31:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/boeken/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/boeken/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1001 boeken die je gelezen moet hebben</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/</link>
+      <link>http://localhost:1313/dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/</link>
       <pubDate>Fri, 29 Apr 2011 10:31:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=295</guid> 
       <description>&lt;p&gt;Een rare lijst &lt;a href=&#34;http://www.kottke.org/remainder/08/05/15642.html&#34;&gt;via Kottke&lt;/a&gt;, maar er staan wel wat goede boeken op (dat kan ook niet anders als je 1001 boeken op een lijst zet). Ik kom op 33.&lt;/p&gt;

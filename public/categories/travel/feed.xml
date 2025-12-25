@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Travel on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/travel/</link>
+    <link>http://localhost:1313/categories/travel/</link>
     <description>Recent content in Travel on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 30 Nov 2025 11:38:30 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/travel/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/travel/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iseji - Day 0 - Getting to Ise</title>
-      <link>http://localhost:62818/dingen/dingen/2025/11/iseji-day-0-getting-to-ise/</link>
+      <link>http://localhost:1313/dingen/2025/11/iseji-day-0-getting-to-ise/</link>
       <pubDate>Sun, 30 Nov 2025 11:38:30 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18528</guid> 
       <description>&lt;p&gt;I still need to write up how I got to Ise in the first place and why that was so terrible.&lt;/p&gt;
@@ -19,7 +19,7 @@
     </item>
     <item>
       <title>Iseji - Day 3 - Kiinagashima to Owase</title>
-      <link>http://localhost:62818/dingen/dingen/2025/11/iseji-day-3-kiinagashima-to-owase/</link>
+      <link>http://localhost:1313/dingen/2025/11/iseji-day-3-kiinagashima-to-owase/</link>
       <pubDate>Sun, 30 Nov 2025 11:18:06 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18500</guid> 
       <description>&lt;p&gt;Another day, another broken night because of jetlag. Getting up at all was not easy, let alone getting up early.&lt;/p&gt;
@@ -27,14 +27,14 @@
     </item>
     <item>
       <title>Iseji - Day 2 - Misedani to Kiinagashima</title>
-      <link>http://localhost:62818/dingen/dingen/2025/11/iseji-day-2-misedani-to-kiinagashima/</link>
+      <link>http://localhost:1313/dingen/2025/11/iseji-day-2-misedani-to-kiinagashima/</link>
       <pubDate>Fri, 28 Nov 2025 21:43:39 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18496</guid> 
       <description>&lt;p&gt;Well before 7am I grabbed a quick breakfast at the local FamilyMart and supplies for the day ahead. I&amp;rsquo;m glad that these things are open 24 hours, but how is this possible? Maybe it&amp;rsquo;s better to not ask any questions (S. &lt;a href=&#34;https://mainichi.jp/english/articles/20251114/p2a/00m/0bu/032000c&#34;&gt;Store owner regrets &amp;lsquo;slave contracts&amp;rsquo; with major Japanese convenience store chain Ministop&lt;/a&gt;). I wasn&amp;rsquo;t going to be able to get any kind of coffee at a time like this, but the hotel machine brewed something that wasn&amp;rsquo;t entirely undrinkable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Iseji - Day 1 - Tamura to Misedani</title>
-      <link>http://localhost:62818/dingen/dingen/2025/11/iseji-day-1-tamura-to-misedani/</link>
+      <link>http://localhost:1313/dingen/2025/11/iseji-day-1-tamura-to-misedani/</link>
       <pubDate>Tue, 25 Nov 2025 13:16:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18480</guid> 
       <description>&lt;p&gt;The day started late after jetlag kept me up between 2-5am. Then when I finally got to sleep, it was time to get up and leave. The Fitbit clocks me at 3h47m of sleep.&lt;/p&gt;
@@ -42,7 +42,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/11/18451/</link>
+      <link>http://localhost:1313/dingen/2025/11/18451/</link>
       <pubDate>Wed, 19 Nov 2025 21:56:37 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18451</guid> 
       <description>&lt;p&gt;This spring when I was in London, I stayed there with Sonder and even when they were still in business the entire process was somewhat sketchy.&lt;/p&gt;
@@ -50,20 +50,20 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17911/</link>
+      <link>http://localhost:1313/dingen/2025/01/17911/</link>
       <pubDate>Sun, 12 Jan 2025 10:34:23 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17911</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://tenpages.github.io/us-level/us.html&#34;&gt;Maps for where you&amp;rsquo;ve been&lt;/a&gt; in Europe and the US ( &lt;a href=&#34;http://www.iamcal.com/2025-01/10229/&#34;&gt;via&lt;/a&gt;). Stayed means having spent a night there which means the only places I&amp;rsquo;ve visited and not spent the night are Slovenia (went over the border to hike a mountain there) and the Vatican.&lt;/p&gt;
 &lt;p&gt;I should probably upgrade Turkey to lived depending on your definition: stayed in your own house or registered as a resident.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/01/CleanShot-2025-01-12-at-11.30.08@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2025-01-12-at-11.30.08@2x.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;My score for the US is negligible and I don&amp;rsquo;t see this changing any time soon (maybe ever).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17904/</link>
+      <link>http://localhost:1313/dingen/2025/01/17904/</link>
       <pubDate>Sat, 11 Jan 2025 14:16:10 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17904</guid> 
       <description>&lt;p&gt;In Germany for many transactions you need a proof of address which a &lt;em&gt;Personalausweis&lt;/em&gt; provides for German citizens. Us foreigners don&amp;rsquo;t get one however often we ask for it. In the Netherlands moving through the country without a battery of chip cards (OV chipkaart, Bonuskaart, OV-fiets etc.), apps and associated services is costly and annoying.&lt;/p&gt;
@@ -71,7 +71,7 @@
     </item>
     <item>
       <title>Year in Review 2024</title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/year-in-review-2024/</link>
+      <link>http://localhost:1313/dingen/2025/01/year-in-review-2024/</link>
       <pubDate>Sun, 05 Jan 2025 17:05:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17872</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s been a bit of a grab bag year but overall not as bad as 2023 and a bunch of things seem to be on track.&lt;/p&gt;
@@ -81,7 +81,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17862/</link>
+      <link>http://localhost:1313/dingen/2025/01/17862/</link>
       <pubDate>Sat, 04 Jan 2025 17:23:32 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17862</guid> 
       <description>&lt;p&gt;There was a brief period where Foursquare based recommendations were good and drawn from your wider social graph. Now we&amp;rsquo;ve gone back to Yelp and Google Maps where reviews and ratings don&amp;rsquo;t mean anything. A lower than 4 star review on GMaps has netted me a cease-and-desist e-mail for defamation.&lt;/p&gt;
@@ -89,7 +89,7 @@
     </item>
     <item>
       <title>December Adventure</title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/december-adventure/</link>
+      <link>http://localhost:1313/dingen/2024/12/december-adventure/</link>
       <pubDate>Mon, 02 Dec 2024 23:44:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17749</guid> 
       <description>&lt;p&gt;So I felt I couldn&amp;rsquo;t really bring myself to do &lt;a href=&#34;https://adventofcode.com&#34;&gt;Advent of Code&lt;/a&gt; this year since I have more than enough other things to do (and &lt;a href=&#34;https://en.wikipedia.org/wiki/Arcane_(TV_series)&#34;&gt;watch&lt;/a&gt; and &lt;a href=&#34;https://store.steampowered.com/app/333640/Caves_of_Qud/&#34;&gt;play&lt;/a&gt;) and with work and the kids, it&amp;rsquo;s always pretty miserable to keep up.&lt;/p&gt;
@@ -97,7 +97,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17718/</link>
+      <link>http://localhost:1313/dingen/2024/11/17718/</link>
       <pubDate>Wed, 20 Nov 2024 08:28:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17718</guid> 
       <description>&lt;p&gt;I painstakingly built a bespoke Rust web application to host the &lt;a href=&#34;https://cuppin.gs&#34;&gt;Cuppings&lt;/a&gt; venue data and to add Google place_ids to almost 2000 Foursquare location. That&amp;rsquo;s been done for a while now but now we have the announcement of Foursquare open sourcing their location dataset.&lt;/p&gt;
@@ -110,7 +110,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17686/</link>
+      <link>http://localhost:1313/dingen/2024/11/17686/</link>
       <pubDate>Sun, 03 Nov 2024 22:10:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17686</guid> 
       <description>&lt;p&gt;A beautiful elegy for photographer Matthieu Chazal by Paul Salopek on the epic Out of Eden Walk.&lt;/p&gt;
@@ -119,7 +119,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17676/</link>
+      <link>http://localhost:1313/dingen/2024/11/17676/</link>
       <pubDate>Sun, 03 Nov 2024 19:29:29 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17676</guid> 
       <description>&lt;p&gt;I can&amp;rsquo;t believe I have to say this, but let&amp;rsquo;s do it anyway: Going to Mars is—just like the hyperloop—a distraction from the actual problems and solutions in front of us.&lt;/p&gt;
@@ -127,7 +127,7 @@
     </item>
     <item>
       <title>2023 Year in Review</title>
-      <link>http://localhost:62818/dingen/dingen/2024/01/2023-year-in-review/</link>
+      <link>http://localhost:1313/dingen/2024/01/2023-year-in-review/</link>
       <pubDate>Mon, 01 Jan 2024 01:49:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17382</guid> 
       <description>&lt;p&gt;Looking back on 2023 I can say that we made lemonade out of an overall pretty shit year.&lt;/p&gt;
@@ -135,7 +135,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17312/</link>
+      <link>http://localhost:1313/dingen/2023/11/17312/</link>
       <pubDate>Sat, 18 Nov 2023 15:24:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17312</guid> 
       <description>&lt;p&gt;Finding time for side projects and putting out new versions of Cuppings is difficult as always, but I&amp;rsquo;m glad we have a new version out this week again.&lt;/p&gt;
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/17125/</link>
+      <link>http://localhost:1313/dingen/2023/03/17125/</link>
       <pubDate>Sun, 12 Mar 2023 10:08:40 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17125</guid> 
       <description>&lt;blockquote&gt;
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/01/16946/</link>
+      <link>http://localhost:1313/dingen/2023/01/16946/</link>
       <pubDate>Fri, 06 Jan 2023 19:45:18 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16946</guid> 
       <description>&lt;p&gt;Everything we continue to learn about the very earliest people is completely fascinating.&lt;/p&gt;
@@ -161,7 +161,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/04/16771/</link>
+      <link>http://localhost:1313/dingen/2022/04/16771/</link>
       <pubDate>Sat, 09 Apr 2022 22:59:36 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16771</guid> 
       <description>&lt;p&gt;Oh Beirut, it seems nothing has changed since the last time I was there. Things have pretty much only gotten predictably worse.&lt;/p&gt;
@@ -169,7 +169,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/10/16599/</link>
+      <link>http://localhost:1313/dingen/2021/10/16599/</link>
       <pubDate>Sun, 17 Oct 2021 22:45:06 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16599</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve had a number of amazing and unforgettable experiences with Couchsurfing mostly staying in Berlin way back in the day. This history of the site&amp;rsquo;s rise and fall fills in what happened after I lost track.&lt;/p&gt;
@@ -177,7 +177,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/12/16369/</link>
+      <link>http://localhost:1313/dingen/2020/12/16369/</link>
       <pubDate>Sat, 26 Dec 2020 20:39:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16369</guid> 
       <description>&lt;p&gt;A lovely interview about the magic bus and the hippie period in Istanbul revolving around the Lale Pudding Shop which is still in business.&lt;/p&gt;
@@ -185,7 +185,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/10/16353/</link>
+      <link>http://localhost:1313/dingen/2020/10/16353/</link>
       <pubDate>Sat, 24 Oct 2020 09:48:31 +0000</pubDate>
        <guid isPermaLink="false">http://www.alper.nl/dingen/?p=16353</guid> 
       <description>&lt;p&gt;Als ik het verhaal over witwassen in de Amsterdamse binnenstad hier lees, denk ik dat het hier in Berlijn zonder overdrijven tien keer zo erg is (decennia armoede, corruptie en geen enkele prioriteit bij de lokale overheid).&lt;/p&gt;
@@ -193,7 +193,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/09/16273/</link>
+      <link>http://localhost:1313/dingen/2020/09/16273/</link>
       <pubDate>Sun, 06 Sep 2020 19:57:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16273</guid> 
       <description>&lt;p&gt;An interesting story about the interaction between loving the outdoors and Instagram culture.&lt;/p&gt;
@@ -201,7 +201,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/06/16117/</link>
+      <link>http://localhost:1313/dingen/2020/06/16117/</link>
       <pubDate>Sun, 21 Jun 2020 22:44:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16117</guid> 
       <description>&lt;p&gt;We have to build these ultra rapid trains anyway, so let&amp;rsquo;s start on it tomorrow.&lt;/p&gt;
@@ -209,7 +209,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/05/16087/</link>
+      <link>http://localhost:1313/dingen/2020/05/16087/</link>
       <pubDate>Sun, 10 May 2020 08:57:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16087</guid> 
       <description>&lt;p&gt;A lovely set of easter eggs hidden in Switzerland&amp;rsquo;s official maps.&lt;/p&gt;
@@ -217,7 +217,7 @@
     </item>
     <item>
       <title>Chaos at the Top of the World</title>
-      <link>http://localhost:62818/dingen/dingen/2020/01/15933/</link>
+      <link>http://localhost:1313/dingen/2020/01/15933/</link>
       <pubDate>Fri, 10 Jan 2020 13:55:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15933</guid> 
       <description>&lt;p&gt;A breathtaking background story of how the top of Mount Everest turned into a tourist destination.&lt;/p&gt;
@@ -225,18 +225,18 @@
     </item>
     <item>
       <title>Languages spoken</title>
-      <link>http://localhost:62818/dingen/dingen/2019/10/languages-spoken/</link>
+      <link>http://localhost:1313/dingen/2019/10/languages-spoken/</link>
       <pubDate>Sun, 27 Oct 2019 21:29:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15798</guid> 
       <description>&lt;p&gt;Found this on Reddit and made my own.&lt;/p&gt;
 &lt;p&gt;Picked the countries where 50% of the people speak a language where I have at least B level of skill.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/10/5e3bc816-e99f-46b4-92a5-4adc3b911d5d.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;5e3bc816-e99f-46b4-92a5-4adc3b911d5d.png&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15737/</link>
+      <link>http://localhost:1313/dingen/2019/09/15737/</link>
       <pubDate>Fri, 27 Sep 2019 21:59:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15737</guid> 
       <description>&lt;p&gt;A couple of years ago, I remember seeing at IST airport advertisements for connecting flights to Erbil (Ø£Ø±Ø¨ÙŠÙ„â€Ž). The city seems to have continued growing and by now developed a vibrant nightlife.&lt;/p&gt;
@@ -244,7 +244,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15701/</link>
+      <link>http://localhost:1313/dingen/2019/09/15701/</link>
       <pubDate>Sat, 14 Sep 2019 20:24:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15701</guid> 
       <description>&lt;p&gt;An interesting bit of news did the rounds last week but I&amp;rsquo;ve personally heard of multiple cases where people leaving online reviews have been faced with legal action.&lt;/p&gt;
@@ -253,7 +253,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15639/</link>
+      <link>http://localhost:1313/dingen/2019/08/15639/</link>
       <pubDate>Wed, 21 Aug 2019 21:12:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15639</guid> 
       <description>&lt;p&gt;Not enough popcorn in the world to read this exposé on Booking.com.&lt;/p&gt;
@@ -263,7 +263,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/15508/</link>
+      <link>http://localhost:1313/dingen/2019/06/15508/</link>
       <pubDate>Tue, 11 Jun 2019 19:58:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15508</guid> 
       <description>&lt;blockquote&gt;
@@ -274,7 +274,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15466/</link>
+      <link>http://localhost:1313/dingen/2019/05/15466/</link>
       <pubDate>Mon, 27 May 2019 22:07:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15466</guid> 
       <description>&lt;p&gt;Cities like Barcelona are starting to fight back against AirBnB and tourism.&lt;/p&gt;
@@ -283,7 +283,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15363/</link>
+      <link>http://localhost:1313/dingen/2019/04/15363/</link>
       <pubDate>Sun, 28 Apr 2019 14:31:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15363</guid> 
       <description>&lt;p&gt;“The economic costs Airbnb imposes likely outweigh the benefits.”&lt;/p&gt;
@@ -292,37 +292,37 @@
     </item>
     <item>
       <title>Presenting at the Good School</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/presenting-at-the-good-school/</link>
+      <link>http://localhost:1313/dingen/2018/05/presenting-at-the-good-school/</link>
       <pubDate>Fri, 18 May 2018 08:04:49 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6001</guid> 
       <description>&lt;p&gt;A couple of weeks ago I took the train to Hamburg and back to present at the Good School. Here&amp;rsquo;s a picture of me in action courtesy of &lt;a href=&#34;http://www.good-school.de/&#34;&gt;The Good School&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2018/05/presenting-at-the-good-school/dtc_t_3-tag_alper/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2018/05/DTC_T_3.-Tag_Alper.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2018/05/presenting-at-the-good-school/dtc_t_3-tag_alper/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2018/05/presenting-at-the-good-school/DTC_T_3.-Tag_Alper.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Packing List</title>
-      <link>http://localhost:62818/dingen/dingen/2016/04/packing-list/</link>
+      <link>http://localhost:1313/dingen/2016/04/packing-list/</link>
       <pubDate>Sat, 02 Apr 2016 14:32:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5547</guid> 
       <description>&lt;p&gt;I used to travel between the Netherlands and Germany at least once a month and pretty quickly I grew tired of forgetting things. That&amp;rsquo;s why I made a list (in &lt;strong&gt;bold&lt;/strong&gt;, comments added) with the things that I should take or at least consider taking. Whenever I pack my bag, I quickly scan the list and make sure I&amp;rsquo;ve covered the bases. Maybe it&amp;rsquo;ll be helpful to you as well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tokyo Coffee Notes</title>
-      <link>http://localhost:62818/dingen/dingen/2013/10/tokyo-coffee-notes/</link>
+      <link>http://localhost:1313/dingen/2013/10/tokyo-coffee-notes/</link>
       <pubDate>Sun, 20 Oct 2013 16:58:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4774</guid> 
       <description>&lt;p&gt;Here are my notes from a couple of weeks of drinking coffee in Tokyo on a fact finding mission for &lt;a href=&#34;http://www.cuppin.gs/&#34;&gt;Cuppings&lt;/a&gt;. With Cuppings we try to give you a guide of the best coffee places around the world based on our personal tastings. Some notable locales are still not as well represented as they should be. London and New York have their own excellent guides for coffee with &lt;a href=&#34;http://www.nytimes.com/interactive/2010/03/09/dining/20100309-new-york-coffee-map.html&#34;&gt;Oliver Strand&amp;rsquo;s Coffee App&lt;/a&gt; and &lt;a href=&#34;http://www.thelondoncoffeemap.com/&#34;&gt;the London Coffee Map&lt;/a&gt;. Tokyo is one place that I thought we should fill in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 336</title>
-      <link>http://localhost:62818/dingen/dingen/2013/10/week-336/</link>
+      <link>http://localhost:1313/dingen/2013/10/week-336/</link>
       <pubDate>Sun, 06 Oct 2013 12:16:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4792</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/9588195849/&#34; title=&#34;Beautiful new coffee place by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Beautiful new coffee place&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7295/9588195849_232cf26b33_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This was the week of getting a lot of things done and a minor John Boyd obsession. I read &lt;a href=&#34;https://www.goodreads.com/book/show/38840.Boyd&#34;&gt;the biography by Coram&lt;/a&gt; and queued the PhD thesis by Osinga to read as soon as I finish Latour&amp;rsquo;s Aramis ((This is all a move towards reading more foundational works (I &lt;a href=&#34;http://localhost:62818/dingen/2013/08/apply-your-philosophy/&#34;&gt;wrote about that here&lt;/a&gt;) instead of the pop-sci that permeates everything.)). &lt;a href=&#34;http://www.defensie.nl/nlda/onderzoek_en_onderwijs/wetenschappelijk_medewerkers/krijgswetenschappen/extra_informatie_osinga&#34;&gt;Frans Osinga&lt;/a&gt; is a rather impressive fellow if you look at his Ministry of Defense webpage. We were joking around that having a design event with him would be brilliant mind-expand. Unfortunately events take too much time to organize so that won&amp;rsquo;t be happening anytime soon.&lt;/p&gt;</description>
+&lt;p&gt;This was the week of getting a lot of things done and a minor John Boyd obsession. I read &lt;a href=&#34;https://www.goodreads.com/book/show/38840.Boyd&#34;&gt;the biography by Coram&lt;/a&gt; and queued the PhD thesis by Osinga to read as soon as I finish Latour&amp;rsquo;s Aramis ((This is all a move towards reading more foundational works (I &lt;a href=&#34;http://localhost:1313/dingen/2013/08/apply-your-philosophy/&#34;&gt;wrote about that here&lt;/a&gt;) instead of the pop-sci that permeates everything.)). &lt;a href=&#34;http://www.defensie.nl/nlda/onderzoek_en_onderwijs/wetenschappelijk_medewerkers/krijgswetenschappen/extra_informatie_osinga&#34;&gt;Frans Osinga&lt;/a&gt; is a rather impressive fellow if you look at his Ministry of Defense webpage. We were joking around that having a design event with him would be brilliant mind-expand. Unfortunately events take too much time to organize so that won&amp;rsquo;t be happening anytime soon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 332</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/week-332/</link>
+      <link>http://localhost:1313/dingen/2013/08/week-332/</link>
       <pubDate>Mon, 26 Aug 2013 07:15:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4719</guid> 
       <description>&lt;p&gt;Oh, this week. This week was how to put it rather intense.&lt;/p&gt;
@@ -330,7 +330,7 @@
     </item>
     <item>
       <title>Week 330</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/week-330/</link>
+      <link>http://localhost:1313/dingen/2013/08/week-330/</link>
       <pubDate>Mon, 12 Aug 2013 10:36:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4701</guid> 
       <description>&lt;p&gt;A new coffee place had reportedly opened up in the area and I went out searching for it. &lt;a href=&#34;https://foursquare.com/v/concierge-coffee/51d3f1e2498e15ad7aa4c00e&#34;&gt;Concierge&lt;/a&gt; is tucked into a gate on Paul-Lincke-Ufer and they are really nice guys pulling quality shots. It is amazing both that this part of Berlin which was quite barren when it comes to coffee is shaping up so nicely and also that&lt;/p&gt;
@@ -338,7 +338,7 @@
     </item>
     <item>
       <title>Week 328</title>
-      <link>http://localhost:62818/dingen/dingen/2013/07/week-328/</link>
+      <link>http://localhost:1313/dingen/2013/07/week-328/</link>
       <pubDate>Mon, 29 Jul 2013 09:14:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4695</guid> 
       <description>&lt;p&gt;Travel is making it hard to keep up writing these notes weekly (or write anything for that matter). So this blog is &lt;a href=&#34;http://ironbloggerberlin.com/&#34;&gt;turning into an expensive affair&lt;/a&gt;.&lt;/p&gt;
@@ -347,7 +347,7 @@
     </item>
     <item>
       <title>Week 324</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/week-324/</link>
+      <link>http://localhost:1313/dingen/2013/06/week-324/</link>
       <pubDate>Tue, 18 Jun 2013 07:36:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4652</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/8864206696/&#34; title=&#34;Bicycle madness by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Bicycle madness&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.staticflickr.com/2881/8864206696_05077e9c83_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -356,7 +356,7 @@
     </item>
     <item>
       <title>Week 320</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/week-320/</link>
+      <link>http://localhost:1313/dingen/2013/05/week-320/</link>
       <pubDate>Mon, 13 May 2013 12:32:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4540</guid> 
       <description>&lt;p&gt;The week before last started out with me still in Paris sampling the local coffee scene which has been improving massively over the past year or so.&lt;/p&gt;
@@ -367,7 +367,7 @@
     </item>
     <item>
       <title>Week 319</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/week-319/</link>
+      <link>http://localhost:1313/dingen/2013/05/week-319/</link>
       <pubDate>Sun, 12 May 2013 22:29:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4528</guid> 
       <description>&lt;p&gt;This week was the week where we were in full sprint for the pilot launch of KAIGARA. Besides that we had a dinner off &lt;a href=&#34;http://nextberlin.eu/&#34;&gt;NEXT&lt;/a&gt; with some people involved and some speakers. What I managed to catch from NEXT&amp;rsquo;s program while working was nothing short of splendid. &lt;a href=&#34;http://nextberlin.eu/2013/04/bruce-sterling-fantasy-prototypes-and-real-disruption/&#34;&gt;Bruce Sterling&amp;rsquo;s talk&lt;/a&gt; has been shared widely and I&amp;rsquo;m eagerly awaiting Anab Jain&amp;rsquo;s to be published as a video ( &lt;a href=&#34;http://www.superflux.in/blog/newnormal-revisited&#34;&gt;the slides are already there&lt;/a&gt;).&lt;/p&gt;
@@ -376,7 +376,7 @@
     </item>
     <item>
       <title>Week 318</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/week-318/</link>
+      <link>http://localhost:1313/dingen/2013/05/week-318/</link>
       <pubDate>Wed, 08 May 2013 13:26:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4524</guid> 
       <description>&lt;p&gt;Unbelievable how many weeks behind I am on these. That&amp;rsquo;s not wholly intended, but the last couple of weeks have been a bit busier than usual. This was the week of April 15th which I spent mostly in Amsterdam.&lt;/p&gt;
@@ -387,16 +387,16 @@
     </item>
     <item>
       <title>Week 317</title>
-      <link>http://localhost:62818/dingen/dingen/2013/04/week-317/</link>
+      <link>http://localhost:1313/dingen/2013/04/week-317/</link>
       <pubDate>Sun, 21 Apr 2013 19:25:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4508</guid> 
-      <description>&lt;p&gt;The week before this on Monday (almost two weeks ago), I went to a lecture by Graham Harman. &lt;a href=&#34;http://localhost:62818/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/&#34;&gt;Notes on that&lt;/a&gt; were blogged in a timely fashion.&lt;/p&gt;
+      <description>&lt;p&gt;The week before this on Monday (almost two weeks ago), I went to a lecture by Graham Harman. &lt;a href=&#34;http://localhost:1313/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/&#34;&gt;Notes on that&lt;/a&gt; were blogged in a timely fashion.&lt;/p&gt;
 &lt;p&gt;That week also involved a one-day trip to Munich to present on the work we did for a client there. More on that on the Hubbub blog in due course.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/8638417758/&#34; title=&#34;My desk optically flipped (not an Instagram filter) by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;My desk optically flipped (not an Instagram filter)&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8110/8638417758_05037692c5_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeks 313-4</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/weeks-313-4/</link>
+      <link>http://localhost:1313/dingen/2013/03/weeks-313-4/</link>
       <pubDate>Mon, 25 Mar 2013 12:27:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4463</guid> 
       <description>&lt;p&gt;Two week notes in one because last week seems to have been too busy to write any.&lt;/p&gt;
@@ -407,7 +407,7 @@
     </item>
     <item>
       <title>Week 312</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/week-312/</link>
+      <link>http://localhost:1313/dingen/2013/03/week-312/</link>
       <pubDate>Sat, 16 Mar 2013 12:23:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4401</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/8527131955/&#34; title=&#34;The German police state is up and about by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;The German police state is up and about&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8371/8527131955_97673a982f_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -419,7 +419,7 @@
     </item>
     <item>
       <title>Capitals I didn&#39;t visit until 2012</title>
-      <link>http://localhost:62818/dingen/dingen/2012/12/capitals-i-didnt-visit-until-2012/</link>
+      <link>http://localhost:1313/dingen/2012/12/capitals-i-didnt-visit-until-2012/</link>
       <pubDate>Mon, 31 Dec 2012 17:37:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3963</guid> 
       <description>&lt;p&gt;One recap of 2012 which was an odd year what with the international move and all. Still in the second half I managed to get &lt;strong&gt;a lot&lt;/strong&gt; of travel in leaving aside the almost monthly trips to Amsterdam by train. Dopplr unfortunately does not give me &lt;a href=&#34;http://www.dopplr.com/traveller/alper/public&#34;&gt;a total amount of kilometers&lt;/a&gt; travelled for 2012 anymore.&lt;/p&gt;
@@ -427,7 +427,7 @@
     </item>
     <item>
       <title>Week 301: a flurry of appointments in Amsterdam</title>
-      <link>http://localhost:62818/dingen/dingen/2012/12/week-301-a-flurry-of-appointments-in-amsterdam/</link>
+      <link>http://localhost:1313/dingen/2012/12/week-301-a-flurry-of-appointments-in-amsterdam/</link>
       <pubDate>Fri, 28 Dec 2012 07:57:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4108</guid> 
       <description>&lt;p&gt;Last Monday was the last day in Berlin before the holidays so something of a push here and there to get things to go through. That night we had a &lt;a href=&#34;http://vvvv.org/&#34;&gt;vvvv&lt;/a&gt; workshop at the studio hosted by Joreg to teach somewhere around eight people the basics of node based graphical environments (the only other one I had used extensively before was &lt;a href=&#34;http://www.opendx.org/&#34;&gt;Open DX&lt;/a&gt; and of course there&amp;rsquo;s Quartz Composer and &lt;a href=&#34;http://impure.com/&#34;&gt;Impure Quadrigram&lt;/a&gt;).&lt;/p&gt;
@@ -435,14 +435,14 @@
     </item>
     <item>
       <title>Monocle-isms</title>
-      <link>http://localhost:62818/dingen/dingen/2012/11/monocle-isms/</link>
+      <link>http://localhost:1313/dingen/2012/11/monocle-isms/</link>
       <pubDate>Tue, 20 Nov 2012 14:52:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3982</guid> 
       <description>&lt;p&gt;I picked up a &lt;a href=&#34;http://monocle.com/&#34;&gt;Monocle&lt;/a&gt; at Sydney airport for a long flight without laptop (along with &lt;a href=&#34;http://www.goodreads.com/book/show/7141642-the-thousand-autumns-of-jacob-de-zoet&#34;&gt;a book&lt;/a&gt;) and I was a bit disappointed ((In retrospect I should have bought a New Yorker if they had them, but this was an impulse purchase and yes I too do aspire in a modest way.)) in finding that the magazine hadn&amp;rsquo;t progressed much since I first read it years ago. It still is that strangely a-political collection of fluff pieces for the spendy class and because of the current realities of print publishing now also brimful of advertorials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 296: Back in Europe/business</title>
-      <link>http://localhost:62818/dingen/dingen/2012/11/week-296-back-in-europebusiness/</link>
+      <link>http://localhost:1313/dingen/2012/11/week-296-back-in-europebusiness/</link>
       <pubDate>Mon, 19 Nov 2012 17:40:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3989</guid> 
       <description>&lt;p&gt;After some weeks traveling to Beijing and Australia, last week I was back in Europe, touching down in Amsterdam Tuesday morning early. I had a very nice flight in from Sydney with the only annoyance being that my laptop had broken upon arrival there. This made me spend half a day of the two I had there in the &lt;a href=&#34;http://www.apple.com/au/retail/bondi/&#34;&gt;Bondi Apple Store&lt;/a&gt; trying to figure out what the problem was.&lt;/p&gt;
@@ -450,15 +450,15 @@
     </item>
     <item>
       <title>Week 292: Ignite, GSL, pre-trip prep</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/week-292-ignite-gsl-pre-trip-prep/</link>
+      <link>http://localhost:1313/dingen/2012/10/week-292-ignite-gsl-pre-trip-prep/</link>
       <pubDate>Fri, 26 Oct 2012 03:46:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3971</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m sitting here at &lt;a href=&#34;http://en.bcia.com.cn/&#34;&gt;Beijing Airport&lt;/a&gt; writing these too late weeknotes on their free WiFi ((Also: it is nice to still have a blog in a country where most social services are effectively a SPOF.)) which is an oddly implemented but still excellent service.&lt;/p&gt;
-&lt;p&gt;Last week was mostly spent with a &lt;a href=&#34;http://localhost:62818/dingen/2012/10/games-on-ignite-berlin-3/#footnote_0_3965&#34;&gt;scattered brain&lt;/a&gt; working on my ignite an various proposals. We had a studio meeting at &lt;a href=&#34;http://praxisberlin.net/&#34;&gt;Praxis&lt;/a&gt; to discuss recent developments and issues.&lt;/p&gt;</description>
+&lt;p&gt;Last week was mostly spent with a &lt;a href=&#34;http://localhost:1313/dingen/2012/10/games-on-ignite-berlin-3/#footnote_0_3965&#34;&gt;scattered brain&lt;/a&gt; working on my ignite an various proposals. We had a studio meeting at &lt;a href=&#34;http://praxisberlin.net/&#34;&gt;Praxis&lt;/a&gt; to discuss recent developments and issues.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 282: back in Berlin, street games at Play Publik</title>
-      <link>http://localhost:62818/dingen/dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/</link>
+      <link>http://localhost:1313/dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/</link>
       <pubDate>Sat, 18 Aug 2012 08:00:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3775</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/7724995406/&#34; title=&#34;Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8423/7724995406_bc89014832.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -466,7 +466,7 @@
     </item>
     <item>
       <title>Weeks 280-281: Traveling and vacation</title>
-      <link>http://localhost:62818/dingen/dingen/2012/08/weeks-280-281-traveling-and-vacation/</link>
+      <link>http://localhost:1313/dingen/2012/08/weeks-280-281-traveling-and-vacation/</link>
       <pubDate>Fri, 10 Aug 2012 16:38:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3768</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/7636181826/&#34; title=&#34;Having my mind catch up with me in the garden by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Having my mind catch up with me in the garden&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8161/7636181826_6899cf7e92.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -476,7 +476,7 @@
     </item>
     <item>
       <title>Gentse Feesten: a fantastic city festival</title>
-      <link>http://localhost:62818/dingen/dingen/2012/08/gentse-feesten-a-fantastic-city-festival/</link>
+      <link>http://localhost:1313/dingen/2012/08/gentse-feesten-a-fantastic-city-festival/</link>
       <pubDate>Wed, 08 Aug 2012 11:55:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3697</guid> 
       <description>&lt;p&gt;I spent two days in Ghent a Belgian city that is lovely in its own right, but really shines for a long week every summer when it has its own festival: the Gentse Feesten. I&amp;rsquo;d been there once before some ten years ago and had a lot of fun there. So &lt;a href=&#34;http://www.visitflanders.com/&#34;&gt;Tourism Flanders&lt;/a&gt; gave me the chance to revisit.&lt;/p&gt;
@@ -484,7 +484,7 @@
     </item>
     <item>
       <title>Week 279: Paris, Numerical Revolutions, Helsinki, Dutch eCulture Days</title>
-      <link>http://localhost:62818/dingen/dingen/2012/07/week-279-paris-numerical-revolutions-helsinki-dutch-eculture-days/</link>
+      <link>http://localhost:1313/dingen/2012/07/week-279-paris-numerical-revolutions-helsinki-dutch-eculture-days/</link>
       <pubDate>Mon, 30 Jul 2012 07:35:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3712</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/7590724728/&#34; title=&#34;Oh La La Gare du Nord by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Oh La La Gare du Nord&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8157/7590724728_5e79e6275f.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/7592389114/&#34; title=&#34;Pyramids by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Pyramids&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7135/7592389114_89d1af3f5c.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -494,7 +494,7 @@
     </item>
     <item>
       <title>Week 275: Athens</title>
-      <link>http://localhost:62818/dingen/dingen/2012/07/week-275-athens/</link>
+      <link>http://localhost:1313/dingen/2012/07/week-275-athens/</link>
       <pubDate>Mon, 02 Jul 2012 15:51:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3682</guid> 
       <description>&lt;p&gt;The week before last I spent in Athens mostly hanging out, going to the beach and getting some work done.&lt;/p&gt;
@@ -502,7 +502,7 @@
     </item>
     <item>
       <title>Greece, a society undergoing Stockholm syndrome</title>
-      <link>http://localhost:62818/dingen/dingen/2012/06/greece-a-society-undergoing-stockholm-syndrome/</link>
+      <link>http://localhost:1313/dingen/2012/06/greece-a-society-undergoing-stockholm-syndrome/</link>
       <pubDate>Wed, 27 Jun 2012 12:57:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3641</guid> 
       <description>&lt;p&gt;I spent last week in Athens because &lt;a href=&#34;http://fraulea.tumblr.com/&#34;&gt;Lea&lt;/a&gt; was at work at the &lt;a href=&#34;http://www.greekfestival.gr/en/&#34;&gt;Athens &amp;amp; Epidaurus festival&lt;/a&gt; where &lt;a href=&#34;http://www.schaubuehne.de/&#34;&gt;the Schaubühne&lt;/a&gt; staged two plays. I spent the week relaxing, working and taking in the Athens air.&lt;/p&gt;
@@ -512,15 +512,15 @@
     </item>
     <item>
       <title>Copenhagen Bikes</title>
-      <link>http://localhost:62818/dingen/dingen/2012/06/copenhagen-bikes/</link>
+      <link>http://localhost:1313/dingen/2012/06/copenhagen-bikes/</link>
       <pubDate>Thu, 21 Jun 2012 11:39:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3602</guid> 
       <description>&lt;p&gt;During my visit to Copenhagen I tried to make use of the &lt;a href=&#34;http://www.bycyklen.dk/&#34;&gt;Copenhagen City Bike&lt;/a&gt; system. Although eventually successful, it turns out bicycle sharing systems without a digital component can lead to frustrations.&lt;/p&gt;
-&lt;p&gt;Where &lt;a href=&#34;http://localhost:62818/dingen/2010/09/boris-bikes-are-made-of-epic-win/&#34;&gt;London&amp;rsquo;s Boris Bikes&lt;/a&gt; provide a digital readout of station occupancy in Copenhagen you need to walk around and see which (if any) station still has a bike in it. Late afternoon this turns up empty most of the time because it seems many tourists get one and then camp on their bike for the rest of the day or their stay.&lt;/p&gt;</description>
+&lt;p&gt;Where &lt;a href=&#34;http://localhost:1313/dingen/2010/09/boris-bikes-are-made-of-epic-win/&#34;&gt;London&amp;rsquo;s Boris Bikes&lt;/a&gt; provide a digital readout of station occupancy in Copenhagen you need to walk around and see which (if any) station still has a bike in it. Late afternoon this turns up empty most of the time because it seems many tourists get one and then camp on their bike for the rest of the day or their stay.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Racism at the border, or not so Schengen after all</title>
-      <link>http://localhost:62818/dingen/dingen/2012/03/racism-at-the-border-or-not-so-schengen-after-all/</link>
+      <link>http://localhost:1313/dingen/2012/03/racism-at-the-border-or-not-so-schengen-after-all/</link>
       <pubDate>Fri, 30 Mar 2012 15:22:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3450</guid> 
       <description>&lt;p&gt;The train just had its stop in &lt;a href=&#34;http://en.wikipedia.org/wiki/Bad_Bentheim&#34;&gt;Bad Bentheim&lt;/a&gt; entering Germany. At that stop we usually get a short break, a new locomotive and the German border police checking the train. Border police? Didn&amp;rsquo;t the &lt;a href=&#34;http://en.wikipedia.org/wiki/Schengen_Agreement&#34;&gt;Schengen Agreement&lt;/a&gt; abolish checks at the signing countries&amp;rsquo; borders?&lt;/p&gt;
@@ -528,16 +528,16 @@
     </item>
     <item>
       <title>Dutch Train Times are open</title>
-      <link>http://localhost:62818/dingen/dingen/2011/04/dutch-train-times-are-open/</link>
+      <link>http://localhost:1313/dingen/2011/04/dutch-train-times-are-open/</link>
       <pubDate>Fri, 22 Apr 2011 14:19:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2548</guid> 
-      <description>&lt;p&gt;Two years after &lt;a href=&#34;http://localhost:62818/dingen/2009/03/op-radio-online-tegen-de-ns/&#34;&gt;I harrangued the Dutch national railways&lt;/a&gt; on radio about their closed data policy and &lt;a href=&#34;http://localhost:62818/dingen/2009/04/een-soort-van-antwoord-van-de-ns/&#34;&gt;debunked all their arguments&lt;/a&gt; why they would not open up this data.&lt;/p&gt;
+      <description>&lt;p&gt;Two years after &lt;a href=&#34;http://localhost:1313/dingen/2009/03/op-radio-online-tegen-de-ns/&#34;&gt;I harrangued the Dutch national railways&lt;/a&gt; on radio about their closed data policy and &lt;a href=&#34;http://localhost:1313/dingen/2009/04/een-soort-van-antwoord-van-de-ns/&#34;&gt;debunked all their arguments&lt;/a&gt; why they would not open up this data.&lt;/p&gt;
 &lt;p&gt;This month the &lt;a href=&#34;http://www.ns.nl&#34;&gt;NS&lt;/a&gt; opened up their data via &lt;a href=&#34;http://www.ns.nl/cs/Satellite/reizigers/api&#34;&gt;an official API&lt;/a&gt;. And one of the first applications is &lt;a href=&#34;http://kubus.mailspool.nl/spoorkaart/&#34;&gt;this live train map of the Netherlands&lt;/a&gt; which is just wonderful. It simply exposes something that we knew implicitly and displays it very fluently.&lt;/p&gt;
 &lt;p&gt;This is just one of the many open data dominoes falling this year, but a very nice one and yes it looks like victory is within our grasp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A more messy city</title>
-      <link>http://localhost:62818/dingen/dingen/2011/03/a-more-messy-city/</link>
+      <link>http://localhost:1313/dingen/2011/03/a-more-messy-city/</link>
       <pubDate>Fri, 04 Mar 2011 16:07:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2464</guid> 
       <description>&lt;p&gt;We spent last weekend having &lt;a href=&#34;http://www.flickr.com/photos/alper/5496175719/&#34;&gt;a veritable blast&lt;/a&gt; at the &lt;a href=&#34;http://cognitivecities.com/&#34;&gt;Cognitive Cities&lt;/a&gt; conference. It was a great spectacle of familiar faces, a nicely curated program and full frontal confrontations with the city of Berlin.&lt;/p&gt;
@@ -545,15 +545,15 @@
     </item>
     <item>
       <title>Tekst NRC.next-artikel openbaar vervoersgegevens</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/tekst-nrc-next-artikel-openbaar-vervoersgegevens/</link>
+      <link>http://localhost:1313/dingen/2010/10/tekst-nrc-next-artikel-openbaar-vervoersgegevens/</link>
       <pubDate>Fri, 05 Nov 2010 05:16:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2253</guid> 
       <description>&lt;p&gt;Stukjes schrijven zonder hyperlinks erin is gek, maar dat komt erbij kijken als het op krantenpapier gedrukt moet worden. In ieder geval is vandaag een stuk van mij gepubliceerd op de opinie-pagina van de &lt;a href=&#34;http://www.nrcnext.nl/&#34;&gt;nrc.next: “Dat moet toch beter kunnen? — Geef vervoersinformatie vrij&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In dat stuk betoog ik dat de gegevens van het openbaar vervoer vrij beschikbaar moeten zijn voor reizigers. Dit is onderdeel van een langer &lt;a href=&#34;http://localhost:62818/dingen/index.php?s=openbaar+vervoer&#34;&gt;thema op dit blog&lt;/a&gt; en van een recente ontwikkeling voor &lt;a href=&#34;http://localhost:62818/dingen/index.php?s=open+data&#34;&gt;open data in de breedste zin&lt;/a&gt; van het woord.&lt;/p&gt;</description>
+&lt;p&gt;In dat stuk betoog ik dat de gegevens van het openbaar vervoer vrij beschikbaar moeten zijn voor reizigers. Dit is onderdeel van een langer &lt;a href=&#34;http://localhost:1313/dingen/index.php?s=openbaar+vervoer&#34;&gt;thema op dit blog&lt;/a&gt; en van een recente ontwikkeling voor &lt;a href=&#34;http://localhost:1313/dingen/index.php?s=open+data&#34;&gt;open data in de breedste zin&lt;/a&gt; van het woord.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gone fishing</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/gone-fishing/</link>
+      <link>http://localhost:1313/dingen/2010/10/gone-fishing/</link>
       <pubDate>Sat, 16 Oct 2010 15:30:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2206</guid> 
       <description>&lt;p&gt;By the time you&amp;rsquo;re reading this I will have flown off to the Levant to spend three weeks mainly in &lt;a href=&#34;http://en.wikipedia.org/wiki/Damascus&#34;&gt;Damascus&lt;/a&gt;, Syria.&lt;/p&gt;
@@ -561,7 +561,7 @@
     </item>
     <item>
       <title>Boris Bikes are made of epic win</title>
-      <link>http://localhost:62818/dingen/dingen/2010/09/boris-bikes-are-made-of-epic-win/</link>
+      <link>http://localhost:1313/dingen/2010/09/boris-bikes-are-made-of-epic-win/</link>
       <pubDate>Sun, 05 Sep 2010 15:56:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2069</guid> 
       <description>&lt;p&gt;This week I had my yearly trip to the UK to attend the dConstruct conference in Brighton. Usually I add some time to visit London too and explore the things that need exploring.&lt;/p&gt;
@@ -569,7 +569,7 @@
     </item>
     <item>
       <title>Design Mind</title>
-      <link>http://localhost:62818/dingen/dingen/2010/08/design-mind/</link>
+      <link>http://localhost:1313/dingen/2010/08/design-mind/</link>
       <pubDate>Thu, 12 Aug 2010 15:18:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2030</guid> 
       <description>&lt;p&gt;From slide 47 on is the core of &lt;a href=&#34;http://janchipchase.com/2010/08/design-mind-shanghai/&#34;&gt;this presentation by Jan Chipchase&lt;/a&gt;:&lt;/p&gt;
@@ -585,7 +585,7 @@
     </item>
     <item>
       <title>GVB clusterfuck</title>
-      <link>http://localhost:62818/dingen/dingen/2010/07/gvb-clusterfuck/</link>
+      <link>http://localhost:1313/dingen/2010/07/gvb-clusterfuck/</link>
       <pubDate>Sun, 25 Jul 2010 11:20:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1993</guid> 
       <description>&lt;p&gt;Terwijl we aan de andere kant een strijd voeren voor vrij beschikbare openbaar vervoersinformatie is het openbaar vervoer zelf in een ‘wereldstad’ als Amsterdam nog een zooitje.&lt;/p&gt;
@@ -593,16 +593,16 @@
     </item>
     <item>
       <title>Turks-Syrische herontdekking</title>
-      <link>http://localhost:62818/dingen/dingen/2010/07/turks-syrische-herontdekking/</link>
+      <link>http://localhost:1313/dingen/2010/07/turks-syrische-herontdekking/</link>
       <pubDate>Tue, 20 Jul 2010 09:22:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1982</guid> 
       <description>&lt;p&gt;De grens tussen Turkije en Syrië is tegenwoordig compleet open en Turkije ‘groeit uit zijn voegen’ ((Wat nou Eurozone…)):&lt;/p&gt;
-&lt;p&gt;Aleppo is maar een half uurtje rijden over de grens en een totaal andere wereld. Samen met de bouw en handel die toenemen zal nu het toerisme waarschijnlijk ook groeien. Voorbij is het ongerepte Syrië waar ik &lt;a href=&#34;http://localhost:62818/dingen/index.php?s=syri%C3%AB&#34;&gt;drie jaar geleden&lt;/a&gt; met wat kunst en vliegwerk in kon reizen.&lt;/p&gt;
+&lt;p&gt;Aleppo is maar een half uurtje rijden over de grens en een totaal andere wereld. Samen met de bouw en handel die toenemen zal nu het toerisme waarschijnlijk ook groeien. Voorbij is het ongerepte Syrië waar ik &lt;a href=&#34;http://localhost:1313/dingen/index.php?s=syri%C3%AB&#34;&gt;drie jaar geleden&lt;/a&gt; met wat kunst en vliegwerk in kon reizen.&lt;/p&gt;
 &lt;p&gt;Goed wel, maar toch een beetje jammer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hangjongeren</title>
-      <link>http://localhost:62818/dingen/dingen/2010/06/1917/</link>
+      <link>http://localhost:1313/dingen/2010/06/1917/</link>
       <pubDate>Tue, 29 Jun 2010 17:44:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1917</guid> 
       <description>&lt;p&gt;Jelle Brandt Corstius &lt;em&gt;nailt&lt;/em&gt; het:&lt;/p&gt;
@@ -611,7 +611,7 @@
     </item>
     <item>
       <title>Toename in veiligheid door de ov-chipkaart</title>
-      <link>http://localhost:62818/dingen/dingen/2010/03/toename-in-veiligheid-door-de-ov-chipkaart/</link>
+      <link>http://localhost:1313/dingen/2010/03/toename-in-veiligheid-door-de-ov-chipkaart/</link>
       <pubDate>Mon, 01 Mar 2010 15:37:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1606</guid> 
       <description>&lt;p&gt;De OV-chipkaart is een groot succes in de Amsterdamse metro. Het aantal zwartrijders is afgenomen en navenant ook het aantal geweldsincidenten.&lt;/p&gt;
@@ -620,7 +620,7 @@
     </item>
     <item>
       <title>Year in Cities 2009</title>
-      <link>http://localhost:62818/dingen/dingen/2010/01/year-in-cities-2009/</link>
+      <link>http://localhost:1313/dingen/2010/01/year-in-cities-2009/</link>
       <pubDate>Sat, 02 Jan 2010 14:20:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1471</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s &lt;a href=&#34;http://novemberborn.net/2009/12/my-year-in-cities-2009-347&#34;&gt;that time&lt;/a&gt; of the year again, a modest list this time compared to &lt;a href=&#34;http://annevankesteren.nl/&#34;&gt;some&lt;/a&gt;:&lt;/p&gt;
@@ -639,16 +639,16 @@
     </item>
     <item>
       <title>Het gebrek aan kaizen in het openbaar vervoer</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/het-gebrek-aan-kaizen-in-het-openbaar-vervoer/</link>
+      <link>http://localhost:1313/dingen/2009/12/het-gebrek-aan-kaizen-in-het-openbaar-vervoer/</link>
       <pubDate>Mon, 28 Dec 2009 11:29:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1451</guid> 
-      <description>&lt;p&gt;Ik schreef hier al eerder dat &lt;a href=&#34;http://localhost:62818/dingen/2009/12/ov-chipkaart-ellende/&#34;&gt;de ov-chipkaart kut&lt;/a&gt; ((Excusez le mot, maar er is geen ander wat de lading zo goed dekt.)) is. Het is nog steeds kut.&lt;/p&gt;
+      <description>&lt;p&gt;Ik schreef hier al eerder dat &lt;a href=&#34;http://localhost:1313/dingen/2009/12/ov-chipkaart-ellende/&#34;&gt;de ov-chipkaart kut&lt;/a&gt; ((Excusez le mot, maar er is geen ander wat de lading zo goed dekt.)) is. Het is nog steeds kut.&lt;/p&gt;
 &lt;h3 id=&#34;trage-poortjes&#34;&gt;Trage poortjes&lt;/h3&gt;
 &lt;p&gt;Hier moet ik even een filmpje van schieten om het voelbaar te maken. Er staan tijdens de spits rijen voor de poortjes. Op station Amstel blokkeren groepen mensen de roltrappen boven op de perrons omdat ze daar in- en uitchecken (wat niet de bedoeling is). En de poortjes zijn gewoonweg niet snel genoeg.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NextMuni â€” Wanneer komt de volgende tram?</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/nextmuni-%E2%80%94-wanneer-komt-de-volgende-tram/</link>
+      <link>http://localhost:1313/dingen/2009/12/nextmuni-%E2%80%94-wanneer-komt-de-volgende-tram/</link>
       <pubDate>Mon, 21 Dec 2009 11:24:49 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1428</guid> 
       <description>&lt;p&gt;De vervoersmaatschappij van San Francisco geeft &lt;a href=&#34;http://www.sfmta.com/cms/asite/nextmunidata.htm&#34;&gt;de voorspelde aankomsttijd&lt;/a&gt; van het volgende voertuig op een willekeurige halte vrij in een handig XML-formaat. Daarmee kun je leuke dingen bouwen, zoals bijvoorbeeld &lt;a href=&#34;http://headwayblog.com/2009/12/14/telling-time-with-openrealtime-data/&#34;&gt;een horloge wat de volgende tram&lt;/a&gt; aangeeft.&lt;/p&gt;
@@ -657,7 +657,7 @@
     </item>
     <item>
       <title>OV-chipkaart: kansen voor verbetering</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/ov-chipkaart-ellende/</link>
+      <link>http://localhost:1313/dingen/2009/12/ov-chipkaart-ellende/</link>
       <pubDate>Mon, 07 Dec 2009 18:21:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1396</guid> 
       <description>&lt;p&gt;Ik ben eenduidig voor de ov-chipkaart. De cognitieve moeite die het bespaart bij het reizen in het openbaar vervoer (temminste als je simpele routes gebruikt en niet overstapt op de trein) is geweldig.&lt;/p&gt;
@@ -665,16 +665,16 @@
     </item>
     <item>
       <title>Reisadvies ov moet beter</title>
-      <link>http://localhost:62818/dingen/dingen/2009/11/reisadvies-ov-moet-beter/</link>
+      <link>http://localhost:1313/dingen/2009/11/reisadvies-ov-moet-beter/</link>
       <pubDate>Sun, 15 Nov 2009 22:25:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1372</guid> 
       <description>&lt;p&gt;Ik zou zeggen “duh!”, maar je kunt net zo goed zeggen dat dit een revolutie inluidt:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/11/105-01.gif&#34;&gt;&lt;img alt=&#34;Reisadvies ov moet beter&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/11/105-01.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;105-01.gif&#34;&gt;&lt;img alt=&#34;Reisadvies ov moet beter&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2009/11/reisadvies-ov-moet-beter/105-01.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Heel vet. Laten we zien wat er gebeurt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gone surfing, come back later</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/gone-surfing-come-back-later/</link>
+      <link>http://localhost:1313/dingen/2009/10/gone-surfing-come-back-later/</link>
       <pubDate>Sat, 31 Oct 2009 17:04:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1367</guid> 
       <description>&lt;p&gt;By the time you&amp;rsquo;re reading this I&amp;rsquo;ll be on a brief &lt;a href=&#34;http://www.dopplr.com/trip/alper/923013&#34;&gt;holiday to Morocco&lt;/a&gt; to surf and eat local cuisine. It&amp;rsquo;s been too long.&lt;/p&gt;
@@ -682,7 +682,7 @@
     </item>
     <item>
       <title>City Hopping</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/city-hopping/</link>
+      <link>http://localhost:1313/dingen/2009/10/city-hopping/</link>
       <pubDate>Fri, 23 Oct 2009 05:58:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1321</guid> 
       <description>&lt;p&gt;Jumping all over the randstad these past weeks. Some gems to be found:
@@ -690,7 +690,7 @@
     </item>
     <item>
       <title>Shared bicycle transit systems</title>
-      <link>http://localhost:62818/dingen/dingen/2009/09/shared-bicycle-transit-systems/</link>
+      <link>http://localhost:1313/dingen/2009/09/shared-bicycle-transit-systems/</link>
       <pubDate>Sun, 27 Sep 2009 22:16:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1245</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve recently used my first &lt;a href=&#34;http://www.ov-fiets.nl/&#34;&gt;OV-fiets&lt;/a&gt; and it was a fantastic experience ((The fact that I used it to bike out to &lt;a href=&#34;http://www.flickr.com/photos/alper/3919129087/&#34;&gt;a theater festival&lt;/a&gt; in a nature reserve may have contributed to that.)). It&amp;rsquo;s a great way to bridge the last couple of miles on your transit experience and I think an important addition to the public transportation system.&lt;/p&gt;
@@ -699,7 +699,7 @@ CC picture by &lt;a href=&#34;http://www.annehelmond.nl/&#34;&gt;Anne Helmond&lt
     </item>
     <item>
       <title>Nooit meer met de trein naar Londen</title>
-      <link>http://localhost:62818/dingen/dingen/2009/09/nooit-meer-met-de-trein-naar-londen/</link>
+      <link>http://localhost:1313/dingen/2009/09/nooit-meer-met-de-trein-naar-londen/</link>
       <pubDate>Mon, 14 Sep 2009 11:00:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1206</guid> 
       <description>&lt;p&gt;Ik denk niet dat ik binnenkort nog met de trein naar Londen ga.&lt;/p&gt;
@@ -708,7 +708,7 @@ CC picture by &lt;a href=&#34;http://www.annehelmond.nl/&#34;&gt;Anne Helmond&lt
     </item>
     <item>
       <title>Nationale Databank Wegverkeersgegevens</title>
-      <link>http://localhost:62818/dingen/dingen/2009/07/nationaal-databank-wegverkeersgegevens/</link>
+      <link>http://localhost:1313/dingen/2009/07/nationaal-databank-wegverkeersgegevens/</link>
       <pubDate>Wed, 22 Jul 2009 11:32:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1112</guid> 
       <description>&lt;p&gt;Via &lt;a href=&#34;http://gvenkdaily.nl&#34;&gt;Gerard&lt;/a&gt; het nieuws over het &lt;a href=&#34;http://tweakers.net/nieuws/61095/nationale-databank-wegverkeersgegevens-moet-fileleed-verminderen.html&#34;&gt;NDW dat geopend is door Minister Eurlings&lt;/a&gt;. Het eerste resultaat is een warrige site: &lt;a href=&#34;http://www.nationaaldatawarehouse.nl/&#34;&gt;Nationaaldatawarehouse.nl&lt;/a&gt;.&lt;/p&gt;
@@ -716,7 +716,7 @@ CC picture by &lt;a href=&#34;http://www.annehelmond.nl/&#34;&gt;Anne Helmond&lt
     </item>
     <item>
       <title>Rebooted</title>
-      <link>http://localhost:62818/dingen/dingen/2009/07/rebooted/</link>
+      <link>http://localhost:1313/dingen/2009/07/rebooted/</link>
       <pubDate>Fri, 03 Jul 2009 09:35:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1090</guid> 
       <description>&lt;p&gt;Last week I got Rebooted in Copenhagen again. Drove up with &lt;a href=&#34;http://www.flickr.com/photos/alper/3676235876/in/set-72157620636875097/&#34;&gt;Peter&lt;/a&gt; and &lt;a href=&#34;http://www.flickr.com/photos/alper/3676238350/in/set-72157620636875097/&#34;&gt;Iskander&lt;/a&gt;.&lt;/p&gt;
@@ -726,7 +726,7 @@ CC picture by &lt;a href=&#34;http://www.annehelmond.nl/&#34;&gt;Anne Helmond&lt
     </item>
     <item>
       <title>Ramen open in het openbaar vervoer</title>
-      <link>http://localhost:62818/dingen/dingen/2009/05/ramen-open-in-het-openbaar-vervoer/</link>
+      <link>http://localhost:1313/dingen/2009/05/ramen-open-in-het-openbaar-vervoer/</link>
       <pubDate>Wed, 20 May 2009 15:35:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=989</guid> 
       <description>&lt;p&gt;Dennis &lt;a href=&#34;http://twitter.com/naquah/status/1837494417&#34;&gt;tipte&lt;/a&gt; me net deze video:&lt;/p&gt;
@@ -736,24 +736,24 @@ CC picture by &lt;a href=&#34;http://www.annehelmond.nl/&#34;&gt;Anne Helmond&lt
     </item>
     <item>
       <title>Een soort van antwoord van de NS</title>
-      <link>http://localhost:62818/dingen/dingen/2009/04/een-soort-van-antwoord-van-de-ns/</link>
+      <link>http://localhost:1313/dingen/2009/04/een-soort-van-antwoord-van-de-ns/</link>
       <pubDate>Wed, 01 Apr 2009 22:11:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=899</guid> 
       <description>&lt;p&gt;Ik vernam al dat de NS op de afgelopen Mobile Monday probeerde hun nieuwe reisplanner te pitchen. Dat was afgaand op &lt;a href=&#34;http://search.twitter.com/search?q=momo+ns&#34;&gt;de reacties via Twitter&lt;/a&gt; geen doorslaand succes.&lt;/p&gt;
 &lt;p&gt;Zojuist op de &lt;a href=&#34;http://gvenkdaily.nl/&#34;&gt;gvenkdaily&lt;/a&gt; ( &lt;a href=&#34;http://twitter.com/gvenkdaily/status/1430051480&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/gvenkdaily/status/1430057131&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/gvenkdaily/status/1430062685&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/gvenkdaily/status/1430067592&#34;&gt;4&lt;/a&gt;) wat referenties naar verslaggeving over dit onderwerp en fragmentarisch de argumenten waarom de NS weigert hun gegevens open te gooien.&lt;/p&gt;
-&lt;p&gt;Ik &lt;a href=&#34;http://localhost:62818/dingen/2009/03/op-radio-online-tegen-de-ns/&#34;&gt;schreef hier eerder al over&lt;/a&gt; en mensen vragen steeds aan mÃ­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.&lt;/p&gt;</description>
+&lt;p&gt;Ik &lt;a href=&#34;http://localhost:1313/dingen/2009/03/op-radio-online-tegen-de-ns/&#34;&gt;schreef hier eerder al over&lt;/a&gt; en mensen vragen steeds aan mÃ­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Op Radio Online tegen de NS</title>
-      <link>http://localhost:62818/dingen/dingen/2009/03/op-radio-online-tegen-de-ns/</link>
+      <link>http://localhost:1313/dingen/2009/03/op-radio-online-tegen-de-ns/</link>
       <pubDate>Sat, 28 Mar 2009 16:54:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=865</guid> 
-      <description>&lt;p&gt;Ik was &lt;a href=&#34;http://www.radio-online.nl/pivot/entry.php?id=1836&#34;&gt;gisteren dus op Radio Online&lt;/a&gt; ((Ik mocht het van tevoren niet echt Twitteren wat ik toch een beetje gek vind.)) ( &lt;a href=&#34;http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20090321-17.wma?start=25:21&#34;&gt;audio&lt;/a&gt;) waar ik &lt;a href=&#34;http://localhost:62818/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/&#34;&gt;een kritiek&lt;/a&gt; mocht uiten tegen de strategie van de &lt;a href=&#34;http://www.ns.nl&#34;&gt;NS&lt;/a&gt; van het niet vrijgeven van de vervoersgegevens.&lt;/p&gt;
+      <description>&lt;p&gt;Ik was &lt;a href=&#34;http://www.radio-online.nl/pivot/entry.php?id=1836&#34;&gt;gisteren dus op Radio Online&lt;/a&gt; ((Ik mocht het van tevoren niet echt Twitteren wat ik toch een beetje gek vind.)) ( &lt;a href=&#34;http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20090321-17.wma?start=25:21&#34;&gt;audio&lt;/a&gt;) waar ik &lt;a href=&#34;http://localhost:1313/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/&#34;&gt;een kritiek&lt;/a&gt; mocht uiten tegen de strategie van de &lt;a href=&#34;http://www.ns.nl&#34;&gt;NS&lt;/a&gt; van het niet vrijgeven van de vervoersgegevens.&lt;/p&gt;
 &lt;p&gt;Corine van Drunen van de NS laat het na om in te gaan op de vragen die gesteld werden en maak zich er daarna van af door te verwijzen naar het feit dat de NS haar planmatige gegevens ter beschikking stelt aan 9292ov. 9292 is een gezamenlijke site van de vervoerders waar de gegevens in een bepaalde vorm worden ontsloten maar die niet een herbruikbare toegang tot vervoersgegevens biedt. Daarnaast zou het handig zijn om de dynamische reisgegevens (de actuele posities van vervoersmiddelen) te hebben maar in eerste instantie zouden we al blij zijn met de planmatige gegevens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SxSWi Conference Highlights</title>
-      <link>http://localhost:62818/dingen/dingen/2009/03/sxswi-conference-highlights/</link>
+      <link>http://localhost:1313/dingen/2009/03/sxswi-conference-highlights/</link>
       <pubDate>Fri, 20 Mar 2009 20:23:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=843</guid> 
       <description>&lt;p&gt;Here&amp;rsquo;s a list of some of my favorite things from SxSW:&lt;/p&gt;
@@ -764,7 +764,7 @@ Also the realization that you don&amp;rsquo;t need a laptop or a DSLR (thanks &l
     </item>
     <item>
       <title>De NS spant het paard achter de trein</title>
-      <link>http://localhost:62818/dingen/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/</link>
+      <link>http://localhost:1313/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/</link>
       <pubDate>Thu, 19 Mar 2009 16:08:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=835</guid> 
       <description>&lt;p&gt;Een &lt;a href=&#34;http://www.marketingfacts.nl/berichten/20090318_ns_reisinformatie_nieuwe_stijl_met_videoreview/&#34;&gt;redelijk zachte review&lt;/a&gt; van de nieuwe NS-applicatie op Marketingfacts (ook &lt;a href=&#34;http://tweakers.net/nieuws/59093/ns-wil-iphone-en-blackberry-reisplanner-maken-update.html&#34;&gt;Tweakers&lt;/a&gt;).&lt;/p&gt;
@@ -773,7 +773,7 @@ Also the realization that you don&amp;rsquo;t need a laptop or a DSLR (thanks &l
     </item>
     <item>
       <title>Away from office</title>
-      <link>http://localhost:62818/dingen/dingen/2009/03/away-from-office/</link>
+      <link>http://localhost:1313/dingen/2009/03/away-from-office/</link>
       <pubDate>Thu, 12 Mar 2009 08:00:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=830</guid> 
       <description>&lt;p&gt;Ik ben even een weekje naar &lt;a href=&#34;http://sxsw.com/interactive/&#34;&gt;Austin&lt;/a&gt; voor een woestijn-retraite met vakgenoten.&lt;/p&gt;
@@ -783,7 +783,7 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
     </item>
     <item>
       <title>My year in cities, 2008</title>
-      <link>http://localhost:62818/dingen/dingen/2009/01/my-year-in-cities-2008/</link>
+      <link>http://localhost:1313/dingen/2009/01/my-year-in-cities-2008/</link>
       <pubDate>Sat, 03 Jan 2009 13:21:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=722</guid> 
       <description>&lt;p&gt;As &lt;a href=&#34;http://www.kottke.org/08/12/my-year-in-cities-2008&#34;&gt;per Kottke&lt;/a&gt; fished out of my iCal and &lt;a href=&#34;http://www.dopplr.com/traveller/alper/public&#34;&gt;my Dopplr&lt;/a&gt;, &lt;a href=&#34;http://novemberborn.net/life/year-in-cities-2008&#34;&gt;hat tip Mark&lt;/a&gt;:&lt;/p&gt;
@@ -801,14 +801,14 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
     </item>
     <item>
       <title>Light formations</title>
-      <link>http://localhost:62818/dingen/dingen/2008/12/light-formations/</link>
+      <link>http://localhost:1313/dingen/2008/12/light-formations/</link>
       <pubDate>Tue, 30 Dec 2008 00:05:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=714</guid> 
       <description>&lt;p&gt;Occasionally some very beautiful things here in Berlin between the grey and cold (( &lt;em&gt;Beirut — In the Mausoleum:&lt;/em&gt;[…] And Berlin // is so ugly in the morning light)):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twin Peaks</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/twin-peaks/</link>
+      <link>http://localhost:1313/dingen/2008/10/twin-peaks/</link>
       <pubDate>Wed, 29 Oct 2008 23:10:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=564</guid> 
       <description>&lt;p&gt;Last day in San Francisco we went up to Twin Peaks for this absolutely stunning view over the city:
@@ -817,7 +817,7 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
     </item>
     <item>
       <title>Adjustments</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/adjustments/</link>
+      <link>http://localhost:1313/dingen/2008/10/adjustments/</link>
       <pubDate>Tue, 28 Oct 2008 09:26:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=559</guid> 
       <description>&lt;p&gt;Freshly one day back in from San Francisco some adjustments need to be made. The time difference has been reduced from 9 hours to 8 thanks to our splendidly &lt;a href=&#34;http://en.wikipedia.org/wiki/Daylight_Savings_Time#Origin&#34;&gt;European invention&lt;/a&gt;: DST. Along with the time difference there is also a slight difference in daylight and a large difference in temperature (15ź centigrade) and precipitation (nearly non-stop rain the past day).&lt;/p&gt;
@@ -826,7 +826,7 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
     </item>
     <item>
       <title>Current affairs</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/current-affairs/</link>
+      <link>http://localhost:1313/dingen/2008/10/current-affairs/</link>
       <pubDate>Wed, 22 Oct 2008 06:29:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=557</guid> 
       <description>&lt;p&gt;My days in Berkeley/Oakland ((About which more later.)) used to be filled with:
@@ -837,7 +837,7 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
     </item>
     <item>
       <title>San Francisco</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/san-francisco/</link>
+      <link>http://localhost:1313/dingen/2008/10/san-francisco/</link>
       <pubDate>Sun, 12 Oct 2008 00:37:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=544</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve always wanted to go there and tomorrow I&amp;rsquo;m finally going. Some vague plans, tads of serendipity and friends pushing me over the edge were enough to have me book the ticket, I think, only three weeks ago. Tomorrow Lufthansa will take me over an ocean for the first time of my life ((Pretty lame for somebody who likes to travel.)).&lt;/p&gt;
@@ -845,7 +845,7 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
     </item>
     <item>
       <title>Daily life in Ð¡Ð¾Ñ„Ð¸Ñ</title>
-      <link>http://localhost:62818/dingen/dingen/2008/08/daily-life-in-%D1%81%D0%BE%D1%84%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/dingen/2008/08/daily-life-in-%D1%81%D0%BE%D1%84%D0%B8%D1%8F/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=365</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s nice to have friends who are pushing their bounds photographically to try and improve their skill and to see them improve leaps and bounds as a result of that.&lt;/p&gt;
@@ -856,7 +856,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Socio-locational disconnection</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/socio-locational-disconnection/</link>
+      <link>http://localhost:1313/dingen/2008/07/socio-locational-disconnection/</link>
       <pubDate>Sun, 27 Jul 2008 11:26:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=323</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been tremendously enjoying &lt;a href=&#34;http://www.janchipchase.com/&#34;&gt;the stuff Jan Chipchase writes&lt;/a&gt; on his blog both current and digging deep into his archives ((Back to a time when comments were still allowed on his blog.)). A dream job if ever there was one.&lt;/p&gt;
@@ -864,7 +864,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Normal service</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/normal-service/</link>
+      <link>http://localhost:1313/dingen/2008/07/normal-service/</link>
       <pubDate>Sun, 27 Jul 2008 11:15:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=322</guid> 
       <description>&lt;p&gt;Back from holiday, the surf was mostly flat but a good time was had, judging from the &lt;a href=&#34;http://www.flickr.com/photos/alper/&#34;&gt;pictures on Flickr&lt;/a&gt; ((Still sorting through the bunch from Apremont and Nantes.)).&lt;/p&gt;
@@ -873,7 +873,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>10th Reboot - day 2 and on</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/10th-reboot-day-2-and-on/</link>
+      <link>http://localhost:1313/dingen/2008/07/10th-reboot-day-2-and-on/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=319</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2627216575/&#34; title=&#34;Jerry by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Jerry&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3063/2627216575_d14945bbc7.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -883,16 +883,16 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>10th Reboot - day 1</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/10th-reboot-day-1/</link>
+      <link>http://localhost:1313/dingen/2008/06/10th-reboot-day-1/</link>
       <pubDate>Sun, 29 Jun 2008 22:54:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=317</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://reboot.dk&#34;&gt;Reboot 10&lt;/a&gt; is over and in my experience they simply get better every year.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d signed up for a session and got slotted on Thursday morning so I spent a good part of Wednesday preparing and running through the story. Of course after having gotten over &lt;a href=&#34;http://localhost:62818/dingen/2008/06/off-to-copenhagen/&#34;&gt;my early flight&lt;/a&gt; and having eaten something at the &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34;&gt;Laundromat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d signed up for a session and got slotted on Thursday morning so I spent a good part of Wednesday preparing and running through the story. Of course after having gotten over &lt;a href=&#34;http://localhost:1313/dingen/2008/06/off-to-copenhagen/&#34;&gt;my early flight&lt;/a&gt; and having eaten something at the &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34;&gt;Laundromat&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My session on &lt;a href=&#34;http://www.reboot.dk/artefact-5148-en.html&#34;&gt;Free Economics&lt;/a&gt; was filled over capacity while it was meant to be a cosy conversational session. Fortunately that also meant more than enough people willing to participate and add information, so I think it went well and it proved a good starting point for the rest of the conference. My stress relieved could follow the rest of the sessions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Off to Copenhagen</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/off-to-copenhagen/</link>
+      <link>http://localhost:1313/dingen/2008/06/off-to-copenhagen/</link>
       <pubDate>Thu, 26 Jun 2008 00:48:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=316</guid> 
       <description>&lt;p&gt;By the time this post has been published I will be on a train on my way to Schiphol to fly to Copenhagen to attend the 10th edition of &lt;a href=&#34;http://reboot.dk&#34;&gt;Reboot&lt;/a&gt; ((my third)).&lt;/p&gt;
@@ -900,7 +900,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>De wereld is kapot</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/de-wereld-is-kapot/</link>
+      <link>http://localhost:1313/dingen/2008/05/de-wereld-is-kapot/</link>
       <pubDate>Sat, 17 May 2008 20:14:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=296</guid> 
       <description>&lt;p&gt;Maar ik heb er grondige vertrouwen in dat we hem kunnen repareren.&lt;/p&gt;

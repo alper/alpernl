@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Eten on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/eten/</link>
+    <link>http://localhost:1313/tags/eten/</link>
     <description>Recent content in Eten on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 19 May 2009 13:36:14 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/eten/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/eten/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No more bagels</title>
-      <link>http://localhost:62818/dingen/dingen/2007/12/no-more-bagels/</link>
+      <link>http://localhost:1313/dingen/2007/12/no-more-bagels/</link>
       <pubDate>Tue, 19 May 2009 13:36:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/no-more-bagels/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2123070515/&#34; title=&#34;Store by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Store&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2159/2123070515_0103b859b3.jpg&#34;&gt;&lt;/a&gt;
@@ -20,7 +20,7 @@ Ik woon hier nog maar net en nu opeens is Benjamin&amp;rsquo;s Bagels &amp;amp; 
     </item>
     <item>
       <title>Koele spullen</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/koele-spullen/</link>
+      <link>http://localhost:1313/dingen/2008/01/koele-spullen/</link>
       <pubDate>Sun, 20 Jan 2008 18:20:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/koele-spullen/</guid> 
       <description>&lt;p&gt;Vanochtend is mijn koelkast bezorgd.&lt;/p&gt;
@@ -30,7 +30,7 @@ Ik woon hier nog maar net en nu opeens is Benjamin&amp;rsquo;s Bagels &amp;amp; 
     </item>
     <item>
       <title>Fusion is niks voor mij</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/fusion-is-niks-voor-mij/</link>
+      <link>http://localhost:1313/dingen/2007/09/fusion-is-niks-voor-mij/</link>
       <pubDate>Thu, 27 Sep 2007 12:29:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/fusion-is-niks-voor-mij/</guid> 
       <description>&lt;p&gt;Gisteren een nieuw fusion restaurant/coffee-corner/danscafé/concept hier in Delft uitgeprobeerd: &lt;a href=&#34;http://www.yamamoto.nl/&#34;&gt;Yamamoto&lt;/a&gt;. Het ziet er aardig uit maar een ingewikkelde menukaart die niet veel toevoegt ( &lt;a href=&#34;http://www.yelloyello.com/nl/delft/yamamoto/a7P9e-zo0r3jg3adbiDtP6&#34;&gt;mijn recensie&lt;/a&gt;).&lt;/p&gt;
@@ -39,7 +39,7 @@ Ik woon hier nog maar net en nu opeens is Benjamin&amp;rsquo;s Bagels &amp;amp; 
     </item>
     <item>
       <title>Vrienden over de vloer</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/vrienden-over-de-vloer/</link>
+      <link>http://localhost:1313/dingen/2007/08/vrienden-over-de-vloer/</link>
       <pubDate>Thu, 02 Aug 2007 12:33:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/vrienden-over-de-vloer/</guid> 
       <description>&lt;p&gt;Vrienden die komen eten is fijn. Eten, drinken en gesprekken.&lt;/p&gt;

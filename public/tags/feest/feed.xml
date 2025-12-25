@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Feest on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/feest/</link>
+    <link>http://localhost:1313/tags/feest/</link>
     <description>Recent content in Feest on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 03 Mar 2008 16:43:20 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/feest/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/feest/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Echte Boter</title>
-      <link>http://localhost:62818/dingen/dingen/2008/02/echte-boter/</link>
+      <link>http://localhost:1313/dingen/2008/02/echte-boter/</link>
       <pubDate>Mon, 03 Mar 2008 16:43:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/echte-boter/</guid> 
       <description>&lt;p&gt;Morgen is het weer zover, het vetste feestconcept van Delft is terug, &lt;a href=&#34;http://www.rundfunk.nl/?p=404&#34;&gt;Echte Boter&lt;/a&gt;:
@@ -19,7 +19,7 @@
     </item>
     <item>
       <title>Gelukkig nieuwjaar</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/gelukkig-nieuwjaar/</link>
+      <link>http://localhost:1313/dingen/2008/01/gelukkig-nieuwjaar/</link>
       <pubDate>Fri, 04 Jan 2008 13:26:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/gelukkig-nieuwjaar/</guid> 
       <description>&lt;p&gt;Eindelijk mijn fotos&amp;rsquo; van Oud en Nieuw online. Hier een staaltje:
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title>Diploma bijna in het bakkie</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/diploma-bijna-in-het-bakkie/</link>
+      <link>http://localhost:1313/dingen/2007/09/diploma-bijna-in-het-bakkie/</link>
       <pubDate>Mon, 17 Sep 2007 11:29:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/diploma-bijna-in-het-bakkie/</guid> 
       <description>&lt;p&gt;Ik was net voor de één na laatste keer op de TU om bij de administratie te controleren of alles nu in orde was. Naar blijkt was dat het.&lt;/p&gt;
@@ -36,7 +36,7 @@
     </item>
     <item>
       <title>Het was weer zo&#39;n weekend</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/het-was-weer-zon-weekend/</link>
+      <link>http://localhost:1313/dingen/2007/07/het-was-weer-zon-weekend/</link>
       <pubDate>Sun, 29 Jul 2007 20:23:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/het-was-weer-zon-weekend/</guid> 
       <description>&lt;p&gt;Barbecue in Uilenstede, goede vrienden en capoeira:
@@ -46,7 +46,7 @@
     </item>
     <item>
       <title>Capoeira Liberdade Batizado Weekend</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/capoeira-liberdade-batizado-weekend/</link>
+      <link>http://localhost:1313/dingen/2007/05/capoeira-liberdade-batizado-weekend/</link>
       <pubDate>Tue, 05 Jun 2007 22:49:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/capoeira-liberdade-batizado-weekend/</guid> 
       <description>&lt;p&gt;Nu eindelijk de foto&amp;rsquo;s van afgelopen weekend een beetje naar behoren verwerkt. Hier een kleine selectie. Meer staat op &lt;a href=&#34;http://www.liberdade.nl&#34;&gt;de site van Liberdade&lt;/a&gt; en op Flickr staat &lt;a href=&#34;http://www.flickr.com/photos/alper/collections/72157600283827526/&#34;&gt;alles&lt;/a&gt; ((Ik heb nu 5000 foto&amp;rsquo;s op Flickr staan. Wijs!)).&lt;/p&gt;
@@ -54,7 +54,7 @@
     </item>
     <item>
       <title>Weekend met veel dingen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/weekend-met-veel-dingen/</link>
+      <link>http://localhost:1313/dingen/2007/05/weekend-met-veel-dingen/</link>
       <pubDate>Sun, 20 May 2007 11:10:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/weekend-met-veel-dingen/</guid> 
       <description>&lt;p&gt;Donderdagochtendvroeg naar Den Haag om mijn Macbook in te leveren en vrijdag eind van de middag er weer heen om hem op te halen.&lt;/p&gt;
@@ -68,11 +68,11 @@
 &lt;a href=&#34;http://www.flickr.com/photos/alper/496037535/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;C&amp;amp;O Teamuitje&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/215/496037535_dd30dbf5ce.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;En het heerlijke eten in &lt;a href=&#34;http://www.pakhuisdelft.nl/&#34;&gt;het Pakhuis&lt;/a&gt;:
 &lt;a href=&#34;http://www.flickr.com/photos/alper/496045891/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;C&amp;amp;O Teamuitje&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/194/496045891_8821a90e50.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/496020396/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;C&amp;amp;O Teamuitje&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/215/496020396_fe7bea3b11.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/496044523/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;C&amp;amp;O Teamuitje&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/190/496044523_57b6afb9a2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nog even langs &lt;a href=&#34;http://www.rundfunk.nl/&#34;&gt;Echte Boter&lt;/a&gt; geweest om te flyeren voor &lt;a href=&#34;http://localhost:62818/dingen/2007/05/braziliaans-festival-capoeira-liberdade/&#34;&gt;het feest van Liberdade&lt;/a&gt; en dan zaterdag vroeg op om de trein naar Utrecht te nemen voor de Batizado van Planeta Capoeira&lt;/p&gt;</description>
+&lt;p&gt;Nog even langs &lt;a href=&#34;http://www.rundfunk.nl/&#34;&gt;Echte Boter&lt;/a&gt; geweest om te flyeren voor &lt;a href=&#34;http://localhost:1313/dingen/2007/05/braziliaans-festival-capoeira-liberdade/&#34;&gt;het feest van Liberdade&lt;/a&gt; en dan zaterdag vroeg op om de trein naar Utrecht te nemen voor de Batizado van Planeta Capoeira&lt;/p&gt;</description>
     </item>
     <item>
       <title>Braziliaans Festival Capoeira Liberdade</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/braziliaans-festival-capoeira-liberdade/</link>
+      <link>http://localhost:1313/dingen/2007/05/braziliaans-festival-capoeira-liberdade/</link>
       <pubDate>Mon, 07 May 2007 12:45:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/braziliaans-festival-capoeira-liberdade/</guid> 
       <description>&lt;p&gt;Ik heb net even &lt;a href=&#34;http://www.liberdade.nl/batizado2007/persbericht.html&#34;&gt;het persbericht&lt;/a&gt; online gezet.&lt;/p&gt;
@@ -81,7 +81,7 @@
     </item>
     <item>
       <title>Koninginnedag zelf</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/koninginnedag-zelf/</link>
+      <link>http://localhost:1313/dingen/2007/05/koninginnedag-zelf/</link>
       <pubDate>Tue, 01 May 2007 09:51:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/koninginnedag-zelf/</guid> 
       <description>&lt;p&gt;En dan de Koninginnedag zelf, traditioneel begonnen met een kater en dan haasten naar het optreden op het Agathaplein (video daarvan volgt nog). De rest van de dag is dan een oranje waas van capoeira en bier.&lt;/p&gt;
@@ -94,7 +94,7 @@
     </item>
     <item>
       <title>Leuke dingen voor Koninginnedag</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/leuke-dingen-voor-koninginnedag/</link>
+      <link>http://localhost:1313/dingen/2007/05/leuke-dingen-voor-koninginnedag/</link>
       <pubDate>Tue, 01 May 2007 09:50:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/leuke-dingen-voor-koninginnedag/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/479052551/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/231/479052551_7b61611580.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Leven on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/leven/</link>
+    <link>http://localhost:1313/tags/leven/</link>
     <description>Recent content in Leven on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 Apr 2008 12:25:23 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/leven/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/leven/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tempo</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/tempo/</link>
+      <link>http://localhost:1313/dingen/2008/04/tempo/</link>
       <pubDate>Thu, 17 Apr 2008 12:25:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/tempo/</guid> 
       <description>&lt;p&gt;De laatste paar weken gaan voorbij in een waas. Te weinig uren in de dag, aan het einde van de week heb ik geen idee meer welke dagen ik wat gedaan heb behalve dan dat het aardig wat geweest moet zijn.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>RÃ©sumÃ© de la semaine</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/resume-de-la-semaine/</link>
+      <link>http://localhost:1313/dingen/2008/04/resume-de-la-semaine/</link>
       <pubDate>Fri, 11 Apr 2008 20:02:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/resume-de-la-semaine/</guid> 
       <description>&lt;p&gt;De weken gaan hard. Zo hard dat het nu alweer vrijdagavond is.&lt;/p&gt;
@@ -28,16 +28,16 @@
     </item>
     <item>
       <title>Treingenoten</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/treingenoten/</link>
+      <link>http://localhost:1313/dingen/2008/01/treingenoten/</link>
       <pubDate>Thu, 31 Jan 2008 00:58:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/treingenoten/</guid> 
-      <description>&lt;p&gt;Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die &lt;a href=&#34;http://localhost:62818/dingen/2008/01/leeslijsten/#footnote-link-2-238&#34;&gt;boeken leest&lt;/a&gt;.)) naast me zat.&lt;/p&gt;
+      <description>&lt;p&gt;Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die &lt;a href=&#34;http://localhost:1313/dingen/2008/01/leeslijsten/#footnote-link-2-238&#34;&gt;boeken leest&lt;/a&gt;.)) naast me zat.&lt;/p&gt;
 &lt;p&gt;Een grappig toeval en leuk om wat te praten maar als ik ingestapt was via een andere deur dan hadden we elkaar niet gesproken.&lt;/p&gt;
 &lt;p&gt;Reken maar even uit: Een ontmoeting als deze gebeurt eens per weken/maanden. Je kent honderden mensen waar je wel een gesprek mee zou willen/kunnen hebben. Dus als je meer informatie had wanneer kennissen van je in een trein zitten en waar, zouden dit soort ontmoetingen veel vaker voor kunnen komen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autodidact</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/autodidact/</link>
+      <link>http://localhost:1313/dingen/2008/01/autodidact/</link>
       <pubDate>Mon, 28 Jan 2008 23:30:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/autodidact/</guid> 
       <description>&lt;p&gt;Het leuke aan klaar zijn met studeren is dat je dingen kunt gaan leren die jÃ­j belangrijk vindt. En ik leer sneller als ik zelf mag bepalen hoe en hoe snel. Dus hier twee boeken in een serie voor het komende jaar:&lt;/p&gt;
@@ -46,7 +46,7 @@
     </item>
     <item>
       <title>Boekenlijst</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/boekenlijst/</link>
+      <link>http://localhost:1313/dingen/2008/01/boekenlijst/</link>
       <pubDate>Tue, 08 Jan 2008 11:39:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/boekenlijst/</guid> 
       <description>&lt;p&gt;Ik zat het einde van het jaar mijn lijstjes door te kijken en ik zag dat ik in 2007 maar vier (!) boeken heb gelezen. Dan zie je iemand als Aaronsw die er 70 consumeert en dat weinig vindt.&lt;/p&gt;
@@ -54,7 +54,7 @@
     </item>
     <item>
       <title>Berliner Existenz</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/berliner-existenz/</link>
+      <link>http://localhost:1313/dingen/2007/11/berliner-existenz/</link>
       <pubDate>Tue, 13 Nov 2007 01:57:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/berliner-existenz/</guid> 
       <description>&lt;p&gt;Na in Berlijn aangekomen te zijn, heb ik:&lt;/p&gt;
@@ -75,7 +75,7 @@
     </item>
     <item>
       <title>ZurÃ¼ck aus Deutschland</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/zuruck-aus-deutschland/</link>
+      <link>http://localhost:1313/dingen/2007/10/zuruck-aus-deutschland/</link>
       <pubDate>Mon, 15 Oct 2007 15:08:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/zuruck-aus-deutschland/</guid> 
       <description>&lt;p&gt;Even twee dagen weg zijn en aan niks anders dan &lt;a href=&#34;http://www.expressaopaulista.com/DE/&#34;&gt;capoeira&lt;/a&gt; en andere Brazilianischen Sachen hoeven te denken is fijn. Nu nog even 1500 foto&amp;rsquo;s verwerken.&lt;/p&gt;
@@ -91,7 +91,7 @@
     </item>
     <item>
       <title>Buluitreiking</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/buluitreiking/</link>
+      <link>http://localhost:1313/dingen/2007/09/buluitreiking/</link>
       <pubDate>Sun, 30 Sep 2007 03:27:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/buluitreiking/</guid> 
       <description>&lt;p&gt;Gisteren had ik mijn buluitreiking. Geen spannende event, wel mooi voor de familie. Ik dus tot een uur of drie gewerkt, toen snel mijn pak aangetrokken.&lt;/p&gt;
@@ -100,7 +100,7 @@
     </item>
     <item>
       <title>Kleine updates grote stappen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/kleine-updates-grote-stappen/</link>
+      <link>http://localhost:1313/dingen/2007/09/kleine-updates-grote-stappen/</link>
       <pubDate>Thu, 27 Sep 2007 21:05:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/kleine-updates-grote-stappen/</guid> 
       <description>&lt;p&gt;Het leven vordert. Kleine updates.&lt;/p&gt;

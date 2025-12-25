@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photography on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/photography/</link>
+    <link>http://localhost:1313/categories/photography/</link>
     <description>Recent content in Photography on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 25 Feb 2025 22:44:37 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/photography/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/photography/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/02/18124/</link>
+      <link>http://localhost:1313/dingen/2025/02/18124/</link>
       <pubDate>Tue, 25 Feb 2025 22:44:37 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18124</guid> 
       <description>&lt;p&gt;A beautiful lush essay and homage to an ubiquitous typeface without a name.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17931/</link>
+      <link>http://localhost:1313/dingen/2025/01/17931/</link>
       <pubDate>Wed, 15 Jan 2025 09:52:00 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17931</guid> 
       <description>&lt;p&gt;I think Facebook rolled back their block of Pixelfed but they&amp;rsquo;re right to be spooked. Showing a bunch of pictures in a stream hardly seems like a technological challenge. And what are all the people working at Instagram doing other than figuring out novel ways to track you and serve you ads?&lt;/p&gt;
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17836/</link>
+      <link>http://localhost:1313/dingen/2025/01/17836/</link>
       <pubDate>Thu, 02 Jan 2025 14:19:47 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17836</guid> 
       <description>&lt;p&gt;The MSF year in pictures is an unsparing overview of the circumstances that the rest of the world has to live in. Grim.&lt;/p&gt;
@@ -35,7 +35,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17686/</link>
+      <link>http://localhost:1313/dingen/2024/11/17686/</link>
       <pubDate>Sun, 03 Nov 2024 22:10:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17686</guid> 
       <description>&lt;p&gt;A beautiful elegy for photographer Matthieu Chazal by Paul Salopek on the epic Out of Eden Walk.&lt;/p&gt;
@@ -44,7 +44,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/01/16397/</link>
+      <link>http://localhost:1313/dingen/2021/01/16397/</link>
       <pubDate>Mon, 25 Jan 2021 21:22:48 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16397</guid> 
       <description>&lt;p&gt;When I still did photography, I read everything I could find about how cameras work and this is the mental model I built up back then.&lt;/p&gt;
@@ -53,7 +53,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/09/16273/</link>
+      <link>http://localhost:1313/dingen/2020/09/16273/</link>
       <pubDate>Sun, 06 Sep 2020 19:57:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16273</guid> 
       <description>&lt;p&gt;An interesting story about the interaction between loving the outdoors and Instagram culture.&lt;/p&gt;
@@ -61,7 +61,7 @@
     </item>
     <item>
       <title>Losing @firstname on Instagram</title>
-      <link>http://localhost:62818/dingen/dingen/2020/08/losing-firstname-on-instagram/</link>
+      <link>http://localhost:1313/dingen/2020/08/losing-firstname-on-instagram/</link>
       <pubDate>Wed, 05 Aug 2020 21:02:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16213</guid> 
       <description>&lt;p&gt;I have my first name as my user name in a bunch of places. I&amp;rsquo;ve had my Twitter account ( &lt;a href=&#34;https://twitter.com/alper&#34;&gt;Twitter.com/alper&lt;/a&gt;) for a very long time but my Instagram account ( &lt;a href=&#34;http://instagram.com/alper&#34;&gt;Instagram.com/alper&lt;/a&gt;) got a lot more attention after Instagram got really big. A couple of weeks ago I lost that account.&lt;/p&gt;
@@ -69,7 +69,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15720/</link>
+      <link>http://localhost:1313/dingen/2019/09/15720/</link>
       <pubDate>Sun, 22 Sep 2019 20:54:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15720</guid> 
       <description>&lt;p&gt;I had kinda forgotten about Soigneur, but then I ran into this amazing set of photos of racing bikes in the city. That new race bike seems to be getting closer and closer.&lt;/p&gt;
@@ -77,7 +77,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15612/</link>
+      <link>http://localhost:1313/dingen/2019/08/15612/</link>
       <pubDate>Sun, 04 Aug 2019 11:04:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15612</guid> 
       <description>&lt;p&gt;First I hear about &lt;em&gt;Mauerkrankheit&lt;/em&gt;—and I&amp;rsquo;m not the only one—but a politically triggered rise in mental health problems would explain many things both past and present.&lt;/p&gt;
@@ -85,7 +85,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15600/</link>
+      <link>http://localhost:1313/dingen/2019/08/15600/</link>
       <pubDate>Sat, 03 Aug 2019 22:37:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15600</guid> 
       <description>&lt;p&gt;An incredible treatment of moving to New York that manages to make SF more than a bit lame in comparison.&lt;/p&gt;
@@ -93,7 +93,7 @@
     </item>
     <item>
       <title>Fridays for Future</title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/fridays-for-future/</link>
+      <link>http://localhost:1313/dingen/2019/03/fridays-for-future/</link>
       <pubDate>Sun, 17 Mar 2019 00:21:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15262</guid> 
       <description>&lt;p&gt;I found this picture on twitter this morning.&lt;/p&gt;
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/15217/</link>
+      <link>http://localhost:1313/dingen/2019/03/15217/</link>
       <pubDate>Wed, 06 Mar 2019 22:36:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15217</guid> 
       <description>&lt;p&gt;Reality captured in photos by Istanbul cab driver Sevket Sahintas. There&amp;rsquo;s an equivalent series here in Berlin that is not being captured as far as I know.&lt;/p&gt;
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/15202/</link>
+      <link>http://localhost:1313/dingen/2019/03/15202/</link>
       <pubDate>Sun, 03 Mar 2019 14:01:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15202</guid> 
       <description>&lt;p&gt;Watching this level of conflict photography always gives me the itch (and there are tons and tons of stories not being caught still even in this age of ubiquitous digital) to start shooting again. RIP Yannis Behrakis.&lt;/p&gt;
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>Geeks of @ouroffice</title>
-      <link>http://localhost:62818/dingen/dingen/2011/10/geeks-of-ouroffice/</link>
+      <link>http://localhost:1313/dingen/2011/10/geeks-of-ouroffice/</link>
       <pubDate>Sun, 30 Oct 2011 10:11:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3044</guid> 
       <description>&lt;p&gt;This summer I shot a roll of color film I had lying around using my trusty &lt;a href=&#34;http://www.flickr.com/photos/alper/5639627465/&#34;&gt;Yashica D&lt;/a&gt; medium-format camera. The subjects were passers-by in our Amsterdam office. The results were better than expected.&lt;/p&gt;
@@ -129,7 +129,7 @@
     </item>
     <item>
       <title>Sidewalks on the new Marnixstraat</title>
-      <link>http://localhost:62818/dingen/dingen/2011/08/sidewalks-on-the-new-marnixstraat/</link>
+      <link>http://localhost:1313/dingen/2011/08/sidewalks-on-the-new-marnixstraat/</link>
       <pubDate>Sun, 21 Aug 2011 23:49:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2740</guid> 
       <description>&lt;p&gt;The sidewalks of the newly renovated Marnixstraat:
@@ -139,7 +139,7 @@
     </item>
     <item>
       <title>Colour</title>
-      <link>http://localhost:62818/dingen/dingen/2011/03/colour/</link>
+      <link>http://localhost:1313/dingen/2011/03/colour/</link>
       <pubDate>Mon, 28 Mar 2011 20:55:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2514</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5556255708/&#34; title=&#34;photo.PNG by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;photo.PNG&#34; loading=&#34;lazy&#34; src=&#34;http://farm6.static.flickr.com/5133/5556255708_578ffc696f.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -148,14 +148,14 @@
     </item>
     <item>
       <title>Amsterdams Uitje</title>
-      <link>http://localhost:62818/dingen/dingen/2010/12/amsterdams-uitje/</link>
+      <link>http://localhost:1313/dingen/2010/12/amsterdams-uitje/</link>
       <pubDate>Tue, 21 Dec 2010 12:30:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2349</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/straboh/5279958944/&#34; title=&#34;Untitled by straboh, on Flickr&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm6.static.flickr.com/5006/5279958944_5d3849b018.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jurriaan van Stigt ARCAM lecture â€”Â â€œSolving these things in a simple and right way is fun. It is our work.â€</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/jurriaan-van-stigt-arcam-lecture/</link>
+      <link>http://localhost:1313/dingen/2010/10/jurriaan-van-stigt-arcam-lecture/</link>
       <pubDate>Wed, 06 Oct 2010 10:36:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2168</guid> 
       <description>&lt;p&gt;Yesterday the next &lt;a href=&#34;http://www.arcam.nl/&#34;&gt;ARCAM&lt;/a&gt; lecture was held in &lt;a href=&#34;http://www.debrakkegrond.nl/&#34;&gt;the Brakke Grond&lt;/a&gt; by Jurriaan van Stigt of the firm &lt;a href=&#34;http://www.levs.nl/&#34;&gt;LEVS&lt;/a&gt;.&lt;/p&gt;
@@ -166,7 +166,7 @@
     </item>
     <item>
       <title>Weeknotes 185</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/weeknotes-185/</link>
+      <link>http://localhost:1313/dingen/2010/10/weeknotes-185/</link>
       <pubDate>Tue, 05 Oct 2010 11:41:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2163</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5041548573/&#34; title=&#34;That was bloody quick by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;That was bloody quick&#34; loading=&#34;lazy&#34; src=&#34;http://farm5.static.flickr.com/4085/5041548573_7b78c97879.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -176,7 +176,7 @@
     </item>
     <item>
       <title>Foursquare Day</title>
-      <link>http://localhost:62818/dingen/dingen/2010/06/foursquare-day/</link>
+      <link>http://localhost:1313/dingen/2010/06/foursquare-day/</link>
       <pubDate>Sat, 19 Jun 2010 07:00:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1868</guid> 
       <description>&lt;p&gt;This Wednesday was Foursquare Day, but I don&amp;rsquo;t know who went. We just had ours recently and I just dug up the pictures from my camera:
@@ -184,7 +184,7 @@
     </item>
     <item>
       <title>Oostelijke Havens en verder</title>
-      <link>http://localhost:62818/dingen/dingen/2010/06/oostelijke-havens-en-verder/</link>
+      <link>http://localhost:1313/dingen/2010/06/oostelijke-havens-en-verder/</link>
       <pubDate>Fri, 18 Jun 2010 07:00:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1865</guid> 
       <description>&lt;p&gt;Een kleine fietstocht lansg het IJ voor een toekomstig project:
@@ -192,7 +192,7 @@
     </item>
     <item>
       <title>Sanquin</title>
-      <link>http://localhost:62818/dingen/dingen/2010/05/sanquin/</link>
+      <link>http://localhost:1313/dingen/2010/05/sanquin/</link>
       <pubDate>Tue, 04 May 2010 18:17:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1758</guid> 
       <description>&lt;p&gt;Verbazingwekkend snel en pijnloos:
@@ -202,7 +202,7 @@
     </item>
     <item>
       <title>Table Viewer for Music Hackday</title>
-      <link>http://localhost:62818/dingen/dingen/2010/04/table-viewer-for-music-hackday/</link>
+      <link>http://localhost:1313/dingen/2010/04/table-viewer-for-music-hackday/</link>
       <pubDate>Tue, 27 Apr 2010 09:39:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1744</guid> 
       <description>&lt;p&gt;This entire weekend was taken up by &lt;a href=&#34;http://amsterdam.musichackday.org/&#34;&gt;Amsterdam Music Hackday&lt;/a&gt; for which &lt;a href=&#34;http://twitter.com/dmos&#34;&gt;Alex&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/dvbosch&#34;&gt;Dirk&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/alper&#34;&gt;I&lt;/a&gt; had planned to build a prototype version of a surface table projector for music discovery.&lt;/p&gt;
@@ -210,7 +210,7 @@
     </item>
     <item>
       <title>Paria in the Hague</title>
-      <link>http://localhost:62818/dingen/dingen/2010/03/paria-in-the-hague/</link>
+      <link>http://localhost:1313/dingen/2010/03/paria-in-the-hague/</link>
       <pubDate>Sun, 28 Mar 2010 13:34:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1695</guid> 
       <description>&lt;p&gt;Lots of fun to ride my second time at the Hague spring alleycat: Paria. Great guys, lots of speed and fun. Looking forward to more riding and maybe getting into polo.&lt;/p&gt;
@@ -219,7 +219,7 @@
     </item>
     <item>
       <title>Austin</title>
-      <link>http://localhost:62818/dingen/dingen/2010/03/austin/</link>
+      <link>http://localhost:1313/dingen/2010/03/austin/</link>
       <pubDate>Sat, 27 Mar 2010 20:00:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1693</guid> 
       <description>&lt;p&gt;Quite pleased with this picture &lt;a href=&#34;http://www.wearemudlark.com/about-us/toby-barnes/&#34;&gt;Toby&lt;/a&gt; took of me at a splendid lunch at &lt;a href=&#34;http://www.hotdogscoldbeer.com/&#34;&gt;Frank&lt;/a&gt;:
@@ -227,7 +227,7 @@
     </item>
     <item>
       <title>Interactive Environments</title>
-      <link>http://localhost:62818/dingen/dingen/2010/02/interactive-environments/</link>
+      <link>http://localhost:1313/dingen/2010/02/interactive-environments/</link>
       <pubDate>Thu, 04 Feb 2010 18:23:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1554</guid> 
       <description>&lt;p&gt;A &lt;a href=&#34;http://www.bk.tudelft.nl/live/pagina.jsp?id=1cc7669a-0a71-4399-91e5-9898d6f9fc49&amp;amp;lang=nl&#34;&gt;small post about the Interactive Environments&lt;/a&gt; exhibit at my alma mater. I had to be in Rotterdam anyway that day so I decided to drop by.&lt;/p&gt;
@@ -235,7 +235,7 @@
     </item>
     <item>
       <title>Let it rain</title>
-      <link>http://localhost:62818/dingen/dingen/2010/02/let-it-rain/</link>
+      <link>http://localhost:1313/dingen/2010/02/let-it-rain/</link>
       <pubDate>Thu, 04 Feb 2010 14:22:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1551</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/4325995936/&#34; title=&#34;Light Stand by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Light Stand&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2716/4325995936_d28e341691.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -245,14 +245,14 @@
     </item>
     <item>
       <title>Where is the money?</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/where-is-the-money/</link>
+      <link>http://localhost:1313/dingen/2009/12/where-is-the-money/</link>
       <pubDate>Wed, 16 Dec 2009 11:00:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1414</guid> 
       <description>&lt;p&gt;Last week I trod off to Haarlem along with most of the usual suspects for the &lt;a href=&#34;http://www.rethinkingmedia.nl/&#34;&gt;Rethinking Media&lt;/a&gt; event: “Show me the Money”organized by Dutch Media professionals. Along with the people from the Dutch online scene, there were a lot of professionals from the media industry present which proved to be an interesting mix ((Interesting proof that an event with a lot of suits can also be pretty clued in to what&amp;rsquo;s happening. Michiel Bicker Caarten&amp;rsquo;s chairing of the event was sharp and clueful.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>De anatomie van het nieuws</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/de-anatomie-van-het-nieuws/</link>
+      <link>http://localhost:1313/dingen/2009/10/de-anatomie-van-het-nieuws/</link>
       <pubDate>Mon, 16 Nov 2009 22:39:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1329</guid> 
       <description>&lt;p&gt;Shirky schreef pas zijn anatomie van het nieuws in: &lt;a href=&#34;http://www.shirky.com/weblog/2009/10/rescuing-the-reporters/&#34;&gt;“Rescuing the Reporters”&lt;/a&gt; waarin hij een krant ontleed in nieuws en restmateriaal en dan ook nog dat nieuws splitst in zelf-gemaakt en uit andere bronnen afkomstig.&lt;/p&gt;
@@ -261,7 +261,7 @@
     </item>
     <item>
       <title>City Hopping</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/city-hopping/</link>
+      <link>http://localhost:1313/dingen/2009/10/city-hopping/</link>
       <pubDate>Fri, 23 Oct 2009 05:58:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1321</guid> 
       <description>&lt;p&gt;Jumping all over the randstad these past weeks. Some gems to be found:
@@ -269,7 +269,7 @@
     </item>
     <item>
       <title>Transitioning</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/transitioning/</link>
+      <link>http://localhost:1313/dingen/2009/10/transitioning/</link>
       <pubDate>Thu, 22 Oct 2009 23:57:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1319</guid> 
       <description>&lt;p&gt;New city, new group, same rituals:&lt;/p&gt;
@@ -277,7 +277,7 @@
     </item>
     <item>
       <title>Playing capoeira and eating lots of meat</title>
-      <link>http://localhost:62818/dingen/dingen/2009/08/playing-capoeira-and-eating-lots-of-meat/</link>
+      <link>http://localhost:1313/dingen/2009/08/playing-capoeira-and-eating-lots-of-meat/</link>
       <pubDate>Tue, 25 Aug 2009 23:35:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1179</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve never come as close to a depiction of paradise as with this picture:
@@ -287,7 +287,7 @@
     </item>
     <item>
       <title>120</title>
-      <link>http://localhost:62818/dingen/dingen/2009/07/120/</link>
+      <link>http://localhost:1313/dingen/2009/07/120/</link>
       <pubDate>Mon, 27 Jul 2009 22:09:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1097</guid> 
       <description>&lt;p&gt;I had my &lt;a href=&#34;http://www.flickr.com/photos/alper/2226513597/&#34;&gt;Yashica D&lt;/a&gt; repaired and also recently acquired &lt;a href=&#34;http://www.flickr.com/photos/alper/3628509161/&#34;&gt;a lightmeter&lt;/a&gt; to make the process of shooting easier and now I&amp;rsquo;m slowly but surely shooting stuff with it.&lt;/p&gt;
@@ -296,7 +296,7 @@
     </item>
     <item>
       <title>Backyard performances</title>
-      <link>http://localhost:62818/dingen/dingen/2009/06/backyard-performances/</link>
+      <link>http://localhost:1313/dingen/2009/06/backyard-performances/</link>
       <pubDate>Sat, 06 Jun 2009 20:35:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1025</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3600861927/&#34; title=&#34;Dance by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Dance&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3615/3600861927_997d6b5ba8.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -304,7 +304,7 @@
     </item>
     <item>
       <title>Cycling Zuid</title>
-      <link>http://localhost:62818/dingen/dingen/2009/05/cycling-zuid/</link>
+      <link>http://localhost:1313/dingen/2009/05/cycling-zuid/</link>
       <pubDate>Mon, 18 May 2009 12:45:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=985</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3541454271/&#34; title=&#34;Erasmus by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Erasmus&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2049/3541454271_277b74ab8a.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -313,7 +313,7 @@
     </item>
     <item>
       <title>The week in pictures</title>
-      <link>http://localhost:62818/dingen/dingen/2009/05/the-week-in-pictures/</link>
+      <link>http://localhost:1313/dingen/2009/05/the-week-in-pictures/</link>
       <pubDate>Sun, 17 May 2009 12:13:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=980</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3524365247/&#34; title=&#34;Richard Avedon - FOAM by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Richard Avedon - FOAM&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3402/3524365247_e2ba4b4c9f.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -322,7 +322,7 @@
     </item>
     <item>
       <title>Bicycle shoot</title>
-      <link>http://localhost:62818/dingen/dingen/2009/02/bicycle-shoot/</link>
+      <link>http://localhost:1313/dingen/2009/02/bicycle-shoot/</link>
       <pubDate>Tue, 10 Feb 2009 11:14:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=764</guid> 
       <description>&lt;p&gt;I’d promised the guys over at &lt;a href=&#34;http://vastverzet.hyves.nl/&#34;&gt;the fixie hyve&lt;/a&gt; some decent quality pictures of my bike. Shooting pictures of a fixie is something of a thing. So yesterday I went out and shot some:&lt;/p&gt;
@@ -331,7 +331,7 @@
     </item>
     <item>
       <title>Twin Peaks</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/twin-peaks/</link>
+      <link>http://localhost:1313/dingen/2008/10/twin-peaks/</link>
       <pubDate>Wed, 29 Oct 2008 23:10:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=564</guid> 
       <description>&lt;p&gt;Last day in San Francisco we went up to Twin Peaks for this absolutely stunning view over the city:
@@ -340,7 +340,7 @@
     </item>
     <item>
       <title>Adjustments</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/adjustments/</link>
+      <link>http://localhost:1313/dingen/2008/10/adjustments/</link>
       <pubDate>Tue, 28 Oct 2008 09:26:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=559</guid> 
       <description>&lt;p&gt;Freshly one day back in from San Francisco some adjustments need to be made. The time difference has been reduced from 9 hours to 8 thanks to our splendidly &lt;a href=&#34;http://en.wikipedia.org/wiki/Daylight_Savings_Time#Origin&#34;&gt;European invention&lt;/a&gt;: DST. Along with the time difference there is also a slight difference in daylight and a large difference in temperature (15ź centigrade) and precipitation (nearly non-stop rain the past day).&lt;/p&gt;
@@ -349,7 +349,7 @@
     </item>
     <item>
       <title>Current affairs</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/current-affairs/</link>
+      <link>http://localhost:1313/dingen/2008/10/current-affairs/</link>
       <pubDate>Wed, 22 Oct 2008 06:29:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=557</guid> 
       <description>&lt;p&gt;My days in Berkeley/Oakland ((About which more later.)) used to be filled with:
@@ -360,7 +360,7 @@
     </item>
     <item>
       <title>Daily life in Ð¡Ð¾Ñ„Ð¸Ñ</title>
-      <link>http://localhost:62818/dingen/dingen/2008/08/daily-life-in-%D1%81%D0%BE%D1%84%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/dingen/2008/08/daily-life-in-%D1%81%D0%BE%D1%84%D0%B8%D1%8F/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=365</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s nice to have friends who are pushing their bounds photographically to try and improve their skill and to see them improve leaps and bounds as a result of that.&lt;/p&gt;
@@ -371,7 +371,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>World Press</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/world-press/</link>
+      <link>http://localhost:1313/dingen/2008/07/world-press/</link>
       <pubDate>Tue, 29 Jul 2008 13:52:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=326</guid> 
       <description>&lt;p&gt;A while back we went to the &lt;a href=&#34;http://www.worldpressphoto.org/&#34;&gt;World Press Photo&lt;/a&gt; 2008 exhibition in Utrecht &lt;a href=&#34;http://www.flickr.com/photos/alper/sets/72157606141100891/&#34;&gt;with some capoeiras&lt;/a&gt; and looked at the pictures many of us had already seen after the first announcement.&lt;/p&gt;
@@ -380,7 +380,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Normal service</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/normal-service/</link>
+      <link>http://localhost:1313/dingen/2008/07/normal-service/</link>
       <pubDate>Sun, 27 Jul 2008 11:15:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=322</guid> 
       <description>&lt;p&gt;Back from holiday, the surf was mostly flat but a good time was had, judging from the &lt;a href=&#34;http://www.flickr.com/photos/alper/&#34;&gt;pictures on Flickr&lt;/a&gt; ((Still sorting through the bunch from Apremont and Nantes.)).&lt;/p&gt;
@@ -389,7 +389,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Pre holiday wrapping up</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/pre-holiday-wrapping-up/</link>
+      <link>http://localhost:1313/dingen/2008/07/pre-holiday-wrapping-up/</link>
       <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=320</guid> 
       <description>&lt;p&gt;The summer may not have brought the best weather but still good times are around. This week finishing off some work before we&amp;rsquo;ll be going on an ill-prepared week long surftrip somewhere along the French Atlantic coast.&lt;/p&gt;
@@ -397,7 +397,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>10th Reboot - day 2 and on</title>
-      <link>http://localhost:62818/dingen/dingen/2008/07/10th-reboot-day-2-and-on/</link>
+      <link>http://localhost:1313/dingen/2008/07/10th-reboot-day-2-and-on/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=319</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2627216575/&#34; title=&#34;Jerry by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Jerry&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3063/2627216575_d14945bbc7.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -407,16 +407,16 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>10th Reboot - day 1</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/10th-reboot-day-1/</link>
+      <link>http://localhost:1313/dingen/2008/06/10th-reboot-day-1/</link>
       <pubDate>Sun, 29 Jun 2008 22:54:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=317</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://reboot.dk&#34;&gt;Reboot 10&lt;/a&gt; is over and in my experience they simply get better every year.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d signed up for a session and got slotted on Thursday morning so I spent a good part of Wednesday preparing and running through the story. Of course after having gotten over &lt;a href=&#34;http://localhost:62818/dingen/2008/06/off-to-copenhagen/&#34;&gt;my early flight&lt;/a&gt; and having eaten something at the &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34;&gt;Laundromat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d signed up for a session and got slotted on Thursday morning so I spent a good part of Wednesday preparing and running through the story. Of course after having gotten over &lt;a href=&#34;http://localhost:1313/dingen/2008/06/off-to-copenhagen/&#34;&gt;my early flight&lt;/a&gt; and having eaten something at the &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34;&gt;Laundromat&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My session on &lt;a href=&#34;http://www.reboot.dk/artefact-5148-en.html&#34;&gt;Free Economics&lt;/a&gt; was filled over capacity while it was meant to be a cosy conversational session. Fortunately that also meant more than enough people willing to participate and add information, so I think it went well and it proved a good starting point for the rest of the conference. My stress relieved could follow the rest of the sessions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some capoeira pictures</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/some-capoeira-pictures/</link>
+      <link>http://localhost:1313/dingen/2008/06/some-capoeira-pictures/</link>
       <pubDate>Thu, 12 Jun 2008 07:02:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=309</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s been a week but I&amp;rsquo;ve just gotten around to processing them after the event. Here&amp;rsquo;s a small selection of capoeira pictures:
@@ -424,7 +424,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Barbecue Groups</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/barbecue-groups/</link>
+      <link>http://localhost:1313/dingen/2008/06/barbecue-groups/</link>
       <pubDate>Wed, 11 Jun 2008 06:53:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=308</guid> 
       <description>&lt;p&gt;The barbecue (and the alcohol) also make for some interesting group pictures. There&amp;rsquo;s the traditional group with everybody on it:
@@ -434,7 +434,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Surfing Summer</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/surfing-summer/</link>
+      <link>http://localhost:1313/dingen/2008/06/surfing-summer/</link>
       <pubDate>Tue, 10 Jun 2008 07:12:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=305</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2531535776/&#34; title=&#34;Mr. Zog&#39;s Sex Wax by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Mr. Zog&amp;rsquo;s Sex Wax&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2390/2531535776_95a2aa66fe.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -443,7 +443,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Fast Portraits</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/fast-portraits/</link>
+      <link>http://localhost:1313/dingen/2008/06/fast-portraits/</link>
       <pubDate>Mon, 09 Jun 2008 07:20:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=306</guid> 
       <description>&lt;p&gt;Last week we had the batizado for our group with people coming in from Amsterdam, Norway, London and Portugal just to celebrate this event together. The batizado with associated parties and barbecues is a highlight of the year and this year proved to be a great amount of fun.&lt;/p&gt;
@@ -451,7 +451,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Mooi Weer Spelen</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/mooi-weer-spelen/</link>
+      <link>http://localhost:1313/dingen/2008/06/mooi-weer-spelen/</link>
       <pubDate>Sun, 08 Jun 2008 15:35:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=307</guid> 
       <description>&lt;p&gt;“Mooi Weer Spelen”((Nice Weather Games)) is the title of the annual street theater festival that takes over the city center of Delft. This year, I&amp;rsquo;m living in said center and it&amp;rsquo;s much easier to see the events.&lt;/p&gt;
@@ -459,7 +459,7 @@ Picture by &lt;a href=&#34;http://www.flickr.com/people/straboh/&#34;&gt;Mony Ne
     </item>
     <item>
       <title>Schone lei</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/schone-lei/</link>
+      <link>http://localhost:1313/dingen/2008/05/schone-lei/</link>
       <pubDate>Wed, 14 May 2008 11:23:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=294</guid> 
       <description>&lt;p&gt;Gisteren overal veel te zien en te &lt;a href=&#34;http://www.tweetscan.com/index.php?s=bouwkunde&amp;amp;u=&amp;amp;d=yesterday&#34;&gt;horen&lt;/a&gt; &lt;a href=&#34;http://eoscommunicatie.web-log.nl/eosblog/2008/05/brand-op-facult.html&#34;&gt;over&lt;/a&gt; de brand bij &lt;a href=&#34;http://www.bk.tudelft.nl/&#34;&gt;Bouwkunde&lt;/a&gt;. Vandaag schijnt de brand eindelijk meester te zijn. Sommige mensen verbaasden zich over het snel om zich heen grijpen van de brand, maar al die maquettes branden natuurlijk als een tierelier.&lt;/p&gt;
@@ -469,7 +469,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>â€œI am not in the business of being liked.â€</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/%E2%80%9Ci-am-not-in-the-business-of-being-liked%E2%80%9D/</link>
+      <link>http://localhost:1313/dingen/2008/05/%E2%80%9Ci-am-not-in-the-business-of-being-liked%E2%80%9D/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=292</guid> 
       <description>&lt;p&gt;Gisteren een &lt;a href=&#34;http://www.dok.info/index.php?cat=actief&amp;amp;pagina_id=50&amp;amp;agenda_id=271&#34;&gt;lezing bijgewoond van Arnold Karskens&lt;/a&gt; in DOK Delft. Interessant omdat Karskens grote thema&amp;rsquo;s aanhaalt, bijna samenzweringen aan de kaak stelt en een beroep doet op de morele verantwoordelijkheid van het Nederlandse volk en journaille ( &lt;a href=&#34;http://www.denieuwereporter.nl/?p=1574&#34;&gt;‘Halve journalistiek bestaat niet’&lt;/a&gt;).&lt;/p&gt;
@@ -478,7 +478,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>Tempo</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/tempo/</link>
+      <link>http://localhost:1313/dingen/2008/04/tempo/</link>
       <pubDate>Thu, 17 Apr 2008 12:25:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/tempo/</guid> 
       <description>&lt;p&gt;De laatste paar weken gaan voorbij in een waas. Te weinig uren in de dag, aan het einde van de week heb ik geen idee meer welke dagen ik wat gedaan heb behalve dan dat het aardig wat geweest moet zijn.&lt;/p&gt;
@@ -486,7 +486,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>RÃ©sumÃ© de la semaine</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/resume-de-la-semaine/</link>
+      <link>http://localhost:1313/dingen/2008/04/resume-de-la-semaine/</link>
       <pubDate>Fri, 11 Apr 2008 20:02:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/resume-de-la-semaine/</guid> 
       <description>&lt;p&gt;De weken gaan hard. Zo hard dat het nu alweer vrijdagavond is.&lt;/p&gt;
@@ -496,7 +496,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>Slaapkamerraam</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/slaapkamerraam/</link>
+      <link>http://localhost:1313/dingen/2008/04/slaapkamerraam/</link>
       <pubDate>Sun, 06 Apr 2008 21:05:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/slaapkamerraam/</guid> 
       <description>&lt;p&gt;Mony attendeerde me op de laatste challenge van JPGMag, een foto genomen uit je slaapkamerraam.&lt;/p&gt;
@@ -507,7 +507,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>Wageningen met de Mexicaan</title>
-      <link>http://localhost:62818/dingen/dingen/2008/03/wageningen-met-de-mexicaan/</link>
+      <link>http://localhost:1313/dingen/2008/03/wageningen-met-de-mexicaan/</link>
       <pubDate>Sun, 23 Mar 2008 17:45:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/wageningen-met-de-mexicaan/</guid> 
       <description>&lt;p&gt;Donderdag de hele dag op pad geweest met ‘The Mexican’, &lt;a href=&#34;http://reinier.zwitserloot.com&#34;&gt;Reinier&lt;/a&gt;&amp;rsquo;s Mexicaans-Amerikaanse Volkswagen Golf automaat. Ik rij geen auto, maar de skills moeten onderhouden en een &lt;em&gt;road trip&lt;/em&gt; op zijn tijd is natuurlijk altijd vet.&lt;/p&gt;
@@ -516,7 +516,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>Idiote week</title>
-      <link>http://localhost:62818/dingen/dingen/2008/03/idiote-week/</link>
+      <link>http://localhost:1313/dingen/2008/03/idiote-week/</link>
       <pubDate>Sat, 22 Mar 2008 20:31:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/idiote-week/</guid> 
       <description>&lt;p&gt;Aan het herstellen van overvolle programma&amp;rsquo;s op dinsdag, woensdag en donderdag deze week. Zo dinsdag avond om 22:30 aangekomen op het &lt;a href=&#34;http://snc.tudelft.nl&#34;&gt;Cultureel Centrum&lt;/a&gt; waar vrienden al een paar uur met flitsers, pocket wizards, softboxes en ander profi-spul zaten te spelen.&lt;/p&gt;
@@ -526,7 +526,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>Gasten en vis</title>
-      <link>http://localhost:62818/dingen/dingen/2008/03/gasten-en-vis/</link>
+      <link>http://localhost:1313/dingen/2008/03/gasten-en-vis/</link>
       <pubDate>Fri, 14 Mar 2008 12:06:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/gasten-en-vis/</guid> 
       <description>&lt;p&gt;En dan zwemt er zomaar dit je scherm binnen:
@@ -534,7 +534,7 @@ Creative Commons picture by &lt;a href=&#34;http://www.flickr.com/photos/liteowl
     </item>
     <item>
       <title>Als de brandweer</title>
-      <link>http://localhost:62818/dingen/dingen/2008/03/firemen/</link>
+      <link>http://localhost:1313/dingen/2008/03/firemen/</link>
       <pubDate>Wed, 12 Mar 2008 13:57:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/firemen/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2328305323/&#34; title=&#34;photo sharing&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3261/2328305323_91b56a4cc2.jpg&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://www.flickr.com/photos/alper/2328305323/&#34;&gt;Firemen&lt;/a&gt;, originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/alper/&#34;&gt;illustir&lt;/a&gt;.&lt;/p&gt;

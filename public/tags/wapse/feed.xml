@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wapse on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/wapse/</link>
+    <link>http://localhost:1313/tags/wapse/</link>
     <description>Recent content in Wapse on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 20 Aug 2008 21:17:05 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/wapse/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wapse/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capoeira Development</title>
-      <link>http://localhost:62818/dingen/dingen/2008/08/capoeira-development/</link>
+      <link>http://localhost:1313/dingen/2008/08/capoeira-development/</link>
       <pubDate>Wed, 20 Aug 2008 21:17:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=368</guid> 
       <description>&lt;p&gt;A weekend with friends for me only reaches conclusion after the pictures have been edited and placed online. The process takes some time but also allows/forces me to relive it. This time the process has been further prolonged because I have to wait until somewhere next week to pick up my developed film.&lt;/p&gt;

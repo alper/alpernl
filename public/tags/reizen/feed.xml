@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reizen on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/reizen/</link>
+    <link>http://localhost:1313/tags/reizen/</link>
     <description>Recent content in Reizen on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 06 Apr 2008 21:05:51 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/reizen/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/reizen/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slaapkamerraam</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/slaapkamerraam/</link>
+      <link>http://localhost:1313/dingen/2008/04/slaapkamerraam/</link>
       <pubDate>Sun, 06 Apr 2008 21:05:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/slaapkamerraam/</guid> 
       <description>&lt;p&gt;Mony attendeerde me op de laatste challenge van JPGMag, een foto genomen uit je slaapkamerraam.&lt;/p&gt;
@@ -21,7 +21,7 @@
     </item>
     <item>
       <title>Diversificeren</title>
-      <link>http://localhost:62818/dingen/dingen/2008/03/diversificeren/</link>
+      <link>http://localhost:1313/dingen/2008/03/diversificeren/</link>
       <pubDate>Sat, 08 Mar 2008 21:21:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/diversificeren/</guid> 
       <description>&lt;p&gt;Net voor de grap mijn kaart weer gemaakt:
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>Het Duitse landschap</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/het-duitse-landschap/</link>
+      <link>http://localhost:1313/dingen/2008/01/het-duitse-landschap/</link>
       <pubDate>Sun, 20 Jan 2008 18:32:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/het-duitse-landschap/</guid> 
       <description>&lt;p&gt;Fijne toevalstreffer hoe het Duitse landschap wordt verrijkt door mensgemaakte objecten.&lt;/p&gt;
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>Ein Berliner</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/ein-berliner/</link>
+      <link>http://localhost:1313/dingen/2008/01/ein-berliner/</link>
       <pubDate>Tue, 15 Jan 2008 16:38:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/ein-berliner/</guid> 
       <description>&lt;p&gt;Net een dag terug uit Berlijn na een weekend van straf rijden, drinken en &lt;a href=&#34;http://blog.plazes.com/?p=222&#34;&gt;programmeren&lt;/a&gt; ((Klinkt redelijk ideaal, niet?)).&lt;/p&gt;
@@ -49,7 +49,7 @@
     </item>
     <item>
       <title>Rustig na weggeweest te zijn</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/rustig-na-weggeweest-te-zijn/</link>
+      <link>http://localhost:1313/dingen/2007/11/rustig-na-weggeweest-te-zijn/</link>
       <pubDate>Tue, 13 Nov 2007 23:42:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/rustig-na-weggeweest-te-zijn/</guid> 
       <description>&lt;p&gt;Het is hier wat rustig, nadat ik een week ben weggeweest. Het weekje Berlijn afgesloten met twee dagen Maastricht ((Wat is dat een mooie stad, trouwens.)) op de batizado van onze goede vriend Vulcão en zijn groep &lt;a href=&#34;http://www.capoeirahelmond.nl/&#34;&gt;Capoeira Interação&lt;/a&gt;.
@@ -57,7 +57,7 @@
     </item>
     <item>
       <title>Berliner Existenz</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/berliner-existenz/</link>
+      <link>http://localhost:1313/dingen/2007/11/berliner-existenz/</link>
       <pubDate>Tue, 13 Nov 2007 01:57:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/berliner-existenz/</guid> 
       <description>&lt;p&gt;Na in Berlijn aangekomen te zijn, heb ik:&lt;/p&gt;
@@ -78,7 +78,7 @@
     </item>
     <item>
       <title>Berlijn dan eindelijk</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/berlijn-dan-eindelijk/</link>
+      <link>http://localhost:1313/dingen/2007/11/berlijn-dan-eindelijk/</link>
       <pubDate>Sat, 03 Nov 2007 18:51:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/berlijn-dan-eindelijk/</guid> 
       <description>&lt;p&gt;Na een lange en drukke rit door Nederland naar Arnhem en dan naar Berlijn, zitten we dan eindelijk in Berlijn in Eelke&amp;rsquo;s designerstube.&lt;/p&gt;
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title>Afstanden van de zomer</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/afstanden-van-de-zomer/</link>
+      <link>http://localhost:1313/dingen/2007/10/afstanden-van-de-zomer/</link>
       <pubDate>Sun, 21 Oct 2007 02:49:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/afstanden-van-de-zomer/</guid> 
       <description>&lt;p&gt;Had net Google Earth geïnstalleerd en zag dat daar erg handige tools in staan om afstanden te meten tussen plaatsen. Ik had voor mijn tabel nog een paar afstanden nodig die ik daarmee heb geschat.&lt;/p&gt;
@@ -96,23 +96,23 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Hamburg en terug</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/161/</link>
+      <link>http://localhost:1313/dingen/2007/10/161/</link>
       <pubDate>Tue, 16 Oct 2007 20:27:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/161/</guid> 
       <description>&lt;p&gt;Dit weekend even heen en weer gereden naar Hamburg om de batizado van &lt;a href=&#34;http://www.expressaopaulista.com/DE/&#34;&gt;Expressão Paulista&lt;/a&gt; bij te wonen. &lt;a href=&#34;http://www.flickr.com/photos/alper/1586518994/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;IMG_1608.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2104/1586518994_a353176e90.jpg&#34;&gt;&lt;/a&gt;  &lt;a href=&#34;http://www.flickr.com/photos/alper/1585630631/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;IMG_1549.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2164/1585630631_bec9b22f8f.jpg&#34;&gt;&lt;/a&gt;  &lt;a href=&#34;http://www.flickr.com/photos/alper/1585627353/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;IMG_1481.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2350/1585627353_fc1d264f00.jpg&#34;&gt;&lt;/a&gt;  &lt;a href=&#34;http://www.flickr.com/photos/alper/1586608254/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Mestre Marcelo&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2168/1586608254_58cbb22a91.jpg&#34;&gt;&lt;/a&gt; Wijs. Een beetje gespeeld, een beetje gefeest, veel gefotografeerd en veel mensen weergezien.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Portfolio update</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/portfolio-update/</link>
+      <link>http://localhost:1313/dingen/2007/10/portfolio-update/</link>
       <pubDate>Mon, 15 Oct 2007 17:59:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/portfolio-update/</guid> 
-      <description>&lt;p&gt;Ik heb na &lt;a href=&#34;http://localhost:62818/dingen/category/zomerreis-2007/&#34;&gt;de vakanties en gebeurtenissen van de zomer&lt;/a&gt; wat foto&amp;rsquo;s toegevoegd aan &lt;a href=&#34;http://localhost:62818/dingen/photography/&#34;&gt;mijn portfolio&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb na &lt;a href=&#34;http://localhost:1313/dingen/category/zomerreis-2007/&#34;&gt;de vakanties en gebeurtenissen van de zomer&lt;/a&gt; wat foto&amp;rsquo;s toegevoegd aan &lt;a href=&#34;http://localhost:1313/photography/&#34;&gt;mijn portfolio&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Leuk om te doen, en ik merk al sinds een tijdje de voordelen van een portfolio site die bestaat uit simpele HTML bestanden ((Ik heb een scriptje dat alles genereert uit een bronbestand en een paar templates.)). Google vindt het erg fijn.&lt;/p&gt;
 &lt;p&gt;Bekijk de foto&amp;rsquo;s het liefste op &lt;a href=&#34;http://www.apple.com/safari/download/&#34;&gt;Safari&lt;/a&gt; ((Nu ook voor Windows.)) of een andere browser die ICC-profielen ondersteunt anders kun je een verkeerde indruk krijgen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Road Trip Hamburg</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/road-trip-hamburg/</link>
+      <link>http://localhost:1313/dingen/2007/10/road-trip-hamburg/</link>
       <pubDate>Fri, 12 Oct 2007 09:46:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/road-trip-hamburg/</guid> 
       <description>&lt;p&gt;Vanavond met een klein groepje onderweg naar Hamburg voor een weekendje capoeira. Het wordt tof.&lt;/p&gt;
@@ -120,7 +120,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>NS Internationaal</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/ns-internationaal/</link>
+      <link>http://localhost:1313/dingen/2007/10/ns-internationaal/</link>
       <pubDate>Mon, 08 Oct 2007 04:33:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/ns-internationaal/</guid> 
       <description>&lt;p&gt;Ik ga eind deze maand naar Berlijn om &lt;a href=&#34;http://www.eelkedekker.nl/&#34;&gt;Eelke&lt;/a&gt; te bezoeken en acte de présence te geven op de &lt;a href=&#34;http://www.web2expo.com/&#34;&gt;Web 2.0 Expo&lt;/a&gt; en Barcamp Berlin. Nu dacht ik dat het wel leuk zou zijn om met de trein te gaan. Ik heb pas ook een Railplus Kaart bij mijn kortingskaart gekocht. Daar zou ik iets aan moeten hebben.&lt;/p&gt;
@@ -128,7 +128,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>De betekenis van een sluier</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/de-betekenis-van-een-sluier/</link>
+      <link>http://localhost:1313/dingen/2007/09/de-betekenis-van-een-sluier/</link>
       <pubDate>Thu, 27 Sep 2007 02:21:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/de-betekenis-van-een-sluier/</guid> 
       <description>&lt;p&gt;Ik ben op mijn laatste avond in het Riad Hotel in Hama nog bijna versierd.&lt;/p&gt;
@@ -136,16 +136,16 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Zonsondergang over Palmyra</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/zonsondergang-over-palmyra/</link>
+      <link>http://localhost:1313/dingen/2007/09/zonsondergang-over-palmyra/</link>
       <pubDate>Fri, 21 Sep 2007 17:45:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/zonsondergang-over-palmyra/</guid> 
       <description>&lt;p&gt;Ik heb geen idee hoe ik zo snel een Quicktime embed op dit blog plak. Vimeo even uitgeprobeerd wat een goede videosite is maar het FLV formaat is nog steeds redelijk bar qua kwaliteit.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://vimeo.com/313433/l:embed_313433&#34;&gt;Sunset over Palmyra&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user260708/l:embed_313433&#34;&gt;Alper Çugun&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/l:embed_313433&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Dit geeft een aardige indruk, maar kijk liever &lt;a href=&#34;http://localhost:62818/dingen/media/Palmyra.mov&#34;&gt;het filmpje op de volle resolutie&lt;/a&gt;.Toen we de zonsondergang over de ruïnes van Palmyra bekeken heb ik mijn camera neergezet op een rots en met stopwatch en afstandsbediening heb ik elke minuut een foto genomen. Het resultaat is volgens mij best aardig.&lt;/p&gt;</description>
+&lt;p&gt;Dit geeft een aardige indruk, maar kijk liever &lt;a href=&#34;http://localhost:1313/media/Palmyra.mov&#34;&gt;het filmpje op de volle resolutie&lt;/a&gt;.Toen we de zonsondergang over de ruïnes van Palmyra bekeken heb ik mijn camera neergezet op een rots en met stopwatch en afstandsbediening heb ik elke minuut een foto genomen. Het resultaat is volgens mij best aardig.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Het verkeer in SyriÃ« is gekkenwerk</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/</link>
+      <link>http://localhost:1313/dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/</link>
       <pubDate>Wed, 12 Sep 2007 13:37:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/</guid> 
       <description>&lt;p&gt;Het verkeer in Syrië is compleet een chaos. Ik heb nog nooit zoiets gezien maar mensen verzekeren me dat het bijv. in India nog veel en veel erger is. Ik snap niet hoe dat kan.&lt;/p&gt;
@@ -153,7 +153,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Het gras is altijd groener</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/het-gras-is-altijd-groener/</link>
+      <link>http://localhost:1313/dingen/2007/09/het-gras-is-altijd-groener/</link>
       <pubDate>Wed, 12 Sep 2007 03:10:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/het-gras-is-altijd-groener/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/1320503430/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1177/1320503430_4473aa255c.jpg&#34;&gt;&lt;/a&gt; Als je rondreist door landen waar het standaard warmer dan 30-35Ëš C. is, denk je weleens bij jezelf: ‘Dit is a-relaxed. Wat kouder zou niet heel erg zijn.’&lt;/p&gt;
@@ -161,7 +161,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Afreizen en afstuderen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/afreizen-en-afstuderen/</link>
+      <link>http://localhost:1313/dingen/2007/09/afreizen-en-afstuderen/</link>
       <pubDate>Tue, 11 Sep 2007 23:05:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/afreizen-en-afstuderen/</guid> 
       <description>&lt;p&gt;Ik was op het einde van mijn reis afgelopen weekend nog even in Londen voor een paar leuke events.&lt;/p&gt;
@@ -176,7 +176,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Brighton, UK</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/brighton-uk/</link>
+      <link>http://localhost:1313/dingen/2007/09/brighton-uk/</link>
       <pubDate>Mon, 10 Sep 2007 18:38:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/brighton-uk/</guid> 
       <description>&lt;p&gt;Ik zit hier aan het ontbijt, nog zonder eten maar wel al even koffie gehaald bij de Costa in de straat verderop met heel veel nerds in een kamer en bijna iedereen heeft een laptop open ((Waarvan 70% ofzo een Apple laptop is.)).&lt;/p&gt;
@@ -185,7 +185,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Terugvlucht ook verplaatst</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/terugvlucht-ook-verplaatst/</link>
+      <link>http://localhost:1313/dingen/2007/08/terugvlucht-ook-verplaatst/</link>
       <pubDate>Wed, 29 Aug 2007 13:54:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/terugvlucht-ook-verplaatst/</guid> 
       <description>&lt;p&gt;Waar ik al bang voor was is gebeurd, mijn terugvlucht met Corendon is ook verplaatst van 05:35 &amp;rsquo;s ochtends naar 14:30 &amp;rsquo;s middags diezelfde dag. Het toeval wil dat een meisje van een Turks stel die ik ontmoette in Palmyra diezelfde vlucht heeft.&lt;/p&gt;
@@ -193,17 +193,17 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Vlucht verplaatst</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/vlucht-verplaatst/</link>
+      <link>http://localhost:1313/dingen/2007/08/vlucht-verplaatst/</link>
       <pubDate>Wed, 15 Aug 2007 20:32:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/vlucht-verplaatst/</guid> 
       <description>&lt;p&gt;Het leek me wel handig voor vrienden en familie om een continu up to date reisschema bij te houden. Een kruising zogezegd tussen een itinerary en een travelogue. Maar een blog is dat in feite al.&lt;/p&gt;
-&lt;p&gt;Ik heb nu een categorie aangemaakt &lt;a href=&#34;http://localhost:62818/dingen/category/zomerreis-2007/&#34;&gt;&amp;ldquo;Zomerreis 2007&amp;rdquo;&lt;/a&gt; om alle informatie rondom mijn reis te verzamelen, reisupdates, foto&amp;rsquo;s, ervaringen enz.&lt;/p&gt;
+&lt;p&gt;Ik heb nu een categorie aangemaakt &lt;a href=&#34;http://localhost:1313/dingen/category/zomerreis-2007/&#34;&gt;&amp;ldquo;Zomerreis 2007&amp;rdquo;&lt;/a&gt; om alle informatie rondom mijn reis te verzamelen, reisupdates, foto&amp;rsquo;s, ervaringen enz.&lt;/p&gt;
 &lt;h3 id=&#34;veranderingen&#34;&gt;Veranderingen&lt;/h3&gt;
 &lt;p&gt;De eerste update is er al. Ik werd vandaag gebeld door &lt;a href=&#34;http://www.corendon.com/&#34;&gt;Corendon&lt;/a&gt; dat mijn vlucht &lt;a href=&#34;http://en.wikipedia.org/wiki/Amsterdam_Schiphol_Airport&#34;&gt;AMS&lt;/a&gt;- &lt;a href=&#34;http://en.wikipedia.org/wiki/Adana&#34;&gt;ADA&lt;/a&gt; van vrijdagochtend is gecancelled en dat ik daarvoor in de plaats de volgende dag om 19.30 &amp;rsquo;s avonds mag vliegen. Blijkbaar zijn alle vluchten onder voorbehoud. Het wordt zo nog een interessante vakantie.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Capoeira Camping</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/capoeira-camping/</link>
+      <link>http://localhost:1313/dingen/2007/08/capoeira-camping/</link>
       <pubDate>Mon, 13 Aug 2007 09:23:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/capoeira-camping/</guid> 
       <description>&lt;p&gt;Afgelopen weekend wezen kamperen in Wapse ((Ja, dat is de naam van een dorp in Nederland.)). Hier wat foto&amp;rsquo;s:
@@ -211,7 +211,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Vliegen van hot naar her</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/vliegen-van-hot-naar-her/</link>
+      <link>http://localhost:1313/dingen/2007/07/vliegen-van-hot-naar-her/</link>
       <pubDate>Tue, 24 Jul 2007 21:29:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/vliegen-van-hot-naar-her/</guid> 
       <description>&lt;p&gt;Ik heb vandaag de rest van mijn tickets geboekt voor mijn reis half augustus. Het complete schema:
@@ -223,7 +223,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Turkije kiest - Jij komt toch ook?</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/turkije-kiest-jij-komt-toch-ook/</link>
+      <link>http://localhost:1313/dingen/2007/07/turkije-kiest-jij-komt-toch-ook/</link>
       <pubDate>Sun, 22 Jul 2007 22:55:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/turkije-kiest-jij-komt-toch-ook/</guid> 
       <description>&lt;p&gt;Morgen zijn er verkiezingen in Turkije. Dit zijn redelijk controversiële verkiezingen om een boel redenen. De belangrijkste daarvan is het feit dat de &lt;a href=&#34;http://www.akparti.org.tr/&#34;&gt;AKP&lt;/a&gt; afstevent op een flinke overwinning. De AKP is een islamitische partij en dat ligt wat ongemakkelijk in Turkije. Ik heb al &lt;a href=&#34;http://www.sargasso.nl/archief/2007/07/19/turkije-kiest-koers/#comment-236203&#34;&gt;gereageerd op Sargasso&lt;/a&gt;. Nu hier wat uitgebreider.&lt;/p&gt;
@@ -231,7 +231,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>Eindelijk dan voorbij?</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/eindelijk-dan-voorbij/</link>
+      <link>http://localhost:1313/dingen/2007/07/eindelijk-dan-voorbij/</link>
       <pubDate>Wed, 18 Jul 2007 22:03:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/eindelijk-dan-voorbij/</guid> 
       <description>&lt;p&gt;Maandag al een poging gewaagd om mijn allerlaatste practicum af te laten tekenen en er toen niet in geslaagd. Met mijn uitgestelde afstuderen heb ik wat vrienden de kans gegeven om toch nog eerder dan ik af te studeren. Daarnaast heb ik voor mezelf wat tijd uitgespaard om op adem te komen, te surfen en &lt;a href=&#34;http://www.flickr.com/photos/alper/843852209/&#34;&gt;de andere dingen&lt;/a&gt; te doen die gedaan moeten.&lt;/p&gt;
@@ -240,7 +240,7 @@ Totalen, land: 2211km, spoor: 205km en lucht: 5876km. Toch wel grappig dat alter
     </item>
     <item>
       <title>JavaONE Afterglow - Desktop Java</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/javaone-afterglow-desktop-java/</link>
+      <link>http://localhost:1313/dingen/2007/06/javaone-afterglow-desktop-java/</link>
       <pubDate>Wed, 27 Jun 2007 23:36:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/javaone-afterglow-desktop-java/</guid> 
       <description>&lt;p&gt;Ik was gisteren op de JavaONE Afterglow in Affligem en hier zijn mijn aantekeningen van een sessie daar (geconverteerd van Markdown):&lt;/p&gt;
@@ -255,7 +255,7 @@ Myspace video uploader (IILWY.com does the same with Flash and does it very well
     </item>
     <item>
       <title>Online en open journalisme</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/online-en-open-journalisme/</link>
+      <link>http://localhost:1313/dingen/2007/06/online-en-open-journalisme/</link>
       <pubDate>Wed, 27 Jun 2007 13:15:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/online-en-open-journalisme/</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.benhammersley.com&#34;&gt;Ben Hammersley&lt;/a&gt; —fotograaf, schrijver, journalist, presentator, wat niet eigenlijk?— gaat voor de &lt;a href=&#34;http://bbc.co.uk&#34;&gt;BBC&lt;/a&gt; de aankomende verkiezingen in Turkije verslaan ( &lt;a href=&#34;http://www.frank-ly.nl/journalistiek-20&#34;&gt;Frank&lt;/a&gt; schrijft er ook over).&lt;/p&gt;
@@ -264,7 +264,7 @@ Myspace video uploader (IILWY.com does the same with Flash and does it very well
     </item>
     <item>
       <title>Daarheen en weer terug</title>
-      <link>http://localhost:62818/dingen/dingen/2007/06/daarheen-en-weer-terug/</link>
+      <link>http://localhost:1313/dingen/2007/06/daarheen-en-weer-terug/</link>
       <pubDate>Sun, 03 Jun 2007 20:12:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/daarheen-en-weer-terug/</guid> 
       <description>&lt;p&gt;Vanochtend genoot ik een geweldige brunch in het &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34;&gt;Laundromat café&lt;/a&gt; in Kopenhagen waarna lekker gechilled in het Ørstedspark.&lt;/p&gt;
@@ -276,7 +276,7 @@ Myspace video uploader (IILWY.com does the same with Flash and does it very well
     </item>
     <item>
       <title>Weer terug in Kopenhagen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/weer-terug-in-kopenhagen/</link>
+      <link>http://localhost:1313/dingen/2007/05/weer-terug-in-kopenhagen/</link>
       <pubDate>Thu, 31 May 2007 15:27:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/weer-terug-in-kopenhagen/</guid> 
       <description>&lt;p&gt;Ik zit tot en met zondag weer in Kopenhagen met oude en nieuwe vrienden op ons aller favoriete conferentie Reboot.&lt;/p&gt;
@@ -284,7 +284,7 @@ Myspace video uploader (IILWY.com does the same with Flash and does it very well
     </item>
     <item>
       <title>Reisverslag Spanje - Meer en minder taligheid</title>
-      <link>http://localhost:62818/dingen/dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/</link>
+      <link>http://localhost:1313/dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/</link>
       <pubDate>Thu, 26 Apr 2007 16:40:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/</guid> 
       <description>&lt;p&gt;&lt;em&gt;Hier nog een reisverslag uit Spanje wat ik in Wordpress had hangen. Er volgen er hopelijk nog een paar binnenkort.&lt;/em&gt;&lt;/p&gt;

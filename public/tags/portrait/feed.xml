@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portrait on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/portrait/</link>
+    <link>http://localhost:1313/tags/portrait/</link>
     <description>Recent content in Portrait on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 09 Jun 2008 07:20:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/portrait/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/portrait/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fast Portraits</title>
-      <link>http://localhost:62818/dingen/dingen/2008/06/fast-portraits/</link>
+      <link>http://localhost:1313/dingen/2008/06/fast-portraits/</link>
       <pubDate>Mon, 09 Jun 2008 07:20:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=306</guid> 
       <description>&lt;p&gt;Last week we had the batizado for our group with people coming in from Amsterdam, Norway, London and Portugal just to celebrate this event together. The batizado with associated parties and barbecues is a highlight of the year and this year proved to be a great amount of fun.&lt;/p&gt;

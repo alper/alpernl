@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reading on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/reading/</link>
+    <link>http://localhost:1313/categories/reading/</link>
     <description>Recent content in Reading on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Dec 2025 23:47:05 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/reading/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/reading/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Acemoglu &amp; Robinson Critique on Piketty</title>
-      <link>http://localhost:62818/dingen/dingen/2025/12/the-acemoglu-robinson-critique-on-piketty/</link>
+      <link>http://localhost:1313/dingen/2025/12/the-acemoglu-robinson-critique-on-piketty/</link>
       <pubDate>Sun, 21 Dec 2025 23:47:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5029</guid> 
       <description>&lt;p&gt;I read this paper right after I read the book by Piketty thinking that there would be some interesting economic debate. Unfortunately I was proved wrong and this seems to be exemplary of the stagnation of the economic field.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/09/18085/</link>
+      <link>http://localhost:1313/dingen/2025/09/18085/</link>
       <pubDate>Mon, 29 Sep 2025 20:40:33 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18085</guid> 
       <description>&lt;blockquote&gt;
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/03/18172/</link>
+      <link>http://localhost:1313/dingen/2025/03/18172/</link>
       <pubDate>Sat, 22 Mar 2025 08:51:19 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18172</guid> 
       <description>&lt;p&gt;Wasn&amp;rsquo;t it the CEO of META going around telling everybody that free speech was the most important thing at the moment?&lt;/p&gt;
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17917/</link>
+      <link>http://localhost:1313/dingen/2025/01/17917/</link>
       <pubDate>Tue, 14 Jan 2025 08:44:58 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17917</guid> 
       <description>&lt;p&gt;The Agents chapter from Chip Huyen&amp;rsquo;s book &amp;ldquo;AI Engineering&amp;rdquo; is clear and enjoyable to read. She&amp;rsquo;s right that &amp;ldquo;the concept of an agent is fairly simple&amp;rdquo; but building something functional still looks like a massive lift.&lt;/p&gt;
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17899/</link>
+      <link>http://localhost:1313/dingen/2025/01/17899/</link>
       <pubDate>Sat, 11 Jan 2025 13:57:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17899</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s rare to find writing in German as lithe and delightful as what Christoph Rauscher puts out. The monthly lists are &lt;a href=&#34;https://christowski.de/blog/2024/12/dezember-liste-2024/&#34;&gt;one particularly good example&lt;/a&gt;. I&amp;rsquo;m learning new and interesting words still in most of his pieces.&lt;/p&gt;
@@ -57,7 +57,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17879/</link>
+      <link>http://localhost:1313/dingen/2025/01/17879/</link>
       <pubDate>Mon, 06 Jan 2025 06:14:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17879</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2412.02830&#34;&gt;RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models&lt;/a&gt;&lt;/p&gt;
@@ -73,7 +73,7 @@
     </item>
     <item>
       <title>Year in Review 2024</title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/year-in-review-2024/</link>
+      <link>http://localhost:1313/dingen/2025/01/year-in-review-2024/</link>
       <pubDate>Sun, 05 Jan 2025 17:05:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17872</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s been a bit of a grab bag year but overall not as bad as 2023 and a bunch of things seem to be on track.&lt;/p&gt;
@@ -83,7 +83,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17854/</link>
+      <link>http://localhost:1313/dingen/2025/01/17854/</link>
       <pubDate>Fri, 03 Jan 2025 00:10:29 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17854</guid> 
       <description>&lt;p&gt;Hans de Zwart&amp;rsquo;s end of the year media overviews are one of the highlights of what still happens on personal blogs for me. He&amp;rsquo;s a voracious reader and one of the rare people who acts on his moral clarity. Also, Hans is a great guy and I had the chance to briefly catch-up with him last year.&lt;/p&gt;
@@ -91,7 +91,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17833/</link>
+      <link>http://localhost:1313/dingen/2025/01/17833/</link>
       <pubDate>Thu, 02 Jan 2025 07:17:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17833</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.00412&#34;&gt;Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation&lt;/a&gt;&lt;/p&gt;
@@ -101,7 +101,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/17831/</link>
+      <link>http://localhost:1313/dingen/2024/12/17831/</link>
       <pubDate>Tue, 31 Dec 2024 14:23:39 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17831</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.07663&#34;&gt;Monolith: Real Time Recommendation System With Collisionless Embedding Table&lt;/a&gt;&lt;/p&gt;
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/17829/</link>
+      <link>http://localhost:1313/dingen/2024/12/17829/</link>
       <pubDate>Tue, 31 Dec 2024 10:17:34 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17829</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2304.00612&#34;&gt;Eight Things to Know about Large Language Models&lt;/a&gt;&lt;/p&gt;
@@ -123,11 +123,11 @@
     </item>
     <item>
       <title>Witches Kitchen</title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/witchs-kitchen/</link>
+      <link>http://localhost:1313/dingen/2024/12/witchs-kitchen/</link>
       <pubDate>Fri, 27 Dec 2024 20:22:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17819</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-27-at-21.16.15@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2024-12-27-at-21.16.15@2x.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;From &lt;a href=&#34;https://www.ams.org/notices/200410/fea-grothendieck-part2.pdf&#34;&gt;the Grothendieck biography&lt;/a&gt;, funny to see that the legend would express himself in German.&lt;/p&gt;
@@ -138,7 +138,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/17809/</link>
+      <link>http://localhost:1313/dingen/2024/12/17809/</link>
       <pubDate>Thu, 26 Dec 2024 23:31:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17809</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/1706.03762&#34;&gt;Attention Is All You Need&lt;/a&gt;&lt;/p&gt;
@@ -147,7 +147,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/12/17805/</link>
+      <link>http://localhost:1313/dingen/2024/12/17805/</link>
       <pubDate>Thu, 26 Dec 2024 23:12:15 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17805</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2305.10601&#34;&gt;Tree of Thoughts: Deliberate Problem Solving with Large Language Models&lt;/a&gt;&lt;/p&gt;
@@ -157,7 +157,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Discipline and Punish: The Birth of the Prison</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/highlights-for-discipline-and-punish-the-birth-of-the-prison/</link>
+      <link>http://localhost:1313/dingen/2024/11/highlights-for-discipline-and-punish-the-birth-of-the-prison/</link>
       <pubDate>Mon, 04 Nov 2024 22:44:59 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17697</guid> 
       <description>&lt;blockquote&gt;
@@ -168,7 +168,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Conversational Capacity</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/highlights-for-conversational-capacity/</link>
+      <link>http://localhost:1313/dingen/2024/11/highlights-for-conversational-capacity/</link>
       <pubDate>Mon, 04 Nov 2024 22:41:53 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17694</guid> 
       <description>&lt;blockquote&gt;
@@ -179,15 +179,15 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>So long Ribbonfarm!</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/so-long-ribbonfarm/</link>
+      <link>http://localhost:1313/dingen/2024/11/so-long-ribbonfarm/</link>
       <pubDate>Sun, 03 Nov 2024 22:06:16 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17683</guid> 
       <description>&lt;p&gt;Ribbonfarm retiring is another such ending in a time rife with them. I can&amp;rsquo;t overstate how influential it has been on my (our) thinking and practice. Tremendously impressive to think all of that was thought up by one person (who I still haven&amp;rsquo;t met).&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;d be impossible to summarise all the themes, intersections and other tidbits that &lt;a href=&#34;http://localhost:62818/dingen/?s=ribbonfarm&#34;&gt;I got out of Ribbonfarm&lt;/a&gt;. I can say how it begun: I was lying on the river-shore in Avignon in 2012 and I had a large part of the blog&amp;rsquo;s back catalog in my Instapaper and there I read the entire thing while listening to the crickets.&lt;/p&gt;</description>
+&lt;p&gt;It&amp;rsquo;d be impossible to summarise all the themes, intersections and other tidbits that &lt;a href=&#34;http://localhost:1313/dingen/?s=ribbonfarm&#34;&gt;I got out of Ribbonfarm&lt;/a&gt;. I can say how it begun: I was lying on the river-shore in Avignon in 2012 and I had a large part of the blog&amp;rsquo;s back catalog in my Instapaper and there I read the entire thing while listening to the crickets.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17681/</link>
+      <link>http://localhost:1313/dingen/2024/11/17681/</link>
       <pubDate>Sun, 03 Nov 2024 19:36:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17681</guid> 
       <description>&lt;p&gt;Alan Moore definitely is not wrong:&lt;/p&gt;
@@ -198,7 +198,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17671/</link>
+      <link>http://localhost:1313/dingen/2024/11/17671/</link>
       <pubDate>Sun, 03 Nov 2024 17:39:49 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17671</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been waiting for an updated edition of “Designing Data-Intensive Applications” and now I see that Kleppmann is working on it. Reading the first edition has given me such an outsized advantage when architecting and building systems.&lt;/p&gt;
@@ -207,7 +207,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17639/</link>
+      <link>http://localhost:1313/dingen/2024/10/17639/</link>
       <pubDate>Tue, 29 Oct 2024 18:03:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17639</guid> 
       <description>&lt;blockquote&gt;
@@ -218,7 +218,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17616/</link>
+      <link>http://localhost:1313/dingen/2024/10/17616/</link>
       <pubDate>Thu, 03 Oct 2024 00:58:00 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17616</guid> 
       <description>&lt;p&gt;Of course it takes a Dutch guy, an outsider, to blow the lid off Germany&amp;rsquo;s Nazi Bilionaires. David de Jong is doing great work and the German establishment tries to bury that as much as possible (because they know which side their bread is buttered on).&lt;/p&gt;
@@ -226,7 +226,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17610/</link>
+      <link>http://localhost:1313/dingen/2024/10/17610/</link>
       <pubDate>Thu, 03 Oct 2024 00:45:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17610</guid> 
       <description>&lt;p&gt;A damning but also entirely correct assessment of Elon Musk:&lt;/p&gt;
@@ -237,7 +237,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/04/17527/</link>
+      <link>http://localhost:1313/dingen/2024/04/17527/</link>
       <pubDate>Mon, 15 Apr 2024 17:58:22 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17527</guid> 
       <description>&lt;blockquote&gt;
@@ -247,7 +247,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/04/17525/</link>
+      <link>http://localhost:1313/dingen/2024/04/17525/</link>
       <pubDate>Mon, 15 Apr 2024 17:54:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17525</guid> 
       <description>&lt;blockquote&gt;
@@ -258,7 +258,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17450/</link>
+      <link>http://localhost:1313/dingen/2024/03/17450/</link>
       <pubDate>Fri, 01 Mar 2024 17:54:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17450</guid> 
       <description>&lt;blockquote&gt;
@@ -268,7 +268,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>De Correspondent over de Wooncrisis</title>
-      <link>http://localhost:62818/dingen/dingen/2024/02/de-correspondent-over-de-wooncrisis/</link>
+      <link>http://localhost:1313/dingen/2024/02/de-correspondent-over-de-wooncrisis/</link>
       <pubDate>Sat, 17 Feb 2024 11:34:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17427</guid> 
       <description>&lt;p&gt;Grappig om te zien dat De Correspondent een serie maakt over de wooncrisis in Nederland:&lt;/p&gt;
@@ -281,7 +281,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/01/17412/</link>
+      <link>http://localhost:1313/dingen/2024/01/17412/</link>
       <pubDate>Wed, 17 Jan 2024 14:48:00 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17412</guid> 
       <description>&lt;p&gt;From this massive list of science-fiction books by Noah Smith I&amp;rsquo;ve read and liked half or so which means that I probably should read the other half.&lt;/p&gt;
@@ -289,7 +289,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>2023 Year in Review</title>
-      <link>http://localhost:62818/dingen/dingen/2024/01/2023-year-in-review/</link>
+      <link>http://localhost:1313/dingen/2024/01/2023-year-in-review/</link>
       <pubDate>Mon, 01 Jan 2024 01:49:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17382</guid> 
       <description>&lt;p&gt;Looking back on 2023 I can say that we made lemonade out of an overall pretty shit year.&lt;/p&gt;
@@ -297,7 +297,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/12/17338/</link>
+      <link>http://localhost:1313/dingen/2023/12/17338/</link>
       <pubDate>Sat, 02 Dec 2023 16:11:28 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17338</guid> 
       <description>&lt;p&gt;Listening to the Trash Future team describe CulturePulse.ai and the digital twin profile created for entire populations seems very very reminiscent of &lt;a href=&#34;https://www.goodreads.com/en/book/show/2263657&#34;&gt;“The Red Men”&lt;/a&gt; by Matthew de Abaitua which didn&amp;rsquo;t get the attention it deserved but was quite prescient.&lt;/p&gt;
@@ -306,7 +306,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17323/</link>
+      <link>http://localhost:1313/dingen/2023/11/17323/</link>
       <pubDate>Tue, 21 Nov 2023 18:54:53 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17323</guid> 
       <description>&lt;p&gt;I don&amp;rsquo;t think about the Roman Empire that much, but when I do it&amp;rsquo;s great to have it be because of Mary Beard who in this podcast (from the 18:48) talks about Zuckerberg&amp;rsquo;s fascination with August and how leadership then and now has not changed that much.&lt;/p&gt;
@@ -314,7 +314,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17306/</link>
+      <link>http://localhost:1313/dingen/2023/11/17306/</link>
       <pubDate>Mon, 06 Nov 2023 08:40:58 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17306</guid> 
       <description>&lt;p&gt;I &lt;em&gt;can&lt;/em&gt; stop thinking about the Roman Empire, but this piece that draws an analogy between the Fall of the Romans and the End of Twitter is long overdue to be shared and still really good.&lt;/p&gt;
@@ -323,7 +323,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/17123/</link>
+      <link>http://localhost:1313/dingen/2023/03/17123/</link>
       <pubDate>Sat, 11 Mar 2023 17:44:07 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17123</guid> 
       <description>&lt;p&gt;Finally got around to reading Elizabeth Sandifer&amp;rsquo;s essay and if there was any doubt, this makes it clear how much of an unserious and malicious person Scott Alexander/Siskind is. Siskind&amp;rsquo;s writing deliberately pretends to be respectable to provide ideological cover to some real evil.&lt;/p&gt;
@@ -331,7 +331,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/17118/</link>
+      <link>http://localhost:1313/dingen/2023/03/17118/</link>
       <pubDate>Sat, 11 Mar 2023 11:22:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17118</guid> 
       <description>&lt;p&gt;An amazing read about the first solo unsupported around the world sailing event and the maintenance that goes into doing something like that.&lt;/p&gt;
@@ -339,7 +339,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Amp It Up</title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/highlights-for-amp-it-up/</link>
+      <link>http://localhost:1313/dingen/2023/03/highlights-for-amp-it-up/</link>
       <pubDate>Wed, 08 Mar 2023 09:42:28 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17112</guid> 
       <description>&lt;blockquote&gt;
@@ -353,7 +353,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/17101/</link>
+      <link>http://localhost:1313/dingen/2023/03/17101/</link>
       <pubDate>Sat, 04 Mar 2023 08:34:40 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17101</guid> 
       <description>&lt;p&gt;A useful distinction between &amp;ldquo;code proofreading&amp;rdquo; and &amp;ldquo;code editing&amp;rdquo; by Hillel Wayne both of which are part of a standard PR process but neither is really a good fit there.&lt;/p&gt;
@@ -361,7 +361,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Rise</title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/highlights-for-rise/</link>
+      <link>http://localhost:1313/dingen/2023/02/highlights-for-rise/</link>
       <pubDate>Tue, 21 Feb 2023 21:59:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17090</guid> 
       <description>&lt;blockquote&gt;
@@ -372,7 +372,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Thinking in Bets</title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/highlights-for-thinking-in-bets/</link>
+      <link>http://localhost:1313/dingen/2023/02/highlights-for-thinking-in-bets/</link>
       <pubDate>Mon, 20 Feb 2023 17:35:06 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17085</guid> 
       <description>&lt;blockquote&gt;
@@ -389,7 +389,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Out with Bungacast and their tankie/nutter agenda</title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/17035/</link>
+      <link>http://localhost:1313/dingen/2023/02/17035/</link>
       <pubDate>Wed, 15 Feb 2023 21:48:17 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17035</guid> 
       <description>&lt;p&gt;Several online situations today where I think I&amp;rsquo;m going insane so I might as well document them.&lt;/p&gt;
@@ -399,7 +399,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Domain Driven Design</title>
-      <link>http://localhost:62818/dingen/dingen/2022/09/highlights-for-domain-driven-design/</link>
+      <link>http://localhost:1313/dingen/2022/09/highlights-for-domain-driven-design/</link>
       <pubDate>Thu, 15 Sep 2022 22:17:30 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16850</guid> 
       <description>&lt;blockquote&gt;
@@ -410,7 +410,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Bizim BÃ¼yÃ¼k Ã‡aresizliÄŸimiz</title>
-      <link>http://localhost:62818/dingen/dingen/2022/09/highlights-for-bizim-buyuk-caresizligimiz/</link>
+      <link>http://localhost:1313/dingen/2022/09/highlights-for-bizim-buyuk-caresizligimiz/</link>
       <pubDate>Thu, 15 Sep 2022 22:16:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16848</guid> 
       <description>&lt;blockquote&gt;
@@ -433,7 +433,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for The Ministry for the Future</title>
-      <link>http://localhost:62818/dingen/dingen/2022/09/highlights-for-the-ministry-for-the-future/</link>
+      <link>http://localhost:1313/dingen/2022/09/highlights-for-the-ministry-for-the-future/</link>
       <pubDate>Thu, 15 Sep 2022 22:15:39 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16846</guid> 
       <description>&lt;blockquote&gt;
@@ -441,7 +441,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Executive Presence</title>
-      <link>http://localhost:62818/dingen/dingen/2022/07/highlights-for-executive-presence/</link>
+      <link>http://localhost:1313/dingen/2022/07/highlights-for-executive-presence/</link>
       <pubDate>Fri, 22 Jul 2022 21:50:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16827</guid> 
       <description>&lt;blockquote&gt;
@@ -453,7 +453,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Cosmopolitanism</title>
-      <link>http://localhost:62818/dingen/dingen/2022/07/highlights-for-cosmopolitanism/</link>
+      <link>http://localhost:1313/dingen/2022/07/highlights-for-cosmopolitanism/</link>
       <pubDate>Fri, 22 Jul 2022 21:49:57 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16825</guid> 
       <description>&lt;blockquote&gt;
@@ -464,7 +464,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/07/16819/</link>
+      <link>http://localhost:1313/dingen/2022/07/16819/</link>
       <pubDate>Sun, 17 Jul 2022 09:02:34 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16819</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari&#34;&gt;https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari&lt;/a&gt;&lt;/p&gt;
@@ -472,7 +472,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Rust for Rustaceans</title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/highlights-for-rust-for-rustaceans/</link>
+      <link>http://localhost:1313/dingen/2022/03/highlights-for-rust-for-rustaceans/</link>
       <pubDate>Fri, 11 Mar 2022 21:40:53 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16749</guid> 
       <description>&lt;blockquote&gt;
@@ -486,7 +486,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for It&#39;s Not About the Burqa</title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/highlights-for-its-not-about-the-burqa/</link>
+      <link>http://localhost:1313/dingen/2022/03/highlights-for-its-not-about-the-burqa/</link>
       <pubDate>Fri, 11 Mar 2022 21:38:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16746</guid> 
       <description>&lt;blockquote&gt;
@@ -500,7 +500,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Becoming Trader Joe</title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/highlights-for-becoming-trader-joe/</link>
+      <link>http://localhost:1313/dingen/2022/03/highlights-for-becoming-trader-joe/</link>
       <pubDate>Fri, 11 Mar 2022 21:36:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16742</guid> 
       <description>&lt;blockquote&gt;
@@ -511,7 +511,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/16715/</link>
+      <link>http://localhost:1313/dingen/2022/03/16715/</link>
       <pubDate>Sun, 06 Mar 2022 11:45:38 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16715</guid> 
       <description>&lt;blockquote&gt;
@@ -522,7 +522,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2022/03/16713/</link>
+      <link>http://localhost:1313/dingen/2022/03/16713/</link>
       <pubDate>Sun, 06 Mar 2022 10:00:16 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16713</guid> 
       <description>&lt;blockquote&gt;
@@ -532,7 +532,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Year Note 2021</title>
-      <link>http://localhost:62818/dingen/dingen/2022/01/year-note-2021/</link>
+      <link>http://localhost:1313/dingen/2022/01/year-note-2021/</link>
       <pubDate>Mon, 10 Jan 2022 09:14:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16685</guid> 
       <description>&lt;blockquote&gt;
@@ -544,7 +544,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Learn You a Haskell is Problematic</title>
-      <link>http://localhost:62818/dingen/dingen/2021/12/learn-you-a-haskell-is-problematic/</link>
+      <link>http://localhost:1313/dingen/2021/12/learn-you-a-haskell-is-problematic/</link>
       <pubDate>Tue, 28 Dec 2021 12:53:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16661</guid> 
       <description>&lt;p&gt;A couple of years ago I learned Haskell and to do that I read a book that is universally recommended for beginners and used to be available free online called &lt;a href=&#34;https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good&#34;&gt;&amp;ldquo;Learn you a Haskell for Great Good&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
@@ -553,7 +553,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/10/16617/</link>
+      <link>http://localhost:1313/dingen/2021/10/16617/</link>
       <pubDate>Sun, 24 Oct 2021 07:49:26 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16617</guid> 
       <description>&lt;p&gt;There is a lot of truth to &lt;a href=&#34;https://www.economist.com/1843/2016/07/04/let-me-explain-the-problem-with-german-humour&#34;&gt;this Economist article about German humour&lt;/a&gt; and I refer back to it a lot.&lt;/p&gt;
@@ -562,7 +562,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Leveled up in Turkish</title>
-      <link>http://localhost:62818/dingen/dingen/2021/09/leveled-up-in-turkish/</link>
+      <link>http://localhost:1313/dingen/2021/09/leveled-up-in-turkish/</link>
       <pubDate>Sun, 12 Sep 2021 20:43:24 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16586</guid> 
       <description>&lt;p&gt;Hanging out on &lt;a href=&#34;https://www.joinclubhouse.com/&#34;&gt;Clubhouse&lt;/a&gt; from the beginning made me realize how lacking my Turkish was. I got on the app when Germany came online and I think Turkey launched shortly after that and only then did it kick off in the Netherlands.&lt;/p&gt;
@@ -570,7 +570,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Site Reliability Engineering</title>
-      <link>http://localhost:62818/dingen/dingen/2021/08/highlights-for-site-reliability-engineering/</link>
+      <link>http://localhost:1313/dingen/2021/08/highlights-for-site-reliability-engineering/</link>
       <pubDate>Sun, 22 Aug 2021 22:06:47 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16581</guid> 
       <description>&lt;blockquote&gt;
@@ -578,7 +578,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Radical Markets</title>
-      <link>http://localhost:62818/dingen/dingen/2021/08/highlights-for-radical-markets/</link>
+      <link>http://localhost:1313/dingen/2021/08/highlights-for-radical-markets/</link>
       <pubDate>Sun, 22 Aug 2021 22:05:53 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16579</guid> 
       <description>&lt;blockquote&gt;
@@ -589,7 +589,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/07/16540/</link>
+      <link>http://localhost:1313/dingen/2021/07/16540/</link>
       <pubDate>Sat, 03 Jul 2021 16:00:54 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16540</guid> 
       <description>&lt;p&gt;&amp;ldquo;Helicopter Story&amp;rdquo; was one of the best pieces of sci-fi I&amp;rsquo;ve read in a while. All the more galling that it was ripped apart in a culture war free-for-all.&lt;/p&gt;
@@ -597,7 +597,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for The Provos</title>
-      <link>http://localhost:62818/dingen/dingen/2021/02/highlights-for-the-provos/</link>
+      <link>http://localhost:1313/dingen/2021/02/highlights-for-the-provos/</link>
       <pubDate>Wed, 17 Feb 2021 15:27:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16433</guid> 
       <description>&lt;blockquote&gt;
@@ -611,7 +611,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Nine Lies About Work</title>
-      <link>http://localhost:62818/dingen/dingen/2021/02/highlights-for-nine-lies-about-work/</link>
+      <link>http://localhost:1313/dingen/2021/02/highlights-for-nine-lies-about-work/</link>
       <pubDate>Wed, 17 Feb 2021 15:26:24 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16431</guid> 
       <description>&lt;blockquote&gt;
@@ -625,7 +625,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/12/16377/</link>
+      <link>http://localhost:1313/dingen/2020/12/16377/</link>
       <pubDate>Sat, 26 Dec 2020 20:54:14 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16377</guid> 
       <description>&lt;p&gt;I am immensely happy to see two friends launch Branch, a magazine about creating a sustainable internet. The way they put the magazine together mirrors the best practices of the future we should live in right now.&lt;/p&gt;
@@ -633,7 +633,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/12/16369/</link>
+      <link>http://localhost:1313/dingen/2020/12/16369/</link>
       <pubDate>Sat, 26 Dec 2020 20:39:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16369</guid> 
       <description>&lt;p&gt;A lovely interview about the magic bus and the hippie period in Istanbul revolving around the Lale Pudding Shop which is still in business.&lt;/p&gt;
@@ -641,7 +641,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/10/16344/</link>
+      <link>http://localhost:1313/dingen/2020/10/16344/</link>
       <pubDate>Fri, 23 Oct 2020 21:09:38 +0000</pubDate>
        <guid isPermaLink="false">http://www.alper.nl/dingen/?p=16344</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.hpdetijd.nl/2020-10-14/twee-eeuwen-oranjebitter/&#34;&gt;https://www.hpdetijd.nl/2020-10-14/twee-eeuwen-oranjebitter/&lt;/a&gt;&lt;/p&gt;
@@ -649,7 +649,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/09/16286/</link>
+      <link>http://localhost:1313/dingen/2020/09/16286/</link>
       <pubDate>Thu, 17 Sep 2020 22:04:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16286</guid> 
       <description>&lt;blockquote&gt;
@@ -660,7 +660,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Progress and Poverty</title>
-      <link>http://localhost:62818/dingen/dingen/2020/09/highlights-for-progress-and-poverty/</link>
+      <link>http://localhost:1313/dingen/2020/09/highlights-for-progress-and-poverty/</link>
       <pubDate>Tue, 01 Sep 2020 19:51:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16265</guid> 
       <description>&lt;blockquote&gt;
@@ -671,7 +671,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/08/16210/</link>
+      <link>http://localhost:1313/dingen/2020/08/16210/</link>
       <pubDate>Sun, 02 Aug 2020 10:52:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16210</guid> 
       <description>&lt;p&gt;I thought this was a great interview with Kim Stanley Robinson but it turns out the Corona virus has not rewritten our imaginations enough, not enough at all.&lt;/p&gt;
@@ -679,7 +679,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Slate Star Codex and Silicon Valleyâ€™s War Against the Media</title>
-      <link>http://localhost:62818/dingen/dingen/2020/07/slate-star-codex-and-silicon-valleys-war-against-the-media/</link>
+      <link>http://localhost:1313/dingen/2020/07/slate-star-codex-and-silicon-valleys-war-against-the-media/</link>
       <pubDate>Mon, 13 Jul 2020 23:05:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16153</guid> 
       <description>&lt;p&gt;An excellent overview of the issues around Slate Star Codex without having to read a single word of the blog yourself. That&amp;rsquo;s an excellent service.&lt;/p&gt;
@@ -687,7 +687,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/07/16141/</link>
+      <link>http://localhost:1313/dingen/2020/07/16141/</link>
       <pubDate>Sun, 12 Jul 2020 10:16:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16141</guid> 
       <description>&lt;p&gt;I can&amp;rsquo;t say I&amp;rsquo;ve read a lot of Beyond the Beyond nor been much of a happy Wired consumer in any case, but it&amp;rsquo;s passing still marks the end of an era. I remember Bruce Sterling&amp;rsquo;s closing speeches at SxSWi as one of the highlights of the conference (me being  too late an arrival to attend his house parties).&lt;/p&gt;
@@ -695,7 +695,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Highlights for Peaceful Parent Happy Kids</title>
-      <link>http://localhost:62818/dingen/dingen/2020/07/highlights-for-peaceful-parent-happy-kids/</link>
+      <link>http://localhost:1313/dingen/2020/07/highlights-for-peaceful-parent-happy-kids/</link>
       <pubDate>Tue, 07 Jul 2020 22:32:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16139</guid> 
       <description>&lt;blockquote&gt;
@@ -703,7 +703,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/05/16093/</link>
+      <link>http://localhost:1313/dingen/2020/05/16093/</link>
       <pubDate>Sun, 10 May 2020 09:19:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16093</guid> 
       <description>&lt;p&gt;A very thorough overview of William Gibson&amp;rsquo;s life and work which touches on a lot of familiar points. It reminds me that I should read Agency and makes me want to dive back and read the previous trilogies again.&lt;/p&gt;
@@ -711,7 +711,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/05/16091/</link>
+      <link>http://localhost:1313/dingen/2020/05/16091/</link>
       <pubDate>Sun, 10 May 2020 09:07:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16091</guid> 
       <description>&lt;blockquote&gt;
@@ -722,7 +722,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/05/16089/</link>
+      <link>http://localhost:1313/dingen/2020/05/16089/</link>
       <pubDate>Sun, 10 May 2020 08:59:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16089</guid> 
       <description>&lt;p&gt;I had put the Ray Dalio book on my do-not-read pile even before knowing exactly how evil it is.&lt;/p&gt;
@@ -730,7 +730,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>(kom eens langs)</title>
-      <link>http://localhost:62818/dingen/dingen/2020/05/kom-eens-langs/</link>
+      <link>http://localhost:1313/dingen/2020/05/kom-eens-langs/</link>
       <pubDate>Wed, 06 May 2020 20:46:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16077</guid> 
       <description>&lt;p&gt;Eerst praten we over van alles en niets.&lt;/p&gt;
@@ -744,7 +744,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Escapology</title>
-      <link>http://localhost:62818/dingen/dingen/2020/04/highlights-for-escapology/</link>
+      <link>http://localhost:1313/dingen/2020/04/highlights-for-escapology/</link>
       <pubDate>Wed, 08 Apr 2020 19:48:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16045</guid> 
       <description>&lt;blockquote&gt;
@@ -755,7 +755,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Dead Souls</title>
-      <link>http://localhost:62818/dingen/dingen/2020/03/highlights-for-dead-souls/</link>
+      <link>http://localhost:1313/dingen/2020/03/highlights-for-dead-souls/</link>
       <pubDate>Thu, 19 Mar 2020 21:42:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16040</guid> 
       <description>&lt;blockquote&gt;
@@ -763,7 +763,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Crucial Conversations</title>
-      <link>http://localhost:62818/dingen/dingen/2020/03/highlights-for-crucial-conversations/</link>
+      <link>http://localhost:1313/dingen/2020/03/highlights-for-crucial-conversations/</link>
       <pubDate>Sun, 08 Mar 2020 21:03:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16035</guid> 
       <description>&lt;blockquote&gt;
@@ -774,7 +774,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/01/15958/</link>
+      <link>http://localhost:1313/dingen/2020/01/15958/</link>
       <pubDate>Wed, 29 Jan 2020 22:06:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15958</guid> 
       <description>&lt;p&gt;An incredibly sad and beautiful story of a father&amp;rsquo;s last days.&lt;/p&gt;
@@ -782,7 +782,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/01/15956/</link>
+      <link>http://localhost:1313/dingen/2020/01/15956/</link>
       <pubDate>Wed, 29 Jan 2020 22:02:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15956</guid> 
       <description>&lt;p&gt;A bit of near-future fiction about crypto as a subsistence work enterprise.&lt;/p&gt;
@@ -790,7 +790,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/01/15940/</link>
+      <link>http://localhost:1313/dingen/2020/01/15940/</link>
       <pubDate>Fri, 10 Jan 2020 14:06:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15940</guid> 
       <description>&lt;p&gt;I read this science-fiction short story which is reminiscent of Ann Leckie&amp;rsquo;s books in how it plays with gender and militarism, but I think this is better.&lt;/p&gt;
@@ -798,7 +798,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Winners Take All</title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/highlights-for-winners-take-all/</link>
+      <link>http://localhost:1313/dingen/2019/11/highlights-for-winners-take-all/</link>
       <pubDate>Thu, 28 Nov 2019 12:17:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15889</guid> 
       <description>&lt;blockquote&gt;
@@ -809,7 +809,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>German history reading list</title>
-      <link>http://localhost:62818/dingen/dingen/2019/11/german-history-reading-list/</link>
+      <link>http://localhost:1313/dingen/2019/11/german-history-reading-list/</link>
       <pubDate>Thu, 28 Nov 2019 11:55:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15886</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been meaning to finish reading up on German history. If I read the five books below, I should be in a great place.&lt;/p&gt;
@@ -823,7 +823,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/10/15761/</link>
+      <link>http://localhost:1313/dingen/2019/10/15761/</link>
       <pubDate>Sun, 13 Oct 2019 20:01:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15761</guid> 
       <description>&lt;p&gt;Will Larson (whose new book is lying on my desk at work) writes a welcome long view on the technology career, something we will increasingly need to think about and come to terms with.&lt;/p&gt;
@@ -831,7 +831,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for My Struggle</title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/highlights-for-my-struggle/</link>
+      <link>http://localhost:1313/dingen/2019/09/highlights-for-my-struggle/</link>
       <pubDate>Sun, 22 Sep 2019 21:18:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15733</guid> 
       <description>&lt;blockquote&gt;
@@ -839,7 +839,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15726/</link>
+      <link>http://localhost:1313/dingen/2019/09/15726/</link>
       <pubDate>Sun, 22 Sep 2019 21:00:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15726</guid> 
       <description>&lt;p&gt;It is true that Goodreads is a deeply broken website but right now it is the only place that we have that has a critical mass of readers on it.&lt;/p&gt;
@@ -847,7 +847,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for How not to hate your husband after kids</title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/highlights-for-how-not-to-hate-your-husband-after-kids/</link>
+      <link>http://localhost:1313/dingen/2019/09/highlights-for-how-not-to-hate-your-husband-after-kids/</link>
       <pubDate>Sun, 01 Sep 2019 18:34:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15651</guid> 
       <description>&lt;blockquote&gt;
@@ -858,7 +858,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/15649/</link>
+      <link>http://localhost:1313/dingen/2019/09/15649/</link>
       <pubDate>Sun, 01 Sep 2019 12:15:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15649</guid> 
       <description>&lt;p&gt;I can&amp;rsquo;t get enough of these literary exposés, this one about how Benjamin Moser treats female collaborators and appropriates their work.&lt;/p&gt;
@@ -866,7 +866,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Agile Application Security</title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/highlights-for-agile-application-security/</link>
+      <link>http://localhost:1313/dingen/2019/08/highlights-for-agile-application-security/</link>
       <pubDate>Wed, 21 Aug 2019 20:54:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15635</guid> 
       <description>&lt;blockquote&gt;
@@ -880,7 +880,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15627/</link>
+      <link>http://localhost:1313/dingen/2019/08/15627/</link>
       <pubDate>Wed, 07 Aug 2019 21:31:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15627</guid> 
       <description>&lt;blockquote&gt;
@@ -891,7 +891,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/08/15610/</link>
+      <link>http://localhost:1313/dingen/2019/08/15610/</link>
       <pubDate>Sun, 04 Aug 2019 10:58:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15610</guid> 
       <description>&lt;p&gt;We do our own flavor of attachment parenting and this is still one of my favorite pieces about motherhood.&lt;/p&gt;
@@ -899,7 +899,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Temperamentvolle Kinderen</title>
-      <link>http://localhost:62818/dingen/dingen/2019/07/highlights-for-temperamentvolle-kinderen/</link>
+      <link>http://localhost:1313/dingen/2019/07/highlights-for-temperamentvolle-kinderen/</link>
       <pubDate>Sat, 27 Jul 2019 18:13:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15586</guid> 
       <description>&lt;blockquote&gt;
@@ -916,27 +916,27 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/15544/</link>
+      <link>http://localhost:1313/dingen/2019/06/15544/</link>
       <pubDate>Fri, 21 Jun 2019 16:47:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15544</guid> 
       <description>&lt;p&gt;Are people paying the Medium article ransom?&lt;/p&gt;</description>
     </item>
     <item>
       <title>A poor man&#39;s instapaper</title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/a-poor-mans-instapaper/</link>
+      <link>http://localhost:1313/dingen/2019/06/a-poor-mans-instapaper/</link>
       <pubDate>Sat, 15 Jun 2019 11:29:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15516</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve stopped using &lt;a href=&#34;https://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt; for a long time now, but I&amp;rsquo;m still reading longreads. Let me explain how.&lt;/p&gt;
 &lt;p&gt;I go through my links in Chrome on my desktop. I close and read whatever I can and anything that&amp;rsquo;s too long stays in an open tab and floats slowly to the left.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/06/IMG%5FCAACFBBBB194-1-1.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_CAACFBBBB194-1-1.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;On Chrome on my phone whenever I&amp;rsquo;m in transit or when I want to read something longer that isn&amp;rsquo;t a book, I go to the “Recent tabs”screen. Besides those you can also find synced open tabs from all your other Chrome browsers. I then pick something that I want to read.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highlights for Designing Data-Intensive Applications</title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/highlights-for-designing-data-intensive-applications/</link>
+      <link>http://localhost:1313/dingen/2019/06/highlights-for-designing-data-intensive-applications/</link>
       <pubDate>Thu, 13 Jun 2019 21:19:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15514</guid> 
       <description>&lt;blockquote&gt;
@@ -947,7 +947,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>The Theory of Society</title>
-      <link>http://localhost:62818/dingen/dingen/2019/06/the-theory-of-society/</link>
+      <link>http://localhost:1313/dingen/2019/06/the-theory-of-society/</link>
       <pubDate>Wed, 05 Jun 2019 21:40:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15487</guid> 
       <description>&lt;p&gt;I was arguing against Systems Theory today (a necessary evil when you live in Germany) which prompted the thought of searching for the conjunction of Bruno Latour and Niklas Luhmann. That led me to &lt;a href=&#34;https://wittenbrink.net/lostandfound/clash-of-culturesbruno-latour-trifft-niklas-luhmann/&#34;&gt;this gem&lt;/a&gt;.&lt;/p&gt;
@@ -956,7 +956,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15464/</link>
+      <link>http://localhost:1313/dingen/2019/05/15464/</link>
       <pubDate>Mon, 27 May 2019 21:55:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15464</guid> 
       <description>&lt;p&gt;Ik dacht dat Arjen van Veelen één van de beste schrijvers op de Correspondent was. Dat is hij misschien nog steeds, maar dan shrijft hij wel dit soort onzin.&lt;/p&gt;
@@ -964,7 +964,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Interpreter of Maladies</title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/highlights-for-interpreter-of-maladies/</link>
+      <link>http://localhost:1313/dingen/2019/05/highlights-for-interpreter-of-maladies/</link>
       <pubDate>Sun, 26 May 2019 12:56:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15441</guid> 
       <description>&lt;blockquote&gt;
@@ -975,7 +975,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for How to Measure Anything in Cybersecurity Risk</title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/highlights-for-how-to-measure-anything-in-cybersecurity-risk/</link>
+      <link>http://localhost:1313/dingen/2019/05/highlights-for-how-to-measure-anything-in-cybersecurity-risk/</link>
       <pubDate>Sun, 26 May 2019 12:54:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15439</guid> 
       <description>&lt;blockquote&gt;
@@ -989,7 +989,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15431/</link>
+      <link>http://localhost:1313/dingen/2019/05/15431/</link>
       <pubDate>Sun, 26 May 2019 07:38:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15431</guid> 
       <description>&lt;p&gt;A lot of very salient thinking on books, metacognition, double-loop learning and the deliberate design of new forms by Andy Matuschak in &lt;a href=&#34;https://andymatuschak.org/books/&#34;&gt;“Why Books Don&amp;rsquo;t Work”&lt;/a&gt;.&lt;/p&gt;
@@ -998,7 +998,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/05/15382/</link>
+      <link>http://localhost:1313/dingen/2019/05/15382/</link>
       <pubDate>Thu, 02 May 2019 21:56:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15382</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.niemanlab.org/2019/05/what-will-the-correspondent-publish-in-english-a-look-at-the-dutch-site-offers-some-clues/&#34;&gt;https://www.niemanlab.org/2019/05/what-will-the-correspondent-publish-in-english-a-look-at-the-dutch-site-offers-some-clues/&lt;/a&gt;&lt;/p&gt;
@@ -1008,7 +1008,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15358/</link>
+      <link>http://localhost:1313/dingen/2019/04/15358/</link>
       <pubDate>Sun, 28 Apr 2019 13:59:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15358</guid> 
       <description>&lt;blockquote&gt;
@@ -1019,7 +1019,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15332/</link>
+      <link>http://localhost:1313/dingen/2019/04/15332/</link>
       <pubDate>Fri, 19 Apr 2019 20:44:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15332</guid> 
       <description>&lt;p&gt;I can&amp;rsquo;t really get enough of Haidt takedowns like this one in the Guardian.&lt;/p&gt;
@@ -1028,7 +1028,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2019/04/15304/</link>
+      <link>http://localhost:1313/dingen/2019/04/15304/</link>
       <pubDate>Mon, 08 Apr 2019 22:16:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15304</guid> 
       <description>&lt;p&gt;An elaboration on High Output Management split into “Running yourself”and “Running your team”by Keith Rabois.&lt;/p&gt;
@@ -1036,7 +1036,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Pnin</title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/highlights-for-pnin/</link>
+      <link>http://localhost:1313/dingen/2019/03/highlights-for-pnin/</link>
       <pubDate>Thu, 28 Mar 2019 22:15:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15289</guid> 
       <description>&lt;blockquote&gt;
@@ -1056,7 +1056,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Street of Thieves</title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/highlights-for-street-of-thieves/</link>
+      <link>http://localhost:1313/dingen/2019/03/highlights-for-street-of-thieves/</link>
       <pubDate>Tue, 12 Mar 2019 22:14:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15249</guid> 
       <description>&lt;blockquote&gt;
@@ -1070,7 +1070,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Sacred Book of the Werewolf</title>
-      <link>http://localhost:62818/dingen/dingen/2019/03/highlights-for-the-sacred-book-of-the-werewolf/</link>
+      <link>http://localhost:1313/dingen/2019/03/highlights-for-the-sacred-book-of-the-werewolf/</link>
       <pubDate>Tue, 12 Mar 2019 22:13:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15247</guid> 
       <description>&lt;blockquote&gt;
@@ -1081,7 +1081,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Changing my media diet</title>
-      <link>http://localhost:62818/dingen/dingen/2019/02/15195/</link>
+      <link>http://localhost:1313/dingen/2019/02/15195/</link>
       <pubDate>Thu, 28 Feb 2019 22:25:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15195</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve changed my monthly contribution from the &lt;a href=&#34;https://www.theguardian.com/international&#34;&gt;Guardian&lt;/a&gt; to the &lt;a href=&#34;https://taz.de/&#34;&gt;Taz&lt;/a&gt;.&lt;/p&gt;
@@ -1091,7 +1091,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Red Moon</title>
-      <link>http://localhost:62818/dingen/dingen/2019/02/highlights-for-red-moon/</link>
+      <link>http://localhost:1313/dingen/2019/02/highlights-for-red-moon/</link>
       <pubDate>Sat, 09 Feb 2019 13:34:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6104</guid> 
       <description>&lt;blockquote&gt;
@@ -1106,7 +1106,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Tribal Leadership</title>
-      <link>http://localhost:62818/dingen/dingen/2019/01/highlights-for-tribal-leadership/</link>
+      <link>http://localhost:1313/dingen/2019/01/highlights-for-tribal-leadership/</link>
       <pubDate>Sun, 27 Jan 2019 21:50:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6101</guid> 
       <description>&lt;blockquote&gt;
@@ -1114,12 +1114,12 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Reading 2018</title>
-      <link>http://localhost:62818/dingen/dingen/2019/01/reading-2018/</link>
+      <link>http://localhost:1313/dingen/2019/01/reading-2018/</link>
       <pubDate>Thu, 03 Jan 2019 20:58:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6091</guid> 
-      <description>&lt;p&gt;I grabbed &lt;a href=&#34;https://github.com/alper/goodreadsgraph&#34;&gt;the code&lt;/a&gt; I had lying around for &lt;a href=&#34;http://localhost:62818/dingen/2017/12/reading-2017/&#34;&gt;last year&lt;/a&gt; and without too much trouble ran the same analysis for the books. The graph is not that dramatic this time though for some reason I did not read much during summer.&lt;/p&gt;
+      <description>&lt;p&gt;I grabbed &lt;a href=&#34;https://github.com/alper/goodreadsgraph&#34;&gt;the code&lt;/a&gt; I had lying around for &lt;a href=&#34;http://localhost:1313/dingen/2017/12/reading-2017/&#34;&gt;last year&lt;/a&gt; and without too much trouble ran the same analysis for the books. The graph is not that dramatic this time though for some reason I did not read much during summer.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/01/download.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;download.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Page-wise this year with 13398 pages was a bit weaker than last year (15049 pages).&lt;/p&gt;
@@ -1127,7 +1127,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Shambhala</title>
-      <link>http://localhost:62818/dingen/dingen/2018/12/highlights-for-shambhala/</link>
+      <link>http://localhost:1313/dingen/2018/12/highlights-for-shambhala/</link>
       <pubDate>Mon, 31 Dec 2018 13:17:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6087</guid> 
       <description>&lt;blockquote&gt;
@@ -1141,7 +1141,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Oh Crap</title>
-      <link>http://localhost:62818/dingen/dingen/2018/12/highlights-for-oh-crap/</link>
+      <link>http://localhost:1313/dingen/2018/12/highlights-for-oh-crap/</link>
       <pubDate>Mon, 31 Dec 2018 12:48:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6085</guid> 
       <description>&lt;blockquote&gt;
@@ -1158,7 +1158,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for No Bad Kids</title>
-      <link>http://localhost:62818/dingen/dingen/2018/12/highlights-for-no-bad-kids/</link>
+      <link>http://localhost:1313/dingen/2018/12/highlights-for-no-bad-kids/</link>
       <pubDate>Mon, 31 Dec 2018 12:44:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6083</guid> 
       <description>&lt;blockquote&gt;
@@ -1169,7 +1169,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The First 90 Days</title>
-      <link>http://localhost:62818/dingen/dingen/2018/12/highlights-for-the-first-90-days/</link>
+      <link>http://localhost:1313/dingen/2018/12/highlights-for-the-first-90-days/</link>
       <pubDate>Mon, 03 Dec 2018 20:04:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6078</guid> 
       <description>&lt;blockquote&gt;
@@ -1180,7 +1180,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for How Democracy Ends</title>
-      <link>http://localhost:62818/dingen/dingen/2018/11/highlights-for-how-democracy-ends/</link>
+      <link>http://localhost:1313/dingen/2018/11/highlights-for-how-democracy-ends/</link>
       <pubDate>Tue, 27 Nov 2018 21:27:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6075</guid> 
       <description>&lt;blockquote&gt;
@@ -1197,7 +1197,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Surveillance Valley</title>
-      <link>http://localhost:62818/dingen/dingen/2018/11/highlights-for-surveillance-valley/</link>
+      <link>http://localhost:1313/dingen/2018/11/highlights-for-surveillance-valley/</link>
       <pubDate>Fri, 09 Nov 2018 11:57:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6072</guid> 
       <description>&lt;blockquote&gt;
@@ -1211,7 +1211,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Blitzkrieg Tactics Translated</title>
-      <link>http://localhost:62818/dingen/dingen/2018/11/blitzkrieg-tactics-translated/</link>
+      <link>http://localhost:1313/dingen/2018/11/blitzkrieg-tactics-translated/</link>
       <pubDate>Thu, 01 Nov 2018 09:41:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6069</guid> 
       <description>&lt;p&gt;The tactics employed during the Blitzkrieg are those of highly agile manoeuvre warfare. They are:&lt;/p&gt;
@@ -1231,7 +1231,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Idiot</title>
-      <link>http://localhost:62818/dingen/dingen/2018/10/highlights-for-the-idiot/</link>
+      <link>http://localhost:1313/dingen/2018/10/highlights-for-the-idiot/</link>
       <pubDate>Tue, 16 Oct 2018 07:30:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6065</guid> 
       <description>&lt;blockquote&gt;
@@ -1245,7 +1245,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Hall of Uselessness</title>
-      <link>http://localhost:62818/dingen/dingen/2018/10/highlights-for-the-hall-of-uselessness/</link>
+      <link>http://localhost:1313/dingen/2018/10/highlights-for-the-hall-of-uselessness/</link>
       <pubDate>Mon, 15 Oct 2018 07:22:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6063</guid> 
       <description>&lt;blockquote&gt;
@@ -1259,7 +1259,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Chapo Guide to Revolution</title>
-      <link>http://localhost:62818/dingen/dingen/2018/09/highlights-for-the-chapo-guide-to-revolution/</link>
+      <link>http://localhost:1313/dingen/2018/09/highlights-for-the-chapo-guide-to-revolution/</link>
       <pubDate>Sun, 23 Sep 2018 20:37:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6059</guid> 
       <description>&lt;blockquote&gt;
@@ -1276,7 +1276,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Parent&#39;s Tao Te Ching</title>
-      <link>http://localhost:62818/dingen/dingen/2018/09/highlights-for-the-parents-tao-te-ching/</link>
+      <link>http://localhost:1313/dingen/2018/09/highlights-for-the-parents-tao-te-ching/</link>
       <pubDate>Sun, 16 Sep 2018 21:12:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6056</guid> 
       <description>&lt;blockquote&gt;
@@ -1295,7 +1295,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Ghachar Ghochar</title>
-      <link>http://localhost:62818/dingen/dingen/2018/08/highlights-for-ghachar-ghochar/</link>
+      <link>http://localhost:1313/dingen/2018/08/highlights-for-ghachar-ghochar/</link>
       <pubDate>Mon, 27 Aug 2018 21:26:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6052</guid> 
       <description>&lt;blockquote&gt;
@@ -1306,7 +1306,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Cracking the Tech Career</title>
-      <link>http://localhost:62818/dingen/dingen/2018/08/highlights-for-cracking-the-tech-career/</link>
+      <link>http://localhost:1313/dingen/2018/08/highlights-for-cracking-the-tech-career/</link>
       <pubDate>Sun, 19 Aug 2018 12:16:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6028</guid> 
       <description>&lt;blockquote&gt;
@@ -1320,7 +1320,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Woken Furies</title>
-      <link>http://localhost:62818/dingen/dingen/2018/08/highlights-for-woken-furies/</link>
+      <link>http://localhost:1313/dingen/2018/08/highlights-for-woken-furies/</link>
       <pubDate>Wed, 15 Aug 2018 20:39:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6047</guid> 
       <description>&lt;blockquote&gt;
@@ -1331,7 +1331,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Why We Sleep</title>
-      <link>http://localhost:62818/dingen/dingen/2018/07/highlights-for-why-we-sleep/</link>
+      <link>http://localhost:1313/dingen/2018/07/highlights-for-why-we-sleep/</link>
       <pubDate>Tue, 14 Aug 2018 12:03:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6031</guid> 
       <description>&lt;blockquote&gt;
@@ -1351,7 +1351,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Be Like the Fox</title>
-      <link>http://localhost:62818/dingen/dingen/2018/07/highlights-for-be-like-the-fox/</link>
+      <link>http://localhost:1313/dingen/2018/07/highlights-for-be-like-the-fox/</link>
       <pubDate>Wed, 11 Jul 2018 21:05:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6035</guid> 
       <description>&lt;blockquote&gt;
@@ -1362,7 +1362,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Radical Candor</title>
-      <link>http://localhost:62818/dingen/dingen/2018/06/highlights-for-radical-candor/</link>
+      <link>http://localhost:1313/dingen/2018/06/highlights-for-radical-candor/</link>
       <pubDate>Mon, 25 Jun 2018 07:45:49 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6024</guid> 
       <description>&lt;blockquote&gt;
@@ -1373,7 +1373,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for No Name in the Street</title>
-      <link>http://localhost:62818/dingen/dingen/2018/06/highlights-for-no-name-in-the-street/</link>
+      <link>http://localhost:1313/dingen/2018/06/highlights-for-no-name-in-the-street/</link>
       <pubDate>Thu, 07 Jun 2018 18:55:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6017</guid> 
       <description>&lt;blockquote&gt;
@@ -1387,7 +1387,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Neoreaction a Basilisk</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/highlights-for-neoreaction-a-basilisk/</link>
+      <link>http://localhost:1313/dingen/2018/05/highlights-for-neoreaction-a-basilisk/</link>
       <pubDate>Thu, 31 May 2018 19:35:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6013</guid> 
       <description>&lt;blockquote&gt;
@@ -1398,7 +1398,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Bluets</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/highlights-for-bluets/</link>
+      <link>http://localhost:1313/dingen/2018/05/highlights-for-bluets/</link>
       <pubDate>Sat, 12 May 2018 20:02:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5995</guid> 
       <description>&lt;blockquote&gt;
@@ -1409,7 +1409,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for A Contest of Ideas</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/highlights-for-a-contest-of-ideas/</link>
+      <link>http://localhost:1313/dingen/2018/05/highlights-for-a-contest-of-ideas/</link>
       <pubDate>Sat, 12 May 2018 14:35:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5993</guid> 
       <description>&lt;blockquote&gt;
@@ -1420,7 +1420,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Ecology Without Nature</title>
-      <link>http://localhost:62818/dingen/dingen/2018/05/highlights-for-ecology-without-nature/</link>
+      <link>http://localhost:1313/dingen/2018/05/highlights-for-ecology-without-nature/</link>
       <pubDate>Sun, 06 May 2018 20:37:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5989</guid> 
       <description>&lt;blockquote&gt;
@@ -1440,7 +1440,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Broken Angels</title>
-      <link>http://localhost:62818/dingen/dingen/2018/04/highlights-for-broken-angels/</link>
+      <link>http://localhost:1313/dingen/2018/04/highlights-for-broken-angels/</link>
       <pubDate>Mon, 16 Apr 2018 20:03:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5974</guid> 
       <description>&lt;blockquote&gt;
@@ -1451,7 +1451,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Exit West</title>
-      <link>http://localhost:62818/dingen/dingen/2018/04/highlights-for-exit-west/</link>
+      <link>http://localhost:1313/dingen/2018/04/highlights-for-exit-west/</link>
       <pubDate>Sun, 01 Apr 2018 19:46:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5968</guid> 
       <description>&lt;blockquote&gt;
@@ -1465,7 +1465,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Sapiens</title>
-      <link>http://localhost:62818/dingen/dingen/2018/03/highlights-for-sapiens/</link>
+      <link>http://localhost:1313/dingen/2018/03/highlights-for-sapiens/</link>
       <pubDate>Sat, 31 Mar 2018 22:02:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5964</guid> 
       <description>&lt;blockquote&gt;
@@ -1479,7 +1479,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Stone Sky</title>
-      <link>http://localhost:62818/dingen/dingen/2018/03/highlights-for-the-stone-sky/</link>
+      <link>http://localhost:1313/dingen/2018/03/highlights-for-the-stone-sky/</link>
       <pubDate>Sun, 25 Mar 2018 20:46:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5962</guid> 
       <description>&lt;blockquote&gt;
@@ -1490,7 +1490,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Obelisk Gate</title>
-      <link>http://localhost:62818/dingen/dingen/2018/03/highlights-for-the-obelisk-gate/</link>
+      <link>http://localhost:1313/dingen/2018/03/highlights-for-the-obelisk-gate/</link>
       <pubDate>Tue, 20 Mar 2018 20:11:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5959</guid> 
       <description>&lt;blockquote&gt;
@@ -1501,7 +1501,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Fifth Season</title>
-      <link>http://localhost:62818/dingen/dingen/2018/03/highlights-for-the-fifth-season/</link>
+      <link>http://localhost:1313/dingen/2018/03/highlights-for-the-fifth-season/</link>
       <pubDate>Tue, 13 Mar 2018 14:51:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5956</guid> 
       <description>&lt;blockquote&gt;
@@ -1518,7 +1518,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Turn the Ship Around</title>
-      <link>http://localhost:62818/dingen/dingen/2018/03/highlights-for-turn-the-ship-around/</link>
+      <link>http://localhost:1313/dingen/2018/03/highlights-for-turn-the-ship-around/</link>
       <pubDate>Sun, 04 Mar 2018 21:28:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5952</guid> 
       <description>&lt;blockquote&gt;
@@ -1532,7 +1532,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Journey to the End of the Night</title>
-      <link>http://localhost:62818/dingen/dingen/2018/03/highlights-for-journey-to-the-end-of-the-night/</link>
+      <link>http://localhost:1313/dingen/2018/03/highlights-for-journey-to-the-end-of-the-night/</link>
       <pubDate>Sun, 04 Mar 2018 21:25:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5951</guid> 
       <description>&lt;blockquote&gt;
@@ -1546,7 +1546,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Good Strategy Bad Strategy</title>
-      <link>http://localhost:62818/dingen/dingen/2018/02/highlights-for-good-strategy-bad-strategy/</link>
+      <link>http://localhost:1313/dingen/2018/02/highlights-for-good-strategy-bad-strategy/</link>
       <pubDate>Sun, 11 Feb 2018 21:22:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5947</guid> 
       <description>&lt;blockquote&gt;
@@ -1560,7 +1560,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Altered Carbon</title>
-      <link>http://localhost:62818/dingen/dingen/2018/01/highlights-for-altered-carbon/</link>
+      <link>http://localhost:1313/dingen/2018/01/highlights-for-altered-carbon/</link>
       <pubDate>Sun, 28 Jan 2018 20:37:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5941</guid> 
       <description>&lt;blockquote&gt;
@@ -1577,7 +1577,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for From the Ruins of Empire</title>
-      <link>http://localhost:62818/dingen/dingen/2018/01/highlights-for-from-the-ruins-of-empire/</link>
+      <link>http://localhost:1313/dingen/2018/01/highlights-for-from-the-ruins-of-empire/</link>
       <pubDate>Wed, 17 Jan 2018 21:39:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5936</guid> 
       <description>&lt;blockquote&gt;
@@ -1588,7 +1588,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Kintu</title>
-      <link>http://localhost:62818/dingen/dingen/2018/01/highlights-for-kintu/</link>
+      <link>http://localhost:1313/dingen/2018/01/highlights-for-kintu/</link>
       <pubDate>Fri, 05 Jan 2018 20:51:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5933</guid> 
       <description>&lt;blockquote&gt;
@@ -1599,7 +1599,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for the Art of Not Being Governed</title>
-      <link>http://localhost:62818/dingen/dingen/2018/01/highlights-from-the-art-of-not-being-governed/</link>
+      <link>http://localhost:1313/dingen/2018/01/highlights-from-the-art-of-not-being-governed/</link>
       <pubDate>Thu, 04 Jan 2018 08:20:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5838</guid> 
       <description>&lt;blockquote&gt;
@@ -1616,7 +1616,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for The Coaching Habit</title>
-      <link>http://localhost:62818/dingen/dingen/2018/01/highlights-for-the-coaching-habit/</link>
+      <link>http://localhost:1313/dingen/2018/01/highlights-for-the-coaching-habit/</link>
       <pubDate>Tue, 02 Jan 2018 21:44:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5927</guid> 
       <description>&lt;blockquote&gt;
@@ -1630,7 +1630,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Pedagogy of the Oppressed</title>
-      <link>http://localhost:62818/dingen/dingen/2018/01/highlights-for-pedagogy-of-the-oppressed/</link>
+      <link>http://localhost:1313/dingen/2018/01/highlights-for-pedagogy-of-the-oppressed/</link>
       <pubDate>Tue, 02 Jan 2018 21:41:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5926</guid> 
       <description>&lt;blockquote&gt;
@@ -1647,7 +1647,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Reading 2017</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/reading-2017/</link>
+      <link>http://localhost:1313/dingen/2017/12/reading-2017/</link>
       <pubDate>Sun, 31 Dec 2017 20:38:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5917</guid> 
       <description>&lt;p&gt;Most unexpectedly I read 52 books in 2017. These last couple of months I’d been gunning for it but nothing about the first half of this year indicated that I would even hit my &lt;a href=&#34;https://www.goodreads.com/user_challenges/6889434&#34;&gt;challenge of 26 books&lt;/a&gt;.&lt;/p&gt;
@@ -1655,7 +1655,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Metaphors We Live By</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/highlights-for-metaphors-we-live-by/</link>
+      <link>http://localhost:1313/dingen/2017/12/highlights-for-metaphors-we-live-by/</link>
       <pubDate>Thu, 28 Dec 2017 21:22:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5908</guid> 
       <description>&lt;blockquote&gt;
@@ -1669,7 +1669,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Blindsight and Echopraxia</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/highlights-for-blindsight-and-echopraxia/</link>
+      <link>http://localhost:1313/dingen/2017/12/highlights-for-blindsight-and-echopraxia/</link>
       <pubDate>Wed, 27 Dec 2017 21:51:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5896</guid> 
       <description>&lt;blockquote&gt;
@@ -1683,7 +1683,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Never Split the Difference</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/highlights-for-never-split-the-difference/</link>
+      <link>http://localhost:1313/dingen/2017/12/highlights-for-never-split-the-difference/</link>
       <pubDate>Wed, 27 Dec 2017 21:51:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5898</guid> 
       <description>&lt;blockquote&gt;
@@ -1694,7 +1694,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Financial Strategy for Public Managers</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/highlights-for-financial-strategy-for-public-managers/</link>
+      <link>http://localhost:1313/dingen/2017/12/highlights-for-financial-strategy-for-public-managers/</link>
       <pubDate>Wed, 27 Dec 2017 21:48:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5894</guid> 
       <description>&lt;blockquote&gt;
@@ -1711,7 +1711,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Blood Meridian</title>
-      <link>http://localhost:62818/dingen/dingen/2017/12/highlights-for-blood-meridian/</link>
+      <link>http://localhost:1313/dingen/2017/12/highlights-for-blood-meridian/</link>
       <pubDate>Sun, 10 Dec 2017 17:51:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5891</guid> 
       <description>&lt;blockquote&gt;
@@ -1725,7 +1725,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for the Argonauts</title>
-      <link>http://localhost:62818/dingen/dingen/2017/11/highlights-for-the-argonauts/</link>
+      <link>http://localhost:1313/dingen/2017/11/highlights-for-the-argonauts/</link>
       <pubDate>Mon, 27 Nov 2017 14:53:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5878</guid> 
       <description>&lt;blockquote&gt;
@@ -1736,7 +1736,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for UX for Lean Startups</title>
-      <link>http://localhost:62818/dingen/dingen/2017/11/highlights-for-ux-for-lean-startups/</link>
+      <link>http://localhost:1313/dingen/2017/11/highlights-for-ux-for-lean-startups/</link>
       <pubDate>Mon, 27 Nov 2017 14:47:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5879</guid> 
       <description>&lt;blockquote&gt;
@@ -1747,7 +1747,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Alibaba: The House That Jack Ma Built</title>
-      <link>http://localhost:62818/dingen/dingen/2017/11/highlights-from-alibaba-the-house-that-jack-ma-built/</link>
+      <link>http://localhost:1313/dingen/2017/11/highlights-from-alibaba-the-house-that-jack-ma-built/</link>
       <pubDate>Mon, 27 Nov 2017 14:41:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5880</guid> 
       <description>&lt;blockquote&gt;
@@ -1764,7 +1764,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from The Dispossessed</title>
-      <link>http://localhost:62818/dingen/dingen/2017/11/highlights-from-the-dispossessed/</link>
+      <link>http://localhost:1313/dingen/2017/11/highlights-from-the-dispossessed/</link>
       <pubDate>Sat, 18 Nov 2017 10:11:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5866</guid> 
       <description>&lt;blockquote&gt;
@@ -1781,7 +1781,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from What Got You Here Won&#39;t Get You There</title>
-      <link>http://localhost:62818/dingen/dingen/2017/11/highlights-from-what-got-you-here-wont-get-you-there/</link>
+      <link>http://localhost:1313/dingen/2017/11/highlights-from-what-got-you-here-wont-get-you-there/</link>
       <pubDate>Thu, 16 Nov 2017 17:17:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5861</guid> 
       <description>&lt;blockquote&gt;
@@ -1798,7 +1798,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Discontent and its Civilizations</title>
-      <link>http://localhost:62818/dingen/dingen/2017/10/notes-from-discontent-and-its-civilizations/</link>
+      <link>http://localhost:1313/dingen/2017/10/notes-from-discontent-and-its-civilizations/</link>
       <pubDate>Sun, 29 Oct 2017 10:25:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5856</guid> 
       <description>&lt;blockquote&gt;
@@ -1812,7 +1812,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Reinventing Organizations</title>
-      <link>http://localhost:62818/dingen/dingen/2017/10/notes-from-reinventing-organizations/</link>
+      <link>http://localhost:1313/dingen/2017/10/notes-from-reinventing-organizations/</link>
       <pubDate>Sun, 29 Oct 2017 09:02:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5853</guid> 
       <description>&lt;blockquote&gt;
@@ -1826,7 +1826,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from The Principles of Product Development Flow</title>
-      <link>http://localhost:62818/dingen/dingen/2017/10/notes-from-the-principles-of-product-development-flow/</link>
+      <link>http://localhost:1313/dingen/2017/10/notes-from-the-principles-of-product-development-flow/</link>
       <pubDate>Fri, 27 Oct 2017 08:56:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5823</guid> 
       <description>&lt;blockquote&gt;
@@ -1843,7 +1843,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Homage to Catalonia</title>
-      <link>http://localhost:62818/dingen/dingen/2017/10/highlights-from-homage-to-catalonia/</link>
+      <link>http://localhost:1313/dingen/2017/10/highlights-from-homage-to-catalonia/</link>
       <pubDate>Fri, 06 Oct 2017 20:26:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5845</guid> 
       <description>&lt;blockquote&gt;
@@ -1857,7 +1857,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Rules for Radicals</title>
-      <link>http://localhost:62818/dingen/dingen/2017/10/highlights-from-rules-for-radicals/</link>
+      <link>http://localhost:1313/dingen/2017/10/highlights-from-rules-for-radicals/</link>
       <pubDate>Fri, 06 Oct 2017 20:24:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5846</guid> 
       <description>&lt;blockquote&gt;
@@ -1874,7 +1874,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from the God of Small Things</title>
-      <link>http://localhost:62818/dingen/dingen/2017/09/highlights-from-the-god-of-small-things/</link>
+      <link>http://localhost:1313/dingen/2017/09/highlights-from-the-god-of-small-things/</link>
       <pubDate>Tue, 26 Sep 2017 21:41:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5839</guid> 
       <description>&lt;blockquote&gt;
@@ -1891,7 +1891,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Name of the Game</title>
-      <link>http://localhost:62818/dingen/dingen/2017/09/name-of-the-game/</link>
+      <link>http://localhost:1313/dingen/2017/09/name-of-the-game/</link>
       <pubDate>Fri, 22 Sep 2017 21:15:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5836</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m putting this here so I don&amp;rsquo;t have to keep looking it up.&lt;/p&gt;
@@ -1902,7 +1902,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from The Truth of Suffering and the Path of Liberation</title>
-      <link>http://localhost:62818/dingen/dingen/2017/09/highlights-from-the-truth-of-suffering-and-the-path-of-liberation/</link>
+      <link>http://localhost:1313/dingen/2017/09/highlights-from-the-truth-of-suffering-and-the-path-of-liberation/</link>
       <pubDate>Wed, 13 Sep 2017 21:57:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5831</guid> 
       <description>&lt;blockquote&gt;
@@ -1919,7 +1919,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Managing Humans</title>
-      <link>http://localhost:62818/dingen/dingen/2017/08/notes-from-managing-humans/</link>
+      <link>http://localhost:1313/dingen/2017/08/notes-from-managing-humans/</link>
       <pubDate>Sun, 06 Aug 2017 21:26:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5822</guid> 
       <description>&lt;blockquote&gt;
@@ -1936,7 +1936,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Unfortunately, It Was Paradise</title>
-      <link>http://localhost:62818/dingen/dingen/2017/06/highlights-from-unfortunately-it-was-paradise/</link>
+      <link>http://localhost:1313/dingen/2017/06/highlights-from-unfortunately-it-was-paradise/</link>
       <pubDate>Fri, 23 Jun 2017 21:36:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5809</guid> 
       <description>&lt;blockquote&gt;
@@ -1956,7 +1956,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from This Earth of Mankind</title>
-      <link>http://localhost:62818/dingen/dingen/2017/06/highlights-from-this-earth-of-mankind/</link>
+      <link>http://localhost:1313/dingen/2017/06/highlights-from-this-earth-of-mankind/</link>
       <pubDate>Fri, 09 Jun 2017 20:53:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5797</guid> 
       <description>&lt;blockquote&gt;
@@ -1970,14 +1970,14 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Kritiek naar aanleiding van Hallo Witte Mensen</title>
-      <link>http://localhost:62818/dingen/dingen/2017/05/kritiek-naar-aanleiding-van-hallo-witte-mensen/</link>
+      <link>http://localhost:1313/dingen/2017/05/kritiek-naar-aanleiding-van-hallo-witte-mensen/</link>
       <pubDate>Fri, 05 May 2017 14:42:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5780</guid> 
       <description>&lt;p&gt;Ik heb me de afgelopen weken geërgerd aan en gegeneerd voor de domme venijnige kritieken die het boek &lt;a href=&#34;http://nl.aup.nl/books/9789462984141-hallo-witte-mensen.html&#34;&gt;‘Hallo Witte Mensen’ van Anousha Nzume&lt;/a&gt; kreeg. Zoals de uitgever van het boek Ebissé Rouw zegt: Nederland is een &lt;em&gt;intellectual wasteland&lt;/em&gt;. We zijn nu eenmaal een klein taalgebied waar iedereen zich heel slim en onschuldig kan voelen door het Engelstalige debat over een onderwerp compleet te missen en zelf wat bij elkaar te verzinnen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highlights from We Have Never Been Modern</title>
-      <link>http://localhost:62818/dingen/dingen/2017/04/highlights-from-we-have-never-been-modern/</link>
+      <link>http://localhost:1313/dingen/2017/04/highlights-from-we-have-never-been-modern/</link>
       <pubDate>Thu, 27 Apr 2017 09:36:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5777</guid> 
       <description>&lt;blockquote&gt;
@@ -1994,7 +1994,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from The Name of the Rose</title>
-      <link>http://localhost:62818/dingen/dingen/2017/03/highlights-from-the-name-of-the-rose/</link>
+      <link>http://localhost:1313/dingen/2017/03/highlights-from-the-name-of-the-rose/</link>
       <pubDate>Tue, 28 Mar 2017 14:53:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5743</guid> 
       <description>&lt;blockquote&gt;
@@ -2011,7 +2011,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Open City</title>
-      <link>http://localhost:62818/dingen/dingen/2017/02/highlights-from-open-city/</link>
+      <link>http://localhost:1313/dingen/2017/02/highlights-from-open-city/</link>
       <pubDate>Sun, 19 Feb 2017 18:51:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5733</guid> 
       <description>&lt;blockquote&gt;
@@ -2025,7 +2025,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Blue Mars</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/highlights-from-blue-mars/</link>
+      <link>http://localhost:1313/dingen/2017/01/highlights-from-blue-mars/</link>
       <pubDate>Thu, 26 Jan 2017 11:21:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5706</guid> 
       <description>&lt;blockquote&gt;
@@ -2036,7 +2036,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Extreme Ownership: How U.S. Navy SEALs Lead and Win</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/highlights-from-extreme-ownership-how-u-s-navy-seals-lead-and-win/</link>
+      <link>http://localhost:1313/dingen/2017/01/highlights-from-extreme-ownership-how-u-s-navy-seals-lead-and-win/</link>
       <pubDate>Sun, 22 Jan 2017 15:15:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5704</guid> 
       <description>&lt;blockquote&gt;
@@ -2047,7 +2047,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from The Lathe of Heaven</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/highlights-from-the-lathe-of-heaven/</link>
+      <link>http://localhost:1313/dingen/2017/01/highlights-from-the-lathe-of-heaven/</link>
       <pubDate>Sun, 22 Jan 2017 15:03:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5701</guid> 
       <description>&lt;blockquote&gt;
@@ -2064,7 +2064,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Books and movies of 2016</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/books-and-movies-of-2016/</link>
+      <link>http://localhost:1313/dingen/2017/01/books-and-movies-of-2016/</link>
       <pubDate>Sun, 01 Jan 2017 13:16:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5691</guid> 
       <description>&lt;p&gt;Like every year the books I read and the movies I watched. Recommended ones are in bold.&lt;/p&gt;
@@ -2091,7 +2091,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Lean UX</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/highlights-from-lean-ux/</link>
+      <link>http://localhost:1313/dingen/2017/01/highlights-from-lean-ux/</link>
       <pubDate>Sun, 01 Jan 2017 12:00:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5683</guid> 
       <description>&lt;blockquote&gt;
@@ -2102,7 +2102,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Green Mars</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/highlights-from-green-mars/</link>
+      <link>http://localhost:1313/dingen/2017/01/highlights-from-green-mars/</link>
       <pubDate>Sun, 01 Jan 2017 11:58:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5681</guid> 
       <description>&lt;blockquote&gt;
@@ -2119,7 +2119,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from The Dictator&#39;s Handbook</title>
-      <link>http://localhost:62818/dingen/dingen/2017/01/notes-from-the-dictators-handbook/</link>
+      <link>http://localhost:1313/dingen/2017/01/notes-from-the-dictators-handbook/</link>
       <pubDate>Sun, 01 Jan 2017 00:39:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5676</guid> 
       <description>&lt;blockquote&gt;
@@ -2136,7 +2136,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Science, Strategy and War by Frans Osinga</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/highlights-from-science-strategy-and-war-by-frans-osinga/</link>
+      <link>http://localhost:1313/dingen/2016/09/highlights-from-science-strategy-and-war-by-frans-osinga/</link>
       <pubDate>Fri, 09 Sep 2016 12:41:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5624</guid> 
       <description>&lt;blockquote&gt;
@@ -2147,7 +2147,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Master and Margarita by MikhaÃ­l Afanasyevich Bulgakov</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/highlights-from-master-and-margarita-by-mikhail-afanasyevich-bulgakov/</link>
+      <link>http://localhost:1313/dingen/2016/09/highlights-from-master-and-margarita-by-mikhail-afanasyevich-bulgakov/</link>
       <pubDate>Wed, 07 Sep 2016 14:30:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5622</guid> 
       <description>&lt;blockquote&gt;
@@ -2161,7 +2161,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Slouching Towards Bethlehem by Joan Didion</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/highlights-from-slouching-towards-bethlehem-by-joan-didion/</link>
+      <link>http://localhost:1313/dingen/2016/09/highlights-from-slouching-towards-bethlehem-by-joan-didion/</link>
       <pubDate>Tue, 06 Sep 2016 21:48:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5620</guid> 
       <description>&lt;blockquote&gt;
@@ -2178,7 +2178,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Americanah by Chimamanda Ngozi Adichie</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/highlights-from-americanah-by-chimamanda-ngozi-adichie/</link>
+      <link>http://localhost:1313/dingen/2016/09/highlights-from-americanah-by-chimamanda-ngozi-adichie/</link>
       <pubDate>Tue, 06 Sep 2016 21:36:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5617</guid> 
       <description>&lt;blockquote&gt;
@@ -2195,7 +2195,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Ancillary Justice by Ann Leckie</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/highlights-from-ancillary-justice-by-ann-leckie/</link>
+      <link>http://localhost:1313/dingen/2016/09/highlights-from-ancillary-justice-by-ann-leckie/</link>
       <pubDate>Tue, 06 Sep 2016 21:32:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5615</guid> 
       <description>&lt;blockquote&gt;
@@ -2209,7 +2209,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Invisible Cities by Italo Calvino</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/highlights-for-invisible-cities-by-italo-calvino/</link>
+      <link>http://localhost:1313/dingen/2016/09/highlights-for-invisible-cities-by-italo-calvino/</link>
       <pubDate>Tue, 06 Sep 2016 15:39:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5613</guid> 
       <description>&lt;blockquote&gt;
@@ -2229,7 +2229,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Certain to Win by Chet Richards</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/notes-for-certain-to-win-by-chet-richards/</link>
+      <link>http://localhost:1313/dingen/2016/09/notes-for-certain-to-win-by-chet-richards/</link>
       <pubDate>Tue, 06 Sep 2016 14:54:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5608</guid> 
       <description>&lt;blockquote&gt;
@@ -2243,7 +2243,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights for Red Mars by Kim Stanley Robinson</title>
-      <link>http://localhost:62818/dingen/dingen/2016/09/notes-for-red-mars-by-kim-stanley-robinson/</link>
+      <link>http://localhost:1313/dingen/2016/09/notes-for-red-mars-by-kim-stanley-robinson/</link>
       <pubDate>Tue, 06 Sep 2016 14:42:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5606</guid> 
       <description>&lt;blockquote&gt;
@@ -2260,7 +2260,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>New book â€œDesigning Conversational Interfacesâ€</title>
-      <link>http://localhost:62818/dingen/dingen/2016/06/writing-a-book-on-conversational-interfaces/</link>
+      <link>http://localhost:1313/dingen/2016/06/writing-a-book-on-conversational-interfaces/</link>
       <pubDate>Tue, 07 Jun 2016 16:28:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5581</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve spent June until October writing a brief but comprehensive book called &lt;a href=&#34;http://www.convbook.com/&#34;&gt;“Designing Conversational Interfaces”&lt;/a&gt; introducing the creation of messaging applications and chatbots to a non-technical audience.&lt;/p&gt;
@@ -2269,7 +2269,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>The year in culture</title>
-      <link>http://localhost:62818/dingen/dingen/2015/12/the-year-in-culture/</link>
+      <link>http://localhost:1313/dingen/2015/12/the-year-in-culture/</link>
       <pubDate>Thu, 31 Dec 2015 15:22:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5450</guid> 
       <description>&lt;p&gt;I have a personal log of culture consumed going back to 2003. This year was a particular low on many counts. I have been busy and I don&amp;rsquo;t ascribe the same value to consuming culture pure for the goal of consuming it anymore. Been there, done that.&lt;/p&gt;
@@ -2277,7 +2277,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Terry Pratchett</title>
-      <link>http://localhost:62818/dingen/dingen/2015/03/terry-pratchett/</link>
+      <link>http://localhost:1313/dingen/2015/03/terry-pratchett/</link>
       <pubDate>Fri, 13 Mar 2015 17:19:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5192</guid> 
       <description>&lt;blockquote&gt;
@@ -2288,7 +2288,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Acemoglu&#39;s Critique on Piketty</title>
-      <link>http://localhost:62818/dingen/dingen/2014/08/acemoglus-critique-on-piketty/</link>
+      <link>http://localhost:1313/dingen/2014/08/acemoglus-critique-on-piketty/</link>
       <pubDate>Sun, 31 Aug 2014 15:09:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5030</guid> 
       <description>&lt;p&gt;I read &lt;a href=&#34;http://economics.mit.edu/files/9834&#34;&gt;this paper&lt;/a&gt; by Acemoglu and Robinson right after I read the book by Piketty thinking that there would be some interesting economic debate. Unfortunately I was proved wrong and this seems to be exemplary for the stagnation of the economic field.&lt;/p&gt;
@@ -2296,33 +2296,33 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Holiday Reading: The Information by James Gleick</title>
-      <link>http://localhost:62818/dingen/dingen/2014/08/holiday-reading-the-information-by-james-gleick/</link>
+      <link>http://localhost:1313/dingen/2014/08/holiday-reading-the-information-by-james-gleick/</link>
       <pubDate>Mon, 25 Aug 2014 11:15:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5022</guid> 
       <description>&lt;blockquote&gt;
 &lt;p&gt;“The new technology was both the virus and the vector of transmission.”— Walter J. Ong&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2014/08/Shannonmouse.png&#34;&gt;&lt;img alt=&#34;Shannonmouse&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2014/08/Shannonmouse.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Shannonmouse.png&#34;&gt;&lt;img alt=&#34;Shannonmouse&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2014/08/holiday-reading-the-information-by-james-gleick/Shannonmouse.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This was one of the three books I read during my holiday in a cabin on the Austrian Alps. To hedge against a lack of sun hours to charge my reading device with I brought some physical books that had been lingering on my moribund to-read pile.&lt;/p&gt;
 &lt;p&gt;I wasn&amp;rsquo;t sure if ‘The Information’ would be worth reading as a graduate in computer science but it turns out that it is as fantastic a book as everybody said it was.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading more about the social</title>
-      <link>http://localhost:62818/dingen/dingen/2014/02/reading-more-about-the-social/</link>
+      <link>http://localhost:1313/dingen/2014/02/reading-more-about-the-social/</link>
       <pubDate>Mon, 24 Feb 2014 10:08:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4911</guid> 
       <description>&lt;p&gt;As of right now I&amp;rsquo;m frightfully behind on my Latour MOOC. What I have been doing instead is reading up old articles in my Instapaper. One such is this &lt;a href=&#34;http://www.vn.nl/Archief/Samenleving/Artikel-Samenleving/Laten-we-weer-utopisch-denken.htm&#34;&gt;interview with Dutch sociologist/philosopher Willem Schinkel in Vrij Nederland&lt;/a&gt;. It&amp;rsquo;s good to read a fresh Dutch thinker who seems to understand things (and who also &lt;a href=&#34;http://scholar.google.de/scholar?hl=en&amp;amp;q=willem+schinkel+latour&amp;amp;btnG=&amp;amp;as_sdt=1%2C5&amp;amp;as_sdtp=&#34;&gt;is in with Latour&lt;/a&gt;). Calling Geert Wilders a proto-fascist and the Netherlands a museum are only a couple of the ringers in there.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highlights from The Unwinding by George Packer</title>
-      <link>http://localhost:62818/dingen/dingen/2014/02/notes-from-the-unwinding-by-george-packer/</link>
+      <link>http://localhost:1313/dingen/2014/02/notes-from-the-unwinding-by-george-packer/</link>
       <pubDate>Mon, 24 Feb 2014 08:22:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4869</guid> 
       <description>&lt;p&gt;This got stuck in my draft queue but I have no idea what to meaningfully add to this absurd amount of highlights. &lt;a href=&#34;https://www.goodreads.com/book/show/17139513-the-unwinding&#34;&gt;The Unwinding by George Packer&lt;/a&gt; is a massive and amazing work with turns of phrase worth remembering on every page. It also shows very precisely how amazingly fucked up the USA is right about now. Here is the book cut up through my lens, but I would highly encourage you to read the whole thing (I tore through it in a couple of days).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Notes from The Pleasures and Sorrows of Work by Alain de Botton</title>
-      <link>http://localhost:62818/dingen/dingen/2014/01/notes-from-the-pleasures-and-sorrows-of-work-by-alain-de-botton/</link>
+      <link>http://localhost:1313/dingen/2014/01/notes-from-the-pleasures-and-sorrows-of-work-by-alain-de-botton/</link>
       <pubDate>Wed, 08 Jan 2014 08:13:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4864</guid> 
       <description>&lt;p&gt;This book by Alain de Botton started out slowly for me because I am already quite familiar with the global logistical infrastructure and the various ways our food is made (thanks to the &lt;a href=&#34;http://keuringsdienstvanwaarde.kro.nl/&#34;&gt;Keuringsdienst van Waarde&lt;/a&gt;). In the second half though with its focus on the moral and spiritual aspects did it pick up and became a very worthwhile read.&lt;/p&gt;
@@ -2331,7 +2331,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes from The Drowned Cities by Paulo Bacigalupi</title>
-      <link>http://localhost:62818/dingen/dingen/2014/01/notes-from-the-drowned-cities-by-paulo-bacigalupi/</link>
+      <link>http://localhost:1313/dingen/2014/01/notes-from-the-drowned-cities-by-paulo-bacigalupi/</link>
       <pubDate>Sun, 05 Jan 2014 00:10:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4861</guid> 
       <description>&lt;p&gt;Not hugely satisfying but still a nice read. Supposedly the first book in this series is better.&lt;/p&gt;
@@ -2346,7 +2346,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes for Against the Smart City by Adam Greenfield</title>
-      <link>http://localhost:62818/dingen/dingen/2013/11/notes-for-against-the-smart-city-by-adam-greenfield/</link>
+      <link>http://localhost:1313/dingen/2013/11/notes-for-against-the-smart-city-by-adam-greenfield/</link>
       <pubDate>Mon, 25 Nov 2013 08:23:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4839</guid> 
       <description>&lt;p&gt;This &lt;a href=&#34;http://speedbird.wordpress.com/2013/09/28/against-the-smart-city-now-available-for-purchase-in-kindle/&#34;&gt;pamphlet by Adam Greenfield&lt;/a&gt;, the first of more is a concise and enjoyable distillation of his politics when it concerns the smart city and also features a number of similarly inclined thinkers:&lt;/p&gt;
@@ -2358,7 +2358,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes from the Rum Diary by Hunter S. Thompson</title>
-      <link>http://localhost:62818/dingen/dingen/2013/11/notes-from-the-rum-diary-by-hunter-s-thompson/</link>
+      <link>http://localhost:1313/dingen/2013/11/notes-from-the-rum-diary-by-hunter-s-thompson/</link>
       <pubDate>Sat, 23 Nov 2013 18:22:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4836</guid> 
       <description>&lt;p&gt;This was a tremendously enjoyable read. I wonder why my English teacher never pointed us in this literary direction for things to read.&lt;/p&gt;
@@ -2370,7 +2370,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Lazy intellectualism exposed (probably without consequences)</title>
-      <link>http://localhost:62818/dingen/dingen/2013/11/lazy-intellectualism-exposed-probably-without-consequences/</link>
+      <link>http://localhost:1313/dingen/2013/11/lazy-intellectualism-exposed-probably-without-consequences/</link>
       <pubDate>Fri, 22 Nov 2013 16:05:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4830</guid> 
       <description>&lt;p&gt;Funny to come across three pieces today wherein a bunch of fashionable faux-intellectuals are taken apart.&lt;/p&gt;
@@ -2380,7 +2380,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Infinite Jest by David Foster Wallace</title>
-      <link>http://localhost:62818/dingen/dingen/2013/11/highlights-from-infinite-jest-by-david-foster-wallace/</link>
+      <link>http://localhost:1313/dingen/2013/11/highlights-from-infinite-jest-by-david-foster-wallace/</link>
       <pubDate>Thu, 07 Nov 2013 15:50:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4470</guid> 
       <description>&lt;p&gt;Reading this book took me quite some time since it &lt;a href=&#34;http://www.flickr.com/photos/alper/3200604927/&#34;&gt;arrived in my mailbox&lt;/a&gt; some four years ago. I only picked it up after acquiring an epub version of it that I could read in &lt;a href=&#34;https://readmill.com/books/infinite-jest&#34;&gt;Readmill&lt;/a&gt; wherever I happened to find myself (so also really after Readmill launched their iPhone app). It takes some getting into but this book is hugely rewarding and a pleasure.&lt;/p&gt;
@@ -2389,7 +2389,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes from Boyd: The Fighter Pilot Who Changed the Art of War</title>
-      <link>http://localhost:62818/dingen/dingen/2013/11/notes-from-boyd-the-fighter-pilot-who-changed-the-art-of-war/</link>
+      <link>http://localhost:1313/dingen/2013/11/notes-from-boyd-the-fighter-pilot-who-changed-the-art-of-war/</link>
       <pubDate>Tue, 05 Nov 2013 07:28:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4814</guid> 
       <description>&lt;p&gt;Another long overdue post with notes from &lt;a href=&#34;https://www.goodreads.com/book/show/38840.Boyd?ac=1&#34;&gt;the biography of Colonel John Boyd&lt;/a&gt;. This is partially so long overdue because extracting quotes from Readmill is somewhat annoying and the excellent API integration &lt;a href=&#34;http://boxofquotes.javierarce.com/&#34;&gt;Box of Quotes&lt;/a&gt; no longer works ((Building things on top of APIs looks to be a thing of the past for anything serious or meant to run longer than one week.)).&lt;/p&gt;
@@ -2398,7 +2398,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes from Aramis by Bruno Latour</title>
-      <link>http://localhost:62818/dingen/dingen/2013/11/notes-from-aramis-by-bruno-latour/</link>
+      <link>http://localhost:1313/dingen/2013/11/notes-from-aramis-by-bruno-latour/</link>
       <pubDate>Sat, 02 Nov 2013 19:13:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4812</guid> 
       <description>&lt;p&gt;I finished Aramis ( &lt;a href=&#34;http://dss-edit.com/plu/Latour-B_Aramis-or-Love-of-Technology_1996.pdf&#34;&gt;PDF&lt;/a&gt;) a couple of weeks ago and this is absolutely essential reading for anybody involved with technology in a wider sense than just technology. It is also quite funny. I look forward to reading more by Bruno Latour, &lt;a href=&#34;http://www.bruno-latour.fr/node/252&#34;&gt;An Inquiry into the Modes of Existence&lt;/a&gt; is high on my list ((Though unfortunately not available as an ebook.)) and I&amp;rsquo;ve registered to join &lt;a href=&#34;https://www.france-universite-numerique-mooc.fr/courses/SciencesPo/05004/Trimestre_1_2014/about&#34;&gt;his MOOC on the Scientific Humanities&lt;/a&gt;.&lt;/p&gt;
@@ -2407,7 +2407,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Dark Matter &amp; Trojan Horses Highlights</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/dark-matter-trojan-horses-highlights/</link>
+      <link>http://localhost:1313/dingen/2013/08/dark-matter-trojan-horses-highlights/</link>
       <pubDate>Mon, 26 Aug 2013 07:09:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4244</guid> 
       <description>&lt;p&gt;Odd that I hadn&amp;rsquo;t gotten around to blogging these notes from Dan Hill&amp;rsquo;s brilliant book, but here they are then finally:&lt;/p&gt;
@@ -2419,14 +2419,14 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Apply your philosophy</title>
-      <link>http://localhost:62818/dingen/dingen/2013/08/apply-your-philosophy/</link>
+      <link>http://localhost:1313/dingen/2013/08/apply-your-philosophy/</link>
       <pubDate>Sat, 24 Aug 2013 15:12:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4738</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been on something of an applied philosophy ((I&amp;rsquo;m not a big fan of the other kind.)) binge recently and after almost finishing &lt;a href=&#34;http://www.amazon.de/Boyd-The-Fighter-Pilot-Changed/dp/0316796883/ref=sr_1_1?ie=UTF8&amp;amp;qid=1376991962&amp;amp;sr=8-1&amp;amp;keywords=Boyd%3A+The+Fighter+Pilot+Who+Changed+the+Art+of+War&#34;&gt;“Boyd: The Fighter Pilot Who Changed the Art of War”&lt;/a&gt; ((This is actually a biography and not exactly the kind of book I was looking for but it provides a good overview of the various disciplines that Boyd influenced. I will have to and will read the PhD thesis “Science Strategy and War”by Frans Osinga for the in depth treatment of his theories.)) I am now starting to read &lt;a href=&#34;http://www.goodreads.com/book/show/667397.Aramis_or_the_Love_of_Technology&#34;&gt;Aramis&lt;/a&gt; which Latour opens with:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highlights from The Quantum Thief by Hannu Rajaniemi</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/the-quantum-thief-highlights/</link>
+      <link>http://localhost:1313/dingen/2013/06/the-quantum-thief-highlights/</link>
       <pubDate>Thu, 06 Jun 2013 09:34:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4562</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Quantum_Thief&#34;&gt;The Quantum Thief&lt;/a&gt; was a very stimulating read. Make no mistake. However far off the events in this book may seem, Rajaniemi manages to evoke concepts and create language for issues that we are already dealing with.&lt;/p&gt;
@@ -2438,7 +2438,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from the Elementary Particles by Michel Houellebecq</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/highlights-from-the-elementary-particles-by-michel-houellebecq/</link>
+      <link>http://localhost:1313/dingen/2013/03/highlights-from-the-elementary-particles-by-michel-houellebecq/</link>
       <pubDate>Wed, 27 Mar 2013 07:30:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4467</guid> 
       <description>&lt;p&gt;This was an interesting read and only strengthens my resolve to read most of the things Houellebecq has written.&lt;/p&gt;
@@ -2453,7 +2453,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Books read in 2012</title>
-      <link>http://localhost:62818/dingen/dingen/2013/01/books-read-in-2012/</link>
+      <link>http://localhost:1313/dingen/2013/01/books-read-in-2012/</link>
       <pubDate>Tue, 29 Jan 2013 08:06:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4218</guid> 
       <description>&lt;p&gt;All of the books I read are to be found &lt;a href=&#34;http://www.goodreads.com/user/show/841048-alper-ugun&#34;&gt;on Goodreads&lt;/a&gt; but here is my year&amp;rsquo;s overview because it is customary to do these things. I count 23 which is not too shabby but should be improved upon (always).&lt;/p&gt;
@@ -2462,7 +2462,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Who still thinks in Germany?</title>
-      <link>http://localhost:62818/dingen/dingen/2013/01/who-still-thinks-in-germany/</link>
+      <link>http://localhost:1313/dingen/2013/01/who-still-thinks-in-germany/</link>
       <pubDate>Sat, 26 Jan 2013 10:50:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4066</guid> 
       <description>&lt;p&gt;&lt;em&gt;German friends some things need to be written but don&amp;rsquo;t take them personally. If anything, as I write below, this presents a very large opportunity for who will take it.&lt;/em&gt;&lt;/p&gt;
@@ -2470,7 +2470,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Mailing books within Germany</title>
-      <link>http://localhost:62818/dingen/dingen/2013/01/mailing-books-within-germany/</link>
+      <link>http://localhost:1313/dingen/2013/01/mailing-books-within-germany/</link>
       <pubDate>Fri, 04 Jan 2013 15:25:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4022</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3200604927/&#34; title=&#34;Amazon.com by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Amazon.com&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.staticflickr.com/3346/3200604927_5508e9388d.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2478,7 +2478,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes from Consider the Lobsterâ€¦</title>
-      <link>http://localhost:62818/dingen/dingen/2012/11/notes-from-consider-the-lobster/</link>
+      <link>http://localhost:1313/dingen/2012/11/notes-from-consider-the-lobster/</link>
       <pubDate>Thu, 22 Nov 2012 08:16:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4004</guid> 
       <description>&lt;p&gt;I read Consider the Lobster as a bit of a reprieve from the book guilt Infinite Jest still casts over my night stand and as a long overdue requiem to the literary colossus DFW is. Here&amp;rsquo;s the stuff I found noteworthy:&lt;/p&gt;
@@ -2490,7 +2490,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Harry Potter and the Methods of Rationality (until chapter 85)</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/highlights-from-harry-potter-and-the-methods-of-rationality-until-chapter-85/</link>
+      <link>http://localhost:1313/dingen/2012/10/highlights-from-harry-potter-and-the-methods-of-rationality-until-chapter-85/</link>
       <pubDate>Thu, 11 Oct 2012 07:58:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3897</guid> 
       <description>&lt;p&gt;I recently discovered the fan fiction &lt;a href=&#34;http://hpmor.com/&#34;&gt;Harry Potter and the Methods of Rationality&lt;/a&gt; by the esteemed &lt;a href=&#34;http://wiki.lesswrong.com/wiki/Eliezer&#34;&gt;Eliezer Yudkowsky&lt;/a&gt; (I used to read his friendly AI stuff back in the day) and having never read any Harry Potter ((I watched the movies.)) I still immensely enjoyed this.&lt;/p&gt;
@@ -2505,7 +2505,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Highlights from Common Sense</title>
-      <link>http://localhost:62818/dingen/dingen/2012/10/highlights-from-common-sense/</link>
+      <link>http://localhost:1313/dingen/2012/10/highlights-from-common-sense/</link>
       <pubDate>Thu, 04 Oct 2012 07:51:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3893</guid> 
       <description>&lt;p&gt;I read this pamphlet (at &lt;a href=&#34;http://www.gutenberg.org/ebooks/3755&#34;&gt;Gutenberg&lt;/a&gt;) by &lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Paine&#34;&gt;Thomas Paine&lt;/a&gt; a while back on a mountain. However short it may be it packs a massive punch and is brimful with powerful rhetoric. It also contains a rather definitive argument against monarchy. Highly recommended.&lt;/p&gt;
@@ -2517,15 +2517,15 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>The Prince of Networks Notes</title>
-      <link>http://localhost:62818/dingen/dingen/2012/06/the-prince-of-networks-notes/</link>
+      <link>http://localhost:1313/dingen/2012/06/the-prince-of-networks-notes/</link>
       <pubDate>Sun, 03 Jun 2012 21:48:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3592</guid> 
       <description>&lt;p&gt;Last weekend I finished the Prince of Networks (which is in fact &lt;a href=&#34;http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf&#34;&gt;available for free online&lt;/a&gt; and I recommend you read it, though &lt;a href=&#34;http://www.bogost.com/blog/alien_phenomenology_or_what_it.shtml&#34;&gt;Alien Phenomenology&lt;/a&gt; may be a more concise and lighter introduction into speculative realism) by &lt;a href=&#34;http://doctorzamalek2.wordpress.com/&#34;&gt;Graham Harman&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I must say I&amp;rsquo;m quite impressed by the clarity and breadth of thought that Harman and many of the philosophers in that current express. This interview ( &lt;a href=&#34;http://localhost:62818/dingen/2012/06/an-interview-with-graham-harman/&#34;&gt;my excerpts from it&lt;/a&gt;) with him contained some insights and phrases that I had not seen expressed before.&lt;/p&gt;</description>
+&lt;p&gt;I must say I&amp;rsquo;m quite impressed by the clarity and breadth of thought that Harman and many of the philosophers in that current express. This interview ( &lt;a href=&#34;http://localhost:1313/dingen/2012/06/an-interview-with-graham-harman/&#34;&gt;my excerpts from it&lt;/a&gt;) with him contained some insights and phrases that I had not seen expressed before.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An interview with Graham Harman</title>
-      <link>http://localhost:62818/dingen/dingen/2012/06/an-interview-with-graham-harman/</link>
+      <link>http://localhost:1313/dingen/2012/06/an-interview-with-graham-harman/</link>
       <pubDate>Sat, 02 Jun 2012 12:34:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3587</guid> 
       <description>&lt;p&gt;This &lt;a href=&#34;http://skepoet.wordpress.com/2012/06/01/marginalia-on-radical-thinking-an-interview-with-graham-harman/&#34;&gt;interview with Graham Harman&lt;/a&gt; is filled with valuable tidbits, some of which I wanted to collect and share for your reading pleasure as much as mine:&lt;/p&gt;
@@ -2534,7 +2534,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Cultural Consumption 2011</title>
-      <link>http://localhost:62818/dingen/dingen/2012/01/cultural-consumption-2011/</link>
+      <link>http://localhost:1313/dingen/2012/01/cultural-consumption-2011/</link>
       <pubDate>Thu, 05 Jan 2012 16:49:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3205</guid> 
       <description>&lt;p&gt;I dived into my log to make the yearly tally of what I did and saw. All in all 2011 has proven to be a good year.&lt;/p&gt;
@@ -2552,7 +2552,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Week 247</title>
-      <link>http://localhost:62818/dingen/dingen/2011/12/week-247/</link>
+      <link>http://localhost:1313/dingen/2011/12/week-247/</link>
       <pubDate>Sun, 11 Dec 2011 17:49:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3134</guid> 
       <description>&lt;p&gt;Another week and another change at the office. One thing that does define the &lt;a href=&#34;http://www.opencooperatie.nl/&#34;&gt;Open Coop&lt;/a&gt; is that everything is in a constant state of flux adding jitter so none of us remain stuck in a local optimum. The global optimum we are shooting for in and around our location in North is rather ridiculous but best not shared in public.
@@ -2560,14 +2560,14 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>De studio uit, de wereld in</title>
-      <link>http://localhost:62818/dingen/dingen/2011/10/de-studio-uit-de-wereld-in/</link>
+      <link>http://localhost:1313/dingen/2011/10/de-studio-uit-de-wereld-in/</link>
       <pubDate>Thu, 27 Oct 2011 07:08:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2843</guid> 
       <description>&lt;p&gt;Ian Bogost, videogame-filosoof, publiceerde een tijdje geleden een kritiek op de geesteswetenschappen (&lt;a href=&#34;http://bogost.com&#34;&gt;http://bogost.com&lt;/a&gt; — “Beyond the Elbow-patched Playground”) die moeite hebben uit te leggen waar ze voor dienen ( &lt;a href=&#34;http://www.bogost.com/blog/beyond_the_elbow-patched_playg.shtml&#34;&gt;deel 1&lt;/a&gt;) en niet weten wat ze met het internet aan moeten ( &lt;a href=&#34;http://www.bogost.com/blog/beyond_the_elbow-patched_playg_1.shtml&#34;&gt;deel 2&lt;/a&gt;). Bogost rekent af met academici die zich afzonderen in de ondoordringbare vestingen van hun vakgebied en te weinig relevant zijn voor mensen daarbuiten. Bas Heijnes recent verschenen essay &lt;a href=&#34;http://www.bol.com/nl/p/nederlandse-boeken/echt-zien/1001004006945732/index.html&#34;&gt;‘Echt zien’&lt;/a&gt; past eenzelfde redenering toe op de ‘zieke’ roman. Het is nuttig om deze twee redeneringen tegen de kunst- en cultuursector aan te houden. Na de debatten heeft die zich teruggetrokken maar —het lijkt— geen echte lessen getrokken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Victims of Extremistan</title>
-      <link>http://localhost:62818/dingen/dingen/2011/10/victims-of-extremistan/</link>
+      <link>http://localhost:1313/dingen/2011/10/victims-of-extremistan/</link>
       <pubDate>Mon, 03 Oct 2011 14:03:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2960</guid> 
       <description>&lt;p&gt;I thought this piece: &lt;a href=&#34;http://fantasticlife.posterous.com/amazon-and-the-reintermediation-of-the-specta&#34;&gt;“Amazon and the reintermediation of the spectacle”&lt;/a&gt; my Michael Smethurst was well worth reading. Here are some choice excerpts, but these are mainly for me. You should read the entire thing.&lt;/p&gt;
@@ -2578,7 +2578,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>De science-fiction van nu</title>
-      <link>http://localhost:62818/dingen/dingen/2011/09/de-science-fiction-van-nu/</link>
+      <link>http://localhost:1313/dingen/2011/09/de-science-fiction-van-nu/</link>
       <pubDate>Wed, 28 Sep 2011 06:29:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2951</guid> 
       <description>&lt;p&gt;Ik probeer mijn &lt;a href=&#34;http://literaturfest.nl/&#34;&gt;literaire vrienden&lt;/a&gt; aan het verstand te brengen dat door de technologisering van de samenleving science-fiction een niet meer te negeren onderdeel van de cultuur aan het worden is.&lt;/p&gt;
@@ -2586,7 +2586,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>Notes about Thoughts on Interaction Design by John Kolko</title>
-      <link>http://localhost:62818/dingen/dingen/2011/06/notes-about-thoughts-on-interaction-design-by-john-kolko/</link>
+      <link>http://localhost:1313/dingen/2011/06/notes-about-thoughts-on-interaction-design-by-john-kolko/</link>
       <pubDate>Wed, 08 Jun 2011 11:46:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2647</guid> 
       <description>&lt;p&gt;We read &lt;a href=&#34;http://www.thoughtsoninteraction.com/&#34;&gt;Thoughts on Interaction Design&lt;/a&gt; 2nd edition as the fifth book for the &lt;a href=&#34;http://www.linkedin.com/groups?mostPopular=&amp;amp;gid=1795982&#34;&gt;UX Book Club Amsterdam&lt;/a&gt; and reviewed it yesterday. Here are my noteworthy passages from the book, which is not without its issues, but it does give a credible philosophical foundation for our practice.&lt;/p&gt;
@@ -2595,7 +2595,7 @@ Tell whoever asks, that I’m still right here, and I — by which I mean we, us
     </item>
     <item>
       <title>1001 boeken die je gelezen moet hebben</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/</link>
+      <link>http://localhost:1313/dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/</link>
       <pubDate>Fri, 29 Apr 2011 10:31:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=295</guid> 
       <description>&lt;p&gt;Een rare lijst &lt;a href=&#34;http://www.kottke.org/remainder/08/05/15642.html&#34;&gt;via Kottke&lt;/a&gt;, maar er staan wel wat goede boeken op (dat kan ook niet anders als je 1001 boeken op een lijst zet). Ik kom op 33.&lt;/p&gt;
@@ -2635,7 +2635,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Carr&#39;s self-interest</title>
-      <link>http://localhost:62818/dingen/dingen/2011/03/carrs-self-interest/</link>
+      <link>http://localhost:1313/dingen/2011/03/carrs-self-interest/</link>
       <pubDate>Fri, 25 Mar 2011 15:58:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2505</guid> 
       <description>&lt;p&gt;There&amp;rsquo;s a bunch being said about Nicholas Carr&amp;rsquo;s book &lt;a href=&#34;http://www.theshallowsbook.com/&#34;&gt;“The Shallows”&lt;/a&gt;. Most notably a lot of print media jumping onto the the &lt;a href=&#34;http://www.newyorker.com/arts/critics/atlarge/2011/02/14/110214crat_atlarge_gopnik&#34;&gt;Ever-Betters&lt;/a&gt; bandwagon. Obviously Carr stating that reading long form print is being drowned out by the internet is right up the alley of the old media in their death throes.&lt;/p&gt;
@@ -2644,7 +2644,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Gelezen in 2010</title>
-      <link>http://localhost:62818/dingen/dingen/2011/01/gelezen-in-2010/</link>
+      <link>http://localhost:1313/dingen/2011/01/gelezen-in-2010/</link>
       <pubDate>Sun, 02 Jan 2011 21:32:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2370</guid> 
       <description>&lt;p&gt;Naar aanleiding van &lt;a href=&#34;http://interconnected.org/home/2011/01/01/books_read_in_2010&#34;&gt;dit lijstje van meneer Webb&lt;/a&gt;. Ik heb elf boeken uitgelezen in 2010. Schandelijk schamel aantal, ver van de 1 boek per week waar ik naar streef (maar ik heb wél 73 films gezien).&lt;/p&gt;
@@ -2665,7 +2665,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Spook Country</title>
-      <link>http://localhost:62818/dingen/dingen/2010/12/spook-country/</link>
+      <link>http://localhost:1313/dingen/2010/12/spook-country/</link>
       <pubDate>Mon, 06 Dec 2010 13:05:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2315</guid> 
       <description>&lt;p&gt;I wanted to read Zero History and found out I hadn&amp;rsquo;t read Spook Country yet, so I did. Unfortunately Stanza does not allow a batch export of annotations, but fortunately I did not make that many.&lt;/p&gt;
@@ -2677,7 +2677,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Een grijs-bruin vaderland</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/een-grijs-bruin-vaderland/</link>
+      <link>http://localhost:1313/dingen/2010/10/een-grijs-bruin-vaderland/</link>
       <pubDate>Fri, 29 Oct 2010 10:06:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2257</guid> 
       <description>&lt;p&gt;Ik schreef een tijdje geleden al bij &lt;a href=&#34;http://www.flickr.com/photos/alper/4476314878/&#34;&gt;mijn foto&lt;/a&gt; over de &lt;a href=&#34;http://www.linksehobby.nu/&#34;&gt;Linkse Hobby&lt;/a&gt;:&lt;/p&gt;
@@ -2685,29 +2685,29 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
 &lt;p&gt;Zonder linkse hobby&amp;rsquo;s krijgen we een grijs-bruin land van spruitjeslucht en vlagparades. ( &lt;a href=&#34;http://www.flickr.com/photos/alper/4476314878/&#34;&gt;Flickr&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;En dat is bewaarheid.&lt;/p&gt;
-&lt;p&gt;Maar gelukkig hebben we onze Dichter des Vaderlands, scherpzinnig en met dichterlijke vrijheid als wapen. Na het &lt;a href=&#34;http://localhost:62818/dingen/2010/06/het-manifest-van-terschelling/&#34;&gt;manifest van Terschelling&lt;/a&gt;, is het fijn dat Nasr er op en er overheen gaat met &lt;a href=&#34;http://pauwenwitteman.vara.nl/Fragment-detail.1548.0.html?&amp;amp;tx_ttnews%5Btt_news%5D=18690&amp;amp;tx_ttnews%5BbackPid%5D=116&amp;amp;cHash=78ad049899e85691807acc7ad7a712be&#34;&gt;het gedicht ‘Mijn nieuwe vaderland’&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Maar gelukkig hebben we onze Dichter des Vaderlands, scherpzinnig en met dichterlijke vrijheid als wapen. Na het &lt;a href=&#34;http://localhost:1313/dingen/2010/06/het-manifest-van-terschelling/&#34;&gt;manifest van Terschelling&lt;/a&gt;, is het fijn dat Nasr er op en er overheen gaat met &lt;a href=&#34;http://pauwenwitteman.vara.nl/Fragment-detail.1548.0.html?&amp;amp;tx_ttnews%5Btt_news%5D=18690&amp;amp;tx_ttnews%5BbackPid%5D=116&amp;amp;cHash=78ad049899e85691807acc7ad7a712be&#34;&gt;het gedicht ‘Mijn nieuwe vaderland’&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;Hele &lt;a href=&#34;http://pauwenwitteman.vara.nl/Fragment-detail.1548.0.html?&amp;amp;tx_ttnews%5Btt_news%5D=18690&amp;amp;tx_ttnews%5BbackPid%5D=116&amp;amp;cHash=78ad049899e85691807acc7ad7a712be&#34;&gt;tekst bij P&amp;amp;W&lt;/a&gt; en op de &lt;a href=&#34;http://www.ramseynasr.nl/boekboek/show/id=148263&#34;&gt;site van de Dichter des Vaderlands&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ontwerp en complexiteit als journalistieke kansen</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/</link>
+      <link>http://localhost:1313/dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/</link>
       <pubDate>Thu, 07 Oct 2010 21:29:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2177</guid> 
       <description>&lt;p&gt;De laatste dagen staan een beetje in het teken van gelekte e-mailtjes van, naar en door invloedrijke mensen in Nederland. Een van de recentere is die van de nieuwe hoofdredacteur van het &lt;a href=&#34;http://www.nrc.nl&#34;&gt;NRC&lt;/a&gt;, &lt;a href=&#34;http://nl.wikipedia.org/wiki/Peter_Vandermeersch&#34;&gt;Peter Vandermeersch&lt;/a&gt;, naar zijn redactie, hieronder ( &lt;a href=&#34;http://twitter.com/#!/LeviBottle/status/26646195262&#34;&gt;via&lt;/a&gt;):&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/briefvandermeesch.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/briefvandermeesch.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;briefvandermeesch.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/briefvandermeesch.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Klik voor groter. Vandermeersch benoemt een serie dingen die de krant zou kunnen en moeten verbeteren om ‘het centrum van het politieke en intellectuele debat’ in Nederland te worden. Ik denk dat weinig mensen echt problemen zouden hebben met deze punten, veel ervan zijn nogal voor de hand liggend: sneller, beter, harder nieuws, geen primeurs laten afpakken, geen dingen laten liggen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zuiverheid</title>
-      <link>http://localhost:62818/dingen/dingen/2010/08/2043/</link>
+      <link>http://localhost:1313/dingen/2010/08/2043/</link>
       <pubDate>Sun, 22 Aug 2010 10:45:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2043</guid> 
       <description>&lt;p&gt;In de nacht van vrijdag op zaterdag kreeg onze &lt;a href=&#34;http://www.ramseynasr.nl&#34;&gt;Dichter des Vaderlands&lt;/a&gt; een blok van anderhalf uur radio in Zomernachten om te vertellen wat hij wilde. Ik had me in de dag vergist, maar het stond vannacht ook &lt;a href=&#34;http://casaluna.ncrv.nl/pagina/ramsey-nasr&#34;&gt;al op de website&lt;/a&gt;. De MP3 is hier uit de podcast te vissen: &lt;a href=&#34;http://tools.ncrv.nl/download/podcast_tool/casaluna_2010_08_21_1282352652_Zomernachten_Ramsey__-_.MP3&#34;&gt;Zomernacht van Ramsey Nasr&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Het mag &lt;a href=&#34;http://localhost:62818/dingen/index.php?s=nasr&#34;&gt;hier&lt;/a&gt; al duidelijk zijn dat ik een fan ben van Nasr. Als je die anderhalf uur luistert, word je het waarschijnlijk ook. Een prettige aanklacht tegen de huidige stand van zaken in Nederland, niet populair maar wel goed onderbouwd. Alleen ben ik bang dat hij er geen nieuw publiek mee bereikt. Zolang wij zó in de minderheid zijn kunnen we zeggen wat we willen maar denk ik niet dat we er iets mee bereiken.&lt;/p&gt;</description>
+&lt;p&gt;Het mag &lt;a href=&#34;http://localhost:1313/dingen/index.php?s=nasr&#34;&gt;hier&lt;/a&gt; al duidelijk zijn dat ik een fan ben van Nasr. Als je die anderhalf uur luistert, word je het waarschijnlijk ook. Een prettige aanklacht tegen de huidige stand van zaken in Nederland, niet populair maar wel goed onderbouwd. Alleen ben ik bang dat hij er geen nieuw publiek mee bereikt. Zolang wij zó in de minderheid zijn kunnen we zeggen wat we willen maar denk ik niet dat we er iets mee bereiken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Check in / Check Out - Design Principles for Camera Surveillance</title>
-      <link>http://localhost:62818/dingen/dingen/2010/07/check-in-check-out-design-principles-for-camera-surveillance/</link>
+      <link>http://localhost:1313/dingen/2010/07/check-in-check-out-design-principles-for-camera-surveillance/</link>
       <pubDate>Mon, 26 Jul 2010 08:20:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1989</guid> 
       <description>&lt;p&gt;Here the first of my English translations of the design principles outlined in the Dutch book by Rathenau about the digitalization of society and its implications.&lt;/p&gt;
@@ -2715,7 +2715,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Check in / Check Out, Case by Case â€” Case 0010, â€œStraatbeeldenâ€</title>
-      <link>http://localhost:62818/dingen/dingen/2010/07/check-in-check-out-case-by-case-%E2%80%94-case-0010-%E2%80%9Cstraatbeelden%E2%80%9D/</link>
+      <link>http://localhost:1313/dingen/2010/07/check-in-check-out-case-by-case-%E2%80%94-case-0010-%E2%80%9Cstraatbeelden%E2%80%9D/</link>
       <pubDate>Sat, 24 Jul 2010 17:43:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1985</guid> 
       <description>&lt;p&gt;Niet zoveel aan te merken op dit hoofdstuk. Ook niet heel erg mijn interessegebied.&lt;/p&gt;
@@ -2724,7 +2724,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>â€œit&#39;s more of a very expensive docking station than anythingâ€</title>
-      <link>http://localhost:62818/dingen/dingen/2010/06/%E2%80%9C-its-more-of-a-very-expensive-docking-station-than-anything%E2%80%9D/</link>
+      <link>http://localhost:1313/dingen/2010/06/%E2%80%9C-its-more-of-a-very-expensive-docking-station-than-anything%E2%80%9D/</link>
       <pubDate>Wed, 23 Jun 2010 13:36:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1905</guid> 
       <description>&lt;p&gt;What &lt;a href=&#34;http://ben.hammersley.usesthis.com/&#34;&gt;Ben Hammersley uses&lt;/a&gt; (besides &lt;a href=&#34;http://benhammersley.com/post/718362399/better-out-than-in&#34;&gt;the travel drug&lt;/a&gt;):&lt;/p&gt;
@@ -2735,7 +2735,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Check in / Check Out, Case by Case â€” Case 0001, â€œPasjes en poortjesâ€</title>
-      <link>http://localhost:62818/dingen/dingen/2010/06/check-in-check-out-case-by-case-%E2%80%94-case-0001-%E2%80%9Cpasjes-en-poortjes%E2%80%9D/</link>
+      <link>http://localhost:1313/dingen/2010/06/check-in-check-out-case-by-case-%E2%80%94-case-0001-%E2%80%9Cpasjes-en-poortjes%E2%80%9D/</link>
       <pubDate>Tue, 22 Jun 2010 07:04:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1889</guid> 
       <description>&lt;p&gt;Ik ben &lt;a href=&#34;http://rathenauinstituut.nl/en/themes/project/digitalisering-van-de-openbare-ruimte-1.html&#34;&gt;het boek&lt;/a&gt; &lt;a href=&#34;http://www.naipublishers.nl/checkin_checkuit/index.html&#34;&gt;“Check in / Check out”&lt;/a&gt; van &lt;a href=&#34;http://rathenauinstituut.nl/&#34;&gt;het Rathenau Instituut&lt;/a&gt; aan het lezen.&lt;/p&gt;
@@ -2745,7 +2745,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Het Manifest van Terschelling</title>
-      <link>http://localhost:62818/dingen/dingen/2010/06/het-manifest-van-terschelling/</link>
+      <link>http://localhost:1313/dingen/2010/06/het-manifest-van-terschelling/</link>
       <pubDate>Tue, 15 Jun 2010 10:44:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1853</guid> 
       <description>&lt;p&gt;Lees het gedicht van Nasr (Ù†Ø³Ø± ) op &lt;a href=&#34;http://www.manifestvanterschelling.nl/het_manifest.html&#34;&gt;het Manifest van Terschelling&lt;/a&gt; en &lt;a href=&#34;http://www.manifestvanterschelling.nl/onderteken_het_manifest.html&#34;&gt;onderteken&lt;/a&gt;.&lt;/p&gt;
@@ -2757,7 +2757,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Dead trees</title>
-      <link>http://localhost:62818/dingen/dingen/2010/05/dead-trees/</link>
+      <link>http://localhost:1313/dingen/2010/05/dead-trees/</link>
       <pubDate>Wed, 26 May 2010 09:22:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1808</guid> 
       <description>&lt;p&gt;I don&amp;rsquo;t think I disagree with anything Craig Mod writes.&lt;/p&gt;
@@ -2768,7 +2768,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Vrijheid herdenken</title>
-      <link>http://localhost:62818/dingen/dingen/2010/05/vrijheid-herdenken/</link>
+      <link>http://localhost:1313/dingen/2010/05/vrijheid-herdenken/</link>
       <pubDate>Thu, 06 May 2010 15:37:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1764</guid> 
       <description>&lt;p&gt;Een nieuw gedicht van onze Dichter des Vaderlands “Een mooie dag om stilte te verscheuren”:&lt;/p&gt;
@@ -2776,7 +2776,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Passacaglia</title>
-      <link>http://localhost:62818/dingen/dingen/2010/04/passacaglia/</link>
+      <link>http://localhost:1313/dingen/2010/04/passacaglia/</link>
       <pubDate>Fri, 02 Apr 2010 08:32:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1698</guid> 
       <description>&lt;p&gt;Dit gedicht van Ramsey Nasr had ik gemist. Hier &lt;a href=&#34;http://nrc.tv/video/nrcnu_/article1366385.ece/Het_hemelse_leven&#34;&gt;het Hemelse Leven&lt;/a&gt;.&lt;/p&gt;
@@ -2784,7 +2784,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Nasr doet een nieuwjaarsgroet</title>
-      <link>http://localhost:62818/dingen/dingen/2010/01/nasr-doet-een-nieuwjaarsgroet/</link>
+      <link>http://localhost:1313/dingen/2010/01/nasr-doet-een-nieuwjaarsgroet/</link>
       <pubDate>Thu, 21 Jan 2010 19:31:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1537</guid> 
       <description>&lt;p&gt;Aangezien onze dichter des vaderlands zijn eigen blog niet zo goed bijhoudt moet het goede volk zijn gedichten hier en daar bij elkaar schrapen of speciaal voor dat handjevol een abonnement nemen op de NRC. Geen doen dus.&lt;/p&gt;
@@ -2792,7 +2792,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Necessities for digital magazines</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/necessities-for-digital-magazines/</link>
+      <link>http://localhost:1313/dingen/2009/12/necessities-for-digital-magazines/</link>
       <pubDate>Mon, 28 Dec 2009 21:57:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1417</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://benhammersley.com/2009/12/e-books-the-bigger-problem-part-one-of-three/&#34;&gt;Ben Hammersley poses the question&lt;/a&gt; which has been on my mind for a while ( &lt;a href=&#34;http://twitter.com/alper/status/6767585114&#34;&gt;tweet&lt;/a&gt;) now after seeing the various concept demoes of rich magazines on high resolution tablets.&lt;/p&gt;
@@ -2802,15 +2802,15 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Kansen in de journalistiek</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/kansen-in-de-journalistiek/</link>
+      <link>http://localhost:1313/dingen/2009/12/kansen-in-de-journalistiek/</link>
       <pubDate>Fri, 18 Dec 2009 14:15:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1418</guid> 
-      <description>&lt;p&gt;Leuk om &lt;a href=&#34;http://www.werktitel.be/2009/12/%E2%80%98mediacrisis-schept-fantastische-kansen-voor-jonge-journalisten%E2%80%99/comment-page-1/#comment-865&#34;&gt;een link&lt;/a&gt; en een commentaar naar mijn &lt;a href=&#34;http://localhost:62818/dingen/2009/10/de-anatomie-van-het-nieuws/&#34;&gt;‘anatomie van het nieuws’ stukje&lt;/a&gt; te krijgen van &lt;a href=&#34;http://twitter.com/obk&#34;&gt;Olaf Koens&lt;/a&gt; op het Vlaamse weblog &lt;a href=&#34;http://www.werktitel.be/2009/12/%E2%80%98mediacrisis-schept-fantastische-kansen-voor-jonge-journalisten%E2%80%99/&#34;&gt;Werktitel&lt;/a&gt; over journalistieke vernieuwing.&lt;/p&gt;
+      <description>&lt;p&gt;Leuk om &lt;a href=&#34;http://www.werktitel.be/2009/12/%E2%80%98mediacrisis-schept-fantastische-kansen-voor-jonge-journalisten%E2%80%99/comment-page-1/#comment-865&#34;&gt;een link&lt;/a&gt; en een commentaar naar mijn &lt;a href=&#34;http://localhost:1313/dingen/2009/10/de-anatomie-van-het-nieuws/&#34;&gt;‘anatomie van het nieuws’ stukje&lt;/a&gt; te krijgen van &lt;a href=&#34;http://twitter.com/obk&#34;&gt;Olaf Koens&lt;/a&gt; op het Vlaamse weblog &lt;a href=&#34;http://www.werktitel.be/2009/12/%E2%80%98mediacrisis-schept-fantastische-kansen-voor-jonge-journalisten%E2%80%99/&#34;&gt;Werktitel&lt;/a&gt; over journalistieke vernieuwing.&lt;/p&gt;
 &lt;p&gt;Dat boek &lt;a href=&#34;http://www.luuksengers.nl/?page_id=853&#34;&gt;‘Onderzoeksjournalistiek’&lt;/a&gt; van Luuk Sengers wil ik trouwens wel hebben.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some salon reading</title>
-      <link>http://localhost:62818/dingen/dingen/2009/12/some-salon-reading/</link>
+      <link>http://localhost:1313/dingen/2009/12/some-salon-reading/</link>
       <pubDate>Tue, 08 Dec 2009 11:30:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1400</guid> 
       <description>&lt;p&gt;Never enough time for reading, but thanks to &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt; got around to reading some stuff that was due coincidentally both of these are from Salon:&lt;/p&gt;
@@ -2819,7 +2819,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>De anatomie van het nieuws</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/de-anatomie-van-het-nieuws/</link>
+      <link>http://localhost:1313/dingen/2009/10/de-anatomie-van-het-nieuws/</link>
       <pubDate>Mon, 16 Nov 2009 22:39:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1329</guid> 
       <description>&lt;p&gt;Shirky schreef pas zijn anatomie van het nieuws in: &lt;a href=&#34;http://www.shirky.com/weblog/2009/10/rescuing-the-reporters/&#34;&gt;“Rescuing the Reporters”&lt;/a&gt; waarin hij een krant ontleed in nieuws en restmateriaal en dan ook nog dat nieuws splitst in zelf-gemaakt en uit andere bronnen afkomstig.&lt;/p&gt;
@@ -2828,7 +2828,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>een stittie die stilstaat</title>
-      <link>http://localhost:62818/dingen/dingen/2009/10/een-stittie-die-stilstaat/</link>
+      <link>http://localhost:1313/dingen/2009/10/een-stittie-die-stilstaat/</link>
       <pubDate>Mon, 05 Oct 2009 10:21:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1286</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ramseynasr.nl/&#34;&gt;Ramsey Nasr&lt;/a&gt; bewijst met zijn nieuwste gedicht ‘mi have een droom’ dat hij overduidelijk de beste Dichter des Vaderlands is die we ons maar hadden kunnen wensen:
@@ -2837,7 +2837,7 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>Sketching User Experiences part I â€”Â notes</title>
-      <link>http://localhost:62818/dingen/dingen/2009/08/sketching-user-experiences-part-i-%E2%80%94%C2%A0notes/</link>
+      <link>http://localhost:1313/dingen/2009/08/sketching-user-experiences-part-i-%E2%80%94%C2%A0notes/</link>
       <pubDate>Tue, 18 Aug 2009 12:09:04 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1173</guid> 
       <description>&lt;p&gt;I recently reread part I of Sketching User Experiences by &lt;a href=&#34;http://www.billbuxton.com/&#34;&gt;Bill Buxton&lt;/a&gt; for &lt;a href=&#34;http://www.uxbookclub.org/doku.php?id=zuid-holland&#34;&gt;UX Book Club Zuid-Holland&lt;/a&gt; and made notes during the proces. ‘Sketching’ is one of my favorite UX books and well worth a reread which I found reveals different layers and gets you to reflect differently with the experience you have accumulated since the last time I read it.&lt;/p&gt;
@@ -2845,16 +2845,16 @@ schiep kunst de mens&lt;/p&gt;
     </item>
     <item>
       <title>De krant is stuk. Wat nu?</title>
-      <link>http://localhost:62818/dingen/dingen/2009/08/de-krant-is-stuk-wat-nu/</link>
+      <link>http://localhost:1313/dingen/2009/08/de-krant-is-stuk-wat-nu/</link>
       <pubDate>Mon, 17 Aug 2009 14:01:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1161</guid> 
-      <description>&lt;p&gt;Van het weekend gebeurden er weer een paar dingen die me met de neus op de feiten drukten hoe kapot ((Als in &lt;em&gt;disfunctioneel&lt;/em&gt;.)) het concept ‘papieren krant’ wel niet is. Ik zeg het al een tijdje en heb opgeschreven waarom ik principieel tegen de papieren krant ben ( &lt;a href=&#34;http://localhost:62818/dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/&#34;&gt;alle argumenten&lt;/a&gt;), maar dit was wel saillant.&lt;/p&gt;
+      <description>&lt;p&gt;Van het weekend gebeurden er weer een paar dingen die me met de neus op de feiten drukten hoe kapot ((Als in &lt;em&gt;disfunctioneel&lt;/em&gt;.)) het concept ‘papieren krant’ wel niet is. Ik zeg het al een tijdje en heb opgeschreven waarom ik principieel tegen de papieren krant ben ( &lt;a href=&#34;http://localhost:1313/dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/&#34;&gt;alle argumenten&lt;/a&gt;), maar dit was wel saillant.&lt;/p&gt;
 &lt;h3 id=&#34;plek-in-het-leven&#34;&gt;Plek in het leven&lt;/h3&gt;
 &lt;p&gt;Net een stuk in de Times dat het ochtendritueel van veel Amerikaanse gezinnen wordt verstoord door gadgets en sociale media:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dichter des Vaderlands</title>
-      <link>http://localhost:62818/dingen/dingen/2009/02/dichter-des-vaderlands/</link>
+      <link>http://localhost:1313/dingen/2009/02/dichter-des-vaderlands/</link>
       <pubDate>Thu, 05 Feb 2009 10:12:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=751</guid> 
       <description>&lt;p&gt;Ik heb de hele verkiezingen rond de dichter des vaderlands gemist ((Één van de weinige nadelige gevolgen van het je onttrekken aan massamedia.)) ((Én blijkbaar ga ik met niemand om die zich bezig houdt met poëzie (dat kan wel kloppen). )) maar ik ben nog steeds blij en ik vind dat ik er iets over moet schrijven.&lt;/p&gt;
@@ -2863,7 +2863,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Tax on knowledge</title>
-      <link>http://localhost:62818/dingen/dingen/2008/10/tax-on-knowledge/</link>
+      <link>http://localhost:1313/dingen/2008/10/tax-on-knowledge/</link>
       <pubDate>Fri, 31 Oct 2008 16:07:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=566</guid> 
       <description>&lt;p&gt;I called with the taxman yesterday to clarify some stuff. I had surmised that profesionally relevant books could be deducted as expenses. Now it seems there is a very fine distinction.&lt;/p&gt;
@@ -2871,7 +2871,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Books read August 2008</title>
-      <link>http://localhost:62818/dingen/dingen/2008/09/books-read-august-2008/</link>
+      <link>http://localhost:1313/dingen/2008/09/books-read-august-2008/</link>
       <pubDate>Wed, 03 Sep 2008 08:25:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=376</guid> 
       <description>&lt;p&gt;In the only month where I somewhat approach Matt Webb&amp;rsquo;s amount of reading, he just goes and &lt;a href=&#34;http://interconnected.org/home/2008/08/30/books_read_august_2008&#34;&gt;ups his count&lt;/a&gt; to nearly double mine.&lt;/p&gt;
@@ -2879,7 +2879,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Onderlezer</title>
-      <link>http://localhost:62818/dingen/dingen/2008/05/onderlezer/</link>
+      <link>http://localhost:1313/dingen/2008/05/onderlezer/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=291</guid> 
       <description>&lt;p&gt;Deze &lt;a href=&#34;http://www.newyorker.com/talk/2008/03/10/080310ta_talk_widdicombe&#34;&gt;baan als culturele attaché&lt;/a&gt; in dienst van &lt;a href=&#34;http://www.imdb.com/name/nm0004976/&#34;&gt;Brian Grazer&lt;/a&gt; lijkt mij ideaal. In ieder geval totdat ik zelf in de positie ben om zo iemand in te huren voor mezelf.&lt;/p&gt;
@@ -2887,7 +2887,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Een studie in smaragd</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/een-studie-in-smaragd/</link>
+      <link>http://localhost:1313/dingen/2008/01/een-studie-in-smaragd/</link>
       <pubDate>Sat, 15 Mar 2008 20:01:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/een-studie-in-smaragd/</guid> 
       <description>&lt;p&gt;Een Sherlock Holmes-pastiche voor de donkere zondagavond ((En voor de mensen met House-ontwenningsverschijnselen.)) geschreven door Neil Gaiman en voorgelezen door hemzelf zoals alleen hij dat kan (via &lt;a href=&#34;http://www.boingboing.net/2008/01/26/gaimans-cthulusherlo.html&#34;&gt;BoingBoing&lt;/a&gt;).&lt;/p&gt;
@@ -2895,7 +2895,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Leeslijsten</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/leeslijsten/</link>
+      <link>http://localhost:1313/dingen/2008/01/leeslijsten/</link>
       <pubDate>Wed, 30 Jan 2008 00:54:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/leeslijsten/</guid> 
       <description>&lt;p&gt;Van de week bij de IKEA een klein kastje gekocht om mijn boeken dichter bij de hand te hebben.&lt;/p&gt;
@@ -2905,7 +2905,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Autodidact</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/autodidact/</link>
+      <link>http://localhost:1313/dingen/2008/01/autodidact/</link>
       <pubDate>Mon, 28 Jan 2008 23:30:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/autodidact/</guid> 
       <description>&lt;p&gt;Het leuke aan klaar zijn met studeren is dat je dingen kunt gaan leren die jÃ­j belangrijk vindt. En ik leer sneller als ik zelf mag bepalen hoe en hoe snel. Dus hier twee boeken in een serie voor het komende jaar:&lt;/p&gt;
@@ -2914,7 +2914,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Leesboeken</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/leesboeken/</link>
+      <link>http://localhost:1313/dingen/2008/01/leesboeken/</link>
       <pubDate>Sun, 20 Jan 2008 18:33:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/leesboeken/</guid> 
       <description>&lt;p&gt;Deze week ben ik langs &lt;a href=&#34;http://www.abc.nl&#34;&gt;ABC&lt;/a&gt; Den Haag geweest om een paar boeken te kopen om nú te lezen ((De boeken die ik normaal zou lezen zitten nog ingepakt, en ik moet toch iets lezen.)). Ik koop liever niets meer bij normale winkels tenzij ze tof zijn zoals de ABC.&lt;/p&gt;
@@ -2922,7 +2922,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Boekenlijst</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/boekenlijst/</link>
+      <link>http://localhost:1313/dingen/2008/01/boekenlijst/</link>
       <pubDate>Tue, 08 Jan 2008 11:39:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/boekenlijst/</guid> 
       <description>&lt;p&gt;Ik zat het einde van het jaar mijn lijstjes door te kijken en ik zag dat ik in 2007 maar vier (!) boeken heb gelezen. Dan zie je iemand als Aaronsw die er 70 consumeert en dat weinig vindt.&lt;/p&gt;
@@ -2930,7 +2930,7 @@ Ik was stomverbaasd en wist een paar woorden uit te brengen en hem te felicitere
     </item>
     <item>
       <title>Popper over de noodzaak van vrede en rationalisme</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/</link>
+      <link>http://localhost:1313/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/</link>
       <pubDate>Sun, 30 Sep 2007 22:22:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/</guid> 
       <description>&lt;p&gt;In het hoofdstuk &amp;lsquo;Waging Wars for Peace&amp;rsquo; ((Een interview van Popper voor Der Spiegel in 1992)) legt Popper uit dat het ons gerechtvaardigd is om desnoods geweld te gebruiken en oorlog te voeren als we de verspreiding en het gebruik van kernwapens maar kunnen tegengaan.&lt;/p&gt;
@@ -2941,7 +2941,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     </item>
     <item>
       <title>De Profeet</title>
-      <link>http://localhost:62818/dingen/dingen/2007/08/de-profeet/</link>
+      <link>http://localhost:1313/dingen/2007/08/de-profeet/</link>
       <pubDate>Wed, 01 Aug 2007 14:37:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/de-profeet/</guid> 
       <description>&lt;p&gt;Maandag &lt;a href=&#34;http://leb.net/gibran/works/prophet/prophet.html&#34;&gt;The Prophet&lt;/a&gt; van &lt;a href=&#34;http://en.wikipedia.org/wiki/Khalil_Gibran&#34;&gt;Khalil Gibran&lt;/a&gt; uitgelezen. Aardige teksten en immens quotebaar. Hier twee:&lt;/p&gt;
@@ -2953,7 +2953,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     </item>
     <item>
       <title>Drie Werelden over Waarheid en Menselijkheid</title>
-      <link>http://localhost:62818/dingen/dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/</link>
+      <link>http://localhost:1313/dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/</link>
       <pubDate>Mon, 09 Jul 2007 14:40:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/</guid> 
       <description>&lt;p&gt;Ik lees nu &amp;ldquo;All life is problem solving&amp;rdquo; ((Vertaald, maar ik had hem al gekocht.)) van &lt;a href=&#34;http://en.wikipedia.org/wiki/Karl_Popper&#34;&gt;Karl Popper&lt;/a&gt; en het is zware kost ((Gelukkig niet zo zwaar als &amp;ldquo;Objective Knowledge&amp;rdquo;)) maar ook erg waardevol en boeiend. Vergeef het vage gezwam, maar ik ga af en toe wat inhoud van wat ik lees hier verwerken.&lt;/p&gt;
@@ -2961,7 +2961,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     </item>
     <item>
       <title>Macbook ingeleverd</title>
-      <link>http://localhost:62818/dingen/dingen/2007/05/macbook-ingeleverd/</link>
+      <link>http://localhost:1313/dingen/2007/05/macbook-ingeleverd/</link>
       <pubDate>Sun, 13 May 2007 20:20:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/macbook-ingeleverd/</guid> 
       <description>&lt;p&gt;Ik heb vanochtend vroeg ((Erg verdomde vroeg als je vier uur slaapt.)) mijn Macbook ingeleverd bij &lt;a href=&#34;http://www.ljs.nl&#34;&gt;LJS&lt;/a&gt; op de Lutherse Burgwal. Daarna koffie gedronken in Florencia, grappige tent en aparte interpretatie van het concept cappuccino.&lt;/p&gt;

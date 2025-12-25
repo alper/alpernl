@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Openbaar-Vervoer on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/openbaar-vervoer/</link>
+    <link>http://localhost:1313/tags/openbaar-vervoer/</link>
     <description>Recent content in Openbaar-Vervoer on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 14 Feb 2008 15:15:32 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/openbaar-vervoer/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/openbaar-vervoer/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bijeenkomst SenterNovem Mobiliteitsmanagement</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/</link>
+      <link>http://localhost:1313/dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/</link>
       <pubDate>Thu, 14 Feb 2008 15:15:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/</guid> 
       <description>&lt;p&gt;Voor wie het nog niet weet, ik ben bezig met een initiatief rondom mobiliteit, internet en sociale netwerken. Met het oog daarop volg ik het nieuws en de verschillende overheidsprogramma&amp;rsquo;s hierover in Nederland.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>Mifare gekraakt</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/mifare-gekraakt/</link>
+      <link>http://localhost:1313/dingen/2008/01/mifare-gekraakt/</link>
       <pubDate>Wed, 09 Jan 2008 08:53:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/mifare-gekraakt/</guid> 
       <description>&lt;p&gt;Een &lt;a href=&#34;http://www.volkskrant.nl/economie/article492709.ece/Geheime_code_van_ov-kaart_ligt_op_straat&#34;&gt;artikel in de Volkskrant&lt;/a&gt; vandaag over hoe het algemene systeem van de OV-chipkaarten is gekraakt. Dit is aangekondigd door een groep hackers op de CCC in Berlijn tijdens hun presentatie: &lt;a href=&#34;http://events.ccc.de/congress/2007/Fahrplan/track/Hacking/2378.en.html&#34;&gt;Mifare: Little Security, Despite Obscurity&lt;/a&gt;.&lt;/p&gt;
@@ -27,7 +27,7 @@ Als dit inderdaad is wat het lijkt en wat Rop Gonggrijp gelijk heet met: ‘Deze
     </item>
     <item>
       <title>Open reisinformatie voor de mensen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/12/open-reisinformatie-voor-de-mensen/</link>
+      <link>http://localhost:1313/dingen/2007/12/open-reisinformatie-voor-de-mensen/</link>
       <pubDate>Mon, 24 Dec 2007 14:08:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/open-reisinformatie-voor-de-mensen/</guid> 
       <description>&lt;p&gt;Ik zit al een tijdje na te denken over reisinformatie en het zou erg fijn zijn als die informatie makkelijk publiek beschikbaar zou zijn. Het is in het huidige klimaat kansloos en dat maakt het zo jammer want je zou er ontzettend veel handige dingen mee kunnen doen.&lt;/p&gt;

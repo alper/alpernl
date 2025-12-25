@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>1dag1000donateurs on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/1dag1000donateurs/</link>
+    <link>http://localhost:1313/tags/1dag1000donateurs/</link>
     <description>Recent content in 1dag1000donateurs on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 22 Oct 2010 08:46:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/1dag1000donateurs/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/1dag1000donateurs/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1 Dag â€” 1000 Donateurs</title>
-      <link>http://localhost:62818/dingen/dingen/2010/10/1-dag-1000-donateurs/</link>
+      <link>http://localhost:1313/dingen/2010/10/1-dag-1000-donateurs/</link>
       <pubDate>Fri, 22 Oct 2010 08:46:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2229</guid> 
-      <description>&lt;p&gt;Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: &lt;a href=&#34;https://www.bof.nl/1dag1000donateurs/&#34;&gt;https://www.bof.nl/1dag1000donateurs/&lt;/a&gt; &lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/1dag1000donateurs-banner-728px.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/1dag1000donateurs-banner-728px.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: &lt;a href=&#34;https://www.bof.nl/1dag1000donateurs/&#34;&gt;https://www.bof.nl/1dag1000donateurs/&lt;/a&gt; &lt;a href=&#34;1dag1000donateurs-banner-728px.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2010/10/1-dag-1000-donateurs/1dag1000donateurs-banner-728px.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bits of Freedom is de burgerrechten organisatie voor het internet die ervoor zorgt dat we allemaal kunnen internet zoals we dat willen zonder beperkingen en verboden opgelegd door machtswellustige politici of op geld azende bedrijven, dat we in niet teveel databases worden gestopt —die dan toch weer uitlekken— en dat de dingen waarvan je wilt dat ze privé zijn dat ook blijven in de toekomst.&lt;/p&gt;</description>
     </item>
   </channel>

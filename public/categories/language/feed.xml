@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Language on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/language/</link>
+    <link>http://localhost:1313/categories/language/</link>
     <description>Recent content in Language on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 29 Nov 2021 08:37:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/language/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/language/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2021/11/16644/</link>
+      <link>http://localhost:1313/dingen/2021/11/16644/</link>
       <pubDate>Mon, 29 Nov 2021 08:37:26 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16644</guid> 
       <description>&lt;p&gt;The long rumored link between Turkish and Japanese is getting some validation. I&amp;rsquo;m now also looking into learning Japanese (Chinese wasn&amp;rsquo;t really doing it for me).&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>The Flexibility of the Dutch Language</title>
-      <link>http://localhost:62818/dingen/dingen/2013/04/the-flexibility-of-the-dutch-language/</link>
+      <link>http://localhost:1313/dingen/2013/04/the-flexibility-of-the-dutch-language/</link>
       <pubDate>Sun, 28 Apr 2013 06:51:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4511</guid> 
       <description>&lt;p&gt;Something that we noticed during my recent study of the German language is the tremendous promiscuity of Dutch with English which goes even further than I had previously noticed. We all know the usage of many English words in Dutch as if they were our own, but I wanted to pay attention here to a special case: the fully imported verb.&lt;/p&gt;

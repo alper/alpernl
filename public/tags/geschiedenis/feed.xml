@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Geschiedenis on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/geschiedenis/</link>
+    <link>http://localhost:1313/tags/geschiedenis/</link>
     <description>Recent content in Geschiedenis on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 21 Sep 2007 17:45:40 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/geschiedenis/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/geschiedenis/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zonsondergang over Palmyra</title>
-      <link>http://localhost:62818/dingen/dingen/2007/09/zonsondergang-over-palmyra/</link>
+      <link>http://localhost:1313/dingen/2007/09/zonsondergang-over-palmyra/</link>
       <pubDate>Fri, 21 Sep 2007 17:45:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/zonsondergang-over-palmyra/</guid> 
       <description>&lt;p&gt;Ik heb geen idee hoe ik zo snel een Quicktime embed op dit blog plak. Vimeo even uitgeprobeerd wat een goede videosite is maar het FLV formaat is nog steeds redelijk bar qua kwaliteit.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://vimeo.com/313433/l:embed_313433&#34;&gt;Sunset over Palmyra&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user260708/l:embed_313433&#34;&gt;Alper Çugun&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/l:embed_313433&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Dit geeft een aardige indruk, maar kijk liever &lt;a href=&#34;http://localhost:62818/dingen/media/Palmyra.mov&#34;&gt;het filmpje op de volle resolutie&lt;/a&gt;.Toen we de zonsondergang over de ruïnes van Palmyra bekeken heb ik mijn camera neergezet op een rots en met stopwatch en afstandsbediening heb ik elke minuut een foto genomen. Het resultaat is volgens mij best aardig.&lt;/p&gt;</description>
+&lt;p&gt;Dit geeft een aardige indruk, maar kijk liever &lt;a href=&#34;http://localhost:1313/media/Palmyra.mov&#34;&gt;het filmpje op de volle resolutie&lt;/a&gt;.Toen we de zonsondergang over de ruïnes van Palmyra bekeken heb ik mijn camera neergezet op een rots en met stopwatch en afstandsbediening heb ik elke minuut een foto genomen. Het resultaat is volgens mij best aardig.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

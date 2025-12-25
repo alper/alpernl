@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Open-State on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/open-state/</link>
+    <link>http://localhost:1313/categories/open-state/</link>
     <description>Recent content in Open-State on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 10 Jun 2013 08:01:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/open-state/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/open-state/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 323</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/week-323/</link>
+      <link>http://localhost:1313/dingen/2013/06/week-323/</link>
       <pubDate>Mon, 10 Jun 2013 08:01:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4629</guid> 
       <description>&lt;p&gt;This week started with Pentecost. Trying to get stuff done in Germany during the bank holiday flurry that is May is always a challenge. I spent more time working on Cuppings. In all likelihood this app will never make any serious money, but there are other advantages to building apps which may become apparent in the future.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>Week 322</title>
-      <link>http://localhost:62818/dingen/dingen/2013/06/week-322/</link>
+      <link>http://localhost:1313/dingen/2013/06/week-322/</link>
       <pubDate>Wed, 05 Jun 2013 15:51:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4627</guid> 
       <description>&lt;p&gt;So it turns out I&amp;rsquo;ve fallen immensely behind with the weeknotes over here, but we did start writing them at the new office now, which should make up for something. Those live at &lt;a href=&#34;http://kantberlin.tumblr.com/&#34;&gt;http://kantberlin.tumblr.com/&lt;/a&gt; currently.&lt;/p&gt;
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title>Week 318</title>
-      <link>http://localhost:62818/dingen/dingen/2013/05/week-318/</link>
+      <link>http://localhost:1313/dingen/2013/05/week-318/</link>
       <pubDate>Wed, 08 May 2013 13:26:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4524</guid> 
       <description>&lt;p&gt;Unbelievable how many weeks behind I am on these. That&amp;rsquo;s not wholly intended, but the last couple of weeks have been a bit busier than usual. This was the week of April 15th which I spent mostly in Amsterdam.&lt;/p&gt;
@@ -38,7 +38,7 @@
     </item>
     <item>
       <title>Week 315</title>
-      <link>http://localhost:62818/dingen/dingen/2013/04/week-315/</link>
+      <link>http://localhost:1313/dingen/2013/04/week-315/</link>
       <pubDate>Sat, 06 Apr 2013 19:15:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4483</guid> 
       <description>&lt;p&gt;We&amp;rsquo;re in the middle of a big project, so pretty much everything is that right now. In between some small things happen, but we&amp;rsquo;re rather busy shipping right now.&lt;/p&gt;
@@ -49,7 +49,7 @@
     </item>
     <item>
       <title>Weeks 313-4</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/weeks-313-4/</link>
+      <link>http://localhost:1313/dingen/2013/03/weeks-313-4/</link>
       <pubDate>Mon, 25 Mar 2013 12:27:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4463</guid> 
       <description>&lt;p&gt;Two week notes in one because last week seems to have been too busy to write any.&lt;/p&gt;
@@ -60,14 +60,14 @@
     </item>
     <item>
       <title>Week 311</title>
-      <link>http://localhost:62818/dingen/dingen/2013/03/week-311/</link>
+      <link>http://localhost:1313/dingen/2013/03/week-311/</link>
       <pubDate>Tue, 05 Mar 2013 10:04:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4385</guid> 
       <description>&lt;p&gt;Last week we were on something of a tear continuously shipping things (it beats continuous integration). As Kars mentioned in &lt;a href=&#34;http://whatsthehubbub.nl/blog/2013/03/week-184/&#34;&gt;the Hubbub weeknotes&lt;/a&gt; I was featured in the rather shiny &lt;a href=&#34;http://thenextweb.com/magazine/&#34;&gt;TNW magazine&lt;/a&gt; about the subject of gamification. Much to my surprise this issue was filled with blabbering by Gabe Zichermann. It&amp;rsquo;s not only that we take issue with the way he approaches games, it looks like everything about the man is shameful. You can &lt;a href=&#34;http://slavin.tumblr.com/post/43893717103/futuristgerd-to-meet-these-needs-we-believe&#34;&gt;read unparalleled levels of douchebaggery over at Kevin Slavin&lt;/a&gt; and to my dismay even &lt;a href=&#34;http://gigaom.com/&#34;&gt;GigaOM&lt;/a&gt; ((I thought GigaOM was a spark of light in the cesspool of tech journalism but it turns out I was wrong.)) is complicit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 310</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/week-310/</link>
+      <link>http://localhost:1313/dingen/2013/02/week-310/</link>
       <pubDate>Mon, 25 Feb 2013 15:19:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4346</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://twitter.com/thornet/status/303586923719557122&#34;&gt;http://twitter.com/thornet/status/303586923719557122&lt;/a&gt;&lt;/p&gt;
@@ -79,21 +79,21 @@
     </item>
     <item>
       <title>Watersnake, a simple voting app</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/watersnake-a-simple-voting-app/</link>
+      <link>http://localhost:1313/dingen/2013/02/watersnake-a-simple-voting-app/</link>
       <pubDate>Sat, 16 Feb 2013 05:05:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4315</guid> 
       <description>&lt;p&gt;My small project during &lt;a href=&#34;http://janl.github.com/swhack-berlin/&#34;&gt;Swhack&lt;/a&gt; was to create a django version of a delegated voting system partially inspired by &lt;a href=&#34;http://liquidfeedback.org/&#34;&gt;Liquid Feedback&lt;/a&gt; and &lt;a href=&#34;http://wiki.piratenpartei.de/AG_Liquid_Feedback&#34;&gt;the manyfold problems that system&lt;/a&gt; has ((Among others: the atrocious user experience, the fact that it does not support anonymity, the impossibility of i18n.)). In particular that it is written on such an esoteric stack ((The core is a 4500 line pgsql file which is a solid way to deter outside involvement in a project.)) that it is near impossible to get running without root on a Linux machine and let&amp;rsquo;s not even discuss the maintenance. What is even worse is that it makes it nearly impossible for outsiders to join the project and contribute to it significantly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 307</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/week-307/</link>
+      <link>http://localhost:1313/dingen/2013/02/week-307/</link>
       <pubDate>Wed, 06 Feb 2013 08:09:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4254</guid> 
       <description>&lt;p&gt;Last Monday &lt;a href=&#34;http://uber.com/&#34;&gt;Uber&lt;/a&gt; had drinks here in Berlin and took a complimentary Uber there to chat with their Berlin team. The experience was extremely comfortable but given big city traffic it wasn&amp;rsquo;t very fast ((I could have done the same distance quicker by public transportation and even a well-trained runner may have beat the S Class Mercedes.)). In cities where the cab market is unreliable and corrupt I can definitely imagine the appeal of Uber. People working on transit apps should take note, this is the way it should work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swhack Berlin</title>
-      <link>http://localhost:62818/dingen/dingen/2013/02/swhack-berlin/</link>
+      <link>http://localhost:1313/dingen/2013/02/swhack-berlin/</link>
       <pubDate>Mon, 04 Feb 2013 10:07:31 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4253</guid> 
       <description>&lt;p&gt;So this Saturday &lt;a href=&#34;http://writing.jan.io/&#34;&gt;Jan Lehnardt&lt;/a&gt; and I are having &lt;a href=&#34;http://janl.github.com/swhack-berlin/&#34;&gt;a small hackathon here in Berlin&lt;/a&gt; in remembrance of Aaron Swartz and to in one small way continue doing the work that needs to be done on the internet, in government and especially where those two meet.&lt;/p&gt;

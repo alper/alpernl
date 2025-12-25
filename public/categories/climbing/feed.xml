@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Climbing on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/climbing/</link>
+    <link>http://localhost:1313/categories/climbing/</link>
     <description>Recent content in Climbing on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 04 Mar 2023 07:59:46 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/climbing/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/climbing/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/03/17097/</link>
+      <link>http://localhost:1313/dingen/2023/03/17097/</link>
       <pubDate>Sat, 04 Mar 2023 07:59:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17097</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been playing Breath of the Wild while I&amp;rsquo;m lying flat and my experience is identical to that of Craig here. All the way back to the gold cartridge I used to have for the NES as a kid.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>Year Note 2021</title>
-      <link>http://localhost:62818/dingen/dingen/2022/01/year-note-2021/</link>
+      <link>http://localhost:1313/dingen/2022/01/year-note-2021/</link>
       <pubDate>Mon, 10 Jan 2022 09:14:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16685</guid> 
       <description>&lt;blockquote&gt;

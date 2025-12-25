@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Poetry on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/poetry/</link>
+    <link>http://localhost:1313/categories/poetry/</link>
     <description>Recent content in Poetry on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 29 Oct 2024 18:03:02 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/poetry/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/poetry/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17639/</link>
+      <link>http://localhost:1313/dingen/2024/10/17639/</link>
       <pubDate>Tue, 29 Oct 2024 18:03:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17639</guid> 
       <description>&lt;blockquote&gt;
@@ -21,7 +21,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2020/05/16072/</link>
+      <link>http://localhost:1313/dingen/2020/05/16072/</link>
       <pubDate>Sun, 03 May 2020 22:38:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16072</guid> 
       <description>&lt;p&gt;Ming-era génocidaire Zhang Xian-zhong&lt;/p&gt;
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>The Role of the Middle-Aged White Man</title>
-      <link>http://localhost:62818/dingen/dingen/2019/09/the-role-of-the-middle-aged-white-man/</link>
+      <link>http://localhost:1313/dingen/2019/09/the-role-of-the-middle-aged-white-man/</link>
       <pubDate>Sun, 01 Sep 2019 19:14:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15657</guid> 
       <description>&lt;blockquote&gt;

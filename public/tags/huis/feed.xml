@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Huis on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/huis/</link>
+    <link>http://localhost:1313/tags/huis/</link>
     <description>Recent content in Huis on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 23 Apr 2008 16:23:24 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/huis/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/huis/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nieuwe Living</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/nieuwe-living/</link>
+      <link>http://localhost:1313/dingen/2008/04/nieuwe-living/</link>
       <pubDate>Wed, 23 Apr 2008 16:23:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/nieuwe-living/</guid> 
       <description>&lt;p&gt;Afgelopen weekend had ik het helemaal gehad. Vrijdag met Reinier naar de IKEA gereden en direct een hele woonkamer besteld. Zaterdag-namiddag werd deze thuis bezorgd ((Het is echt best sadistisch om bezorgers dingen bij mij thuis te laten bezorgen. De meeste weten zich geen raad met de eenrichtings pollers.)) na wat pogingen.&lt;/p&gt;
@@ -20,7 +20,7 @@
     </item>
     <item>
       <title>Slaapkamerraam</title>
-      <link>http://localhost:62818/dingen/dingen/2008/04/slaapkamerraam/</link>
+      <link>http://localhost:1313/dingen/2008/04/slaapkamerraam/</link>
       <pubDate>Sun, 06 Apr 2008 21:05:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/slaapkamerraam/</guid> 
       <description>&lt;p&gt;Mony attendeerde me op de laatste challenge van JPGMag, een foto genomen uit je slaapkamerraam.&lt;/p&gt;
@@ -31,14 +31,14 @@
     </item>
     <item>
       <title>Ruimte</title>
-      <link>http://localhost:62818/dingen/dingen/2008/02/ruimte/</link>
+      <link>http://localhost:1313/dingen/2008/02/ruimte/</link>
       <pubDate>Sun, 24 Feb 2008 16:03:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/ruimte/</guid> 
       <description>&lt;p&gt;Hoe tof zou het zijn als in Nederland de markt voor woon- en werkruimte een buyer&amp;rsquo;s market was?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Koele spullen</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/koele-spullen/</link>
+      <link>http://localhost:1313/dingen/2008/01/koele-spullen/</link>
       <pubDate>Sun, 20 Jan 2008 18:20:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/koele-spullen/</guid> 
       <description>&lt;p&gt;Vanochtend is mijn koelkast bezorgd.&lt;/p&gt;
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>Schilderwerk</title>
-      <link>http://localhost:62818/dingen/dingen/2008/01/schilderwerk/</link>
+      <link>http://localhost:1313/dingen/2008/01/schilderwerk/</link>
       <pubDate>Wed, 16 Jan 2008 10:22:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/schilderwerk/</guid> 
       <description>&lt;p&gt;Één van de laatste dingen die écht nog moest gebeuren was het schilderen van de slaapkamervloer. En omdat dat me zo leuk leek heb ik het heel erg lang uitgesteld ((Het beste voor het laatste bewaren, zeg maar.)).&lt;/p&gt;
@@ -57,7 +57,7 @@
     </item>
     <item>
       <title>Snijdende kou</title>
-      <link>http://localhost:62818/dingen/dingen/2007/12/snijdende-kou/</link>
+      <link>http://localhost:1313/dingen/2007/12/snijdende-kou/</link>
       <pubDate>Thu, 20 Dec 2007 07:25:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/snijdende-kou/</guid> 
       <description>&lt;p&gt;De laatste dagen is mijn huis niet warm te stoken. De verwarming loeit de hele dag op zijn hardst om het een beetje te harden te houden.
@@ -66,7 +66,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Bezoekadres</title>
-      <link>http://localhost:62818/dingen/dingen/2007/12/bezoekadres/</link>
+      <link>http://localhost:1313/dingen/2007/12/bezoekadres/</link>
       <pubDate>Wed, 19 Dec 2007 16:20:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/bezoekadres/</guid> 
       <description>&lt;p&gt;Zojuist weer bezoek gehad, en het is voor de mensen nog steeds moeilijk om mijn huis te vinden. Om dit probleem in de toekomst voor te zijn heb ik een Google Map gemaakt met daarin de locatie en bereikbaarheid van mijn huis:
@@ -76,7 +76,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Nieuwe Kerk</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/nieuwe-kerk/</link>
+      <link>http://localhost:1313/dingen/2007/11/nieuwe-kerk/</link>
       <pubDate>Sat, 24 Nov 2007 15:54:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/nieuwe-kerk/</guid> 
       <description>&lt;p&gt;Al dat gedoe over politiek, je zou er depressief van worden. Als afwisseling, dit is wat ik uit mijn raam zie:
@@ -84,7 +84,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Vroege vogels</title>
-      <link>http://localhost:62818/dingen/dingen/2007/11/vroege-vogels/</link>
+      <link>http://localhost:1313/dingen/2007/11/vroege-vogels/</link>
       <pubDate>Thu, 15 Nov 2007 12:22:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/vroege-vogels/</guid> 
       <description>&lt;p&gt;Vanochtend ben ik om 07:15 opgestaan om de vuilnis buiten te zetten. Hier in de binnenstad hebben we geen ondergrondse containers en alles is sowieso slecht bereikbaar. Het schijnt dat de vuilniswagen hem achterin de Vlouw steekt waar wij ons vuilnis neer moeten zetten ((En helaas geen foto&amp;rsquo;s misschien een andere keer.)).&lt;/p&gt;
@@ -92,7 +92,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Laminaat leggen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/laminaat-leggen/</link>
+      <link>http://localhost:1313/dingen/2007/10/laminaat-leggen/</link>
       <pubDate>Sun, 04 Nov 2007 05:32:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/laminaat-leggen/</guid> 
       <description>&lt;p&gt;Lamineren is gek genoeg niet het werkwoord voor laminaat leggen. Vandaag wat uurtjes besteed aan het en het schiet aardig op. De eindjes zijn klote ((Ik heb ontzettend scheve muren.)) maar daar tussenin gaat het heel vlot.&lt;/p&gt;
@@ -102,7 +102,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Schilderen</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/schilderen/</link>
+      <link>http://localhost:1313/dingen/2007/10/schilderen/</link>
       <pubDate>Wed, 24 Oct 2007 20:51:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/schilderen/</guid> 
       <description>&lt;p&gt;Vandaag het grootste deel van de dag besteed aan verfen in mijn nieuwe huis. Alles is nu gewit inclusief de imposante grote muur waarvan hieronder een filmpje:&lt;/p&gt;
@@ -111,7 +111,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Schilderen in kleur</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/schilderen-in-kleur/</link>
+      <link>http://localhost:1313/dingen/2007/10/schilderen-in-kleur/</link>
       <pubDate>Mon, 22 Oct 2007 21:14:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/schilderen-in-kleur/</guid> 
       <description>&lt;p&gt;Na al het grondwerk, vandaag me maar aan wat kleur gewaagd. Kleuren kiezen is lastig en dan met de laptop naar de GAMMA om de juiste tint te laten mengen zorgt toch wel voor verrassingen. Ik had uit Kuler het kleurpalet Firenze gekozen ((Handig die Flash-applicaties zonder permalinks.)). Bij de Gamma heten die kleuren poetisch genoeg: Kans en Verandering.&lt;/p&gt;
@@ -120,7 +120,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>ZurÃ¼ck aus Deutschland</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/zuruck-aus-deutschland/</link>
+      <link>http://localhost:1313/dingen/2007/10/zuruck-aus-deutschland/</link>
       <pubDate>Mon, 15 Oct 2007 15:08:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/zuruck-aus-deutschland/</guid> 
       <description>&lt;p&gt;Even twee dagen weg zijn en aan niks anders dan &lt;a href=&#34;http://www.expressaopaulista.com/DE/&#34;&gt;capoeira&lt;/a&gt; en andere Brazilianischen Sachen hoeven te denken is fijn. Nu nog even 1500 foto&amp;rsquo;s verwerken.&lt;/p&gt;
@@ -136,7 +136,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Sleuteloverdracht</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/sleuteloverdracht/</link>
+      <link>http://localhost:1313/dingen/2007/10/sleuteloverdracht/</link>
       <pubDate>Mon, 15 Oct 2007 14:47:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/sleuteloverdracht/</guid> 
       <description>&lt;p&gt;Vanmiddag een flinke stapel papier waaronder mijn huurcontract ondertekend en de sleutels van mijn nieuwe huis gekregen.&lt;/p&gt;
@@ -146,7 +146,7 @@ Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw 
     </item>
     <item>
       <title>Internet via het voormalige staatsbedrijf</title>
-      <link>http://localhost:62818/dingen/dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/</link>
+      <link>http://localhost:1313/dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/</link>
       <pubDate>Fri, 05 Oct 2007 13:56:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/</guid> 
       <description>&lt;p&gt;Ik ben bezig voor mijn nieuwe huis internettoegang te regelen en de opties die ik tot nu toe voorgeschoteld krijg, zijn allemaal niet bijzonder aantrekkelijk. Ik wil alleen internet en dat lijkt tot voornog niet mogelijk.&lt;/p&gt;

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Strategy on alper.nl</title>
-    <link>http://localhost:62818/dingen/categories/strategy/</link>
+    <link>http://localhost:1313/categories/strategy/</link>
     <description>Recent content in Strategy on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 22 Dec 2025 00:00:10 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/categories/strategy/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/strategy/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/12/18714/</link>
+      <link>http://localhost:1313/dingen/2025/12/18714/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:10 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18714</guid> 
       <description>&lt;p&gt;AI sales targets are down. Github Actions prices are going up. Most of their software is second tier at best. Microsoft is still, Microsoft.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/12/18462/</link>
+      <link>http://localhost:1313/dingen/2025/12/18462/</link>
       <pubDate>Sun, 21 Dec 2025 23:52:30 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18462</guid> 
       <description>&lt;blockquote&gt;
@@ -30,7 +30,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/03/18185/</link>
+      <link>http://localhost:1313/dingen/2025/03/18185/</link>
       <pubDate>Sat, 22 Mar 2025 20:54:29 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18185</guid> 
       <description>&lt;p&gt;I guess NVIDIA got lucky and ARM also got lucky and AMD also got lucky. Everybody got lucky except for Intel.&lt;/p&gt;
@@ -38,7 +38,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/02/18019/</link>
+      <link>http://localhost:1313/dingen/2025/02/18019/</link>
       <pubDate>Wed, 05 Feb 2025 23:13:16 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18019</guid> 
       <description>&lt;p&gt;This is a very good framework from Matt Webb for organizations how to do strategic pathfinding when it comes to AI. In Germany especially, lots of orgs would benefit from doing this instead of whatever it is that they are busy with right now.&lt;/p&gt;
@@ -46,7 +46,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2025/01/17919/</link>
+      <link>http://localhost:1313/dingen/2025/01/17919/</link>
       <pubDate>Tue, 14 Jan 2025 08:47:30 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17919</guid> 
       <description>&lt;p&gt;The two entities arguably most responsible for keeping Germany in the digital dark ages, the CSU and Telekom, have found each other.&lt;/p&gt;
@@ -54,7 +54,7 @@
     </item>
     <item>
       <title>Project Power</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/project-power/</link>
+      <link>http://localhost:1313/dingen/2024/11/project-power/</link>
       <pubDate>Mon, 11 Nov 2024 17:32:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17705</guid> 
       <description>&lt;p&gt;I think “Project-Power” from &lt;a href=&#34;https://adamtooze.substack.com/p/chartbook-296-project-power-hegemony?utm_source=publication-search&#34;&gt;this newsletter by Adam Tooze&lt;/a&gt; is going to be a useful concept going forward:&lt;/p&gt;
@@ -65,22 +65,22 @@
     </item>
     <item>
       <title>So long Ribbonfarm!</title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/so-long-ribbonfarm/</link>
+      <link>http://localhost:1313/dingen/2024/11/so-long-ribbonfarm/</link>
       <pubDate>Sun, 03 Nov 2024 22:06:16 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17683</guid> 
       <description>&lt;p&gt;Ribbonfarm retiring is another such ending in a time rife with them. I can&amp;rsquo;t overstate how influential it has been on my (our) thinking and practice. Tremendously impressive to think all of that was thought up by one person (who I still haven&amp;rsquo;t met).&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;d be impossible to summarise all the themes, intersections and other tidbits that &lt;a href=&#34;http://localhost:62818/dingen/?s=ribbonfarm&#34;&gt;I got out of Ribbonfarm&lt;/a&gt;. I can say how it begun: I was lying on the river-shore in Avignon in 2012 and I had a large part of the blog&amp;rsquo;s back catalog in my Instapaper and there I read the entire thing while listening to the crickets.&lt;/p&gt;</description>
+&lt;p&gt;It&amp;rsquo;d be impossible to summarise all the themes, intersections and other tidbits that &lt;a href=&#34;http://localhost:1313/dingen/?s=ribbonfarm&#34;&gt;I got out of Ribbonfarm&lt;/a&gt;. I can say how it begun: I was lying on the river-shore in Avignon in 2012 and I had a large part of the blog&amp;rsquo;s back catalog in my Instapaper and there I read the entire thing while listening to the crickets.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/11/17667/</link>
+      <link>http://localhost:1313/dingen/2024/11/17667/</link>
       <pubDate>Sun, 03 Nov 2024 17:35:53 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17667</guid> 
       <description>&lt;p&gt;GitHub Copilot is like every Microsoft product. Everybody uses it because it comes bundled in their company contract but nobody likes it.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17628/</link>
+      <link>http://localhost:1313/dingen/2024/10/17628/</link>
       <pubDate>Thu, 03 Oct 2024 10:57:56 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17628</guid> 
       <description>&lt;p&gt;As somebody working in platform for the past years, I&amp;rsquo;ve become very familiar with the different dimensions of this debate around productivity and John here unpacks the topic in a way that&amp;rsquo;s really useful. I used the nails analogy just yesterday.&lt;/p&gt;
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17608/</link>
+      <link>http://localhost:1313/dingen/2024/10/17608/</link>
       <pubDate>Thu, 03 Oct 2024 00:42:06 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17608</guid> 
       <description>&lt;p&gt;What this article says is true: The Fediverse is entirely inconsequential and you might as well pee into the wind as post on it. Nothing will happen.&lt;/p&gt;
@@ -97,7 +97,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/10/17606/</link>
+      <link>http://localhost:1313/dingen/2024/10/17606/</link>
       <pubDate>Thu, 03 Oct 2024 00:26:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17606</guid> 
       <description>&lt;p&gt;Trying for years to explain to people that Germany has almost zero &lt;a href=&#34;https://adamtooze.substack.com/p/chartbook-296-project-power-hegemony&#34;&gt;project power&lt;/a&gt; and is incapable of any progress and then suddenly &lt;a href=&#34;https://eu-acc.com&#34;&gt;a movement springs up&lt;/a&gt; that agrees entirely with that assessment.&lt;/p&gt;
@@ -105,7 +105,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/08/17570/</link>
+      <link>http://localhost:1313/dingen/2024/08/17570/</link>
       <pubDate>Tue, 06 Aug 2024 17:12:04 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17570</guid> 
       <description>&lt;p&gt;The thing that Bert is not getting here is that Gaia-X is meant to be a distraction and not much else (that &amp;ldquo;else&amp;rdquo; would be politically far too risky to act upon). That&amp;rsquo;s the way these kind of things work. Meanwhile Europe will remain without its own cloud.&lt;/p&gt;
@@ -113,7 +113,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/08/17568/</link>
+      <link>http://localhost:1313/dingen/2024/08/17568/</link>
       <pubDate>Tue, 06 Aug 2024 17:05:27 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17568</guid> 
       <description>&lt;p&gt;Logitech already has a forever mouse. No need for an MBA CEO to reinvent the wheel.&lt;/p&gt;
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/07/17554/</link>
+      <link>http://localhost:1313/dingen/2024/07/17554/</link>
       <pubDate>Sat, 20 Jul 2024 08:27:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17554</guid> 
       <description>&lt;p&gt;That popular open source package managers will at some point all get owned is so inevitable that it&amp;rsquo;s hardly worth mentioning.&lt;/p&gt;
@@ -130,7 +130,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/07/17550/</link>
+      <link>http://localhost:1313/dingen/2024/07/17550/</link>
       <pubDate>Sat, 20 Jul 2024 08:04:20 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17550</guid> 
       <description>&lt;p&gt;The end of free money has had a huge negative impact on open source. I agree with the author here, it would have been better to license everything under copy-left and see what happens.&lt;/p&gt;
@@ -138,7 +138,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/03/17515/</link>
+      <link>http://localhost:1313/dingen/2024/03/17515/</link>
       <pubDate>Sat, 16 Mar 2024 11:36:15 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17515</guid> 
       <description>&lt;p&gt;The Netherlands is facing similar problems where depressed salaries, lack of housing and rampant overt racism are making it difficult to attract digital talent from all over the world.&lt;/p&gt;
@@ -146,7 +146,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2024/02/17438/</link>
+      <link>http://localhost:1313/dingen/2024/02/17438/</link>
       <pubDate>Wed, 28 Feb 2024 12:40:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17438</guid> 
       <description>&lt;p&gt;As somebody who dove pretty deep into how to run a creative agency in a way that&amp;rsquo;s innovative and goes against the grain, I really like what Village One here in Berlin are doing with their cooperative approach.&lt;/p&gt;
@@ -155,7 +155,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/11/17321/</link>
+      <link>http://localhost:1313/dingen/2023/11/17321/</link>
       <pubDate>Tue, 21 Nov 2023 18:47:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17321</guid> 
       <description>&lt;p&gt;Last week I was making a presentation and I came across Deming and his principles. I have often gotten the question: &amp;ldquo;If you don&amp;rsquo;t measure X, then how will you know we&amp;rsquo;re doing well or improving?&amp;rdquo; which I always felt was misguided.&lt;/p&gt;
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/08/17259/</link>
+      <link>http://localhost:1313/dingen/2023/08/17259/</link>
       <pubDate>Wed, 23 Aug 2023 21:48:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17259</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s hard to believe that it&amp;rsquo;s going to cost €1.6B for Germany to hook up ChatGPT to their beloved fax machines.&lt;/p&gt;
@@ -172,7 +172,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/07/17219/</link>
+      <link>http://localhost:1313/dingen/2023/07/17219/</link>
       <pubDate>Tue, 18 Jul 2023 21:52:56 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17219</guid> 
       <description>&lt;p&gt;Doing the things listed here as a VP by Emily Nakashima sounds all nice and well (maybe fun even for some people), but the core deliverables of alignment and focus are the real test: both are impossibly hard to achieve and worth their weight in gold.&lt;/p&gt;
@@ -180,7 +180,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/17016/</link>
+      <link>http://localhost:1313/dingen/2023/02/17016/</link>
       <pubDate>Sat, 04 Feb 2023 11:06:40 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17016</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s understandable that organizations try to make their word legible and simplify things. In fact, it&amp;rsquo;s one of the reasons for the organizational boundary.&lt;/p&gt;
@@ -189,7 +189,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/02/17014/</link>
+      <link>http://localhost:1313/dingen/2023/02/17014/</link>
       <pubDate>Sat, 04 Feb 2023 09:59:51 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17014</guid> 
       <description>&lt;p&gt;A nice article about Box&amp;rsquo;s transformation and especially that chart contrasting burn v. growth is one of the most important things for any startup to keep in mind.&lt;/p&gt;
@@ -197,7 +197,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62818/dingen/dingen/2023/01/16974/</link>
+      <link>http://localhost:1313/dingen/2023/01/16974/</link>
       <pubDate>Tue, 24 Jan 2023 09:41:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16974</guid> 
       <description>&lt;p&gt;We&amp;rsquo;ve mapped our metrics and levers in Double Loop as a platform org and are now seeing this approach spread through the company.&lt;/p&gt;

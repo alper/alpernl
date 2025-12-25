@@ -2,1487 +2,1487 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on alper.nl</title>
-    <link>http://localhost:62818/dingen/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 25 Mar 2019 23:01:14 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62818/dingen/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jira</title>
-      <link>http://localhost:62818/dingen/tags/jira/</link>
+      <link>http://localhost:1313/tags/jira/</link>
       <pubDate>Mon, 25 Mar 2019 23:01:14 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/jira/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/jira/</guid> 
       <description></description>
     </item>
     <item>
       <title>Krant</title>
-      <link>http://localhost:62818/dingen/tags/krant/</link>
+      <link>http://localhost:1313/tags/krant/</link>
       <pubDate>Wed, 19 Apr 2017 11:58:38 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/krant/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/krant/</guid> 
       <description></description>
     </item>
     <item>
       <title>Politiek</title>
-      <link>http://localhost:62818/dingen/tags/politiek/</link>
+      <link>http://localhost:1313/tags/politiek/</link>
       <pubDate>Wed, 19 Apr 2017 11:58:38 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/politiek/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/politiek/</guid> 
       <description></description>
     </item>
     <item>
       <title>Televisie</title>
-      <link>http://localhost:62818/dingen/tags/televisie/</link>
+      <link>http://localhost:1313/tags/televisie/</link>
       <pubDate>Wed, 19 Apr 2017 11:58:38 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/televisie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/televisie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Weeknotes</title>
-      <link>http://localhost:62818/dingen/tags/weeknotes/</link>
+      <link>http://localhost:1313/tags/weeknotes/</link>
       <pubDate>Sun, 06 Oct 2013 12:16:04 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/weeknotes/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/weeknotes/</guid> 
       <description></description>
     </item>
     <item>
       <title>Recess!</title>
-      <link>http://localhost:62818/dingen/tags/recess/</link>
+      <link>http://localhost:1313/tags/recess/</link>
       <pubDate>Fri, 24 May 2013 20:15:48 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/recess/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/recess/</guid> 
       <description></description>
     </item>
     <item>
       <title>Nrcnext</title>
-      <link>http://localhost:62818/dingen/tags/nrcnext/</link>
+      <link>http://localhost:1313/tags/nrcnext/</link>
       <pubDate>Tue, 15 Jan 2013 07:43:11 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/nrcnext/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/nrcnext/</guid> 
       <description></description>
     </item>
     <item>
       <title>Arabisch</title>
-      <link>http://localhost:62818/dingen/tags/arabisch/</link>
+      <link>http://localhost:1313/tags/arabisch/</link>
       <pubDate>Fri, 24 Aug 2012 13:36:26 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/arabisch/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/arabisch/</guid> 
       <description></description>
     </item>
     <item>
       <title>Taal</title>
-      <link>http://localhost:62818/dingen/tags/taal/</link>
+      <link>http://localhost:1313/tags/taal/</link>
       <pubDate>Fri, 24 Aug 2012 13:36:26 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/taal/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/taal/</guid> 
       <description></description>
     </item>
     <item>
       <title>Cityjerk</title>
-      <link>http://localhost:62818/dingen/tags/cityjerk/</link>
+      <link>http://localhost:1313/tags/cityjerk/</link>
       <pubDate>Fri, 17 Aug 2012 12:43:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/cityjerk/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/cityjerk/</guid> 
       <description></description>
     </item>
     <item>
       <title>Amsterdam</title>
-      <link>http://localhost:62818/dingen/tags/amsterdam/</link>
+      <link>http://localhost:1313/tags/amsterdam/</link>
       <pubDate>Fri, 29 Jun 2012 16:32:51 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/amsterdam/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/amsterdam/</guid> 
       <description></description>
     </item>
     <item>
       <title>Fotografie</title>
-      <link>http://localhost:62818/dingen/tags/fotografie/</link>
+      <link>http://localhost:1313/tags/fotografie/</link>
       <pubDate>Fri, 29 Jun 2012 16:32:51 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/fotografie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/fotografie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>http://localhost:62818/dingen/tags/internet/</link>
+      <link>http://localhost:1313/tags/internet/</link>
       <pubDate>Wed, 04 Jan 2012 16:32:35 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/internet/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/internet/</guid> 
       <description></description>
     </item>
     <item>
       <title>Radio</title>
-      <link>http://localhost:62818/dingen/tags/radio/</link>
+      <link>http://localhost:1313/tags/radio/</link>
       <pubDate>Wed, 04 Jan 2012 16:32:35 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/radio/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/radio/</guid> 
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:62818/dingen/tags/html/</link>
+      <link>http://localhost:1313/tags/html/</link>
       <pubDate>Thu, 16 Jun 2011 21:59:45 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/html/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/html/</guid> 
       <description></description>
     </item>
     <item>
       <title>Boeken</title>
-      <link>http://localhost:62818/dingen/tags/boeken/</link>
+      <link>http://localhost:1313/tags/boeken/</link>
       <pubDate>Fri, 29 Apr 2011 10:31:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/boeken/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/boeken/</guid> 
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:62818/dingen/tags/books/</link>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Fri, 29 Apr 2011 10:31:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/books/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/books/</guid> 
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-      <link>http://localhost:62818/dingen/tags/reading/</link>
+      <link>http://localhost:1313/tags/reading/</link>
       <pubDate>Fri, 29 Apr 2011 10:31:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/reading/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/reading/</guid> 
       <description></description>
     </item>
     <item>
       <title>This-Happened</title>
-      <link>http://localhost:62818/dingen/tags/this-happened/</link>
+      <link>http://localhost:1313/tags/this-happened/</link>
       <pubDate>Tue, 30 Nov 2010 11:15:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/this-happened/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/this-happened/</guid> 
       <description></description>
     </item>
     <item>
       <title>Utrecht</title>
-      <link>http://localhost:62818/dingen/tags/utrecht/</link>
+      <link>http://localhost:1313/tags/utrecht/</link>
       <pubDate>Tue, 30 Nov 2010 11:15:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/utrecht/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/utrecht/</guid> 
       <description></description>
     </item>
     <item>
       <title>1dag1000donateurs</title>
-      <link>http://localhost:62818/dingen/tags/1dag1000donateurs/</link>
+      <link>http://localhost:1313/tags/1dag1000donateurs/</link>
       <pubDate>Fri, 22 Oct 2010 08:46:08 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/1dag1000donateurs/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/1dag1000donateurs/</guid> 
       <description></description>
     </item>
     <item>
       <title>Column</title>
-      <link>http://localhost:62818/dingen/tags/column/</link>
+      <link>http://localhost:1313/tags/column/</link>
       <pubDate>Mon, 09 Aug 2010 06:27:09 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/column/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/column/</guid> 
       <description></description>
     </item>
     <item>
       <title>Design-Directie</title>
-      <link>http://localhost:62818/dingen/tags/design-directie/</link>
+      <link>http://localhost:1313/tags/design-directie/</link>
       <pubDate>Mon, 09 Aug 2010 06:27:09 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/design-directie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/design-directie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Koken</title>
-      <link>http://localhost:62818/dingen/tags/koken/</link>
+      <link>http://localhost:1313/tags/koken/</link>
       <pubDate>Sat, 08 May 2010 17:05:04 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/koken/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/koken/</guid> 
       <description></description>
     </item>
     <item>
       <title>Winkelen</title>
-      <link>http://localhost:62818/dingen/tags/winkelen/</link>
+      <link>http://localhost:1313/tags/winkelen/</link>
       <pubDate>Sat, 08 May 2010 17:05:04 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/winkelen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/winkelen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Coworker.nl</title>
-      <link>http://localhost:62818/dingen/tags/coworker.nl/</link>
+      <link>http://localhost:1313/tags/coworker.nl/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/coworker.nl/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/coworker.nl/</guid> 
       <description></description>
     </item>
     <item>
       <title>Coworking</title>
-      <link>http://localhost:62818/dingen/tags/coworking/</link>
+      <link>http://localhost:1313/tags/coworking/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/coworking/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/coworking/</guid> 
       <description></description>
     </item>
     <item>
       <title>Freelance</title>
-      <link>http://localhost:62818/dingen/tags/freelance/</link>
+      <link>http://localhost:1313/tags/freelance/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/freelance/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/freelance/</guid> 
       <description></description>
     </item>
     <item>
       <title>Geodata</title>
-      <link>http://localhost:62818/dingen/tags/geodata/</link>
+      <link>http://localhost:1313/tags/geodata/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/geodata/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/geodata/</guid> 
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>http://localhost:62818/dingen/tags/google/</link>
+      <link>http://localhost:1313/tags/google/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/google/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/google/</guid> 
       <description></description>
     </item>
     <item>
       <title>Google-Map</title>
-      <link>http://localhost:62818/dingen/tags/google-map/</link>
+      <link>http://localhost:1313/tags/google-map/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/google-map/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/google-map/</guid> 
       <description></description>
     </item>
     <item>
       <title>Map</title>
-      <link>http://localhost:62818/dingen/tags/map/</link>
+      <link>http://localhost:1313/tags/map/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/map/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/map/</guid> 
       <description></description>
     </item>
     <item>
       <title>Noma</title>
-      <link>http://localhost:62818/dingen/tags/noma/</link>
+      <link>http://localhost:1313/tags/noma/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/noma/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/noma/</guid> 
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
-      <link>http://localhost:62818/dingen/tags/uncategorized/</link>
+      <link>http://localhost:1313/tags/uncategorized/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/uncategorized/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/uncategorized/</guid> 
       <description></description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>http://localhost:62818/dingen/tags/visualization/</link>
+      <link>http://localhost:1313/tags/visualization/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/visualization/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/visualization/</guid> 
       <description></description>
     </item>
     <item>
       <title>Webworker</title>
-      <link>http://localhost:62818/dingen/tags/webworker/</link>
+      <link>http://localhost:1313/tags/webworker/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/webworker/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/webworker/</guid> 
       <description></description>
     </item>
     <item>
       <title>Muziek</title>
-      <link>http://localhost:62818/dingen/tags/muziek/</link>
+      <link>http://localhost:1313/tags/muziek/</link>
       <pubDate>Tue, 21 Jul 2009 23:32:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/muziek/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/muziek/</guid> 
       <description></description>
     </item>
     <item>
       <title>Turkije</title>
-      <link>http://localhost:62818/dingen/tags/turkije/</link>
+      <link>http://localhost:1313/tags/turkije/</link>
       <pubDate>Tue, 21 Jul 2009 23:32:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/turkije/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/turkije/</guid> 
       <description></description>
     </item>
     <item>
       <title>Drinken</title>
-      <link>http://localhost:62818/dingen/tags/drinken/</link>
+      <link>http://localhost:1313/tags/drinken/</link>
       <pubDate>Tue, 19 May 2009 13:36:14 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/drinken/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/drinken/</guid> 
       <description></description>
     </item>
     <item>
       <title>Eten</title>
-      <link>http://localhost:62818/dingen/tags/eten/</link>
+      <link>http://localhost:1313/tags/eten/</link>
       <pubDate>Tue, 19 May 2009 13:36:14 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/eten/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/eten/</guid> 
       <description></description>
     </item>
     <item>
       <title>Thishappened-Utrecht-0209</title>
-      <link>http://localhost:62818/dingen/tags/thishappened-utrecht-0209/</link>
+      <link>http://localhost:1313/tags/thishappened-utrecht-0209/</link>
       <pubDate>Fri, 27 Feb 2009 12:56:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/thishappened-utrecht-0209/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/thishappened-utrecht-0209/</guid> 
       <description></description>
     </item>
     <item>
       <title>Thishappened-Utrecht-2</title>
-      <link>http://localhost:62818/dingen/tags/thishappened-utrecht-2/</link>
+      <link>http://localhost:1313/tags/thishappened-utrecht-2/</link>
       <pubDate>Fri, 27 Feb 2009 12:56:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/thishappened-utrecht-2/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/thishappened-utrecht-2/</guid> 
       <description></description>
     </item>
     <item>
       <title>Media</title>
-      <link>http://localhost:62818/dingen/tags/media/</link>
+      <link>http://localhost:1313/tags/media/</link>
       <pubDate>Sat, 21 Feb 2009 12:55:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/media/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/media/</guid> 
       <description></description>
     </item>
     <item>
       <title>Mobile</title>
-      <link>http://localhost:62818/dingen/tags/mobile/</link>
+      <link>http://localhost:1313/tags/mobile/</link>
       <pubDate>Sat, 21 Feb 2009 12:55:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/mobile/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/mobile/</guid> 
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:62818/dingen/tags/news/</link>
+      <link>http://localhost:1313/tags/news/</link>
       <pubDate>Sat, 21 Feb 2009 12:55:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/news/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/news/</guid> 
       <description></description>
     </item>
     <item>
       <title>Newspaper</title>
-      <link>http://localhost:62818/dingen/tags/newspaper/</link>
+      <link>http://localhost:1313/tags/newspaper/</link>
       <pubDate>Sat, 21 Feb 2009 12:55:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/newspaper/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/newspaper/</guid> 
       <description></description>
     </item>
     <item>
       <title>Ervaring</title>
-      <link>http://localhost:62818/dingen/tags/ervaring/</link>
+      <link>http://localhost:1313/tags/ervaring/</link>
       <pubDate>Wed, 11 Feb 2009 01:42:35 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/ervaring/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/ervaring/</guid> 
       <description></description>
     </item>
     <item>
       <title>Interactie</title>
-      <link>http://localhost:62818/dingen/tags/interactie/</link>
+      <link>http://localhost:1313/tags/interactie/</link>
       <pubDate>Wed, 11 Feb 2009 01:42:35 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/interactie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/interactie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Klantenervaring</title>
-      <link>http://localhost:62818/dingen/tags/klantenervaring/</link>
+      <link>http://localhost:1313/tags/klantenervaring/</link>
       <pubDate>Wed, 11 Feb 2009 01:42:35 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/klantenervaring/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/klantenervaring/</guid> 
       <description></description>
     </item>
     <item>
       <title>Koffie</title>
-      <link>http://localhost:62818/dingen/tags/koffie/</link>
+      <link>http://localhost:1313/tags/koffie/</link>
       <pubDate>Wed, 11 Feb 2009 01:42:35 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/koffie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/koffie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Ukgc09</title>
-      <link>http://localhost:62818/dingen/tags/ukgc09/</link>
+      <link>http://localhost:1313/tags/ukgc09/</link>
       <pubDate>Wed, 04 Feb 2009 20:23:38 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/ukgc09/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/ukgc09/</guid> 
       <description></description>
     </item>
     <item>
       <title>Api</title>
-      <link>http://localhost:62818/dingen/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/api/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/api/</guid> 
       <description></description>
     </item>
     <item>
       <title>Last.fm</title>
-      <link>http://localhost:62818/dingen/tags/last.fm/</link>
+      <link>http://localhost:1313/tags/last.fm/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/last.fm/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/last.fm/</guid> 
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:62818/dingen/tags/music/</link>
+      <link>http://localhost:1313/tags/music/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/music/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/music/</guid> 
       <description></description>
     </item>
     <item>
       <title>Player</title>
-      <link>http://localhost:62818/dingen/tags/player/</link>
+      <link>http://localhost:1313/tags/player/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/player/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/player/</guid> 
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:62818/dingen/tags/programming/</link>
+      <link>http://localhost:1313/tags/programming/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/programming/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/programming/</guid> 
       <description></description>
     </item>
     <item>
       <title>Video</title>
-      <link>http://localhost:62818/dingen/tags/video/</link>
+      <link>http://localhost:1313/tags/video/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/video/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/video/</guid> 
       <description></description>
     </item>
     <item>
       <title>Youtube</title>
-      <link>http://localhost:62818/dingen/tags/youtube/</link>
+      <link>http://localhost:1313/tags/youtube/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/youtube/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/youtube/</guid> 
       <description></description>
     </item>
     <item>
       <title>Auto</title>
-      <link>http://localhost:62818/dingen/tags/auto/</link>
+      <link>http://localhost:1313/tags/auto/</link>
       <pubDate>Mon, 10 Nov 2008 11:26:13 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/auto/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/auto/</guid> 
       <description></description>
     </item>
     <item>
       <title>Binnenstad</title>
-      <link>http://localhost:62818/dingen/tags/binnenstad/</link>
+      <link>http://localhost:1313/tags/binnenstad/</link>
       <pubDate>Mon, 10 Nov 2008 11:26:13 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/binnenstad/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/binnenstad/</guid> 
       <description></description>
     </item>
     <item>
       <title>Delft</title>
-      <link>http://localhost:62818/dingen/tags/delft/</link>
+      <link>http://localhost:1313/tags/delft/</link>
       <pubDate>Mon, 10 Nov 2008 11:26:13 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/delft/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/delft/</guid> 
       <description></description>
     </item>
     <item>
       <title>Parkeerbeleid</title>
-      <link>http://localhost:62818/dingen/tags/parkeerbeleid/</link>
+      <link>http://localhost:1313/tags/parkeerbeleid/</link>
       <pubDate>Mon, 10 Nov 2008 11:26:13 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/parkeerbeleid/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/parkeerbeleid/</guid> 
       <description></description>
     </item>
     <item>
       <title>Poller</title>
-      <link>http://localhost:62818/dingen/tags/poller/</link>
+      <link>http://localhost:1313/tags/poller/</link>
       <pubDate>Mon, 10 Nov 2008 11:26:13 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/poller/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/poller/</guid> 
       <description></description>
     </item>
     <item>
       <title>Json</title>
-      <link>http://localhost:62818/dingen/tags/json/</link>
+      <link>http://localhost:1313/tags/json/</link>
       <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/json/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/json/</guid> 
       <description></description>
     </item>
     <item>
       <title>Open-Data</title>
-      <link>http://localhost:62818/dingen/tags/open-data/</link>
+      <link>http://localhost:1313/tags/open-data/</link>
       <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/open-data/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/open-data/</guid> 
       <description></description>
     </item>
     <item>
       <title>Public-Transportation</title>
-      <link>http://localhost:62818/dingen/tags/public-transportation/</link>
+      <link>http://localhost:1313/tags/public-transportation/</link>
       <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/public-transportation/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/public-transportation/</guid> 
       <description></description>
     </item>
     <item>
       <title>Travel-Times</title>
-      <link>http://localhost:62818/dingen/tags/travel-times/</link>
+      <link>http://localhost:1313/tags/travel-times/</link>
       <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/travel-times/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/travel-times/</guid> 
       <description></description>
     </item>
     <item>
       <title>Civil-Liberty</title>
-      <link>http://localhost:62818/dingen/tags/civil-liberty/</link>
+      <link>http://localhost:1313/tags/civil-liberty/</link>
       <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/civil-liberty/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/civil-liberty/</guid> 
       <description></description>
     </item>
     <item>
       <title>Liberty</title>
-      <link>http://localhost:62818/dingen/tags/liberty/</link>
+      <link>http://localhost:1313/tags/liberty/</link>
       <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/liberty/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/liberty/</guid> 
       <description></description>
     </item>
     <item>
       <title>Search</title>
-      <link>http://localhost:62818/dingen/tags/search/</link>
+      <link>http://localhost:1313/tags/search/</link>
       <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/search/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/search/</guid> 
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>http://localhost:62818/dingen/tags/security/</link>
+      <link>http://localhost:1313/tags/security/</link>
       <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/security/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/security/</guid> 
       <description></description>
     </item>
     <item>
       <title>Terrorism</title>
-      <link>http://localhost:62818/dingen/tags/terrorism/</link>
+      <link>http://localhost:1313/tags/terrorism/</link>
       <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/terrorism/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/terrorism/</guid> 
       <description></description>
     </item>
     <item>
       <title>War-on-Terror</title>
-      <link>http://localhost:62818/dingen/tags/war-on-terror/</link>
+      <link>http://localhost:1313/tags/war-on-terror/</link>
       <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/war-on-terror/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/war-on-terror/</guid> 
       <description></description>
     </item>
     <item>
       <title>Camping</title>
-      <link>http://localhost:62818/dingen/tags/camping/</link>
+      <link>http://localhost:1313/tags/camping/</link>
       <pubDate>Wed, 20 Aug 2008 21:17:05 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/camping/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/camping/</guid> 
       <description></description>
     </item>
     <item>
       <title>Capoeira</title>
-      <link>http://localhost:62818/dingen/tags/capoeira/</link>
+      <link>http://localhost:1313/tags/capoeira/</link>
       <pubDate>Wed, 20 Aug 2008 21:17:05 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/capoeira/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/capoeira/</guid> 
       <description></description>
     </item>
     <item>
       <title>Photography</title>
-      <link>http://localhost:62818/dingen/tags/photography/</link>
+      <link>http://localhost:1313/tags/photography/</link>
       <pubDate>Wed, 20 Aug 2008 21:17:05 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/photography/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/photography/</guid> 
       <description></description>
     </item>
     <item>
       <title>Wapse</title>
-      <link>http://localhost:62818/dingen/tags/wapse/</link>
+      <link>http://localhost:1313/tags/wapse/</link>
       <pubDate>Wed, 20 Aug 2008 21:17:05 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/wapse/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/wapse/</guid> 
       <description></description>
     </item>
     <item>
       <title>120</title>
-      <link>http://localhost:62818/dingen/tags/120/</link>
+      <link>http://localhost:1313/tags/120/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/120/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/120/</guid> 
       <description></description>
     </item>
     <item>
       <title>Bulgaria</title>
-      <link>http://localhost:62818/dingen/tags/bulgaria/</link>
+      <link>http://localhost:1313/tags/bulgaria/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/bulgaria/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/bulgaria/</guid> 
       <description></description>
     </item>
     <item>
       <title>Movies</title>
-      <link>http://localhost:62818/dingen/tags/movies/</link>
+      <link>http://localhost:1313/tags/movies/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/movies/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/movies/</guid> 
       <description></description>
     </item>
     <item>
       <title>Sofia</title>
-      <link>http://localhost:62818/dingen/tags/sofia/</link>
+      <link>http://localhost:1313/tags/sofia/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/sofia/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/sofia/</guid> 
       <description></description>
     </item>
     <item>
       <title>Street</title>
-      <link>http://localhost:62818/dingen/tags/street/</link>
+      <link>http://localhost:1313/tags/street/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/street/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/street/</guid> 
       <description></description>
     </item>
     <item>
       <title>Street-Photography</title>
-      <link>http://localhost:62818/dingen/tags/street-photography/</link>
+      <link>http://localhost:1313/tags/street-photography/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/street-photography/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/street-photography/</guid> 
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:62818/dingen/tags/travel/</link>
+      <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/travel/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/travel/</guid> 
       <description></description>
     </item>
     <item>
       <title>Weekend</title>
-      <link>http://localhost:62818/dingen/tags/weekend/</link>
+      <link>http://localhost:1313/tags/weekend/</link>
       <pubDate>Tue, 19 Aug 2008 21:19:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/weekend/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/weekend/</guid> 
       <description></description>
     </item>
     <item>
       <title>Baklava</title>
-      <link>http://localhost:62818/dingen/tags/baklava/</link>
+      <link>http://localhost:1313/tags/baklava/</link>
       <pubDate>Thu, 31 Jul 2008 21:18:45 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/baklava/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/baklava/</guid> 
       <description></description>
     </item>
     <item>
       <title>Environment</title>
-      <link>http://localhost:62818/dingen/tags/environment/</link>
+      <link>http://localhost:1313/tags/environment/</link>
       <pubDate>Thu, 31 Jul 2008 21:18:45 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/environment/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/environment/</guid> 
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:62818/dingen/tags/food/</link>
+      <link>http://localhost:1313/tags/food/</link>
       <pubDate>Thu, 31 Jul 2008 21:18:45 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/food/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/food/</guid> 
       <description></description>
     </item>
     <item>
       <title>Kã¼nefe</title>
-      <link>http://localhost:62818/dingen/tags/k%C3%A3nefe/</link>
+      <link>http://localhost:1313/tags/k%C3%A3nefe/</link>
       <pubDate>Thu, 31 Jul 2008 21:18:45 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/k%C3%A3nefe/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/k%C3%A3nefe/</guid> 
       <description></description>
     </item>
     <item>
       <title>Campaign</title>
-      <link>http://localhost:62818/dingen/tags/campaign/</link>
+      <link>http://localhost:1313/tags/campaign/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/campaign/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/campaign/</guid> 
       <description></description>
     </item>
     <item>
       <title>Donations</title>
-      <link>http://localhost:62818/dingen/tags/donations/</link>
+      <link>http://localhost:1313/tags/donations/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/donations/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/donations/</guid> 
       <description></description>
     </item>
     <item>
       <title>Ecb</title>
-      <link>http://localhost:62818/dingen/tags/ecb/</link>
+      <link>http://localhost:1313/tags/ecb/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/ecb/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/ecb/</guid> 
       <description></description>
     </item>
     <item>
       <title>Elections</title>
-      <link>http://localhost:62818/dingen/tags/elections/</link>
+      <link>http://localhost:1313/tags/elections/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/elections/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/elections/</guid> 
       <description></description>
     </item>
     <item>
       <title>Europe</title>
-      <link>http://localhost:62818/dingen/tags/europe/</link>
+      <link>http://localhost:1313/tags/europe/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/europe/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/europe/</guid> 
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:62818/dingen/tags/finance/</link>
+      <link>http://localhost:1313/tags/finance/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/finance/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/finance/</guid> 
       <description></description>
     </item>
     <item>
       <title>Indecision-2008</title>
-      <link>http://localhost:62818/dingen/tags/indecision-2008/</link>
+      <link>http://localhost:1313/tags/indecision-2008/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/indecision-2008/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/indecision-2008/</guid> 
       <description></description>
     </item>
     <item>
       <title>Obama</title>
-      <link>http://localhost:62818/dingen/tags/obama/</link>
+      <link>http://localhost:1313/tags/obama/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/obama/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/obama/</guid> 
       <description></description>
     </item>
     <item>
       <title>Trichet</title>
-      <link>http://localhost:62818/dingen/tags/trichet/</link>
+      <link>http://localhost:1313/tags/trichet/</link>
       <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/trichet/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/trichet/</guid> 
       <description></description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://localhost:62818/dingen/tags/design/</link>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Wed, 30 Jul 2008 11:32:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/design/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/design/</guid> 
       <description></description>
     </item>
     <item>
       <title>Draplin</title>
-      <link>http://localhost:62818/dingen/tags/draplin/</link>
+      <link>http://localhost:1313/tags/draplin/</link>
       <pubDate>Wed, 30 Jul 2008 11:32:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/draplin/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/draplin/</guid> 
       <description></description>
     </item>
     <item>
       <title>Graphic</title>
-      <link>http://localhost:62818/dingen/tags/graphic/</link>
+      <link>http://localhost:1313/tags/graphic/</link>
       <pubDate>Wed, 30 Jul 2008 11:32:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/graphic/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/graphic/</guid> 
       <description></description>
     </item>
     <item>
       <title>France</title>
-      <link>http://localhost:62818/dingen/tags/france/</link>
+      <link>http://localhost:1313/tags/france/</link>
       <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/france/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/france/</guid> 
       <description></description>
     </item>
     <item>
       <title>Holiday</title>
-      <link>http://localhost:62818/dingen/tags/holiday/</link>
+      <link>http://localhost:1313/tags/holiday/</link>
       <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/holiday/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/holiday/</guid> 
       <description></description>
     </item>
     <item>
       <title>Iphone</title>
-      <link>http://localhost:62818/dingen/tags/iphone/</link>
+      <link>http://localhost:1313/tags/iphone/</link>
       <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/iphone/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/iphone/</guid> 
       <description></description>
     </item>
     <item>
       <title>Surfing</title>
-      <link>http://localhost:62818/dingen/tags/surfing/</link>
+      <link>http://localhost:1313/tags/surfing/</link>
       <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/surfing/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/surfing/</guid> 
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-      <link>http://localhost:62818/dingen/tags/conference/</link>
+      <link>http://localhost:1313/tags/conference/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/conference/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/conference/</guid> 
       <description></description>
     </item>
     <item>
       <title>Copenhagen</title>
-      <link>http://localhost:62818/dingen/tags/copenhagen/</link>
+      <link>http://localhost:1313/tags/copenhagen/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/copenhagen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/copenhagen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Reboot</title>
-      <link>http://localhost:62818/dingen/tags/reboot/</link>
+      <link>http://localhost:1313/tags/reboot/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/reboot/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/reboot/</guid> 
       <description></description>
     </item>
     <item>
       <title>Reboot10</title>
-      <link>http://localhost:62818/dingen/tags/reboot10/</link>
+      <link>http://localhost:1313/tags/reboot10/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/reboot10/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/reboot10/</guid> 
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:62818/dingen/tags/technology/</link>
+      <link>http://localhost:1313/tags/technology/</link>
       <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/technology/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/technology/</guid> 
       <description></description>
     </item>
     <item>
       <title>Btw</title>
-      <link>http://localhost:62818/dingen/tags/btw/</link>
+      <link>http://localhost:1313/tags/btw/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/btw/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/btw/</guid> 
       <description></description>
     </item>
     <item>
       <title>Death</title>
-      <link>http://localhost:62818/dingen/tags/death/</link>
+      <link>http://localhost:1313/tags/death/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/death/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/death/</guid> 
       <description></description>
     </item>
     <item>
       <title>Economy</title>
-      <link>http://localhost:62818/dingen/tags/economy/</link>
+      <link>http://localhost:1313/tags/economy/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/economy/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/economy/</guid> 
       <description></description>
     </item>
     <item>
       <title>Politics</title>
-      <link>http://localhost:62818/dingen/tags/politics/</link>
+      <link>http://localhost:1313/tags/politics/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/politics/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/politics/</guid> 
       <description></description>
     </item>
     <item>
       <title>Society</title>
-      <link>http://localhost:62818/dingen/tags/society/</link>
+      <link>http://localhost:1313/tags/society/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/society/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/society/</guid> 
       <description></description>
     </item>
     <item>
       <title>Taxes</title>
-      <link>http://localhost:62818/dingen/tags/taxes/</link>
+      <link>http://localhost:1313/tags/taxes/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/taxes/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/taxes/</guid> 
       <description></description>
     </item>
     <item>
       <title>Vat</title>
-      <link>http://localhost:62818/dingen/tags/vat/</link>
+      <link>http://localhost:1313/tags/vat/</link>
       <pubDate>Fri, 20 Jun 2008 00:44:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/vat/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/vat/</guid> 
       <description></description>
     </item>
     <item>
       <title>Gis</title>
-      <link>http://localhost:62818/dingen/tags/gis/</link>
+      <link>http://localhost:1313/tags/gis/</link>
       <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/gis/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/gis/</guid> 
       <description></description>
     </item>
     <item>
       <title>Google-Earth</title>
-      <link>http://localhost:62818/dingen/tags/google-earth/</link>
+      <link>http://localhost:1313/tags/google-earth/</link>
       <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/google-earth/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/google-earth/</guid> 
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>http://localhost:62818/dingen/tags/workshop/</link>
+      <link>http://localhost:1313/tags/workshop/</link>
       <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/workshop/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/workshop/</guid> 
       <description></description>
     </item>
     <item>
       <title>Barbecue</title>
-      <link>http://localhost:62818/dingen/tags/barbecue/</link>
+      <link>http://localhost:1313/tags/barbecue/</link>
       <pubDate>Wed, 11 Jun 2008 06:53:52 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/barbecue/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/barbecue/</guid> 
       <description></description>
     </item>
     <item>
       <title>Group</title>
-      <link>http://localhost:62818/dingen/tags/group/</link>
+      <link>http://localhost:1313/tags/group/</link>
       <pubDate>Wed, 11 Jun 2008 06:53:52 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/group/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/group/</guid> 
       <description></description>
     </item>
     <item>
       <title>Scheveningen</title>
-      <link>http://localhost:62818/dingen/tags/scheveningen/</link>
+      <link>http://localhost:1313/tags/scheveningen/</link>
       <pubDate>Tue, 10 Jun 2008 07:12:04 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/scheveningen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/scheveningen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Surf</title>
-      <link>http://localhost:62818/dingen/tags/surf/</link>
+      <link>http://localhost:1313/tags/surf/</link>
       <pubDate>Tue, 10 Jun 2008 07:12:04 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/surf/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/surf/</guid> 
       <description></description>
     </item>
     <item>
       <title>Apple</title>
-      <link>http://localhost:62818/dingen/tags/apple/</link>
+      <link>http://localhost:1313/tags/apple/</link>
       <pubDate>Mon, 09 Jun 2008 23:08:40 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/apple/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/apple/</guid> 
       <description></description>
     </item>
     <item>
       <title>Ec</title>
-      <link>http://localhost:62818/dingen/tags/ec/</link>
+      <link>http://localhost:1313/tags/ec/</link>
       <pubDate>Mon, 09 Jun 2008 23:08:40 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/ec/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/ec/</guid> 
       <description></description>
     </item>
     <item>
       <title>Orange</title>
-      <link>http://localhost:62818/dingen/tags/orange/</link>
+      <link>http://localhost:1313/tags/orange/</link>
       <pubDate>Mon, 09 Jun 2008 23:08:40 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/orange/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/orange/</guid> 
       <description></description>
     </item>
     <item>
       <title>T-Mobile</title>
-      <link>http://localhost:62818/dingen/tags/t-mobile/</link>
+      <link>http://localhost:1313/tags/t-mobile/</link>
       <pubDate>Mon, 09 Jun 2008 23:08:40 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/t-mobile/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/t-mobile/</guid> 
       <description></description>
     </item>
     <item>
       <title>Liberdade</title>
-      <link>http://localhost:62818/dingen/tags/liberdade/</link>
+      <link>http://localhost:1313/tags/liberdade/</link>
       <pubDate>Mon, 09 Jun 2008 07:20:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/liberdade/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/liberdade/</guid> 
       <description></description>
     </item>
     <item>
       <title>Portrait</title>
-      <link>http://localhost:62818/dingen/tags/portrait/</link>
+      <link>http://localhost:1313/tags/portrait/</link>
       <pubDate>Mon, 09 Jun 2008 07:20:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/portrait/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/portrait/</guid> 
       <description></description>
     </item>
     <item>
       <title>Theatre</title>
-      <link>http://localhost:62818/dingen/tags/theatre/</link>
+      <link>http://localhost:1313/tags/theatre/</link>
       <pubDate>Sun, 08 Jun 2008 15:35:08 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/theatre/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/theatre/</guid> 
       <description></description>
     </item>
     <item>
       <title>Geekyoto</title>
-      <link>http://localhost:62818/dingen/tags/geekyoto/</link>
+      <link>http://localhost:1313/tags/geekyoto/</link>
       <pubDate>Sun, 25 May 2008 20:58:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/geekyoto/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/geekyoto/</guid> 
       <description></description>
     </item>
     <item>
       <title>Milieu</title>
-      <link>http://localhost:62818/dingen/tags/milieu/</link>
+      <link>http://localhost:1313/tags/milieu/</link>
       <pubDate>Sun, 25 May 2008 20:58:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/milieu/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/milieu/</guid> 
       <description></description>
     </item>
     <item>
       <title>Brand</title>
-      <link>http://localhost:62818/dingen/tags/brand/</link>
+      <link>http://localhost:1313/tags/brand/</link>
       <pubDate>Mon, 19 May 2008 09:27:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/brand/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/brand/</guid> 
       <description></description>
     </item>
     <item>
       <title>Perceptie</title>
-      <link>http://localhost:62818/dingen/tags/perceptie/</link>
+      <link>http://localhost:1313/tags/perceptie/</link>
       <pubDate>Mon, 19 May 2008 09:27:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/perceptie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/perceptie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Risico</title>
-      <link>http://localhost:62818/dingen/tags/risico/</link>
+      <link>http://localhost:1313/tags/risico/</link>
       <pubDate>Mon, 19 May 2008 09:27:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/risico/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/risico/</guid> 
       <description></description>
     </item>
     <item>
       <title>Terrorisme</title>
-      <link>http://localhost:62818/dingen/tags/terrorisme/</link>
+      <link>http://localhost:1313/tags/terrorisme/</link>
       <pubDate>Mon, 19 May 2008 09:27:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/terrorisme/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/terrorisme/</guid> 
       <description></description>
     </item>
     <item>
       <title>Tudelft</title>
-      <link>http://localhost:62818/dingen/tags/tudelft/</link>
+      <link>http://localhost:1313/tags/tudelft/</link>
       <pubDate>Mon, 19 May 2008 09:27:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/tudelft/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/tudelft/</guid> 
       <description></description>
     </item>
     <item>
       <title>Universiteit</title>
-      <link>http://localhost:62818/dingen/tags/universiteit/</link>
+      <link>http://localhost:1313/tags/universiteit/</link>
       <pubDate>Mon, 19 May 2008 09:27:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/universiteit/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/universiteit/</guid> 
       <description></description>
     </item>
     <item>
       <title>Architecture</title>
-      <link>http://localhost:62818/dingen/tags/architecture/</link>
+      <link>http://localhost:1313/tags/architecture/</link>
       <pubDate>Wed, 14 May 2008 11:23:24 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/architecture/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/architecture/</guid> 
       <description></description>
     </item>
     <item>
       <title>Dut</title>
-      <link>http://localhost:62818/dingen/tags/dut/</link>
+      <link>http://localhost:1313/tags/dut/</link>
       <pubDate>Wed, 14 May 2008 11:23:24 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/dut/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/dut/</guid> 
       <description></description>
     </item>
     <item>
       <title>Fire</title>
-      <link>http://localhost:62818/dingen/tags/fire/</link>
+      <link>http://localhost:1313/tags/fire/</link>
       <pubDate>Wed, 14 May 2008 11:23:24 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/fire/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/fire/</guid> 
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>http://localhost:62818/dingen/tags/culture/</link>
+      <link>http://localhost:1313/tags/culture/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/culture/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/culture/</guid> 
       <description></description>
     </item>
     <item>
       <title>Curiousity</title>
-      <link>http://localhost:62818/dingen/tags/curiousity/</link>
+      <link>http://localhost:1313/tags/curiousity/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/curiousity/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/curiousity/</guid> 
       <description></description>
     </item>
     <item>
       <title>Knowledge</title>
-      <link>http://localhost:62818/dingen/tags/knowledge/</link>
+      <link>http://localhost:1313/tags/knowledge/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/knowledge/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/knowledge/</guid> 
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>http://localhost:62818/dingen/tags/teaching/</link>
+      <link>http://localhost:1313/tags/teaching/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/teaching/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/teaching/</guid> 
       <description></description>
     </item>
     <item>
       <title>Werken</title>
-      <link>http://localhost:62818/dingen/tags/werken/</link>
+      <link>http://localhost:1313/tags/werken/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/werken/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/werken/</guid> 
       <description></description>
     </item>
     <item>
       <title>Broadband</title>
-      <link>http://localhost:62818/dingen/tags/broadband/</link>
+      <link>http://localhost:1313/tags/broadband/</link>
       <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/broadband/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/broadband/</guid> 
       <description></description>
     </item>
     <item>
       <title>Net-Neutrality</title>
-      <link>http://localhost:62818/dingen/tags/net-neutrality/</link>
+      <link>http://localhost:1313/tags/net-neutrality/</link>
       <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/net-neutrality/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/net-neutrality/</guid> 
       <description></description>
     </item>
     <item>
       <title>Open</title>
-      <link>http://localhost:62818/dingen/tags/open/</link>
+      <link>http://localhost:1313/tags/open/</link>
       <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/open/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/open/</guid> 
       <description></description>
     </item>
     <item>
       <title>Wifi</title>
-      <link>http://localhost:62818/dingen/tags/wifi/</link>
+      <link>http://localhost:1313/tags/wifi/</link>
       <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/wifi/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/wifi/</guid> 
       <description></description>
     </item>
     <item>
       <title>Wireless</title>
-      <link>http://localhost:62818/dingen/tags/wireless/</link>
+      <link>http://localhost:1313/tags/wireless/</link>
       <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/wireless/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/wireless/</guid> 
       <description></description>
     </item>
     <item>
       <title>Cultuur</title>
-      <link>http://localhost:62818/dingen/tags/cultuur/</link>
+      <link>http://localhost:1313/tags/cultuur/</link>
       <pubDate>Thu, 08 May 2008 15:26:34 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/cultuur/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/cultuur/</guid> 
       <description></description>
     </item>
     <item>
       <title>Ghetto</title>
-      <link>http://localhost:62818/dingen/tags/ghetto/</link>
+      <link>http://localhost:1313/tags/ghetto/</link>
       <pubDate>Thu, 08 May 2008 15:26:34 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/ghetto/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/ghetto/</guid> 
       <description></description>
     </item>
     <item>
       <title>Violence</title>
-      <link>http://localhost:62818/dingen/tags/violence/</link>
+      <link>http://localhost:1313/tags/violence/</link>
       <pubDate>Thu, 08 May 2008 15:26:34 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/violence/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/violence/</guid> 
       <description></description>
     </item>
     <item>
       <title>Afghanistan</title>
-      <link>http://localhost:62818/dingen/tags/afghanistan/</link>
+      <link>http://localhost:1313/tags/afghanistan/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/afghanistan/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/afghanistan/</guid> 
       <description></description>
     </item>
     <item>
       <title>Arnold-Karskens</title>
-      <link>http://localhost:62818/dingen/tags/arnold-karskens/</link>
+      <link>http://localhost:1313/tags/arnold-karskens/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/arnold-karskens/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/arnold-karskens/</guid> 
       <description></description>
     </item>
     <item>
       <title>Journalism</title>
-      <link>http://localhost:62818/dingen/tags/journalism/</link>
+      <link>http://localhost:1313/tags/journalism/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/journalism/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/journalism/</guid> 
       <description></description>
     </item>
     <item>
       <title>Lecture</title>
-      <link>http://localhost:62818/dingen/tags/lecture/</link>
+      <link>http://localhost:1313/tags/lecture/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/lecture/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/lecture/</guid> 
       <description></description>
     </item>
     <item>
       <title>Oorlogsverslaggeving</title>
-      <link>http://localhost:62818/dingen/tags/oorlogsverslaggeving/</link>
+      <link>http://localhost:1313/tags/oorlogsverslaggeving/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/oorlogsverslaggeving/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/oorlogsverslaggeving/</guid> 
       <description></description>
     </item>
     <item>
       <title>Overheid</title>
-      <link>http://localhost:62818/dingen/tags/overheid/</link>
+      <link>http://localhost:1313/tags/overheid/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/overheid/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/overheid/</guid> 
       <description></description>
     </item>
     <item>
       <title>Reporting</title>
-      <link>http://localhost:62818/dingen/tags/reporting/</link>
+      <link>http://localhost:1313/tags/reporting/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/reporting/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/reporting/</guid> 
       <description></description>
     </item>
     <item>
       <title>Taliban</title>
-      <link>http://localhost:62818/dingen/tags/taliban/</link>
+      <link>http://localhost:1313/tags/taliban/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/taliban/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/taliban/</guid> 
       <description></description>
     </item>
     <item>
       <title>War</title>
-      <link>http://localhost:62818/dingen/tags/war/</link>
+      <link>http://localhost:1313/tags/war/</link>
       <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/war/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/war/</guid> 
       <description></description>
     </item>
     <item>
       <title>Journalistiek</title>
-      <link>http://localhost:62818/dingen/tags/journalistiek/</link>
+      <link>http://localhost:1313/tags/journalistiek/</link>
       <pubDate>Thu, 24 Apr 2008 16:15:44 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/journalistiek/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/journalistiek/</guid> 
       <description></description>
     </item>
     <item>
       <title>Huis</title>
-      <link>http://localhost:62818/dingen/tags/huis/</link>
+      <link>http://localhost:1313/tags/huis/</link>
       <pubDate>Wed, 23 Apr 2008 16:23:24 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/huis/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/huis/</guid> 
       <description></description>
     </item>
     <item>
       <title>Leven</title>
-      <link>http://localhost:62818/dingen/tags/leven/</link>
+      <link>http://localhost:1313/tags/leven/</link>
       <pubDate>Thu, 17 Apr 2008 12:25:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/leven/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/leven/</guid> 
       <description></description>
     </item>
     <item>
       <title>Reizen</title>
-      <link>http://localhost:62818/dingen/tags/reizen/</link>
+      <link>http://localhost:1313/tags/reizen/</link>
       <pubDate>Sun, 06 Apr 2008 21:05:51 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/reizen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/reizen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Ondernemen</title>
-      <link>http://localhost:62818/dingen/tags/ondernemen/</link>
+      <link>http://localhost:1313/tags/ondernemen/</link>
       <pubDate>Sun, 30 Mar 2008 16:09:05 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/ondernemen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/ondernemen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Amerika</title>
-      <link>http://localhost:62818/dingen/tags/amerika/</link>
+      <link>http://localhost:1313/tags/amerika/</link>
       <pubDate>Wed, 26 Mar 2008 15:00:21 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/amerika/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/amerika/</guid> 
       <description></description>
     </item>
     <item>
       <title>Verkiezingen</title>
-      <link>http://localhost:62818/dingen/tags/verkiezingen/</link>
+      <link>http://localhost:1313/tags/verkiezingen/</link>
       <pubDate>Wed, 26 Mar 2008 15:00:21 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/verkiezingen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/verkiezingen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Zelfstandig</title>
-      <link>http://localhost:62818/dingen/tags/zelfstandig/</link>
+      <link>http://localhost:1313/tags/zelfstandig/</link>
       <pubDate>Sun, 23 Mar 2008 17:45:38 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/zelfstandig/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/zelfstandig/</guid> 
       <description></description>
     </item>
     <item>
       <title>Computers</title>
-      <link>http://localhost:62818/dingen/tags/computers/</link>
+      <link>http://localhost:1313/tags/computers/</link>
       <pubDate>Fri, 14 Mar 2008 12:06:09 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/computers/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/computers/</guid> 
       <description></description>
     </item>
     <item>
       <title>Midden-Oosten</title>
-      <link>http://localhost:62818/dingen/tags/midden-oosten/</link>
+      <link>http://localhost:1313/tags/midden-oosten/</link>
       <pubDate>Wed, 12 Mar 2008 22:03:16 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/midden-oosten/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/midden-oosten/</guid> 
       <description></description>
     </item>
     <item>
       <title>Oorlog</title>
-      <link>http://localhost:62818/dingen/tags/oorlog/</link>
+      <link>http://localhost:1313/tags/oorlog/</link>
       <pubDate>Wed, 12 Mar 2008 22:03:16 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/oorlog/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/oorlog/</guid> 
       <description></description>
     </item>
     <item>
       <title>Feest</title>
-      <link>http://localhost:62818/dingen/tags/feest/</link>
+      <link>http://localhost:1313/tags/feest/</link>
       <pubDate>Mon, 03 Mar 2008 16:43:20 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/feest/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/feest/</guid> 
       <description></description>
     </item>
     <item>
       <title>Economie</title>
-      <link>http://localhost:62818/dingen/tags/economie/</link>
+      <link>http://localhost:1313/tags/economie/</link>
       <pubDate>Thu, 21 Feb 2008 11:36:36 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/economie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/economie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Sport</title>
-      <link>http://localhost:62818/dingen/tags/sport/</link>
+      <link>http://localhost:1313/tags/sport/</link>
       <pubDate>Wed, 20 Feb 2008 11:20:38 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/sport/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/sport/</guid> 
       <description></description>
     </item>
     <item>
       <title>Openbaar-Vervoer</title>
-      <link>http://localhost:62818/dingen/tags/openbaar-vervoer/</link>
+      <link>http://localhost:1313/tags/openbaar-vervoer/</link>
       <pubDate>Thu, 14 Feb 2008 15:15:32 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/openbaar-vervoer/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/openbaar-vervoer/</guid> 
       <description></description>
     </item>
     <item>
       <title>Burgerrechten</title>
-      <link>http://localhost:62818/dingen/tags/burgerrechten/</link>
+      <link>http://localhost:1313/tags/burgerrechten/</link>
       <pubDate>Tue, 05 Feb 2008 00:24:54 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/burgerrechten/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/burgerrechten/</guid> 
       <description></description>
     </item>
     <item>
       <title>Informatie</title>
-      <link>http://localhost:62818/dingen/tags/informatie/</link>
+      <link>http://localhost:1313/tags/informatie/</link>
       <pubDate>Sun, 03 Feb 2008 21:46:48 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/informatie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/informatie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Berlijn</title>
-      <link>http://localhost:62818/dingen/tags/berlijn/</link>
+      <link>http://localhost:1313/tags/berlijn/</link>
       <pubDate>Wed, 23 Jan 2008 02:09:33 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/berlijn/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/berlijn/</guid> 
       <description></description>
     </item>
     <item>
       <title>Copyright</title>
-      <link>http://localhost:62818/dingen/tags/copyright/</link>
+      <link>http://localhost:1313/tags/copyright/</link>
       <pubDate>Wed, 23 Jan 2008 00:35:37 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/copyright/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/copyright/</guid> 
       <description></description>
     </item>
     <item>
       <title>Leren</title>
-      <link>http://localhost:62818/dingen/tags/leren/</link>
+      <link>http://localhost:1313/tags/leren/</link>
       <pubDate>Tue, 08 Jan 2008 11:39:02 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/leren/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/leren/</guid> 
       <description></description>
     </item>
     <item>
       <title>Trein</title>
-      <link>http://localhost:62818/dingen/tags/trein/</link>
+      <link>http://localhost:1313/tags/trein/</link>
       <pubDate>Mon, 24 Dec 2007 14:08:30 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/trein/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/trein/</guid> 
       <description></description>
     </item>
     <item>
       <title>Eelke-Dekker</title>
-      <link>http://localhost:62818/dingen/tags/eelke-dekker/</link>
+      <link>http://localhost:1313/tags/eelke-dekker/</link>
       <pubDate>Sat, 22 Dec 2007 23:54:28 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/eelke-dekker/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/eelke-dekker/</guid> 
       <description></description>
     </item>
     <item>
       <title>Waarheid</title>
-      <link>http://localhost:62818/dingen/tags/waarheid/</link>
+      <link>http://localhost:1313/tags/waarheid/</link>
       <pubDate>Sun, 16 Dec 2007 00:25:46 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/waarheid/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/waarheid/</guid> 
       <description></description>
     </item>
     <item>
       <title>Huishoudelijk</title>
-      <link>http://localhost:62818/dingen/tags/huishoudelijk/</link>
+      <link>http://localhost:1313/tags/huishoudelijk/</link>
       <pubDate>Wed, 12 Dec 2007 20:17:08 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/huishoudelijk/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/huishoudelijk/</guid> 
       <description></description>
     </item>
     <item>
       <title>Religie</title>
-      <link>http://localhost:62818/dingen/tags/religie/</link>
+      <link>http://localhost:1313/tags/religie/</link>
       <pubDate>Thu, 25 Oct 2007 20:54:18 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/religie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/religie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Evenement</title>
-      <link>http://localhost:62818/dingen/tags/evenement/</link>
+      <link>http://localhost:1313/tags/evenement/</link>
       <pubDate>Sun, 21 Oct 2007 19:36:49 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/evenement/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/evenement/</guid> 
       <description></description>
     </item>
     <item>
       <title>Zomerreis-2007</title>
-      <link>http://localhost:62818/dingen/tags/zomerreis-2007/</link>
+      <link>http://localhost:1313/tags/zomerreis-2007/</link>
       <pubDate>Sun, 21 Oct 2007 02:49:25 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/zomerreis-2007/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/zomerreis-2007/</guid> 
       <description></description>
     </item>
     <item>
       <title>Afstuderen</title>
-      <link>http://localhost:62818/dingen/tags/afstuderen/</link>
+      <link>http://localhost:1313/tags/afstuderen/</link>
       <pubDate>Tue, 16 Oct 2007 20:02:15 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/afstuderen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/afstuderen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Filosofie</title>
-      <link>http://localhost:62818/dingen/tags/filosofie/</link>
+      <link>http://localhost:1313/tags/filosofie/</link>
       <pubDate>Sun, 30 Sep 2007 22:22:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/filosofie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/filosofie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Karl-Popper</title>
-      <link>http://localhost:62818/dingen/tags/karl-popper/</link>
+      <link>http://localhost:1313/tags/karl-popper/</link>
       <pubDate>Sun, 30 Sep 2007 22:22:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/karl-popper/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/karl-popper/</guid> 
       <description></description>
     </item>
     <item>
       <title>Tu-Delft</title>
-      <link>http://localhost:62818/dingen/tags/tu-delft/</link>
+      <link>http://localhost:1313/tags/tu-delft/</link>
       <pubDate>Sun, 30 Sep 2007 03:27:04 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/tu-delft/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/tu-delft/</guid> 
       <description></description>
     </item>
     <item>
       <title>Corruptie</title>
-      <link>http://localhost:62818/dingen/tags/corruptie/</link>
+      <link>http://localhost:1313/tags/corruptie/</link>
       <pubDate>Fri, 28 Sep 2007 10:27:13 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/corruptie/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/corruptie/</guid> 
       <description></description>
     </item>
     <item>
       <title>Kunst</title>
-      <link>http://localhost:62818/dingen/tags/kunst/</link>
+      <link>http://localhost:1313/tags/kunst/</link>
       <pubDate>Sun, 23 Sep 2007 23:53:59 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/kunst/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/kunst/</guid> 
       <description></description>
     </item>
     <item>
       <title>Geschiedenis</title>
-      <link>http://localhost:62818/dingen/tags/geschiedenis/</link>
+      <link>http://localhost:1313/tags/geschiedenis/</link>
       <pubDate>Fri, 21 Sep 2007 17:45:40 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/geschiedenis/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/geschiedenis/</guid> 
       <description></description>
     </item>
     <item>
       <title>Time-Lapse</title>
-      <link>http://localhost:62818/dingen/tags/time-lapse/</link>
+      <link>http://localhost:1313/tags/time-lapse/</link>
       <pubDate>Fri, 21 Sep 2007 17:45:40 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/time-lapse/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/time-lapse/</guid> 
       <description></description>
     </item>
     <item>
       <title>Humor</title>
-      <link>http://localhost:62818/dingen/tags/humor/</link>
+      <link>http://localhost:1313/tags/humor/</link>
       <pubDate>Mon, 03 Sep 2007 20:02:10 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/humor/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/humor/</guid> 
       <description></description>
     </item>
     <item>
       <title>Mobiel</title>
-      <link>http://localhost:62818/dingen/tags/mobiel/</link>
+      <link>http://localhost:1313/tags/mobiel/</link>
       <pubDate>Wed, 01 Aug 2007 14:33:26 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/mobiel/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/mobiel/</guid> 
       <description></description>
     </item>
     <item>
       <title>Usability</title>
-      <link>http://localhost:62818/dingen/tags/usability/</link>
+      <link>http://localhost:1313/tags/usability/</link>
       <pubDate>Mon, 23 Jul 2007 22:22:23 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/usability/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/usability/</guid> 
       <description></description>
     </item>
     <item>
       <title>Strand</title>
-      <link>http://localhost:62818/dingen/tags/strand/</link>
+      <link>http://localhost:1313/tags/strand/</link>
       <pubDate>Sun, 22 Jul 2007 19:56:09 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/strand/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/strand/</guid> 
       <description></description>
     </item>
     <item>
       <title>Surfen</title>
-      <link>http://localhost:62818/dingen/tags/surfen/</link>
+      <link>http://localhost:1313/tags/surfen/</link>
       <pubDate>Sun, 22 Jul 2007 19:56:09 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/surfen/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/surfen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Gent</title>
-      <link>http://localhost:62818/dingen/tags/gent/</link>
+      <link>http://localhost:1313/tags/gent/</link>
       <pubDate>Sat, 14 Jul 2007 20:13:19 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/gent/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/gent/</guid> 
       <description></description>
     </item>
     <item>
       <title>Gadget</title>
-      <link>http://localhost:62818/dingen/tags/gadget/</link>
+      <link>http://localhost:1313/tags/gadget/</link>
       <pubDate>Sun, 17 Jun 2007 16:39:49 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/gadget/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/gadget/</guid> 
       <description></description>
     </item>
     <item>
       <title>Recept</title>
-      <link>http://localhost:62818/dingen/tags/recept/</link>
+      <link>http://localhost:1313/tags/recept/</link>
       <pubDate>Sat, 09 Jun 2007 21:35:09 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/recept/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/recept/</guid> 
       <description></description>
     </item>
     <item>
       <title>Macbook</title>
-      <link>http://localhost:62818/dingen/tags/macbook/</link>
+      <link>http://localhost:1313/tags/macbook/</link>
       <pubDate>Sat, 19 May 2007 20:44:18 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/macbook/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/macbook/</guid> 
       <description></description>
     </item>
     <item>
       <title>Spanje</title>
-      <link>http://localhost:62818/dingen/tags/spanje/</link>
+      <link>http://localhost:1313/tags/spanje/</link>
       <pubDate>Thu, 26 Apr 2007 16:40:31 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/spanje/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/spanje/</guid> 
       <description></description>
     </item>
     <item>
       <title>Museum</title>
-      <link>http://localhost:62818/dingen/tags/museum/</link>
+      <link>http://localhost:1313/tags/museum/</link>
       <pubDate>Sun, 22 Apr 2007 12:50:54 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/museum/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/museum/</guid> 
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:62818/dingen/tags/blog/</link>
+      <link>http://localhost:1313/tags/blog/</link>
       <pubDate>Thu, 19 Apr 2007 00:01:17 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:62818/dingen/tags/blog/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/tags/blog/</guid> 
       <description></description>
     </item>
   </channel>
