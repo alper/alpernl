@@ -12,7 +12,7 @@ parent_post_id: null
 post_id: "2229"
 tags:
   - 1dag1000donateurs
-title: 1 Dag â€” 1000 Donateurs
+title: 1 Dag — 1000 Donateurs
 aliases:
   - /dingen/2010/10/1-dag-1000-donateurs/
 

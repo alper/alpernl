@@ -20,7 +20,7 @@ tags:
   - reporting
   - taliban
   - war
-title: "â€œI am not in the business of being liked.â€\x9D"
+title: "“I am not in the business of being liked.â€\x9D"
 aliases:
   - /dingen/2008/05/“i-am-not-in-the-business-of-being-liked”/
 

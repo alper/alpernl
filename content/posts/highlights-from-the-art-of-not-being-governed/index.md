@@ -134,7 +134,7 @@ aliases:
 
 > Most of the deadly epidemic diseases from which we suffer—smallpox, flu, tuberculosis, plague, measles, and cholera—are zoonotic diseases that have evolved from domesticated animals.
 
-> State-resistant space was therefore not a place on the map but a position vis-Ã -vis power;
+> State-resistant space was therefore not a place on the map but a position vis-à-vis power;
 
 > A complete accounting of state-resistant places would have as many pages devoted to low, wet places—marshes, swamps, fens, bogs, moors, deltas, mangrove coasts, and complex waterways and archipelagoes—as to high mountain redoubts.
 
@@ -172,7 +172,7 @@ aliases:
 
 > then, by the same token, the absence of writing and texts provides a freedom of maneuver in history, genealogy, and legibility that frustrates state routines.
 
-> Such legends are, like ethnic identity itself, a strategic positioning vis-Ã -vis other groups. We have every reason to imagine that such legends, like ethnic identity, will be adjusted if the circumstances shift appreciably.
+> Such legends are, like ethnic identity itself, a strategic positioning vis-à-vis other groups. We have every reason to imagine that such legends, like ethnic identity, will be adjusted if the circumstances shift appreciably.
 
 > Second, those who were literate in the script of the lowland state would have almost certainly have been elites whose bicultural skills fitted them best to become allies and administrators of the lowland state and, if they so chose, to take the path of assimilation.
 
@@ -196,7 +196,7 @@ aliases:
 
 > Such powerful identities are, in this respect, no less fictitious and constructed than most national identities in the modern world.
 
-> The perspective adopted and elaborated here is a radical constructionist one: that ethnic identities in the hills are politically crafted and designed to position a group vis-Ã -vis others in competition for power and resources. In a world crowded with other actors, most of whom, like modern states, are more powerful than they, their freedom of invention is severely constricted. They craft identities, but not in circumstances of their own choosing, to paraphrase Marx.
+> The perspective adopted and elaborated here is a radical constructionist one: that ethnic identities in the hills are politically crafted and designed to position a group vis-à-vis others in competition for power and resources. In a world crowded with other actors, most of whom, like modern states, are more powerful than they, their freedom of invention is severely constricted. They craft identities, but not in circumstances of their own choosing, to paraphrase Marx.
 
 > But what is novel and noteworthy for most of this long history in the hills is that ethnic and tribal identities have been put to the service not merely of autonomy but of statelessness.
 
@@ -216,7 +216,7 @@ aliases:
 
 > Peoples whose vernacular order was egalitarian lacked the institutional handles by which they could be governed. Those institutions would have to be provided, if necessary, by force.
 
-> In Batavia, the Dutch discerned, according to their preconception, a Chinese minority. This mixed group did not consider itself Chinese; its boundaries merged seamlessly with those of other Batavians, with whom they freely intermarried. Once the Dutch discerned this ethnicity, however, they institutionalized their administrative fiction. They set about territorializing the “Chinese”quarter, selected “Chinese”officials, set up local courts for customary Chinese law as they saw it, instituted Chinese schools, and in general made sure that all those falling within this classification approached the colonial regime as Batavian “Chinese.”What began as something of a figment of the Dutch imperial imagination took on real sociological substance through the traffic patterns of institutions. And voilÃ !—after sixty years or so there was indeed a self-conscious Chinese community.
+> In Batavia, the Dutch discerned, according to their preconception, a Chinese minority. This mixed group did not consider itself Chinese; its boundaries merged seamlessly with those of other Batavians, with whom they freely intermarried. Once the Dutch discerned this ethnicity, however, they institutionalized their administrative fiction. They set about territorializing the “Chinese”quarter, selected “Chinese”officials, set up local courts for customary Chinese law as they saw it, instituted Chinese schools, and in general made sure that all those falling within this classification approached the colonial regime as Batavian “Chinese.”What began as something of a figment of the Dutch imperial imagination took on real sociological substance through the traffic patterns of institutions. And voilà!—after sixty years or so there was indeed a self-conscious Chinese community.
 
 > The point is that once created, an institutional identity acquires its own history. The longer and deeper this history is, the more it will resemble the mythmaking and forgetting of nationalism. Over time such an identity, however fabricated its origin, will take on essentialist features and may well inspire passionate loyalty.
 
@@ -254,7 +254,7 @@ aliases:
 
 > In periods of dynastic consolidation, peace, and buoyant trade, Skinner explains, the local community opens and adapts to the opportunities these conditions afford. Economic specialization, trade, and administrative and political links flourish as the community takes advantage of the opportunities in the wider world. By contrast, in periods of dynastic collapse, economic depression, and civil strife and banditry, the local community withdraws increasingly into its own shell as a self-protective measure. The withdrawal was patterned, according to Skinner: first a normative withdrawal, then an economic closure, and, finally, a defensive military closure. Specialists and traders returned home, economic specialization diminished, the local food supply was guarded, outsiders were expelled, crop-watching societies were formed, stockades built, and local militias created.
 
-> Such adjustments can take place along one or several dimensions not easily available to the core peasantry. The first of these dimensions is location; the higher and more remote their dwelling, the farther they generally are from state centers, slave raids, and taxes. A second dimension is scale and dispersal; the smaller and more dispersed their settlements the less tempting a target they represent for raiders and states. Finally, they can and do modulate their subsistence techniques, each of which embodies a position vis-Ã -vis states, hierarchy, and political incorporation.
+> Such adjustments can take place along one or several dimensions not easily available to the core peasantry. The first of these dimensions is location; the higher and more remote their dwelling, the farther they generally are from state centers, slave raids, and taxes. A second dimension is scale and dispersal; the smaller and more dispersed their settlements the less tempting a target they represent for raiders and states. Finally, they can and do modulate their subsistence techniques, each of which embodies a position vis-à-vis states, hierarchy, and political incorporation.
 
 > What is most striking here, of course, is how closely the ideal of a civilized landscape and demography coincides with a landscape and demography most suitable for state-making and how closely a landscape unsuitable for state appropriation, as well as the people who inhabit it, is understood as uncivilized and barbaric.
 

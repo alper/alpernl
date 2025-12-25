@@ -11,7 +11,7 @@ date: "2016-06-07T16:28:00+00:00"
 guid: http://alper.nl/dingen/?p=5581
 parent_post_id: null
 post_id: "5581"
-title: "New book â€œDesigning Conversational Interfacesâ€\x9D"
+title: "New book “Designing Conversational Interfacesâ€\x9D"
 aliases:
   - /dingen/2016/06/writing-a-book-on-conversational-interfaces/
 

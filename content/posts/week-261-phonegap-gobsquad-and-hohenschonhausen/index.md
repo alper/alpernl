@@ -11,7 +11,7 @@ parent_post_id: null
 post_id: "3433"
 tags:
   - weeknotes
-title: 'Week 261: Phonegap, Gobsquad and HohenschÃ¶nhausen'
+title: 'Week 261: Phonegap, Gobsquad and Hohenschönhausen'
 aliases:
   - /dingen/2012/03/week-261-phonegap-gobsquad-and-hohenschonhausen/
 

@@ -10,7 +10,7 @@ date: "2015-03-26T00:24:20+00:00"
 guid: http://alper.nl/dingen/?p=5167
 parent_post_id: null
 post_id: "5167"
-title: Session of the traffic commission of the Berlin borough of NeukÃ¶lln
+title: Session of the traffic commission of the Berlin borough of Neukölln
 aliases:
   - /dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/
 

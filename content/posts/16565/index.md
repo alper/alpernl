@@ -1,7 +1,7 @@
 ---
 _last_editor_used_jetpack: block-editor
 _oembed_242c921a95973d0ded014cbd36c421f5: '{{unknown}}'
-_oembed_a37531ba12a9e729b5f100ad10e375ca: '<blockquote class="wp-embedded-content" data-secret="xFKbptB66o"><a href="https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/">GitHubâ€™s Engineering Team has moved to Codespaces</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;GitHubâ€™s Engineering Team has moved to Codespaces&#8221; &#8212; The GitHub Blog" src="https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/embed/#?secret=xFKbptB66o" data-secret="xFKbptB66o" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
+_oembed_a37531ba12a9e729b5f100ad10e375ca: '<blockquote class="wp-embedded-content" data-secret="xFKbptB66o"><a href="https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/">GitHub’s Engineering Team has moved to Codespaces</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;GitHub’s Engineering Team has moved to Codespaces&#8221; &#8212; The GitHub Blog" src="https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/embed/#?secret=xFKbptB66o" data-secret="xFKbptB66o" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
 _oembed_time_a37531ba12a9e729b5f100ad10e375ca: "1629489741"
 _wpas_done_all: "1"
 author: alper

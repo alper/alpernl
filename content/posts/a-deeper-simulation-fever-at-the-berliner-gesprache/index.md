@@ -10,7 +10,7 @@ date: "2012-02-14T16:07:16+00:00"
 guid: http://alper.nl/dingen/?p=3318
 parent_post_id: null
 post_id: "3318"
-title: A deeper simulation fever (at the Berliner GesprÃ¤che)
+title: A deeper simulation fever (at the Berliner Gespräche)
 aliases:
   - /dingen/2012/02/a-deeper-simulation-fever-at-the-berliner-gesprache/
 

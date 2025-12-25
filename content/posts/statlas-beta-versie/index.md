@@ -11,7 +11,7 @@ date: "2011-06-28T21:45:06+00:00"
 guid: http://alper.nl/dingen/?p=2684
 parent_post_id: null
 post_id: "2684"
-title: Statlas, bÃ¨ta versie
+title: Statlas, bèta versie
 aliases:
   - /dingen/2011/06/statlas-beta-versie/
 

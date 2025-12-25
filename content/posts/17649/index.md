@@ -40,24 +40,24 @@ Maybe there would have been a clean automatic way to convert the data, but I fel
 
 Then I just ran queries to fix all the mismatches:
 
-Ã¼ → ü  
+ü → ü  
 Ãœ → Ü  
-Ã© → é  
+é → é  
 Ã‰ → É  
-ÄŸ → ğ  
-Ã‡ → Ç  
+ğ → ğ  
+Ç → Ç  
 etc.
 
 Luckily in almost all cases the wrong coded string is unique and can simply be replaced with the right character.
 
 Check if a string is in the column:  
-`SELECT post_content from wp_posts where post_content LIKE BINARY '%Ã‡%' and post_status='publish'`
+`SELECT post_content from wp_posts where post_content LIKE BINARY '%Ç%' and post_status='publish'`
 
 Later on check for specific characters and their environment in what can be very long post bodies:  
 `SELECT SUBSTRING(post_content, LOCATE('Ã', post_content)-15, 40), post_content from wp_posts where post_content LIKE BINARY '%Ã%' and post_status='publish'`
 
 Replace the wrong string sequence with the correct character:  
-`UPDATE wp_posts SET post_content = REPLACE(post_content, 'Ã‡', 'Ç') WHERE INSTR(post_content, 'Ã‡') > 0`
+`UPDATE wp_posts SET post_content = REPLACE(post_content, 'Ç', 'Ç') WHERE INSTR(post_content, 'Ç') > 0`
 
 After some hours of auditing and pounding SQL most of the things should be fixed and whatever's left I can live with.
 

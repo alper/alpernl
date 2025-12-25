@@ -12,7 +12,7 @@ post_id: "281"
 tags:
   - leven
   - werken
-title: RÃ©sumÃ© de la semaine
+title: Résumé de la semaine
 aliases:
   - /dingen/2008/04/resume-de-la-semaine/
 

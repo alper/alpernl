@@ -1,6 +1,6 @@
 ---
 _oembed_42eee211357619896088909380d621ed: '{{unknown}}'
-_oembed_e7b2b35f8c8803dd75e140ee68589299: "<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Tbh I see this as scope aggression on behalf of â€œdesignâ€\x9D. When â€œdesignâ€\x9D means any important problem to be solved then it loses cohesion as an industry and practice. Few of the people I know with designer in their title are the right people to tackle the challenges you mention.</p>&mdash; we should still abolish ICE (@MargoDunlap) <a href=\"https://twitter.com/MargoDunlap/status/1094073270910046209?ref_src=twsrc%5Etfw\">February 9, 2019</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+_oembed_e7b2b35f8c8803dd75e140ee68589299: "<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Tbh I see this as scope aggression on behalf of “designâ€\x9D. When “designâ€\x9D means any important problem to be solved then it loses cohesion as an industry and practice. Few of the people I know with designer in their title are the right people to tackle the challenges you mention.</p>&mdash; we should still abolish ICE (@MargoDunlap) <a href=\"https://twitter.com/MargoDunlap/status/1094073270910046209?ref_src=twsrc%5Etfw\">February 9, 2019</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
 _oembed_time_e7b2b35f8c8803dd75e140ee68589299: "1558901509"
 _wpas_done_all: "1"
 author: alper

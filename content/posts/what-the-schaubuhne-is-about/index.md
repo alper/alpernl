@@ -8,7 +8,7 @@ date: "2012-04-12T08:10:43+00:00"
 guid: http://alper.nl/dingen/?p=3420
 parent_post_id: null
 post_id: "3420"
-title: What the SchaubÃ¼hne is about
+title: What the Schaubühne is about
 aliases:
   - /dingen/2012/04/what-the-schaubuhne-is-about/
 

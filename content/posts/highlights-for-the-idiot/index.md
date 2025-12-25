@@ -25,7 +25,7 @@ aliases:
 
 > How would I get anywhere in life? How could anyone ever be interested in me?
 
-> But I couldn’t stop thinking about á and Ã —about Europe, where even the alphabet emitted exuberant sparks—about Ivan’s mother’s Mazda, and how you were always sad when you left Rome.
+> But I couldn’t stop thinking about á and à—about Europe, where even the alphabet emitted exuberant sparks—about Ivan’s mother’s Mazda, and how you were always sad when you left Rome.
 
 > “You really like this boy,”she said, sounding so sad and affectionate that tears came to my eyes.
 

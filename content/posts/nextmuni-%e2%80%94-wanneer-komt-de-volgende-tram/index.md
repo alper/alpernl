@@ -10,7 +10,7 @@ date: "2009-12-21T11:24:49+00:00"
 guid: http://alper.nl/dingen/?p=1428
 parent_post_id: null
 post_id: "1428"
-title: NextMuni â€” Wanneer komt de volgende tram?
+title: NextMuni — Wanneer komt de volgende tram?
 aliases:
   - /dingen/2009/12/nextmuni-—-wanneer-komt-de-volgende-tram/
 

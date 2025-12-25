@@ -11,7 +11,7 @@ date: "2010-06-22T07:04:24+00:00"
 guid: http://alper.nl/dingen/?p=1889
 parent_post_id: null
 post_id: "1889"
-title: "Check in / Check Out, Case by Case â€” Case 0001, â€œPasjes en poortjesâ€\x9D"
+title: "Check in / Check Out, Case by Case — Case 0001, “Pasjes en poortjesâ€\x9D"
 aliases:
   - /dingen/2010/06/check-in-check-out-case-by-case-—-case-0001-“pasjes-en-poortjes”/
 

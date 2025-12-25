@@ -10,7 +10,7 @@ date: "2010-06-15T13:40:56+00:00"
 guid: http://alper.nl/dingen/?p=1838
 parent_post_id: null
 post_id: "1838"
-title: Online campagnes â€” Canvassen voor de PvdA
+title: Online campagnes — Canvassen voor de PvdA
 aliases:
   - /dingen/2010/06/online-campagnes-—-canvassen-voor-de-pvda/
 

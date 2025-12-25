@@ -10,7 +10,7 @@ date: "2016-05-01T16:58:41+00:00"
 guid: http://alper.nl/dingen/?p=5567
 parent_post_id: null
 post_id: "5567"
-title: Why KÃ¤the Kollwitz is one of Germany's most important figurative artists
+title: Why Käthe Kollwitz is one of Germany's most important figurative artists
 aliases:
   - /dingen/2016/05/kathe-kollwitz-museum-berlin/
 

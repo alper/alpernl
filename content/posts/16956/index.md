@@ -15,7 +15,7 @@ aliases:
   - /dingen/2023/01/16956/
 
 ---
-A great and opinionated list of what healthy teams do by HÃ  Phan:
+A great and opinionated list of what healthy teams do by Hà Phan:
 
 - design how they work together
 - have good research habits

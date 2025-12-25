@@ -8,7 +8,7 @@ date: "2014-02-19T09:18:56+00:00"
 guid: http://alper.nl/dingen/?p=4889
 parent_post_id: null
 post_id: "4889"
-title: Cuntstar nÃ© Congstar
+title: Cuntstar né Congstar
 aliases:
   - /dingen/2014/02/cuntstar-ne-congstar/
 

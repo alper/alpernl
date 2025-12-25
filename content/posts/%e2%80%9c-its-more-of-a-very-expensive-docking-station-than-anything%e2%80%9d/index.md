@@ -9,7 +9,7 @@ date: "2010-06-23T13:36:06+00:00"
 guid: http://alper.nl/dingen/?p=1905
 parent_post_id: null
 post_id: "1905"
-title: "â€œit's more of a very expensive docking station than anythingâ€\x9D"
+title: "“it's more of a very expensive docking station than anythingâ€\x9D"
 aliases:
   - /dingen/2010/06/“-its-more-of-a-very-expensive-docking-station-than-anything”/
 

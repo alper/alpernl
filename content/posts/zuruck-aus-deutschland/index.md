@@ -10,7 +10,7 @@ post_id: "159"
 tags:
   - huis
   - leven
-title: ZurÃ¼ck aus Deutschland
+title: Zurück aus Deutschland
 aliases:
   - /dingen/2007/10/zuruck-aus-deutschland/
 

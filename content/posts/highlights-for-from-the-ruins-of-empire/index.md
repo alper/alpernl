@@ -69,7 +69,7 @@ aliases:
 
 > More drastic, and popular, revolutions from below were needed; and they needed to shatter the bases as well as the superstructures of oppression.
 
-> A generation of educated Japanese, some exposed to Western societies, came to occupy powerful positions in the Meiji Restoration. They recognized the futility of unfocused xenophobia, shrewdly analysed their own weaknesses vis-Ã -vis the West as scientific and technical backwardness, and urgently set about organizing Japan into a modern nation-state.
+> A generation of educated Japanese, some exposed to Western societies, came to occupy powerful positions in the Meiji Restoration. They recognized the futility of unfocused xenophobia, shrewdly analysed their own weaknesses vis-à-vis the West as scientific and technical backwardness, and urgently set about organizing Japan into a modern nation-state.
 
 > The brisk rout of Chinese naval and land forces not only resoundingly proved the sturdiness of Japan’s military and its industrial and infrastructural base. It also showed that, as SohÅ put it, ‘civilization is not a monopoly of the white man’.
 

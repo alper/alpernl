@@ -8,7 +8,7 @@ date: "2010-02-25T00:14:24+00:00"
 guid: http://alper.nl/dingen/?p=1582
 parent_post_id: null
 post_id: "1582"
-title: 'This Happened #5 â€” Brief Impressions'
+title: 'This Happened #5 — Brief Impressions'
 aliases:
   - /dingen/2010/02/this-happened-5-—-brief-impressions/
 
