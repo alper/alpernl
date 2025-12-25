@@ -1,6 +1,4 @@
 ---
-_oembed_4a24eda26689a7b61ff0232b1ef3ceba: '{{unknown}}'
-_oembed_8752fc09ce9e3f09eb863cbc11f234fe: '{{unknown}}'
 author: alper
 categories:
   - internet

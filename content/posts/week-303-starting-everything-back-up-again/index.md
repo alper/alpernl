@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_2bd0f12cb4d7db68db65fa3025710f29: '{{unknown}}'
-_oembed_2f43c40d27a00cfb85447e33b87e6ae9: '<blockquote class="twitter-tweet" width="500"><p>Here''s the video for @<a href="https://twitter.com/smarimc">smarimc</a> and my talk at <a href="https://twitter.com/search/%2329c3">#29c3</a>, "Long Live the Protocoletariat!": <a href="http://t.co/ZP0wLJ90" title="http://bit.ly/UNvLtI">bit.ly/UNvLtI</a></p>&mdash; Eleanor Saitta (@Dymaxion) <a href="https://twitter.com/Dymaxion/status/287634115807805440" data-datetime="2013-01-05T18:58:11+00:00">January 5, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_b167d8b37bcf50719dba2481da4868f7: '<blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">Here&#39;s the video for <a href="https://twitter.com/smarimc">@smarimc</a> and my talk at <a href="https://twitter.com/hashtag/29c3?src=hash">#29c3</a>, &quot;Long Live the Protocoletariat!&quot;: <a href="http://t.co/ZP0wLJ90">http://t.co/ZP0wLJ90</a></p>&mdash; Eleanor Saitta (@Dymaxion) <a href="https://twitter.com/Dymaxion/status/287634115807805440">January 5, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_time_b167d8b37bcf50719dba2481da4868f7: "1442423338"
 author: alper
 categories:
   - berlin

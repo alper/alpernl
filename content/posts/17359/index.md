@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_914441712fb01cda1c7d4747b1950e76: '<iframe title="Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)" width="660" height="371" src="https://www.youtube.com/embed/4muxFVZ4XfM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-_oembed_time_914441712fb01cda1c7d4747b1950e76: "1730544810"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,15 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_743be370b0daf568cb87729555677db3: <blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr"><a href="https://twitter.com/alper">@alper</a> echt geholpen zou worden door iemand</p>&mdash; sir (@rashiedamir) <a href="https://twitter.com/rashiedamir/status/309032594706669568">March 5, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_6334f1bf78fcf5aa0d1b2e68b9ea0143: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="nl" dir="ltr"><a href="https://twitter.com/alper?ref_src=twsrc%5Etfw">@alper</a> er zit een jongen in mijn klas die alper heet en hij helpt me altijd dus ik linkte voor de grap @ alper zonder te weten dat ik 1-2</p>&mdash; sir (@rashiedamir) <a href="https://twitter.com/rashiedamir/status/309032534635839488?ref_src=twsrc%5Etfw">March 5, 2013</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_a7a0ccf8d987d3bfd79d55224987b091: <blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr"><a href="https://twitter.com/alper">@alper</a> er zit een jongen in mijn klas die alper heet en hij helpt me altijd dus ik linkte voor de grap @ alper zonder te weten dat ik 1-2</p>&mdash; sir (@rashiedamir) <a href="https://twitter.com/rashiedamir/status/309032534635839488">March 5, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_b43cc071381f1ed8edcc86458789608c: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="nl" dir="ltr"><a href="https://twitter.com/alper?ref_src=twsrc%5Etfw">@alper</a> echt geholpen zou worden door iemand</p>&mdash; sir (@rashiedamir) <a href="https://twitter.com/rashiedamir/status/309032594706669568?ref_src=twsrc%5Etfw">March 5, 2013</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_c2fea3f098f58d9e566a301a52465b76: <blockquote class="twitter-tweet" width="500"><p>@<a href="https://twitter.com/alper">alper</a> er zit een jongen in mijn klas die alper heet en hij helpt me altijd dus ik linkte voor de grap @ alper zonder te weten dat ik 1-2</p>&mdash; ãž¥ (@_rmi) <a href="https://twitter.com/_rmi/status/309032534635839488">March 5, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_faaea5441ae0d0f96981073a98b4e9a8: <blockquote class="twitter-tweet" width="500"><p>@<a href="https://twitter.com/alper">alper</a> echt geholpen zou worden door iemand</p>&mdash; ãž¥ (@_rmi) <a href="https://twitter.com/_rmi/status/309032594706669568">March 5, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_743be370b0daf568cb87729555677db3: "1442423141"
-_oembed_time_6334f1bf78fcf5aa0d1b2e68b9ea0143: "1730565365"
-_oembed_time_a7a0ccf8d987d3bfd79d55224987b091: "1442423141"
-_oembed_time_b43cc071381f1ed8edcc86458789608c: "1730565365"
 author: alper
 categories:
   - english

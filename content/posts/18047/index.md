@@ -22,7 +22,6 @@ _g_feedback_shortcode_f27f66c2726a40de2cfe8f3eef6036b7354c5d6d: |-
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]
   				[contact-field label="Message" type="textarea" /]
-_oembed_da6713ef66db1ad7caec6e399df0e064: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

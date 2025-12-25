@@ -1,8 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_1b8ceead970fb6a9aed774b00023702f: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Live From Berlin&#039;s Hertie School - Ones and Tooze" src="https://pca.st/embed/u2a40nxe" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_9591ad75143705f83e5181d4c22c3940: '{{unknown}}'
-_oembed_time_1b8ceead970fb6a9aed774b00023702f: "1699218199"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,10 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_3a017a5dd85822d06e1a94336281e616: "<blockquote class=\"twitter-tweet\" width=\"550\"><p lang=\"en\" dir=\"ltr\">“<a href=\"https://twitter.com/alper\">@alper</a>: “The fact that people are human may very well be the inconvenient truth of the environmentalists.â€\x9D — <a href=\"http://t.co/xkdBbYMh\">http://t.co/xkdBbYMh</a>â€\x9D</p>&mdash; Dannie Jost (@dannie) <a href=\"https://twitter.com/dannie/status/235373465295798273\">August 14, 2012</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-_oembed_615c6b75628a2fe2df4bb0dbf22ceb99: "<blockquote class=\"twitter-tweet\" width=\"500\"><p>“<a href=\"https://twitter.com/alper\"><s>@</s><b>alper</b></a>: “The fact that people are human may very well be the inconvenient truth of the environmentalists.â€\x9D — <a href=\"http://t.co/xkdBbYMh\" title=\"http://bit.ly/NAkyGX\">bit.ly/NAkyGX</a>â€\x9D</p>&mdash; Dannie Jost (@dannie) <a href=\"https://twitter.com/dannie/status/235373465295798273\" data-datetime=\"2012-08-14T13:53:01+00:00\">August 14, 2012</a></blockquote><script src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-_oembed_48662ded1822dc1e266bb166ebad67d0: '{{unknown}}'
-_oembed_abac48ac4f2b1db9df3af07b8853f0f1: "<blockquote class=\"twitter-tweet\" width=\"500\"><p>“@<a href=\"https://twitter.com/alper\">alper</a>: “The fact that people are human may very well be the inconvenient truth of the environmentalists.â€\x9D — <a href=\"http://t.co/xkdBbYMh\" title=\"http://bit.ly/NAkyGX\">bit.ly/NAkyGX</a>â€\x9D</p>&mdash; Dannie Jost (@dannie) <a href=\"https://twitter.com/dannie/status/235373465295798273\" data-datetime=\"2012-08-14T13:53:01+00:00\">August 14, 2012</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-_oembed_time_3a017a5dd85822d06e1a94336281e616: "1442445705"
 _tweet-235373465295798273: ""
 author: alper
 categories:

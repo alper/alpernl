@@ -22,8 +22,6 @@ _g_feedback_shortcode_atts_90195f24279ce078411425705763dd5a09c78efe:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_oembed_2c325976695b17165bf6ea800dff99c5: '<blockquote class="wp-embedded-content" data-secret="1q5MKWzOy3"><a href="https://www.actioncoach.co.za/no-bad-teams-only-bad-leaders/">No Bad Teams, Only Bad Leaders</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;No Bad Teams, Only Bad Leaders&#8221; &#8212; ActionCOACH" src="https://www.actioncoach.co.za/no-bad-teams-only-bad-leaders/embed/#?secret=q9a29u5ilO#?secret=1q5MKWzOy3" data-secret="1q5MKWzOy3" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_2c325976695b17165bf6ea800dff99c5: "1742676422"
 _wpas_done_all: "1"
 author: alper
 categories:

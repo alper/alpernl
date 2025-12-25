@@ -1,6 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_6a6afe74a75a9de0a8e30d8dcd02a94d: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

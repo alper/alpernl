@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_fc19e85956916a8c47a039a939b793c7: <div class="jetpack-video-wrapper"><iframe class="youtube-player" width="660" height="372" src="https://www.youtube.com/embed/OwwMrpW1m5g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></div>
-_oembed_time_fc19e85956916a8c47a039a939b793c7: "1730551216"
 _wpas_done_all: "1"
 author: alper
 categories:

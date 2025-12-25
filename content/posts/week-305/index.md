@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_5e4b459b573c51bc2d5d4f050fc33328: <blockquote class="twitter-tweet" data-in-reply-to="292792523720642560" width="500"><p>@<a href="https://twitter.com/dymaxion">dymaxion</a> - *fixed grin*</p>&mdash; Justin Pickard (@justinpickard) <a href="https://twitter.com/justinpickard/status/292793712390594561" data-datetime="2013-01-20T00:40:35+00:00">January 20, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_435231c83182caed998d6421c633e54b: '{{unknown}}'
-_oembed_a9e7e809506f6f55031de6405ee48bf6: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr"><a href="https://twitter.com/Dymaxion">@Dymaxion</a> - *fixed grin*</p>&mdash; Justin Pickard (@justinpickard) <a href="https://twitter.com/justinpickard/status/292793712390594561">January 20, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_a9e7e809506f6f55031de6405ee48bf6: "1442423336"
 author: alper
 categories:
   - english

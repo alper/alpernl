@@ -1,8 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_105bef18bc042458ada7379b93e38e32: '{{unknown}}'
-_oembed_e077805786cb4c5813d12e14f1415235: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">&quot;Security nihilism is the idea that digital attacks have grown so sophisticated that there’s nothing to be done to prevent them from happening or to blunt their impact. That sort of conclusion would be a mistake.&quot; <a href="https://t.co/uVp8THUKJp">https://t.co/uVp8THUKJp</a></p>&mdash; Anne Roth (@annalist) <a href="https://twitter.com/annalist/status/1420158699373580289?ref_src=twsrc%5Etfw">July 27, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_e077805786cb4c5813d12e14f1415235: "1634843601"
 _wpas_done_all: "1"
 author: alper
 categories:

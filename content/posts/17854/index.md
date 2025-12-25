@@ -1,6 +1,4 @@
 ---
-_oembed_dd1c20d62df088cb0f8d67dfff9c24ea: '<blockquote class="wp-embedded-content" data-secret="UxM2SiUqhv"><a href="https://blog.hansdezwart.nl/2025/01/01/the-books-i-read-the-podcasts-i-listened-to-the-films-and-other-culture-i-saw-in-2024/">The books I read, the podcasts I listened to, the films and other culture I saw in 2024</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;The books I read, the podcasts I listened to, the films and other culture I saw in 2024&#8221; &#8212; Medium Massage" src="https://blog.hansdezwart.nl/2025/01/01/the-books-i-read-the-podcasts-i-listened-to-the-films-and-other-culture-i-saw-in-2024/embed/#?secret=f1sJgT4NUF#?secret=UxM2SiUqhv" data-secret="UxM2SiUqhv" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_dd1c20d62df088cb0f8d67dfff9c24ea: "1735862997"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,7 +1,4 @@
 ---
-_oembed_a6872bc953f6c7102dd2bbcb9d14fbac: <iframe title="The Indigenous Man Who Declared His Own Country" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F09%2F13%2Fworld%2Faustralia%2Findigenous-walubara-yidinji.html#?secret=oDfs9m9ZHr" data-secret="oDfs9m9ZHr" scrolling="no" frameborder="0"></iframe>
-_oembed_ab06b5f90e430a4fe52620ee0cb301af: '{{unknown}}'
-_oembed_time_a6872bc953f6c7102dd2bbcb9d14fbac: "1569660562"
 _wpas_done_all: "1"
 author: alper
 categories:

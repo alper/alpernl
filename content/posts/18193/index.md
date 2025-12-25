@@ -22,8 +22,6 @@ _g_feedback_shortcode_atts_695ded9466ace6c453a1cdb17f11c53adc6e368d:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_oembed_56b683f9f336802d511781de6f62a148: '<blockquote class="wp-embedded-content" data-secret="ctkvG9YBuW"><a href="https://www.theengineeringmanager.com/managing-managers/being-in-the-details/">Being in the details</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Being in the details&#8221; &#8212; The Engineering Manager" src="https://www.theengineeringmanager.com/managing-managers/being-in-the-details/embed/#?secret=mmpy0KGOa3#?secret=ctkvG9YBuW" data-secret="ctkvG9YBuW" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_56b683f9f336802d511781de6f62a148: "1744292477"
 _wpas_done_all: "1"
 author: alper
 categories:

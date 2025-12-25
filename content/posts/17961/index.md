@@ -1,8 +1,4 @@
 ---
-_oembed_4abfae5b98b7d51526fc687c2991b1c8: <iframe title="The Sulla of Suburbia feat. Patrick Wyman" width="660" height="495" src="https://www.youtube.com/embed/pH2wWO_OOjo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_827a33e3ab07f54fc546f9db5a715bfc: <iframe title="The Sulla of Suburbia feat. Patrick Wyman" width="660" height="495" src="https://www.youtube.com/embed/pH2wWO_OOjo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_4abfae5b98b7d51526fc687c2991b1c8: "1737480920"
-_oembed_time_827a33e3ab07f54fc546f9db5a715bfc: "1737480920"
 _wpas_done_all: "1"
 author: alper
 categories:

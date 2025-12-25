@@ -22,7 +22,6 @@ _g_feedback_shortcode_atts_8102348f899c357d07b1d590c150dec9b1120548:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_oembed_f59457aae8848b8d75a3ae2c0955791b: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

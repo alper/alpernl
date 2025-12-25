@@ -1,11 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_a092f120ffb188eb522c8777f6bfebbe: <iframe title="Apple Vision Pro Review - Why does this EXIST?" width="660" height="371" src="https://www.youtube.com/embed/5MhRZp2uunc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_bb3d30120d227648b4f5913e5279fe4a: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Apple Vision Pro: The Future is Here - Cortex" src="https://pca.st/embed/0g7tgioh" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_cbe5f8b76d3ab1a73fafc03533e0360e: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Apple Vision Pro: The Future is Here - Cortex" src="https://pca.st/embed/0g7tgioh" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_time_a092f120ffb188eb522c8777f6bfebbe: "1730544807"
-_oembed_time_bb3d30120d227648b4f5913e5279fe4a: "1730544806"
-_oembed_time_cbe5f8b76d3ab1a73fafc03533e0360e: "1710063611"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,6 +1,4 @@
 ---
-_oembed_e49215ab4c9af7bfa1890a84f97669d6: '<blockquote class="wp-embedded-content" data-secret="1uuTR5YfnY"><a href="https://asiatimes.com/2024/07/chinas-subsidies-create-not-destroy-value/">China&#8217;s subsidies create, not destroy, value</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;China&#8217;s subsidies create, not destroy, value&#8221; &#8212; Asia Times" src="https://asiatimes.com/2024/07/chinas-subsidies-create-not-destroy-value/embed/#?secret=ohsAPAlC84#?secret=1uuTR5YfnY" data-secret="1uuTR5YfnY" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_e49215ab4c9af7bfa1890a84f97669d6: "1732228922"
 _wpas_done_all: "1"
 author: alper
 categories:

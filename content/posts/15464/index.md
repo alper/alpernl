@@ -1,7 +1,4 @@
 ---
-_oembed_872b67cba494ec0828ebf27836eee9b7: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="nl" dir="ltr">Dit stuk van <a href="https://twitter.com/vanveeelen?ref_src=twsrc%5Etfw">@vanveeelen</a> is erbarmelijk, maar naar ik vrees ook symptomatisch, dus laat ik eens proberen uit te leggen waarom het zo erbarmelijk is. <a href="https://t.co/7QrmiDddqt">https://t.co/7QrmiDddqt</a></p>&mdash; Gijsbert (@GijsbertPols) <a href="https://twitter.com/GijsbertPols/status/1133034973437599744?ref_src=twsrc%5Etfw">May 27, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_8444cd1cfbc37200bede40f00ddd6efa: '{{unknown}}'
-_oembed_time_872b67cba494ec0828ebf27836eee9b7: "1558994118"
 _wpas_done_all: "1"
 author: alper
 categories:

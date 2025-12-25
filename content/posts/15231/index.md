@@ -1,8 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_2aa216a7c15808c6cca0c913bd439a6c: '<blockquote class="wp-embedded-content" data-secret="KMTrWiHaes"><a href="https://www.codewithjason.com/make-organization-attractive-engineering-talent/">How to make your organization attractive to engineering talent</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.codewithjason.com/make-organization-attractive-engineering-talent/embed/#?secret=KMTrWiHaes" data-secret="KMTrWiHaes" width="600" height="338" title="&#8220;How to make your organization attractive to engineering talent&#8221; &#8212; Code with Jason" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_4b956723872c40d1b8757f2c91545ff7: '{{unknown}}'
-_oembed_time_2aa216a7c15808c6cca0c913bd439a6c: "1552039344"
 _wpas_done_all: "1"
 author: alper
 categories:

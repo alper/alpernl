@@ -1,8 +1,4 @@
 ---
-_oembed_1688628ffd9641708afc9498f926cb0b: '<blockquote class="wp-embedded-content" data-secret="Kx5lPEbfjT"><a href="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/">&#8216;Two hands are a lot&#8217; &#8212; we&#8217;re hiring data scientists, project managers, policy experts, assorted&nbsp;weirdos&#8230;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;&#8216;Two hands are a lot&#8217; &#8212; we&#8217;re hiring data scientists, project managers, policy experts, assorted&nbsp;weirdos&#8230;&#8221; &#8212; Dominic Cummings&#039;s Blog" src="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/embed/#?secret=PUKOHmwmnf#?secret=Kx5lPEbfjT" data-secret="Kx5lPEbfjT" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_120054625d37f88d3fef61b9f07cf38c: <a href="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/">&#8216;Two hands are a lot&#8217; &#8212; we&#8217;re hiring data scientists, project managers, policy experts, assorted&nbsp;weirdos&#8230;</a>
-_oembed_time_1688628ffd9641708afc9498f926cb0b: "1730546542"
-_oembed_time_120054625d37f88d3fef61b9f07cf38c: "1578005366"
 _wpas_done_all: "1"
 author: alper
 categories:

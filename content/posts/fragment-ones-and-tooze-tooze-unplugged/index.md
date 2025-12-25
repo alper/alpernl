@@ -1,9 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_ba1bb6238759c1ddfa65ec52b4f6ce08: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Tooze Unplugged - Ones and Tooze" src="https://pca.st/embed/bv0k67fk" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_fb9efe71110808ad640c6d735735b1da: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Tooze Unplugged - Ones and Tooze" src="https://pca.st/embed/bv0k67fk" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_time_ba1bb6238759c1ddfa65ec52b4f6ce08: "1699259062"
-_oembed_time_fb9efe71110808ad640c6d735735b1da: "1730547802"
 _wpas_done_all: "1"
 author: alper
 categories:

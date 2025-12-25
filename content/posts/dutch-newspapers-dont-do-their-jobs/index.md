@@ -1,10 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_5b7bb3c1581266c1c6e52113fe69036f: '{{unknown}}'
-_oembed_8f5a2ca8efd21f60febea53cb40ee434: '{{unknown}}'
-_oembed_9ad27e66b34f266ad73e6f7f21267f4c: '{{unknown}}'
-_oembed_57c05edc3e2c11009c06b077995e1af6: '{{unknown}}'
-_oembed_856a255a62cac25d2654472d6741a333: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

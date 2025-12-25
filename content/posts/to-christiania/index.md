@@ -1,6 +1,4 @@
 ---
-_oembed_dcf66ab75397af9384ee6625b2062f28: <iframe title="Fool&#039;s Garden - Lemon Tree" width="660" height="495" src="https://www.youtube.com/embed/bCDIt50hRDs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_dcf66ab75397af9384ee6625b2062f28: "1730669875"
 _wpas_done_all: "1"
 author: alper
 categories:

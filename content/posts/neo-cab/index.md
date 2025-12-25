@@ -1,6 +1,4 @@
 ---
-_oembed_28033324a278baf0c2f58a1a70d852fc: <iframe title="Neo Cab — Story Trailer — June 2018" width="660" height="371" src="https://www.youtube.com/embed/jzFKrqffkQg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_28033324a278baf0c2f58a1a70d852fc: "1730545742"
 _wpas_done_all: "1"
 author: alper
 categories:

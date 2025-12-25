@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_e5c23f91b785689237e7768eedaf2142: <iframe title="Shaping in a Nutshell" width="660" height="371" src="https://www.youtube.com/embed/h_8M23wVjXk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_e5c23f91b785689237e7768eedaf2142: "1730551215"
 _wpas_done_all: "1"
 author: alper
 categories:

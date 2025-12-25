@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_27a7afc54b893604053c76ba2e003304: '{{unknown}}'
-_oembed_964da62a132a98f6136fd3c715de85b2: <blockquote class="twitter-tweet" data-in-reply-to="286872182666166272" width="500"><p>@<a href="https://twitter.com/alper">alper</a> mainly the guardian. i never found anything for the continent. :(</p>&mdash; Quinn Norton (@quinnnorton) <a href="https://twitter.com/quinnnorton/status/286872424451018752" data-datetime="2013-01-03T16:31:30+00:00">January 3, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_dd910b1d66688f6329363c56cc773af7: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr"><a href="https://twitter.com/alper">@alper</a> mainly the guardian. i never found anything for the continent. :(</p>&mdash; Quinn Norton (@quinnnorton) <a href="https://twitter.com/quinnnorton/status/286872424451018752">January 3, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_dd910b1d66688f6329363c56cc773af7: "1442428584"
 author: alper
 categories:
   - english

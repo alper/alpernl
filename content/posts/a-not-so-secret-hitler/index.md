@@ -1,7 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_8f46241d82b6a58ce27f9943f7c72e5f: <iframe frameborder="0" height="495" scrolling="no" src="https://www.kickstarter.com/projects/maxtemkin/secret-hitler/widget/video.html" width="660"></iframe>
-_oembed_time_8f46241d82b6a58ce27f9943f7c72e5f: "1450986200"
 _wpas_done_all: "1"
 author: alper
 categories:

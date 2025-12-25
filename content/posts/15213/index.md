@@ -1,8 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_65e840963b4729881096859c627d4282: '{{unknown}}'
-_oembed_b8c59df58908e78fed51c138d65a193d: <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F03%2F02%2Fstyle%2Ffinancial-independence-30s.html#?secret=09w2cMLUNF" data-secret="09w2cMLUNF" scrolling="no" frameborder="0"></iframe>
-_oembed_time_b8c59df58908e78fed51c138d65a193d: "1551743808"
 _wpas_done_all: "1"
 author: alper
 categories:

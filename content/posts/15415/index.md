@@ -1,7 +1,4 @@
 ---
-_oembed_afc5f3d8e1e795686513948fc36e219a: '{{unknown}}'
-_oembed_c37c05c0d3e1fc21f5283920e5423d6f: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Abused 12-Year-Old Alabama Girl Doesn’t Think She Can Handle Being A Mom On Top Of Everything Else <a href="https://t.co/qoofzFadnJ">https://t.co/qoofzFadnJ</a> <a href="https://t.co/mHweOtFKOG">pic.twitter.com/mHweOtFKOG</a></p>&mdash; The Onion (@TheOnion) <a href="https://twitter.com/TheOnion/status/1128726771942219781?ref_src=twsrc%5Etfw">May 15, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_c37c05c0d3e1fc21f5283920e5423d6f: "1557960929"
 _wpas_done_all: "1"
 author: alper
 categories:

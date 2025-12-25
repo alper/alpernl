@@ -1,6 +1,4 @@
 ---
-_oembed_6f32c93bf32ff917b369dbbfd17778e7: <iframe title="Ein Statement von 90+ Youtubern" width="660" height="371" src="https://www.youtube.com/embed/Xpg84NjCr9c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_6f32c93bf32ff917b369dbbfd17778e7: "1730551217"
 _wpas_done_all: "1"
 author: alper
 categories:

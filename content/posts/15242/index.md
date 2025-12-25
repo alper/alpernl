@@ -1,8 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_90c27393b8fce435596f28c5015436ec: <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F03%2F08%2Fus%2Fpolitics%2Felizabeth-warren-amazon.html#?secret=IoBu0ang0r" data-secret="IoBu0ang0r" scrolling="no" frameborder="0"></iframe>
-_oembed_b4e1a0a8289299defb5b598598a874ea: '{{unknown}}'
-_oembed_time_90c27393b8fce435596f28c5015436ec: "1552224296"
 _wpas_done_all: "1"
 author: alper
 categories:

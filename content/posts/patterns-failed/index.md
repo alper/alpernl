@@ -1,6 +1,4 @@
 ---
-_oembed_16f1d70d404266ff065fee2454449580: <iframe title="Brian Marick - Patterns Failed. Why? Should We Care? (from Deconstruct 2017)" src="https://player.vimeo.com/video/248214009?dnt=1&amp;app_id=122963" width="660" height="371" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write"></iframe>
-_oembed_time_16f1d70d404266ff065fee2454449580: "1730605826"
 _wpas_done_all: "1"
 author: alper
 categories:

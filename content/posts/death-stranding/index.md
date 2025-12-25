@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_2086713b883ebe832e1135f0b02714d4: <iframe title="Death Stranding 2 On The Beach - State of Play Announce Trailer | PS5 Games" width="660" height="371" src="https://www.youtube.com/embed/wbLstJHlC4U?start=1&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_2086713b883ebe832e1135f0b02714d4: "1730544808"
 _share_on_mastodon_url: https://rls.social/@alper/112034178211051486
 _wpas_done_all: "1"
 author: alper

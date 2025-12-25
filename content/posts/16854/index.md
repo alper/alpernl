@@ -1,8 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_498c296d56614250447d275ff4b7e3d1: '<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="de" dir="ltr">Gruppen, die sich gemeinschaftlich treffen, um im Park ihre unangeleinten Hunde frei laufen zu lassen, sind oft so mit das unangenehmste Klientel, mit dem wir zu tun haben. Letzte Woche erst und heute wieder: Personalienverweigerungen, Beleidigungen, Provokationen, (1/4)</p>&mdash; Steve Fi (@SteveFi04457564) <a href="https://twitter.com/SteveFi04457564/status/1558065690820624387?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_ed90138beb0577bcc01ac98c3bbf74c8: '{{unknown}}'
-_oembed_time_498c296d56614250447d275ff4b7e3d1: "1664106731"
 _wpas_done_all: "1"
 author: alper
 categories:

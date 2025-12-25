@@ -1,7 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_76c347a43a6fad8db1316c68d291440a: '{{unknown}}'
-_oembed_8409212ba750f2bc10b17e020eebd350: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

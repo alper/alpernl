@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_5d380ea5fe09d58bbfbc894585e6a409: <iframe title="Warum wir Deutsche Wohnen und Co. enteignen wollen" width="660" height="371" src="https://www.youtube.com/embed/NlBV9E9PBpg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_5d380ea5fe09d58bbfbc894585e6a409: "1730546539"
 _wpas_done_all: "1"
 author: alper
 categories:

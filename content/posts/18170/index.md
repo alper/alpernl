@@ -22,8 +22,6 @@ _g_feedback_shortcode_atts_894a41e25c36f648c248face2fbcd3e80fe2c33f:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_oembed_cb9473aa054bfe93f0206f5958b85ff3: <iframe title="TypeScript types can run DOOM" width="660" height="371" src="https://www.youtube.com/embed/0mCsluv5FXA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_cb9473aa054bfe93f0206f5958b85ff3: "1742633336"
 _wpas_done_all: "1"
 author: alper
 categories:

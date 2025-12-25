@@ -1,6 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_2d14193f24af752d2f67561877d17569: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

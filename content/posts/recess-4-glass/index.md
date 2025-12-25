@@ -1,11 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_427695cc83c423078a5097045b3e7fd8: <blockquote class="twitter-tweet" width="500"><p>@<a href="https://twitter.com/kaeru">kaeru</a> @<a href="https://twitter.com/peterbihr">peterbihr</a> It may turn out like the Move controller, a nifty gadget with a couple of interesting games.</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/304595659749728256">February 21, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_062042632b9391e409487b47951d7644: '{{unknown}}'
-_oembed_a6b9d46c8d23d046fba91efd1ed55b6c: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr"><a href="https://twitter.com/kaeru">@kaeru</a> <a href="https://twitter.com/peterbihr">@peterbihr</a> It may turn out like the Move controller, a nifty gadget with a couple of interesting games.</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/304595659749728256">February 21, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_f570a2df8eb3a55c8af292376d98feb4: '<div class="jetpack-video-wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="660" height="372" src="https://www.youtube.com/embed/v1uyQZNg2vE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span></div>'
-_oembed_time_a6b9d46c8d23d046fba91efd1ed55b6c: "1442424388"
-_oembed_time_f570a2df8eb3a55c8af292376d98feb4: "1730544994"
 author: alper
 categories:
   - berlin

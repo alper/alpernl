@@ -1,6 +1,4 @@
 ---
-_oembed_60978aeba41b5c73cbe6313bc7d6547d: <iframe title="Exposing the Honey Influencer Scam" width="660" height="371" src="https://www.youtube.com/embed/vc4yL3YTwWk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_60978aeba41b5c73cbe6313bc7d6547d: "1734946229"
 _wpas_done_all: "1"
 author: alper
 categories:

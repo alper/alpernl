@@ -1,13 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_5aabf0045f646f624c5f264a640dd5bd: '<blockquote class="twitter-tweet" width="500"><p>To help us do that work you can still apply to this managing director position over at @<a href="https://twitter.com/hackdeoverheid">hackdeoverheid</a> (Dutch): <a href="http://t.co/uTuhaZ5fsQ" title="http://www.republic.nl/vacature/2013/directeur-open-state-foundation">republic.nl/vacature/2013/…</a></p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/304548937942069248">February 21, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_8fde93a63a016ed9e025fcebb3ea0de7: '{{unknown}}'
-_oembed_034e13b39bd1c06e39c4c4490ca2c74a: '<blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">To help us do that work you can still apply to this managing director position over at <a href="https://twitter.com/HackdeOverheid">@HackdeOverheid</a> (Dutch): <a href="http://t.co/uTuhaZ5fsQ">http://t.co/uTuhaZ5fsQ</a></p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/304548937942069248">February 21, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_99bbd1840c57cd8d99dc29fd4eac3b63: <blockquote class="twitter-tweet" width="500"><p>I'm part of an expensive drinking club. <a href="https://twitter.com/search/%23ironbloggerberlin">#ironbloggerberlin</a></p>&mdash; Michelle Thorne (@thornet) <a href="https://twitter.com/thornet/status/303586923719557122">February 18, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_d57213fb263306c0b56302e4134d4ce7: '{{unknown}}'
-_oembed_e8406db7dc3ab75228280d569c28e0fc: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">I&#39;m part of an expensive drinking club. <a href="https://twitter.com/hashtag/ironbloggerberlin?src=hash">#ironbloggerberlin</a></p>&mdash; Michelle Thorne (@thornet) <a href="https://twitter.com/thornet/status/303586923719557122">February 18, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_034e13b39bd1c06e39c4c4490ca2c74a: "1442423335"
-_oembed_time_e8406db7dc3ab75228280d569c28e0fc: "1442423334"
 author: alper
 categories:
   - berlin

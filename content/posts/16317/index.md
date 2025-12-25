@@ -1,7 +1,4 @@
 ---
-_oembed_2e00de11aaf53d6b1fbfdc9659b944be: '{{unknown}}'
-_oembed_e811ae37be475fb712d7baec179f4343: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A <a href="https://twitter.com/Facebook?ref_src=twsrc%5Etfw">@Facebook</a> employee has stolen my <a href="https://twitter.com/instagram?ref_src=twsrc%5Etfw">@instagram</a> account. Thread! (RTs appreciated) <a href="https://t.co/Yxvvg8tkPv">pic.twitter.com/Yxvvg8tkPv</a></p>&mdash; Danny Hall (@dannyjhall) <a href="https://twitter.com/dannyjhall/status/1310231730591346689?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_e811ae37be475fb712d7baec179f4343: "1601502736"
 _wpas_done_all: "1"
 author: alper
 categories:

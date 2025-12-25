@@ -1,7 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_4d0bbdd16b18d45297d3d6833e94e9cd: '<iframe title="Alper Çugun: New Games for New Cities" width="660" height="371" src="https://www.youtube.com/embed/EeJVTlzcZPw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-_oembed_time_4d0bbdd16b18d45297d3d6833e94e9cd: "1730545742"
 author: alper
 categories:
   - berlin

@@ -1,9 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_1335e7f6d68de5eaed6c6e540fb58d71: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Ones and Tooze, Live From Berlin - Ones and Tooze" src="https://pca.st/embed/78n4b82o" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_d9039edea4938a718205c7274a9ab5dc: '<div style="width: 100%; max-width: 660px; max-height: 100%; position: relative;">    <div style="padding-bottom: 42.857142857142854%;"></div>    <iframe title="Ones and Tooze, Live From Berlin - Ones and Tooze" src="https://pca.st/embed/78n4b82o" style="border: 0; border-radius: 8px; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0"></iframe></div>'
-_oembed_time_1335e7f6d68de5eaed6c6e540fb58d71: "1700730830"
-_oembed_time_d9039edea4938a718205c7274a9ab5dc: "1730546525"
 _wpas_done_all: "1"
 author: alper
 categories:

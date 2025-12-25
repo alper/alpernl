@@ -1,9 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_aa1cbba066d02e569985d3878ea65a09: '<blockquote class="wp-embedded-content" data-secret="ac057T26Kf"><a href="https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/">Know your &#8220;One Job&#8221; and do it first</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Know your &#8220;One Job&#8221; and do it first&#8221; &#8212; charity.wtf" src="https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/embed/#?secret=ac057T26Kf" data-secret="ac057T26Kf" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_f37e9cca61e930dd48ba44e330d0dbe2: '<blockquote class="wp-embedded-content" data-secret="P9DvqEBGJ2"><a href="https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/">Know your &#8220;One Job&#8221; and do it first</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Know your &#8220;One Job&#8221; and do it first&#8221; &#8212; charity.wtf" src="https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/embed/#?secret=pmU4LZ3aNL#?secret=P9DvqEBGJ2" data-secret="P9DvqEBGJ2" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_aa1cbba066d02e569985d3878ea65a09: "1617544445"
-_oembed_time_f37e9cca61e930dd48ba44e330d0dbe2: "1730646101"
 _wpas_done_all: "1"
 author: alper
 categories:

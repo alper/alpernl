@@ -1,8 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_3dbe8a0c8ac1f959d6bc337039c2eea3: '<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="#34: Fataal fietsongeluk van een Indiase uitwisselingsstudente" src="https://art19.com/shows/napleiten/episodes/88038eb8-3146-499d-983d-ebadce4c3e8f/embed#?secret=GZK3eLlwai" data-secret="GZK3eLlwai" width="660" height="200" scrolling="no"></iframe>'
-_oembed_daa6821f22a02e0942cf0b8614a4013c: '{{unknown}}'
-_oembed_time_3dbe8a0c8ac1f959d6bc337039c2eea3: "1684707763"
 _wpas_done_all: "1"
 author: alper
 categories:

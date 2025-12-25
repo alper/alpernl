@@ -1,6 +1,4 @@
 ---
-_oembed_35dc788ef05693527796f9fe4add9dbe: <iframe title="LISA11 - Fork Yeah! The Rise and Development of illumos" width="660" height="371" src="https://www.youtube.com/embed/-zRN7XLCRhc?start=2040&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_35dc788ef05693527796f9fe4add9dbe: "1737965809"
 _wpas_done_all: "1"
 author: alper
 categories:

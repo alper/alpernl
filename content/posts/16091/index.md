@@ -1,8 +1,4 @@
 ---
-_oembed_5df98cfcd72fcb5cf12379d7faf03335: '<blockquote class="wp-embedded-content" data-secret="ExD7GNPeRN"><a href="https://longreads.com/2020/01/15/whatever-happened-to-______/">Whatever Happened to ______ ?</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Whatever Happened to ______ ?&#8221; &#8212; Longreads" src="https://longreads.com/2020/01/15/whatever-happened-to-______/embed/#?secret=U6BBj2YQOF#?secret=ExD7GNPeRN" data-secret="ExD7GNPeRN" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_e1a2d3506c9c085de84e6b585483139a: <a href="https://longreads.com/2020/01/15/whatever-happened-to-______/">Whatever Happened to ______&nbsp;?</a>
-_oembed_time_5df98cfcd72fcb5cf12379d7faf03335: "1730606897"
-_oembed_time_e1a2d3506c9c085de84e6b585483139a: "1589101633"
 _wpas_done_all: "1"
 author: alper
 categories:

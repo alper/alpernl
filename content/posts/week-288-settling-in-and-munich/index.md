@@ -1,10 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_1b1af3f3e3b04da8a9b3d49e2fa09c09: '<blockquote class="twitter-tweet" width="500"><p>At some point you get to meet all your Twitter followers in RL: Geeking out with fellow dev@ Five Elephant <a href="http://t.co/cmDhQkzt" title="http://instagr.am/p/P2AlOlgIMT/">instagr.am/p/P2AlOlgIMT/</a></p>&mdash; Mustafa K. Isik (@codesurgeon) <a href="https://twitter.com/codesurgeon/status/249182833111867393" data-datetime="2012-09-21T16:26:31+00:00">September 21, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_2dd02662fab94939433f7987b351deed: '<blockquote class="twitter-tweet" width="500"><p>At some point you get to meet all your Twitter followers in RL: Geeking out with fellow dev@ Five Elephant <a href="http://t.co/cmDhQkzt" title="http://instagr.am/p/P2AlOlgIMT/">instagr.am/p/P2AlOlgIMT/</a></p>&mdash; Mustafa K. Isik (@codesurgeon) <a href="https://twitter.com/codesurgeon/status/249182833111867393" data-datetime="2012-09-21T16:26:31+00:00">September 21, 2012</a></blockquote><script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_01320caf89d08abf16fc1330fc472805: '<blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">At some point you get to meet all your Twitter followers in RL: Geeking out with fellow dev  @ Five Elephant <a href="http://t.co/cmDhQkzt">http://t.co/cmDhQkzt</a></p>&mdash; Mustafa K. Isik (@codesurgeon) <a href="https://twitter.com/codesurgeon/status/249182833111867393">September 21, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_e4382ac587976512a465e99bfc5cdc3f: '{{unknown}}'
-_oembed_time_01320caf89d08abf16fc1330fc472805: "1442447672"
 _tweet-249182833111867393: ""
 author: alper
 categories:

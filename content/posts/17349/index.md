@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_14e469bd296319a20d3dee187305217d: <iframe title="How should regulators think about &quot;AI&quot;?" width="660" height="371" src="https://www.youtube.com/embed/eK0md9tQ1KY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_14e469bd296319a20d3dee187305217d: "1730544810"
 _wpas_done_all: "1"
 author: alper
 categories:

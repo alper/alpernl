@@ -1,8 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_43300270c3243991602607c4aaa30e7f: '{{unknown}}'
-_oembed_e052f26442ff5d5838adc7304c7b16a9: '<blockquote class="wp-embedded-content" data-secret="6lSABOXive"><a href="/article/the-supermanagerial-reich/">The Supermanagerial Reich</a></blockquote><iframe title="&#8220;The Supermanagerial Reich&#8221; &#8212; Los Angeles Review of Books" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="/article/the-supermanagerial-reich/embed/#?secret=6lSABOXive" data-secret="6lSABOXive" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_e052f26442ff5d5838adc7304c7b16a9: "1582242683"
 _wpas_done_all: "1"
 author: alper
 categories:

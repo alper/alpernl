@@ -1,7 +1,4 @@
 ---
-_oembed_4ee0a4dd4006cb7ed9ab9fdc147a7791: <iframe title="Nancy Pelosi and Fakebook’s Dirty Tricks" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F26%2Fopinion%2Fnancy-pelosi-facebook-video.html#?secret=zHUDklNSIe" data-secret="zHUDklNSIe" scrolling="no" frameborder="0"></iframe>
-_oembed_27dcf60bd2208dafea6aac3ca7275c86: '{{unknown}}'
-_oembed_time_4ee0a4dd4006cb7ed9ab9fdc147a7791: "1558903073"
 _wpas_done_all: "1"
 author: alper
 categories:

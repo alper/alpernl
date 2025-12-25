@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_cb853ab28fc600f9bdefcf632061de9d: <iframe title="GitHub Actions Feels Bad" width="660" height="371" src="https://www.youtube.com/embed/9qljpi5jiMQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_cb853ab28fc600f9bdefcf632061de9d: "1730544801"
 _wpas_done_all: "1"
 author: alper
 categories:

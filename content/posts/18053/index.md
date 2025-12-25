@@ -22,8 +22,6 @@ _g_feedback_shortcode_atts_a4c01dbe2b1bf29a0627bce4613621ebfef1d647:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_oembed_c0cf4d0d45ef55b415e428b3cb88ac3b: '<blockquote class="wp-embedded-content" data-secret="VMBPfPdyvg"><a href="https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/">You&#8217;re missing your near&nbsp;misses</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;You&#8217;re missing your near&nbsp;misses&#8221; &#8212; Surfing Complexity" src="https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/embed/#?secret=hr3jPLc3mw#?secret=VMBPfPdyvg" data-secret="VMBPfPdyvg" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_c0cf4d0d45ef55b415e428b3cb88ac3b: "1739021093"
 _wpas_done_all: "1"
 author: alper
 categories:

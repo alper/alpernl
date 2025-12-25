@@ -1,8 +1,4 @@
 ---
-_oembed_f19c9484559190faaf3a2914d402d16a: <iframe title="My Favorite Tiling Window Manager is Finally on macOS" width="660" height="371" src="https://www.youtube.com/embed/u3eJcsa_MJk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_f267611d68506e446b57a7eae7371a9d: <iframe title="Niri Is My New Favorite Wayland Compositor" width="660" height="371" src="https://www.youtube.com/embed/DeYx2exm04M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_f19c9484559190faaf3a2914d402d16a: "1761579596"
-_oembed_time_f267611d68506e446b57a7eae7371a9d: "1761579596"
 _wpas_done_all: "1"
 author: alper
 categories:

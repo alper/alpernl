@@ -1,6 +1,4 @@
 ---
-_oembed_40ef998db1320ca60fbc9361fd8d0669: <iframe title="Men | ContraPoints" width="660" height="371" src="https://www.youtube.com/embed/S1xxcKCGljY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_40ef998db1320ca60fbc9361fd8d0669: "1730551216"
 _wpas_done_all: "1"
 author: alper
 categories:

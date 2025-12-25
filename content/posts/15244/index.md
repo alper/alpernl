@@ -1,8 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_0dc87f21cb7ce0969f48fbdfc4cad623: '{{unknown}}'
-_oembed_961056aafb65a6520bf8b5f933594e5b: <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F03%2F07%2Ftechnology%2Ffacebook-zuckerberg-wechat.html#?secret=fcJJfw0Nc4" data-secret="fcJJfw0Nc4" scrolling="no" frameborder="0"></iframe>
-_oembed_time_961056aafb65a6520bf8b5f933594e5b: "1552224813"
 _wpas_done_all: "1"
 author: alper
 categories:

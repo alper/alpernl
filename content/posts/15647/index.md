@@ -1,7 +1,4 @@
 ---
-_oembed_0eb6fae02d42b9f1e544f35baedd6a9b: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">This plan for a democratic government based entirely on sortition (lottery) and mild ostracism is utterly amazing and I want to write a novel about it <a href="https://t.co/EZRFyY0IOY">https://t.co/EZRFyY0IOY</a> <a href="https://t.co/6abiz30Ykt">pic.twitter.com/6abiz30Ykt</a></p>&mdash; Adrian Hon (@adrianhon) <a href="https://twitter.com/adrianhon/status/1160998571023446016?ref_src=twsrc%5Etfw">August 12, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_6889d9117eeda601ef55640434a01150: '{{unknown}}'
-_oembed_time_0eb6fae02d42b9f1e544f35baedd6a9b: "1594995868"
 _wpas_done_all: "1"
 author: alper
 categories:

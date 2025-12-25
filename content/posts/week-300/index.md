@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_256fd70ff91c2259282ef945985c9110: '<blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">I&#39;m thinking about organizing an (English-speaking) iOS conference in Berlin.  Would you be interested? Sign up: <a href="http://t.co/ZktpGN5E">http://t.co/ZktpGN5E</a></p>&mdash; Chris Eidhof (@chriseidhof) <a href="https://twitter.com/chriseidhof/status/278462418835881984">December 11, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_b5e40e0e125cbdffb3b3b42e54c34dc6: '{{unknown}}'
-_oembed_f446edec306790eb2714d94378529225: '<blockquote class="twitter-tweet" width="500"><p>I''m thinking about organizing an (English-speaking) iOS conference in Berlin.Would you be interested? Sign up: <a href="http://t.co/ZktpGN5E" title="http://iosinberlin.launchrock.com">iosinberlin.launchrock.com</a></p>&mdash; Chris Eidhof (@chriseidhof) <a href="https://twitter.com/chriseidhof/status/278462418835881984" data-datetime="2012-12-11T11:33:08+00:00">December 11, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_time_256fd70ff91c2259282ef945985c9110: "1442423340"
 _tweet-278462418835881984: ""
 author: alper
 categories:

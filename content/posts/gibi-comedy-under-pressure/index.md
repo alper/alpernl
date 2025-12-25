@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_a2e201941ef60501c5b6f4a44ab64013: <iframe title="Gibi - Ethemin Yengesi Intihar Etmis" width="660" height="371" src="https://www.youtube.com/embed/AfEVBhn-mqY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_a2e201941ef60501c5b6f4a44ab64013: "1730546533"
 _wpas_done_all: "1"
 author: alper
 categories:

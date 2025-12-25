@@ -22,8 +22,6 @@ _g_feedback_shortcode_e9299da71a05a9042c2270b3c345741a1f5e9d97: |-
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]
   				[contact-field label="Message" type="textarea" /]
-_oembed_5da687ee173c9554de7ca9c17c6fe34f: '<blockquote class="wp-embedded-content" data-secret="mUvkW0GnAq"><a href="https://www.pv-magazine.de/2025/02/26/die-verdeckten-kosten-der-heizhammer-kampagne-24-milliarden-euro-mehrumsatz-fuer-die-gaserzeuger/">Die verdeckten Kosten der Heizhammer-Kampagne: 24 Milliarden Euro Mehrumsatz für die Gaserzeuger</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8222;Die verdeckten Kosten der Heizhammer-Kampagne: 24 Milliarden Euro Mehrumsatz für die Gaserzeuger&#8220; &#8212; pv magazine Deutschland" src="https://www.pv-magazine.de/2025/02/26/die-verdeckten-kosten-der-heizhammer-kampagne-24-milliarden-euro-mehrumsatz-fuer-die-gaserzeuger/embed/#?secret=EKndyGyLhC#?secret=mUvkW0GnAq" data-secret="mUvkW0GnAq" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_5da687ee173c9554de7ca9c17c6fe34f: "1742633182"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,7 +1,4 @@
 ---
-_oembed_b01aa3515b3c678d148b12a97e59b438: '{{unknown}}'
-_oembed_d2cc64b65363ef19820fa98de36d844d: <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://nondeterministic.computer/@martin/113039967645896991/embed#?secret=nXYOXXOXZ8" data-secret="nXYOXXOXZ8" width="660" height="990"></iframe>
-_oembed_time_d2cc64b65363ef19820fa98de36d844d: "1730655591"
 _wpas_done_all: "1"
 author: alper
 categories:

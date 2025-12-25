@@ -1,7 +1,4 @@
 ---
-_oembed_0888b974c38dd9f6c0c1711c28c6f0e5: '<blockquote class="wp-embedded-content" data-secret="KyAQVO0HQ9"><a href="https://www.dahrendorf-forum.eu/research-2017-2019-governance-institutions-and-policy-foresight-project/">Dahrendorf Foresight Project</a></blockquote><iframe title="&#8220;Dahrendorf Foresight Project&#8221; &#8212; The Dahrendorf Forum" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.dahrendorf-forum.eu/research-2017-2019-governance-institutions-and-policy-foresight-project/embed/#?secret=KyAQVO0HQ9" data-secret="KyAQVO0HQ9" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_dcb4a4fcbda5e617c303bdf7e428c197: '{{unknown}}'
-_oembed_time_0888b974c38dd9f6c0c1711c28c6f0e5: "1569422400"
 _wpas_done_all: "1"
 author: alper
 categories:

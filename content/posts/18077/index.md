@@ -22,8 +22,6 @@ _g_feedback_shortcode_c8a4900bdd90c89f5dd0e1ee76fd3bc5382fdb75: |-
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]
   				[contact-field label="Message" type="textarea" /]
-_oembed_e238fd4349c8d697fb212c5f51f8da92: '<blockquote class="wp-embedded-content" data-secret="MyW7K0w9gk"><a href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/">Undergraduate Upends a 40-Year-Old Data Science Conjecture</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Undergraduate Upends a 40-Year-Old Data Science Conjecture&#8221; &#8212; Quanta Magazine" src="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/embed/#?secret=zzlLfrOHvl#?secret=MyW7K0w9gk" data-secret="MyW7K0w9gk" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_e238fd4349c8d697fb212c5f51f8da92: "1739898589"
 _wpas_done_all: "1"
 author: alper
 categories:

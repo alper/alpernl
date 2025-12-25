@@ -1,6 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_cf0a8fb34c78bff0822292766e227553: '{{unknown}}'
 _wp_old_date: "2022-09-24"
 _wpas_done_all: "1"
 author: alper

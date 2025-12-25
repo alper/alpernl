@@ -1,8 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_38b991a45a965b53ab0df480b1ce19ff: '{{unknown}}'
-_oembed_f8be7c0134cbedf89dcf329bbf9d462a: <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://chaos.social/@afelia/109631019638041653/embed#?secret=tKNKz6332y" data-secret="tKNKz6332y" width="660" height="990"></iframe>
-_oembed_time_f8be7c0134cbedf89dcf329bbf9d462a: "1675032419"
 _wpas_done_all: "1"
 author: alper
 categories:

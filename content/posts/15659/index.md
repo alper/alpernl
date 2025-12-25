@@ -1,7 +1,4 @@
 ---
-_oembed_1ab5e01457890a2d2c9a9efd06fa6b34: '{{unknown}}'
-_oembed_e62c95d86d50bad36cd8ef932cf49029: '<blockquote class="wp-embedded-content" data-secret="djP7OC4mrQ"><a href="https://berlin.pm-camp.org/2019/08/22/der-wind-in-unseren-segeln/">Der Wind in unseren Segeln</a></blockquote><iframe title="&#8222;Der Wind in unseren Segeln&#8220; &#8212; PM Camp Berlin" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://berlin.pm-camp.org/2019/08/22/der-wind-in-unseren-segeln/embed/#?secret=djP7OC4mrQ" data-secret="djP7OC4mrQ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_e62c95d86d50bad36cd8ef932cf49029: "1567365875"
 _wpas_done_all: "1"
 author: alper
 categories:

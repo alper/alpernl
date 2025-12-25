@@ -1,7 +1,4 @@
 ---
-_oembed_6f97e83a85dbdf28e755e8d1836618c3: '{{unknown}}'
-_oembed_b1a3267cd0b5fa3211acfb17e2119917: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">I really cannot emphasize enough that the auto industry&#39;s own marketing research has identified SUV buyers as profound assholes <a href="https://t.co/r2kDRNzeZP">https://t.co/r2kDRNzeZP</a> <a href="https://t.co/5066mXV965">pic.twitter.com/5066mXV965</a></p>&mdash; Aaron W. Gordon (@A_W_Gordon) <a href="https://twitter.com/A_W_Gordon/status/1224385645839253506?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_b1a3267cd0b5fa3211acfb17e2119917: "1581203527"
 _wpas_done_all: "1"
 author: alper
 categories:

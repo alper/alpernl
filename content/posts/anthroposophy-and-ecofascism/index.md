@@ -1,10 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_197d6bb176d0ad095b326e488b070a8d: '<blockquote class="wp-embedded-content" data-secret="bry9YMC8bO"><a href="https://social-ecology.org/wp/2009/01/anthroposophy-and-ecofascism-2/">Anthroposophy and Ecofascism</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Anthroposophy and Ecofascism&#8221; &#8212; Institute for Social Ecology" src="https://social-ecology.org/wp/2009/01/anthroposophy-and-ecofascism-2/embed/#?secret=e7Q64zDeeA#?secret=bry9YMC8bO" data-secret="bry9YMC8bO" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_269bc4e48aa6cafa889c499bcc3a50ec: '{{unknown}}'
-_oembed_a20b5bb41b275275c7bf8e4f4497b224: '<blockquote class="wp-embedded-content" data-secret="otKeFu757v"><a href="https://social-ecology.org/wp/2009/01/anthroposophy-and-ecofascism-2/">Anthroposophy and Ecofascism</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Anthroposophy and Ecofascism&#8221; &#8212; Institute for Social Ecology" src="https://social-ecology.org/wp/2009/01/anthroposophy-and-ecofascism-2/embed/#?secret=otKeFu757v" data-secret="otKeFu757v" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_197d6bb176d0ad095b326e488b070a8d: "1730547813"
-_oembed_time_a20b5bb41b275275c7bf8e4f4497b224: "1643503209"
 _wpas_done_all: "1"
 author: alper
 categories:

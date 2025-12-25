@@ -1,30 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_0ea96b69a53b857a923dc914dfa57b73: <blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr">Vanavond gaat <a href="https://twitter.com/alper">@alper</a> aan programmeren voor beginners doen via <a href="https://twitter.com/Gidsynews">@Gidsynews</a> Eens kijken of het Blom-proof is</p>&mdash; erwin blom (@erwblo) <a href="https://twitter.com/erwblo/status/243393487825952768">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_2e80c118af75c624e0496914652223f6: '{{unknown}}'
-_oembed_4b26ac7246f58d2dd8ea431adcfa1609: '<blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr">Mocht je twijfelen over een beginnerscursus programmeren bij <a href="https://twitter.com/alper">@alper</a>: Doen! Heel veel Eureka-momentjes binnen 2 uur.</p>&mdash; Jerry Vermanen (@JerryVermanen) <a href="https://twitter.com/JerryVermanen/status/243447862527135744">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_5f259f317876d2ec7996c7cba90124c4: '{{unknown}}'
-_oembed_9eadadf4621f73e69832d1d8e1160839: <blockquote class="twitter-tweet" width="500"><p>Was leuke avond met @<a href="https://twitter.com/alper">alper</a> over de eenvoud van programmeren.</p>&mdash; erwin blom (@erwblo) <a href="https://twitter.com/erwblo/status/243448305923813377" data-datetime="2012-09-05T20:39:33+00:00">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_16b29183488277ada642210a0f58a502: '{{unknown}}'
-_oembed_40db8b5bbeb82ba031d07269960bfdcd: <blockquote class="twitter-tweet" width="500"><p>thanks for the programming class @<a href="https://twitter.com/alper">alper</a>, inspiring it was say i must!</p>&mdash; Jeroen (@Kooistra) <a href="https://twitter.com/Kooistra/status/243442967061356544" data-datetime="2012-09-05T20:18:20+00:00">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_64b52f203f7cb3d964df08420287c564: '{{unknown}}'
-_oembed_65c2a83fabf76c9c47173fbb8372e0b7: <blockquote class="twitter-tweet" width="500"><p>Vanavond gaat @<a href="https://twitter.com/alper">alper</a> aan programmeren voor beginners doen via @<a href="https://twitter.com/gidsynews">gidsynews</a> Eens kijken of het Blom-proof is</p>&mdash; erwin blom (@erwblo) <a href="https://twitter.com/erwblo/status/243393487825952768" data-datetime="2012-09-05T17:01:44+00:00">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_68db6134443a3863b39e810e0cd1aa11: '{{unknown}}'
-_oembed_73d6b9a6ca321e29a873a79bf28e8b13: '{{unknown}}'
-_oembed_573dfcd216907c2889c9d5f8987d8be5: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr"><a href="https://twitter.com/alper">@alper</a>! Twitter Happy Birthday. 6 years since the day of registration <a href="https://twitter.com/hashtag/numbers?src=hash">#numbers</a></p>&mdash; Calculate (@clclt) <a href="https://twitter.com/clclt/status/242982186037411840">September 4, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_8157146632c62fa6d5e7d510b5108992: <blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr">Was leuke avond met <a href="https://twitter.com/alper">@alper</a> over de eenvoud van programmeren.</p>&mdash; erwin blom (@erwblo) <a href="https://twitter.com/erwblo/status/243448305923813377">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_c124371836c26efaa2c5d0312a834968: '{{unknown}}'
-_oembed_cf9fb2f77ab51b71d63e1dad71d52799: '<blockquote class="twitter-tweet" width="500"><p>Mocht je twijfelen over een beginnerscursus programmeren bij @<a href="https://twitter.com/alper">alper</a>: Doen! Heel veel Eureka-momentjes binnen 2 uur.</p>&mdash; Jerry Vermanen (@JerryVermanen) <a href="https://twitter.com/JerryVermanen/status/243447862527135744" data-datetime="2012-09-05T20:37:48+00:00">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_e1b6ba14e82fa55f888a5272be88f8a2: '{{unknown}}'
-_oembed_e5cd510e280e381fa109abe4b2df13d3: '{{unknown}}'
-_oembed_e5dbe23f9972364076452f6f8b5fc64e: '{{unknown}}'
-_oembed_fb53439ac3e7b6d341c66a900f61cf0c: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">thanks for the programming class <a href="https://twitter.com/alper">@alper</a>, inspiring it was say i must!</p>&mdash; Jeroen (@Kooistra) <a href="https://twitter.com/Kooistra/status/243442967061356544">September 5, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_ff27e284b651f1c3f95e2f258d4dee65: <blockquote class="twitter-tweet" width="500"><p>@<a href="https://twitter.com/alper">alper</a>! Twitter Happy Birthday. 6 years since the day of registration <a href="https://twitter.com/search/%23numbers">#numbers</a></p>&mdash; Calculate (@clclt) <a href="https://twitter.com/clclt/status/242982186037411840" data-datetime="2012-09-04T13:47:22+00:00">September 4, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_0ea96b69a53b857a923dc914dfa57b73: "1442424919"
-_oembed_time_4b26ac7246f58d2dd8ea431adcfa1609: "1442424919"
-_oembed_time_573dfcd216907c2889c9d5f8987d8be5: "1442424918"
-_oembed_time_8157146632c62fa6d5e7d510b5108992: "1442424919"
-_oembed_time_fb53439ac3e7b6d341c66a900f61cf0c: "1442424919"
 _tweet-242982186037411840: ""
 _tweet-243393487825952768: ""
 _tweet-243442967061356544: ""

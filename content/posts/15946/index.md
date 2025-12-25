@@ -1,6 +1,4 @@
 ---
-_oembed_1ba4c76a961d99d951c222913c074ebd: <iframe title="A Deeper Look at Urban Arrow - The Dutch Cargo Bike Company" width="660" height="371" src="https://www.youtube.com/embed/pye09heBqfY?start=240&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_1ba4c76a961d99d951c222913c074ebd: "1730546541"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,7 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_51ebcbdd2fa58589023390a9b27a248a: <iframe title="29c3 Long Live the Protocoletariat" width="660" height="371" src="https://www.youtube.com/embed/4HHhGKgYUGY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_51ebcbdd2fa58589023390a9b27a248a: "1730829102"
 author: alper
 categories:
   - english

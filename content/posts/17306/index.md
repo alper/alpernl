@@ -1,9 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_03c3b5c7f736613ee0464d9e2f430d06: '<blockquote class="wp-embedded-content" data-secret="510xSw0nEw"><a href="https://going-medieval.com/2023/07/26/on-successor-states-and-websites/">On successor states and&nbsp;websites</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;On successor states and&nbsp;websites&#8221; &#8212; Going Medieval" src="https://going-medieval.com/2023/07/26/on-successor-states-and-websites/embed/#?secret=xUcLwhD7ZS#?secret=510xSw0nEw" data-secret="510xSw0nEw" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_8f6ea084df7561162462d0293d4cbfeb: '<blockquote class="wp-embedded-content" data-secret="q90DrEjkX7"><a href="https://going-medieval.com/2023/07/26/on-successor-states-and-websites/">On successor states and&nbsp;websites</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;On successor states and&nbsp;websites&#8221; &#8212; Going Medieval" src="https://going-medieval.com/2023/07/26/on-successor-states-and-websites/embed/#?secret=XD8taBBtXd#?secret=q90DrEjkX7" data-secret="q90DrEjkX7" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_03c3b5c7f736613ee0464d9e2f430d06: "1699260059"
-_oembed_time_8f6ea084df7561162462d0293d4cbfeb: "1730547800"
 _wpas_done_all: "1"
 author: alper
 categories:

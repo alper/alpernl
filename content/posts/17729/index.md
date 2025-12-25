@@ -1,5 +1,4 @@
 ---
-_oembed_2aa7ba146d2c850a8ea7a303f6771ebd: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

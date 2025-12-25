@@ -1,7 +1,4 @@
 ---
-_oembed_1dfe1120962471d3be414b062948df44: '<blockquote class="wp-embedded-content" data-secret="rCtpoyMKJD"><a href="https://www.hpdetijd.nl/2020-10-14/twee-eeuwen-oranjebitter/">Twee eeuwen oranjebitter</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Twee eeuwen oranjebitter&#8221; &#8212; HP/De Tijd" src="https://www.hpdetijd.nl/2020-10-14/twee-eeuwen-oranjebitter/embed/#?secret=rCtpoyMKJD" data-secret="rCtpoyMKJD" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_f26d309350bdd7ba93482538423280c8: '{{unknown}}'
-_oembed_time_1dfe1120962471d3be414b062948df44: "1603487380"
 _wpas_done_all: "1"
 author: alper
 categories:

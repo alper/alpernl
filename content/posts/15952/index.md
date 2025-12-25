@@ -1,8 +1,4 @@
 ---
-_oembed_3fe1422d84a5a602924b690ddc25974b: <iframe title="#49 Cody Hochstenbach over de wooncrisis en hoe deze te fiksen by Studio Tegengif" width="660" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F748047841&show_artwork=true&maxheight=990&maxwidth=660"></iframe>
-_oembed_87bf997f108e2730a67da01959653e77: <iframe title="#49 Cody Hochstenbach over de wooncrisis en hoe deze te fiksen by Studio Tegengif" width="660" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F748047841&show_artwork=true&maxwidth=660&maxheight=990&dnt=1"></iframe>
-_oembed_time_3fe1422d84a5a602924b690ddc25974b: "1730544762"
-_oembed_time_87bf997f108e2730a67da01959653e77: "1580335167"
 _wpas_done_all: "1"
 author: alper
 categories:

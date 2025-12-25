@@ -1,7 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_4c38e3b8683b7f8c104a4c7d0072c852: <iframe title="How To Blow Up A Pipeline - Official Trailer - In Theaters April 7" width="660" height="371" src="https://www.youtube.com/embed/bSb585bGYmQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_4c38e3b8683b7f8c104a4c7d0072c852: "1730551215"
 _wpas_done_all: "1"
 author: alper
 categories:

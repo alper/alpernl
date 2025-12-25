@@ -1,17 +1,4 @@
 ---
-_oembed_3b54c12b3e588448f006d562739cddb5: '<iframe title="Vizekanzler bezieht klar Stellung: Viel beachtete Israel-Rede: Habecks Video in voller Länge | ntv" width="660" height="371" src="https://www.youtube.com/embed/-JfiOOuXG2Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-_oembed_3cdb84329f72fa56b12f4a5ae8486fec: '<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="de" dir="ltr">…und spontan stimmt der Saal ein Ständchen an für AuÃŸenministerin  <a href="https://twitter.com/hashtag/Baerbock?src=hash&amp;ref_src=twsrc%5Etfw">#Baerbock</a> beim <a href="https://twitter.com/hashtag/GT23?src=hash&amp;ref_src=twsrc%5Etfw">#GT23</a> : <a href="https://t.co/AhZn1pNkBA">pic.twitter.com/AhZn1pNkBA</a></p>&mdash; Christoph Strack (@Strack_C) <a href="https://twitter.com/Strack_C/status/1735629355668173297?ref_src=twsrc%5Etfw">December 15, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_6dd22a1e2506b3e246a712621551f68e: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">German &quot;Feminist&quot; FM Baerbock unapologetically justifies Israeli war crimes and renders international law meaningless.<br><br>In 2003, Germany proudly stood against Bush&#39;s illegal invasion of Iraq. Those days are gone.<br><br>Seems like we are back to the Germany of the 1930s... <a href="https://t.co/LfWxVlStyf">pic.twitter.com/LfWxVlStyf</a></p>&mdash; Trita Parsi (@tparsi) <a href="https://twitter.com/tparsi/status/1846186196419924294?ref_src=twsrc%5Etfw">October 15, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_7fb87216952683713f793eeb102ea462: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="de" dir="ltr">Warum laden Grüne MdBs wie Max Lucks, Konstantin von Notz etc sich für Gespräch über Antisemitismus nicht eine betroffene Person oder Expertin in den Bundestag, sondern Daniel Ryan-Spaulding, der sich online profiliert indem er jüdische Holocaust-Ãœberlebende mit Kapos vergleicht? <a href="https://t.co/AUjuRCYZ8a">pic.twitter.com/AUjuRCYZ8a</a></p>&mdash; Hanno Hauenstein (@hahauenstein) <a href="https://twitter.com/hahauenstein/status/1771455044098871704?ref_src=twsrc%5Etfw">March 23, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_64c06c146c088b483abc6bd5f306a478: '{{unknown}}'
-_oembed_90b9889ec5ed15f4cb2d10b1e6fbfe22: <iframe title="Kundgebung des „Solidaritätsbündnis Israel“, 20. Mai 2021, Brandenburger Tor, Berlin" width="660" height="371" src="https://www.youtube.com/embed/m3o2kD3sy5E?start=2669&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_c14ccf04f1a3d6475c3f2e9c0e384c22: '{{unknown}}'
-_oembed_db433af9f780fe6192b7ee9f811771f1: '{{unknown}}'
-_oembed_time_3b54c12b3e588448f006d562739cddb5: "1730544793"
-_oembed_time_3cdb84329f72fa56b12f4a5ae8486fec: "1722532504"
-_oembed_time_6dd22a1e2506b3e246a712621551f68e: "1729147519"
-_oembed_time_7fb87216952683713f793eeb102ea462: "1722532622"
-_oembed_time_90b9889ec5ed15f4cb2d10b1e6fbfe22: "1730544792"
 _wpas_done_all: "1"
 author: alper
 categories:

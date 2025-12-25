@@ -1,10 +1,4 @@
 ---
-_oembed_30916cc105c4848994d57067622b7839: '{{unknown}}'
-_oembed_cf3404c2ca80ecc6ca9b84cdc31f93ec: <a href="https://lorinhochstein.wordpress.com/2019/08/22/the-problem-with-counterfactuals/">The problem with&nbsp;counterfactuals</a>
-_oembed_e6df39f22e02e22c3ac1471931491bb4: '{{unknown}}'
-_oembed_f7cd6130cb834cfc6c47c7f4cc5242c1: <a href="https://lorinhochstein.wordpress.com/2019/08/20/tuning-to-the-future/">Tuning to the&nbsp;future</a>
-_oembed_time_cf3404c2ca80ecc6ca9b84cdc31f93ec: "1571582880"
-_oembed_time_f7cd6130cb834cfc6c47c7f4cc5242c1: "1571582879"
 _wpas_done_all: "1"
 author: alper
 categories:

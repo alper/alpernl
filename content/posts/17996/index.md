@@ -1,6 +1,4 @@
 ---
-_oembed_15b6b29b6a4c31e6f31f2d383b14bef6: '<blockquote class="wp-embedded-content" data-secret="abUpmKwQA6"><a href="https://kellblog.com/2015/05/13/career-advice-simplifiers-go-far-complexifiers-get-stuck/">Career Advice:  Simplifiers Go Far, Complexifiers Get Stuck</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Career Advice:  Simplifiers Go Far, Complexifiers Get Stuck&#8221; &#8212; Kellblog" src="https://kellblog.com/2015/05/13/career-advice-simplifiers-go-far-complexifiers-get-stuck/embed/#?secret=Tfa3VumM5b#?secret=abUpmKwQA6" data-secret="abUpmKwQA6" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_15b6b29b6a4c31e6f31f2d383b14bef6: "1738700356"
 _wpas_done_all: "1"
 author: alper
 categories:

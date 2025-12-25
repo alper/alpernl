@@ -1,11 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_7fe03f112bbaa3722c3ac3148b0b2e8a: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">ðŸš¨New EpisodeðŸš¨<br><br>National and international health authorities dropped pre-pandemic plans in favour of open-ended nationwide lockdowns. The big question is why.<br><br>/321/ Covid Dissensus ft. <a href="https://twitter.com/toby00green?ref_src=twsrc%5Etfw">@toby00green</a> &amp; <a href="https://twitter.com/battleforeurope?ref_src=twsrc%5Etfw">@battleforeurope</a> <a href="https://t.co/ngdP3FPGEn">https://t.co/ngdP3FPGEn</a> <a href="https://t.co/qQ1sZOJYZQ">pic.twitter.com/qQ1sZOJYZQ</a></p>&mdash; Aufhebunga Bunga (@BungaCast) <a href="https://twitter.com/BungaCast/status/1625430144897671168?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_27f63bf64942ac870cb88628b393c1ca: <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">This discussion of Covid &quot;lockdown skeptics&quot; by Richard Seymour, whose arrogance in this instance is tremendously valuable, dismantles certain left wing critiques of pandemic public health &amp; diagnoses the underlying psychopathology. <a href="https://t.co/1VY1z7ulIo">https://t.co/1VY1z7ulIo</a> From <a href="https://twitter.com/poltheoryother?ref_src=twsrc%5Etfw">@poltheoryother</a>.</p>&mdash; Matthew Noah Smith (@MattNoahSmith) <a href="https://twitter.com/MattNoahSmith/status/1625900511223484416?ref_src=twsrc%5Etfw">February 15, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_99be0139410230e80454f5f980d4d739: '{{unknown}}'
-_oembed_e071a8dab6603d64c2c6f57be0d5deed: '{{unknown}}'
-_oembed_time_7fe03f112bbaa3722c3ac3148b0b2e8a: "1676499756"
-_oembed_time_27f63bf64942ac870cb88628b393c1ca: "1676499756"
 _wpas_done_all: "1"
 author: alper
 categories:

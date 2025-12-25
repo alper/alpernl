@@ -1,6 +1,4 @@
 ---
-_oembed_a77961f7369b5bcc763aa181e6f3e894: <iframe src="https://player.vimeo.com/video/229954108?dnt=1&amp;app_id=122963" width="660" height="371" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write"></iframe>
-_oembed_time_a77961f7369b5bcc763aa181e6f3e894: "1730890282"
 _wpas_done_all: "1"
 author: alper
 categories:

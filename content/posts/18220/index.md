@@ -22,8 +22,6 @@ _g_feedback_shortcode_atts_61d6be1f71edd453bf8368283e8401b755b0a236:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_oembed_51c9fb5587f09d0832792daca0e28cca: '<blockquote class="wp-embedded-content" data-secret="QqqHMFl9G0"><a href="https://joelitobarski.com/posiwid/">POSIWID</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;POSIWID&#8221; &#8212; Joe Litobarski" src="https://joelitobarski.com/posiwid/embed/#?secret=EkEJB5VcjK#?secret=QqqHMFl9G0" data-secret="QqqHMFl9G0" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_51c9fb5587f09d0832792daca0e28cca: "1745452740"
 _wpas_done_all: "1"
 author: alper
 categories:

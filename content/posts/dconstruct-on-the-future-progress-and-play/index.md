@@ -1,10 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_8b648ca43c8049b56d915618f92bffb6: '{{unknown}}'
-_oembed_10d9b4f3e841afb5f26e7981c5fa3f2e: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">You guys all just missed out. <a href="https://twitter.com/infovore">@infovore</a> killed it. Trust in Play. playing is making</p>&mdash; James Handwaver  (@monkchips) <a href="https://twitter.com/monkchips/status/244104752739266560">September 7, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_d03f9e10c8c72bb867d33a8bba256c27: <blockquote class="twitter-tweet" width="500"><p>You guys all just missed out. @<a href="https://twitter.com/infovore">infovore</a> killed it. Trust in Play. playing is making</p>&mdash; James Governor (@monkchips) <a href="https://twitter.com/monkchips/status/244104752739266560" data-datetime="2012-09-07T16:08:02+00:00">September 7, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_f069ea056562c612a0d86c852836dd1d: <blockquote class="twitter-tweet" width="500"><p>You guys all just missed out. @<a href="https://twitter.com/infovore">infovore</a> killed it. Trust in Play. playing is making</p>&mdash; James Governor (@monkchips) <a href="https://twitter.com/monkchips/status/244104752739266560" data-datetime="2012-09-07T16:08:02+00:00">September 7, 2012</a></blockquote><script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_10d9b4f3e841afb5f26e7981c5fa3f2e: "1442438468"
 _tweet-244104752739266560: ""
 author: alper
 categories:

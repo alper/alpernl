@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_2a8b3e4d436c0a51fd53efeb6b79faf0: <blockquote class="twitter-tweet" width="500"><p>@<a href="https://twitter.com/alper">alper</a> Not according to Dennett in his essay "Quining Qualia." There,wine writing is mocked as not providing anything valuable for humans.</p>&mdash; GrahamHarman (@DrZamalek) <a href="https://twitter.com/DrZamalek/status/321888255505211392">April 10, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_8895a91bd798b45af55ad49a1b72bb45: <blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr"><a href="https://twitter.com/alper">@alper</a> Not according to Dennett in his essay &quot;Quining Qualia.&quot; There,  wine writing is mocked as not providing anything valuable for humans.</p>&mdash; GrahamHarman (@DrZamalek) <a href="https://twitter.com/DrZamalek/status/321888255505211392">April 10, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_d514a07e5281d5193d052362afe5ff16: '{{unknown}}'
-_oembed_time_8895a91bd798b45af55ad49a1b72bb45: "1442423137"
 author: alper
 categories:
   - berlin

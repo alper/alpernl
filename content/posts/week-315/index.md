@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_a27965e003b17361e6db92896d521c66: <iframe width="500" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85005326&show_artwork=true&maxwidth=500&maxheight=750"></iframe>
-_oembed_b2565f5dfc9150fdf7dc3033523a75ae: <iframe width="660" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85005326&show_artwork=true&maxwidth=660&maxheight=990"></iframe>
-_oembed_d047d4e3ac02e171ac7506acd20c2342: '{{unknown}}'
-_oembed_time_b2565f5dfc9150fdf7dc3033523a75ae: "1442423137"
 author: alper
 categories:
   - english

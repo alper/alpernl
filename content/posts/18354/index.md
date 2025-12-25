@@ -1,6 +1,4 @@
 ---
-_oembed_626f43546f41289cd507ecf5d42b7a11: <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="Past Present Future" src="https://pca.st/embed/pchayji7#?secret=lL50r8Dkyg" data-secret="lL50r8Dkyg" frameborder="0"></iframe>
-_oembed_time_626f43546f41289cd507ecf5d42b7a11: "1758974088"
 _wpas_done_all: "1"
 author: alper
 categories:

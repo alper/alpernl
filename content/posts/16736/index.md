@@ -1,9 +1,5 @@
 ---
 _last_editor_used_jetpack: block-editor
-_oembed_3b97bc0b0d9465904f77f20b7ef4cb6d: '<blockquote class="wp-embedded-content" data-secret="F5ygIsJJqw"><a href="https://parisinstitute.org/the-real-academy-in-exile/">The Real Academy in Exile (Censored)</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;The Real Academy in Exile (Censored)&#8221; &#8212; The Paris Institute" src="https://parisinstitute.org/the-real-academy-in-exile/embed/#?secret=d69g752TNm#?secret=F5ygIsJJqw" data-secret="F5ygIsJJqw" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_5f7ce17be741883db8b95d0684047565: '<blockquote class="wp-embedded-content" data-secret="oYWvSNosuI"><a href="https://parisinstitute.org/the-real-academy-in-exile/">The Real Academy in Exile (Censored)</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;The Real Academy in Exile (Censored)&#8221; &#8212; The Paris Institute" src="https://parisinstitute.org/the-real-academy-in-exile/embed/#?secret=SoRUE3st1Q#?secret=oYWvSNosuI" data-secret="oYWvSNosuI" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_3b97bc0b0d9465904f77f20b7ef4cb6d: "1730546537"
-_oembed_time_5f7ce17be741883db8b95d0684047565: "1646654027"
 _wpas_done_all: "1"
 author: alper
 categories:

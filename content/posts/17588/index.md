@@ -1,6 +1,4 @@
 ---
-_oembed_117dda3662f3bf287d030d28f7f9759c: '<iframe title="Running on empty: surviving a hydrogen-powered road trip" width="660" height="371" src="https://www.youtube.com/embed/Mc9XaeEyZ8M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-_oembed_time_117dda3662f3bf287d030d28f7f9759c: "1730544797"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,6 +1,4 @@
 ---
-_oembed_8f46d31631a067bf3e0fdf4c1b592ec7: <iframe title="I Cycled 2500km in London — Here&#039;s How It Changed My Life" width="660" height="371" src="https://www.youtube.com/embed/Dmf6aEx09Oo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_8f46d31631a067bf3e0fdf4c1b592ec7: "1756196379"
 _wpas_done_all: "1"
 author: alper
 categories:

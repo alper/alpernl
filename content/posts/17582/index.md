@@ -1,6 +1,4 @@
 ---
-_oembed_f38a47b644ecfefec5e8825ea80501af: '<iframe title="Reasons to Ride : a film on SRMR2023" width="660" height="371" src="https://www.youtube.com/embed/9giD0_EN8QY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-_oembed_time_f38a47b644ecfefec5e8825ea80501af: "1730544798"
 _wpas_done_all: "1"
 author: alper
 categories:

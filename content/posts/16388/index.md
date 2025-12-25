@@ -1,6 +1,4 @@
 ---
-_oembed_32ab33a56559aadeae639ebc6f0b7cfa: '{{unknown}}'
-_oembed_dc7bee0a624f40ab1ab16443bd97726d: '{{unknown}}'
 _wpas_done_all: "1"
 author: alper
 categories:

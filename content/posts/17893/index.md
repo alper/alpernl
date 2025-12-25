@@ -1,6 +1,4 @@
 ---
-_oembed_70de81ea81964724306bbf526d41e548: <iframe title="The Comments Section - 2025 Summer Lamb ad" width="660" height="371" src="https://www.youtube.com/embed/75BAUXZyWw0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_70de81ea81964724306bbf526d41e548: "1736595884"
 _wpas_done_all: "1"
 author: alper
 categories:

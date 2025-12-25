@@ -1,15 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_0f8822d2344ec914c68d2b980827b2d5: <blockquote class="twitter-tweet" width="500"><p>Nooit eerder ter wereld vond een <a href="https://twitter.com/search/%23hackaton">#hackaton</a> plaats in een parlement, <a href="https://twitter.com/search/%23tweedekamer">#tweedekamer</a> heeft de primeur. Goed zeg! <a href="https://twitter.com/search/%23appdemocratie">#appdemocratie</a></p>&mdash; Lisa Vermeer (@Lisadichtbij) <a href="https://twitter.com/Lisadichtbij/status/244398354044440576" data-datetime="2012-09-08T11:34:42+00:00">September 8, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_3a20feeed9eb3fb59c999a7797a38dc8: '{{unknown}}'
-_oembed_3b4974431e6c45cf3817d7c97ddfc911: '{{unknown}}'
-_oembed_9a62de7a56bbda2c05dff37d2c0e8b0c: <blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr">Nooit eerder ter wereld vond een <a href="https://twitter.com/hashtag/hackaton?src=hash">#hackaton</a> plaats in een parlement, <a href="https://twitter.com/hashtag/tweedekamer?src=hash">#tweedekamer</a> heeft de primeur. Goed zeg! <a href="https://twitter.com/hashtag/appdemocratie?src=hash">#appdemocratie</a></p>&mdash; Lisa Vermeer (@Lisadichtbij) <a href="https://twitter.com/Lisadichtbij/status/244398354044440576">September 8, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_58b621badf4c7bbd3fcc5597d4da7201: '{{unknown}}'
-_oembed_725756b55cfd726117042c63e30f781f: <blockquote class="twitter-tweet" width="550"><p lang="nl" dir="ltr"><a href="https://twitter.com/hashtag/appdemocratie?src=hash">#appdemocratie</a> klinkt als een mooi evenement. In de Tweede Kamer praten developers met politici over open data en maken ze apps ermee.</p>&mdash; Alexander Klöpping (@AlexanderNL) <a href="https://twitter.com/AlexanderNL/status/244443168869851136">September 8, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_a14f287cbf8db7efe07651023b622b3d: '{{unknown}}'
-_oembed_f69e98bfa4085ec31787e54bea82dbb9: <blockquote class="twitter-tweet" width="500"><p><a href="https://twitter.com/search/%23appdemocratie">#appdemocratie</a> klinkt als een mooi evenement. In de Tweede Kamer praten developers met politici over open data en maken ze apps ermee.</p>&mdash; Alexander Klöpping (@AlexanderNL) <a href="https://twitter.com/AlexanderNL/status/244443168869851136" data-datetime="2012-09-08T14:32:47+00:00">September 8, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_9a62de7a56bbda2c05dff37d2c0e8b0c: "1442443625"
-_oembed_time_725756b55cfd726117042c63e30f781f: "1442443625"
 _tweet-244398354044440576: ""
 _tweet-244443168869851136: ""
 author: alper

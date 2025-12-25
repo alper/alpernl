@@ -1,10 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_9aa29fc1825f9b75d43f50d1947dde45: <blockquote class="twitter-tweet" width="550"><p lang="de" dir="ltr"><a href="https://twitter.com/saschalobo">@saschalobo</a> Das deutsche Netz ist schon kaput und den Verlagen möchte ich gerne schaden.</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/246181714177695744">September 13, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_30c3b9083400406b5f7024687168b00f: <blockquote class="twitter-tweet" data-in-reply-to="246172779551027200" width="500"><p>@<a href="https://twitter.com/saschalobo">saschalobo</a> Das deutsche Netz ist schon kaput und den Verlagen möchte ich gerne schaden.</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/246181714177695744" data-datetime="2012-09-13T09:41:09+00:00">September 13, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_91fd79cdf2b8c1d6fa3d0e7ec6069499: '{{unknown}}'
-_oembed_6810e25de0c7d994fa2ce93001158bab: <blockquote class="twitter-tweet" data-in-reply-to="246172779551027200" width="500"><p>@<a href="https://twitter.com/saschalobo">saschalobo</a> Das deutsche Netz ist schon kaput und den Verlagen möchte ich gerne schaden.</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/246181714177695744" data-datetime="2012-09-13T09:41:09+00:00">September 13, 2012</a></blockquote><script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-_oembed_time_9aa29fc1825f9b75d43f50d1947dde45: "1442447672"
 _tweet-246181714177695744: ""
 author: alper
 categories:

@@ -1,6 +1,4 @@
 ---
-_oembed_264badce50b4351f694fa2eb2f641518: '<blockquote class="wp-embedded-content" data-secret="u0C19gzHUT"><a href="https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/">Storing UTC is not a silver&nbsp;bullet</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Storing UTC is not a silver&nbsp;bullet&#8221; &#8212; Jon Skeet&#039;s coding blog" src="https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/embed/#?secret=Qan6D8v3iE#?secret=u0C19gzHUT" data-secret="u0C19gzHUT" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_264badce50b4351f694fa2eb2f641518: "1736595694"
 _wpas_done_all: "1"
 author: alper
 categories:

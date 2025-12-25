@@ -1,6 +1,4 @@
 ---
-_oembed_9dbe68573383bcb3cddbb532a21f8534: '<blockquote class="wp-embedded-content" data-secret="Um8T0bqA2P"><a href="https://aboard.com/desperately-seeking-software/">Desperately Seeking Software</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Desperately Seeking Software&#8221; &#8212; Aboard" src="https://aboard.com/desperately-seeking-software/embed/#?secret=BQKHVi3elC#?secret=Um8T0bqA2P" data-secret="Um8T0bqA2P" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_9dbe68573383bcb3cddbb532a21f8534: "1755120764"
 _wpas_done_all: "1"
 author: alper
 categories:

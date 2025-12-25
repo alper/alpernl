@@ -1,8 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_45400554c0a610cf39930267d9b44df9: '{{unknown}}'
-_oembed_e311e66ab3c009fe493d9088cc1c940e: "<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">I&#39;ve read some 71 books in 2018 and here are ten that I would like to recommend.<br><br>Goodreads has a lot more on my year: <a href=\"https://t.co/WaVBlGDiPJ\">https://t.co/WaVBlGDiPJ</a><br><br>Format inspired by <a href=\"https://twitter.com/dvdwinden?ref_src=twsrc%5Etfw\">@dvdwinden</a>&#39;s end of year list.</p>&mdash; Alper Çuğun ðŸ¤–ðŸ“–â˜•ï¸\x8F (@alper) <a href=\"https://twitter.com/alper/status/1079851386911768576?ref_src=twsrc%5Etfw\">December 31, 2018</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-_oembed_time_e311e66ab3c009fe493d9088cc1c940e: "1546548597"
 _wpas_done_all: "1"
 author: alper
 categories:

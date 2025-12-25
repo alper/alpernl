@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_dc6adc3adef224c8ab6b6967cee48099: '<blockquote class="twitter-tweet" width="500"><p>Contemporary German thinkers people came up with yesterday: Sloterdijk, Jelinek, Roche, Grass</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/280376102424297472">December 16, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_dfda669003dfa0116993ec46c30cb35d: '{{unknown}}'
-_oembed_fec15ef8fc21afd292ff88e751701d55: '<blockquote class="twitter-tweet" width="550"><p lang="en" dir="ltr">Contemporary German thinkers people came up with yesterday: Sloterdijk, Jelinek, Roche, Grass</p>&mdash; Alper Çuğun (@alper) <a href="https://twitter.com/alper/status/280376102424297472">December 16, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
-_oembed_time_fec15ef8fc21afd292ff88e751701d55: "1442428583"
 author: alper
 categories:
   - berlin

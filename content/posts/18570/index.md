@@ -1,6 +1,4 @@
 ---
-_oembed_3b905281fa7fb02e95554b4804e82f70: <iframe title="Trust as Infrastructure | Bryan Cantrill | Monktoberfest 2025" width="660" height="371" src="https://www.youtube.com/embed/WF7J7qtZ8TA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_3b905281fa7fb02e95554b4804e82f70: "1765756067"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,7 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_a241901b6b68aef0180244cc253349f5: <iframe title="Being Glue | Tanya Reilly | athenahealth Tech Talk" width="660" height="371" src="https://www.youtube.com/embed/5cr2Yn_MrKg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_oembed_time_a241901b6b68aef0180244cc253349f5: "1730696463"
 _wpas_done_all: "1"
 author: alper
 categories:

@@ -1,9 +1,5 @@
 ---
 _edit_last: "2"
-_oembed_636cd696750ba7fbe7814704d3692f31: '<blockquote class="wp-embedded-content" data-secret="MkDKdtuQhU"><a href="https://webrtchacks.com/zoom-avoids-using-webrtc/">How Zoom&#8217;s web client avoids using WebRTC (DataChannel Update)</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;How Zoom&#8217;s web client avoids using WebRTC (DataChannel Update)&#8221; &#8212; webrtcHacks" src="https://webrtchacks.com/zoom-avoids-using-webrtc/embed/#?secret=BGJURguJ7n#?secret=MkDKdtuQhU" data-secret="MkDKdtuQhU" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_fd75592c5e277c18f87c8617b70056b3: '<blockquote class="wp-embedded-content" data-secret="hv1daOCy0r"><a href="https://webrtchacks.com/zoom-avoids-using-webrtc/">How Zoom&#8217;s web client avoids using WebRTC</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://webrtchacks.com/zoom-avoids-using-webrtc/embed/#?secret=hv1daOCy0r" data-secret="hv1daOCy0r" width="600" height="338" title="&#8220;How Zoom&#8217;s web client avoids using WebRTC&#8221; &#8212; webrtcHacks" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_636cd696750ba7fbe7814704d3692f31: "1730551219"
-_oembed_time_fd75592c5e277c18f87c8617b70056b3: "1555706953"
 _wpas_done_all: "1"
 author: alper
 categories:

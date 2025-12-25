@@ -1,8 +1,4 @@
 ---
-_oembed_1eb2e0c776c172f66f74e92374c46f82: "<div class=\"embed-twitter\"><blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">&#39;Calling for a More-Than-Human Politics&#39;  - I wrote up the transcript of my talk from Tentacular Festival on Critical Activism and Fungal Revolts \U0001F344<a href=\"https://t.co/nx8vl0OjlP\">https://t.co/nx8vl0OjlP</a> <a href=\"https://t.co/79QtCHQ9i0\">pic.twitter.com/79QtCHQ9i0</a></p>&mdash; Anab Jain (@anabjain) <a href=\"https://twitter.com/anabjain/status/1230150599007756289?ref_src=twsrc%5Etfw\">February 19, 2020</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></div>"
-_oembed_c57b19b6a9534dadd18a44b402a087c8: "<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">&#39;Calling for a More-Than-Human Politics&#39;  - I wrote up the transcript of my talk from Tentacular Festival on Critical Activism and Fungal Revolts ðŸ\x8D„<a href=\"https://t.co/nx8vl0OjlP\">https://t.co/nx8vl0OjlP</a> <a href=\"https://t.co/79QtCHQ9i0\">pic.twitter.com/79QtCHQ9i0</a></p>&mdash; Anab Jain (@anabjain) <a href=\"https://twitter.com/anabjain/status/1230150599007756289?ref_src=twsrc%5Etfw\">February 19, 2020</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-_oembed_time_1eb2e0c776c172f66f74e92374c46f82: "1766011761"
-_oembed_time_c57b19b6a9534dadd18a44b402a087c8: "1598385745"
 _wpas_done_all: "1"
 author: alper
 categories:

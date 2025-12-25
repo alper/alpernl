@@ -22,8 +22,6 @@ _g_feedback_shortcode_b271cc152e89d9e9ce0f56c63b7d3429d0726019: |-
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]
   				[contact-field label="Message" type="textarea" /]
-_oembed_d0541011e2c1ba5cffc2a5d4a5a792bb: '<blockquote class="wp-embedded-content" data-secret="HpdlPeYK6S"><a href="https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/">Chatbot Software Begins to Face Fundamental Limitations</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="&#8220;Chatbot Software Begins to Face Fundamental Limitations&#8221; &#8212; Quanta Magazine" src="https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/embed/#?secret=nG6OIvp2nM#?secret=HpdlPeYK6S" data-secret="HpdlPeYK6S" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-_oembed_time_d0541011e2c1ba5cffc2a5d4a5a792bb: "1739867958"
 _wpas_done_all: "1"
 author: alper
 categories:
