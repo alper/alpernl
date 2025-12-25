@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18066
 parent_post_id: null
 post_id: "18066"
 title: ""
-url: /dingen/2025/02/18066/
+aliases:
+  - /dingen/2025/02/18066/
 
 ---
 We've revived our tech blog and will be sharing a bunch of stuff around our AI process and what it means to be an "AI first" company. Here's an in-depth first piece about what it takes to develop a successful real life product with LLMs.

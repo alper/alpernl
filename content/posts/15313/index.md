@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15313
 parent_post_id: null
 post_id: "15313"
 title: ""
-url: /dingen/2019/04/15313/
+aliases:
+  - /dingen/2019/04/15313/
 
 ---
 If Berlin votes to expropriate Deutsche Wohnen, it will be a welcome step towards decommodification of housing. Not to mention the long overdue correction that it will give the local housing market.  

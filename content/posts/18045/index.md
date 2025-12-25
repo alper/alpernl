@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18045
 parent_post_id: null
 post_id: "18045"
 title: ""
-url: /dingen/2025/02/18045/
+aliases:
+  - /dingen/2025/02/18045/
 
 ---
 SQLite is a tiny, somewhat quirky but incredibly convenient and fast database. For side projects I definitely don't bother with a "real" database anymore and for many of them I just check the entire .sqlite file into version control for easier deployments.

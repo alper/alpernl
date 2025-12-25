@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17349
 parent_post_id: null
 post_id: "17349"
 title: ""
-url: /dingen/2023/12/17349/
+aliases:
+  - /dingen/2023/12/17349/
 
 ---
 A strong analysis of the AI concept by Emily Bender who proposes we just call it “automation”instead. Which is fair because if you use these systems, it becomes incredibly obvious how they work and what their limitations are.

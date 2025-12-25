@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4660
 parent_post_id: null
 post_id: "4660"
 title: Getting building permits in Berlin
-url: /dingen/2013/06/getting-building-permits-in-berlin/
+aliases:
+  - /dingen/2013/06/getting-building-permits-in-berlin/
 
 ---
 There's an absurd amount of construction being done in my neighborhood and I presumed that as a resident somewhere you would be entitled to see the changes that are being planned in the area. Not to mention to be able to know the traffic blockades that result from this construction (which almost exclusively seem to black the foot/bike paths.

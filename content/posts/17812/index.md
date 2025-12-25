@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17812
 parent_post_id: null
 post_id: "17812"
 title: ""
-url: /dingen/2024/12/17812/
+aliases:
+  - /dingen/2024/12/17812/
 
 ---
 I use AI tools to help me program despite them being mostly very disappointing. They save me some typing once in a while.

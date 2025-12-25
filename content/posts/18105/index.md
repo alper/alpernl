@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18105
 parent_post_id: null
 post_id: "18105"
 title: ""
-url: /dingen/2025/02/18105/
+aliases:
+  - /dingen/2025/02/18105/
 
 ---
 Wheel of Time is low key one of the best fantasy tv shows out right now. Each season is going from strength to strength and the next one looks to be the best one yet.

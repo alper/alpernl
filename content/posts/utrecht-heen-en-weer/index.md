@@ -8,7 +8,8 @@ tags:
   - klantenervaring
   - trein
 title: Utrecht heen en weer
-url: /dingen/2007/11/utrecht-heen-en-weer/
+aliases:
+  - /dingen/2007/11/utrecht-heen-en-weer/
 
 ---
 Vandaag even naar Utrecht geweest voor het [Marketing3](http://www.marketing3.nl) congres.

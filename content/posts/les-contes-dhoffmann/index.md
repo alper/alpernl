@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5336
 parent_post_id: null
 post_id: "5336"
 title: Les Contes d'Hoffmann
-url: /dingen/2015/10/les-contes-dhoffmann/
+aliases:
+  - /dingen/2015/10/les-contes-dhoffmann/
 
 ---
 I went to [“Les Contes d'Hoffmann”](https://www.komische-oper-berlin.de/spielplan/les-contes-d-hoffmann/) yesterday in one of Berlin's three operas thanks to [this piece in the Guardian](http://www.theguardian.com/music/2015/oct/08/berlin-opera-weekend-staatsoper-komische-oper-deutsche-oper). Yes, I have to rely on a British paper for reliable cultural advice about Berlin.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16699
 parent_post_id: null
 post_id: "16699"
 title: ""
-url: /dingen/2022/01/16699/
+aliases:
+  - /dingen/2022/01/16699/
 
 ---
 I agree with this take by Jacob Kaplan-Moss that you should be able to estimate very accurately and then just not do it most of the time. Learning how to estimate is a non-negotiable part of building an intuition for software engineering. It's not the estimation that we need, it's the intuition.

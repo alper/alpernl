@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1905
 parent_post_id: null
 post_id: "1905"
 title: "â€œit's more of a very expensive docking station than anythingâ€\x9D"
-url: /dingen/2010/06/“-its-more-of-a-very-expensive-docking-station-than-anything”/
+aliases:
+  - /dingen/2010/06/“-its-more-of-a-very-expensive-docking-station-than-anything”/
 
 ---
 What [Ben Hammersley uses](http://ben.hammersley.usesthis.com/) (besides [the travel drug](http://benhammersley.com/post/718362399/better-out-than-in)):

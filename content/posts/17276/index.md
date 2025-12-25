@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17276
 parent_post_id: null
 post_id: "17276"
 title: ""
-url: /dingen/2023/08/17276/
+aliases:
+  - /dingen/2023/08/17276/
 
 ---
 A reasonable take to unpack and nuance uptime so that it leaves the realm of engineering and becomes a business decision as it should be.

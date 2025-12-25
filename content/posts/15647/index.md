@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15647
 parent_post_id: null
 post_id: "15647"
 title: ""
-url: /dingen/2019/09/15647/
+aliases:
+  - /dingen/2019/09/15647/
 
 ---
 I also love this proposed government based on sortition and ostracism. It seems like it could be a lot better than what we have right now.

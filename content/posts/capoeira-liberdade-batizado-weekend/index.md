@@ -12,7 +12,8 @@ tags:
   - feest
   - fotografie
 title: Capoeira Liberdade Batizado Weekend
-url: /dingen/2007/05/capoeira-liberdade-batizado-weekend/
+aliases:
+  - /dingen/2007/05/capoeira-liberdade-batizado-weekend/
 
 ---
 Nu eindelijk de foto's van afgelopen weekend een beetje naar behoren verwerkt. Hier een kleine selectie. Meer staat op [de site van Liberdade](http://www.liberdade.nl) en op Flickr staat [alles](http://www.flickr.com/photos/alper/collections/72157600283827526/) ((Ik heb nu 5000 foto's op Flickr staan. Wijs!)).

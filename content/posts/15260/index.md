@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15260
 parent_post_id: null
 post_id: "15260"
 title: ""
-url: /dingen/2019/03/15260/
+aliases:
+  - /dingen/2019/03/15260/
 
 ---
 Unexpected but more than welcome that The Verge would bring the story of Ramsey Orta, the person who filmed the killing of Eric Garner by NYPD and is now facing prison time and harassment for it.

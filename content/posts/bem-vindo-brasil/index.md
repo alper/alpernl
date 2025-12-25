@@ -8,7 +8,8 @@ tags:
   - berlijn
   - fotografie
 title: Bem vindo Brasil
-url: /dingen/2008/01/bem-vindo-brasil/
+aliases:
+  - /dingen/2008/01/bem-vindo-brasil/
 
 ---
 Ik speel dan misschien een ander Jogo Bonito (( _Joga bonito que eu quero aprender._)) maar deze gevel is er niet minder mooi door:

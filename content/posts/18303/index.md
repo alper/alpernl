@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18303
 parent_post_id: null
 post_id: "18303"
 title: ""
-url: /dingen/2025/09/18303/
+aliases:
+  - /dingen/2025/09/18303/
 
 ---
 Paris has published a climate adaptation plan for a 50C future. In Berlin I guess we'll just ignore it as long as possible.

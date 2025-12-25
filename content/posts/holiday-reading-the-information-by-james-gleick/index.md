@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5022
 parent_post_id: null
 post_id: "5022"
 title: 'Holiday Reading: The Information by James Gleick'
-url: /dingen/2014/08/holiday-reading-the-information-by-james-gleick/
+aliases:
+  - /dingen/2014/08/holiday-reading-the-information-by-james-gleick/
 
 ---
 > “The new technology was both the virus and the vector of transmission.”— Walter J. Ong

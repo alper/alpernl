@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17986
 parent_post_id: null
 post_id: "17986"
 title: ""
-url: /dingen/2025/01/17986/
+aliases:
+  - /dingen/2025/01/17986/
 
 ---
 A pretty good explanation of all the weird acronyms that make modern e-mail infrastructure absolutely inscrutable.

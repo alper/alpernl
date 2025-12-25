@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18009
 parent_post_id: null
 post_id: "18009"
 title: ""
-url: /dingen/2025/02/18009/
+aliases:
+  - /dingen/2025/02/18009/
 
 ---
 > \[…\] the abandonment of responsibility in two dimensions. Firstly, and following on from what was already happening in ‘big data’, the world stopped caring about where AI got its data — fitting in nicely with ‘ [surveillance capitalism](https://www.amazon.co.uk/Age-Surveillance-Capitalism-Future-Frontier/dp/1781256845). And secondly, contrary to what professional organisations like BCS and ACM had been preaching for years, the outcomes of AI algorithms were no longer viewed as the responsibility of their designers — or anybody, really.

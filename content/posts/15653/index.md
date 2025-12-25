@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15653
 parent_post_id: null
 post_id: "15653"
 title: ""
-url: /dingen/2019/09/15653/
+aliases:
+  - /dingen/2019/09/15653/
 
 ---
 After this piece, I'm totally sold on the benefits of mentoring (and registered myself on Coding Coach). I would be open to mentor a couple of people on engineering/product management/leadership.

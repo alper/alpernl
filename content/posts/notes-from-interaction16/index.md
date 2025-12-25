@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5501
 parent_post_id: null
 post_id: "5501"
 title: Notes from Interaction16
-url: /dingen/2016/03/notes-from-interaction16/
+aliases:
+  - /dingen/2016/03/notes-from-interaction16/
 
 ---
 I'm still waiting for the pictures of Friday to air on [the IxDA Flickr](https://www.flickr.com/photos/ixda/albums) and for the video of my talk to be posted, but here are some notes I found around the web about my talk (for my personal notebook).

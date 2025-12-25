@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16147
 parent_post_id: null
 post_id: "16147"
 title: ""
-url: /dingen/2020/07/16147/
+aliases:
+  - /dingen/2020/07/16147/
 
 ---
 "This gets at the heart of what’s deeply wrong with this perspective: it prioritizes currently non-existent, possibly never-existent, hypothetical future possible people over living, breathing people today, because the former could possibly, maybe, perhaps far outnumber the latter."

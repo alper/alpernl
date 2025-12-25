@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3066
 parent_post_id: null
 post_id: "3066"
 title: Bericht uit de Game Garden
-url: /dingen/2011/11/bericht-uit-de-game-garden/
+aliases:
+  - /dingen/2011/11/bericht-uit-de-game-garden/
 
 ---
 Ik doe recentelijk [een stukje over games voor Fast Moving Targets](http://fastmovingtargets.nl/2011/11/07/bericht-uit-de-dutch-game-garden/) en wat beter te vertellen dan mijn ervaringen uit de [Dutch Game Garden](http://dutchgamegarden.nl/). Het is een leuke plek in Utrecht, waar veel gebeurt, maar wat in Amsterdam bijna niet aankomt. Een poging om een brug te slaan:

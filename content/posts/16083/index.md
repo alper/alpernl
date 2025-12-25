@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16083
 parent_post_id: null
 post_id: "16083"
 title: ""
-url: /dingen/2020/05/16083/
+aliases:
+  - /dingen/2020/05/16083/
 
 ---
 An overview of the philosophical and technical revolutions that are necessary to be able to develop in production. It's a long way but I believe even the journey to get there is worth it.

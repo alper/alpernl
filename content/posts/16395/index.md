@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16395
 parent_post_id: null
 post_id: "16395"
 title: ""
-url: /dingen/2021/01/16395/
+aliases:
+  - /dingen/2021/01/16395/
 
 ---
 [World 2.0 — “There are decades where nothing happens, and weeks where decades happen”](https://marginalrevolution.com/marginalrevolution/2020/04/world-2-0-there-are-decades-where-nothing-happens-and-weeks-where-decades-happen.html)  

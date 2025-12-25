@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6065
 parent_post_id: null
 post_id: "6065"
 title: Highlights for The Idiot
-url: /dingen/2018/10/highlights-for-the-idiot/
+aliases:
+  - /dingen/2018/10/highlights-for-the-idiot/
 
 ---
 > Were Germans supposed to be particularly ordered and machinelike? Was it possible that Germans really were ordered and machinelike?

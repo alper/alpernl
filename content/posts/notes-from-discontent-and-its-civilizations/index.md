@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5856
 parent_post_id: null
 post_id: "5856"
 title: Highlights from Discontent and its Civilizations
-url: /dingen/2017/10/notes-from-discontent-and-its-civilizations/
+aliases:
+  - /dingen/2017/10/notes-from-discontent-and-its-civilizations/
 
 ---
 > But if globalization is capable of holding out any fundamental promise to us, any temptation to go along with its havoc, then surely that promise ought to be this: we will be more free to invent ourselves.

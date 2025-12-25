@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17223
 parent_post_id: null
 post_id: "17223"
 title: ""
-url: /dingen/2023/07/17223/
+aliases:
+  - /dingen/2023/07/17223/
 
 ---
 The examples are hugely exaggerated for effect but the explanation of why so many people in software engineering keep themselves busy with solving imaginary problems is worth it.

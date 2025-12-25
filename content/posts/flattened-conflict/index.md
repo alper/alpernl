@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=631
 parent_post_id: null
 post_id: "631"
 title: Flattened Conflict
-url: /dingen/2008/12/flattened-conflict/
+aliases:
+  - /dingen/2008/12/flattened-conflict/
 
 ---
 The Guardian shows a [clip of the recent armed confrontations](http://www.guardian.co.uk/world/2008/dec/05/hebron-settlers-shooting-israel-palestinians) in Hebron due to the riots by Jewish settlers. I had read earlier about [B'Tselem](http://www.btselem.org/English/) handing out small camera's to Palestinians so they could record settler aggression and this is [a clip](http://www.guardian.co.uk/world/video/2008/dec/05/hebron-settlers-shooting-israel-palestinians#send-share) that came out of that program.

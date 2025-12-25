@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1589
 parent_post_id: null
 post_id: "1589"
 title: Red Amsterdam van de kortzichtigheid
-url: /dingen/2010/02/red-amsterdam-van-de-kortzichtigheid/
+aliases:
+  - /dingen/2010/02/red-amsterdam-van-de-kortzichtigheid/
 
 ---
 Er is een beweging in Amsterdam van [onverstandige en enigszins bekende mensen](http://www.redamsterdam.nl/) die tegen de [Noord/Zuidlijn](http://nl.wikipedia.org/wiki/NZ-lijn) zijn.

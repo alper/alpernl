@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5557
 parent_post_id: null
 post_id: "5557"
 title: That spread in Elsevier
-url: /dingen/2016/04/that-spread-in-elsevier/
+aliases:
+  - /dingen/2016/04/that-spread-in-elsevier/
 
 ---
 I shared it elsewhere but to briefly clip it here as well. I took a bunch more pictures with the photographer that were a lot of fun but of course this is the one they chose.

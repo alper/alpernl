@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15358
 parent_post_id: null
 post_id: "15358"
 title: ""
-url: /dingen/2019/04/15358/
+aliases:
+  - /dingen/2019/04/15358/
 
 ---
 > As you’ll see, everything is slightly approximate, slightly exaggerated — so that each step in the argument takes you further from what you’re prepared to agree to.

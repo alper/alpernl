@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16026
 parent_post_id: null
 post_id: "16026"
 title: ""
-url: /dingen/2020/02/16026/
+aliases:
+  - /dingen/2020/02/16026/
 
 ---
 > “The piece of advice that I give to new managers—and this sounds simple but it’s really hard—is you have to really listen to your people. They are telling you what they want, and you have to hear it. At the end of the day, it’s not about you. It’s what this human is telling you.”

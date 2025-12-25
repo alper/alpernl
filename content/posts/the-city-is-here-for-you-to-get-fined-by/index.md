@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1033
 parent_post_id: null
 post_id: "1033"
 title: The City Is Here For You To Get Fined By
-url: /dingen/2009/06/the-city-is-here-for-you-to-get-fined-by/
+aliases:
+  - /dingen/2009/06/the-city-is-here-for-you-to-get-fined-by/
 
 ---
 For any international readers, as the Dutch are probably already very much aware of our totalitarian parking policies.

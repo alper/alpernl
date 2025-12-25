@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2834
 parent_post_id: null
 post_id: "2834"
 title: Week 233
-url: /dingen/2011/09/week-233/
+aliases:
+  - /dingen/2011/09/week-233/
 
 ---
 Another long form weeknote, history recapping brought by the fantastic [Memolane](http://memolane.com/) service which aggregates my various media chronologically so I can quickly write this overview.

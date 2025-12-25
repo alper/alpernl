@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5933
 parent_post_id: null
 post_id: "5933"
 title: Highlights for Kintu
-url: /dingen/2018/01/highlights-for-kintu/
+aliases:
+  - /dingen/2018/01/highlights-for-kintu/
 
 ---
 > Indeed, this is the challenge of the historical novel: whether or not the stories are true might be the least important thing about them. History as it’s written down in books is one thing, but history as it’s lived is another.

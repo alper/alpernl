@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6047
 parent_post_id: null
 post_id: "6047"
 title: Highlights for Woken Furies
-url: /dingen/2018/08/highlights-for-woken-furies/
+aliases:
+  - /dingen/2018/08/highlights-for-woken-furies/
 
 ---
 > That, of course, doesn't apply to Envoys. We just used to go silently, crush the odd planetary uprising, topple the odd regime, and then plug in something UN-compliant that worked. Slaughter and suppression across the stars, for the greater good — naturally — of a unified Protectorate.

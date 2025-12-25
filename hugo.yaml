@@ -38,3 +38,10 @@ outputFormats:
     baseName: feed
 menu:
   main: []
+permalinks:
+  page:
+    posts: /blog/:contentbasename/
+    pages: /:slug/
+  section:
+    posts: /blog/
+    pages: /

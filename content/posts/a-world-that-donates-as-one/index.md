@@ -19,7 +19,8 @@ tags:
   - trichet
   - uncategorized
 title: A World That Donates As One
-url: /dingen/2008/07/a-world-that-donates-as-one/
+aliases:
+  - /dingen/2008/07/a-world-that-donates-as-one/
 
 ---
 [Barack's visit to Europe](http://my.barackobama.com/page/content/berlinvideo/) again makes clear how important it is to people over here who exactly is the [POTUS](http://en.wikipedia.org/wiki/POTUS). A lot of people in Europe are interested and invested in American politics and for good reason if you see the effect the American's actions can have on the rest of the world.

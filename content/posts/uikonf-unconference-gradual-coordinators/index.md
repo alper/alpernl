@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=5997
 parent_post_id: null
 post_id: "5997"
 title: 'UIKonf Unconference: Gradual Coordinators'
-url: /dingen/2018/05/uikonf-unconference-gradual-coordinators/
+aliases:
+  - /dingen/2018/05/uikonf-unconference-gradual-coordinators/
 
 ---
 I dropped by the UIKonf unconference yesterday and gave a quick code/architecture talk. Normally I do mostly design/strategy type talks which are a lot more handwavy, so this felt a bit out of my water.

@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16377
 parent_post_id: null
 post_id: "16377"
 title: ""
-url: /dingen/2020/12/16377/
+aliases:
+  - /dingen/2020/12/16377/
 
 ---
 I am immensely happy to see two friends launch Branch, a magazine about creating a sustainable internet. The way they put the magazine together mirrors the best practices of the future we should live in right now.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=3293
 parent_post_id: null
 post_id: "3293"
 title: Early 2012 Events
-url: /dingen/2012/02/early-2012-events/
+aliases:
+  - /dingen/2012/02/early-2012-events/
 
 ---
 The year has started nicely and the event line-up is already brimful.

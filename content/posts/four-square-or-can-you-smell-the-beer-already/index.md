@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1139
 parent_post_id: null
 post_id: "1139"
 title: Four Square or can you smell the beer already?
-url: /dingen/2009/07/four-square-or-can-you-smell-the-beer-already/
+aliases:
+  - /dingen/2009/07/four-square-or-can-you-smell-the-beer-already/
 
 ---
 This week returning from my [new haunt in Amsterdam](http://www.flickr.com/photos/alper/sets/72157621106745398/) back to Delft, walking the streets with an appetite for beer I felt strangely disconnected.

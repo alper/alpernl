@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17249
 parent_post_id: null
 post_id: "17249"
 title: ""
-url: /dingen/2023/08/17249/
+aliases:
+  - /dingen/2023/08/17249/
 
 ---
 Life before there were mobile phones and internet was really totally different and simple and laid back. I got a bit of this but I think I got my first iBook during university and my first iPhone shortly after I got out of university.

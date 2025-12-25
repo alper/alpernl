@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1372
 parent_post_id: null
 post_id: "1372"
 title: Reisadvies ov moet beter
-url: /dingen/2009/11/reisadvies-ov-moet-beter/
+aliases:
+  - /dingen/2009/11/reisadvies-ov-moet-beter/
 
 ---
 Ik zou zeggen “duh!”, maar je kunt net zo goed zeggen dat dit een revolutie inluidt:

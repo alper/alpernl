@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3890
 parent_post_id: null
 post_id: "3890"
 title: PIVOT over Berlin
-url: /dingen/2012/09/pivot-over-berlin/
+aliases:
+  - /dingen/2012/09/pivot-over-berlin/
 
 ---
 I biked over tonight to see the installation [PIVOT by Jacob Kirkegaard](http://fonik.dk/works/pivot.html) at the leap in Berlin ((In the Berlin Carré, which is quite a bit different from the Amsterdam Carré. That I can assure you.)) before it finishes tomorrow.

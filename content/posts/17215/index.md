@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17215
 parent_post_id: null
 post_id: "17215"
 title: ""
-url: /dingen/2023/07/17215/
+aliases:
+  - /dingen/2023/07/17215/
 
 ---
 Extremely cool conceptual work around the CLI and how it could be possible to pry things apart, create proper primitives and communications channels, and make this an infinitely more powerful interface.

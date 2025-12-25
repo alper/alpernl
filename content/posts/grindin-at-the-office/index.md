@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4277
 parent_post_id: null
 post_id: "4277"
 title: Grindinâ€™ at the office
-url: /dingen/2013/02/grindin-at-the-office/
+aliases:
+  - /dingen/2013/02/grindin-at-the-office/
 
 ---
 Here in the Berlin office we grind by hand:

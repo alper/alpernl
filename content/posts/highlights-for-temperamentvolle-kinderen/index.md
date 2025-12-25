@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15586
 parent_post_id: null
 post_id: "15586"
 title: Highlights for Temperamentvolle Kinderen
-url: /dingen/2019/07/highlights-for-temperamentvolle-kinderen/
+aliases:
+  - /dingen/2019/07/highlights-for-temperamentvolle-kinderen/
 
 ---
 > Opvallend is dat ze vaak een groot gevoel voor uiterlijke schoonheid hebben.

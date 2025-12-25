@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=989
 parent_post_id: null
 post_id: "989"
 title: Ramen open in het openbaar vervoer
-url: /dingen/2009/05/ramen-open-in-het-openbaar-vervoer/
+aliases:
+  - /dingen/2009/05/ramen-open-in-het-openbaar-vervoer/
 
 ---
 Dennis [tipte](http://twitter.com/naquah/status/1837494417) me net deze video:

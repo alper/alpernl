@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17606
 parent_post_id: null
 post_id: "17606"
 title: ""
-url: /dingen/2024/10/17606/
+aliases:
+  - /dingen/2024/10/17606/
 
 ---
 Trying for years to explain to people that Germany has almost zero [project power](https://adamtooze.substack.com/p/chartbook-296-project-power-hegemony) and is incapable of any progress and then suddenly [a movement springs up](https://eu-acc.com) that agrees entirely with that assessment.

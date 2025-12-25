@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17852
 parent_post_id: null
 post_id: "17852"
 title: ""
-url: /dingen/2025/01/17852/
+aliases:
+  - /dingen/2025/01/17852/
 
 ---
 The o3 AGI result looked so noteworthy that I dove into it. I [read one of the papers](/dingen/2024/12/17805/) that's at the base of the approach and thought it was pretty interesting.

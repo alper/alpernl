@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5141
 parent_post_id: null
 post_id: "5141"
 title: Panamax
-url: /dingen/2015/02/panamax/
+aliases:
+  - /dingen/2015/02/panamax/
 
 ---
 [![Panamax time](https://farm8.staticflickr.com/7342/16266633097_16a1b4277b_z.jpg)](https://www.flickr.com/photos/alper/16266633097 "Panamax time by Alper Çuğun, on Flickr")

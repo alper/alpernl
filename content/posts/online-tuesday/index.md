@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1849
 parent_post_id: null
 post_id: "1849"
 title: Online Tuesday - Data is the new Quicksilver
-url: /dingen/2010/06/online-tuesday/
+aliases:
+  - /dingen/2010/06/online-tuesday/
 
 ---
 Afgelopen dinsdag gaf ik een presentatie op [Online Tuesday](http://www.onlinetuesday.nl/) over de toekomst van het internet. Ik had me niet geheel beseft dat de brief van de presentaties subtiel verlegd was naar doe een pitch over de toekomst van je bedrijf, maar des te beter eigenlijk.

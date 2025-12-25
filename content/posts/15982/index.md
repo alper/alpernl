@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15982
 parent_post_id: null
 post_id: "15982"
 title: ""
-url: /dingen/2020/02/15982/
+aliases:
+  - /dingen/2020/02/15982/
 
 ---
 A broad treatment of what the essential quality of Fingerspitzengefühl means.

@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18193
 parent_post_id: null
 post_id: "18193"
 title: ""
-url: /dingen/2025/04/18193/
+aliases:
+  - /dingen/2025/04/18193/
 
 ---
 > All of those things listen above are in _support_ of your primary goal: ensuring that you are getting shit done. You cannot get shit done to a world-class level by leaving all of the details to other people.

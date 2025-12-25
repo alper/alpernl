@@ -7,7 +7,8 @@ post_id: "168"
 tags:
   - huis
 title: Schilderen in kleur
-url: /dingen/2007/10/schilderen-in-kleur/
+aliases:
+  - /dingen/2007/10/schilderen-in-kleur/
 
 ---
 Na al het grondwerk, vandaag me maar aan wat kleur gewaagd. Kleuren kiezen is lastig en dan met de laptop naar de GAMMA om de juiste tint te laten mengen zorgt toch wel voor verrassingen. Ik had uit Kuler het kleurpalet Firenze gekozen ((Handig die Flash-applicaties zonder permalinks.)). Bij de Gamma heten die kleuren poetisch genoeg: Kans en Verandering.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17608
 parent_post_id: null
 post_id: "17608"
 title: ""
-url: /dingen/2024/10/17608/
+aliases:
+  - /dingen/2024/10/17608/
 
 ---
 What this article says is true: The Fediverse is entirely inconsequential and you might as well pee into the wind as post on it. Nothing will happen.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17833
 parent_post_id: null
 post_id: "17833"
 title: ""
-url: /dingen/2025/01/17833/
+aliases:
+  - /dingen/2025/01/17833/
 
 ---
 [Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation](https://arxiv.org/abs/2411.00412)

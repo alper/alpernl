@@ -13,7 +13,8 @@ post_id: "4713"
 tags:
   - weeknotes
 title: Week 331
-url: /dingen/2013/08/week-331/
+aliases:
+  - /dingen/2013/08/week-331/
 
 ---
 With KANT we were still figuring out mostly what it is we are doing and seeing as we are neither a collective or a coworking space it was up in the air a bit. I [wrote up our offering](http://kantberlin.com/offering) in a more straight-forward and streamlined way where you can very easily find what it is you may be looking for. In other news we are discussing next steps for KANT in the future but anything on that order is off for at least 6-12 months.

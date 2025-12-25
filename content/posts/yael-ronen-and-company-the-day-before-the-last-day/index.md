@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=3384
 parent_post_id: null
 post_id: "3384"
 title: Yael Ronen and Company - The Day Before the Last Day
-url: /dingen/2012/03/yael-ronen-and-company-the-day-before-the-last-day/
+aliases:
+  - /dingen/2012/03/yael-ronen-and-company-the-day-before-the-last-day/
 
 ---
 Yesterday evening I saw [The Day Before the Last Day](http://schaubuehne.de/de_DE/program/repertoire/753218) in die Schaubühne as a part of the F.I.N.D. festival.

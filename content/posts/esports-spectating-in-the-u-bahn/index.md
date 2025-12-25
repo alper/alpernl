@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5154
 parent_post_id: null
 post_id: "5154"
 title: Esports spectating in the U-Bahn
-url: /dingen/2015/02/esports-spectating-in-the-u-bahn/
+aliases:
+  - /dingen/2015/02/esports-spectating-in-the-u-bahn/
 
 ---
 [![DAC Grand Final in the U-Bahn](https://farm8.staticflickr.com/7319/16304909209_837190404d_z.jpg)](https://www.flickr.com/photos/alper/16304909209 "DAC Grand Final in the U-Bahn by Alper Çuğun, on Flickr")

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17773
 parent_post_id: null
 post_id: "17773"
 title: ""
-url: /dingen/2024/12/17773/
+aliases:
+  - /dingen/2024/12/17773/
 
 ---
 Postgres seems to reign as the database solution of choice but there are lots of new specialised databases that are worth looking at. All of these can be used in production at scale for the right application.

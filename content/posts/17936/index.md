@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17936
 parent_post_id: null
 post_id: "17936"
 title: ""
-url: /dingen/2025/01/17936/
+aliases:
+  - /dingen/2025/01/17936/
 
 ---
 Imagine shipping an app that is so bad that the CEO has to step down. Sonos has made it happen.

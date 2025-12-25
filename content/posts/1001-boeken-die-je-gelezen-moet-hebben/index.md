@@ -13,7 +13,8 @@ tags:
   - books
   - reading
 title: 1001 boeken die je gelezen moet hebben
-url: /dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/
+aliases:
+  - /dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/
 
 ---
 Een rare lijst [via Kottke](http://www.kottke.org/remainder/08/05/15642.html), maar er staan wel wat goede boeken op (dat kan ook niet anders als je 1001 boeken op een lijst zet). Ik kom op 33.

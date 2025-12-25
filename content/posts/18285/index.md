@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18285
 parent_post_id: null
 post_id: "18285"
 title: ""
-url: /dingen/2025/08/18285/
+aliases:
+  - /dingen/2025/08/18285/
 
 ---
 I had a very similar mediocre experience using LLMs with Python/Rust/Typescript where I didn't really see the point. Only when I started using Go for a recent hackathon project did I get the fully hands off experience where I didn't have to write any code.

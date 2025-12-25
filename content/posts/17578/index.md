@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17578
 parent_post_id: null
 post_id: "17578"
 title: ""
-url: /dingen/2024/08/17578/
+aliases:
+  - /dingen/2024/08/17578/
 
 ---
 This is a good guide how to deal with underperformers by Jack Danger and it's written more thoughtfully than 90% of the management writing out there.

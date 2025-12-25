@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16277
 parent_post_id: null
 post_id: "16277"
 title: ""
-url: /dingen/2020/09/16277/
+aliases:
+  - /dingen/2020/09/16277/
 
 ---
 A super thorough and correct guide how to manage senior engineers which is more or less how I would like to be managed.

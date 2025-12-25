@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15410
 parent_post_id: null
 post_id: "15410"
 title: ""
-url: /dingen/2019/05/15410/
+aliases:
+  - /dingen/2019/05/15410/
 
 ---
 Many years ago I suggested building in async facilities into Django. I got ridiculed for that both for technical feasibility (rightly) and necessity (short-sightedly). Now finally we have a proposal to build those features into the framework that demonstrates the same need and that can be implemented.

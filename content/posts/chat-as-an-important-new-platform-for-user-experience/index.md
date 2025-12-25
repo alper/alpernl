@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5284
 parent_post_id: null
 post_id: "5284"
 title: Chat as an important new platform for user experience
-url: /dingen/2015/09/chat-as-an-important-new-platform-for-user-experience/
+aliases:
+  - /dingen/2015/09/chat-as-an-important-new-platform-for-user-experience/
 
 ---
 Talk about this is increasing all around us (see this [piece by Cennyd](http://www.cennydd.com/blog/ai-and-future-user-experience)) and I think it's time for me to share some of our recent thinking on the topic as well. We believe that conversational user interfaces will be the way that most people will interact with digital systems from the near future on. That can be chat or voice or something else constrained to offer only specific responses or fully freeform. Natural language processing has improved to a point to make this workable and will continue to improve further.

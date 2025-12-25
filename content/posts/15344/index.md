@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15344
 parent_post_id: null
 post_id: "15344"
 title: ""
-url: /dingen/2019/04/15344/
+aliases:
+  - /dingen/2019/04/15344/
 
 ---
 > Fuck you a million times.

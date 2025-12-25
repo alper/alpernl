@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16000
 parent_post_id: null
 post_id: "16000"
 title: ""
-url: /dingen/2020/02/16000/
+aliases:
+  - /dingen/2020/02/16000/
 
 ---
 I usually get a lot of resistance when I suggest using monorepos but this article explains really well what cultural benefits that choice entails.

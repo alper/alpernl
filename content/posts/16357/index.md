@@ -12,7 +12,8 @@ guid: http://www.alper.nl/dingen/?p=16357
 parent_post_id: null
 post_id: "16357"
 title: ""
-url: /dingen/2020/10/16357/
+aliases:
+  - /dingen/2020/10/16357/
 
 ---
 Drastically lowering the voting age as Germany is considering here would solve a huge amount of problems (which is why it will of course not happen).

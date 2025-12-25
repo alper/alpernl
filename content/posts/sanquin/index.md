@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1758
 parent_post_id: null
 post_id: "1758"
 title: Sanquin
-url: /dingen/2010/05/sanquin/
+aliases:
+  - /dingen/2010/05/sanquin/
 
 ---
 Verbazingwekkend snel en pijnloos:

@@ -9,7 +9,8 @@ post_id: "203"
 tags:
   - muziek
 title: Left side of the brain
-url: /dingen/2007/12/left-side-of-the-brain/
+aliases:
+  - /dingen/2007/12/left-side-of-the-brain/
 
 ---
 En zo wordt er opeens een in-store concert gegeven door Fiction Plane in de platenzaak bij mij om de hoek:

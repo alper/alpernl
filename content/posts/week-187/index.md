@@ -15,7 +15,8 @@ post_id: "2211"
 tags:
   - weeknotes
 title: Week 187
-url: /dingen/2010/10/week-187/
+aliases:
+  - /dingen/2010/10/week-187/
 
 ---
 A short remaindered weeknote (a rather awesome event and dinner packed week indeed):

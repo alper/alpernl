@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17517
 parent_post_id: null
 post_id: "17517"
 title: ""
-url: /dingen/2024/03/17517/
+aliases:
+  - /dingen/2024/03/17517/
 
 ---
 More people have mentioned it and I think it should be part of every Rust tutorial to encourage people to just `clone()` whenever they get in a jam and get their stuff done: “keep calm, clone and move on”. I think that one thing will make it possible to onboard any team onto Rust quickly and get them shipping.

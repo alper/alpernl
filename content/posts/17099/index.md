@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17099
 parent_post_id: null
 post_id: "17099"
 title: ""
-url: /dingen/2023/03/17099/
+aliases:
+  - /dingen/2023/03/17099/
 
 ---
 This bit of Chinese social media uproar is interesting peek into feminism in Asia and Sino-Japanese intellectual exchange.

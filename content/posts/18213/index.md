@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18213
 parent_post_id: null
 post_id: "18213"
 title: ""
-url: /dingen/2025/04/18213/
+aliases:
+  - /dingen/2025/04/18213/
 
 ---
 I could quote this entire article by [Dan North](https://dannorth.net):

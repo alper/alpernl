@@ -12,7 +12,8 @@ post_id: "15172"
 tags:
   - jira
 title: ""
-url: /dingen/2019/02/15172/
+aliases:
+  - /dingen/2019/02/15172/
 
 ---
 I think it's lovely that you can do stuff like this these days in Jira (Cloud at least) but given the choice I still would pick more or less anything else.

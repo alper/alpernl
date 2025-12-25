@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18030
 parent_post_id: null
 post_id: "18030"
 title: ""
-url: /dingen/2025/02/18030/
+aliases:
+  - /dingen/2025/02/18030/
 
 ---
 Thiel's op-ed in the FT was truly insane. Who hurt these people?

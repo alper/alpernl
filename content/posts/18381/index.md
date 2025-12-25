@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=18381
 parent_post_id: null
 post_id: "18381"
 title: ""
-url: /dingen/2025/10/18381/
+aliases:
+  - /dingen/2025/10/18381/
 
 ---
 Did anybody get any benefit from the fact that we are now stuck with Atom and RSS?

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18525
 parent_post_id: null
 post_id: "18525"
 title: Iseji - Day 5 - Atashika to Shingu
-url: /dingen/
+aliases:
+  - /dingen/
 
 ---
 Today, it's the last bit of trails and then instead of walking along the beach for 25km I'll take a train to Shingu. It's time to wrap this thing up.

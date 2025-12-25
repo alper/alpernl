@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16842
 parent_post_id: null
 post_id: "16842"
 title: ""
-url: /dingen/2022/08/16842/
+aliases:
+  - /dingen/2022/08/16842/
 
 ---
 Any kind of workshop that you do virtually is going to be more difficult but in my experience a skilled facilitator and a motivated group can overcome these challenges.

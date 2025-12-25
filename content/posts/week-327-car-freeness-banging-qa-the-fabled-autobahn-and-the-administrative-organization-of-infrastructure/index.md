@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=4687
 parent_post_id: null
 post_id: "4687"
 title: 'Week 327: car-freeness, banging Q&A, the fabled Autobahn and the administrative organization of infrastructure'
-url: /dingen/2013/07/week-327-car-freeness-banging-qa-the-fabled-autobahn-and-the-administrative-organization-of-infrastructure/
+aliases:
+  - /dingen/2013/07/week-327-car-freeness-banging-qa-the-fabled-autobahn-and-the-administrative-organization-of-infrastructure/
 
 ---
 This was the week that Kars returned from his honeymoon on Bali. And all for the better as well, because I had worked through most of our stack —we didn't have any running projects at the time— and I was getting so annoyed by [Dopplr's](http://www.dopplr.com/) performance that I was about to write a clean implementation of its trip model to store my upcoming travels in.

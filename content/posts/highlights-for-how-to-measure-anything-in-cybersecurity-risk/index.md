@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15439
 parent_post_id: null
 post_id: "15439"
 title: Highlights for How to Measure Anything in Cybersecurity Risk
-url: /dingen/2019/05/highlights-for-how-to-measure-anything-in-cybersecurity-risk/
+aliases:
+  - /dingen/2019/05/highlights-for-how-to-measure-anything-in-cybersecurity-risk/
 
 ---
 > What risks are acceptable is often not documented, and when they are, they are stated in soft, unquantified terms that cannot be used clearly in a calculation to determine if a given expenditure is justified or not.

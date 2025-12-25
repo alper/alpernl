@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=16506
 parent_post_id: null
 post_id: "16506"
 title: ""
-url: /dingen/2021/04/16506/
+aliases:
+  - /dingen/2021/04/16506/
 
 ---
 Slack has an interesting S-Curve based approach to adopting new technologies where they mention that getting through the trough of adoption is more like product-work than anything else.

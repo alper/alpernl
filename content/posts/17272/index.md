@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17272
 parent_post_id: null
 post_id: "17272"
 title: ""
-url: /dingen/2023/08/17272/
+aliases:
+  - /dingen/2023/08/17272/
 
 ---
 A handy overview of how to hire for developer tooling and how to improve the developer experience at companies from a perspective that recognizes these are socio-technical issues but also needs to get stuff done.

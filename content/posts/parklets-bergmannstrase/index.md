@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6007
 parent_post_id: null
 post_id: "6007"
 title: Parklets BergmannstraÃŸe
-url: /dingen/2018/05/parklets-bergmannstrase/
+aliases:
+  - /dingen/2018/05/parklets-bergmannstrase/
 
 ---
 I got around to visiting the Parklets in the Bergmannstraße. That is a plural because there are two of them during this pilot and that’s it.

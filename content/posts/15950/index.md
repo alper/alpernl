@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15950
 parent_post_id: null
 post_id: "15950"
 title: ""
-url: /dingen/2020/01/15950/
+aliases:
+  - /dingen/2020/01/15950/
 
 ---
 Pijnlijk dat het enige kritische interview van FvD in de Gelderlander moet plaatsvinden.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18463
 parent_post_id: null
 post_id: "18463"
 title: ""
-url: /dingen/2025/11/18463/
+aliases:
+  - /dingen/2025/11/18463/
 
 ---
 Both placing these ads and serving them should be illegal in any reasonable market/democracy.

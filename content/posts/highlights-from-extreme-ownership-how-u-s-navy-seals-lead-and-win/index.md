@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5704
 parent_post_id: null
 post_id: "5704"
 title: 'Highlights from Extreme Ownership: How U.S. Navy SEALs Lead and Win'
-url: /dingen/2017/01/highlights-from-extreme-ownership-how-u-s-navy-seals-lead-and-win/
+aliases:
+  - /dingen/2017/01/highlights-from-extreme-ownership-how-u-s-navy-seals-lead-and-win/
 
 ---
 > The right decision, even when all seems lost, can snatch victory from the jaws of defeat. The wrong decision, even when a victorious outcome seems all but certain, can result in deadly, catastrophic failure.

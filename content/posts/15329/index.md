@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15329
 parent_post_id: null
 post_id: "15329"
 title: ""
-url: /dingen/2019/04/15329/
+aliases:
+  - /dingen/2019/04/15329/
 
 ---
 Kim Kardashian West is active in prison reform and studying law. There are no limits to what anybody can do.  

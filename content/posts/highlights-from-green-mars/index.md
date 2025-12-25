@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5681
 parent_post_id: null
 post_id: "5681"
 title: Highlights from Green Mars
-url: /dingen/2017/01/highlights-from-green-mars/
+aliases:
+  - /dingen/2017/01/highlights-from-green-mars/
 
 ---
 > Kuhn had written about Priestley— that a scientist who continued to resist after his whole profession had been converted to a new paradigm might be perfectly logical and reasonable, but had ipso facto ceased to be a scientist.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5513
 parent_post_id: null
 post_id: "5513"
 title: Sleep by Max Richter
-url: /dingen/2016/03/sleep-by-max-richter/
+aliases:
+  - /dingen/2016/03/sleep-by-max-richter/
 
 ---
 [Kevin](https://twitter.com/rknLA) posted yesterday that he had an extra ticket for [Max Richter's Sleep](http://www.berlinerfestspiele.de/de/aktuell/festivals/maerzmusik/mm16_programm/mm16_programm_sleep/mm16_Veranstaltungsdetail_sleep_150936.php) at Kraftwerk Berlin yesterday. Without a moment's hesitation I packed my sleeping bag and cycled there with him.

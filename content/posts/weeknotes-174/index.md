@@ -13,7 +13,8 @@ post_id: "1974"
 tags:
   - weeknotes
 title: Weeknotes 174
-url: /dingen/2010/07/weeknotes-174/
+aliases:
+  - /dingen/2010/07/weeknotes-174/
 
 ---
 [Project Ebi](http://blog.playpilots.nl/) is taking most of my capacity and brain these days, so everything else is necessarily pushed to the back burner a bit.

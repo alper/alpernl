@@ -13,7 +13,8 @@ post_id: "2633"
 tags:
   - weeknotes
 title: Week 218
-url: /dingen/2011/05/week-218/
+aliases:
+  - /dingen/2011/05/week-218/
 
 ---
 Things are speeding up and these are taking too much time so I won't know if I can keep it up. Still I think there is a lot of value in creating an archive of our work. And I think these have netted the most consistently positive response compared to other blogposts here.

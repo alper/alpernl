@@ -8,7 +8,8 @@ tags:
   - strand
   - surfen
 title: Surf's up!
-url: /dingen/2007/05/surfs-up/
+aliases:
+  - /dingen/2007/05/surfs-up/
 
 ---
 Na het weekend van capoeira vandaag een beetje uitgebrakt in de golven. Guur weer maar prima surfen op Scheveningen.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16677
 parent_post_id: null
 post_id: "16677"
 title: ""
-url: /dingen/2021/12/16677/
+aliases:
+  - /dingen/2021/12/16677/
 
 ---
 An entire article about speed vs. velocity vs. tempo that can be summarized as: "Orientation is the Schwerpunkt." How much does your team invest into orienting themselves before they take on new work?

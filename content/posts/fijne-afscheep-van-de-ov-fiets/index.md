@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2216
 parent_post_id: null
 post_id: "2216"
 title: Fijne afscheep van de OV-fiets
-url: /dingen/2010/10/fijne-afscheep-van-de-ov-fiets/
+aliases:
+  - /dingen/2010/10/fijne-afscheep-van-de-ov-fiets/
 
 ---
 Ik was benieuwd naar wat gegevens van de [OV-fiets](http://www.ov-fiets.nl), dus ik klom in de pen:

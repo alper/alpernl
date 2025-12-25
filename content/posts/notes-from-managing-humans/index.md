@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5822
 parent_post_id: null
 post_id: "5822"
 title: Highlights from Managing Humans
-url: /dingen/2017/08/notes-from-managing-humans/
+aliases:
+  - /dingen/2017/08/notes-from-managing-humans/
 
 ---
 > ï»¿"You must see the people who work with you."

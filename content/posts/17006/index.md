@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17006
 parent_post_id: null
 post_id: "17006"
 title: ""
-url: /dingen/2023/02/17006/
+aliases:
+  - /dingen/2023/02/17006/
 
 ---
 Twitter will keep working in the same sense that people can use Jira.

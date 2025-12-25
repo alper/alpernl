@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17580
 parent_post_id: null
 post_id: "17580"
 title: ""
-url: /dingen/2024/08/17580/
+aliases:
+  - /dingen/2024/08/17580/
 
 ---
 Good advice that's not only relevant to executives. Just answer the question!

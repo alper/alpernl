@@ -24,7 +24,8 @@ post_id: "3818"
 tags:
   - weeknotes
 title: 'Week 284: New beginnings, Campus Party'
-url: /dingen/2012/08/week-284-new-beginnings-campus-party/
+aliases:
+  - /dingen/2012/08/week-284-new-beginnings-campus-party/
 
 ---
 Last week was rather eventful. I popped over to [Praxis](http://praxisberlin.net/) to sign my lease there and I was scheduled to present a workshop at Campus Party on a topic near to my heart about which I have presented often already in one form or another: [Civic Hacking](https://www.campus-party.eu/2012/free-software.html#AlperÇugun).

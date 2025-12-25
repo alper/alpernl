@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18176
 parent_post_id: null
 post_id: "18176"
 title: ""
-url: /dingen/2025/03/18176/
+aliases:
+  - /dingen/2025/03/18176/
 
 ---
 An idea this dumb could only come from one of two people in Germany (Höttges or Thelen). DOGE's main aim is to burn down the entire government.

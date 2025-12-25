@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17899
 parent_post_id: null
 post_id: "17899"
 title: ""
-url: /dingen/2025/01/17899/
+aliases:
+  - /dingen/2025/01/17899/
 
 ---
 It's rare to find writing in German as lithe and delightful as what Christoph Rauscher puts out. The monthly lists are [one particularly good example](https://christowski.de/blog/2024/12/dezember-liste-2024/). I'm learning new and interesting words still in most of his pieces.

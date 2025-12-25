@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17857
 parent_post_id: null
 post_id: "17857"
 title: ""
-url: /dingen/2025/01/17857/
+aliases:
+  - /dingen/2025/01/17857/
 
 ---
 Musks's attack on Wikipedia is another step in getting rid of information sources where they can't control the narrative and the "truth". Everything they're doing is built on lies.

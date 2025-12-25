@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17628
 parent_post_id: null
 post_id: "17628"
 title: ""
-url: /dingen/2024/10/17628/
+aliases:
+  - /dingen/2024/10/17628/
 
 ---
 As somebody working in platform for the past years, I've become very familiar with the different dimensions of this debate around productivity and John here unpacks the topic in a way that's really useful. I used the nails analogy just yesterday.

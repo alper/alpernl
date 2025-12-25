@@ -12,7 +12,8 @@ tags:
   - internet
   - reizen
 title: JavaONE Afterglow - Desktop Java
-url: /dingen/2007/06/javaone-afterglow-desktop-java/
+aliases:
+  - /dingen/2007/06/javaone-afterglow-desktop-java/
 
 ---
 Ik was gisteren op de JavaONE Afterglow in Affligem en hier zijn mijn aantekeningen van een sessie daar (geconverteerd van Markdown):

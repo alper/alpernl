@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15289
 parent_post_id: null
 post_id: "15289"
 title: Highlights for Pnin
-url: /dingen/2019/03/highlights-for-pnin/
+aliases:
+  - /dingen/2019/03/highlights-for-pnin/
 
 ---
 > by a huge, active, buoyantly thriving German Department which its Head, Dr. Hagen, smugly called (pronouncing every syllable very distinctly) “a university within a university.”

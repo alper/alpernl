@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1537
 parent_post_id: null
 post_id: "1537"
 title: Nasr doet een nieuwjaarsgroet
-url: /dingen/2010/01/nasr-doet-een-nieuwjaarsgroet/
+aliases:
+  - /dingen/2010/01/nasr-doet-een-nieuwjaarsgroet/
 
 ---
 Aangezien onze dichter des vaderlands zijn eigen blog niet zo goed bijhoudt moet het goede volk zijn gedichten hier en daar bij elkaar schrapen of speciaal voor dat handjevol een abonnement nemen op de NRC. Geen doen dus.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15255
 parent_post_id: null
 post_id: "15255"
 title: Scooters in Berlin
-url: /dingen/2019/03/scooters-in-berlin/
+aliases:
+  - /dingen/2019/03/scooters-in-berlin/
 
 ---
 {{< figure src="JPEG-image-33A58FAF2AC2-1-1.jpeg" alt="" caption="" >}}

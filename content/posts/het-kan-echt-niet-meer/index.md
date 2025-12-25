@@ -7,7 +7,8 @@ post_id: "49"
 tags:
   - fotografie
 title: Het kan echt niet meer
-url: /dingen/2007/05/het-kan-echt-niet-meer/
+aliases:
+  - /dingen/2007/05/het-kan-echt-niet-meer/
 
 ---
 [![](http://farm1.static.flickr.com/223/509860532_ee1299f04e.jpg)](http://www.flickr.com/photos/alper/509860532/ "photo sharing")  

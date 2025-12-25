@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=3365
 parent_post_id: null
 post_id: "3365"
 title: Administrative No-ops
-url: /dingen/2012/02/administrative-no-ops/
+aliases:
+  - /dingen/2012/02/administrative-no-ops/
 
 ---
 Last week Peter Robinett sent me a link to [this Times article](http://www.nytimes.com/2012/02/23/business/global/in-germany-a-limp-domestic-economy-stifled-by-regulation.html?_r=1&pagewanted=all) that would seem a bit far fetched if it wasn't mostly true. The headline (“a Limp Domestic Economy”) doesn't really cover the article because it describes how massively things have improved in Germany. If I can believe stories, the situation here used to be far far worse. That however is no excuse.

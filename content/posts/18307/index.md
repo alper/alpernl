@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18307
 parent_post_id: null
 post_id: "18307"
 title: ""
-url: /dingen/2025/09/18307/
+aliases:
+  - /dingen/2025/09/18307/
 
 ---
 Not the first time Meta created racy bots and it will probably not be the last unless Taylor Swift sues them. I guess they do need to get more talent in to create things that are actually useful.

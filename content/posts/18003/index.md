@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18003
 parent_post_id: null
 post_id: "18003"
 title: ""
-url: /dingen/2025/02/18003/
+aliases:
+  - /dingen/2025/02/18003/
 
 ---
 > Not politicians, just career bureaucrats deep in the system. I ask them what their favorite part of the job is. They all say "stability" or "job security" as their #1. It takes 18 months to get the city to permit your shed? They. Do. Not. Care.

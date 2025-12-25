@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17455
 parent_post_id: null
 post_id: "17455"
 title: SPY x Family - Das Leben der Anderen
-url: /dingen/2024/03/17455/
+aliases:
+  - /dingen/2024/03/17455/
 
 ---
 I'm enjoying another light season of [SPY x FAMILY](https://en.wikipedia.org/wiki/Spy_Ã—_Family). It's a light anime whose premise is that of a spy (Loid) who needs live in deep cover in hostile territory and forms a family of convenience. He finds a woman (Yor) who's secretly an assassin also in need of cover and an orphan child (Anya) who's a telepath. It's great fun.

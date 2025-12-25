@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16125
 parent_post_id: null
 post_id: "16125"
 title: ""
-url: /dingen/2020/06/16125/
+aliases:
+  - /dingen/2020/06/16125/
 
 ---
 I've always felt that programming is more similar to languages than to mathematics. The number of hard maths problems that we solve as part of this work are really limited, the number of language problems on the other hand is immense.

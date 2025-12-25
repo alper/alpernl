@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18057
 parent_post_id: null
 post_id: "18057"
 title: ""
-url: /dingen/2025/02/18057/
+aliases:
+  - /dingen/2025/02/18057/
 
 ---
 Overview of the performance of different caching solutions for Rails comparing Redis to some competitors.

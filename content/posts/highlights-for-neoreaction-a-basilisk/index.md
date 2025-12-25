@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6013
 parent_post_id: null
 post_id: "6013"
 title: Highlights for Neoreaction a Basilisk
-url: /dingen/2018/05/highlights-for-neoreaction-a-basilisk/
+aliases:
+  - /dingen/2018/05/highlights-for-neoreaction-a-basilisk/
 
 ---
 > Angela Nagle’s appalling Kill All Normies, which takes the jaw-droppingly foolish methodology of simply reporting all of the alt-right’s self-justifications as self-evident truths so as to conclude that the real reason neo-nazis have been sweeping into power is because we’re too tolerant of trans people.

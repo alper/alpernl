@@ -19,7 +19,8 @@ guid: https://alper.nl/dingen/?p=16736
 parent_post_id: null
 post_id: "16736"
 title: Property dealings in Berlin
-url: /dingen/2022/03/16736/
+aliases:
+  - /dingen/2022/03/16736/
 
 ---
 https://parisinstitute.org/the-real-academy-in-exile/#ref1

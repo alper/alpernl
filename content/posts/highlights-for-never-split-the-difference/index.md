@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5898
 parent_post_id: null
 post_id: "5898"
 title: Highlights for Never Split the Difference
-url: /dingen/2017/12/highlights-for-never-split-the-difference/
+aliases:
+  - /dingen/2017/12/highlights-for-never-split-the-difference/
 
 ---
 > In every negotiation, in every agreement, the result comes from someone else’s decision. And sadly, if we believe that we can control or manage others’ decisions with compromise and logic, we’re leaving millions on the table. But while we can’t control others’ decisions, we can influence them by inhabiting their world and seeing and hearing exactly what they want.

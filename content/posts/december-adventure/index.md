@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=17749
 parent_post_id: null
 post_id: "17749"
 title: December Adventure
-url: /dingen/2024/12/december-adventure/
+aliases:
+  - /dingen/2024/12/december-adventure/
 
 ---
 So I felt I couldn't really bring myself to do [Advent of Code](https://adventofcode.com) this year since I have more than enough other things to do (and [watch](https://en.wikipedia.org/wiki/Arcane_(TV_series)) and [play](https://store.steampowered.com/app/333640/Caves_of_Qud/)) and with work and the kids, it's always pretty miserable to keep up.

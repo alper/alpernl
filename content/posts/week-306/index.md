@@ -12,7 +12,8 @@ post_id: "4238"
 tags:
   - weeknotes
 title: Week 306
-url: /dingen/2013/01/week-306/
+aliases:
+  - /dingen/2013/01/week-306/
 
 ---
 Recovering from flu meant a week of mostly broken days, but still got a lot done and more importantly: got better.

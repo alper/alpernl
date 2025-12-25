@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18109
 parent_post_id: null
 post_id: "18109"
 title: Scrubbing Secrets with jj
-url: /dingen/2025/03/scrubbing-secrets-with-jj/
+aliases:
+  - /dingen/2025/03/scrubbing-secrets-with-jj/
 
 ---
 Last time I talked about [how I use jj for small code changes while being interrupted all the time as a manager](/dingen/2025/02/using-jj-as-a-manager/). This time we'll be using it in anger.

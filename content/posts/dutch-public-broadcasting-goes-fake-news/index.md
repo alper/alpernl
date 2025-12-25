@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=5724
 parent_post_id: null
 post_id: "5724"
 title: Dutch Public Broadcasting Goes Fake News
-url: /dingen/2017/02/dutch-public-broadcasting-goes-fake-news/
+aliases:
+  - /dingen/2017/02/dutch-public-broadcasting-goes-fake-news/
 
 ---
 [Geert Wilders](https://en.wikipedia.org/wiki/Geert_Wilders), leader of the PVV —the far right Dutch Freedom Party— had his campaign start today for the upcoming parliamentary elections in Spijkenisse, one of his traditional strongholds.

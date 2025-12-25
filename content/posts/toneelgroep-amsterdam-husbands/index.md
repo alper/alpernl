@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3389
 parent_post_id: null
 post_id: "3389"
 title: Toneelgroep Amsterdam - Husbands
-url: /dingen/2012/03/toneelgroep-amsterdam-husbands/
+aliases:
+  - /dingen/2012/03/toneelgroep-amsterdam-husbands/
 
 ---
 Last weekend I saw [Husbands](http://www.tga.nl/default.asp?path=h8ql0lx8) by [Toneelgroep Amsterdam](http://www.tga.nl/) director Ivo van Hove in the Schaubühne in Berlin. I was not unequivocally enthusiastic about the play, though it has a boisterous quality that has stayed with me these past days.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15512
 parent_post_id: null
 post_id: "15512"
 title: ""
-url: /dingen/2019/06/15512/
+aliases:
+  - /dingen/2019/06/15512/
 
 ---
 A frankly amazing piece by Monica Lent using her experience to debunk seven commonly held truths about programming with verve. Programming consists of folklore and beliefs are often just beliefs. That indeed makes most learning in this field a question of unlearning.

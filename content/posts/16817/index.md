@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16817
 parent_post_id: null
 post_id: "16817"
 title: ""
-url: /dingen/2022/07/16817/
+aliases:
+  - /dingen/2022/07/16817/
 
 ---
 [https://jhall.io/archive/2022/06/19/a-gitflow-story/](https://jhall.io/archive/2022/06/19/a-gitflow-story/)

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3205
 parent_post_id: null
 post_id: "3205"
 title: Cultural Consumption 2011
-url: /dingen/2012/01/cultural-consumption-2011/
+aliases:
+  - /dingen/2012/01/cultural-consumption-2011/
 
 ---
 I dived into my log to make the yearly tally of what I did and saw. All in all 2011 has proven to be a good year.

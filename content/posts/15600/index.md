@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15600
 parent_post_id: null
 post_id: "15600"
 title: ""
-url: /dingen/2019/08/15600/
+aliases:
+  - /dingen/2019/08/15600/
 
 ---
 An incredible treatment of moving to New York that manages to make SF more than a bit lame in comparison.

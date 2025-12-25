@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15915
 parent_post_id: null
 post_id: "15915"
 title: ""
-url: /dingen/2019/12/15915/
+aliases:
+  - /dingen/2019/12/15915/
 
 ---
 Not surprisingly I agree with these reasons to _do_ give management a try. It can be a very rewarding thing for the right person at the right place/time.

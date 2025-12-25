@@ -18,7 +18,8 @@ guid: https://alper.nl/dingen/?p=17033
 parent_post_id: null
 post_id: "17033"
 title: ""
-url: /dingen/2023/02/17033/
+aliases:
+  - /dingen/2023/02/17033/
 
 ---
 Important prototyping work to show how German government forms can be much better and much friendlier than what's out there right now.

@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18216
 parent_post_id: null
 post_id: "18216"
 title: ""
-url: /dingen/2025/04/18216/
+aliases:
+  - /dingen/2025/04/18216/
 
 ---
 Solid and sober career advice in the current landscape.

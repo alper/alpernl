@@ -13,7 +13,8 @@ post_id: "3531"
 tags:
   - weeknotes
 title: 'Week 267: Hack and Tell, Thinkup, Gesellschaft im digitalen Wandel, Taobao and Gallery Weekend'
-url: /dingen/2012/05/week-267-hack-and-tell-thinkup-gesellschaft-im-digitalen-wandel-taobao-and-gallery-weekend/
+aliases:
+  - /dingen/2012/05/week-267-hack-and-tell-thinkup-gesellschaft-im-digitalen-wandel-taobao-and-gallery-weekend/
 
 ---
 I got a bunch of accessories for the office among which a bike stand:

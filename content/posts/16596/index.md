@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16596
 parent_post_id: null
 post_id: "16596"
 title: ""
-url: /dingen/2021/10/16596/
+aliases:
+  - /dingen/2021/10/16596/
 
 ---
 If you are looking around during the great resignation, I can tell you that things like 4-day work weeks, mission driven companies and excellent colleagues are out there to be found. For instance where I'm working now.

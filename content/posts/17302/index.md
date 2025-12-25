@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17302
 parent_post_id: null
 post_id: "17302"
 title: ""
-url: /dingen/2023/11/17302/
+aliases:
+  - /dingen/2023/11/17302/
 
 ---
 As much as it pains me, I'm teaching myself Helix and trying out the Jetbrains IDEs. Code has been the first editor that really clicked for me but as with all free things, there's a hidden price to pay for it.

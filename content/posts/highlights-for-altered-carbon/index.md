@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5941
 parent_post_id: null
 post_id: "5941"
 title: Highlights for Altered Carbon
-url: /dingen/2018/01/highlights-for-altered-carbon/
+aliases:
+  - /dingen/2018/01/highlights-for-altered-carbon/
 
 ---
 > Rich people do this. They have the power and they see no reason not to use it. Men and women are just merchandise, like everything else.

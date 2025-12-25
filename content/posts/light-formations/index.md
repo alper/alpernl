@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=714
 parent_post_id: null
 post_id: "714"
 title: Light formations
-url: /dingen/2008/12/light-formations/
+aliases:
+  - /dingen/2008/12/light-formations/
 
 ---
 Occasionally some very beautiful things here in Berlin between the grey and cold (( _Beirut — In the Mausoleum:_\[…\] And Berlin // is so ugly in the morning light)):

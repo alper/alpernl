@@ -13,7 +13,8 @@ post_id: "2295"
 tags:
   - weeknotes
 title: Week 192
-url: /dingen/2010/11/week-192/
+aliases:
+  - /dingen/2010/11/week-192/
 
 ---
 A busy week the last one, met with several people busy in the field of open transit data to the point of actively starting projects or planning to integrally solve the problem. Good to see that a lot of momentum (and perceived value) is in that space.

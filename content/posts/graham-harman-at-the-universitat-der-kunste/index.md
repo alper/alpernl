@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=4496
 parent_post_id: null
 post_id: "4496"
 title: Graham Harman at the UniversitÃ¤t der Kunste
-url: /dingen/2013/04/graham-harman-at-the-universitat-der-kunste/
+aliases:
+  - /dingen/2013/04/graham-harman-at-the-universitat-der-kunste/
 
 ---
 Last Monday I heard [Graham Harman](http://doctorzamalek2.wordpress.com/) give [the International Flusser Lecture](http://www.flusser-archive.org/publications/internationalflusserlectures) in Berlin. The lecture was in German and for me as a non-native speaker somewhat hard to follow, but the present Germans loved it. ‘The English dominated academia’ seems to be problematic for them ((I have been in that conundrum myself and experienced that talking in English to a traditional German audience results in a > 75% loss of signal and a total negation of empathy.)).

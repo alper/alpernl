@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15231
 parent_post_id: null
 post_id: "15231"
 title: ""
-url: /dingen/2019/03/15231/
+aliases:
+  - /dingen/2019/03/15231/
 
 ---
 The things that will actually allow you to hire great engineers are things that are very hard to quantify, as listed in this article:

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16441
 parent_post_id: null
 post_id: "16441"
 title: ""
-url: /dingen/2021/03/16441/
+aliases:
+  - /dingen/2021/03/16441/
 
 ---
 [https://hynek.me/articles/semver-will-not-save-you/](https://hynek.me/articles/semver-will-not-save-you/)

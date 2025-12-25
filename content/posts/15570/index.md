@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15570
 parent_post_id: null
 post_id: "15570"
 title: ""
-url: /dingen/2019/07/15570/
+aliases:
+  - /dingen/2019/07/15570/
 
 ---
 I haven't read this profile of the Sacklers. I'll only read one when it is profiling them because they will be executed for their crimes.

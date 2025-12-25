@@ -12,7 +12,8 @@ post_id: "4677"
 tags:
   - weeknotes
 title: Week 325
-url: /dingen/2013/06/week-325/
+aliases:
+  - /dingen/2013/06/week-325/
 
 ---
 I'm running frightfully behind with these and debating whether to continue writing weeknotes if it means this work is being featured in a total of three places. That seems a bit too much.

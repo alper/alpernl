@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18468
 parent_post_id: null
 post_id: "18468"
 title: ""
-url: /dingen/2025/11/18468/
+aliases:
+  - /dingen/2025/11/18468/
 
 ---
 Watermarks are just one part of Flink which are difficult to wrap your head around but this interactive explanation does a good job of explaining them. Now for all the other parts of Flink…

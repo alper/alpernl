@@ -12,7 +12,8 @@ post_id: "3072"
 tags:
   - weeknotes
 title: Week 242
-url: /dingen/2011/11/week-242/
+aliases:
+  - /dingen/2011/11/week-242/
 
 ---
 Going on with [Apps voor Nederland](http://appsvoornederland.nl/) and _culiacan_ (which is almost done by now). Also did a brief intermediate scripting and renedring moving text for a [TA](http://www.toneelgroepamsterdam.nl/) theater piece.

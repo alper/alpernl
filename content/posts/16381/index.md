@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16381
 parent_post_id: null
 post_id: "16381"
 title: ""
-url: /dingen/2021/01/16381/
+aliases:
+  - /dingen/2021/01/16381/
 
 ---
 [https://www.conordewey.com/blog/barrels-and-ammunition/](https://www.conordewey.com/blog/barrels-and-ammunition/)

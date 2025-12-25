@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16298
 parent_post_id: null
 post_id: "16298"
 title: ""
-url: /dingen/2020/09/16298/
+aliases:
+  - /dingen/2020/09/16298/
 
 ---
 It sounds very familiar here that the mark of a senior is to have continuous pressure against getting anything done and then still getting stuff done.

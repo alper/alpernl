@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4769
 parent_post_id: null
 post_id: "4769"
 title: Symphonie CinÃ©tique
-url: /dingen/2013/09/symphonie-cinetique/
+aliases:
+  - /dingen/2013/09/symphonie-cinetique/
 
 ---
 Tonight I saw the magical [Symphonie Cinétique works at MADE in Berlin](http://made-blog.com/2013/09/symphonie-cinetique-the-pieces/).

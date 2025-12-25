@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16004
 parent_post_id: null
 post_id: "16004"
 title: ""
-url: /dingen/2020/02/16004/
+aliases:
+  - /dingen/2020/02/16004/
 
 ---
 A fairly definitive article about why SAFe (Scaled Agile Framework) should not be used. Mostly because it is the antithesis of every kind of agility.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4376
 parent_post_id: null
 post_id: "4376"
 title: Hosting on Heroku with functioning MX records
-url: /dingen/2013/03/hosting-on-heroku-with-functioning-mx-records/
+aliases:
+  - /dingen/2013/03/hosting-on-heroku-with-functioning-mx-records/
 
 ---
 It seems to be not completely obvious how to host a website on [heroku](http://heroku.com) while at the same time also maintaining e-mail delivery. You would think that this is a very common situation and it would be well documented but unfortunately it is not.

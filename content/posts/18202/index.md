@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18202
 parent_post_id: null
 post_id: "18202"
 title: ""
-url: /dingen/2025/04/18202/
+aliases:
+  - /dingen/2025/04/18202/
 
 ---
 A thought provoking attack on SQL with a bunch of pointers and hints as to what could come next. I'm pretty competent with SQL but that is exactly the point where you should become interested in what the limitations are and in what situations it makes sense to break out of the paradigm.

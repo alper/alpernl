@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1074
 parent_post_id: null
 post_id: "1074"
 title: Overheidsgegevens opener en vriendelijker
-url: /dingen/2009/06/overheidsgegevens-opener-en-vriendelijker/
+aliases:
+  - /dingen/2009/06/overheidsgegevens-opener-en-vriendelijker/
 
 ---
 Ik ben pas bezig geweest met verschillende overheidsinitiatieven om overheidsgegevens makkelijker toegankelijk te maken en te laten zien wat er mogelijk is als die gegevens toegankelijk zijn. Het idee is dat als de gegevens van de overheid open zijn, ontwikkelaars en andere partijen die kunnen hergebruiken en dingen kunnen maken waar andere mensen behoefte aan hebben. En dat zou weleens [handig kunnen zijn](http://www.datzouhandigzijn.nl).

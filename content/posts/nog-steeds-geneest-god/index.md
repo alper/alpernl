@@ -8,7 +8,8 @@ tags:
   - filosofie
   - religie
 title: Nog steeds geneest God
-url: /dingen/2007/08/nog-steeds-geneest-god/
+aliases:
+  - /dingen/2007/08/nog-steeds-geneest-god/
 
 ---
 Zaterdag was ik even naar Amsterdam en kwam toen middenin de Gay Pride terecht. Ik heb het grotendeels genegeerd maar [Michel heeft er foto's](http://www.flickr.com/photos/emmef/) van.

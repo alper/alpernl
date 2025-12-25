@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15546
 parent_post_id: null
 post_id: "15546"
 title: ""
-url: /dingen/2019/06/15546/
+aliases:
+  - /dingen/2019/06/15546/
 
 ---
 AOC is correct. America is running concentration camps filled with kids.

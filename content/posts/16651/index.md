@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16651
 parent_post_id: null
 post_id: "16651"
 title: ""
-url: /dingen/2021/12/16651/
+aliases:
+  - /dingen/2021/12/16651/
 
 ---
 "If quantitative metrics are inescapable, we suggest focusing on Service Level Objectives (SLOs) and cost of coordination data."

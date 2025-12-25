@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16685
 parent_post_id: null
 post_id: "16685"
 title: Year Note 2021
-url: /dingen/2022/01/year-note-2021/
+aliases:
+  - /dingen/2022/01/year-note-2021/
 
 ---
 > The days are long but the years are short.

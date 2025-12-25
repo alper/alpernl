@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18071
 parent_post_id: null
 post_id: "18071"
 title: ""
-url: /dingen/2025/02/18071/
+aliases:
+  - /dingen/2025/02/18071/
 
 ---
 Hundred percent sure that if the same policy would be applied to Berlin most car traffic would evaporate from our streets here immediately. Most traffic in my neighborhood is people without really that much to do who could be doing something other than driving and drug dealers.

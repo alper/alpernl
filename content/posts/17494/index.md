@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17494
 parent_post_id: null
 post_id: "17494"
 title: ""
-url: /dingen/2024/03/17494/
+aliases:
+  - /dingen/2024/03/17494/
 
 ---
 I haven't tried it out yet but seeing the collaboration features in Zed described here, that sounds pretty much like my ideal workflow.

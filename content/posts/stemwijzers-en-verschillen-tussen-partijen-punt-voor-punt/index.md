@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1557
 parent_post_id: null
 post_id: "1557"
 title: Stemwijzers en verschillen tussen partijen, punt voor punt
-url: /dingen/2010/02/stemwijzers-en-verschillen-tussen-partijen-punt-voor-punt/
+aliases:
+  - /dingen/2010/02/stemwijzers-en-verschillen-tussen-partijen-punt-voor-punt/
 
 ---
 Ik ben sinds een tijdje lid van [D66](http://www.d66.nl) tot redelijke tevredenheid. Maar nu doe ik net de [Stemwijzer](http://www.stemwijzer.nl) voor de gemeente Amsterdam en daar komt het volgende uit:

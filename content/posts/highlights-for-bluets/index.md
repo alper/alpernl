@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5995
 parent_post_id: null
 post_id: "5995"
 title: Highlights for Bluets
-url: /dingen/2018/05/highlights-for-bluets/
+aliases:
+  - /dingen/2018/05/highlights-for-bluets/
 
 ---
 > This is a simple story, but it spooks me, insofar as it reminds me that the eye is simply a recorder, with or without our will. Perhaps the same could be said of the heart. But whether there is a violence at work here remains undecided.

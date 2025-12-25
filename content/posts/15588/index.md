@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15588
 parent_post_id: null
 post_id: "15588"
 title: ""
-url: /dingen/2019/07/15588/
+aliases:
+  - /dingen/2019/07/15588/
 
 ---
 OV-Fiets is the bike share avant-la-lettre, but it's so locally Dutch that it always has been a bit hard to explain. The popularity of OV-Fiets has increased, now coinciding nicely with the international boom in mobility.

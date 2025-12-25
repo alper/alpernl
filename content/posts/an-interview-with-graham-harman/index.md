@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3587
 parent_post_id: null
 post_id: "3587"
 title: An interview with Graham Harman
-url: /dingen/2012/06/an-interview-with-graham-harman/
+aliases:
+  - /dingen/2012/06/an-interview-with-graham-harman/
 
 ---
 This [interview with Graham Harman](http://skepoet.wordpress.com/2012/06/01/marginalia-on-radical-thinking-an-interview-with-graham-harman/) is filled with valuable tidbits, some of which I wanted to collect and share for your reading pleasure as much as mine:

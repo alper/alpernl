@@ -9,7 +9,8 @@ post_id: "77"
 tags:
   - uncategorized
 title: Plannen van de zomer
-url: /dingen/2007/06/plannen-van-de-zomer/
+aliases:
+  - /dingen/2007/06/plannen-van-de-zomer/
 
 ---
 Ik moest afgelopen week studeren voor mijn laatste tentamen deze woensdag ((in4012 Real Time AI and Speech Recognition wat ik gruwelijk hard heb ingekopt.)) dus toen ging ik als vanzelf andere dingen doen.

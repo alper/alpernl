@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=956
 parent_post_id: null
 post_id: "956"
 title: Mobile Widget Camp
-url: /dingen/2009/05/mobile-widget-camp/
+aliases:
+  - /dingen/2009/05/mobile-widget-camp/
 
 ---
 In spite of the nice weather, I spent today at [Mobile Widget Devcamp](http://www.mobilewidgetcamp.nl/) in Pakhuis de Zwijger. Having done some projects on widgets recently, I was curious to see what the state of mobile widgets was.

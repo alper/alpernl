@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/2008/04/studentenhuis-met-polen/
 parent_post_id: null
 post_id: "284"
 title: Studentenhuis met Polen
-url: /dingen/2008/04/studentenhuis-met-polen/
+aliases:
+  - /dingen/2008/04/studentenhuis-met-polen/
 
 ---
 Onderstaande gebeurde dus bij mij om de hoek, maar ik heb er niks van gemerkt.

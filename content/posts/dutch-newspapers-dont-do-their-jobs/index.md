@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=5710
 parent_post_id: null
 post_id: "5710"
 title: Dutch newspapers should do their jobs
-url: /dingen/2017/02/dutch-newspapers-dont-do-their-jobs/
+aliases:
+  - /dingen/2017/02/dutch-newspapers-dont-do-their-jobs/
 
 ---
 Just another day in the Dutch election campaign.

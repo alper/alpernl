@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15223
 parent_post_id: null
 post_id: "15223"
 title: ""
-url: /dingen/2019/03/15223/
+aliases:
+  - /dingen/2019/03/15223/
 
 ---
 A lot of sense and clear rules about tool usage in this article about remote native organizations by [Pablo Carranza](https://twitter.com/psczg). It makes me itch to go back to working remote however much I'm enjoying my current office setup.  

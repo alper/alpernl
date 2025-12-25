@@ -12,7 +12,8 @@ post_id: "3768"
 tags:
   - weeknotes
 title: 'Weeks 280-281: Traveling and vacation'
-url: /dingen/2012/08/weeks-280-281-traveling-and-vacation/
+aliases:
+  - /dingen/2012/08/weeks-280-281-traveling-and-vacation/
 
 ---
 [![Having my mind catch up with me in the garden](http://farm9.staticflickr.com/8161/7636181826_6899cf7e92.jpg)](http://www.flickr.com/photos/alper/7636181826/ "Having my mind catch up with me in the garden by illustir, on Flickr")

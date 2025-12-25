@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15907
 parent_post_id: null
 post_id: "15907"
 title: ""
-url: /dingen/2019/12/15907/
+aliases:
+  - /dingen/2019/12/15907/
 
 ---
 A nice holistic mapping way to look at alliances.

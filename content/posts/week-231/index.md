@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2749
 parent_post_id: null
 post_id: "2749"
 title: Week 231
-url: /dingen/2011/08/week-231/
+aliases:
+  - /dingen/2011/08/week-231/
 
 ---
 A bunch of work on finalizing Code 4, work on _culiacan_ continues steadily nearing a launch sometime soon, and kicking off ideation and sketches for _tlalnepantla_.

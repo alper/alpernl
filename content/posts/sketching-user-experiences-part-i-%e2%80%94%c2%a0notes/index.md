@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1173
 parent_post_id: null
 post_id: "1173"
 title: Sketching User Experiences part I â€”Â notes
-url: /dingen/2009/08/sketching-user-experiences-part-i-— notes/
+aliases:
+  - /dingen/2009/08/sketching-user-experiences-part-i-— notes/
 
 ---
 I recently reread part I of Sketching User Experiences by [Bill Buxton](http://www.billbuxton.com/) for [UX Book Club Zuid-Holland](http://www.uxbookclub.org/doku.php?id=zuid-holland) and made notes during the proces. ‘Sketching’ is one of my favorite UX books and well worth a reread which I found reveals different layers and gets you to reflect differently with the experience you have accumulated since the last time I read it.

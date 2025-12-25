@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16127
 parent_post_id: null
 post_id: "16127"
 title: ""
-url: /dingen/2020/06/16127/
+aliases:
+  - /dingen/2020/06/16127/
 
 ---
 I want to echo this and add that once you realize what the git \`master\` refers to, it is unconscionable that we reproduce it so often and so callously every day of our working lives. (Disclosure: Alicia reports to me.)

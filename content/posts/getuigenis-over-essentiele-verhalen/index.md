@@ -8,7 +8,8 @@ tags:
   - fotografie
   - museum
 title: Getuigenis over essentiele verhalen
-url: /dingen/2007/04/getuigenis-over-essentiele-verhalen/
+aliases:
+  - /dingen/2007/04/getuigenis-over-essentiele-verhalen/
 
 ---
 Gisteren dus de [TEDPrize presentatie](http://www.ted.com/index.php/talks/view/id/84) van [James Nachtwey](http://en.wikipedia.org/wiki/James_Nachtwey) bekeken op schitterend hoog resolutie video.

@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18073
 parent_post_id: null
 post_id: "18073"
 title: ""
-url: /dingen/2025/02/18073/
+aliases:
+  - /dingen/2025/02/18073/
 
 ---
 Just one of the ways that Zuckerberg full willingly enabled neonazis on his platforms.

@@ -14,7 +14,8 @@ post_id: "2076"
 tags:
   - weeknotes
 title: Week 181
-url: /dingen/2010/09/week-181/
+aliases:
+  - /dingen/2010/09/week-181/
 
 ---
 Last week was a short one and mostly spent in preparation of work writing proposals and quotes. I hope we can wrap all that stuff up this week and go back into grand scale production mode.

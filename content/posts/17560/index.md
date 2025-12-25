@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17560
 parent_post_id: null
 post_id: "17560"
 title: ""
-url: /dingen/2024/07/17560/
+aliases:
+  - /dingen/2024/07/17560/
 
 ---
 A piece about real-world Rust development that struck a cord with many people. Most of the issues listed here are valid and longstanding to the point that you have to wonder if they'll ever be fixed.

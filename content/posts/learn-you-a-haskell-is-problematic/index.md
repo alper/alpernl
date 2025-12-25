@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16661
 parent_post_id: null
 post_id: "16661"
 title: Learn You a Haskell is Problematic
-url: /dingen/2021/12/learn-you-a-haskell-is-problematic/
+aliases:
+  - /dingen/2021/12/learn-you-a-haskell-is-problematic/
 
 ---
 A couple of years ago I learned Haskell and to do that I read a book that is universally recommended for beginners and used to be available free online called ["Learn you a Haskell for Great Good"](https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good).

@@ -13,7 +13,8 @@ post_id: "3062"
 tags:
   - weeknotes
 title: Week 241
-url: /dingen/2011/11/week-241/
+aliases:
+  - /dingen/2011/11/week-241/
 
 ---
 [Apps voor Nederland](http://appsvoornederland.nl) continues apace as it keeps on doing.

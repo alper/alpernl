@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15549
 parent_post_id: null
 post_id: "15549"
 title: ""
-url: /dingen/2019/06/15549/
+aliases:
+  - /dingen/2019/06/15549/
 
 ---
 Ende Gelände is the radical environmentalist movement against climate change and here they are blocking a strip mine.

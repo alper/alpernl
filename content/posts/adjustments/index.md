@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=559
 parent_post_id: null
 post_id: "559"
 title: Adjustments
-url: /dingen/2008/10/adjustments/
+aliases:
+  - /dingen/2008/10/adjustments/
 
 ---
 Freshly one day back in from San Francisco some adjustments need to be made. The time difference has been reduced from 9 hours to 8 thanks to our splendidly [European invention](http://en.wikipedia.org/wiki/Daylight_Savings_Time#Origin): DST. Along with the time difference there is also a slight difference in daylight and a large difference in temperature (15ź centigrade) and precipitation (nearly non-stop rain the past day).

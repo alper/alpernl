@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/categories/video/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/12/18570/</link>
+      <link>http://localhost:1313/blog/18570/</link>
       <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18570</guid> 
       <description>&lt;p&gt;Refreshing to see Brian Cantrill talk about &amp;rsquo;trust&amp;rsquo; and &amp;lsquo;accountability&amp;rsquo; in the tech industry. These days it almost seems as if both of those have become dirty words.&lt;/p&gt;
@@ -21,7 +21,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/07/18273/</link>
+      <link>http://localhost:1313/blog/18273/</link>
       <pubDate>Fri, 25 Jul 2025 21:42:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18273</guid> 
       <description>&lt;p&gt;Glad to see I&amp;rsquo;m not the only person hooked by these short videos. They&amp;rsquo;re oddly compelling and are at the moment still mostly under the radar here.&lt;/p&gt;
@@ -29,7 +29,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/06/18254/</link>
+      <link>http://localhost:1313/blog/18254/</link>
       <pubDate>Thu, 05 Jun 2025 22:20:58 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18254</guid> 
       <description>&lt;p&gt;A very informative write-up of how you would squeeze out the last bits of performance out of a Rust port. Not sure if I&amp;rsquo;d ever apply this but I&amp;rsquo;m happy enough that I can mostly follow along.&lt;/p&gt;
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/03/18170/</link>
+      <link>http://localhost:1313/blog/18170/</link>
       <pubDate>Sat, 22 Mar 2025 08:48:55 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18170</guid> 
       <description>&lt;p&gt;Type level programming in Typescript has been driven to the point of pure absurdity by implementing a DOOM runtime on it to play the game with.&lt;/p&gt;
@@ -47,7 +47,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/02/18105/</link>
+      <link>http://localhost:1313/blog/18105/</link>
       <pubDate>Thu, 20 Feb 2025 21:33:07 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18105</guid> 
       <description>&lt;p&gt;Wheel of Time is low key one of the best fantasy tv shows out right now. Each season is going from strength to strength and the next one looks to be the best one yet.&lt;/p&gt;
@@ -55,7 +55,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17972/</link>
+      <link>http://localhost:1313/blog/17972/</link>
       <pubDate>Mon, 27 Jan 2025 08:16:49 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17972</guid> 
       <description>&lt;blockquote&gt;
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17897/</link>
+      <link>http://localhost:1313/blog/17897/</link>
       <pubDate>Sat, 11 Jan 2025 13:43:02 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17897</guid> 
       <description>&lt;p&gt;A tear down of how women still get erased from narratives like Toshi here in the new Bob Dylan movie.&lt;/p&gt;
@@ -71,7 +71,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17893/</link>
+      <link>http://localhost:1313/blog/17893/</link>
       <pubDate>Sat, 11 Jan 2025 11:44:44 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17893</guid> 
       <description>&lt;p&gt;The lamb ad does a good job showing the madness that is online comments sections. Also it made me want to eat a nice piece of lamb.&lt;/p&gt;
@@ -81,7 +81,7 @@
     </item>
     <item>
       <title>Year in Review 2024</title>
-      <link>http://localhost:1313/dingen/2025/01/year-in-review-2024/</link>
+      <link>http://localhost:1313/blog/year-in-review-2024/</link>
       <pubDate>Sun, 05 Jan 2025 17:05:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17872</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s been a bit of a grab bag year but overall not as bad as 2023 and a bunch of things seem to be on track.&lt;/p&gt;
@@ -91,7 +91,7 @@
     </item>
     <item>
       <title>GIFT</title>
-      <link>http://localhost:1313/dingen/2024/11/gift/</link>
+      <link>http://localhost:1313/blog/gift/</link>
       <pubDate>Sun, 10 Nov 2024 08:39:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17699</guid> 
       <description>&lt;p&gt;Watched “Evil Does Not Exist” as GIFT, the recut and rescored (silent) version performed live by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eiko_Ishibashi&#34;&gt;Eiko Ishibashi&lt;/a&gt; at HAU1.&lt;/p&gt;
@@ -103,7 +103,7 @@
     </item>
     <item>
       <title>Kaiju No 8</title>
-      <link>http://localhost:1313/dingen/2024/11/kaiju-no-8/</link>
+      <link>http://localhost:1313/blog/kaiju-no-8/</link>
       <pubDate>Sun, 03 Nov 2024 17:22:18 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17657</guid> 
       <description>&lt;figure&gt;
@@ -115,7 +115,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/10/17622/</link>
+      <link>http://localhost:1313/blog/17622/</link>
       <pubDate>Thu, 03 Oct 2024 01:13:36 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17622</guid> 
       <description>&lt;p&gt;Coates and Stewart have a warm and powerful conversation around a number of topics but mostly about Israel/Palestine.&lt;/p&gt;
@@ -125,7 +125,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/10/17620/</link>
+      <link>http://localhost:1313/blog/17620/</link>
       <pubDate>Thu, 03 Oct 2024 01:07:17 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17620</guid> 
       <description>&lt;p&gt;For a relatively complete and concise rundown of how insane Germany is at the moment, this conversation with journalist &lt;a href=&#34;https://x.com/derjamesjackson/&#34;&gt;James Jackson&lt;/a&gt; is highly recommended. Things are really spiralling into pure madness here and it seems likely that that will be the new normal.&lt;/p&gt;
@@ -135,7 +135,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/08/17588/</link>
+      <link>http://localhost:1313/blog/17588/</link>
       <pubDate>Thu, 29 Aug 2024 20:30:15 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17588</guid> 
       <description>&lt;p&gt;A quick look to what&amp;rsquo;s awaiting Germany-which has bet heavily on hydrogen cars-several decades in the future. California has a hydrogen highway which looks like it is on its way out.&lt;/p&gt;
@@ -145,7 +145,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/08/17582/</link>
+      <link>http://localhost:1313/blog/17582/</link>
       <pubDate>Tue, 13 Aug 2024 21:16:15 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17582</guid> 
       <description>&lt;p&gt;Long distance bike packing races however brutal they may be look like they fulfil an ideal. They have an activity that&amp;rsquo;s not that fast but where you can still cover a lot of distance and terrain. The contestants are physically and mentally absurdly fit and still they go through hell. The remoteness of the locations usually creates a special connection to the local people and culture.&lt;/p&gt;
@@ -153,7 +153,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/04/17525/</link>
+      <link>http://localhost:1313/blog/17525/</link>
       <pubDate>Mon, 15 Apr 2024 17:54:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17525</guid> 
       <description>&lt;blockquote&gt;
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/04/17521/</link>
+      <link>http://localhost:1313/blog/17521/</link>
       <pubDate>Mon, 15 Apr 2024 17:46:21 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17521</guid> 
       <description>&lt;p&gt;I would be the last to ever watch anything by Lex Fridman, but TikTok has been feeding me clips from his interview with Bassem Youssef and I can&amp;rsquo;t help but be impressed. Fridman does a decent job interviewing but of course the conversation is carried by Youssef, who is nothing short of a treasure.&lt;/p&gt;
@@ -174,7 +174,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/03/17510/</link>
+      <link>http://localhost:1313/blog/17510/</link>
       <pubDate>Tue, 12 Mar 2024 00:03:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17510</guid> 
       <description>&lt;p&gt;Amos&amp;rsquo;s style of software engineering historiography accompanied with snide commentary on the state of the art is both educational and entertaining. The weird factoids about Github Actions are the main act here but don&amp;rsquo;t miss out on the introduction on software delivery or the lead out on capitalism.&lt;/p&gt;
@@ -186,7 +186,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/03/17492/</link>
+      <link>http://localhost:1313/blog/17492/</link>
       <pubDate>Sun, 10 Mar 2024 12:40:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17492</guid> 
       <description>&lt;p&gt;I found a new German podcast crush in Hart Unfair which is my favorite format: three people (Anna Dushime, Yelda Türkmen and Ari Christmann) rambling through one another but in a way that&amp;rsquo;s funny, intelligent and diverse. It&amp;rsquo;s a shame that they publish so irregularly that I can&amp;rsquo;t tell if the podcast is dead or not.&lt;/p&gt;
@@ -194,7 +194,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/03/17481/</link>
+      <link>http://localhost:1313/blog/17481/</link>
       <pubDate>Sun, 10 Mar 2024 09:55:59 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17481</guid> 
       <description>&lt;p&gt;The comments online around the Apple Vision Pro have been pretty deranged in a stupid kind of way. Lots of people jumped to the foregone conclusion that Apple released a failure or that it &amp;ldquo;wasn&amp;rsquo;t going to be a success&amp;rdquo;. Most of that seemed to have been motivated by clout chasing.&lt;/p&gt;
@@ -202,7 +202,7 @@
     </item>
     <item>
       <title>SPY x Family - Das Leben der Anderen</title>
-      <link>http://localhost:1313/dingen/2024/03/17455/</link>
+      <link>http://localhost:1313/blog/17455/</link>
       <pubDate>Sat, 02 Mar 2024 00:03:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17455</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m enjoying another light season of &lt;a href=&#34;https://en.wikipedia.org/wiki/Spy_%C3%83%E2%80%94_Family&#34;&gt;SPY x FAMILY&lt;/a&gt;. It&amp;rsquo;s a light anime whose premise is that of a spy (Loid) who needs live in deep cover in hostile territory and forms a family of convenience. He finds a woman (Yor) who&amp;rsquo;s secretly an assassin also in need of cover and an orphan child (Anya) who&amp;rsquo;s a telepath. It&amp;rsquo;s great fun.&lt;/p&gt;
@@ -214,7 +214,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/02/17429/</link>
+      <link>http://localhost:1313/blog/17429/</link>
       <pubDate>Sat, 17 Feb 2024 11:44:18 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17429</guid> 
       <description>&lt;p&gt;Extremely odd to see a nuanced take on the German political climate by a sociologist on national television. Nils C. Kumkar does a really good job here:&lt;/p&gt;
@@ -222,7 +222,7 @@
     </item>
     <item>
       <title>2023 Year in Review</title>
-      <link>http://localhost:1313/dingen/2024/01/2023-year-in-review/</link>
+      <link>http://localhost:1313/blog/2023-year-in-review/</link>
       <pubDate>Mon, 01 Jan 2024 01:49:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17382</guid> 
       <description>&lt;p&gt;Looking back on 2023 I can say that we made lemonade out of an overall pretty shit year.&lt;/p&gt;
@@ -230,7 +230,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/12/17338/</link>
+      <link>http://localhost:1313/blog/17338/</link>
       <pubDate>Sat, 02 Dec 2023 16:11:28 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17338</guid> 
       <description>&lt;p&gt;Listening to the Trash Future team describe CulturePulse.ai and the digital twin profile created for entire populations seems very very reminiscent of &lt;a href=&#34;https://www.goodreads.com/en/book/show/2263657&#34;&gt;“The Red Men”&lt;/a&gt; by Matthew de Abaitua which didn&amp;rsquo;t get the attention it deserved but was quite prescient.&lt;/p&gt;
@@ -239,7 +239,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/07/17206/</link>
+      <link>http://localhost:1313/blog/17206/</link>
       <pubDate>Sat, 01 Jul 2023 22:37:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17206</guid> 
       <description>&lt;p&gt;I feel very seen by this.&lt;/p&gt;
@@ -249,7 +249,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/06/17196/</link>
+      <link>http://localhost:1313/blog/17196/</link>
       <pubDate>Sun, 04 Jun 2023 22:57:10 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17196</guid> 
       <description>&lt;p&gt;&amp;ldquo;This was an act of self-defense.&amp;rdquo;&lt;/p&gt;
@@ -260,7 +260,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/04/17175/</link>
+      <link>http://localhost:1313/blog/17175/</link>
       <pubDate>Sat, 29 Apr 2023 13:23:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17175</guid> 
       <description>&lt;p&gt;Ik weet nog dat bij elk bezoek aan Hilversum het duidelijk was dat de mensen daar geen idee hebben van wat er buiten Hilversum gebeurt. Grappig om te lezen dat dat nog steeds zo is.&lt;/p&gt;
@@ -268,7 +268,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/03/17131/</link>
+      <link>http://localhost:1313/blog/17131/</link>
       <pubDate>Sun, 12 Mar 2023 22:51:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17131</guid> 
       <description>&lt;p&gt;A brief English overview of the dizi Alev Alev which truly was very good and focused on empowering women. I still want to make a supercut at some point of all of Ömer and Ozan&amp;rsquo;s interactions.&lt;/p&gt;
@@ -276,7 +276,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/03/17129/</link>
+      <link>http://localhost:1313/blog/17129/</link>
       <pubDate>Sun, 12 Mar 2023 10:13:10 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17129</guid> 
       <description>&lt;p&gt;Since the first time I saw when I was a kid, I loved Master and Commander. I had no idea that there were 20 books behind it or I would have probably read them.&lt;/p&gt;
@@ -285,7 +285,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16989/</link>
+      <link>http://localhost:1313/blog/16989/</link>
       <pubDate>Sun, 29 Jan 2023 23:09:42 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16989</guid> 
       <description>&lt;p&gt;Despite not being the biggest fan of Shape Up or of 37s, I still really enjoyed watching this video by Ryan Singer about Shaping.&lt;/p&gt;
@@ -296,7 +296,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16950/</link>
+      <link>http://localhost:1313/blog/16950/</link>
       <pubDate>Sun, 08 Jan 2023 16:07:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16950</guid> 
       <description>&lt;p&gt;A thorough treatment in the New Yorker of the way the Indian film industry is being captured by ideology.&lt;/p&gt;
@@ -304,7 +304,7 @@
     </item>
     <item>
       <title>Gibi: Comedy under Pressure</title>
-      <link>http://localhost:1313/dingen/2022/08/gibi-comedy-under-pressure/</link>
+      <link>http://localhost:1313/blog/gibi-comedy-under-pressure/</link>
       <pubDate>Sun, 21 Aug 2022 22:30:20 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16757</guid> 
       <description>&lt;p&gt;I just watched and finished season 1 of &lt;a href=&#34;https://trakt.tv/shows/as-if-2021&#34;&gt;Gibi&lt;/a&gt; which seems to have been enough of a success for them to quickly put out a second season. It&amp;rsquo;s a Turkish dark comedy show that you can watch online on &lt;a href=&#34;https://www.exxen.com/&#34;&gt;Exxen&lt;/a&gt;. I already &lt;a href=&#34;http://localhost:1313/dingen/2021/12/as-if/&#34;&gt;wrote it&amp;rsquo;s a bit like Seinfeld&lt;/a&gt; but with a very dark undercurrent.&lt;/p&gt;
@@ -312,7 +312,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/04/16779/</link>
+      <link>http://localhost:1313/blog/16779/</link>
       <pubDate>Wed, 13 Apr 2022 19:06:09 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16779</guid> 
       <description>&lt;p&gt;HBR asking Seinfeld if McKinsey could have helped them write comedy. Terminal case of brain worms.&lt;/p&gt;
@@ -320,7 +320,7 @@
     </item>
     <item>
       <title>As If</title>
-      <link>http://localhost:1313/dingen/2021/12/as-if/</link>
+      <link>http://localhost:1313/blog/as-if/</link>
       <pubDate>Tue, 21 Dec 2021 20:22:34 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16648</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve discovered a hilarious new Turkish comedy show called &amp;ldquo;Gibi&amp;rdquo; (translated to As If). The episodes revolve around a group of friends who get embroiled in absurdist situations and have very nasty but eloquent arguments with each other.&lt;/p&gt;
@@ -328,7 +328,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/08/16551/</link>
+      <link>http://localhost:1313/blog/16551/</link>
       <pubDate>Sun, 08 Aug 2021 08:16:58 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16551</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m glad reality is catching up with the design fiction proposals we came up back in the day, like here the combination of video conferencing and Snapchat face filters.&lt;/p&gt;
@@ -336,7 +336,7 @@
     </item>
     <item>
       <title>Bir BaÅŸkadÄ±r (Ethos) Character Network Chart</title>
-      <link>http://localhost:1313/dingen/2021/06/bir-baskadir-ethos-character-network-chart/</link>
+      <link>http://localhost:1313/blog/bir-baskadir-ethos-character-network-chart/</link>
       <pubDate>Sun, 13 Jun 2021 09:33:20 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16531</guid> 
       <description>&lt;figure&gt;
@@ -348,7 +348,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/03/16463/</link>
+      <link>http://localhost:1313/blog/16463/</link>
       <pubDate>Wed, 17 Mar 2021 10:51:28 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16463</guid> 
       <description>&lt;p&gt;A strong hint about the real future of virtual reality and a callback to the MUD era which I had a lot of trouble understanding. Seeing it on Tiktok makes it a lot more tangible in a bunch of ways.&lt;/p&gt;
@@ -356,7 +356,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/08/16234/</link>
+      <link>http://localhost:1313/blog/16234/</link>
       <pubDate>Sun, 16 Aug 2020 13:38:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16234</guid> 
       <description>&lt;p&gt;I thought I knew how big a deal TikTok was a year ago already but I feel sorry for not diving in back then because it is much bigger a deal than I had thought.&lt;/p&gt;
@@ -364,7 +364,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/04/16049/</link>
+      <link>http://localhost:1313/blog/16049/</link>
       <pubDate>Sat, 11 Apr 2020 08:20:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16049</guid> 
       <description>&lt;p&gt;The Netherlands is going to get Anand-pilled this Sunday.&lt;/p&gt;
@@ -374,7 +374,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/02/15970/</link>
+      <link>http://localhost:1313/blog/15970/</link>
       <pubDate>Sun, 02 Feb 2020 19:54:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15970</guid> 
       <description>&lt;blockquote&gt;
@@ -384,7 +384,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15722/</link>
+      <link>http://localhost:1313/blog/15722/</link>
       <pubDate>Sun, 22 Sep 2019 20:57:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15722</guid> 
       <description>&lt;p&gt;The men issue of Contrapoints is mostly correct as always.&lt;/p&gt;
@@ -395,7 +395,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/06/15549/</link>
+      <link>http://localhost:1313/blog/15549/</link>
       <pubDate>Sat, 22 Jun 2019 22:35:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15549</guid> 
       <description>&lt;p&gt;Ende Gelände is the radical environmentalist movement against climate change and here they are blocking a strip mine.&lt;/p&gt;
@@ -404,7 +404,7 @@
     </item>
     <item>
       <title>YouTube hatchet job on the CDU</title>
-      <link>http://localhost:1313/dingen/2019/05/youtube-hatchet-job-on-the-cdu/</link>
+      <link>http://localhost:1313/blog/youtube-hatchet-job-on-the-cdu/</link>
       <pubDate>Sat, 25 May 2019 12:13:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15426</guid> 
       <description>&lt;p&gt;A collective of the largest German YouTubers have just before the European elections launched a campaign against the CDU and it&amp;rsquo;s a joy to see.&lt;/p&gt;
@@ -413,7 +413,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/05/15392/</link>
+      <link>http://localhost:1313/blog/15392/</link>
       <pubDate>Sat, 04 May 2019 23:07:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15392</guid> 
       <description>&lt;p&gt;Even given that this is an amazing job description, you don&amp;rsquo;t often see companies describing themselves as a ‘socio-technical system’. This is a great way to show off both your care and your depth of thinking.&lt;/p&gt;
@@ -421,7 +421,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15352/</link>
+      <link>http://localhost:1313/blog/15352/</link>
       <pubDate>Sun, 28 Apr 2019 12:28:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15352</guid> 
       <description>&lt;blockquote&gt;
@@ -432,7 +432,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15334/</link>
+      <link>http://localhost:1313/blog/15334/</link>
       <pubDate>Fri, 19 Apr 2019 20:49:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15334</guid> 
       <description>&lt;p&gt;Zoom is an excellent video-conferencing app which turns out to be built on some technical excellence of its own (running WASM encoders and decoders in the browser).&lt;/p&gt;
@@ -440,7 +440,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15319/</link>
+      <link>http://localhost:1313/blog/15319/</link>
       <pubDate>Mon, 15 Apr 2019 21:48:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15319</guid> 
       <description>&lt;blockquote&gt;
@@ -451,7 +451,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15302/</link>
+      <link>http://localhost:1313/blog/15302/</link>
       <pubDate>Mon, 01 Apr 2019 18:58:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15302</guid> 
       <description>&lt;p&gt;The best thing about ContraPoints is that she gives the most charitable possible treatment to in this case Gender Critical people (the other time it was Incels) and then still rips them for all that they are.&lt;/p&gt;
@@ -462,14 +462,14 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/03/15210/</link>
+      <link>http://localhost:1313/blog/15210/</link>
       <pubDate>Mon, 04 Mar 2019 21:10:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15210</guid> 
       <description>&lt;p&gt;Looked up Game of Thrones &lt;a href=&#34;https://towerofthehand.com/reference/compendiums/bastard_surnames.html&#34;&gt;bastard names&lt;/a&gt; and I have to conclude that the surname for a bastard in Germany would have to be &lt;em&gt;Wurst&lt;/em&gt;, like Hans Wurst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dutch Public Broadcasting Goes Fake News</title>
-      <link>http://localhost:1313/dingen/2017/02/dutch-public-broadcasting-goes-fake-news/</link>
+      <link>http://localhost:1313/blog/dutch-public-broadcasting-goes-fake-news/</link>
       <pubDate>Sat, 18 Feb 2017 22:34:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5724</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Geert_Wilders&#34;&gt;Geert Wilders&lt;/a&gt;, leader of the PVV —the far right Dutch Freedom Party— had his campaign start today for the upcoming parliamentary elections in Spijkenisse, one of his traditional strongholds.&lt;/p&gt;
@@ -479,7 +479,7 @@
     </item>
     <item>
       <title>Books and movies of 2016</title>
-      <link>http://localhost:1313/dingen/2017/01/books-and-movies-of-2016/</link>
+      <link>http://localhost:1313/blog/books-and-movies-of-2016/</link>
       <pubDate>Sun, 01 Jan 2017 13:16:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5691</guid> 
       <description>&lt;p&gt;Like every year the books I read and the movies I watched. Recommended ones are in bold.&lt;/p&gt;
@@ -506,7 +506,7 @@
     </item>
     <item>
       <title>Welt am Draht</title>
-      <link>http://localhost:1313/dingen/2016/06/welt-am-draht/</link>
+      <link>http://localhost:1313/blog/welt-am-draht/</link>
       <pubDate>Mon, 27 Jun 2016 08:41:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5587</guid> 
       <description>&lt;p&gt;I strolled through the massive exhibition ‘Welt am Draht’ at Leipziger Strasse this weekend. This is a selection of video art from the massive &lt;a href=&#34;http://www.julia-stoschek-collection.net/&#34;&gt;Julia Stoschek Collection&lt;/a&gt; exhibited in the former Czech Cultural center.&lt;/p&gt;
@@ -514,7 +514,7 @@
     </item>
     <item>
       <title>The year in culture</title>
-      <link>http://localhost:1313/dingen/2015/12/the-year-in-culture/</link>
+      <link>http://localhost:1313/blog/the-year-in-culture/</link>
       <pubDate>Thu, 31 Dec 2015 15:22:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5450</guid> 
       <description>&lt;p&gt;I have a personal log of culture consumed going back to 2003. This year was a particular low on many counts. I have been busy and I don&amp;rsquo;t ascribe the same value to consuming culture pure for the goal of consuming it anymore. Been there, done that.&lt;/p&gt;
@@ -522,15 +522,15 @@
     </item>
     <item>
       <title>Deutschland &#39;83</title>
-      <link>http://localhost:1313/dingen/2015/12/deutschland-83/</link>
+      <link>http://localhost:1313/blog/deutschland-83/</link>
       <pubDate>Thu, 10 Dec 2015 11:25:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5387</guid> 
       <description>&lt;p&gt;I was tremendously hyped for &lt;a href=&#34;https://en.wikipedia.org/wiki/Deutschland_83&#34;&gt;Deutschland &amp;lsquo;83&lt;/a&gt; after hearing about it and watching the first episode. Now that it is finally airing in Germany it turns out that &lt;a href=&#34;http://www.tagesspiegel.de/medien/deutschland-83-diese-serie-passt-nicht-ins-deutsche-fernsehen/12701524.html&#34;&gt;it is not doing that well&lt;/a&gt;. Viewership started out low and has been declining over the first four episodes.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2015/12/deutschland-83/img_0181/&#34;&gt;&lt;img alt=&#34;IMG_0181&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2015/12/deutschland-83/IMG_0181.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/UFAFiction/posts/1095109577195935&#34;&gt;People are attributing this&lt;/a&gt; to the fact that the average &lt;a href=&#34;http://rtl.de/&#34;&gt;RTL&lt;/a&gt; viewer is stupid and only used to watch plain episodic series. That may well be true, but the decline of the series&amp;rsquo;s ratings closely mirror the decline of my appetite for the show itself. By episode four Deutschland &amp;lsquo;83 is a slog and the only thing that got me to the finish line was an empty Sunday and stamina.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2015/12/deutschland-83/img_0181/&#34;&gt;&lt;img alt=&#34;IMG_0181&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/deutschland-83/IMG_0181.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/UFAFiction/posts/1095109577195935&#34;&gt;People are attributing this&lt;/a&gt; to the fact that the average &lt;a href=&#34;http://rtl.de/&#34;&gt;RTL&lt;/a&gt; viewer is stupid and only used to watch plain episodic series. That may well be true, but the decline of the series&amp;rsquo;s ratings closely mirror the decline of my appetite for the show itself. By episode four Deutschland &amp;lsquo;83 is a slog and the only thing that got me to the finish line was an empty Sunday and stamina.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mann/Frau</title>
-      <link>http://localhost:1313/dingen/2015/11/mann-frau/</link>
+      <link>http://localhost:1313/blog/mann-frau/</link>
       <pubDate>Thu, 12 Nov 2015 08:29:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5368</guid> 
       <description>&lt;p&gt;The idea that German television is necessarily terrible has to be reconsidered. I&amp;rsquo;ve recently started watching &lt;a href=&#34;https://en.wikipedia.org/wiki/Deutschland_83&#34;&gt;Deutschland &amp;lsquo;83&lt;/a&gt; which is amazing (more on that later) and yesterday I finished season two of the web series Mann/Frau by &lt;a href=&#34;http://www.br.de/puls/index.html&#34;&gt;BR PULS&lt;/a&gt;.&lt;/p&gt;
@@ -538,16 +538,16 @@
     </item>
     <item>
       <title>Straight outta ComptonÂ </title>
-      <link>http://localhost:1313/dingen/2015/09/straight-outta-compton/</link>
+      <link>http://localhost:1313/blog/straight-outta-compton/</link>
       <pubDate>Sat, 19 Sep 2015 12:11:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5297</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2015/09/straight-outta-compton/lwoae/&#34;&gt;&lt;img alt=&#34;LwoaE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2015/09/straight-outta-compton/LwoaE.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2015/09/straight-outta-compton/lwoae/&#34;&gt;&lt;img alt=&#34;LwoaE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/straight-outta-compton/LwoaE.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I would have preferred &lt;a href=&#34;http://letterboxd.com/film/straight-outta-compton/&#34;&gt;Straight Outta Compton&lt;/a&gt; to be a documentary cut together from real footage and narrated by the guys themselves. There is a lot of that available which you can see bits of during the credits of this movie. The biopic is well done but the dramatization does not add much and in many parts the movie devolves into melodrama.&lt;/p&gt;
 &lt;p&gt;What is amazing is how music executives are universally portrayed as the terrible human beings which they are. This is a recurring theme up until the late movie slithering appearance of Jimmy Iovine. If you read up on the stuff that went down with Ruthless you could even argue that the movie downplays it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nakagin Capsule Tower</title>
-      <link>http://localhost:1313/dingen/2015/09/nakagin-capsule-tower/</link>
+      <link>http://localhost:1313/blog/nakagin-capsule-tower/</link>
       <pubDate>Wed, 16 Sep 2015 10:17:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5266</guid> 
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -558,17 +558,17 @@
     </item>
     <item>
       <title>Once Upon a Time in Anatolia</title>
-      <link>http://localhost:1313/dingen/2015/01/once-upon-a-time-in-anatolia/</link>
+      <link>http://localhost:1313/blog/once-upon-a-time-in-anatolia/</link>
       <pubDate>Mon, 19 Jan 2015 09:06:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5112</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;anatoliablu00002.jpg&#34;&gt;&lt;img alt=&#34;anatoliablu00002&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2015/01/once-upon-a-time-in-anatolia/anatoliablu00002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;anatoliablu00002.jpg&#34;&gt;&lt;img alt=&#34;anatoliablu00002&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/once-upon-a-time-in-anatolia/anatoliablu00002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I rewatched &lt;a href=&#34;http://letterboxd.com/film/once-upon-a-time-in-anatolia/&#34;&gt;Once Upon a Time in Anatolia&lt;/a&gt; last week with my parents and it was even better than the first time. I usually think that movies shouldn&amp;rsquo;t be longer than two hours but here even a second viewing did not bore.&lt;/p&gt;
 &lt;p&gt;What I learned is that it at one point the convoy moves out of the &lt;a href=&#34;http://en.wikipedia.org/wiki/K%C4%B1r%C4%B1kkale&#34;&gt;Kırıkkale&lt;/a&gt; area into the administrative part of Turkey that we are from ( &lt;a href=&#34;https://goo.gl/maps/k3RXz&#34;&gt;map&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The idle chit-chat of the people in the cars is still funny but now it was easier to keep track of the interleaving stories. Pared down they rend flesh. Arap&amp;rsquo;s story about why you need a gun or the piecewise telling of a woman&amp;rsquo;s suicide are incredible. The point where Clark Gable swallows his words being one extreme example.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Give Da Vinci&#39;s Demons a shot</title>
-      <link>http://localhost:1313/dingen/2014/09/give-da-vincis-demons-a-shot/</link>
+      <link>http://localhost:1313/blog/give-da-vincis-demons-a-shot/</link>
       <pubDate>Wed, 14 Jan 2015 15:00:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5060</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m really into the series &lt;a href=&#34;http://en.wikipedia.org/wiki/Da_Vinci&#39;s_Demons&#34;&gt;Da Vinci&amp;rsquo;s Demons&lt;/a&gt; right now (thanks to &lt;a href=&#34;http://slavin.tumblr.com/post/95973919823/dolly-snow-da-vincis-demons-season-1&#34;&gt;Kevin Slavin&lt;/a&gt;) which is a light hearted affair for the off season when there&amp;rsquo;s no Game of Thrones, True Detective or Sherlock.&lt;/p&gt;
@@ -580,33 +580,33 @@
     </item>
     <item>
       <title>Only God Forgives</title>
-      <link>http://localhost:1313/dingen/2013/07/only-god-forgives/</link>
+      <link>http://localhost:1313/blog/only-god-forgives/</link>
       <pubDate>Mon, 29 Jul 2013 11:07:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4704</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;only-god-forgives.jpg&#34;&gt;&lt;img alt=&#34;only-god-forgives&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2013/07/only-god-forgives/only-god-forgives.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;only-god-forgives.jpg&#34;&gt;&lt;img alt=&#34;only-god-forgives&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/only-god-forgives/only-god-forgives.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;After a rather hectic week and day last Friday I went to see &lt;a href=&#34;http://www.imdb.com/title/tt1602613/&#34;&gt;Only God Forgives&lt;/a&gt; in &lt;a href=&#34;https://foursquare.com/v/central/4b0722d6f964a520f8f722e3&#34;&gt;Central&lt;/a&gt; cinema ((Which honestly is a bit of a dump, but it was the best option given the circumstances.)). The movie is rather excellent if you like extreme violence or Ryan Gosling or both.&lt;/p&gt;
 &lt;p&gt;The stylized violence and disjunct story telling reminded me remotely of &lt;a href=&#34;http://www.g-v.fr/creations/ve-thisishowyouwilldisappear-frameset.htm&#34;&gt;This Is How You Will Disappear&lt;/a&gt;. Probably not because any real visual similarity but because I am anxious for somebody in theater to produce something that good and ballsy again. And as &lt;a href=&#34;http://www.guardian.co.uk/film/2013/may/22/cannes-only-good-forgives-ryan-gosling-review&#34;&gt;this Guardian critic says&lt;/a&gt;, the Asian setting and lighting are reminiscent of Noé&amp;rsquo;s &lt;a href=&#34;http://www.imdb.com/title/tt1191111/&#34;&gt;Enter the Void&lt;/a&gt; which I would recommend if you can stomach it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Not their mothers and fathers</title>
-      <link>http://localhost:1313/dingen/2013/03/not-their-mothers-and-fathers/</link>
+      <link>http://localhost:1313/blog/not-their-mothers-and-fathers/</link>
       <pubDate>Fri, 22 Mar 2013 10:33:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4429</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-03-20 at 22.49.53&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2013/03/not-their-mothers-and-fathers/Screen-Shot-2013-03-20-at-22.49.53-.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-03-20 at 22.49.53&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/not-their-mothers-and-fathers/Screen-Shot-2013-03-20-at-22.49.53-.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A new large scale German drama series has been making the rounds on Twitter this week called &lt;a href=&#34;http://de.wikipedia.org/wiki/Unsere_M%C3%BCtter,_unsere_V%C3%A4ter&#34;&gt;‘Unsere Mütter, Unsere Väter’&lt;/a&gt; and it is interesting though flawed. I haven&amp;rsquo;t seen a production with these production values on German television before and I think we should see more of it ((Something properly historical could be interesting. Martin suggested a series on the life of Charlemagne.)).&lt;/p&gt;
 &lt;p&gt;The series is somewhat schmaltzy (see the screen capture above of bullet casings landing in slow motion on a group portrait) but that is to be expected from a mainstream production.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Grindinâ€™ at the office</title>
-      <link>http://localhost:1313/dingen/2013/02/grindin-at-the-office/</link>
+      <link>http://localhost:1313/blog/grindin-at-the-office/</link>
       <pubDate>Tue, 05 Feb 2013 09:28:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4277</guid> 
       <description>&lt;p&gt;Here in the Berlin office we grind by hand:
-&lt;a href=&#34;http://localhost:1313/dingen/2013/02/grindin-at-the-office/grindin-alper/&#34;&gt;&lt;img alt=&#34;Grindin Alper&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2013/02/grindin-at-the-office/Grindin-Alper.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;http://localhost:1313/dingen/2013/02/grindin-at-the-office/grindin-alper/&#34;&gt;&lt;img alt=&#34;Grindin Alper&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/grindin-at-the-office/Grindin-Alper.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Games on Ignite Berlin #3</title>
-      <link>http://localhost:1313/dingen/2012/10/games-on-ignite-berlin-3/</link>
+      <link>http://localhost:1313/blog/games-on-ignite-berlin-3/</link>
       <pubDate>Thu, 25 Oct 2012 11:41:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3965</guid> 
       <description>&lt;p&gt;Last week I &lt;a href=&#34;http://igniteberlin.com/2012/10/alper-cugun-new-games-for-new-cities/&#34;&gt;presented at the Berlin Ignite&lt;/a&gt;. I had been present at the last one and greatly enjoyed, so I looked what I could add to the mix.&lt;/p&gt;
@@ -614,7 +614,7 @@
     </item>
     <item>
       <title>Conquest of the Useless</title>
-      <link>http://localhost:1313/dingen/2012/10/conquest-of-the-useless/</link>
+      <link>http://localhost:1313/blog/conquest-of-the-useless/</link>
       <pubDate>Sat, 20 Oct 2012 11:04:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3951</guid> 
       <description>&lt;p&gt;Yesterday we went to see Werner Herzog read from his own work in &lt;a href=&#34;http://www.volksbuehne-berlin.de/praxis/eroberung_des_nutzlosen/&#34;&gt;‘Erroberung des Nutzlosen’&lt;/a&gt; at the Volksbühne. While an impressive display of authorship my enjoyment of the performance was hampered by me having no knowledge of his movies and a recent aversion towards the theater.&lt;/p&gt;
@@ -622,7 +622,7 @@
     </item>
     <item>
       <title>PIVOT over Berlin</title>
-      <link>http://localhost:1313/dingen/2012/09/pivot-over-berlin/</link>
+      <link>http://localhost:1313/blog/pivot-over-berlin/</link>
       <pubDate>Thu, 27 Sep 2012 20:17:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3890</guid> 
       <description>&lt;p&gt;I biked over tonight to see the installation &lt;a href=&#34;http://fonik.dk/works/pivot.html&#34;&gt;PIVOT by Jacob Kirkegaard&lt;/a&gt; at the leap in Berlin ((In the Berlin Carré, which is quite a bit different from the Amsterdam Carré. That I can assure you.)) before it finishes tomorrow.&lt;/p&gt;
@@ -630,7 +630,7 @@
     </item>
     <item>
       <title>Blind Sequence Trust</title>
-      <link>http://localhost:1313/dingen/2012/04/blind-sequence-trust/</link>
+      <link>http://localhost:1313/blog/blind-sequence-trust/</link>
       <pubDate>Thu, 12 Apr 2012 17:03:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3503</guid> 
       <description>&lt;p&gt;De serie video&amp;rsquo;s &lt;a href=&#34;http://www.dam-berlin.de/mlExhibitions-pa-showpage-pid-1-newlang-english.html&#34;&gt;Blind Sequence Trust&lt;/a&gt; van kunstenaar &lt;a href=&#34;http://www.kubasik.biz/&#34;&gt;Joan Leandre&lt;/a&gt; speelt in DAM nog tot en met 5 mei.&lt;/p&gt;
@@ -639,7 +639,7 @@
     </item>
     <item>
       <title>Cultural Consumption 2011</title>
-      <link>http://localhost:1313/dingen/2012/01/cultural-consumption-2011/</link>
+      <link>http://localhost:1313/blog/cultural-consumption-2011/</link>
       <pubDate>Thu, 05 Jan 2012 16:49:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3205</guid> 
       <description>&lt;p&gt;I dived into my log to make the yearly tally of what I did and saw. All in all 2011 has proven to be a good year.&lt;/p&gt;
@@ -657,7 +657,7 @@
     </item>
     <item>
       <title>Democracy on a fortress</title>
-      <link>http://localhost:1313/dingen/2011/09/democracy-on-a-fortress/</link>
+      <link>http://localhost:1313/blog/democracy-on-a-fortress/</link>
       <pubDate>Wed, 07 Sep 2011 13:49:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2847</guid> 
       <description>&lt;p&gt;The weekend before last we were on a fortress (part of &lt;a href=&#34;http://en.wikipedia.org/wiki/Stelling_van_Amsterdam&#34;&gt;the defense works of Amsterdam&lt;/a&gt;) to spend a day on hacking civic data for &lt;a href=&#34;http://appsfornoordholland.nl/&#34;&gt;Apps for Noord-Holland&lt;/a&gt;.&lt;/p&gt;
@@ -668,7 +668,7 @@
     </item>
     <item>
       <title>Film: Once Upon a Time in Anatolia</title>
-      <link>http://localhost:1313/dingen/2011/08/film-once-upon-a-time-in-anatolia/</link>
+      <link>http://localhost:1313/blog/film-once-upon-a-time-in-anatolia/</link>
       <pubDate>Tue, 23 Aug 2011 15:55:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2744</guid> 
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -680,7 +680,7 @@
     </item>
     <item>
       <title>Throwing my chips in with the reality based crowd</title>
-      <link>http://localhost:1313/dingen/2011/06/throwing-my-chips-in-with-the-reality-based-crowd/</link>
+      <link>http://localhost:1313/blog/throwing-my-chips-in-with-the-reality-based-crowd/</link>
       <pubDate>Fri, 10 Jun 2011 09:41:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2653</guid> 
       <description>&lt;p&gt;Seeing this presentation in Amsterdam as the culmination of &lt;a href=&#34;http://www.mobilemonday.nl/&#34;&gt;Mobile Monday&lt;/a&gt;, was something great. The far reaching vision and reality based optimism Kevin Slavin lays down ( &lt;a href=&#34;http://slavin.tumblr.com/post/6034597315/does-augmented-reality-deserve-to-be-killed&#34;&gt;his comments&lt;/a&gt;) are something we should aspire to. It is worth watching and watching again.&lt;/p&gt;
@@ -692,21 +692,21 @@
     </item>
     <item>
       <title>Coffee Magic</title>
-      <link>http://localhost:1313/dingen/2011/05/coffee-magic/</link>
+      <link>http://localhost:1313/blog/coffee-magic/</link>
       <pubDate>Thu, 19 May 2011 20:03:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2629</guid> 
       <description>&lt;p&gt;I witnessed a discussion yesterday that stated that for creative industries to catch root in a certain area there is the need for trendy coffee shops. While that is a necessary condition indeed, it is not sufficient. The coffee produced in said shops also needs to be of excellent quality or at least miles better than whatever most stores in the Netherlands are pouring. The lovely folks over at BERG also have &lt;a href=&#34;http://berglondon.com/blog/2011/03/17/coffee-yes-please/&#34;&gt;a post about it&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ontsnappen van het dode speleiland</title>
-      <link>http://localhost:1313/dingen/2011/02/ontsnappen-van-het-dode-speleiland/</link>
+      <link>http://localhost:1313/blog/ontsnappen-van-het-dode-speleiland/</link>
       <pubDate>Tue, 22 Feb 2011 00:02:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2427</guid> 
       <description>&lt;p&gt;Mijn &lt;a href=&#34;http://bashers.nl/goede-game-of-niet-de-trailer-van-dead-island-is-belangrijk&#34;&gt;stukje over de trailer&lt;/a&gt; van &lt;a href=&#34;http://en.wikipedia.org/wiki/Dead_Island&#34;&gt;Dead Island&lt;/a&gt; die we vorige week zagen staat online bij &lt;a href=&#34;http://www.bashers.nl&#34;&gt;Bashers&lt;/a&gt; (mijn debuut). Zie verder ook &lt;a href=&#34;http://bashers.nl/goede-game-of-niet-de-trailer-van-dead-island-is-belangrijk#comments&#34;&gt;de comments&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Something fishy about this profile</title>
-      <link>http://localhost:1313/dingen/2010/12/something-fishy-about-this-profile/</link>
+      <link>http://localhost:1313/blog/something-fishy-about-this-profile/</link>
       <pubDate>Mon, 13 Dec 2010 23:55:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2318</guid> 
       <description>&lt;p&gt;I saw the movie &lt;a href=&#34;http://www.cineville.nl/films/catfish&#34;&gt;Catfish&lt;/a&gt; which seems to have garnered a significant amount of attention and is in many ways the &lt;strong&gt;*real*&lt;/strong&gt; Facebook movie because it actually takes place on facebook and addresses real issues we have all dealt with instead of the dealings of ultra-rich privileged kids at elite-universities.&lt;/p&gt;
@@ -714,14 +714,14 @@
     </item>
     <item>
       <title>Wip &#39;n&#39; Kip Overwinning</title>
-      <link>http://localhost:1313/dingen/2010/11/wip-n-kip-overwinning/</link>
+      <link>http://localhost:1313/blog/wip-n-kip-overwinning/</link>
       <pubDate>Tue, 09 Nov 2010 15:45:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2274</guid> 
       <description>&lt;p&gt;Het blijft toch een mooi gezicht om terug te kijken de &lt;a href=&#34;http://playpilots.nl/games/wip-n-kip/&#34;&gt;Wip &amp;rsquo;n&amp;rsquo; Kip&lt;/a&gt; op &lt;a href=&#34;http://www.zoekjestekker.nl/&#34;&gt;Stekkerfest&lt;/a&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Een grijs-bruin vaderland</title>
-      <link>http://localhost:1313/dingen/2010/10/een-grijs-bruin-vaderland/</link>
+      <link>http://localhost:1313/blog/een-grijs-bruin-vaderland/</link>
       <pubDate>Fri, 29 Oct 2010 10:06:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2257</guid> 
       <description>&lt;p&gt;Ik schreef een tijdje geleden al bij &lt;a href=&#34;http://www.flickr.com/photos/alper/4476314878/&#34;&gt;mijn foto&lt;/a&gt; over de &lt;a href=&#34;http://www.linksehobby.nu/&#34;&gt;Linkse Hobby&lt;/a&gt;:&lt;/p&gt;
@@ -734,7 +734,7 @@
     </item>
     <item>
       <title>Spiegel van Holland</title>
-      <link>http://localhost:1313/dingen/2010/09/spiegel-van-holland/</link>
+      <link>http://localhost:1313/blog/spiegel-van-holland/</link>
       <pubDate>Wed, 29 Sep 2010 13:40:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2150</guid> 
       <description>&lt;p&gt;Gisteren een potje Stereoscoop gespeeld op de Neude in Utrecht en daar een gigantische buit binnengehaald. Deze badges staan nu &lt;a href=&#34;http://playpilots.nl/players/25/&#34;&gt;op mijn profiel te prijken&lt;/a&gt;:
@@ -744,7 +744,7 @@
     </item>
     <item>
       <title>GVB clusterfuck</title>
-      <link>http://localhost:1313/dingen/2010/07/gvb-clusterfuck/</link>
+      <link>http://localhost:1313/blog/gvb-clusterfuck/</link>
       <pubDate>Sun, 25 Jul 2010 11:20:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1993</guid> 
       <description>&lt;p&gt;Terwijl we aan de andere kant een strijd voeren voor vrij beschikbare openbaar vervoersinformatie is het openbaar vervoer zelf in een ‘wereldstad’ als Amsterdam nog een zooitje.&lt;/p&gt;
@@ -752,7 +752,7 @@
     </item>
     <item>
       <title>Turks-Syrische herontdekking</title>
-      <link>http://localhost:1313/dingen/2010/07/turks-syrische-herontdekking/</link>
+      <link>http://localhost:1313/blog/turks-syrische-herontdekking/</link>
       <pubDate>Tue, 20 Jul 2010 09:22:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1982</guid> 
       <description>&lt;p&gt;De grens tussen Turkije en Syrië is tegenwoordig compleet open en Turkije ‘groeit uit zijn voegen’ ((Wat nou Eurozone…)):&lt;/p&gt;
@@ -761,7 +761,7 @@
     </item>
     <item>
       <title>Online Tuesday - Data is the new Quicksilver</title>
-      <link>http://localhost:1313/dingen/2010/06/online-tuesday/</link>
+      <link>http://localhost:1313/blog/online-tuesday/</link>
       <pubDate>Mon, 21 Jun 2010 23:58:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1849</guid> 
       <description>&lt;p&gt;Afgelopen dinsdag gaf ik een presentatie op &lt;a href=&#34;http://www.onlinetuesday.nl/&#34;&gt;Online Tuesday&lt;/a&gt; over de toekomst van het internet. Ik had me niet geheel beseft dat de brief van de presentaties subtiel verlegd was naar doe een pitch over de toekomst van je bedrijf, maar des te beter eigenlijk.&lt;/p&gt;
@@ -769,7 +769,7 @@
     </item>
     <item>
       <title>An augment for my reality</title>
-      <link>http://localhost:1313/dingen/2010/06/an-augment-for-my-reality/</link>
+      <link>http://localhost:1313/blog/an-augment-for-my-reality/</link>
       <pubDate>Sun, 20 Jun 2010 17:18:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1885</guid> 
       <description>&lt;p&gt;I recently got glasses to make my vision even better than it already is. Nothing wrong with my eyes, but once you&amp;rsquo;ve seen the difference in sharpness, you do not want to go back. For me it&amp;rsquo;s an augment:
@@ -778,7 +778,7 @@
     </item>
     <item>
       <title>De val uitgelegd</title>
-      <link>http://localhost:1313/dingen/2010/05/de-val-uitgelegd/</link>
+      <link>http://localhost:1313/blog/de-val-uitgelegd/</link>
       <pubDate>Tue, 25 May 2010 15:41:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1802</guid> 
       <description>&lt;p&gt;Hier een hele leuke video over &lt;a href=&#34;http://www.devalvanhetkabinet.nl/&#34;&gt;de val van het kabinet&lt;/a&gt; ( &lt;a href=&#34;http://www.dutchcowboys.nl/video/19688&#34;&gt;via&lt;/a&gt;):&lt;/p&gt;
@@ -788,7 +788,7 @@
     </item>
     <item>
       <title>Vrijheid herdenken</title>
-      <link>http://localhost:1313/dingen/2010/05/vrijheid-herdenken/</link>
+      <link>http://localhost:1313/blog/vrijheid-herdenken/</link>
       <pubDate>Thu, 06 May 2010 15:37:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1764</guid> 
       <description>&lt;p&gt;Een nieuw gedicht van onze Dichter des Vaderlands “Een mooie dag om stilte te verscheuren”:&lt;/p&gt;
@@ -796,7 +796,7 @@
     </item>
     <item>
       <title>Table Viewer for Music Hackday</title>
-      <link>http://localhost:1313/dingen/2010/04/table-viewer-for-music-hackday/</link>
+      <link>http://localhost:1313/blog/table-viewer-for-music-hackday/</link>
       <pubDate>Tue, 27 Apr 2010 09:39:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1744</guid> 
       <description>&lt;p&gt;This entire weekend was taken up by &lt;a href=&#34;http://amsterdam.musichackday.org/&#34;&gt;Amsterdam Music Hackday&lt;/a&gt; for which &lt;a href=&#34;http://twitter.com/dmos&#34;&gt;Alex&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/dvbosch&#34;&gt;Dirk&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/alper&#34;&gt;I&lt;/a&gt; had planned to build a prototype version of a surface table projector for music discovery.&lt;/p&gt;
@@ -804,7 +804,7 @@
     </item>
     <item>
       <title>Passacaglia</title>
-      <link>http://localhost:1313/dingen/2010/04/passacaglia/</link>
+      <link>http://localhost:1313/blog/passacaglia/</link>
       <pubDate>Fri, 02 Apr 2010 08:32:25 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1698</guid> 
       <description>&lt;p&gt;Dit gedicht van Ramsey Nasr had ik gemist. Hier &lt;a href=&#34;http://nrc.tv/video/nrcnu_/article1366385.ece/Het_hemelse_leven&#34;&gt;het Hemelse Leven&lt;/a&gt;.&lt;/p&gt;
@@ -812,16 +812,16 @@
     </item>
     <item>
       <title>A Film in one Week</title>
-      <link>http://localhost:1313/dingen/2010/01/a-film-in-one-week/</link>
+      <link>http://localhost:1313/blog/a-film-in-one-week/</link>
       <pubDate>Mon, 18 Jan 2010 12:59:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1510</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2010/01/a-film-in-one-week/tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2010/01/a-film-in-one-week/tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/a-film-in-one-week/tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/a-film-in-one-week/tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Friends of motion studio &lt;a href=&#34;http://www.eelkedekker.nl/&#34;&gt;Eelke Dekker&lt;/a&gt; and design agency &lt;a href=&#34;http://www.booreiland.nl&#34;&gt;Booreiland&lt;/a&gt; have gone into seclusion for a week in the East of the Netherlands to concept, shoot and produce a movie within that week, &lt;strong&gt;&lt;a href=&#34;http://dotmov.tumblr.com/&#34;&gt;project .mov&lt;/a&gt;&lt;/strong&gt;. No ulterior motives, just making a movie for the love of making a movie (and having made that movie).&lt;/p&gt;
 &lt;p&gt;Some years ago without a budget and far less experience they&amp;rsquo;d already produced &lt;a href=&#34;http://www.vimeo.com/597113&#34;&gt;the classic Frag&lt;/a&gt;. It took some time however to find the right moment and opportunity to make another one. Now that moment is there with more time, better gear, actually &lt;strong&gt;better everything&lt;/strong&gt; and a recipe for awesome.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foursquare nu in beeld</title>
-      <link>http://localhost:1313/dingen/2010/01/foursquare-nu-in-beeld/</link>
+      <link>http://localhost:1313/blog/foursquare-nu-in-beeld/</link>
       <pubDate>Thu, 14 Jan 2010 01:31:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1498</guid> 
       <description>&lt;p&gt;Na &lt;a href=&#34;http://localhost:1313/dingen/2010/01/foursquare-spelen-op-de-radio/&#34;&gt;het radio-item van vorige week&lt;/a&gt; staat nu het filmpje dat &lt;a href=&#34;http://twitter.com/lodytrepels&#34;&gt;Lody&lt;/a&gt; en &lt;a href=&#34;http://twitter.com/annejan&#34;&gt;Annejan&lt;/a&gt; vanochtend van me schoten bij &lt;a href=&#34;http://www.dwazezaken.nl&#34;&gt;Dwaze Zaken&lt;/a&gt; nu &lt;a href=&#34;http://headlines.nos.nl/forum.php/list_messages/18592&#34;&gt;online op NOS Headlines&lt;/a&gt;.&lt;/p&gt;
@@ -829,7 +829,7 @@
     </item>
     <item>
       <title>D66 Televisie</title>
-      <link>http://localhost:1313/dingen/2010/01/d66-televisie/</link>
+      <link>http://localhost:1313/blog/d66-televisie/</link>
       <pubDate>Mon, 11 Jan 2010 11:31:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1491</guid> 
       <description>&lt;p&gt;Afgelopen weekend was ik ook bij de nieuwjaarsborrel van &lt;a href=&#34;http://www.d66amsterdam.nl/&#34;&gt;D66 Amsterdam&lt;/a&gt; in het kader van de gemeenteraadsverkiezingen die er aankomen. Ik heb toen samen met wat anderen wat video&amp;rsquo;s gemaakt van de verschillende lijsttrekkers, gemeenteraadsleden en andere belangrijke D66&amp;rsquo;ers (ook van Alexander Pechtold en Boris van der Ham) in de komende periode voor het &lt;a href=&#34;http://www.dik.nl/channel/player/6278&#34;&gt;D66 Amsterdam videokanaal&lt;/a&gt;.&lt;/p&gt;
@@ -837,7 +837,7 @@
     </item>
     <item>
       <title>Onrealistische en onwenselijke maatregelen</title>
-      <link>http://localhost:1313/dingen/2009/12/onrealistische-en-onwenselijke-maatregelen/</link>
+      <link>http://localhost:1313/blog/onrealistische-en-onwenselijke-maatregelen/</link>
       <pubDate>Sat, 26 Dec 2009 01:16:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1434</guid> 
       <description>&lt;p&gt;In een vergelijkbaar filmpje zoals je ze ook voor je film ziet wanneer je legaal DVDs koopt/huurt, komt er weer een stukje propaganda van de entertainment-industrie:&lt;/p&gt;
@@ -845,7 +845,7 @@
     </item>
     <item>
       <title>Where&#39;s our rumpus?</title>
-      <link>http://localhost:1313/dingen/2009/10/wheres-our-rumpus/</link>
+      <link>http://localhost:1313/blog/wheres-our-rumpus/</link>
       <pubDate>Mon, 19 Oct 2009 14:59:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1309</guid> 
       <description>&lt;p&gt;Taplin regularly writes that &lt;a href=&#34;http://jontaplin.com/2009/10/17/creative-destruction-hollywood-division/&#34;&gt;the entertainment business is in crisis&lt;/a&gt; because people outside of the USA are not willing to pay for their intellectual property.&lt;/p&gt;
@@ -853,17 +853,17 @@
     </item>
     <item>
       <title>Innocence</title>
-      <link>http://localhost:1313/dingen/2009/10/innocence/</link>
+      <link>http://localhost:1313/blog/innocence/</link>
       <pubDate>Tue, 13 Oct 2009 11:23:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1300</guid> 
       <description>&lt;p&gt;Interesting on the part of the sub-team adding extra information to clarify references, cultural differences and even tone of voice. There were enough of these notes to be distracting, which makes it a mixed blessing. I think a movie is experienced better without.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2009/10/innocence/KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/innocence/KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;And here another interesting image in a movie littered with them:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence-1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2009/10/innocence/KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence-1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/innocence/KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>een stittie die stilstaat</title>
-      <link>http://localhost:1313/dingen/2009/10/een-stittie-die-stilstaat/</link>
+      <link>http://localhost:1313/blog/een-stittie-die-stilstaat/</link>
       <pubDate>Mon, 05 Oct 2009 10:21:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1286</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ramseynasr.nl/&#34;&gt;Ramsey Nasr&lt;/a&gt; bewijst met zijn nieuwste gedicht ‘mi have een droom’ dat hij overduidelijk de beste Dichter des Vaderlands is die we ons maar hadden kunnen wensen:
@@ -872,7 +872,7 @@
     </item>
     <item>
       <title>Turkse Muziek - MFÃ–</title>
-      <link>http://localhost:1313/dingen/2008/03/turkse-muziek-mfo/</link>
+      <link>http://localhost:1313/blog/turkse-muziek-mfo/</link>
       <pubDate>Tue, 21 Jul 2009 23:32:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/turkse-muziek-mfo/</guid> 
       <description>&lt;p&gt;Wat nu volgt naar aanleiding van een gesprek met Joris over Turkije en Turkse muziek. Hij vroeg waarom ik niet in İstanbul ging wonen, wat op zich een goede vraag is. Dat komt misschien nog wel een keer, maar voor nu een kleine serie over Turkse muziek.&lt;/p&gt;
@@ -880,7 +880,7 @@
     </item>
     <item>
       <title>Tour de France live online, of toch niet?</title>
-      <link>http://localhost:1313/dingen/2009/07/tour-de-france-live-online-of-toch-niet/</link>
+      <link>http://localhost:1313/blog/tour-de-france-live-online-of-toch-niet/</link>
       <pubDate>Sat, 18 Jul 2009 20:33:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1134</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/3709743770/&#34; title=&#34;NOS | Tour de France 2009 | Live by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;NOS | Tour de France 2009 | Live&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2559/3709743770_d1c1e19d16.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -888,7 +888,7 @@
     </item>
     <item>
       <title>Augmented reality in HTML5</title>
-      <link>http://localhost:1313/dingen/2009/07/augmented-reality-in-html5/</link>
+      <link>http://localhost:1313/blog/augmented-reality-in-html5/</link>
       <pubDate>Thu, 16 Jul 2009 13:27:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1116</guid> 
       <description>&lt;p&gt;One of the last bastions of Flash and native apps is the processing of video from outside sources such as webcams. It does not at all seem difficult to add this functionality to &lt;a href=&#34;http://www.whatwg.org/specs/web-apps/current-work/&#34;&gt;HTML5&lt;/a&gt;.&lt;/p&gt;
@@ -896,7 +896,7 @@
     </item>
     <item>
       <title>The City Is Here For You To Get Fined By</title>
-      <link>http://localhost:1313/dingen/2009/06/the-city-is-here-for-you-to-get-fined-by/</link>
+      <link>http://localhost:1313/blog/the-city-is-here-for-you-to-get-fined-by/</link>
       <pubDate>Fri, 12 Jun 2009 17:12:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1033</guid> 
       <description>&lt;p&gt;For any international readers, as the Dutch are probably already very much aware of our totalitarian parking policies.&lt;/p&gt;
@@ -906,16 +906,16 @@
     </item>
     <item>
       <title>Held in Bollywood</title>
-      <link>http://localhost:1313/dingen/2009/03/held-in-bollywood/</link>
+      <link>http://localhost:1313/blog/held-in-bollywood/</link>
       <pubDate>Mon, 09 Mar 2009 17:57:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=825</guid> 
       <description>&lt;p&gt;Net in de sneak de Nederlandse productie &lt;a href=&#34;http://www.bollywoodhero.nl/&#34;&gt;Bollywood Hero&lt;/a&gt; gezien. Dat er een hausse aan Bollywood films zou volgen op het succes van &lt;a href=&#34;http://www.imdb.com/title/tt1010048/&#34;&gt;Slumdog Millionaire&lt;/a&gt; stond vast, maar dit is wel erg rap.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;bollywood-hero&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2009/03/held-in-bollywood/bollywood-hero.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;bollywood-hero&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/held-in-bollywood/bollywood-hero.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Het verhaal gaat over een Nederlandse jongen die een rol krijgt (als Engelsman schijnbaar) in een Bollywood film. Hij is erg beschermd opgevoed. Geconfronteerd met de schrijnende ongelijkheid in Mumbai trekt hij het niet meer. Hij kan zich niet verzoenen met de andersheid van de cultuur en hij verliest zichzelf ((Een beetje vergelijkbaar met de situatie in &lt;a href=&#34;http://www.imdb.com/title/tt1029241/&#34;&gt;Vinyan&lt;/a&gt; een tijdje geleden ook in de sneak.)) waarna hij ten onder gaat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hofnar in tijden van crisis</title>
-      <link>http://localhost:1313/dingen/2009/03/hofnar-in-crisis/</link>
+      <link>http://localhost:1313/blog/hofnar-in-crisis/</link>
       <pubDate>Fri, 06 Mar 2009 13:19:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=821</guid> 
       <description>&lt;p&gt;Twee dingen die Stewart wel vaker zegt over de humor van &lt;a href=&#34;http://www.thedailyshow.com/&#34;&gt;the Daily Show&lt;/a&gt; is dat je dit soort dingen niet kunt verzinnen en dat de gebeurtenissen vaak op het tragische af zijn en de enige manier om eromheen te komen is vaak om erom te lachen.&lt;/p&gt;
@@ -923,7 +923,7 @@
     </item>
     <item>
       <title>Art in the public space</title>
-      <link>http://localhost:1313/dingen/2009/02/art-in-the-public-space/</link>
+      <link>http://localhost:1313/blog/art-in-the-public-space/</link>
       <pubDate>Thu, 19 Feb 2009 11:23:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=779</guid> 
       <description>&lt;p&gt;I started the week out nicely with a lunch lecture from Kie Ellens about art in the public space. It took me some time to properly code it, but it is online finally (and mostly in English):&lt;/p&gt;
@@ -931,7 +931,7 @@
     </item>
     <item>
       <title>Film en beelden in de stad</title>
-      <link>http://localhost:1313/dingen/2009/01/film-en-beelden-in-de-stad/</link>
+      <link>http://localhost:1313/blog/film-en-beelden-in-de-stad/</link>
       <pubDate>Wed, 28 Jan 2009 17:09:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=739</guid> 
       <description>&lt;p&gt;Het heruitvinden van de steden is in gevallen &lt;a href=&#34;http://hammer.ucla.edu/programs/detail/program_id/128&#34;&gt;zoals Los Angeles&lt;/a&gt; iets urgenter dan hier, maar een huizenmarkt die niet op slot is en een leuke publieke ruimte zou ik hier ook op prijs stellen.&lt;/p&gt;
@@ -939,7 +939,7 @@
     </item>
     <item>
       <title>Rita kan ook niet meer doen</title>
-      <link>http://localhost:1313/dingen/2009/01/rita-kan-ook-niet-meer-doen/</link>
+      <link>http://localhost:1313/blog/rita-kan-ook-niet-meer-doen/</link>
       <pubDate>Tue, 27 Jan 2009 01:39:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=737</guid> 
       <description>&lt;p&gt;Vandaag &lt;a href=&#34;http://twitter.com/alper/status/1149285629&#34;&gt;op Twitter&lt;/a&gt; al gezien dat Rita Verdonk goed aangepakt is door Alexander Pechtold. Kijk &lt;a href=&#34;http://www.dumpert.nl/mediabase/376191/b9cc8123/verdonk_vorstelijk_gepwoned.html&#34;&gt;het filmpje op dumpert&lt;/a&gt;, opleggen en erin schieten.&lt;/p&gt;
@@ -949,7 +949,7 @@
     </item>
     <item>
       <title>Nomadz and Androids</title>
-      <link>http://localhost:1313/dingen/2009/01/nomadz-and-androids/</link>
+      <link>http://localhost:1313/blog/nomadz-and-androids/</link>
       <pubDate>Sat, 24 Jan 2009 14:18:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=734</guid> 
       <description>&lt;p&gt;Biked to the Hague yesterday and spent part of the day coworking at my friends over at &lt;a href=&#34;http://www.nomadz.nl/&#34;&gt;Nomadz&lt;/a&gt;. Just when I had to leave for our appointment at the notary &lt;a href=&#34;http://www.bubblefoundry.com/&#34;&gt;Peter&lt;/a&gt; dropped by and demoed some very cool applications on the Android G1 phone he&amp;rsquo;d just gotten from &lt;a href=&#34;http://www.t-mobile.nl/&#34;&gt;T-Mobile&lt;/a&gt;.&lt;/p&gt;
@@ -957,7 +957,7 @@
     </item>
     <item>
       <title>Beirut is alive</title>
-      <link>http://localhost:1313/dingen/2009/01/beirut-is-alive/</link>
+      <link>http://localhost:1313/blog/beirut-is-alive/</link>
       <pubDate>Mon, 19 Jan 2009 02:34:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=732</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.beirutband.com/&#34;&gt;Beirut&lt;/a&gt; announced European tour dates of which 5th of May they will be playing in &lt;a href=&#34;http://www.paradiso.nl/&#34;&gt;Paradiso&lt;/a&gt;, Amsterdam. Yesterday, I got myself two tickets for that gig, which should be fantastic.&lt;/p&gt;
@@ -966,21 +966,21 @@
     </item>
     <item>
       <title>Light formations</title>
-      <link>http://localhost:1313/dingen/2008/12/light-formations/</link>
+      <link>http://localhost:1313/blog/light-formations/</link>
       <pubDate>Tue, 30 Dec 2008 00:05:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=714</guid> 
       <description>&lt;p&gt;Occasionally some very beautiful things here in Berlin between the grey and cold (( &lt;em&gt;Beirut — In the Mausoleum:&lt;/em&gt;[…] And Berlin // is so ugly in the morning light)):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Merry Christmas</title>
-      <link>http://localhost:1313/dingen/2008/12/merry-christmas/</link>
+      <link>http://localhost:1313/blog/merry-christmas/</link>
       <pubDate>Sun, 21 Dec 2008 15:10:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=674</guid> 
       <description>&lt;p&gt;Shot a guerilla Christmas vid of the gang after last Thursday&amp;rsquo;s training:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breaking the berimbau</title>
-      <link>http://localhost:1313/dingen/2008/12/breaking-the-berimbau/</link>
+      <link>http://localhost:1313/blog/breaking-the-berimbau/</link>
       <pubDate>Wed, 10 Dec 2008 21:53:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=647</guid> 
       <description>&lt;p&gt;These last couple of months we&amp;rsquo;ve been having regular music lessons. It&amp;rsquo;s a lot of fun and we are making crazy progress.&lt;/p&gt;
@@ -988,7 +988,7 @@
     </item>
     <item>
       <title>Flattened Conflict</title>
-      <link>http://localhost:1313/dingen/2008/12/flattened-conflict/</link>
+      <link>http://localhost:1313/blog/flattened-conflict/</link>
       <pubDate>Sun, 07 Dec 2008 17:45:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=631</guid> 
       <description>&lt;p&gt;The Guardian shows a &lt;a href=&#34;http://www.guardian.co.uk/world/2008/dec/05/hebron-settlers-shooting-israel-palestinians&#34;&gt;clip of the recent armed confrontations&lt;/a&gt; in Hebron due to the riots by Jewish settlers. I had read earlier about &lt;a href=&#34;http://www.btselem.org/English/&#34;&gt;B&amp;rsquo;Tselem&lt;/a&gt; handing out small camera&amp;rsquo;s to Palestinians so they could record settler aggression and this is &lt;a href=&#34;http://www.guardian.co.uk/world/video/2008/dec/05/hebron-settlers-shooting-israel-palestinians#send-share&#34;&gt;a clip&lt;/a&gt; that came out of that program.&lt;/p&gt;
@@ -996,7 +996,7 @@
     </item>
     <item>
       <title>Golden Gate Bridge</title>
-      <link>http://localhost:1313/dingen/2008/11/golden-gate-bridge/</link>
+      <link>http://localhost:1313/blog/golden-gate-bridge/</link>
       <pubDate>Sun, 30 Nov 2008 14:33:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=624</guid> 
       <description>&lt;p&gt;Bij het uitzoeken van mijn video&amp;rsquo;s kwam ik deze tegen (in HD &lt;a href=&#34;http://www.vimeo.com/2384895&#34;&gt;bij Vimeo&lt;/a&gt;).&lt;/p&gt;
@@ -1005,7 +1005,7 @@
     </item>
     <item>
       <title>Lazy ass music videos</title>
-      <link>http://localhost:1313/dingen/2008/11/lazy-ass-music-videos/</link>
+      <link>http://localhost:1313/blog/lazy-ass-music-videos/</link>
       <pubDate>Sat, 29 Nov 2008 14:01:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=621</guid> 
       <description>&lt;p&gt;So I get bored on a Friday night and I want a decent way to watch music videos. Rather than look for a service which provides this ((Surely there are a ton of usable music video players online by now.)), I decided to revive our own toy of a couple years ago, so it&amp;rsquo;s alive (again!): &lt;a href=&#34;http://lasttv.net/&#34;&gt;LastTV&lt;/a&gt;.&lt;/p&gt;
@@ -1013,7 +1013,7 @@
     </item>
     <item>
       <title>Camera Japan Festival</title>
-      <link>http://localhost:1313/dingen/2008/09/camera-japan-festival/</link>
+      <link>http://localhost:1313/blog/camera-japan-festival/</link>
       <pubDate>Mon, 22 Sep 2008 13:12:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=527</guid> 
       <description>&lt;p&gt;Last weekend the &lt;a href=&#34;http://www.camerajapan.nl/&#34;&gt;Camera Japan&lt;/a&gt; movie festival took place at the arthouse cinema Lantaren/Venster in Rotterdam and it was a lot of fun. The venue was packed and there was a great vibe (like always).&lt;/p&gt;
@@ -1021,7 +1021,7 @@
     </item>
     <item>
       <title>Draplin Design</title>
-      <link>http://localhost:1313/dingen/2008/07/draplin-design/</link>
+      <link>http://localhost:1313/blog/draplin-design/</link>
       <pubDate>Wed, 30 Jul 2008 11:32:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=328</guid> 
       <description>&lt;p&gt;I got a link to &lt;a href=&#34;http://www.jessgibson.com/videos/Draplin_America_is_fucked_newFINAL.mov&#34;&gt;this video&lt;/a&gt; from somewhere and it is priceless. It prompted me to do some research and I found &lt;a href=&#34;http://www.hearhear.us/articles/2007/06/24/an-interview-with-draplin-design-co&#34;&gt;an interview&lt;/a&gt; which confirms that that Aaron Draplin guy is awesome and does really cool work.&lt;/p&gt;
@@ -1029,7 +1029,7 @@
     </item>
     <item>
       <title>Workshop session on geodata visualization</title>
-      <link>http://localhost:1313/dingen/2008/06/workshop-session-on-geodata-visualization/</link>
+      <link>http://localhost:1313/blog/workshop-session-on-geodata-visualization/</link>
       <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=314</guid> 
       <description>&lt;p&gt;Yesterday we had an &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshop-13-juni/&#34;&gt;afternoon of workshops&lt;/a&gt; in an unconference style event at &lt;a href=&#34;http://studio4stagioni.nl/&#34;&gt;the office&lt;/a&gt;. A full registration of the event with video and slides will be published during the course of this weekend, but unfortunately most of it will be &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshops-kickoff/&#34;&gt;in Dutch&lt;/a&gt;.&lt;/p&gt;
@@ -1038,7 +1038,7 @@
     </item>
     <item>
       <title>Clinic Middag</title>
-      <link>http://localhost:1313/dingen/2008/06/clinic-middag/</link>
+      <link>http://localhost:1313/blog/clinic-middag/</link>
       <pubDate>Fri, 06 Jun 2008 15:16:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=303</guid> 
       <description>&lt;p&gt;Volgende vrijdag houden we hier op kantoor een unconference-achtige workshop ( &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshop-13-juni/&#34;&gt;beschrijving&lt;/a&gt;) middag om kennis uit te wisselen. Iedereen vertelt of laat iets zien wat hij kan ter lering ende vermaek van de anderen, dit mag alles zijn. Nu wilden we het aanvankelijk doen met ons vieren, maar het leek ons nog leuker om het open te stellen voor onze vrienden en kennissen.&lt;/p&gt;
@@ -1047,7 +1047,7 @@
     </item>
     <item>
       <title>Douce France</title>
-      <link>http://localhost:1313/dingen/2008/05/douce-france/</link>
+      <link>http://localhost:1313/blog/douce-france/</link>
       <pubDate>Thu, 08 May 2008 15:26:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=289</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/962735?pg=embed&amp;amp;sec=962735&#34;&gt;Justice - Stress&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/netsabes?pg=embed&amp;amp;sec=962735&#34;&gt;Sébastien Delahaye&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com?pg=embed&amp;amp;sec=962735&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -1055,7 +1055,7 @@
     </item>
     <item>
       <title>Rovende reporter</title>
-      <link>http://localhost:1313/dingen/2008/04/rovende-reporter/</link>
+      <link>http://localhost:1313/blog/rovende-reporter/</link>
       <pubDate>Thu, 24 Apr 2008 16:15:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/rovende-reporter/</guid> 
       <description>&lt;p&gt;Afgelopen week donderdag en vrijdag was &lt;a href=&#34;http://2008.thenextweb.org/&#34;&gt;the Next Web&lt;/a&gt; weer in Amsterdam. Ik had met &lt;a href=&#34;http://tipit.to&#34;&gt;Tipit.to&lt;/a&gt; via &lt;a href=&#34;http://localhost:1313/dingen/2008/03/stemmen-op-ons-filmpje/&#34;&gt;de wedstrijd&lt;/a&gt; al kaartjes gewonnen maar &lt;a href=&#34;http://blog.eelkedekker.nl&#34;&gt;Eelke&lt;/a&gt; en ik wilden geloof ik meer video maken. Voor &lt;a href=&#34;http://www.frankwatching.com&#34;&gt;Frankwatching&lt;/a&gt; ((Ik kwam Frank maandag tegen op het knap saaie Mobile Monday.)) hebben we toen een verslag van de eerste conferentie-dag in elkaar gezet.&lt;/p&gt;
@@ -1064,7 +1064,7 @@
     </item>
     <item>
       <title>Nieuwe Living</title>
-      <link>http://localhost:1313/dingen/2008/04/nieuwe-living/</link>
+      <link>http://localhost:1313/blog/nieuwe-living/</link>
       <pubDate>Wed, 23 Apr 2008 16:23:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/nieuwe-living/</guid> 
       <description>&lt;p&gt;Afgelopen weekend had ik het helemaal gehad. Vrijdag met Reinier naar de IKEA gereden en direct een hele woonkamer besteld. Zaterdag-namiddag werd deze thuis bezorgd ((Het is echt best sadistisch om bezorgers dingen bij mij thuis te laten bezorgen. De meeste weten zich geen raad met de eenrichtings pollers.)) na wat pogingen.&lt;/p&gt;
@@ -1074,7 +1074,7 @@
     </item>
     <item>
       <title>Studentenhuis met Polen</title>
-      <link>http://localhost:1313/dingen/2008/04/studentenhuis-met-polen/</link>
+      <link>http://localhost:1313/blog/studentenhuis-met-polen/</link>
       <pubDate>Mon, 21 Apr 2008 13:31:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/04/studentenhuis-met-polen/</guid> 
       <description>&lt;p&gt;Onderstaande gebeurde dus bij mij om de hoek, maar ik heb er niks van gemerkt.&lt;/p&gt;
@@ -1082,7 +1082,7 @@
     </item>
     <item>
       <title>Stemmen op ons filmpje</title>
-      <link>http://localhost:1313/dingen/2008/03/stemmen-op-ons-filmpje/</link>
+      <link>http://localhost:1313/blog/stemmen-op-ons-filmpje/</link>
       <pubDate>Sun, 30 Mar 2008 16:09:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/stemmen-op-ons-filmpje/</guid> 
       <description>&lt;p&gt;We hebben afgelopen week dit filmpje gemaakt om Tipit.to uit te leggen:
@@ -1092,7 +1092,7 @@
     </item>
     <item>
       <title>Een perfectere samenleving</title>
-      <link>http://localhost:1313/dingen/2008/03/een-perfectere-samenleving/</link>
+      <link>http://localhost:1313/blog/een-perfectere-samenleving/</link>
       <pubDate>Wed, 26 Mar 2008 15:00:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/een-perfectere-samenleving/</guid> 
       <description>&lt;p&gt;Voor Mark en eigenlijk voor iedereen: de toespraak die Obama vorige week hield over ras. De voorganger van zijn zwarte kerk had een paar politiek-incorrecte uitspraken gedaan die uiteraard uit den treure herhaald werden op de Amerikaanse &lt;em&gt;news networks&lt;/em&gt;.&lt;/p&gt;
@@ -1100,7 +1100,7 @@
     </item>
     <item>
       <title>Ticking Timebomb</title>
-      <link>http://localhost:1313/dingen/2008/03/ticking-timebomb/</link>
+      <link>http://localhost:1313/blog/ticking-timebomb/</link>
       <pubDate>Wed, 12 Mar 2008 22:03:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/03/ticking-timebomb/</guid> 
       <description>&lt;p&gt;Wat voor de meeste mensen al duidelijk was: martelen is niet-productief en de scenario&amp;rsquo;s waar het handig zou kunnen zijn, komen nooit voor. De rechtstaat van Amerika, die toch wel op wat &lt;a href=&#34;http://en.wikipedia.org/wiki/United_States_Constitution&#34;&gt;aardige ideeën&lt;/a&gt; gebouwd is door &lt;a href=&#34;http://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States#Signatories_of_the_Declaration_of_Independence&#34;&gt;intelligente mensen&lt;/a&gt;, wordt te grabbel gegooid door mensen die niet alleen kijken naar maar ook geloven in &lt;a href=&#34;http://en.wikipedia.org/wiki/24_%28TV_series%29&#34;&gt;24&lt;/a&gt;.&lt;/p&gt;
@@ -1109,7 +1109,7 @@
     </item>
     <item>
       <title>Hillary is razend</title>
-      <link>http://localhost:1313/dingen/2008/02/hillary-is-razend/</link>
+      <link>http://localhost:1313/blog/hillary-is-razend/</link>
       <pubDate>Sun, 24 Feb 2008 13:59:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/hillary-is-razend/</guid> 
       <description>&lt;p&gt;Maar dan, ik weet niet hoe ik me zou voelen als ik als gedoodverfde kandidaat van het establishment op alle vlakken de loef af werd gestoken door een &lt;em&gt;uppity negro&lt;/em&gt;.&lt;/p&gt;
@@ -1118,7 +1118,7 @@
     </item>
     <item>
       <title>Pop!Tech</title>
-      <link>http://localhost:1313/dingen/2007/10/poptech/</link>
+      <link>http://localhost:1313/blog/poptech/</link>
       <pubDate>Wed, 17 Oct 2007 21:31:41 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/poptech/</guid> 
       <description>&lt;p&gt;Dit weekend is Pop!Tech weer en als het prijskaartje en de reis naar Amerika teveel zijn, kun je de boel ook live volgen op &lt;a href=&#34;http://poptech.com/live/&#34;&gt;Pop!Tech Live&lt;/a&gt;.&lt;/p&gt;
@@ -1126,7 +1126,7 @@
     </item>
     <item>
       <title>Zonsondergang over Palmyra</title>
-      <link>http://localhost:1313/dingen/2007/09/zonsondergang-over-palmyra/</link>
+      <link>http://localhost:1313/blog/zonsondergang-over-palmyra/</link>
       <pubDate>Fri, 21 Sep 2007 17:45:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/zonsondergang-over-palmyra/</guid> 
       <description>&lt;p&gt;Ik heb geen idee hoe ik zo snel een Quicktime embed op dit blog plak. Vimeo even uitgeprobeerd wat een goede videosite is maar het FLV formaat is nog steeds redelijk bar qua kwaliteit.&lt;/p&gt;
@@ -1135,7 +1135,7 @@
     </item>
     <item>
       <title>Koninginnedag zelf</title>
-      <link>http://localhost:1313/dingen/2007/05/koninginnedag-zelf/</link>
+      <link>http://localhost:1313/blog/koninginnedag-zelf/</link>
       <pubDate>Tue, 01 May 2007 09:51:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/koninginnedag-zelf/</guid> 
       <description>&lt;p&gt;En dan de Koninginnedag zelf, traditioneel begonnen met een kater en dan haasten naar het optreden op het Agathaplein (video daarvan volgt nog). De rest van de dag is dan een oranje waas van capoeira en bier.&lt;/p&gt;

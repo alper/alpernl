@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16760
 parent_post_id: null
 post_id: "16760"
 title: ""
-url: /dingen/2022/04/16760/
+aliases:
+  - /dingen/2022/04/16760/
 
 ---
 https://medium.com/@Martin\_Jordan/moving-countries-moving-governments-9e2b04bf06f8

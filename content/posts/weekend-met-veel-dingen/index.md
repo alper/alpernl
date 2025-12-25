@@ -12,7 +12,8 @@ tags:
   - fotografie
   - weekend
 title: Weekend met veel dingen
-url: /dingen/2007/05/weekend-met-veel-dingen/
+aliases:
+  - /dingen/2007/05/weekend-met-veel-dingen/
 
 ---
 Donderdagochtendvroeg naar Den Haag om mijn Macbook in te leveren en vrijdag eind van de middag er weer heen om hem op te halen.

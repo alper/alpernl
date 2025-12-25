@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15426
 parent_post_id: null
 post_id: "15426"
 title: YouTube hatchet job on the CDU
-url: /dingen/2019/05/youtube-hatchet-job-on-the-cdu/
+aliases:
+  - /dingen/2019/05/youtube-hatchet-job-on-the-cdu/
 
 ---
 A collective of the largest German YouTubers have just before the European elections launched a campaign against the CDU and it's a joy to see.

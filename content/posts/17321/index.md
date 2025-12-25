@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17321
 parent_post_id: null
 post_id: "17321"
 title: ""
-url: /dingen/2023/11/17321/
+aliases:
+  - /dingen/2023/11/17321/
 
 ---
 Last week I was making a presentation and I came across Deming and his principles. I have often gotten the question: "If you don't measure X, then how will you know we're doing well or improving?" which I always felt was misguided.

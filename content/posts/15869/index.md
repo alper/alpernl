@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15869
 parent_post_id: null
 post_id: "15869"
 title: ""
-url: /dingen/2019/11/15869/
+aliases:
+  - /dingen/2019/11/15869/
 
 ---
 > “Ja. Als het aan mij ligt wordt Shell morgen genationaliseerd en worden rijken onteigend. Dat is trouwens ook in hun belang.”

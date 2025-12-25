@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17586
 parent_post_id: null
 post_id: "17586"
 title: ""
-url: /dingen/2024/08/17586/
+aliases:
+  - /dingen/2024/08/17586/
 
 ---
 Cosplay believing in the singularity long enough and at some point you won't be able to stop anymore whether you really believe in it or not.

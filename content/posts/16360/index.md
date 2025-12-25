@@ -10,7 +10,8 @@ guid: http://www.alper.nl/dingen/?p=16360
 parent_post_id: null
 post_id: "16360"
 title: ""
-url: /dingen/2020/10/16360/
+aliases:
+  - /dingen/2020/10/16360/
 
 ---
 > Apple is not a company where general managers oversee managers; rather, it is a company where experts lead experts. The assumption is that it’s easier to train an expert to manage well than to train a manager to be an expert.

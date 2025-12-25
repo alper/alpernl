@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17657
 parent_post_id: null
 post_id: "17657"
 title: Kaiju No 8
-url: /dingen/2024/11/kaiju-no-8/
+aliases:
+  - /dingen/2024/11/kaiju-no-8/
 
 ---
 {{< figure src="bafkreifd42yeog54zrdxr5nlgdpmeq66ptq4mzbesxzsnjucn34zybcfgu-2.jpg" alt="" caption="" >}}

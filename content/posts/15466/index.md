@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15466
 parent_post_id: null
 post_id: "15466"
 title: ""
-url: /dingen/2019/05/15466/
+aliases:
+  - /dingen/2019/05/15466/
 
 ---
 Cities like Barcelona are starting to fight back against AirBnB and tourism.

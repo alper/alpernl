@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5624
 parent_post_id: null
 post_id: "5624"
 title: Highlights from Science, Strategy and War by Frans Osinga
-url: /dingen/2016/09/highlights-from-science-strategy-and-war-by-frans-osinga/
+aliases:
+  - /dingen/2016/09/highlights-from-science-strategy-and-war-by-frans-osinga/
 
 ---
 > This network is the seat of scientific opinion; it is split into thousands of fragments, held by a multitude of individuals, each of whom endorses the others’ opinion at second hand, by relying on the consensual chains which link him to all the others through a sequence of overlapping neighborhoods.

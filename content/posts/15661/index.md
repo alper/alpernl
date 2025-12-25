@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15661
 parent_post_id: null
 post_id: "15661"
 title: ""
-url: /dingen/2019/09/15661/
+aliases:
+  - /dingen/2019/09/15661/
 
 ---
 An excellent short piece by Emily Nakashima about the various ways that power bends reality. It is well worth keeping in mind even especially if you are the person who has power.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17118
 parent_post_id: null
 post_id: "17118"
 title: ""
-url: /dingen/2023/03/17118/
+aliases:
+  - /dingen/2023/03/17118/
 
 ---
 An amazing read about the first solo unsupported around the world sailing event and the maintenance that goes into doing something like that.

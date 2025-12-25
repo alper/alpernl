@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17068
 parent_post_id: null
 post_id: "17068"
 title: ""
-url: /dingen/2023/02/17068/
+aliases:
+  - /dingen/2023/02/17068/
 
 ---
 Going through these presentations by Matt Jones the main thing I'm left wondering is if anybody still does any real design and thinking work anymore, when it comes to technology or if all of it now is just flinging shit against the wall (which it very much looks like).

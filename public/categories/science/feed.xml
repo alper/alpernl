@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/categories/science/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/06/18256/</link>
+      <link>http://localhost:1313/blog/18256/</link>
       <pubDate>Thu, 05 Jun 2025 22:22:58 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18256</guid> 
       <description>&lt;p&gt;For the many people who may not be intimately familiar with the workings of Turing machines, this visual and interactive guide should get them up to speed really nicely.&lt;/p&gt;
@@ -19,7 +19,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/05/18238/</link>
+      <link>http://localhost:1313/blog/18238/</link>
       <pubDate>Tue, 27 May 2025 06:11:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18238</guid> 
       <description>&lt;p&gt;A twofer on software estimation that also tallies with my intuition. People are really great at estimating the median which is impossible to communicate to people without deep intuition for software engineering and statistics.&lt;/p&gt;
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/05/18231/</link>
+      <link>http://localhost:1313/blog/18231/</link>
       <pubDate>Tue, 27 May 2025 05:44:41 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18231</guid> 
       <description>&lt;p&gt;The Return To Office debate has been very contentious and hardly productive. Here in HBR is an ethics based approach to create solutions here that work for everybody. A lot of it is common sense but this is coherent and a useful lens.&lt;/p&gt;
@@ -35,7 +35,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/05/18229/</link>
+      <link>http://localhost:1313/blog/18229/</link>
       <pubDate>Tue, 27 May 2025 05:40:59 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18229</guid> 
       <description>&lt;p&gt;We use reservoir sampling a lot day to day and here&amp;rsquo;s a great visual explanation of how this algorithm does this seemingly impossible task.&lt;/p&gt;
@@ -43,7 +43,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/04/18220/</link>
+      <link>http://localhost:1313/blog/18220/</link>
       <pubDate>Wed, 23 Apr 2025 23:58:57 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18220</guid> 
       <description>&lt;p&gt;A dive into Stafford Beer&amp;rsquo;s systems thinking that uncovers the ANT-style depth that&amp;rsquo;s often glossed over. That notwithstanding, I still think the glib and reductive &lt;a href=&#34;https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does&#34;&gt;POSIWID&lt;/a&gt; has its uses.&lt;/p&gt;
@@ -51,7 +51,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/02/18117/</link>
+      <link>http://localhost:1313/blog/18117/</link>
       <pubDate>Tue, 25 Feb 2025 22:30:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18117</guid> 
       <description>&lt;p&gt;Lots of people are going to have a problem with the truth going forward, so get those Wikipedia backups handy and start thinking about how to host it in a more distributed and resilient way.&lt;/p&gt;
@@ -59,7 +59,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/02/18077/</link>
+      <link>http://localhost:1313/blog/18077/</link>
       <pubDate>Tue, 18 Feb 2025 17:11:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18077</guid> 
       <description>&lt;p&gt;Quanta&amp;rsquo;s write-ups of math discoveries are always enjoyable to read. In this case an undergraduate (!) figured out something new about hash tables and how fast they can be. Not sure yet when this will be shipped in code, but still it&amp;rsquo;s a pretty amazing discovery.&lt;/p&gt;
@@ -67,7 +67,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/02/18059/</link>
+      <link>http://localhost:1313/blog/18059/</link>
       <pubDate>Sat, 08 Feb 2025 20:49:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18059</guid> 
       <description>&lt;blockquote&gt;
@@ -77,7 +77,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/02/18007/</link>
+      <link>http://localhost:1313/blog/18007/</link>
       <pubDate>Wed, 05 Feb 2025 22:45:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18007</guid> 
       <description>&lt;p&gt;The scientists are all on Bluesky which is understandable given the war on science and truth taking place on Twitter.&lt;/p&gt;
@@ -85,7 +85,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17917/</link>
+      <link>http://localhost:1313/blog/17917/</link>
       <pubDate>Tue, 14 Jan 2025 08:44:58 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17917</guid> 
       <description>&lt;p&gt;The Agents chapter from Chip Huyen&amp;rsquo;s book &amp;ldquo;AI Engineering&amp;rdquo; is clear and enjoyable to read. She&amp;rsquo;s right that &amp;ldquo;the concept of an agent is fairly simple&amp;rdquo; but building something functional still looks like a massive lift.&lt;/p&gt;
@@ -93,7 +93,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17888/</link>
+      <link>http://localhost:1313/blog/17888/</link>
       <pubDate>Wed, 08 Jan 2025 08:55:50 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17888</guid> 
       <description>&lt;p&gt;Let&amp;rsquo;s see how this develops but good to see a positive healthcare story for AIs.&lt;/p&gt;
@@ -101,7 +101,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17886/</link>
+      <link>http://localhost:1313/blog/17886/</link>
       <pubDate>Wed, 08 Jan 2025 08:53:07 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17886</guid> 
       <description>&lt;p&gt;A very useful thought experiment whenever anybody tries to pretend LLMs are &amp;lsquo;human&amp;rsquo; because they sound human.&lt;/p&gt;
@@ -109,7 +109,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17879/</link>
+      <link>http://localhost:1313/blog/17879/</link>
       <pubDate>Mon, 06 Jan 2025 06:14:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17879</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2412.02830&#34;&gt;RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models&lt;/a&gt;&lt;/p&gt;
@@ -125,7 +125,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17833/</link>
+      <link>http://localhost:1313/blog/17833/</link>
       <pubDate>Thu, 02 Jan 2025 07:17:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17833</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.00412&#34;&gt;Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation&lt;/a&gt;&lt;/p&gt;
@@ -135,7 +135,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/12/17831/</link>
+      <link>http://localhost:1313/blog/17831/</link>
       <pubDate>Tue, 31 Dec 2024 14:23:39 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17831</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.07663&#34;&gt;Monolith: Real Time Recommendation System With Collisionless Embedding Table&lt;/a&gt;&lt;/p&gt;
@@ -146,7 +146,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/12/17829/</link>
+      <link>http://localhost:1313/blog/17829/</link>
       <pubDate>Tue, 31 Dec 2024 10:17:34 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17829</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2304.00612&#34;&gt;Eight Things to Know about Large Language Models&lt;/a&gt;&lt;/p&gt;
@@ -157,7 +157,7 @@
     </item>
     <item>
       <title>Witches Kitchen</title>
-      <link>http://localhost:1313/dingen/2024/12/witchs-kitchen/</link>
+      <link>http://localhost:1313/blog/witchs-kitchen/</link>
       <pubDate>Fri, 27 Dec 2024 20:22:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17819</guid> 
       <description>&lt;figure&gt;
@@ -172,7 +172,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/12/17809/</link>
+      <link>http://localhost:1313/blog/17809/</link>
       <pubDate>Thu, 26 Dec 2024 23:31:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17809</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/1706.03762&#34;&gt;Attention Is All You Need&lt;/a&gt;&lt;/p&gt;
@@ -181,7 +181,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/12/17805/</link>
+      <link>http://localhost:1313/blog/17805/</link>
       <pubDate>Thu, 26 Dec 2024 23:12:15 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17805</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2305.10601&#34;&gt;Tree of Thoughts: Deliberate Problem Solving with Large Language Models&lt;/a&gt;&lt;/p&gt;
@@ -191,7 +191,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/11/17690/</link>
+      <link>http://localhost:1313/blog/17690/</link>
       <pubDate>Sun, 03 Nov 2024 22:14:36 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17690</guid> 
       <description>&lt;p&gt;I don&amp;rsquo;t really know where to find a Honeycrisp apple locally, but since moving to Germany I have been eating tons of amazing juicy, sweet, crisp apples. It turns out that this is deliberate and these are not the apples of my childhood.&lt;/p&gt;
@@ -199,7 +199,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Literature review of measures against the common cold</title>
-      <link>http://localhost:1313/dingen/2024/01/literature-review-of-measures-against-the-common-cold/</link>
+      <link>http://localhost:1313/blog/literature-review-of-measures-against-the-common-cold/</link>
       <pubDate>Mon, 08 Jan 2024 15:57:36 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17408</guid> 
       <description>&lt;p&gt;I refer to this piece of writing regularly:&lt;/p&gt;
@@ -208,7 +208,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/03/17108/</link>
+      <link>http://localhost:1313/blog/17108/</link>
       <pubDate>Sun, 05 Mar 2023 13:51:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17108</guid> 
       <description>&lt;p&gt;The hype train around AI now should be very familiar if you paid any attention during the previous crypto cycle. It&amp;rsquo;s the same people pushing this technology in the world in the same overblown and damaging way.&lt;/p&gt;
@@ -219,7 +219,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16946/</link>
+      <link>http://localhost:1313/blog/16946/</link>
       <pubDate>Fri, 06 Jan 2023 19:45:18 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16946</guid> 
       <description>&lt;p&gt;Everything we continue to learn about the very earliest people is completely fascinating.&lt;/p&gt;
@@ -228,7 +228,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16942/</link>
+      <link>http://localhost:1313/blog/16942/</link>
       <pubDate>Fri, 06 Jan 2023 18:55:08 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16942</guid> 
       <description>&lt;p&gt;Machine learning looks like a very challenging field to keep up with let alone to study it. This guide by Vicki Boykis gives a bunch of pointers around reading, mapping and learning that can be applied to any large field you want to get into.&lt;/p&gt;
@@ -236,7 +236,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/12/16910/</link>
+      <link>http://localhost:1313/blog/16910/</link>
       <pubDate>Tue, 27 Dec 2022 14:02:17 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16910</guid> 
       <description>&lt;blockquote&gt;
@@ -244,7 +244,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/08/16842/</link>
+      <link>http://localhost:1313/blog/16842/</link>
       <pubDate>Sun, 21 Aug 2022 23:03:55 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16842</guid> 
       <description>&lt;p&gt;Any kind of workshop that you do virtually is going to be more difficult but in my experience a skilled facilitator and a motivated group can overcome these challenges.&lt;/p&gt;
@@ -252,7 +252,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/07/16819/</link>
+      <link>http://localhost:1313/blog/16819/</link>
       <pubDate>Sun, 17 Jul 2022 09:02:34 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16819</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari&#34;&gt;https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari&lt;/a&gt;&lt;/p&gt;
@@ -260,7 +260,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/04/16775/</link>
+      <link>http://localhost:1313/blog/16775/</link>
       <pubDate>Sat, 09 Apr 2022 23:21:57 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16775</guid> 
       <description>&lt;p&gt;Lovely bit about the &lt;em&gt;broodje kroket&lt;/em&gt; and about Dutch colonial history.&lt;/p&gt;
@@ -268,7 +268,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/04/16767/</link>
+      <link>http://localhost:1313/blog/16767/</link>
       <pubDate>Sat, 09 Apr 2022 22:33:22 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16767</guid> 
       <description>&lt;p&gt;On old but interesting article about a study that indicates that people will use their cars a lot more once we get fully autonomous vehicles.&lt;/p&gt;
@@ -276,7 +276,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>Property dealings in Berlin</title>
-      <link>http://localhost:1313/dingen/2022/03/16736/</link>
+      <link>http://localhost:1313/blog/16736/</link>
       <pubDate>Mon, 07 Mar 2022 12:01:57 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16736</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://parisinstitute.org/the-real-academy-in-exile/#ref1&#34;&gt;https://parisinstitute.org/the-real-academy-in-exile/#ref1&lt;/a&gt;&lt;/p&gt;
@@ -284,7 +284,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/12/16682/</link>
+      <link>http://localhost:1313/blog/16682/</link>
       <pubDate>Fri, 31 Dec 2021 12:07:22 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16682</guid> 
       <description>&lt;p&gt;I had no idea that most of Tesla&amp;rsquo;s FSD videos were fake. Huh.&lt;/p&gt;
@@ -292,7 +292,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>German adjective inflections demystified</title>
-      <link>http://localhost:1313/dingen/2021/03/german-adjective-inflections-demystified/</link>
+      <link>http://localhost:1313/blog/german-adjective-inflections-demystified/</link>
       <pubDate>Thu, 25 Mar 2021 10:08:16 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16472</guid> 
       <description>&lt;p&gt;I see lots of people still struggle with the German adjectives and especially the fact that there are three tables, one for each of definite articles, indefinite articles and when there&amp;rsquo;s no article, for 48 separate inflections.&lt;/p&gt;
@@ -308,7 +308,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/01/16397/</link>
+      <link>http://localhost:1313/blog/16397/</link>
       <pubDate>Mon, 25 Jan 2021 21:22:48 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16397</guid> 
       <description>&lt;p&gt;When I still did photography, I read everything I could find about how cameras work and this is the mental model I built up back then.&lt;/p&gt;
@@ -317,7 +317,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/09/16267/</link>
+      <link>http://localhost:1313/blog/16267/</link>
       <pubDate>Sat, 05 Sep 2020 13:57:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16267</guid> 
       <description>&lt;p&gt;An uncannily thorough treatment of why DARPA works and how you might go about replicating it. Maybe people at the European policy level should read this instead of trying all these initiatives where everything good dies in a committee.&lt;/p&gt;
@@ -325,7 +325,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/06/16125/</link>
+      <link>http://localhost:1313/blog/16125/</link>
       <pubDate>Sun, 21 Jun 2020 23:14:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16125</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve always felt that programming is more similar to languages than to mathematics. The number of hard maths problems that we solve as part of this work are really limited, the number of language problems on the other hand is immense.&lt;/p&gt;
@@ -333,7 +333,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/11/15871/</link>
+      <link>http://localhost:1313/blog/15871/</link>
       <pubDate>Wed, 27 Nov 2019 09:54:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15871</guid> 
       <description>&lt;p&gt;Turns out large parts of science and popular science are all contaminated by Epstein. Evgeny Morozov reveals his part and extricates himself.&lt;/p&gt;
@@ -341,7 +341,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/10/15794/</link>
+      <link>http://localhost:1313/blog/15794/</link>
       <pubDate>Sun, 20 Oct 2019 14:47:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15794</guid> 
       <description>&lt;p&gt;“the resilience of a system corresponds to its adaptive capacity tuned to the future.”&lt;/p&gt;
@@ -350,7 +350,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15724/</link>
+      <link>http://localhost:1313/blog/15724/</link>
       <pubDate>Sun, 22 Sep 2019 20:58:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15724</guid> 
       <description>&lt;p&gt;Not surprising that those things at the MIT Media Lab that looked too good to be true, were in fact fake.&lt;/p&gt;
@@ -358,7 +358,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15672/</link>
+      <link>http://localhost:1313/blog/15672/</link>
       <pubDate>Mon, 02 Sep 2019 23:12:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15672</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve heard “if you&amp;rsquo;re so smart, then why aren&amp;rsquo;t you rich”more than a couple of times in my life. The answer it turns out is: unluckiness.&lt;/p&gt;
@@ -366,7 +366,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title>The Theory of Society</title>
-      <link>http://localhost:1313/dingen/2019/06/the-theory-of-society/</link>
+      <link>http://localhost:1313/blog/the-theory-of-society/</link>
       <pubDate>Wed, 05 Jun 2019 21:40:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15487</guid> 
       <description>&lt;p&gt;I was arguing against Systems Theory today (a necessary evil when you live in Germany) which prompted the thought of searching for the conjunction of Bruno Latour and Niklas Luhmann. That led me to &lt;a href=&#34;https://wittenbrink.net/lostandfound/clash-of-culturesbruno-latour-trifft-niklas-luhmann/&#34;&gt;this gem&lt;/a&gt;.&lt;/p&gt;
@@ -375,7 +375,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/05/15475/</link>
+      <link>http://localhost:1313/blog/15475/</link>
       <pubDate>Mon, 27 May 2019 22:30:29 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15475</guid> 
       <description>&lt;p&gt;Fijn zo&amp;rsquo;n land onder de zeespiegel dat wordt beheerst door klimaatontkenners. En gezien het Nederlandse asielbeleid is het niet heel waarschijnlijk dat klimaatvluchtelingen elders op een warm welkom zullen kunnen rekenen.&lt;/p&gt;
@@ -383,7 +383,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/05/15408/</link>
+      <link>http://localhost:1313/blog/15408/</link>
       <pubDate>Sun, 12 May 2019 20:16:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15408</guid> 
       <description>&lt;p&gt;This article about forecasting dovetails nicely with the book about measuring risk that I just read. It makes the case for foxlike thinking, something of which I don&amp;rsquo;t need to be persuaded.&lt;/p&gt;
@@ -393,7 +393,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15358/</link>
+      <link>http://localhost:1313/blog/15358/</link>
       <pubDate>Sun, 28 Apr 2019 13:59:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15358</guid> 
       <description>&lt;blockquote&gt;
@@ -404,7 +404,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/03/15284/</link>
+      <link>http://localhost:1313/blog/15284/</link>
       <pubDate>Tue, 26 Mar 2019 23:02:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15284</guid> 
       <description>&lt;p&gt;Theranos employees are suffering some adverse consequences for participating in that scam (and rightly so).&lt;/p&gt;

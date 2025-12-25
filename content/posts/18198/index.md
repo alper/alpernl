@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18198
 parent_post_id: null
 post_id: "18198"
 title: ""
-url: /dingen/2025/04/18198/
+aliases:
+  - /dingen/2025/04/18198/
 
 ---
 The amount of positive things happening around Python packaging and performance is really cool to see. Here's a way to compile Python directly to Webassembly and get much better performance.

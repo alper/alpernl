@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16257
 parent_post_id: null
 post_id: "16257"
 title: ""
-url: /dingen/2020/08/16257/
+aliases:
+  - /dingen/2020/08/16257/
 
 ---
 Talking with people about their career and professional development options is one of my active areas of improvement at the moment. If I'm generous I'd say I'm at level 2.

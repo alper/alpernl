@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16646
 parent_post_id: null
 post_id: "16646"
 title: ""
-url: /dingen/2021/11/16646/
+aliases:
+  - /dingen/2021/11/16646/
 
 ---
 An amazing article about COBOL and how deep our investment is in legacy technologies that work really well but are also a dead-end. It also seems that if you know any one of those technologies you can find work up until the moment that you die.

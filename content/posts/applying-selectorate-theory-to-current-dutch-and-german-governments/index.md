@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5767
 parent_post_id: null
 post_id: "5767"
 title: Applying selectorate theory to current Dutch and German governments
-url: /dingen/2017/04/applying-selectorate-theory-to-current-dutch-and-german-governments/
+aliases:
+  - /dingen/2017/04/applying-selectorate-theory-to-current-dutch-and-german-governments/
 
 ---
 I don't think you can draw a lot of conclusions from this bit of [selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) but it's interesting to get a feel for the numbers.

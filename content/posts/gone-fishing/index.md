@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2206
 parent_post_id: null
 post_id: "2206"
 title: Gone fishing
-url: /dingen/2010/10/gone-fishing/
+aliases:
+  - /dingen/2010/10/gone-fishing/
 
 ---
 By the time you're reading this I will have flown off to the Levant to spend three weeks mainly in [Damascus](http://en.wikipedia.org/wiki/Damascus), Syria.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16054
 parent_post_id: null
 post_id: "16054"
 title: 'Vertaling: Somebody Screwed the Pooch'
-url: /dingen/2020/04/vertaling-somebody-screwed-the-pooch/
+aliases:
+  - /dingen/2020/04/vertaling-somebody-screwed-the-pooch/
 
 ---
 > Daar heeft iemand het hondje geblaft.

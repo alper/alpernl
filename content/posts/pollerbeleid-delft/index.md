@@ -15,7 +15,8 @@ tags:
   - parkeerbeleid
   - poller
 title: Pollerbeleid Delft
-url: /dingen/2008/11/pollerbeleid-delft/
+aliases:
+  - /dingen/2008/11/pollerbeleid-delft/
 
 ---
 Hier even een korte noot voor de mensen die in het centrum van Delft wonen of er moeten zijn. Ik kan deze informatie online nergens vinden en ik vergeet het steeds en bel dan aan bij een poller om het te vragen. Googlevoer dus.

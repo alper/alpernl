@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1300
 parent_post_id: null
 post_id: "1300"
 title: Innocence
-url: /dingen/2009/10/innocence/
+aliases:
+  - /dingen/2009/10/innocence/
 
 ---
 Interesting on the part of the sub-team adding extra information to clarify references, cultural differences and even tone of voice. There were enough of these notes to be distracting, which makes it a mixed blessing. I think a movie is experienced better without.

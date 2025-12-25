@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16946
 parent_post_id: null
 post_id: "16946"
 title: ""
-url: /dingen/2023/01/16946/
+aliases:
+  - /dingen/2023/01/16946/
 
 ---
 Everything we continue to learn about the very earliest people is completely fascinating.

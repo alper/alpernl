@@ -12,7 +12,8 @@ post_id: "4013"
 tags:
   - weeknotes
 title: 'Week 297: getting back into the groove'
-url: /dingen/2012/11/week-297-getting-back-into-the-groove/
+aliases:
+  - /dingen/2012/11/week-297-getting-back-into-the-groove/
 
 ---
 At the start of the week I managed to [upload a batch of trip pictures](http://www.flickr.com/photos/alper/archives/date-posted/2012/11/19/) (the China section) but after things went quickly downhill.

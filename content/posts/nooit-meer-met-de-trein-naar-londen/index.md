@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1206
 parent_post_id: null
 post_id: "1206"
 title: Nooit meer met de trein naar Londen
-url: /dingen/2009/09/nooit-meer-met-de-trein-naar-londen/
+aliases:
+  - /dingen/2009/09/nooit-meer-met-de-trein-naar-londen/
 
 ---
 Ik denk niet dat ik binnenkort nog met de trein naar Londen ga.

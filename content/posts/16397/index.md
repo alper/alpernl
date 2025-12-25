@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16397
 parent_post_id: null
 post_id: "16397"
 title: ""
-url: /dingen/2021/01/16397/
+aliases:
+  - /dingen/2021/01/16397/
 
 ---
 When I still did photography, I read everything I could find about how cameras work and this is the mental model I built up back then.

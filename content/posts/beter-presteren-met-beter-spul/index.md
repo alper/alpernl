@@ -10,7 +10,8 @@ tags:
   - gadget
   - sport
 title: Beter presteren met beter spul
-url: /dingen/2007/06/beter-presteren-met-beter-spul/
+aliases:
+  - /dingen/2007/06/beter-presteren-met-beter-spul/
 
 ---
 Sporten met dit weer is een flinke uitdaging maar gisteren was het echt niet meer te harden. Ik zweet normaal al redelijk veel, maar bij hogere temperaturen nog meer en als de lucht zo vochtig is kan het ook niet snel verdampen.

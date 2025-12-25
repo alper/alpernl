@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=653
 parent_post_id: null
 post_id: "653"
 title: Parlement Transparant
-url: /dingen/2008/12/parlement-transparant/
+aliases:
+  - /dingen/2008/12/parlement-transparant/
 
 ---
 Ik ben op dit moment wat aan het werk in het domein van de open overheid. Er zijn in dit veld een heleboel initiatieven en partijen betrokken in verschillende stadia van vordering. Één overheidsinstantie die belachelijk achterloopt is ons [parlement](http://www.tweedekamer.nl/). Het is op dit moment bijna ondoenlijk om te achterhalen wie er bij een stemming aanwezig waren en wie wat gestemd hebben.

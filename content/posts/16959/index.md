@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16959
 parent_post_id: null
 post_id: "16959"
 title: ""
-url: /dingen/2023/01/16959/
+aliases:
+  - /dingen/2023/01/16959/
 
 ---
 An article by Victor Rentea that offers a mature and pragmatic perspective on clean architectures where developers too often tend to over-abstract.

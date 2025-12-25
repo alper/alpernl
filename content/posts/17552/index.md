@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17552
 parent_post_id: null
 post_id: "17552"
 title: ""
-url: /dingen/2024/07/17552/
+aliases:
+  - /dingen/2024/07/17552/
 
 ---
 I remember when I got banned from the forum of one of Germany's larger liberal podcasts for saying that Bitcoin is mostly something by and for criminals. I think that statement was pretty much entirely correct.

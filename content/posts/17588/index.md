@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17588
 parent_post_id: null
 post_id: "17588"
 title: ""
-url: /dingen/2024/08/17588/
+aliases:
+  - /dingen/2024/08/17588/
 
 ---
 A quick look to what's awaiting Germany-which has bet heavily on hydrogen cars-several decades in the future. California has a hydrogen highway which looks like it is on its way out.

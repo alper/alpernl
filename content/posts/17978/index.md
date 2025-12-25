@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17978
 parent_post_id: null
 post_id: "17978"
 title: ""
-url: /dingen/2025/01/17978/
+aliases:
+  - /dingen/2025/01/17978/
 
 ---
 An roller coaster of an interview with a series of FizzBuzz extensions that are honestly not even that bad, but poor form from the interviewers' side not to recognize the absolute balling brilliance on display here.

@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=18354
 parent_post_id: null
 post_id: "18354"
 title: ""
-url: /dingen/2025/09/18354/
+aliases:
+  - /dingen/2025/09/18354/
 
 ---
 Listening to this episode on the trial of John Brown I gasped several times. It's a wild story of deep moral conviction and powerful oratory.

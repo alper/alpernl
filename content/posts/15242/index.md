@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15242
 parent_post_id: null
 post_id: "15242"
 title: ""
-url: /dingen/2019/03/15242/
+aliases:
+  - /dingen/2019/03/15242/
 
 ---
 Everybody can thank Facebook for the techlash that is happening now. Elizabeth Warren: “I’m sick of freeloading billionaires.”

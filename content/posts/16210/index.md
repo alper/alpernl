@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16210
 parent_post_id: null
 post_id: "16210"
 title: ""
-url: /dingen/2020/08/16210/
+aliases:
+  - /dingen/2020/08/16210/
 
 ---
 I thought this was a great interview with Kim Stanley Robinson but it turns out the Corona virus has not rewritten our imaginations enough, not enough at all.

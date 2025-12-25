@@ -7,7 +7,8 @@ post_id: "224"
 tags:
   - huis
 title: Schilderwerk
-url: /dingen/2008/01/schilderwerk/
+aliases:
+  - /dingen/2008/01/schilderwerk/
 
 ---
 Één van de laatste dingen die écht nog moest gebeuren was het schilderen van de slaapkamervloer. En omdat dat me zo leuk leek heb ik het heel erg lang uitgesteld ((Het beste voor het laatste bewaren, zeg maar.)).

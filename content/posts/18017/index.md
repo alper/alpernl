@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18017
 parent_post_id: null
 post_id: "18017"
 title: ""
-url: /dingen/2025/02/18017/
+aliases:
+  - /dingen/2025/02/18017/
 
 ---
 I don't think there's been a Python developer tool that's been adopted as quickly as uv is being right now. Dealing with dependencies and running Python code has never been easier.

@@ -9,7 +9,8 @@ tags:
   - openbaar-vervoer
   - overheid
 title: Bijeenkomst SenterNovem Mobiliteitsmanagement
-url: /dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/
+aliases:
+  - /dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/
 
 ---
 Voor wie het nog niet weet, ik ben bezig met een initiatief rondom mobiliteit, internet en sociale netwerken. Met het oog daarop volg ik het nieuws en de verschillende overheidsprogramma's hierover in Nederland.

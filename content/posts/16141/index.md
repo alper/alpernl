@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16141
 parent_post_id: null
 post_id: "16141"
 title: ""
-url: /dingen/2020/07/16141/
+aliases:
+  - /dingen/2020/07/16141/
 
 ---
 I can't say I've read a lot of Beyond the Beyond nor been much of a happy Wired consumer in any case, but it's passing still marks the end of an era. I remember Bruce Sterling's closing speeches at SxSWi as one of the highlights of the conference (me being  too late an arrival to attend his house parties).

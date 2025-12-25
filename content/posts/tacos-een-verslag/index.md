@@ -8,7 +8,8 @@ tags:
   - fotografie
   - koken
 title: Tacos, een verslag
-url: /dingen/2007/06/tacos-een-verslag/
+aliases:
+  - /dingen/2007/06/tacos-een-verslag/
 
 ---
 Hier nog even de foto's van [de tacos van laatst](/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/). Het was erg lekker maar het kan nog verbeterd. Foto's maken terwijl je aan het koken bent is niet handig.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5839
 parent_post_id: null
 post_id: "5839"
 title: Highlights from the God of Small Things
-url: /dingen/2017/09/highlights-from-the-god-of-small-things/
+aliases:
+  - /dingen/2017/09/highlights-from-the-god-of-small-things/
 
 ---
 > "Inspector Thomas Mathew seemed to know whom he could pick on and whom he couldn’t. Policemen have that instinct."

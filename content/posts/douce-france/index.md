@@ -15,7 +15,8 @@ tags:
   - video
   - violence
 title: Douce France
-url: /dingen/2008/05/douce-france/
+aliases:
+  - /dingen/2008/05/douce-france/
 
 ---
 [Justice - Stress](http://www.vimeo.com/962735?pg=embed&sec=962735) from [Sébastien Delahaye](http://www.vimeo.com/netsabes?pg=embed&sec=962735) on [Vimeo](http://vimeo.com?pg=embed&sec=962735).

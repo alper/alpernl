@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15722
 parent_post_id: null
 post_id: "15722"
 title: ""
-url: /dingen/2019/09/15722/
+aliases:
+  - /dingen/2019/09/15722/
 
 ---
 The men issue of Contrapoints is mostly correct as always.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17315
 parent_post_id: null
 post_id: "17315"
 title: ""
-url: /dingen/2023/11/17315/
+aliases:
+  - /dingen/2023/11/17315/
 
 ---
 [John Ganz on nationalism and reducing humans to insects](https://www.unpopularfront.news/p/the-trap).

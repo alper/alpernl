@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15406
 parent_post_id: null
 post_id: "15406"
 title: ""
-url: /dingen/2019/05/15406/
+aliases:
+  - /dingen/2019/05/15406/
 
 ---
 It's exciting to see the Emirates government put design front and center. Unfortunately though in a closed context such as that, it is more than likely that design will be instrumentalized and deployed only for material gain.

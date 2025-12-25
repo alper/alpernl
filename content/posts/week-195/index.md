@@ -13,7 +13,8 @@ post_id: "2334"
 tags:
   - weeknotes
 title: Week 195
-url: /dingen/2010/12/week-195/
+aliases:
+  - /dingen/2010/12/week-195/
 
 ---
 A somewhat more downpaced week with a bit of a cold in the middle, but:

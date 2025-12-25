@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1112
 parent_post_id: null
 post_id: "1112"
 title: Nationale Databank Wegverkeersgegevens
-url: /dingen/2009/07/nationaal-databank-wegverkeersgegevens/
+aliases:
+  - /dingen/2009/07/nationaal-databank-wegverkeersgegevens/
 
 ---
 Via [Gerard](http://gvenkdaily.nl) het nieuws over het [NDW dat geopend is door Minister Eurlings](http://tweakers.net/nieuws/61095/nationale-databank-wegverkeersgegevens-moet-fileleed-verminderen.html). Het eerste resultaat is een warrige site: [Nationaaldatawarehouse.nl](http://www.nationaaldatawarehouse.nl/).

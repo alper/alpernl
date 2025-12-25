@@ -15,7 +15,8 @@ post_id: "2047"
 tags:
   - weeknotes
 title: Week 179
-url: /dingen/2010/08/week-179/
+aliases:
+  - /dingen/2010/08/week-179/
 
 ---
 Last week was a quiet one.

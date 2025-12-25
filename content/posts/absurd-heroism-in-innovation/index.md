@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1475
 parent_post_id: null
 post_id: "1475"
 title: Absurd heroism in innovation
-url: /dingen/2010/01/absurd-heroism-in-innovation/
+aliases:
+  - /dingen/2010/01/absurd-heroism-in-innovation/
 
 ---
 Sjors Timmer writes [a nice piece about the futility of innovation](http://svirsk.org/2010/01/on-horses-technology-and-the-monster-of-innovation/) and the inevitability of failure.

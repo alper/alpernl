@@ -9,7 +9,8 @@ tags:
   - fotografie
   - kunst
 title: Kunst van vandaag
-url: /dingen/2007/09/kunst-van-vandaag/
+aliases:
+  - /dingen/2007/09/kunst-van-vandaag/
 
 ---
 Ik ben gaar aan het einde van dit gestoorde weekend. Hier nog even een foto van Todaysart. Een festival wat er erg leuk was voor zover ik kon zien en waar ik graag meer van had willen zien.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5465
 parent_post_id: null
 post_id: "5465"
 title: New beginnings
-url: /dingen/2016/01/new-beginnings/
+aliases:
+  - /dingen/2016/01/new-beginnings/
 
 ---
 At the end of 2015 personal and professional changes made it clear to us that we would [not continue Hubbub in its current form](http://whatsthehubbub.nl/blog/2016/01/engaging-sleep-mode/). That realization made me reorient myself in Berlin and refocus on my core skills as an engineer.

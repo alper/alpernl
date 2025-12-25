@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3509
 parent_post_id: null
 post_id: "3509"
 title: Designing in the Face of Defeat
-url: /dingen/2012/04/designing-in-the-face-of-defeat/
+aliases:
+  - /dingen/2012/04/designing-in-the-face-of-defeat/
 
 ---
 Jan Chipchase's [‘Red Mat’ design experiment](http://janchipchase.com/content/essays/red-mat/) is brilliant by itself, but is goes much further than being just a design experiment.

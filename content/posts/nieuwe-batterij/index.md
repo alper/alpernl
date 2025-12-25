@@ -11,7 +11,8 @@ tags:
   - klantenervaring
   - macbook
 title: Nieuwe batterij
-url: /dingen/2007/05/nieuwe-batterij/
+aliases:
+  - /dingen/2007/05/nieuwe-batterij/
 
 ---
 Vandaag terug uit Amsterdam langs Den Haag geweest om mijn nieuwe batterij op te halen die klaar lag bij [LJS](http://www.ljs.nl). Een week later dan beloofd, maar weinig stress.

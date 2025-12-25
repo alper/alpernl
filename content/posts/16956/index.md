@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16956
 parent_post_id: null
 post_id: "16956"
 title: ""
-url: /dingen/2023/01/16956/
+aliases:
+  - /dingen/2023/01/16956/
 
 ---
 A great and opinionated list of what healthy teams do by HÃ  Phan:

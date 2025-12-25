@@ -8,7 +8,8 @@ tags:
   - politiek
   - televisie
 title: Buitenhof is weer begonnen
-url: /dingen/2007/12/buitenhof-is-weer-begonnen/
+aliases:
+  - /dingen/2007/12/buitenhof-is-weer-begonnen/
 
 ---
 Door het drukke leven en het niet hebben van een televisie heb ik gemist dat [Buitenhof](http://www.buitenhoftv.nl) weer begonnen is. Doordat je geen televisie hebt mis je gezamenlijke events zoals (live) uitzendingen en is het makkelijk om dingen te vergeten.

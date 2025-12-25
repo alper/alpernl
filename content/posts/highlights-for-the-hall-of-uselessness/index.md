@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=6063
 parent_post_id: null
 post_id: "6063"
 title: Highlights for The Hall of Uselessness
-url: /dingen/2018/10/highlights-for-the-hall-of-uselessness/
+aliases:
+  - /dingen/2018/10/highlights-for-the-hall-of-uselessness/
 
 ---
 > One has the feeling that these critics do not really like literature—they do not enjoy reading. Worse even, if they were actually to enjoy a book, they would suspect it to be frivolous. In their eyes, something that is amusing cannot be important or serious.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17562
 parent_post_id: null
 post_id: "17562"
 title: ""
-url: /dingen/2024/07/17562/
+aliases:
+  - /dingen/2024/07/17562/
 
 ---
 The people in the Silicon Valley Trump cult, here represented by Balaji Srinivasan and all the people around a16z, are depraved and dangerous.

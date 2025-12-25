@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16145
 parent_post_id: null
 post_id: "16145"
 title: ""
-url: /dingen/2020/07/16145/
+aliases:
+  - /dingen/2020/07/16145/
 
 ---
 Some friends of ours have started a coworking space in Berlin hat includes childcare. The space looks great and I think that flexible solutions like this could alleviate a lot of the burden on parents right now.

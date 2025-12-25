@@ -17,7 +17,8 @@ tags:
   - uncategorized
   - vat
 title: Value Added
-url: /dingen/2008/06/value-added/
+aliases:
+  - /dingen/2008/06/value-added/
 
 ---
 The Dutch government is thinking of increasing the VAT from its current 19% to 20% at the end of this year ( [source](http://frontpage.fok.nl/nieuws/94214)). That may seem like a lot, but for instance in Denmark I believe it stands at 25% and Denmark is a pretty nice country.

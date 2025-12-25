@@ -12,7 +12,8 @@ tags:
   - werken
   - zelfstandig
 title: Wageningen met de Mexicaan
-url: /dingen/2008/03/wageningen-met-de-mexicaan/
+aliases:
+  - /dingen/2008/03/wageningen-met-de-mexicaan/
 
 ---
 Donderdag de hele dag op pad geweest met ‘The Mexican’, [Reinier](http://reinier.zwitserloot.com)'s Mexicaans-Amerikaanse Volkswagen Golf automaat. Ik rij geen auto, maar de skills moeten onderhouden en een _road trip_ op zijn tijd is natuurlijk altijd vet.

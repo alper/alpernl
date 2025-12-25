@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17022
 parent_post_id: null
 post_id: "17022"
 title: ""
-url: /dingen/2023/02/17022/
+aliases:
+  - /dingen/2023/02/17022/
 
 ---
 > "If you put this in relation to total population it implies that in a single generation, China has built enough homes to house a billion people."

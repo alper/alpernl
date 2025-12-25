@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16592
 parent_post_id: null
 post_id: "16592"
 title: ""
-url: /dingen/2021/10/16592/
+aliases:
+  - /dingen/2021/10/16592/
 
 ---
 I'm not a huge fan of the financial metaphor for tech debt but this pries apart the core of the problem well from an optionality lens (or as you could also say "rich moves").

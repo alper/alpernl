@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2967
 parent_post_id: null
 post_id: "2967"
 title: Do your bit!
-url: /dingen/2011/10/do-your-bit/
+aliases:
+  - /dingen/2011/10/do-your-bit/
 
 ---
 Mensen die mij kennen weten dat ik nooit echt dingen retweet en me bezig hou met goede doelen. Alleen één keer per jaar maak ik een uitzondering voor [Bits of Freedom](https://www.bof.nl/2011/10/06/doyourbit-here-we-go-wie-zijn-toch-die-angry-bits/) omdat ik wat ze doen echt heel belangrijk vind en omdat ik weet dat ze het heel goed doen.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/2023/04/17165/
 parent_post_id: null
 post_id: "17165"
 title: ""
-url: /dingen/2023/04/17165/
+aliases:
+  - /dingen/2023/04/17165/
 
 ---
 Cucumber saudis. Nice.

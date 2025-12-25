@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15264
 parent_post_id: null
 post_id: "15264"
 title: ""
-url: /dingen/2019/03/15264/
+aliases:
+  - /dingen/2019/03/15264/
 
 ---
 Bernard-Henri Lévy gets rekt by Isaac Chotiner who has got all of his receipts.

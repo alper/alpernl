@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=16401
 parent_post_id: null
 post_id: "16401"
 title: ""
-url: /dingen/2021/01/16401/
+aliases:
+  - /dingen/2021/01/16401/
 
 ---
 Een mooi en erg herkenbaar kerstverhaal van Rasit Elibol.

@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=15235
 parent_post_id: null
 post_id: "15235"
 title: ""
-url: /dingen/2019/03/15235/
+aliases:
+  - /dingen/2019/03/15235/
 
 ---
 In this comprehensive list of matureness in engineers, John Allspaw elaborates on many of the non-technical skills that constitute seniority.  

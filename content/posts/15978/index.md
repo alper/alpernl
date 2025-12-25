@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15978
 parent_post_id: null
 post_id: "15978"
 title: ""
-url: /dingen/2020/02/15978/
+aliases:
+  - /dingen/2020/02/15978/
 
 ---
 A long treatment of how to scale work as organizations grow with some helpful guidelines: “Keep the work parallel, the groups small, and the resources local.”

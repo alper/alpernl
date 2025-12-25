@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17823
 parent_post_id: null
 post_id: "17823"
 title: ""
-url: /dingen/2024/12/17823/
+aliases:
+  - /dingen/2024/12/17823/
 
 ---
 The Digital Patient Record system in Germany is built on smart cards and hardware which make it impossible to update and keep secure.

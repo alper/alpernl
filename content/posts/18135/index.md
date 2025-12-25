@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18135
 parent_post_id: null
 post_id: "18135"
 title: ""
-url: /dingen/2025/02/18135/
+aliases:
+  - /dingen/2025/02/18135/
 
 ---
 Our work in software engineering consists mostly of learning and for me and my team a fair part of that is teaching. Both of these are immensely difficult and rewarding components of the job.

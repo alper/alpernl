@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2551
 parent_post_id: null
 post_id: "2551"
 title: Downloadverbod op Radio 1
-url: /dingen/2011/04/downloadverbod-op-radio-1/
+aliases:
+  - /dingen/2011/04/downloadverbod-op-radio-1/
 
 ---
 **Update:** [Het staat al online!](http://www.radio1.nl/contents/28849)

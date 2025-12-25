@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17492
 parent_post_id: null
 post_id: "17492"
 title: ""
-url: /dingen/2024/03/17492/
+aliases:
+  - /dingen/2024/03/17492/
 
 ---
 I found a new German podcast crush in Hart Unfair which is my favorite format: three people (Anna Dushime, Yelda Türkmen and Ari Christmann) rambling through one another but in a way that's funny, intelligent and diverse. It's a shame that they publish so irregularly that I can't tell if the podcast is dead or not.

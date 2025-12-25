@@ -20,7 +20,8 @@ guid: https://alper.nl/dingen/?p=17481
 parent_post_id: null
 post_id: "17481"
 title: ""
-url: /dingen/2024/03/17481/
+aliases:
+  - /dingen/2024/03/17481/
 
 ---
 The comments online around the Apple Vision Pro have been pretty deranged in a stupid kind of way. Lots of people jumped to the foregone conclusion that Apple released a failure or that it "wasn't going to be a success". Most of that seemed to have been motivated by clout chasing.

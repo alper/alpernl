@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1446
 parent_post_id: null
 post_id: "1446"
 title: Opleving van de privacy
-url: /dingen/2009/12/opleving-van-de-privacy/
+aliases:
+  - /dingen/2009/12/opleving-van-de-privacy/
 
 ---
 Een bijzonder sterk artikel een tijdje terug op Binnenlands Bestuur dat eigenlijk een soort voorbode was van deze opleving van de privacy: [“Iedereen verdacht”door Martijn Delaere](http://www.binnenlandsbestuur.nl/achtergrond/2009/10/iedereen-verdacht.131780.lynkx) ( [via](http://sargasso.nl/archief/2009/10/04/weekendquote-aanslagen-privacy-moslims-en-rookgordijnen/)).

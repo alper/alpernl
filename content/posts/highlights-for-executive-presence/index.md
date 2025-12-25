@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16827
 parent_post_id: null
 post_id: "16827"
 title: Highlights for Executive Presence
-url: /dingen/2022/07/highlights-for-executive-presence/
+aliases:
+  - /dingen/2022/07/highlights-for-executive-presence/
 
 ---
 > But in the finals what distinguished one from another was all of the nonmusic stuff. The way they walked onto the stage, the cut of their clothes, the set of their shoulders, the spark in their eyes, and the emotion that played on their faces. All of these things established a mood either of tedium and awkwardness or of excited anticipation.

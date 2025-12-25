@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18233
 parent_post_id: null
 post_id: "18233"
 title: ""
-url: /dingen/2025/05/18233/
+aliases:
+  - /dingen/2025/05/18233/
 
 ---
 Using the same Github account for work that you also use to do anything and everything else with is not particularly secure. That's why I split my presence on the platform, but getting everything to work that way has been somewhat annoying.

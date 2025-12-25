@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17862
 parent_post_id: null
 post_id: "17862"
 title: ""
-url: /dingen/2025/01/17862/
+aliases:
+  - /dingen/2025/01/17862/
 
 ---
 There was a brief period where Foursquare based recommendations were good and drawn from your wider social graph. Now we've gone back to Yelp and Google Maps where reviews and ratings don't mean anything. A lower than 4 star review on GMaps has netted me a cease-and-desist e-mail for defamation.

@@ -9,7 +9,8 @@ post_id: "248"
 tags:
   - fotografie
 title: Nieuwe truien
-url: /dingen/2008/02/nieuwe-truien/
+aliases:
+  - /dingen/2008/02/nieuwe-truien/
 
 ---
 We hebben nieuwe truien bij Liberdade ((Met apelido ingeborduurd!)) en dat was een goed excuus voor een shoot vanavond. Hier de stroom, morgen de selectie online:

@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/tags/surfen/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geronimo!</title>
-      <link>http://localhost:1313/dingen/2007/07/geronimo/</link>
+      <link>http://localhost:1313/blog/geronimo/</link>
       <pubDate>Sun, 22 Jul 2007 19:56:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/geronimo/</guid> 
       <description>&lt;p&gt;Altijd leuk om vrienden de dood te zien tarten.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>Surf&#39;s up!</title>
-      <link>http://localhost:1313/dingen/2007/05/surfs-up/</link>
+      <link>http://localhost:1313/blog/surfs-up/</link>
       <pubDate>Tue, 29 May 2007 01:37:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/surfs-up/</guid> 
       <description>&lt;p&gt;Na het weekend van capoeira vandaag een beetje uitgebrakt in de golven. Guur weer maar prima surfen op Scheveningen.&lt;/p&gt;

@@ -11,7 +11,8 @@ tags:
   - politiek
   - religie
 title: De skeptische wereldverbeteraar
-url: /dingen/2007/10/de-skeptische-wereldverbeteraar/
+aliases:
+  - /dingen/2007/10/de-skeptische-wereldverbeteraar/
 
 ---
 Volgens mij zitten er aardig wat [TED](http://www.ted.com)-kijkers onder mijn lezers hier. In de zoektocht om alle presentaties gezien te hebben, raad ik aan om [de presentatie van Bjorn Lomborg](http://www.ted.com/index.php/talks/view/id/62) naar voren te schuiven in de rij van te kjiken afleveringen.

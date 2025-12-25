@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17836
 parent_post_id: null
 post_id: "17836"
 title: ""
-url: /dingen/2025/01/17836/
+aliases:
+  - /dingen/2025/01/17836/
 
 ---
 The MSF year in pictures is an unsparing overview of the circumstances that the rest of the world has to live in. Grim.

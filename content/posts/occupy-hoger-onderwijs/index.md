@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3127
 parent_post_id: null
 post_id: "3127"
 title: Occupy hoger onderwijs
-url: /dingen/2011/12/occupy-hoger-onderwijs/
+aliases:
+  - /dingen/2011/12/occupy-hoger-onderwijs/
 
 ---
 Kevin Slavin [klaagt op onnavolgbare wijze](http://slavin.tumblr.com/post/13839198154/let-me-be-clear-i-am-not-trying-to-pay-back-the) het bestuur van zijn universiteit de [Cooper Union](http://cooper.edu/) aan waar hij tegenwoordig ook les geeft.

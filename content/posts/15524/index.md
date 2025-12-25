@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15524
 parent_post_id: null
 post_id: "15524"
 title: ""
-url: /dingen/2019/06/15524/
+aliases:
+  - /dingen/2019/06/15524/
 
 ---
 There is another dirty secret behind the German switch to alcohol-free beers: German beers just aren't that good. I prefer any major foreign beer (Heineken, Carlsberg, 1664, etc.) over most beers you can buy here.

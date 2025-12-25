@@ -14,7 +14,8 @@ post_id: "2418"
 tags:
   - weeknotes
 title: Week 204
-url: /dingen/2011/02/week-204/
+aliases:
+  - /dingen/2011/02/week-204/
 
 ---
 Drive by-ing these notes twothree four days late. Yeah, these are those kind of weeks.

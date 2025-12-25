@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1267
 parent_post_id: null
 post_id: "1267"
 title: The Long View of Media
-url: /dingen/2009/09/the-long-view-of-media/
+aliases:
+  - /dingen/2009/09/the-long-view-of-media/
 
 ---
 Listening to a conversation between [Jon Taplin](http://jontaplin.com/2009/09/24/the-art-of-the-long-view/) and Peter Chermin and Gordon Crawford. Crawford lashes out at newspapers (index 33:40):

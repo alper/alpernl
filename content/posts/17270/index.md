@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17270
 parent_post_id: null
 post_id: "17270"
 title: ""
-url: /dingen/2023/08/17270/
+aliases:
+  - /dingen/2023/08/17270/
 
 ---
 "ChatGPT is fast-tracking the commodification of the human spirit by mechanising the imagination."

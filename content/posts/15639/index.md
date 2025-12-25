@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15639
 parent_post_id: null
 post_id: "15639"
 title: ""
-url: /dingen/2019/08/15639/
+aliases:
+  - /dingen/2019/08/15639/
 
 ---
 Not enough popcorn in the world to read this exposé on Booking.com.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2263
 parent_post_id: null
 post_id: "2263"
 title: De stad is er voor iedereen
-url: /dingen/2010/11/de-stad-is-er-voor-iedereen/
+aliases:
+  - /dingen/2010/11/de-stad-is-er-voor-iedereen/
 
 ---
 Mensen die me kennen weten dat ik er nogal heftige meningen over de stad op na houdt. Veel is goed, maar veel kan ook beter en ik zou die verbeteringen graag zien en eraan bijdragen.

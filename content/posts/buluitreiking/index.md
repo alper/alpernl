@@ -10,7 +10,8 @@ tags:
   - leven
   - tu-delft
 title: Buluitreiking
-url: /dingen/2007/09/buluitreiking/
+aliases:
+  - /dingen/2007/09/buluitreiking/
 
 ---
 Gisteren had ik mijn buluitreiking. Geen spannende event, wel mooi voor de familie. Ik dus tot een uur of drie gewerkt, toen snel mijn pak aangetrokken.

@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18145
 parent_post_id: null
 post_id: "18145"
 title: ""
-url: /dingen/2025/03/18145/
+aliases:
+  - /dingen/2025/03/18145/
 
 ---
 "The only good laws are the laws that make \*me\* more money."

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15441
 parent_post_id: null
 post_id: "15441"
 title: Highlights for Interpreter of Maladies
-url: /dingen/2019/05/highlights-for-interpreter-of-maladies/
+aliases:
+  - /dingen/2019/05/highlights-for-interpreter-of-maladies/
 
 ---
 > In her estimation, I knew, I was assured a safe life, an easy life, a fine education, every opportunity. I would never have to eat rationed food, or obey curfews, or watch riots from my rooftop, or hide neighbors in water tanks to prevent them from being shot, as she and my father had.

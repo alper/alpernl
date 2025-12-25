@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17923
 parent_post_id: null
 post_id: "17923"
 title: ""
-url: /dingen/2025/01/17923/
+aliases:
+  - /dingen/2025/01/17923/
 
 ---
 Brazil still remembers that it's a state with state power and has found a delightful habit of pouncing on social media sites. Other states should follow suit.

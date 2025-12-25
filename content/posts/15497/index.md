@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15497
 parent_post_id: null
 post_id: "15497"
 title: ""
-url: /dingen/2019/06/15497/
+aliases:
+  - /dingen/2019/06/15497/
 
 ---
 About password managers:  

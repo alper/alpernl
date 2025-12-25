@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18172
 parent_post_id: null
 post_id: "18172"
 title: ""
-url: /dingen/2025/03/18172/
+aliases:
+  - /dingen/2025/03/18172/
 
 ---
 Wasn't it the CEO of META going around telling everybody that free speech was the most important thing at the moment?

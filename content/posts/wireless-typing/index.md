@@ -11,7 +11,8 @@ post_id: "324"
 tags:
   - uncategorized
 title: Wireless typing
-url: /dingen/2008/07/wireless-typing/
+aliases:
+  - /dingen/2008/07/wireless-typing/
 
 ---
 A [lot of raves](http://www.kottke.org/08/07/rave-for-apples-keyboard) for the new line of Apple Keyboards also from me. [Cris](http://cristianobetta.com/) has been so kind to import one for me from London ((Something to do with Apple Store discounts.)).

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18458
 parent_post_id: null
 post_id: "18458"
 title: ""
-url: /dingen/2025/11/18458/
+aliases:
+  - /dingen/2025/11/18458/
 
 ---
 Love to see this being in 2025 and Germany still hasn't figured out how to get an adequate amount of bandwidth to everybody in the country. Maybe they'll never figure it out.

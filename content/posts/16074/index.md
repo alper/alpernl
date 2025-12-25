@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16074
 parent_post_id: null
 post_id: "16074"
 title: ""
-url: /dingen/2020/05/16074/
+aliases:
+  - /dingen/2020/05/16074/
 
 ---
 People think they don't have the time to write so they'll have a meeting instead which is probably the worst thing they could do, but it's easy.

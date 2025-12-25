@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2611
 parent_post_id: null
 post_id: "2611"
 title: Why write about games?
-url: /dingen/2011/05/why-write-about-games/
+aliases:
+  - /dingen/2011/05/why-write-about-games/
 
 ---
 Some of my own misgivings about whether to write about games and related phenomena or not are reflected in [the critique of game criticism](http://www.lostgarden.com/2011/05/blunt-critique-of-game-criticism.html) at Lost Garden.

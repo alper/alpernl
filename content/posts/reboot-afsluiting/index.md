@@ -9,7 +9,8 @@ tags:
   - evenement
   - fotografie
 title: Reboot afsluiting
-url: /dingen/2007/06/reboot-afsluiting/
+aliases:
+  - /dingen/2007/06/reboot-afsluiting/
 
 ---
 [![The laptop row](http://farm1.static.flickr.com/226/524065073_7c8e260907.jpg)](http://www.flickr.com/photos/alper/524065073/ "Photo Sharing")

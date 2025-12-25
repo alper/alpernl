@@ -13,7 +13,8 @@ post_id: "322"
 tags:
   - uncategorized
 title: Normal service
-url: /dingen/2008/07/normal-service/
+aliases:
+  - /dingen/2008/07/normal-service/
 
 ---
 Back from holiday, the surf was mostly flat but a good time was had, judging from the [pictures on Flickr](http://www.flickr.com/photos/alper/) ((Still sorting through the bunch from Apremont and Nantes.)).

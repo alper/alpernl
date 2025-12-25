@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15408
 parent_post_id: null
 post_id: "15408"
 title: ""
-url: /dingen/2019/05/15408/
+aliases:
+  - /dingen/2019/05/15408/
 
 ---
 This article about forecasting dovetails nicely with the book about measuring risk that I just read. It makes the case for foxlike thinking, something of which I don't need to be persuaded.

@@ -14,7 +14,8 @@ post_id: "2816"
 tags:
   - weeknotes
 title: Week 232 - extended
-url: /dingen/2011/09/week-232-extended/
+aliases:
+  - /dingen/2011/09/week-232-extended/
 
 ---
 A new experiment, extended weeknotes combined with assorted reading and outtakes. I think this may be more fun for me to write and more fun for you to read.

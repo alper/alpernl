@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=3857
 parent_post_id: null
 post_id: "3857"
 title: dConstruct on the future, progress and play
-url: /dingen/2012/09/dconstruct-on-the-future-progress-and-play/
+aliases:
+  - /dingen/2012/09/dconstruct-on-the-future-progress-and-play/
 
 ---
 I didn't make it out to [dConstruct](http://2012.dconstruct.org/) which I'm a bit torn about. I've been to the conference some three times and htis year other priorities trumped it and going to conferences in general. But the program this year was even more stellar than regular years. Seeing either [Ben Hammersley](https://www.benhammersley.com/), [Tom Armitage](http://infovore.org/) or [James Burke](http://en.wikipedia.org/wiki/James_Burke_(science_historian)) (!) present would be worth the ticket price alone without exaggerating a lot.

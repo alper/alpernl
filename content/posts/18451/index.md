@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18451
 parent_post_id: null
 post_id: "18451"
 title: ""
-url: /dingen/2025/11/18451/
+aliases:
+  - /dingen/2025/11/18451/
 
 ---
 This spring when I was in London, I stayed there with Sonder and even when they were still in business the entire process was somewhat sketchy.

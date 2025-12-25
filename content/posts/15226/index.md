@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15226
 parent_post_id: null
 post_id: "15226"
 title: ""
-url: /dingen/2019/03/15226/
+aliases:
+  - /dingen/2019/03/15226/
 
 ---
 The origin story of Notion is pretty wild but all of the recipes in it for deep collaboration and radical iteration make a lot of sense. When I briefly tried out Notion, I was struck very much by how tight both its vision and its execution were.  

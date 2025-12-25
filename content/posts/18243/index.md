@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18243
 parent_post_id: null
 post_id: "18243"
 title: ""
-url: /dingen/2025/06/18243/
+aliases:
+  - /dingen/2025/06/18243/
 
 ---
 It's relevant to my interests to read how others have massively scaled the systems we use. Discord has a solid write-up here of how to deal with Elastic Search.

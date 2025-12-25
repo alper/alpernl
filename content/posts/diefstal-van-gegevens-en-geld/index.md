@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2488
 parent_post_id: null
 post_id: "2488"
 title: Diefstal van gegevens en geld
-url: /dingen/2011/03/diefstal-van-gegevens-en-geld/
+aliases:
+  - /dingen/2011/03/diefstal-van-gegevens-en-geld/
 
 ---
 Door het falen van de ov-chipkaartterminals van het [GVB](http://www.gvb.nl) ben ik iets vaker dan me lief is €4 kwijtgeraakt. Nu heb ik geen flauw idee hoe vaak dat gebeurd is of wanneer en dat kan ik ook niet opvragen op de [ov-chipkaart.nl](http://www.ov-chipkaart.nl/) site.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1178
 parent_post_id: null
 post_id: "1178"
 title: '[the City] has incredible resources of data and information'
-url: /dingen/2009/08/the-city-has-incredible-resources-of-data-and-information/
+aliases:
+  - /dingen/2009/08/the-city-has-incredible-resources-of-data-and-information/
 
 ---
 Recently [DataSF](http://datasf.org/) launched and I'm not very familiar with the concept, but it looks like a step in the right direction for city based data initiatives more or less in line with the [“Cities That Think Like the Web”](http://thinkliketheweb.org/) initiative. I still think the holy grail of reusability for government websites is a bit off and can only be combined with excellent websites and web literacy, but we are making progress.

@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16679
 parent_post_id: null
 post_id: "16679"
 title: ""
-url: /dingen/2021/12/16679/
+aliases:
+  - /dingen/2021/12/16679/
 
 ---
 We've worked remotely like this ten years ago with Hubbub and had to come up with a lot of these tactics and tricks just to be able to get work done. In the meantime, it seems the tools have come a long way (imagine the things we could have done if we had a tool like this back then!) but people's thinking is still stuck in the past.

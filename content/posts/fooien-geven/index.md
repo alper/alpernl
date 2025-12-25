@@ -10,7 +10,8 @@ tags:
   - internet
   - ondernemen
 title: Fooien geven
-url: /dingen/2008/02/fooien-geven/
+aliases:
+  - /dingen/2008/02/fooien-geven/
 
 ---
 Er staat nu een knop hiernaast wat een klein [projectje van ons](https://tipit.to) was. Dus klik erop en geef gul als je dit een leuke site vindt.

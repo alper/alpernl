@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16718
 parent_post_id: null
 post_id: "16718"
 title: ""
-url: /dingen/2022/03/16718/
+aliases:
+  - /dingen/2022/03/16718/
 
 ---
 I was on a Dutch podcast about working in Germany: FSG podcast over de Duitse digitale achterstand with Derk Marseille and Ruurd van der Weide.

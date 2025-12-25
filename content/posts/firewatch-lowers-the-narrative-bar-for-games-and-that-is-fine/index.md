@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5481
 parent_post_id: null
 post_id: "5481"
 title: Firewatch lowers the narrative bar for games and that is fine
-url: /dingen/2016/02/firewatch-lowers-the-narrative-bar-for-games-and-that-is-fine/
+aliases:
+  - /dingen/2016/02/firewatch-lowers-the-narrative-bar-for-games-and-that-is-fine/
 
 ---
 I was really anticipating [Firewatch](http://www.firewatchgame.com/) and I was sorely disappointed as was of course bound to happen.

@@ -7,7 +7,8 @@ post_id: "117"
 tags:
   - zomerreis-2007
 title: Gebrek aan inhoud
-url: /dingen/2007/08/gebrek-aan-inhoud/
+aliases:
+  - /dingen/2007/08/gebrek-aan-inhoud/
 
 ---
 Sorry voor de weinige berichten alhier maar de tijd en verbinding om te schrijven houden hier in Syrië niet over. Bijna iedereen hier zit op dial-up dus foto's zitten er al helemaal niet in. Wat ik er nu over kan zeggen is dat het een mooi en apart land is.

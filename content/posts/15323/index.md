@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15323
 parent_post_id: null
 post_id: "15323"
 title: ""
-url: /dingen/2019/04/15323/
+aliases:
+  - /dingen/2019/04/15323/
 
 ---
 Some amazing work by Morten Just turning a phone into a 3D mouse using all the sensors that it has embedded in it. This is mindblowing and hints at all the things that are already possible using the technology we have.  

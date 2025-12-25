@@ -13,7 +13,8 @@ post_id: "4086"
 tags:
   - nrcnext
 title: 'Recensie nrc.next: The Binding of Isaac'
-url: /dingen/2013/01/recensie-nrc-next-the-binding-of-isaac/
+aliases:
+  - /dingen/2013/01/recensie-nrc-next-the-binding-of-isaac/
 
 ---
 Recensie verschenen in de [nrc.next](http://www.nrcnext.nl/) ergens in oktober 2011:

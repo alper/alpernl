@@ -8,7 +8,8 @@ tags:
   - fotografie
   - werken
 title: Een nieuw begin
-url: /dingen/2007/05/new-beginning/
+aliases:
+  - /dingen/2007/05/new-beginning/
 
 ---
 [![](http://farm1.static.flickr.com/232/483404441_098a595b0d.jpg)](http://www.flickr.com/photos/fubuki/483404441/ "photo sharing")  

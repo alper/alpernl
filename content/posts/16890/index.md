@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16890
 parent_post_id: null
 post_id: "16890"
 title: ""
-url: /dingen/2022/10/16890/
+aliases:
+  - /dingen/2022/10/16890/
 
 ---
 https://twitter.com/jesswade/status/1273874310726328322

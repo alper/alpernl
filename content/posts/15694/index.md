@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15694
 parent_post_id: null
 post_id: "15694"
 title: ""
-url: /dingen/2019/09/15694/
+aliases:
+  - /dingen/2019/09/15694/
 
 ---
 Twenty-four survival tips for women by Patricia Aas that I wholeheartedly support but wish were not necessary.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15604
 parent_post_id: null
 post_id: "15604"
 title: ""
-url: /dingen/2019/08/15604/
+aliases:
+  - /dingen/2019/08/15604/
 
 ---
 Europe will need its own cloud, but talking will not make it so.

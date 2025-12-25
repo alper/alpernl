@@ -13,7 +13,8 @@ post_id: "4085"
 tags:
   - nrcnext
 title: Recensiewerk voor de nrc.next
-url: /dingen/2012/12/recensiewerk-voor-de-nrc-next/
+aliases:
+  - /dingen/2012/12/recensiewerk-voor-de-nrc-next/
 
 ---
 Ik ben even in de e-mail archieven gedoken om mijn recensie-arbeid voor de [nrc.next](http://www.nrcnext.nl/) te verzamelen. Naast wat er al op het ter-ziele-gegane [Bashers](http://bashers.nl/) staat, zal ik de rest hier posten.

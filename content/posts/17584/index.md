@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17584
 parent_post_id: null
 post_id: "17584"
 title: ""
-url: /dingen/2024/08/17584/
+aliases:
+  - /dingen/2024/08/17584/
 
 ---
 Always nice to be able to write stuff that the team has been doing and share it with the world.

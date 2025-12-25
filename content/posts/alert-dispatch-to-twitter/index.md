@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=912
 parent_post_id: null
 post_id: "912"
 title: Alert Dispatch to Twitter
-url: /dingen/2009/04/alert-dispatch-to-twitter/
+aliases:
+  - /dingen/2009/04/alert-dispatch-to-twitter/
 
 ---
 I did a small survey with [James](http://www.lifesized.net/) of publicly available government data to see what the obvious targets would be for an interesting mashup. It's an interesting but very limited landscape.

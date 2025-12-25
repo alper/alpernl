@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1238
 parent_post_id: null
 post_id: "1238"
 title: The fine art of telco wrangling
-url: /dingen/2009/09/the-fine-art-of-telco-wrangling/
+aliases:
+  - /dingen/2009/09/the-fine-art-of-telco-wrangling/
 
 ---
 Much to my dismay I found out that with [the update to iPhone OS 3.1](http://www.apple.com/iphone/softwareupdate/) Apple had disabled [the workaround to be able to tether](http://www.benm.at/2009/06/13/helpbenmat/) using the iPhone ((Though there is hope there may be a new patch.)). Tethering was a very nice way to get online while on the go and a feature I would even be willing to pay a (small) amount of money for.

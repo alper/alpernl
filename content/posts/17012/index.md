@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17012
 parent_post_id: null
 post_id: "17012"
 title: ""
-url: /dingen/2023/02/17012/
+aliases:
+  - /dingen/2023/02/17012/
 
 ---
 Dit artikel bevestigt eigenlijk prima mijn beeld van het leven in Amsterdam waar veel mensen aan de pillen zitten.

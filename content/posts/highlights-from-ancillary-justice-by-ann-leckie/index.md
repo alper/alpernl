@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5615
 parent_post_id: null
 post_id: "5615"
 title: Highlights from Ancillary Justice by Ann Leckie
-url: /dingen/2016/09/highlights-from-ancillary-justice-by-ann-leckie/
+aliases:
+  - /dingen/2016/09/highlights-from-ancillary-justice-by-ann-leckie/
 
 ---
 > When you shoot a person, you say why and do it, without excuse. This is how the Radchaai are.

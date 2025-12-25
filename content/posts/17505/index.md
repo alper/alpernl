@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17505
 parent_post_id: null
 post_id: "17505"
 title: ""
-url: /dingen/2024/03/17505/
+aliases:
+  - /dingen/2024/03/17505/
 
 ---
 The news that an OSINT researcher spent 30 minutes to find a fugitive that the German police couldn't find in the past 30 years says a lot about how government works here.

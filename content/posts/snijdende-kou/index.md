@@ -10,7 +10,8 @@ tags:
   - huis
   - milieu
 title: Snijdende kou
-url: /dingen/2007/12/snijdende-kou/
+aliases:
+  - /dingen/2007/12/snijdende-kou/
 
 ---
 De laatste dagen is mijn huis niet warm te stoken. De verwarming loeit de hele dag op zijn hardst om het een beetje te harden te houden.

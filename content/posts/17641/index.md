@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17641
 parent_post_id: null
 post_id: "17641"
 title: ""
-url: /dingen/2024/10/17641/
+aliases:
+  - /dingen/2024/10/17641/
 
 ---
 It's become fashionable in tech circles to say that all legislation is bad. This is a dangerous and wildly ignorant way of thinking. Without legislation, many people would not survive and the very things that we depend on for a good life would not exist.

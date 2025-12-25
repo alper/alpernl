@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5993
 parent_post_id: null
 post_id: "5993"
 title: Highlights for A Contest of Ideas
-url: /dingen/2018/05/highlights-for-a-contest-of-ideas/
+aliases:
+  - /dingen/2018/05/highlights-for-a-contest-of-ideas/
 
 ---
 > One cannot chart a course of social action without understanding the world in which one lives, works, and struggles.

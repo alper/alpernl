@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=737
 parent_post_id: null
 post_id: "737"
 title: Rita kan ook niet meer doen
-url: /dingen/2009/01/rita-kan-ook-niet-meer-doen/
+aliases:
+  - /dingen/2009/01/rita-kan-ook-niet-meer-doen/
 
 ---
 Vandaag [op Twitter](http://twitter.com/alper/status/1149285629) al gezien dat Rita Verdonk goed aangepakt is door Alexander Pechtold. Kijk [het filmpje op dumpert](http://www.dumpert.nl/mediabase/376191/b9cc8123/verdonk_vorstelijk_gepwoned.html), opleggen en erin schieten.

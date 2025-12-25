@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17533
 parent_post_id: null
 post_id: "17533"
 title: ""
-url: /dingen/2024/04/17533/
+aliases:
+  - /dingen/2024/04/17533/
 
 ---
 Programmers like to moan that naming things is hard. This may be the case but naming types, functions and variables is a core part of the job.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16237
 parent_post_id: null
 post_id: "16237"
 title: ""
-url: /dingen/2020/08/16237/
+aliases:
+  - /dingen/2020/08/16237/
 
 ---
 “Ist es extrem, leben zu wollen? Ist der Wunsch extrem, deinem Kind nicht dabei zusehen zu müssen, wie es von Polizisten erschossen wird? Oder, nicht mehr jeden Cent zweimal umdrehen zu müssen? Nein. Die Ansicht, dass das extrem sei, ist extrem. Und zwar extrem menschenfeindlich.”

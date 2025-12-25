@@ -9,7 +9,8 @@ post_id: "11"
 tags:
   - evenement
 title: Digitale Borrel in Delft
-url: /dingen/2007/04/digitale-borrel-in-delft/
+aliases:
+  - /dingen/2007/04/digitale-borrel-in-delft/
 
 ---
 Ik wil binnenkort bijeenkomsten voor digitale creatieven regelen in Delft. Er zijn veel mensen die hiermee bezig zijn in Delft en veel ervan zijn onafhankelijk. Het is leuk en handig als je elkaar kent en weet wat de anderen bezig houdt.

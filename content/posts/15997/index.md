@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15997
 parent_post_id: null
 post_id: "15997"
 title: ""
-url: /dingen/2020/02/15997/
+aliases:
+  - /dingen/2020/02/15997/
 
 ---
 Ian Bogost remarks on the eery flattening of place and the retreat of people into the domestic cozy, since home can be any place you want it to be thanks to digital technology.

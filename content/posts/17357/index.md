@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17357
 parent_post_id: null
 post_id: "17357"
 title: ""
-url: /dingen/2023/12/17357/
+aliases:
+  - /dingen/2023/12/17357/
 
 ---
 The last episode of Spaßbremse treats the history of German-Israeli relations and clarifies what the strategic foundations of the current complex are: white-washing and moral standing for one side and economic reparations and industrial capacity building for the other.

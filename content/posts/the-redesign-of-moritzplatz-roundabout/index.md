@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5237
 parent_post_id: null
 post_id: "5237"
 title: The redesign of Moritzplatz roundabout
-url: /dingen/2015/08/the-redesign-of-moritzplatz-roundabout/
+aliases:
+  - /dingen/2015/08/the-redesign-of-moritzplatz-roundabout/
 
 ---
 This is turning into a traffic blog more than anything else. After taking stock of [the plans for the new Maaßenstraße](/dingen/2015/05/encounter-zone-maasenstrase/) which is very slowly nearing completion, now let's take a look at another place close to my heart: [Moritzplatz](https://www.google.com/maps?q=moritzplatz%2C%20berlin). The square is right underneath my office and as such I cross it several times daily both on foot and by bike.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16166
 parent_post_id: null
 post_id: "16166"
 title: 'nrc.next game-recensie: Inside a Star-filled Sky'
-url: /dingen/2020/07/nrc-next-game-recensie-inside-a-star-filled-sky/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-inside-a-star-filled-sky/
 
 ---
 Het lijkt een leuke variant van Space Invaders maar Inside a Star-filled Sky heeft oneindig veel meer te bieden.

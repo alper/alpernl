@@ -8,7 +8,8 @@ tags:
   - arabisch
   - taal
 title: Leer jezelf Arabisch
-url: /dingen/2007/05/leer-jezelf-arabisch/
+aliases:
+  - /dingen/2007/05/leer-jezelf-arabisch/
 
 ---
 Ik was vanmiddag in de [American Book Centre](http://alper.nl) en ik heb een boekje uit de _Teach yourself_-reeks “Arabic” gekocht. Het is een fijn en vlot boek met een redelijk niveau en veel voorbeelden. Daarnaast was het een beetje gehavend en daarom mocht ik het meenemen voor €9,95 wat niet echt geld is.

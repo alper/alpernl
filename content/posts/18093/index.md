@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18093
 parent_post_id: null
 post_id: "18093"
 title: ""
-url: /dingen/2025/02/18093/
+aliases:
+  - /dingen/2025/02/18093/
 
 ---
 Another funny relic from the depths of version control: the Octopus Merge

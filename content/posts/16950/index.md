@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16950
 parent_post_id: null
 post_id: "16950"
 title: ""
-url: /dingen/2023/01/16950/
+aliases:
+  - /dingen/2023/01/16950/
 
 ---
 A thorough treatment in the New Yorker of the way the Indian film industry is being captured by ideology.

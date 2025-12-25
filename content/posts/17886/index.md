@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17886
 parent_post_id: null
 post_id: "17886"
 title: ""
-url: /dingen/2025/01/17886/
+aliases:
+  - /dingen/2025/01/17886/
 
 ---
 A very useful thought experiment whenever anybody tries to pretend LLMs are 'human' because they sound human.

@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18162
 parent_post_id: null
 post_id: "18162"
 title: ""
-url: /dingen/2025/03/18162/
+aliases:
+  - /dingen/2025/03/18162/
 
 ---
 A good overview of how Git developers configure git for themselves with a bunch of settings that should be the default for everybody but which will take ages to be rolled out. You should copy most of these into your own config.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5192
 parent_post_id: null
 post_id: "5192"
 title: Terry Pratchett
-url: /dingen/2015/03/terry-pratchett/
+aliases:
+  - /dingen/2015/03/terry-pratchett/
 
 ---
 > This is the best photo ever taken of Terry Pratchett, and indeed one of the best photos ever taken of anybody [pic.twitter.com/p1JCQtfX05](http://t.co/p1JCQtfX05)

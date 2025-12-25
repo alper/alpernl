@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15853
 parent_post_id: null
 post_id: "15853"
 title: 'Types and Functions 1: Introduction'
-url: /dingen/2019/11/types-and-functions-1-introduction/
+aliases:
+  - /dingen/2019/11/types-and-functions-1-introduction/
 
 ---
 I got sick of it and I want to learn the weirder stuff of functional programming seriously now.

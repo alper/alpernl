@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3167
 parent_post_id: null
 post_id: "3167"
 title: Working theory for Germany
-url: /dingen/2011/12/working-theory-for-germany/
+aliases:
+  - /dingen/2011/12/working-theory-for-germany/
 
 ---
 I have been in Berlin for a couple of hectic days now and I'm trying to come to terms with my surroundings. I have got a new working theory to use for the foreseeable future. Let's see how well this holds up:

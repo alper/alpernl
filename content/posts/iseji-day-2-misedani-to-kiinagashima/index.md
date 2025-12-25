@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18496
 parent_post_id: null
 post_id: "18496"
 title: Iseji - Day 2 - Misedani to Kiinagashima
-url: /dingen/2025/11/iseji-day-2-misedani-to-kiinagashima/
+aliases:
+  - /dingen/2025/11/iseji-day-2-misedani-to-kiinagashima/
 
 ---
 Well before 7am I grabbed a quick breakfast at the local FamilyMart and supplies for the day ahead. I'm glad that these things are open 24 hours, but how is this possible? Maybe it's better to not ask any questions (S. [Store owner regrets 'slave contracts' with major Japanese convenience store chain Ministop](https://mainichi.jp/english/articles/20251114/p2a/00m/0bu/032000c)). I wasn't going to be able to get any kind of coffee at a time like this, but the hotel machine brewed something that wasn't entirely undrinkable.

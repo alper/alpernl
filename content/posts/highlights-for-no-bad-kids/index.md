@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6083
 parent_post_id: null
 post_id: "6083"
 title: Highlights for No Bad Kids
-url: /dingen/2018/12/highlights-for-no-bad-kids/
+aliases:
+  - /dingen/2018/12/highlights-for-no-bad-kids/
 
 ---
 > When setting limits, the emotional state of the parent almost always dictates the child’s reaction. If we lack clarity and confidence, lose our temper or are unsure, tense, frazzled, or frustrated — this will unsettle our kids and very likely lead to more undesirable behavior.

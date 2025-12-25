@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16898
 parent_post_id: null
 post_id: "16898"
 title: ""
-url: /dingen/2022/10/16898/
+aliases:
+  - /dingen/2022/10/16898/
 
 ---
 Adam Tooze asks:

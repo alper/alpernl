@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15868
 parent_post_id: null
 post_id: "15868"
 title: 'Types and Functions 6: Applicative'
-url: /dingen/2019/11/types-and-functions-6-applicative/
+aliases:
+  - /dingen/2019/11/types-and-functions-6-applicative/
 
 ---
 > Both `Http` calls will happen instantly and `renderPage` will be called when both are resolved.

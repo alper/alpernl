@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5971
 parent_post_id: null
 post_id: "5971"
 title: Komplischwierig
-url: /dingen/2018/04/komplischwierig/
+aliases:
+  - /dingen/2018/04/komplischwierig/
 
 ---
 I thought I had come up with the clever portmanteau “komplischwierig”, a combination of “kompliziert”(complicated) and “schwierig”(difficult). Unfortunately a quick Google search showed eight prior results where people have used the word.

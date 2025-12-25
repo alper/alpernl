@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17257
 parent_post_id: null
 post_id: "17257"
 title: ""
-url: /dingen/2023/08/17257/
+aliases:
+  - /dingen/2023/08/17257/
 
 ---
 With our re-evaluation of Lambda as a platform and after talking to some people, I'd say that Rust is the most (maybe the only) viable language on Lambda mostly because it's negligible cold start times, high performance and the amazing developer experience of `aws-lambda-rust-runtime`.

@@ -13,7 +13,8 @@ tags:
   - feest
   - muziek
 title: Echte Boter
-url: /dingen/2008/02/echte-boter/
+aliases:
+  - /dingen/2008/02/echte-boter/
 
 ---
 Morgen is het weer zover, het vetste feestconcept van Delft is terug, [Echte Boter](http://www.rundfunk.nl/?p=404):

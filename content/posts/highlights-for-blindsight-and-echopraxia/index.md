@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5896
 parent_post_id: null
 post_id: "5896"
 title: Highlights for Blindsight and Echopraxia
-url: /dingen/2017/12/highlights-for-blindsight-and-echopraxia/
+aliases:
+  - /dingen/2017/12/highlights-for-blindsight-and-echopraxia/
 
 ---
 > In a world in which Humanity had become redundant in unprecedented numbers, we'd both retained the status of another age: working professional.

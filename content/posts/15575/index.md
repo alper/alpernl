@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15575
 parent_post_id: null
 post_id: "15575"
 title: ""
-url: /dingen/2019/07/15575/
+aliases:
+  - /dingen/2019/07/15575/
 
 ---
 A very recognizable story of an engineering organization finding itself and one person's journey into leadership and back.

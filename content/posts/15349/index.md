@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15349
 parent_post_id: null
 post_id: "15349"
 title: ""
-url: /dingen/2019/04/15349/
+aliases:
+  - /dingen/2019/04/15349/
 
 ---
 > “They’re really good at the PR thing, and it really feels like gaslighting.”

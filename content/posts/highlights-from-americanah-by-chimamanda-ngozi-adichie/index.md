@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5617
 parent_post_id: null
 post_id: "5617"
 title: Highlights from Americanah by Chimamanda Ngozi Adichie
-url: /dingen/2016/09/highlights-from-americanah-by-chimamanda-ngozi-adichie/
+aliases:
+  - /dingen/2016/09/highlights-from-americanah-by-chimamanda-ngozi-adichie/
 
 ---
 > There was something immodest about her modesty: it announced itself.

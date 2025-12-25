@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15332
 parent_post_id: null
 post_id: "15332"
 title: ""
-url: /dingen/2019/04/15332/
+aliases:
+  - /dingen/2019/04/15332/
 
 ---
 I can't really get enough of Haidt takedowns like this one in the Guardian.

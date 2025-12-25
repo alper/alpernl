@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1396
 parent_post_id: null
 post_id: "1396"
 title: 'OV-chipkaart: kansen voor verbetering'
-url: /dingen/2009/12/ov-chipkaart-ellende/
+aliases:
+  - /dingen/2009/12/ov-chipkaart-ellende/
 
 ---
 Ik ben eenduidig voor de ov-chipkaart. De cognitieve moeite die het bespaart bij het reizen in het openbaar vervoer (temminste als je simpele routes gebruikt en niet overstapt op de trein) is geweldig.

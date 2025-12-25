@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16963
 parent_post_id: null
 post_id: "16963"
 title: ""
-url: /dingen/2023/01/16963/
+aliases:
+  - /dingen/2023/01/16963/
 
 ---
 Complaining is easy. Learning how your organization works as described here by Cindy Sridharan is hard. Which of the two do you prefer to do?

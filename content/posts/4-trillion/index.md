@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17172
 parent_post_id: null
 post_id: "17172"
 title: 4 trillion
-url: /dingen/2023/04/4-trillion/
+aliases:
+  - /dingen/2023/04/4-trillion/
 
 ---
 Here's an absolutely staggering number to take with you: four trillion dollars per annum

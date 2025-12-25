@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1838
 parent_post_id: null
 post_id: "1838"
 title: Online campagnes â€” Canvassen voor de PvdA
-url: /dingen/2010/06/online-campagnes-—-canvassen-voor-de-pvda/
+aliases:
+  - /dingen/2010/06/online-campagnes-—-canvassen-voor-de-pvda/
 
 ---
 Ik heb hier al geschreven over [datavisualisatie in campagnes](/dingen/2010/05/elections-and-campaign-data-visualization/) in de Verenigde Staten en het Verenigd Koninkrijk. De campagnes hier lijken te klein, te kort en te weinig budget hebben om serieus mee te spelen met de grote jongens maar verschillende partijen doen toch hier en daar hun best.

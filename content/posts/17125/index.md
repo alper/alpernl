@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17125
 parent_post_id: null
 post_id: "17125"
 title: ""
-url: /dingen/2023/03/17125/
+aliases:
+  - /dingen/2023/03/17125/
 
 ---
 > But these subjects of the Islamic Emirate could not be kept from watching _Stranger Things_ or _Game of Thrones_ or Japanese anime; they had a better knowledge of _Breaking Bad_ than I did. On Twitter—they, like so many Afghans, were avid users—shared soyjack memes and called themselves “sigma males.”They talked about feminism, “LGBTQ,”and pronouns—strange things to complain about in a country where women can’t go to school. They were becoming Westerners: culture war, America’s most successful soft-power export, was their induction. The younger members of the Taliban, online enough to follow [Andrew Tate](https://www.newsweek.com/taliban-worried-about-andrew-tate-they-ask-his-freedom-1770693), were not immune.

@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18248
 parent_post_id: null
 post_id: "18248"
 title: ""
-url: /dingen/2025/06/18248/
+aliases:
+  - /dingen/2025/06/18248/
 
 ---
 To hearken back to the [previous comparison](/dingen/2025/06/18243/) of Java versus compiled languages, AWS has a case here where a naive rewrite of their JVM database in Rust created massive performance wins.

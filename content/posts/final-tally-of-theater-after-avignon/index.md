@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=3746
 parent_post_id: null
 post_id: "3746"
 title: Final tally of theater after Avignon
-url: /dingen/2012/07/final-tally-of-theater-after-avignon/
+aliases:
+  - /dingen/2012/07/final-tally-of-theater-after-avignon/
 
 ---
 I am repeating regularly these days that I am through with theater. I thought I'd see a couple of plays here at the [Festival d'Avignon](http://www.festival-avignon.com/) and then decide for myself whether this position is justified. Avignon has the reputation for programming the best theater of Europe. A reputation that turns out to be mostly unfounded.

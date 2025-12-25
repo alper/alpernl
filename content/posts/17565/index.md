@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=17565
 parent_post_id: null
 post_id: "17565"
 title: ""
-url: /dingen/2024/07/17565/
+aliases:
+  - /dingen/2024/07/17565/
 
 ---
 A great in-depth guide on how to center UI elements, often considered the hardest problem in computer science (or at least web development).

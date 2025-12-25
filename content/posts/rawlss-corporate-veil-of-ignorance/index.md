@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5986
 parent_post_id: null
 post_id: "5986"
 title: Rawls's Corporate Veil of Ignorance
-url: /dingen/2018/05/rawlss-corporate-veil-of-ignorance/
+aliases:
+  - /dingen/2018/05/rawlss-corporate-veil-of-ignorance/
 
 ---
 As a variation on the classic one: the willingness of a corporate CEO to spend half an hour in a room without windows with a random customer.

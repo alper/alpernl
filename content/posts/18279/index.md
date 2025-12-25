@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18279
 parent_post_id: null
 post_id: "18279"
 title: ""
-url: /dingen/2025/07/18279/
+aliases:
+  - /dingen/2025/07/18279/
 
 ---
 Now that I've switched entirely to jj, I never have to think about git's confusing terminology or absurd design ever again.

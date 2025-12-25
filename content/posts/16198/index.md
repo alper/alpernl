@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16198
 parent_post_id: null
 post_id: "16198"
 title: ""
-url: /dingen/2020/07/16198/
+aliases:
+  - /dingen/2020/07/16198/
 
 ---
 Stripe joins the list of companies that have tried out remote working and are now doubling down on it.

@@ -14,7 +14,8 @@ post_id: "2383"
 tags:
   - weeknotes
 title: Week 199
-url: /dingen/2011/01/week-199/
+aliases:
+  - /dingen/2011/01/week-199/
 
 ---
 Last week was the week things got into gear again for 2011.

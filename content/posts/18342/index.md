@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18342
 parent_post_id: null
 post_id: "18342"
 title: ""
-url: /dingen/2025/09/18342/
+aliases:
+  - /dingen/2025/09/18342/
 
 ---
 Postgres is \*the\* database engine (together with sqlite) and knowledge about its internals is becoming more than a nice to have.

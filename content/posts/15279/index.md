@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15279
 parent_post_id: null
 post_id: "15279"
 title: ""
-url: /dingen/2019/03/15279/
+aliases:
+  - /dingen/2019/03/15279/
 
 ---
 Eggboy speaks: “This egg has united people.”

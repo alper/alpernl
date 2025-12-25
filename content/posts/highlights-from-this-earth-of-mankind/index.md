@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5797
 parent_post_id: null
 post_id: "5797"
 title: Highlights from This Earth of Mankind
-url: /dingen/2017/06/highlights-from-this-earth-of-mankind/
+aliases:
+  - /dingen/2017/06/highlights-from-this-earth-of-mankind/
 
 ---
 > Modern! How quickly that word had surged forward and multiplied itself like bacteria throughout the world.

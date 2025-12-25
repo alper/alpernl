@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17694
 parent_post_id: null
 post_id: "17694"
 title: Highlights for Conversational Capacity
-url: /dingen/2024/11/highlights-for-conversational-capacity/
+aliases:
+  - /dingen/2024/11/highlights-for-conversational-capacity/
 
 ---
 > We’ll say nothing when we should speak up. We’ll quarrel when we should inquire. We’ll remain reticent when we should be resolved. We’ll be closed-minded and critical when we should be open-minded and curious.

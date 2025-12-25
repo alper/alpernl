@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15956
 parent_post_id: null
 post_id: "15956"
 title: ""
-url: /dingen/2020/01/15956/
+aliases:
+  - /dingen/2020/01/15956/
 
 ---
 A bit of near-future fiction about crypto as a subsistence work enterprise.

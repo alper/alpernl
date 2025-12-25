@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16275
 parent_post_id: null
 post_id: "16275"
 title: ""
-url: /dingen/2020/09/16275/
+aliases:
+  - /dingen/2020/09/16275/
 
 ---
 It looks like Cards Against Humanity is over and I can't say that I'm sad about that.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16305
 parent_post_id: null
 post_id: "16305"
 title: ""
-url: /dingen/2020/09/16305/
+aliases:
+  - /dingen/2020/09/16305/
 
 ---
 A guide to designing an interviewing process tailored specifically to the staff engineer level.

@@ -15,7 +15,8 @@ tags:
   - travel
   - uncategorized
 title: Surfing Summer
-url: /dingen/2008/06/surfing-summer/
+aliases:
+  - /dingen/2008/06/surfing-summer/
 
 ---
 [![Mr. Zog's Sex Wax](http://farm3.static.flickr.com/2390/2531535776_95a2aa66fe.jpg)](http://www.flickr.com/photos/alper/2531535776/ "Mr. Zog's Sex Wax by illustir, on Flickr")

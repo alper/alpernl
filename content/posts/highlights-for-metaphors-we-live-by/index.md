@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5908
 parent_post_id: null
 post_id: "5908"
 title: Highlights for Metaphors We Live By
-url: /dingen/2017/12/highlights-for-metaphors-we-live-by/
+aliases:
+  - /dingen/2017/12/highlights-for-metaphors-we-live-by/
 
 ---
 > Madness and journeys give us handles on the concept of love, and food gives us a handle on the concept of an idea.

@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18007
 parent_post_id: null
 post_id: "18007"
 title: ""
-url: /dingen/2025/02/18007/
+aliases:
+  - /dingen/2025/02/18007/
 
 ---
 The scientists are all on Bluesky which is understandable given the war on science and truth taking place on Twitter.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15995
 parent_post_id: null
 post_id: "15995"
 title: ""
-url: /dingen/2020/02/15995/
+aliases:
+  - /dingen/2020/02/15995/
 
 ---
 Reading back on Fallen London I spent altogether too much time on it in the beginning but don't have the heart to go back, that is if the city would even take me back at this point.

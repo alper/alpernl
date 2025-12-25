@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17219
 parent_post_id: null
 post_id: "17219"
 title: ""
-url: /dingen/2023/07/17219/
+aliases:
+  - /dingen/2023/07/17219/
 
 ---
 Doing the things listed here as a VP by Emily Nakashima sounds all nice and well (maybe fun even for some people), but the core deliverables of alignment and focus are the real test: both are impossibly hard to achieve and worth their weight in gold.

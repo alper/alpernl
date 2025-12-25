@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16463
 parent_post_id: null
 post_id: "16463"
 title: ""
-url: /dingen/2021/03/16463/
+aliases:
+  - /dingen/2021/03/16463/
 
 ---
 A strong hint about the real future of virtual reality and a callback to the MUD era which I had a lot of trouble understanding. Seeing it on Tiktok makes it a lot more tangible in a bunch of ways.

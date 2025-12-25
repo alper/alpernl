@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18011
 parent_post_id: null
 post_id: "18011"
 title: ""
-url: /dingen/2025/02/18011/
+aliases:
+  - /dingen/2025/02/18011/
 
 ---
 > **Quick turnarounds on fixing vulnerabilities usually correlated with general engineering operational excellence.** The best cases were clients who asked us to just give them a constant feed of anything we found, and they’d fix it right away.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18352
 parent_post_id: null
 post_id: "18352"
 title: ""
-url: /dingen/2025/09/18352/
+aliases:
+  - /dingen/2025/09/18352/
 
 ---
 Glad to see improvements like this can be made without fuss and drama. The ASF is obviously better and long overdue.

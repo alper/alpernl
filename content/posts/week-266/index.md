@@ -12,7 +12,8 @@ post_id: "3525"
 tags:
   - weeknotes
 title: 'Week 266: Django, iPhone programming and Quentin Meillassoux'
-url: /dingen/2012/05/week-266/
+aliases:
+  - /dingen/2012/05/week-266/
 
 ---
 A long week sprinting on _saba_. On Monday I got a nice desk chair:

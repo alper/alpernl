@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17676
 parent_post_id: null
 post_id: "17676"
 title: ""
-url: /dingen/2024/11/17676/
+aliases:
+  - /dingen/2024/11/17676/
 
 ---
 I can't believe I have to say this, but let's do it anyway: Going to Mars is—just like the hyperloop—a distraction from the actual problems and solutions in front of us.

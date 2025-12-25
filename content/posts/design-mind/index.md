@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2030
 parent_post_id: null
 post_id: "2030"
 title: Design Mind
-url: /dingen/2010/08/design-mind/
+aliases:
+  - /dingen/2010/08/design-mind/
 
 ---
 From slide 47 on is the core of [this presentation by Jan Chipchase](http://janchipchase.com/2010/08/design-mind-shanghai/):

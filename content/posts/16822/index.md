@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16822
 parent_post_id: null
 post_id: "16822"
 title: ""
-url: /dingen/2022/07/16822/
+aliases:
+  - /dingen/2022/07/16822/
 
 ---
 I get a bit of a chuckle thinking about the amount of C++ programmer hours that are being wasted here on this next generation car software. I'd love to learn about details when it comes to this.

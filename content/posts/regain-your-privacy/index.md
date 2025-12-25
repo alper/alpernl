@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3231
 parent_post_id: null
 post_id: "3231"
 title: Regain your privacy through bureaucracy
-url: /dingen/2012/01/regain-your-privacy/
+aliases:
+  - /dingen/2012/01/regain-your-privacy/
 
 ---
 Going over the list of services that the municipality of Amsterdam offers this week, I couldn't help but notice this:

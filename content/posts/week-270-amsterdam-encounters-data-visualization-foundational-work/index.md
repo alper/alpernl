@@ -13,7 +13,8 @@ post_id: "3559"
 tags:
   - weeknotes
 title: 'Week 270: Amsterdam encounters, data visualization, foundational work'
-url: /dingen/2012/05/week-270-amsterdam-encounters-data-visualization-foundational-work/
+aliases:
+  - /dingen/2012/05/week-270-amsterdam-encounters-data-visualization-foundational-work/
 
 ---
 Last week was a week for some work in the Netherlands and some much deserved catchup with friends and colleagues over there.

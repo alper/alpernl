@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15306
 parent_post_id: null
 post_id: "15306"
 title: ""
-url: /dingen/2019/04/15306/
+aliases:
+  - /dingen/2019/04/15306/
 
 ---
 Most of my programming career has been focused on keeping things simple and eschewing premature abstractions summarized aptly by: “duplication is far cheaper than the wrong abstraction”  

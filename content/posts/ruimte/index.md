@@ -11,7 +11,8 @@ tags:
   - huis
   - werken
 title: Ruimte
-url: /dingen/2008/02/ruimte/
+aliases:
+  - /dingen/2008/02/ruimte/
 
 ---
 Hoe tof zou het zijn als in Nederland de markt voor woon- en werkruimte een buyer's market was?

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5387
 parent_post_id: null
 post_id: "5387"
 title: Deutschland '83
-url: /dingen/2015/12/deutschland-83/
+aliases:
+  - /dingen/2015/12/deutschland-83/
 
 ---
 I was tremendously hyped for [Deutschland '83](https://en.wikipedia.org/wiki/Deutschland_83) after hearing about it and watching the first episode. Now that it is finally airing in Germany it turns out that [it is not doing that well](http://www.tagesspiegel.de/medien/deutschland-83-diese-serie-passt-nicht-ins-deutsche-fernsehen/12701524.html). Viewership started out low and has been declining over the first four episodes.

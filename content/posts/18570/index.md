@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=18570
 parent_post_id: null
 post_id: "18570"
 title: ""
-url: /dingen/2025/12/18570/
+aliases:
+  - /dingen/2025/12/18570/
 
 ---
 Refreshing to see Brian Cantrill talk about 'trust' and 'accountability' in the tech industry. These days it almost seems as if both of those have become dirty words.

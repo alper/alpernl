@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15404
 parent_post_id: null
 post_id: "15404"
 title: ""
-url: /dingen/2019/05/15404/
+aliases:
+  - /dingen/2019/05/15404/
 
 ---
 A book and an overview of how career opportunities are closed off to those without the right background and how to be cognizant of this and correct for it.

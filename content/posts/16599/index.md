@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16599
 parent_post_id: null
 post_id: "16599"
 title: ""
-url: /dingen/2021/10/16599/
+aliases:
+  - /dingen/2021/10/16599/
 
 ---
 I've had a number of amazing and unforgettable experiences with Couchsurfing mostly staying in Berlin way back in the day. This history of the site's rise and fall fills in what happened after I lost track.

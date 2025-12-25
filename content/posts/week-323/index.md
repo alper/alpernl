@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4629
 parent_post_id: null
 post_id: "4629"
 title: Week 323
-url: /dingen/2013/06/week-323/
+aliases:
+  - /dingen/2013/06/week-323/
 
 ---
 This week started with Pentecost. Trying to get stuff done in Germany during the bank holiday flurry that is May is always a challenge. I spent more time working on Cuppings. In all likelihood this app will never make any serious money, but there are other advantages to building apps which may become apparent in the future.

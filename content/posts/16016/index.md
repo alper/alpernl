@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16016
 parent_post_id: null
 post_id: "16016"
 title: ""
-url: /dingen/2020/02/16016/
+aliases:
+  - /dingen/2020/02/16016/
 
 ---
 Translated diary excerpts of a soldier involved in the Dersim Massacre describe a normal kind of horror.

@@ -12,7 +12,8 @@ tags:
   - politiek
   - verkiezingen
 title: Integriteit in politiek
-url: /dingen/2008/02/integriteit-in-politiek/
+aliases:
+  - /dingen/2008/02/integriteit-in-politiek/
 
 ---
 Is het mogelijk? [Lawrence Lessig](http://lessig.org) denkt van wel, temminste als we stoppen met het belonen van leugens. Dit is één van de punten waar de transparantie ingeleid door het internet effect kan boeken.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1245
 parent_post_id: null
 post_id: "1245"
 title: Shared bicycle transit systems
-url: /dingen/2009/09/shared-bicycle-transit-systems/
+aliases:
+  - /dingen/2009/09/shared-bicycle-transit-systems/
 
 ---
 I've recently used my first [OV-fiets](http://www.ov-fiets.nl/) and it was a fantastic experience ((The fact that I used it to bike out to [a theater festival](http://www.flickr.com/photos/alper/3919129087/) in a nature reserve may have contributed to that.)). It's a great way to bridge the last couple of miles on your transit experience and I think an important addition to the public transportation system.

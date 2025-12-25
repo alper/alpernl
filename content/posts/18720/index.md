@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18720
 parent_post_id: null
 post_id: "18720"
 title: ""
-url: /dingen/2025/12/18720/
+aliases:
+  - /dingen/2025/12/18720/
 
 ---
 Do you want some flashbacks to the horrors of trigonometry? Here's fizz buzz in cosines.

@@ -15,7 +15,8 @@ tags:
   - news
   - newspaper
 title: Nimble hulks collaborate
-url: /dingen/2009/02/nimble-hulks-collaborate/
+aliases:
+  - /dingen/2009/02/nimble-hulks-collaborate/
 
 ---
 It's good to see not all newspapers are caught in a stupor [the Japanese ones](http://www.readwriteweb.com/archives/how_japanese_newspapers_are_trying_to_save_themselves.php) seem to actually be seeing their common interest and making something sort of useful to their readers.

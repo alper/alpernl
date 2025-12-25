@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2421
 parent_post_id: null
 post_id: "2421"
 title: Transmobility ARG
-url: /dingen/2011/02/transmobility-arg/
+aliases:
+  - /dingen/2011/02/transmobility-arg/
 
 ---
 Heading out to the App in a Day event by [Hack de Overheid](http://www.hackdeoverheid.nl) and the [VPRO](http://www.vpro.nl) yesterday morning, I was confronted by a rather complex series of actions I needed to do to get an [OV-fiets](http://www.ov-fiets.nl/).

@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16775
 parent_post_id: null
 post_id: "16775"
 title: ""
-url: /dingen/2022/04/16775/
+aliases:
+  - /dingen/2022/04/16775/
 
 ---
 Lovely bit about the _broodje kroket_ and about Dutch colonial history.

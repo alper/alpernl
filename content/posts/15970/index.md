@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15970
 parent_post_id: null
 post_id: "15970"
 title: ""
-url: /dingen/2020/02/15970/
+aliases:
+  - /dingen/2020/02/15970/
 
 ---
 > “The privilege I have — how? No, genuinely, how?”

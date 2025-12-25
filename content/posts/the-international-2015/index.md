@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5233
 parent_post_id: null
 post_id: "5233"
 title: The International 2015
-url: /dingen/2015/08/the-international-2015/
+aliases:
+  - /dingen/2015/08/the-international-2015/
 
 ---
 This was my situation for most of last week watching The International main event take place thanks to the time difference.

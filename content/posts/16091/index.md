@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16091
 parent_post_id: null
 post_id: "16091"
 title: ""
-url: /dingen/2020/05/16091/
+aliases:
+  - /dingen/2020/05/16091/
 
 ---
 > “Tell them the contours of patriarchy closed in, but haven’t crushed me. I’m the same person I’ve always been, broke but stronger.  

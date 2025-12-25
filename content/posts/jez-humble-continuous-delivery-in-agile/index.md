@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15538
 parent_post_id: null
 post_id: "15538"
 title: Jez Humble - Continuous Delivery in Agile
-url: /dingen/2019/06/jez-humble-continuous-delivery-in-agile/
+aliases:
+  - /dingen/2019/06/jez-humble-continuous-delivery-in-agile/
 
 ---
 This Jez Humble talk about Continuous Delivery is one of my all-time favorites. As a bonus at the end he also totally demolishes the Google Guy.

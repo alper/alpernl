@@ -12,7 +12,8 @@ post_id: "4792"
 tags:
   - weeknotes
 title: Week 336
-url: /dingen/2013/10/week-336/
+aliases:
+  - /dingen/2013/10/week-336/
 
 ---
 [![Beautiful new coffee place](http://farm8.staticflickr.com/7295/9588195849_232cf26b33_z.jpg)](http://www.flickr.com/photos/alper/9588195849/ "Beautiful new coffee place by illustir, on Flickr")

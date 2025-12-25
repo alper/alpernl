@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16812
 parent_post_id: null
 post_id: "16812"
 title: ""
-url: /dingen/2022/06/16812/
+aliases:
+  - /dingen/2022/06/16812/
 
 ---
 > "Stripped of their original purpose, this is what so many Scrum events have become: a series of actions performed by rote."

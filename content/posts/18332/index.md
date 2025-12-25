@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18332
 parent_post_id: null
 post_id: "18332"
 title: ""
-url: /dingen/2025/09/18332/
+aliases:
+  - /dingen/2025/09/18332/
 
 ---
 That's definitely a phrase worth remembering:

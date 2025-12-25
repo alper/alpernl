@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=640
 parent_post_id: null
 post_id: "640"
 title: Widget distribution and other considerations
-url: /dingen/2008/12/widget-distribution-and-other-considerations/
+aliases:
+  - /dingen/2008/12/widget-distribution-and-other-considerations/
 
 ---
 I am currently busy doing a project together with [Tam Tam](http://www.tamtam.nl) where we are tasked with developing a set of five widgets for Dutch government (assigned by the [Dutch Ministry of Home Affairs and Kingdom Relations](http://www.minbzk.nl)) as a proof of concept of how government data can be used. We're developing widgets mostly because they are seen as modern, easy to develop and they can be deployed very near to users.

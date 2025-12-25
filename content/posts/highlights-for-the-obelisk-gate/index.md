@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5959
 parent_post_id: null
 post_id: "5959"
 title: Highlights for The Obelisk Gate
-url: /dingen/2018/03/highlights-for-the-obelisk-gate/
+aliases:
+  - /dingen/2018/03/highlights-for-the-obelisk-gate/
 
 ---
 > That’s when you no longer need an answer to the question. There is such a thing as too much loss. Too much has been taken from you both—taken and taken and taken, until there’s nothing left but hope, and you’ve given that up because it hurts too much. Until you would rather die, or kill, or avoid attachments altogether, than lose one more thing.

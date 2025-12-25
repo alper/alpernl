@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1802
 parent_post_id: null
 post_id: "1802"
 title: De val uitgelegd
-url: /dingen/2010/05/de-val-uitgelegd/
+aliases:
+  - /dingen/2010/05/de-val-uitgelegd/
 
 ---
 Hier een hele leuke video over [de val van het kabinet](http://www.devalvanhetkabinet.nl/) ( [via](http://www.dutchcowboys.nl/video/19688)):

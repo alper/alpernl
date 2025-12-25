@@ -10,7 +10,8 @@ guid: http://www.alper.nl/dingen/?p=16353
 parent_post_id: null
 post_id: "16353"
 title: ""
-url: /dingen/2020/10/16353/
+aliases:
+  - /dingen/2020/10/16353/
 
 ---
 Als ik het verhaal over witwassen in de Amsterdamse binnenstad hier lees, denk ik dat het hier in Berlijn zonder overdrijven tien keer zo erg is (decennia armoede, corruptie en geen enkele prioriteit bij de lokale overheid).

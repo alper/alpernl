@@ -13,7 +13,8 @@ post_id: "2016"
 tags:
   - weeknotes
 title: Weeknotes 177
-url: /dingen/2010/08/weeknotes-177/
+aliases:
+  - /dingen/2010/08/weeknotes-177/
 
 ---
 This week started pretty extreme ((Thoug we wouldn't have it any other way. It was epic!)) with 12+ hour days on Monday and Tuesday culminating in the launch of [PLAY Pilots](http://playpilots.nl/).

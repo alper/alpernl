@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15709
 parent_post_id: null
 post_id: "15709"
 title: ""
-url: /dingen/2019/09/15709/
+aliases:
+  - /dingen/2019/09/15709/
 
 ---
 An interesting reversal here where I once said that any application could be delivered through the chat medium, now Kevin Kwok signals a tendency for one chat platform to permeate all applications.

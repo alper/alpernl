@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=3965
 parent_post_id: null
 post_id: "3965"
 title: 'Games on Ignite Berlin #3'
-url: /dingen/2012/10/games-on-ignite-berlin-3/
+aliases:
+  - /dingen/2012/10/games-on-ignite-berlin-3/
 
 ---
 Last week I [presented at the Berlin Ignite](http://igniteberlin.com/2012/10/alper-cugun-new-games-for-new-cities/). I had been present at the last one and greatly enjoyed, so I looked what I could add to the mix.

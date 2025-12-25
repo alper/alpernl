@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16630
 parent_post_id: null
 post_id: "16630"
 title: Chasing down noise complaints for the construction site next to our house
-url: /dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/
+aliases:
+  - /dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/
 
 ---
 The construction site that surrounds our house has started a bunch of space heaters this week. The devices had been there for a while but only started being annoying now that they're turned on. These things run day and night, they make a ridiculous amount of noise (some 60 dB at our window) and because they burns diesel oil they also pollute and stink up the entire courtyard.

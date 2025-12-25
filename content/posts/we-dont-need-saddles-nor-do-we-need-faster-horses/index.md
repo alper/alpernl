@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4897
 parent_post_id: null
 post_id: "4897"
 title: We don't need saddles nor do we need faster horses
-url: /dingen/2014/02/we-dont-need-saddles-nor-do-we-need-faster-horses/
+aliases:
+  - /dingen/2014/02/we-dont-need-saddles-nor-do-we-need-faster-horses/
 
 ---
 We just switched over to [Slack](http://www.slack.com/) and we are quite happy with the tool as a replacement for our previous [Hipchat](https://www.hipchat.com/) setup. It all feels a bit fresher, it's easier to integrate with the rest of the web and has more functionality and niceties built in.

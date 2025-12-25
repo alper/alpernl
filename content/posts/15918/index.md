@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15918
 parent_post_id: null
 post_id: "15918"
 title: ""
-url: /dingen/2019/12/15918/
+aliases:
+  - /dingen/2019/12/15918/
 
 ---
 The disappearance of Page and Brin is one of the weirder and more foreboding things. You have to wonder whether we will ever hear from them or anybody similarly rich ever again.

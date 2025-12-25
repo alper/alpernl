@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1909
 parent_post_id: null
 post_id: "1909"
 title: UX Triangle
-url: /dingen/2010/06/ux-triangle/
+aliases:
+  - /dingen/2010/06/ux-triangle/
 
 ---
 Some conversations with [Jaap Stronks](http://www.jaapstronks.nl) for the terminology and the rifts between UX designers I am witnessing more and more on events ( [dConstruct](http://dconstruct.org), [The Web and Beyond](http://thewebandbeyond.nl)) sparked this model below.

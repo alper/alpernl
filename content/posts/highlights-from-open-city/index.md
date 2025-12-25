@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5733
 parent_post_id: null
 post_id: "5733"
 title: Highlights from Open City
-url: /dingen/2017/02/highlights-from-open-city/
+aliases:
+  - /dingen/2017/02/highlights-from-open-city/
 
 ---
 > A grouch through and through, but it was he who first taught me the value of memory, and how to think of it as mental music, a setting to iambs and trochees.

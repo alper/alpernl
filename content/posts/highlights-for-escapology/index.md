@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16045
 parent_post_id: null
 post_id: "16045"
 title: Highlights for Escapology
-url: /dingen/2020/04/highlights-for-escapology/
+aliases:
+  - /dingen/2020/04/highlights-for-escapology/
 
 ---
 > The first lesson Amiga learnt when she started to kill was how easy it is, and how utterly horrifying that can be.

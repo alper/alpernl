@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2318
 parent_post_id: null
 post_id: "2318"
 title: Something fishy about this profile
-url: /dingen/2010/12/something-fishy-about-this-profile/
+aliases:
+  - /dingen/2010/12/something-fishy-about-this-profile/
 
 ---
 I saw the movie [Catfish](http://www.cineville.nl/films/catfish) which seems to have garnered a significant amount of attention and is in many ways the **\*real\*** Facebook movie because it actually takes place on facebook and addresses real issues we have all dealt with instead of the dealings of ultra-rich privileged kids at elite-universities.

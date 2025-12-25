@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15954
 parent_post_id: null
 post_id: "15954"
 title: ""
-url: /dingen/2020/01/15954/
+aliases:
+  - /dingen/2020/01/15954/
 
 ---
 A nice write-up of how Gitlab diagnosed and fixed an outage before it could even happen.

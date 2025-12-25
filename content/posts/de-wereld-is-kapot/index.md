@@ -12,7 +12,8 @@ post_id: "296"
 tags:
   - uncategorized
 title: De wereld is kapot
-url: /dingen/2008/05/de-wereld-is-kapot/
+aliases:
+  - /dingen/2008/05/de-wereld-is-kapot/
 
 ---
 Maar ik heb er grondige vertrouwen in dat we hem kunnen repareren.

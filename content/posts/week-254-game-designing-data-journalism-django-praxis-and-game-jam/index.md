@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3300
 parent_post_id: null
 post_id: "3300"
 title: 'Week 254: game designing, data journalism, django, Praxis and game jam'
-url: /dingen/2012/02/week-254-game-designing-data-journalism-django-praxis-and-game-jam/
+aliases:
+  - /dingen/2012/02/week-254-game-designing-data-journalism-django-praxis-and-game-jam/
 
 ---
 [![Winter light](http://farm8.staticflickr.com/7034/6760157041_f172c6fbdb.jpg)](http://www.flickr.com/photos/alper/6760157041/ "Winter light by illustir, on Flickr")

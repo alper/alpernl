@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16206
 parent_post_id: null
 post_id: "16206"
 title: ""
-url: /dingen/2020/08/16206/
+aliases:
+  - /dingen/2020/08/16206/
 
 ---
 A lovely and long history of Nespresso a coffee I've hated to drink but it's still been better than many alternatives.

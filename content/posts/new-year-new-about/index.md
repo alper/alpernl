@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=2760
 parent_post_id: null
 post_id: "2760"
 title: New year, new about
-url: /dingen/2011/08/new-year-new-about/
+aliases:
+  - /dingen/2011/08/new-year-new-about/
 
 ---
 I think it's time to archive the hagiography that was on my About page. I apologize if you were duped or offended by it. Anyway, you should know better than to take any piece of text containing the phrase ‘thought leader’ seriously.

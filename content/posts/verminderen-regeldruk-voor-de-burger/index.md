@@ -9,7 +9,8 @@ tags:
   - overheid
   - politiek
 title: Verminderen regeldruk voor de burger
-url: /dingen/2007/08/verminderen-regeldruk-voor-de-burger/
+aliases:
+  - /dingen/2007/08/verminderen-regeldruk-voor-de-burger/
 
 ---
 Ze hebben het in de politiek regelmatig over het verminderen van de regeldruk en dat het makkelijker moet worden voor mensen om te ondernemen. Dat dit met de mond beleden wordt, is zacht uitgedrukt.

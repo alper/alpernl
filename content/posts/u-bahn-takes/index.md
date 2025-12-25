@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18324
 parent_post_id: null
 post_id: "18324"
 title: U-Bahn Takes
-url: /dingen/2025/09/u-bahn-takes/
+aliases:
+  - /dingen/2025/09/u-bahn-takes/
 
 ---
 Subway Takes is publishing episodes they filmed in Berlin’s U-Bahn, and the results are both amusing and unexpectedly revealing.

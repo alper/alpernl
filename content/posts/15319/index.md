@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=15319
 parent_post_id: null
 post_id: "15319"
 title: ""
-url: /dingen/2019/04/15319/
+aliases:
+  - /dingen/2019/04/15319/
 
 ---
 > “Really, though, it was the same liberal fantasy, where everyone could laugh together because they were all on the right side of history.”

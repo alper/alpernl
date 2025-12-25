@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17336
 parent_post_id: null
 post_id: "17336"
 title: ""
-url: /dingen/2023/12/17336/
+aliases:
+  - /dingen/2023/12/17336/
 
 ---
 "Squashing destroys this information. I'll take a merge with 1000 +50/-50 commits over 1 squash every. single. day."

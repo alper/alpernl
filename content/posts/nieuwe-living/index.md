@@ -11,7 +11,8 @@ post_id: "286"
 tags:
   - huis
 title: Nieuwe Living
-url: /dingen/2008/04/nieuwe-living/
+aliases:
+  - /dingen/2008/04/nieuwe-living/
 
 ---
 Afgelopen weekend had ik het helemaal gehad. Vrijdag met Reinier naar de IKEA gereden en direct een hele woonkamer besteld. Zaterdag-namiddag werd deze thuis bezorgd ((Het is echt best sadistisch om bezorgers dingen bij mij thuis te laten bezorgen. De meeste weten zich geen raad met de eenrichtings pollers.)) na wat pogingen.

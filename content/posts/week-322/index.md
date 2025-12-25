@@ -12,7 +12,8 @@ post_id: "4627"
 tags:
   - weeknotes
 title: Week 322
-url: /dingen/2013/06/week-322/
+aliases:
+  - /dingen/2013/06/week-322/
 
 ---
 So it turns out I've fallen immensely behind with the weeknotes over here, but we did start writing them at the new office now, which should make up for something. Those live at [http://kantberlin.tumblr.com/](http://kantberlin.tumblr.com/) currently.

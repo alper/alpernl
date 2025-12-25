@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17072
 parent_post_id: null
 post_id: "17072"
 title: ""
-url: /dingen/2023/02/17072/
+aliases:
+  - /dingen/2023/02/17072/
 
 ---
 A reasonable enough rationale to choose Java in this article. Am I missing out if I never built a serious backend on the current Spring/Boot JVM (and never seen a team outside of the consulting space use it)?

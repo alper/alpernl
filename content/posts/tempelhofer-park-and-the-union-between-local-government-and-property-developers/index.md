@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4965
 parent_post_id: null
 post_id: "4965"
 title: Tempelhofer Park and the union between local government and property developers
-url: /dingen/2014/04/tempelhofer-park-and-the-union-between-local-government-and-property-developers/
+aliases:
+  - /dingen/2014/04/tempelhofer-park-and-the-union-between-local-government-and-property-developers/
 
 ---
 There is a shack on Tempelhofer Feld that explains the senate's plans with the park and the construction they plan to do there:

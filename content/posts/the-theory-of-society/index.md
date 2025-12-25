@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15487
 parent_post_id: null
 post_id: "15487"
 title: The Theory of Society
-url: /dingen/2019/06/the-theory-of-society/
+aliases:
+  - /dingen/2019/06/the-theory-of-society/
 
 ---
 I was arguing against Systems Theory today (a necessary evil when you live in Germany) which prompted the thought of searching for the conjunction of Bruno Latour and Niklas Luhmann. That led me to [this gem](https://wittenbrink.net/lostandfound/clash-of-culturesbruno-latour-trifft-niklas-luhmann/).

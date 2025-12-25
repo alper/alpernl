@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=18446
 parent_post_id: null
 post_id: "18446"
 title: 7- en 8-jarigen met een smartphone
-url: /dingen/
+aliases:
+  - /dingen/
 
 ---
 \` [Smartphonevrij Opgroeien](https://smartphonevrijopgroeien.nl/het-probleem/) is een internationaaik heb ook kinderen in die leeftijdsgroep. I

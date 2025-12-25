@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16457
 parent_post_id: null
 post_id: "16457"
 title: ""
-url: /dingen/2021/03/16457/
+aliases:
+  - /dingen/2021/03/16457/
 
 ---
 An economic analysis of witch hunts in Germany that show it to be a pre-modern corrective for people who climbed out of their social position.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16424
 parent_post_id: null
 post_id: "16424"
 title: ""
-url: /dingen/2021/02/16424/
+aliases:
+  - /dingen/2021/02/16424/
 
 ---
 [https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb)

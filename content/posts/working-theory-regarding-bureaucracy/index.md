@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3277
 parent_post_id: null
 post_id: "3277"
 title: Working theory regarding bureaucracy
-url: /dingen/2012/01/working-theory-regarding-bureaucracy/
+aliases:
+  - /dingen/2012/01/working-theory-regarding-bureaucracy/
 
 ---
 [![German form terror](http://farm8.staticflickr.com/7167/6719904761_3ba1c56336.jpg)](http://www.flickr.com/photos/alper/6719904761/ "German form terror by illustir, on Flickr")

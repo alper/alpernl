@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: Het verkeer in SyriÃ« is gekkenwerk
-url: /dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/
+aliases:
+  - /dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/
 
 ---
 Het verkeer in Syrië is compleet een chaos. Ik heb nog nooit zoiets gezien maar mensen verzekeren me dat het bijv. in India nog veel en veel erger is. Ik snap niet hoe dat kan.

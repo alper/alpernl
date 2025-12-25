@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17956
 parent_post_id: null
 post_id: "17956"
 title: ""
-url: /dingen/2025/01/17956/
+aliases:
+  - /dingen/2025/01/17956/
 
 ---
 I think this is a well argued plea by Ken Shirriff to stop using the term "cargo cult" and I agree with it but would like to add two things.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2696
 parent_post_id: null
 post_id: "2696"
 title: Week 223
-url: /dingen/2011/06/week-223/
+aliases:
+  - /dingen/2011/06/week-223/
 
 ---
 Monday I did some support and then went off to the UvA to present on data journalism together with [Stef](http://twitter.com/stefvangrieken).

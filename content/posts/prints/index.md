@@ -7,7 +7,8 @@ post_id: "78"
 tags:
   - fotografie
 title: Prints
-url: /dingen/2007/06/prints/
+aliases:
+  - /dingen/2007/06/prints/
 
 ---
 Vorige week al een paar foto's opgestuurd naar de [Fotobister](http://fotobister.nl) ((Wat is dat voor een naam?)) als test en opgehaald. Fysieke foto's zijn best leuk.

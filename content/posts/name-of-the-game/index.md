@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5836
 parent_post_id: null
 post_id: "5836"
 title: Name of the Game
-url: /dingen/2017/09/name-of-the-game/
+aliases:
+  - /dingen/2017/09/name-of-the-game/
 
 ---
 I'm putting this here so I don't have to keep looking it up.

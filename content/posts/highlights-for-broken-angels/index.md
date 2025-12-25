@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5974
 parent_post_id: null
 post_id: "5974"
 title: Highlights for Broken Angels
-url: /dingen/2018/04/highlights-for-broken-angels/
+aliases:
+  - /dingen/2018/04/highlights-for-broken-angels/
 
 ---
 > At the very least, you habitually find yourself in unfamiliar bodies on unfamiliar worlds where people are shooting at you. Even on a good day, no amount of briefing can prepare you for a total change of environment like that, and in the invariably unstable to lethally dangerous sets of circumstances the Envoys have been created to deal with, there just isn't any point.

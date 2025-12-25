@@ -9,7 +9,8 @@ tags:
   - leven
   - ondernemen
 title: Kleine updates grote stappen
-url: /dingen/2007/09/kleine-updates-grote-stappen/
+aliases:
+  - /dingen/2007/09/kleine-updates-grote-stappen/
 
 ---
 Het leven vordert. Kleine updates.

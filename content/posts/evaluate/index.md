@@ -11,7 +11,8 @@ post_id: "330"
 tags:
   - uncategorized
 title: Evaluate
-url: /dingen/2008/07/evaluate/
+aliases:
+  - /dingen/2008/07/evaluate/
 
 ---
 I've been blogging in English for a while now and while the stats show a steady amount of readers, I haven't really had any comments on anything really.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5164
 parent_post_id: null
 post_id: "5164"
 title: DOTA night at Meltdown Esports Bar
-url: /dingen/2015/02/dota-night-at-meltdown-esports-bar/
+aliases:
+  - /dingen/2015/02/dota-night-at-meltdown-esports-bar/
 
 ---
 [![Dota night at Meltdown](https://farm8.staticflickr.com/7332/16544389286_480c94066a_z.jpg)](https://www.flickr.com/photos/alper/16544389286 "Dota night at Meltdown by Alper Çuğun, on Flickr")

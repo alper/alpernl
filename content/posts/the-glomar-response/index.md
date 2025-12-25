@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5235
 parent_post_id: null
 post_id: "5235"
 title: The Glomar Response
-url: /dingen/2015/08/the-glomar-response/
+aliases:
+  - /dingen/2015/08/the-glomar-response/
 
 ---
 A couple of weeks ago already, James Bridle opened his first solo show [The Glomar Response](http://www.nomeproject.com/exhibitions/glomar-response) at NOME gallery here in Berlin. The opening was attended by more or less everybody I got to know when I first got to Berlin, a reunion of sorts.

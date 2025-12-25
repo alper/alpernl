@@ -9,7 +9,8 @@ tags:
   - midden-oosten
   - politiek
 title: Soft Power
-url: /dingen/2008/02/soft-power/
+aliases:
+  - /dingen/2008/02/soft-power/
 
 ---
 Taplin schrijft de laatste tijd erg zinnige dingen over soft power en het feit dat Amerika [niet militair aanwezig](http://jtaplin.wordpress.com/2008/02/19/the-case-for-a-mid-east-pullout/) hoeft te zijn in het Midden-Oosten om de olietoevoer veilig te stellen.

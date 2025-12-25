@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17525
 parent_post_id: null
 post_id: "17525"
 title: ""
-url: /dingen/2024/04/17525/
+aliases:
+  - /dingen/2024/04/17525/
 
 ---
 > Herbert believed that progress was an illusion because he was an ideologically motivated reactionary who hated the New Deal, the welfare state, the Civil Rights Movement, and any political leader who promised to help the oppressed.

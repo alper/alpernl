@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15286
 parent_post_id: null
 post_id: "15286"
 title: ""
-url: /dingen/2019/03/15286/
+aliases:
+  - /dingen/2019/03/15286/
 
 ---
 I loved this summary of Julie Zhuo's new book “The Making of a Manager”(excellent points in there about one-on-ones, self-awareness, delegation and growth) and I can't wait to read the entire thing.

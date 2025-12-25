@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16579
 parent_post_id: null
 post_id: "16579"
 title: Highlights for Radical Markets
-url: /dingen/2021/08/highlights-for-radical-markets/
+aliases:
+  - /dingen/2021/08/highlights-for-radical-markets/
 
 ---
 > Private property would become public to a significant extent and the possessions of those around you would, in a sense, become partly yours.

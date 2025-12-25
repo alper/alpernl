@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1375
 parent_post_id: null
 post_id: "1375"
 title: Even verder over het kanaal
-url: /dingen/2009/11/even-verder-over-het-kanaal/
+aliases:
+  - /dingen/2009/11/even-verder-over-het-kanaal/
 
 ---
 Wij doen hier [ons best](http://digitaalbestuur.nl/), maar we kunnen nog wat leren van Engeland. Daar gaat gewoon [premier Gordon Brown om de tafel zitten](http://www.guardian.co.uk/technology/2009/nov/19/ordnance-survey-maps-free-online) met de uitvinder van het internet en [semweb](http://en.wikipedia.org/wiki/Semantic_Web) visionair [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) en daar komt politieke wil en helder beleid uit:

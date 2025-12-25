@@ -11,7 +11,8 @@ tags:
   - macbook
   - zelfstandig
 title: Batterij Macbook rap leeg
-url: /dingen/2007/04/batterij-macook-rap-leeg/
+aliases:
+  - /dingen/2007/04/batterij-macook-rap-leeg/
 
 ---
 Ik haal amper een uur leven uit mijn Macbook bij normaal gebruik. De indicator die moet laten zien hoe vol hij is heeft ook geen enkele relatie meer tot de werkelijkheid.

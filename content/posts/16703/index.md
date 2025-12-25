@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16703
 parent_post_id: null
 post_id: "16703"
 title: ""
-url: /dingen/2022/02/16703/
+aliases:
+  - /dingen/2022/02/16703/
 
 ---
 People leaving your team have a cost that is far far larger than what you can directly see (and we know what a challenge directing stuff that you can't see is). These visualizations  

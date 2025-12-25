@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16610
 parent_post_id: null
 post_id: "16610"
 title: ""
-url: /dingen/2021/10/16610/
+aliases:
+  - /dingen/2021/10/16610/
 
 ---
 A quick overview of the importance of communication in software engineering, some guidelines and the many work situations where you will be able to apply this particular skill.

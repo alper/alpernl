@@ -15,7 +15,8 @@ post_id: "2570"
 tags:
   - weeknotes
 title: Week 213
-url: /dingen/2011/04/week-213/
+aliases:
+  - /dingen/2011/04/week-213/
 
 ---
 The weekly bit of media consisted of a brief Radio 1 excerpt about the issue of new anti-piracy legislation. This is of course futile and I did my best to explain such in [a couple of minutes](http://nos.nl/artikel/232279-illegaal-downloaden-wordt-echt-illegaal.html) and [a blogpost](/dingen/2011/04/downloadverbod-op-radio-1/).

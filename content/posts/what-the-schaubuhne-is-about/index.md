@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3420
 parent_post_id: null
 post_id: "3420"
 title: What the SchaubÃ¼hne is about
-url: /dingen/2012/04/what-the-schaubuhne-is-about/
+aliases:
+  - /dingen/2012/04/what-the-schaubuhne-is-about/
 
 ---
 Yesterday night I went to see [Maß für Maß](http://www.schaubuehne.de/de_DE/program/detail/10489810) (Measure for Measure by Shakespeare) at die Schaubühne here in Berlin and it marked the first occasion where I saw a play directed by the intendant of that theater Thomas Ostermeier himself (see [this Guardian piece](http://www.guardian.co.uk/stage/2011/nov/13/thomas-ostermeier-hamlet-schaubuhne) for a bit of background).

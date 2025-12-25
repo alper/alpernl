@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15392
 parent_post_id: null
 post_id: "15392"
 title: ""
-url: /dingen/2019/05/15392/
+aliases:
+  - /dingen/2019/05/15392/
 
 ---
 Even given that this is an amazing job description, you don't often see companies describing themselves as a ‘socio-technical system’. This is a great way to show off both your care and your depth of thinking.

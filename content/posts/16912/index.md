@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16912
 parent_post_id: null
 post_id: "16912"
 title: ""
-url: /dingen/2022/12/16912/
+aliases:
+  - /dingen/2022/12/16912/
 
 ---
 "Can I be held responsible for the actions which this technology empowers? Would I feel better if I couldn’t?"

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4864
 parent_post_id: null
 post_id: "4864"
 title: Notes from The Pleasures and Sorrows of Work by Alain de Botton
-url: /dingen/2014/01/notes-from-the-pleasures-and-sorrows-of-work-by-alain-de-botton/
+aliases:
+  - /dingen/2014/01/notes-from-the-pleasures-and-sorrows-of-work-by-alain-de-botton/
 
 ---
 This book by Alain de Botton started out slowly for me because I am already quite familiar with the global logistical infrastructure and the various ways our food is made (thanks to the [Keuringsdienst van Waarde](http://keuringsdienstvanwaarde.kro.nl/)). In the second half though with its focus on the moral and spiritual aspects did it pick up and became a very worthwhile read.

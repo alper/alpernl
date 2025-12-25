@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17217
 parent_post_id: null
 post_id: "17217"
 title: ""
-url: /dingen/2023/07/17217/
+aliases:
+  - /dingen/2023/07/17217/
 
 ---
 Nice to see both the scale of the problems that Discord is attacking and the detail of the write-up of how they go about it. I always wondered whether migrating from Cassandra to Scylla would be worth it and it turns out that it is.

@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18238
 parent_post_id: null
 post_id: "18238"
 title: ""
-url: /dingen/2025/05/18238/
+aliases:
+  - /dingen/2025/05/18238/
 
 ---
 A twofer on software estimation that also tallies with my intuition. People are really great at estimating the median which is impossible to communicate to people without deep intuition for software engineering and statistics.

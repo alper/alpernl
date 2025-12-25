@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16640
 parent_post_id: null
 post_id: "16640"
 title: ""
-url: /dingen/2021/11/16640/
+aliases:
+  - /dingen/2021/11/16640/
 
 ---
 A field report from doing incident management by John Allspaw that I can very much relate to with lots of learnings that need to be disseminated: "Focus less on incident metrics and more on signals that people are learning"

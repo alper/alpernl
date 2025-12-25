@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5613
 parent_post_id: null
 post_id: "5613"
 title: Highlights for Invisible Cities by Italo Calvino
-url: /dingen/2016/09/highlights-for-invisible-cities-by-italo-calvino/
+aliases:
+  - /dingen/2016/09/highlights-for-invisible-cities-by-italo-calvino/
 
 ---
 > Memory is redundant: it repeats signs so that the city can begin to exist.

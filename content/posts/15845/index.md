@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15845
 parent_post_id: null
 post_id: "15845"
 title: ""
-url: /dingen/2019/11/15845/
+aliases:
+  - /dingen/2019/11/15845/
 
 ---
 A thorough and very useful teardown by Lara Hogan of management at the various levels of indirection.

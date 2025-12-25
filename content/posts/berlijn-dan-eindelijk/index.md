@@ -7,7 +7,8 @@ post_id: "178"
 tags:
   - reizen
 title: Berlijn dan eindelijk
-url: /dingen/2007/11/berlijn-dan-eindelijk/
+aliases:
+  - /dingen/2007/11/berlijn-dan-eindelijk/
 
 ---
 Na een lange en drukke rit door Nederland naar Arnhem en dan naar Berlijn, zitten we dan eindelijk in Berlijn in Eelke's designerstube.

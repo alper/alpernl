@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15993
 parent_post_id: null
 post_id: "15993"
 title: ""
-url: /dingen/2020/02/15993/
+aliases:
+  - /dingen/2020/02/15993/
 
 ---
 That is a fully comprehensive and excellent list of guidelines to unlearn toxic behaviour in code reviews by Sandya Sankarram.

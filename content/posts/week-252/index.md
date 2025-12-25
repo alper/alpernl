@@ -12,7 +12,8 @@ post_id: "3248"
 tags:
   - weeknotes
 title: Week 252
-url: /dingen/2012/01/week-252/
+aliases:
+  - /dingen/2012/01/week-252/
 
 ---
 Last week was a week in Amsterdam (and what a week it was!).

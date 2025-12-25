@@ -8,7 +8,8 @@ tags:
   - muziek
   - radio
 title: Lon Gisland
-url: /dingen/2008/01/lon-gisland/
+aliases:
+  - /dingen/2008/01/lon-gisland/
 
 ---
 Volgens mij had ik op dit blog nog niet gezegd hoe goed ik het orkestar [Beirut](http://en.wikipedia.org/wiki/Beirut_%28band%29) vind.

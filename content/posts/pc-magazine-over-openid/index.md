@@ -11,7 +11,8 @@ tags:
   - internet
   - journalistiek
 title: PC Magazine over OpenID
-url: /dingen/2007/05/pc-magazine-over-openid/
+aliases:
+  - /dingen/2007/05/pc-magazine-over-openid/
 
 ---
 Ik lees bijna geen print media, maar de meeste mensen boven de 30 doen dat wel en laten zich in hun beslissingen ook daardoor leiden. Daar moeten we rekening mee houden.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17718
 parent_post_id: null
 post_id: "17718"
 title: ""
-url: /dingen/2024/11/17718/
+aliases:
+  - /dingen/2024/11/17718/
 
 ---
 I painstakingly built a bespoke Rust web application to host the [Cuppings](https://cuppin.gs) venue data and to add Google place\_ids to almost 2000 Foursquare location. That's been done for a while now but now we have the announcement of Foursquare open sourcing their location dataset.

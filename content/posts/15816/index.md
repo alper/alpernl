@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15816
 parent_post_id: null
 post_id: "15816"
 title: ""
-url: /dingen/2019/11/15816/
+aliases:
+  - /dingen/2019/11/15816/
 
 ---
 I remember some very early conversations about the Basslet (now Lofelt) and its creative possibilities. Building their own design tools for this medium is a key move and I look forward to trying it out.

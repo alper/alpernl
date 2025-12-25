@@ -11,7 +11,8 @@ tags:
   - internet
   - journalistiek
 title: De Volkskrant toch maar opzeggen
-url: /dingen/2007/06/de-volkskrant-toch-maar-opzeggen/
+aliases:
+  - /dingen/2007/06/de-volkskrant-toch-maar-opzeggen/
 
 ---
 [![Alper en Pieter Hilhorst](http://farm2.static.flickr.com/1314/564358043_24afc03d47_m.jpg)](http://www.flickr.com/photos/alper/564358043/ "Photo Sharing")_Foto [Sebastiaan ter Burg](http://www.ter-burg.nl/)_

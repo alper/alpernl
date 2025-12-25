@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16260
 parent_post_id: null
 post_id: "16260"
 title: ""
-url: /dingen/2020/08/16260/
+aliases:
+  - /dingen/2020/08/16260/
 
 ---
 > "Viele Unternehmen sehen zu viele theoretische Risiken statt einfach zu vertrauen, dass Menschen grundsätzlich mit Freiheiten verantwortungsvoll umgehen."

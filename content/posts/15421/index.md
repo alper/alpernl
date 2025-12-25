@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15421
 parent_post_id: null
 post_id: "15421"
 title: ""
-url: /dingen/2019/05/15421/
+aliases:
+  - /dingen/2019/05/15421/
 
 ---
 > “The key to building this aura is to become increasingly detail oriented, to be more prepared than anyone else, and to have a higher bar than those around you.”

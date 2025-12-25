@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15249
 parent_post_id: null
 post_id: "15249"
 title: Highlights for Street of Thieves
-url: /dingen/2019/03/highlights-for-street-of-thieves/
+aliases:
+  - /dingen/2019/03/highlights-for-street-of-thieves/
 
 ---
 > I choked and turned tail, fled once again, fled faced with myself; I left at a run; there are things that can’t be fixed. Actually, nothing can be fixed.

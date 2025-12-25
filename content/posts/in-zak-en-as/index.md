@@ -16,7 +16,8 @@ tags:
   - tudelft
   - universiteit
 title: In zak en as
-url: /dingen/2008/05/in-zak-en-as/
+aliases:
+  - /dingen/2008/05/in-zak-en-as/
 
 ---
 Ik merk dat na [het voorval bij Bouwkunde](http://bijzinnen.com/log/entry.php?id=794) van de week mensen niet blij worden van een alternatief standpunt over de kwestie. Ik was nooit al een fan van architecten en heel droevig kan ik er niet van worden ((No use crying over spilt milk.)).

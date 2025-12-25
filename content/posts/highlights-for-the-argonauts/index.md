@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5878
 parent_post_id: null
 post_id: "5878"
 title: Highlights for the Argonauts
-url: /dingen/2017/11/highlights-for-the-argonauts/
+aliases:
+  - /dingen/2017/11/highlights-for-the-argonauts/
 
 ---
 > "I was so happy renting in New York City for so long because renting—or at least the way I rented, which involved never lifting a finger to better my surroundings—allows you to let things literally fall apart all around you. Then, when it gets to be too much, you just move on.

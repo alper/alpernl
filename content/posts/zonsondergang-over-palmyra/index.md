@@ -17,7 +17,8 @@ tags:
   - time-lapse
   - zomerreis-2007
 title: Zonsondergang over Palmyra
-url: /dingen/2007/09/zonsondergang-over-palmyra/
+aliases:
+  - /dingen/2007/09/zonsondergang-over-palmyra/
 
 ---
 Ik heb geen idee hoe ik zo snel een Quicktime embed op dit blog plak. Vimeo even uitgeprobeerd wat een goede videosite is maar het FLV formaat is nog steeds redelijk bar qua kwaliteit.

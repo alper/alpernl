@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1786
 parent_post_id: null
 post_id: "1786"
 title: Ranking our schools for better effect
-url: /dingen/2010/05/ranking-our-schools-for-better-effect/
+aliases:
+  - /dingen/2010/05/ranking-our-schools-for-better-effect/
 
 ---
 Last week we had this piece of news in the Netherlands: [“Scholenranglijst van Trouw heeft effect”](http://nos.nl/artikel/156731-scholenranglijst-van-trouw-heeft-effect.html) (School ranking by Dutch newspaper Trouw sorts effect):

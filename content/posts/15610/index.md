@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15610
 parent_post_id: null
 post_id: "15610"
 title: ""
-url: /dingen/2019/08/15610/
+aliases:
+  - /dingen/2019/08/15610/
 
 ---
 We do our own flavor of attachment parenting and this is still one of my favorite pieces about motherhood.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16174
 parent_post_id: null
 post_id: "16174"
 title: 'nrc.next game-recensie: Where is my Heart?'
-url: /dingen/2020/07/nrc-next-game-recensie-where-is-my-heart/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-where-is-my-heart/
 
 ---
 “Where is my Heart?”is een platform-puzzelspel van Deense sensatie Die Gute Fabrik. Je bestuurt om beurten een van drie ontheemde monsters die een tocht door het bos maken om de weg naar huis te vinden. De monsters zijn erg charmant geanimeerd, de niveau's in het bos zijn getekend in pixelart van een toverachtige schoonheid en de soundtrack bestaat uit stemmige 8-bit muziek die zich tijdens het spel mee ontwikkelt. De uitvoering is perfect, maar die is niet zo belangrijk.

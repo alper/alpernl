@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15415
 parent_post_id: null
 post_id: "15415"
 title: ""
-url: /dingen/2019/05/15415/
+aliases:
+  - /dingen/2019/05/15415/
 
 ---
 https://twitter.com/TheOnion/status/1128726771942219781

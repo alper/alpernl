@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16673
 parent_post_id: null
 post_id: "16673"
 title: ""
-url: /dingen/2021/12/16673/
+aliases:
+  - /dingen/2021/12/16673/
 
 ---
 > _I noticed \[concrete observation\]. Is everything ok?_

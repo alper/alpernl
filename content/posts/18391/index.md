@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18391
 parent_post_id: null
 post_id: "18391"
 title: ""
-url: /dingen/2025/10/18391/
+aliases:
+  - /dingen/2025/10/18391/
 
 ---
 That's a deep dive through layers and layers of abstraction from Rust to LLVM intrinsics to instruction expansion at the processor level.

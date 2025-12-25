@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6035
 parent_post_id: null
 post_id: "6035"
 title: Highlights for Be Like the Fox
-url: /dingen/2018/07/highlights-for-be-like-the-fox/
+aliases:
+  - /dingen/2018/07/highlights-for-be-like-the-fox/
 
 ---
 > His design ‘was to write for a tyrant those things that are pleasing to tyrants, bringing about in this way, if he could, the tyrant’s self-willed and swift downfall’.

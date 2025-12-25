@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16170
 parent_post_id: null
 post_id: "16170"
 title: 'nrc.next game-recensie: Phone Story'
-url: /dingen/2020/07/nrc-next-game-recensie-phone-story/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-phone-story/
 
 ---
 Kinderen dwingen om erts te verzamelen, zelfmoordende fabrieksarbeiders opvangen, gadgets werpen naar blind rennende consumenten zijn niet de dingen die je in een game verwacht. Het kon bij de censoren van Apple ook niet door de beugel. Het spel Phone Story waarin dit allemaal gebeurt heeft een paar uur in de App Store gestaan voor Apple het verwijderde.

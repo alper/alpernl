@@ -21,7 +21,8 @@ tags:
   - uncategorized
   - weekend
 title: "Daily life in Ð¡Ð¾Ñ„Ð¸Ñ\x8F"
-url: /dingen/2008/08/daily-life-in-софия/
+aliases:
+  - /dingen/2008/08/daily-life-in-софия/
 
 ---
 It's nice to have friends who are pushing their bounds photographically to try and improve their skill and to see them improve leaps and bounds as a result of that.

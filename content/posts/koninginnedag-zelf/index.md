@@ -12,7 +12,8 @@ tags:
   - feest
   - fotografie
 title: Koninginnedag zelf
-url: /dingen/2007/05/koninginnedag-zelf/
+aliases:
+  - /dingen/2007/05/koninginnedag-zelf/
 
 ---
 En dan de Koninginnedag zelf, traditioneel begonnen met een kater en dan haasten naar het optreden op het Agathaplein (video daarvan volgt nog). De rest van de dag is dan een oranje waas van capoeira en bier.

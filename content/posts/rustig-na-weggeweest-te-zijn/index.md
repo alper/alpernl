@@ -9,7 +9,8 @@ post_id: "184"
 tags:
   - reizen
 title: Rustig na weggeweest te zijn
-url: /dingen/2007/11/rustig-na-weggeweest-te-zijn/
+aliases:
+  - /dingen/2007/11/rustig-na-weggeweest-te-zijn/
 
 ---
 Het is hier wat rustig, nadat ik een week ben weggeweest. Het weekje Berlijn afgesloten met twee dagen Maastricht ((Wat is dat een mooie stad, trouwens.)) op de batizado van onze goede vriend Vulcão en zijn groep [Capoeira Interação](http://www.capoeirahelmond.nl/).

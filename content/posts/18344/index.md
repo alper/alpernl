@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18344
 parent_post_id: null
 post_id: "18344"
 title: ""
-url: /dingen/2025/09/18344/
+aliases:
+  - /dingen/2025/09/18344/
 
 ---
 Compared to the way I had to learn about B-trees (poorly photocopied sheets bound into a reader), this interactive page is a dream.

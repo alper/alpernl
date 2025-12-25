@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16546
 parent_post_id: null
 post_id: "16546"
 title: ""
-url: /dingen/2021/08/16546/
+aliases:
+  - /dingen/2021/08/16546/
 
 ---
 I'm following the model here where I'm growing a team to 10 people or so after which I'm hoping to find a natural point to split things up again.

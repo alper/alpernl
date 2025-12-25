@@ -24,7 +24,8 @@ post_id: "3899"
 tags:
   - weeknotes
 title: 'Week 289: moving out, moving on and some small events'
-url: /dingen/2012/10/week-289-moving-out-moving-on-and-some-small-events/
+aliases:
+  - /dingen/2012/10/week-289-moving-out-moving-on-and-some-small-events/
 
 ---
 Last week I built a new version of the [Pig Chase](http://playingwithpigs.nl/) client for the final test in the stables (more on which later).

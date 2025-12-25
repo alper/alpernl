@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/categories/games/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/12/18707/</link>
+      <link>http://localhost:1313/blog/18707/</link>
       <pubDate>Sun, 21 Dec 2025 23:51:01 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18707</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m glad that Robert Yang is still making games like these. One of the more original and interesting thinkers in game design/development.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/09/18305/</link>
+      <link>http://localhost:1313/blog/18305/</link>
       <pubDate>Sun, 07 Sep 2025 10:26:03 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18305</guid> 
       <description>&lt;p&gt;How much time for an innovative/edgy/creative agency to copy this (poorly) in Berlin?&lt;/p&gt;
@@ -26,7 +26,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/03/18141/</link>
+      <link>http://localhost:1313/blog/18141/</link>
       <pubDate>Fri, 14 Mar 2025 15:55:06 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18141</guid> 
       <description>&lt;p&gt;Chronicle of how you make a hit game. Balatro is amazing even if I ripped through it in a couple of days.&lt;/p&gt;
@@ -34,7 +34,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/01/17934/</link>
+      <link>http://localhost:1313/blog/17934/</link>
       <pubDate>Wed, 15 Jan 2025 09:56:26 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17934</guid> 
       <description>&lt;p&gt;Running a LLM on a Nintendo Switch is a marvellous little hack and it&amp;rsquo;s also a testament to the strength of NVIDIA&amp;rsquo;s platform.&lt;/p&gt;
@@ -42,7 +42,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/12/17766/</link>
+      <link>http://localhost:1313/blog/17766/</link>
       <pubDate>Fri, 06 Dec 2024 10:38:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17766</guid> 
       <description>&lt;p&gt;That&amp;rsquo;s an amazing overview of all the things that can and will go wrong in online PvP gaming. It covers the range from networking exploits to all the in-game ways that people try to grief or abuse others.&lt;/p&gt;
@@ -50,14 +50,14 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/11/17665/</link>
+      <link>http://localhost:1313/blog/17665/</link>
       <pubDate>Sun, 03 Nov 2024 17:34:50 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17665</guid> 
       <description>&lt;p&gt;Cancelled Apple Arcade because I haven’t seen a nice game enter the set in months now.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/10/17614/</link>
+      <link>http://localhost:1313/blog/17614/</link>
       <pubDate>Thu, 03 Oct 2024 00:51:26 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17614</guid> 
       <description>&lt;p&gt;The Game of Sisyphus is hilarious, as is this write-up.&lt;/p&gt;
@@ -65,7 +65,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/08/17572/</link>
+      <link>http://localhost:1313/blog/17572/</link>
       <pubDate>Tue, 06 Aug 2024 17:18:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17572</guid> 
       <description>&lt;p&gt;You start out writing a small flask app that gets a bunch of traffic, then rewrite it in an afternoon and then look at this: &amp;ldquo;The site was rock-solid after the go rewrite.&amp;rdquo;&lt;/p&gt;
@@ -74,7 +74,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/03/17481/</link>
+      <link>http://localhost:1313/blog/17481/</link>
       <pubDate>Sun, 10 Mar 2024 09:55:59 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17481</guid> 
       <description>&lt;p&gt;The comments online around the Apple Vision Pro have been pretty deranged in a stupid kind of way. Lots of people jumped to the foregone conclusion that Apple released a failure or that it &amp;ldquo;wasn&amp;rsquo;t going to be a success&amp;rdquo;. Most of that seemed to have been motivated by clout chasing.&lt;/p&gt;
@@ -82,7 +82,7 @@
     </item>
     <item>
       <title>Death Stranding</title>
-      <link>http://localhost:1313/dingen/2024/03/death-stranding/</link>
+      <link>http://localhost:1313/blog/death-stranding/</link>
       <pubDate>Sun, 03 Mar 2024 22:44:52 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17468</guid> 
       <description>&lt;p&gt;Last night I sat down to finish Death Stranding and after beating the final boss it took an additional two hours of story, dream sequences, credit sequences and false endings before it was over. Or not quite over but finished and into the open ended chapter: “Tomorrow is in your Hands.”&lt;/p&gt;
@@ -90,7 +90,7 @@
     </item>
     <item>
       <title>2023 Year in Review</title>
-      <link>http://localhost:1313/dingen/2024/01/2023-year-in-review/</link>
+      <link>http://localhost:1313/blog/2023-year-in-review/</link>
       <pubDate>Mon, 01 Jan 2024 01:49:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17382</guid> 
       <description>&lt;p&gt;Looking back on 2023 I can say that we made lemonade out of an overall pretty shit year.&lt;/p&gt;
@@ -98,7 +98,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/03/17097/</link>
+      <link>http://localhost:1313/blog/17097/</link>
       <pubDate>Sat, 04 Mar 2023 07:59:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17097</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been playing Breath of the Wild while I&amp;rsquo;m lying flat and my experience is identical to that of Craig here. All the way back to the gold cartridge I used to have for the NES as a kid.&lt;/p&gt;
@@ -106,7 +106,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/10/16622/</link>
+      <link>http://localhost:1313/blog/16622/</link>
       <pubDate>Thu, 28 Oct 2021 18:43:34 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16622</guid> 
       <description>&lt;p&gt;The Pulp game editor is hugely impressive and at the same time making something like this is well within the potential of any small talented group of people who have a bit of time and vision.&lt;/p&gt;
@@ -114,7 +114,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/07/16536/</link>
+      <link>http://localhost:1313/blog/16536/</link>
       <pubDate>Sat, 03 Jul 2021 15:47:26 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16536</guid> 
       <description>&lt;p&gt;Foursquare is responsible for an inordinate amount of good times I&amp;rsquo;ve had, it still powers @cuppings and I&amp;rsquo;m still pleased that we got it to launch in Amsterdam as its first international city.&lt;/p&gt;
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/03/16463/</link>
+      <link>http://localhost:1313/blog/16463/</link>
       <pubDate>Wed, 17 Mar 2021 10:51:28 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16463</guid> 
       <description>&lt;p&gt;A strong hint about the real future of virtual reality and a callback to the MUD era which I had a lot of trouble understanding. Seeing it on Tiktok makes it a lot more tangible in a bunch of ways.&lt;/p&gt;
@@ -130,7 +130,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/09/16288/</link>
+      <link>http://localhost:1313/blog/16288/</link>
       <pubDate>Thu, 17 Sep 2020 22:22:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16288</guid> 
       <description>&lt;p&gt;Looking at some Discord first organizations this describes how they could play out and how much potential is there if you want to put some effort in it.&lt;/p&gt;
@@ -138,7 +138,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/09/16275/</link>
+      <link>http://localhost:1313/blog/16275/</link>
       <pubDate>Sun, 06 Sep 2020 20:00:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16275</guid> 
       <description>&lt;p&gt;It looks like Cards Against Humanity is over and I can&amp;rsquo;t say that I&amp;rsquo;m sad about that.&lt;/p&gt;
@@ -147,7 +147,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/08/16245/</link>
+      <link>http://localhost:1313/blog/16245/</link>
       <pubDate>Sun, 23 Aug 2020 21:56:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16245</guid> 
       <description>&lt;p&gt;This look into QAnon by a game designer goes deeper and is a lot more disturbing.&lt;/p&gt;
@@ -155,7 +155,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/08/16239/</link>
+      <link>http://localhost:1313/blog/16239/</link>
       <pubDate>Sun, 23 Aug 2020 20:48:40 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16239</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m no stranger to ARGs but still I learned a lot from this reading of QAnon as one.&lt;/p&gt;
@@ -163,7 +163,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/08/16232/</link>
+      <link>http://localhost:1313/blog/16232/</link>
       <pubDate>Sun, 16 Aug 2020 13:36:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16232</guid> 
       <description>&lt;blockquote&gt;
@@ -171,7 +171,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/08/16224/</link>
+      <link>http://localhost:1313/blog/16224/</link>
       <pubDate>Sun, 16 Aug 2020 13:20:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16224</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/aaronzlewis/status/1291889682788253696&#34;&gt;https://twitter.com/aaronzlewis/status/1291889682788253696&lt;/a&gt;&lt;/p&gt;
@@ -184,14 +184,14 @@
     </item>
     <item>
       <title>nrc.next game-recensie: Desert Golfing</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-desert-golfing/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-desert-golfing/</link>
       <pubDate>Mon, 20 Jul 2020 22:35:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16183</guid> 
       <description>&lt;p&gt;Desert Golfing is een game over golfen in de woestijn. In een twee-dimensionaal pastelkleurig woestijnlandschap moet je een bal de hole in schieten. Je vinger bepaalt de kracht en de hoek van je slag en als je loslaat vliegt de bal weg. Hoe ver je bal komt, hoe vaak hij stuitert en hoe lang hij doorrolt voelen perfect, eigenlijk precies alsof je echt golf speelt in een woestijn. Alleen ben je hier na 18 holes niet klaar. We weten nu dat er duizenden willekeurig gegenereerde woestijnlandschappen—de een moeilijker dan de andere—wachten om gespeeld te worden en er is nog geen einde in zicht. De combinatie van eenvoud en oneindigheid maken dat je Desert Golfing lang kunt blijven spelen. Het is een fijn tussendoortje voor onderweg en tegelijkertijd een meditatie op hoeveel er met heel weinig mogelijk is.&lt;/p&gt;</description>
     </item>
     <item>
       <title>nrc.next game-recensie: Prison Architect</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-prison-architect/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-prison-architect/</link>
       <pubDate>Mon, 20 Jul 2020 22:34:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16180</guid> 
       <description>&lt;figure&gt;
@@ -200,14 +200,14 @@
     </item>
     <item>
       <title>nrc.next game-recensie: Proteus</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-proteus/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-proteus/</link>
       <pubDate>Mon, 20 Jul 2020 22:31:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16178</guid> 
       <description>&lt;p&gt;Je kon hem al spelen, maar Proteus van Ed Key is nu eindelijk officieel uit. Proteus is de naam van het willekeurig gegenereerde eiland wat je bezoekt. Aangekomen op het strand zie je op het eerste gezicht alleen wat bomen maar als je verder loopt kom je gaandeweg dieren en ook andere objecten tegen. Door rond te lopen beïnvloed je het eiland. Dat zie je niet alleen, je hoort het vooral in de muziek (gecomponeerd door David Kanaga) en de geluiden die allebei reageren op wat je doet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>nrc.next game-recensie: Botanicula</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-botanicula/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-botanicula/</link>
       <pubDate>Mon, 20 Jul 2020 22:30:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16176</guid> 
       <description>&lt;p&gt;Het langverwachte “Botanicula”van Amanita Design is uit en het is nog mooier dan de vorige spellen (Samorost, Machinarium etc.) van deze studio. De jaren werk die erin zitten zijn af te zien en te horen aan dit spel dat verbaast door zijn pure schoonheid.&lt;/p&gt;
@@ -215,14 +215,14 @@
     </item>
     <item>
       <title>nrc.next game-recensie: Where is my Heart?</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-where-is-my-heart/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-where-is-my-heart/</link>
       <pubDate>Mon, 20 Jul 2020 22:29:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16174</guid> 
       <description>&lt;p&gt;“Where is my Heart?”is een platform-puzzelspel van Deense sensatie Die Gute Fabrik. Je bestuurt om beurten een van drie ontheemde monsters die een tocht door het bos maken om de weg naar huis te vinden. De monsters zijn erg charmant geanimeerd, de niveau&amp;rsquo;s in het bos zijn getekend in pixelart van een toverachtige schoonheid en de soundtrack bestaat uit stemmige 8-bit muziek die zich tijdens het spel mee ontwikkelt. De uitvoering is perfect, maar die is niet zo belangrijk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>nrc.next game-recensie: The Binding of Isaac</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-the-binding-of-isaac/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-the-binding-of-isaac/</link>
       <pubDate>Mon, 20 Jul 2020 22:28:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16172</guid> 
       <description>&lt;p&gt;In ‘The Binding of Isaac’ wil Isaacs godsdienstwaanzinnige moeder hem opofferen zoals in het gelijknamige bijbelverhaal. Jij moet Isaac helpen ontsnappen in een hellegang onder zijn eigen huis. Een apart thema en off-beat humor zoals we eerder ook zagen in Super Meat Boy van dezelfde maker.&lt;/p&gt;
@@ -230,7 +230,7 @@
     </item>
     <item>
       <title>nrc.next game-recensie: Phone Story</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-phone-story/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-phone-story/</link>
       <pubDate>Mon, 20 Jul 2020 22:27:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16170</guid> 
       <description>&lt;p&gt;Kinderen dwingen om erts te verzamelen, zelfmoordende fabrieksarbeiders opvangen, gadgets werpen naar blind rennende consumenten zijn niet de dingen die je in een game verwacht. Het kon bij de censoren van Apple ook niet door de beugel. Het spel Phone Story waarin dit allemaal gebeurt heeft een paar uur in de App Store gestaan voor Apple het verwijderde.&lt;/p&gt;
@@ -238,7 +238,7 @@
     </item>
     <item>
       <title>nrc.next game-recensie: The Cat and the Coup</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-the-cat-and-the-coup/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-the-cat-and-the-coup/</link>
       <pubDate>Mon, 20 Jul 2020 22:26:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16168</guid> 
       <description>&lt;p&gt;Op 5 maart 1967 overlijdt Dr. Mohammad Mossadeq na een gevecht met keelkanker. Hij had daarvoor jarenlang in de gevangenis en onder huisarrest gezeten omdat hij als premier van Iran zijn volk wilde bevrijden van de Engelse koloniale invloed. De Engels-Amerikaanse staatsgreep die hem afzette heeft een grote invloed gehad op de wereldgeschiedenis maar dit inspirerende en historisch belangrijke verhaal is nauwelijks bekend in het Westen.&lt;/p&gt;
@@ -246,7 +246,7 @@
     </item>
     <item>
       <title>nrc.next game-recensie: Inside a Star-filled Sky</title>
-      <link>http://localhost:1313/dingen/2020/07/nrc-next-game-recensie-inside-a-star-filled-sky/</link>
+      <link>http://localhost:1313/blog/nrc-next-game-recensie-inside-a-star-filled-sky/</link>
       <pubDate>Mon, 20 Jul 2020 22:25:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16166</guid> 
       <description>&lt;p&gt;Het lijkt een leuke variant van Space Invaders maar Inside a Star-filled Sky heeft oneindig veel meer te bieden.&lt;/p&gt;
@@ -254,7 +254,7 @@
     </item>
     <item>
       <title>Neo Cab</title>
-      <link>http://localhost:1313/dingen/2019/05/neo-cab/</link>
+      <link>http://localhost:1313/blog/neo-cab/</link>
       <pubDate>Mon, 06 Jul 2020 20:21:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15472</guid> 
       <description>&lt;p&gt;Ages ago we also made a &lt;a href=&#34;https://whatsthehubbub.nl/projects/vrije-vogels/&#34;&gt;game&lt;/a&gt; that:&lt;/p&gt;
@@ -273,7 +273,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/02/15995/</link>
+      <link>http://localhost:1313/blog/15995/</link>
       <pubDate>Sat, 08 Feb 2020 23:16:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15995</guid> 
       <description>&lt;p&gt;Reading back on Fallen London I spent altogether too much time on it in the beginning but don&amp;rsquo;t have the heart to go back, that is if the city would even take me back at this point.&lt;/p&gt;
@@ -281,7 +281,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/01/15948/</link>
+      <link>http://localhost:1313/blog/15948/</link>
       <pubDate>Wed, 29 Jan 2020 21:48:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15948</guid> 
       <description>&lt;p&gt;Lekha is a former collaborator who now has this lovely site of her own. Her sense of systems and many skills have always made it a joy to work with her.&lt;/p&gt;
@@ -289,7 +289,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/11/15816/</link>
+      <link>http://localhost:1313/blog/15816/</link>
       <pubDate>Sun, 10 Nov 2019 09:21:34 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15816</guid> 
       <description>&lt;p&gt;I remember some very early conversations about the Basslet (now Lofelt) and its creative possibilities. Building their own design tools for this medium is a key move and I look forward to trying it out.&lt;/p&gt;
@@ -297,7 +297,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/10/15785/</link>
+      <link>http://localhost:1313/blog/15785/</link>
       <pubDate>Sun, 20 Oct 2019 12:31:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15785</guid> 
       <description>&lt;p&gt;The rise of astrology apps is a kinda grim symptom of our current times.&lt;/p&gt;
@@ -305,7 +305,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15750/</link>
+      <link>http://localhost:1313/blog/15750/</link>
       <pubDate>Sat, 28 Sep 2019 08:51:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15750</guid> 
       <description>&lt;p&gt;The necessity of physical fitness to create peak mental performance has been a well-known fact in esports. Useful to see the documented effects of pushing yourself cognitively within the chess world.&lt;/p&gt;
@@ -316,7 +316,7 @@
     </item>
     <item>
       <title>Puzzels kinderen van Juf Jannie</title>
-      <link>http://localhost:1313/dingen/2019/05/puzzels-kinderen-van-juf-jannie/</link>
+      <link>http://localhost:1313/blog/puzzels-kinderen-van-juf-jannie/</link>
       <pubDate>Sun, 05 May 2019 09:31:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15370</guid> 
       <description>&lt;p&gt;Deze Nederlandstalige app van &lt;a href=&#34;https://www.jufjannie.nl/&#34;&gt;Juf Jannie&lt;/a&gt; belooft puzzels voor kinderen vanaf 2 jaar aan te bieden maar de interactie en gebruiksvriendelijkheid zijn erbarmelijk slecht.&lt;/p&gt;
@@ -328,7 +328,7 @@
     </item>
     <item>
       <title>Toddler Counting 123</title>
-      <link>http://localhost:1313/dingen/2019/05/toddler-counting-123/</link>
+      <link>http://localhost:1313/blog/toddler-counting-123/</link>
       <pubDate>Wed, 01 May 2019 10:32:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15372</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/de/app/z%C3%A4hlen-f%C3%BCr-die-kleinsten-123-lerne-zu-z%C3%A4hlen/id536476423?mt=8&#34;&gt;Zählen für die Kleinsten 123&lt;/a&gt; heb ik gekocht omdat er een Nederlandse versie van is (inclusief de audio). Helaas is de kwaliteit te slecht om dat vaker aan te horen en de interactiviteit laat veel te wensen over.&lt;/p&gt;
@@ -338,7 +338,7 @@
     </item>
     <item>
       <title>Dikkie Dik spelletjes</title>
-      <link>http://localhost:1313/dingen/2019/05/dikkie-dik-spelletjes/</link>
+      <link>http://localhost:1313/blog/dikkie-dik-spelletjes/</link>
       <pubDate>Wed, 01 May 2019 10:30:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15373</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/de/app/dikkie-dik-spelletjes/id527008784?mt=8&#34;&gt;Dikkie Dik spelletjes&lt;/a&gt; is een officiele app van de uitgever Gottmer. Het is een rijke verzameling spelletjes maar over het algemeen matig bruikbaar en ongeschikt voor kinderen van 2 jaar oud.&lt;/p&gt;
@@ -348,7 +348,7 @@
     </item>
     <item>
       <title>Talk at Interaction16</title>
-      <link>http://localhost:1313/dingen/2016/03/talk-at-interaction16/</link>
+      <link>http://localhost:1313/blog/talk-at-interaction16/</link>
       <pubDate>Sun, 06 Mar 2016 22:21:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5494</guid> 
       <description>&lt;p&gt;I just got back from &lt;a href=&#34;http://interaction16.ixda.org/&#34;&gt;Interaction&lt;/a&gt; in Helsinki having given my talk about how &lt;a href=&#34;http://interaction16.ixda.org/session/conversations-are-the-new-interfaces/&#34;&gt;Conversations are the New Interfaces&lt;/a&gt;.&lt;/p&gt;
@@ -360,7 +360,7 @@
     </item>
     <item>
       <title>Firewatch lowers the narrative bar for games and that is fine</title>
-      <link>http://localhost:1313/dingen/2016/02/firewatch-lowers-the-narrative-bar-for-games-and-that-is-fine/</link>
+      <link>http://localhost:1313/blog/firewatch-lowers-the-narrative-bar-for-games-and-that-is-fine/</link>
       <pubDate>Mon, 15 Feb 2016 09:40:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5481</guid> 
       <description>&lt;p&gt;I was really anticipating &lt;a href=&#34;http://www.firewatchgame.com/&#34;&gt;Firewatch&lt;/a&gt; and I was sorely disappointed as was of course bound to happen.&lt;/p&gt;
@@ -373,7 +373,7 @@
     </item>
     <item>
       <title>A not so secret Hitler</title>
-      <link>http://localhost:1313/dingen/2015/12/a-not-so-secret-hitler/</link>
+      <link>http://localhost:1313/blog/a-not-so-secret-hitler/</link>
       <pubDate>Sun, 27 Dec 2015 20:46:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5425</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.theawl.com/2015/12/the-humbling-and-inspiring-tale-of-the-game-that-proved-hitlers-name-is-still-worth-at-least-a-million-dollars&#34;&gt;Rob Dubbin at the Awl&lt;/a&gt; has written a comprehensive account of what is wrong with &lt;a href=&#34;https://www.kickstarter.com/projects/maxtemkin/secret-hitler&#34;&gt;Secret Hitler&lt;/a&gt;. I agree with his critique but I want to highlight one issue in particular.&lt;/p&gt;
@@ -381,7 +381,7 @@
     </item>
     <item>
       <title>Breaking into the English speaking world</title>
-      <link>http://localhost:1313/dingen/2015/08/breaking-into-the-english-speaking-world/</link>
+      <link>http://localhost:1313/blog/breaking-into-the-english-speaking-world/</link>
       <pubDate>Tue, 25 Aug 2015 07:34:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5259</guid> 
       <description>&lt;p&gt;Last week we finally got featured with Bycatch on &lt;a href=&#34;http://boingboing.net/2015/08/20/bycatch-card-game.html&#34;&gt;Boingboing&lt;/a&gt; and &lt;a href=&#34;http://www.fastcodesign.com/3050202/simulate-the-fatal-fallibility-of-drone-strikeswith-a-fun-card-game&#34;&gt;Fast Company&lt;/a&gt; thanks to our invitation to the XOXO festival. It is amazing to see what that attention does and what kind of effect that has on sales.&lt;/p&gt;
@@ -393,7 +393,7 @@
     </item>
     <item>
       <title>The International 2015</title>
-      <link>http://localhost:1313/dingen/2015/08/the-international-2015/</link>
+      <link>http://localhost:1313/blog/the-international-2015/</link>
       <pubDate>Wed, 12 Aug 2015 10:41:56 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5233</guid> 
       <description>&lt;p&gt;This was my situation for most of last week watching The International main event take place thanks to the time difference.&lt;/p&gt;
@@ -402,7 +402,7 @@
     </item>
     <item>
       <title>DOTA night at Meltdown Esports Bar</title>
-      <link>http://localhost:1313/dingen/2015/02/dota-night-at-meltdown-esports-bar/</link>
+      <link>http://localhost:1313/blog/dota-night-at-meltdown-esports-bar/</link>
       <pubDate>Mon, 23 Feb 2015 17:56:03 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5164</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/16544389286&#34; title=&#34;Dota night at Meltdown by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;Dota night at Meltdown&#34; loading=&#34;lazy&#34; src=&#34;https://farm8.staticflickr.com/7332/16544389286_480c94066a_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -410,7 +410,7 @@
     </item>
     <item>
       <title>Esports spectating in the U-Bahn</title>
-      <link>http://localhost:1313/dingen/2015/02/esports-spectating-in-the-u-bahn/</link>
+      <link>http://localhost:1313/blog/esports-spectating-in-the-u-bahn/</link>
       <pubDate>Sun, 15 Feb 2015 17:13:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5154</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/16304909209&#34; title=&#34;DAC Grand Final in the U-Bahn by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;DAC Grand Final in the U-Bahn&#34; loading=&#34;lazy&#34; src=&#34;https://farm8.staticflickr.com/7319/16304909209_837190404d_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -419,7 +419,7 @@
     </item>
     <item>
       <title>Counter Strike: Global Offensive</title>
-      <link>http://localhost:1313/dingen/2015/02/counter-strike-global-offensive/</link>
+      <link>http://localhost:1313/blog/counter-strike-global-offensive/</link>
       <pubDate>Sun, 15 Feb 2015 12:04:07 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5151</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/15854911054&#34; title=&#34;GeForce GTX AllStar Tournament by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;GeForce GTX AllStar Tournament&#34; loading=&#34;lazy&#34; src=&#34;https://farm9.staticflickr.com/8616/15854911054_2c3f74976a_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -428,7 +428,7 @@
     </item>
     <item>
       <title>Panamax</title>
-      <link>http://localhost:1313/dingen/2015/02/panamax/</link>
+      <link>http://localhost:1313/blog/panamax/</link>
       <pubDate>Sun, 08 Feb 2015 23:20:33 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5141</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/16266633097&#34; title=&#34;Panamax time by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;Panamax time&#34; loading=&#34;lazy&#34; src=&#34;https://farm8.staticflickr.com/7342/16266633097_16a1b4277b_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -437,7 +437,7 @@
     </item>
     <item>
       <title>Console gaming after the fact: Mirror&#39;s Edge</title>
-      <link>http://localhost:1313/dingen/2015/01/console-gaming-after-the-fact-mirrors-edge/</link>
+      <link>http://localhost:1313/blog/console-gaming-after-the-fact-mirrors-edge/</link>
       <pubDate>Thu, 08 Jan 2015 11:44:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5094</guid> 
       <description>&lt;blockquote&gt;
@@ -448,7 +448,7 @@
     </item>
     <item>
       <title>Console gaming after the fact: Call of Duty Modern Warfare 2</title>
-      <link>http://localhost:1313/dingen/2015/01/console-gaming-after-the-fact-call-of-duty-modern-warfare-2/</link>
+      <link>http://localhost:1313/blog/console-gaming-after-the-fact-call-of-duty-modern-warfare-2/</link>
       <pubDate>Thu, 08 Jan 2015 11:42:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5095</guid> 
       <description>&lt;blockquote&gt;
@@ -459,7 +459,7 @@
     </item>
     <item>
       <title>Console gaming after the fact</title>
-      <link>http://localhost:1313/dingen/2014/12/console-gaming-after-the-fact/</link>
+      <link>http://localhost:1313/blog/console-gaming-after-the-fact/</link>
       <pubDate>Mon, 29 Dec 2014 11:58:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5088</guid> 
       <description>&lt;p&gt;I have found myself in the custody of a Playstation 3 console and have borrowed a couple dozen games to play over the holidays. This came to be after I mentioned to my local game design support group that I hadn&amp;rsquo;t played anything on a console for over ten years and that I was quite happy with that state of being. They thought that this was unacceptable.&lt;/p&gt;
@@ -469,7 +469,7 @@
     </item>
     <item>
       <title>Console gaming after the fact: Killzone 2</title>
-      <link>http://localhost:1313/dingen/2014/12/console-gaming-after-the-fact-killzone-2/</link>
+      <link>http://localhost:1313/blog/console-gaming-after-the-fact-killzone-2/</link>
       <pubDate>Thu, 25 Dec 2014 14:21:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5093</guid> 
       <description>&lt;p&gt;Extremely crude but a decent shooter nonetheless. Can be a bit of a slough at times but now that I&amp;rsquo;ve played more from the genre that seems to be par for the course.&lt;/p&gt;
@@ -481,7 +481,7 @@
     </item>
     <item>
       <title>Console gaming after the fact: The Last of Us</title>
-      <link>http://localhost:1313/dingen/2014/12/console-gaming-after-the-fact-the-last-of-us/</link>
+      <link>http://localhost:1313/blog/console-gaming-after-the-fact-the-last-of-us/</link>
       <pubDate>Thu, 25 Dec 2014 14:14:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5091</guid> 
       <description>&lt;blockquote&gt;
@@ -492,17 +492,17 @@
     </item>
     <item>
       <title>Recensie Desert Golfing in de nrc.next</title>
-      <link>http://localhost:1313/dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/</link>
+      <link>http://localhost:1313/blog/recensie-desert-golfing-in-de-nrc-next/</link>
       <pubDate>Wed, 03 Sep 2014 10:07:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5052</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;screen520x924.jpeg&#34;&gt;&lt;img alt=&#34;screen520x924&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/screen520x924.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;screen520x924.jpeg&#34;&gt;&lt;img alt=&#34;screen520x924&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/recensie-desert-golfing-in-de-nrc-next/screen520x924.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In de &lt;a href=&#34;http://www.nrc.nl/&#34;&gt;nrc.next&lt;/a&gt; van vandaag staat &lt;a href=&#34;https://blendle.nl/i/nrcnext/golfen-in-de-woestijn/bnl-nn-20140903-1415978&#34;&gt;de eerste helft&lt;/a&gt; van mijn recensie van de iOS sensatie &lt;a href=&#34;https://itunes.apple.com/us/app/desert-golfing/id902062673?mt=8&#34;&gt;Desert Golfing&lt;/a&gt;. Hier is de rest:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Desert Golfing is een game over golfen in de woestijn. In een twee-dimensionaal pastelkleurig woestijnlandschap moet je een bal de hole in schieten. Je vinger bepaalt de kracht en de hoek van je slag en als je loslaat vliegt de bal weg. Hoe ver je bal komt, hoe vaak hij stuitert en hoe lang hij doorrolt voelen perfect, eigenlijk precies alsof je echt golf speelt in een woestijn. Alleen ben je hier na 18 holes niet klaar. De maker laat niet veel los maar spelers hebben ontdekt dat er duizenden willekeurig gegenereerde woestijnlandschappen—de een moeilijker dan de andere—wachten om gespeeld te worden. Of er een einde aan komt weten we niet. De combinatie van eenvoud en oneindigheid maken dat je Desert Golfing lang kunt blijven spelen. Het is een fijn tussendoortje voor onderweg en tegelijkertijd een meditatie op hoeveel er met heel weinig mogelijk is.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recensie: Prison Architect</title>
-      <link>http://localhost:1313/dingen/2013/07/recensie-prison-architect/</link>
+      <link>http://localhost:1313/blog/recensie-prison-architect/</link>
       <pubDate>Fri, 05 Jul 2013 16:53:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4680</guid> 
       <description>&lt;p&gt;Hij staat ook bij Niels op de site in &lt;a href=&#34;http://nielsthooft.com/paid-alphas&#34;&gt;het blokje paid alpha&amp;rsquo;s&lt;/a&gt; wat erg leuk geworden is. Prison Architect is een curieus spel en ik heb er een tijdje op gezeten om te kijken of ze het nu af gingen maken of niet en uiteindelijk heb ik dit korte stukje ervan gemaakt:&lt;/p&gt;
@@ -511,7 +511,7 @@
     </item>
     <item>
       <title>Recess! 13 - Game Design as a Nihilistic Endeavour</title>
-      <link>http://localhost:1313/dingen/2013/05/recess-13-game-design-as-a-nihilistic-endeavour/</link>
+      <link>http://localhost:1313/blog/recess-13-game-design-as-a-nihilistic-endeavour/</link>
       <pubDate>Fri, 24 May 2013 20:15:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4585</guid> 
       <description>&lt;p&gt;I have a current shtick that says that game designers harbour no illusions about human reality. Designing and testing a game on people reveal the murky depths of human nature in a way few other pursuits do. Take even the simplest game with the possibility of deception and it will often devolve into the horrible treatment of one player for the advantage of another.&lt;/p&gt;
@@ -519,7 +519,7 @@
     </item>
     <item>
       <title>Recess! 10</title>
-      <link>http://localhost:1313/dingen/2013/04/recess-10/</link>
+      <link>http://localhost:1313/blog/recess-10/</link>
       <pubDate>Sat, 20 Apr 2013 10:34:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4503</guid> 
       <description>&lt;p&gt;I played a bunch of &lt;a href=&#34;http://www.puppygames.net/ultratron/&#34;&gt;Ultratron&lt;/a&gt; over the past couple of weeks. It&amp;rsquo;s beautiful pulsing dance of bullets that lost its charm somewhere past level 100 where I thought I had the game beat, but everything keeps on repeating ever faster. That was eleven hours of obsessive pleasure (according to Steam) followed by emptiness.&lt;/p&gt;
@@ -527,7 +527,7 @@
     </item>
     <item>
       <title>Recess! 7 - Game Gluttony</title>
-      <link>http://localhost:1313/dingen/2013/03/recess-7-game-gluttony/</link>
+      <link>http://localhost:1313/blog/recess-7-game-gluttony/</link>
       <pubDate>Sat, 23 Mar 2013 20:35:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4400</guid> 
       <description>&lt;p&gt;Dear &lt;a href=&#34;http://nielsthooft.com/recess-5-in-a-world&#34;&gt;Niels&lt;/a&gt; and &lt;a href=&#34;http://tumblr.leapfrog.nl/post/45336328421/recess-6-less-of-a-game&#34;&gt;Kars&lt;/a&gt;,&lt;/p&gt;
@@ -535,7 +535,7 @@
     </item>
     <item>
       <title>Proteus Recensie voor de nrc.next</title>
-      <link>http://localhost:1313/dingen/2013/03/proteus-recensie-voor-de-nrc-next/</link>
+      <link>http://localhost:1313/blog/proteus-recensie-voor-de-nrc-next/</link>
       <pubDate>Mon, 04 Mar 2013 07:54:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4357</guid> 
       <description>&lt;p&gt;Hier mijn recensie van &lt;a href=&#34;http://www.visitproteus.com/&#34;&gt;Proteus&lt;/a&gt; voor de &lt;a href=&#34;http://nrcnext.nl/&#34;&gt;nrc.next&lt;/a&gt; een paar weken geleden geplaatst (dit is een fractie van &lt;a href=&#34;http://www.gamasutra.com/view/feature/186735/proteus_a_trio_of_artisanal_game_.php&#34;&gt;wat Bogost heeft gedaan op Gamasutra&lt;/a&gt; maar in Nederland is er geen plek, tijd of geld voor games):&lt;/p&gt;
@@ -544,7 +544,7 @@
     </item>
     <item>
       <title>Recess! 4 â€” Glass</title>
-      <link>http://localhost:1313/dingen/2013/03/recess-4-glass/</link>
+      <link>http://localhost:1313/blog/recess-4-glass/</link>
       <pubDate>Fri, 01 Mar 2013 19:37:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4352</guid> 
       <description>&lt;p&gt;Hi Niels &amp;amp; Kars,&lt;/p&gt;
@@ -552,23 +552,23 @@
     </item>
     <item>
       <title>Week 307</title>
-      <link>http://localhost:1313/dingen/2013/02/week-307/</link>
+      <link>http://localhost:1313/blog/week-307/</link>
       <pubDate>Wed, 06 Feb 2013 08:09:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4254</guid> 
       <description>&lt;p&gt;Last Monday &lt;a href=&#34;http://uber.com/&#34;&gt;Uber&lt;/a&gt; had drinks here in Berlin and took a complimentary Uber there to chat with their Berlin team. The experience was extremely comfortable but given big city traffic it wasn&amp;rsquo;t very fast ((I could have done the same distance quicker by public transportation and even a well-trained runner may have beat the S Class Mercedes.)). In cities where the cab market is unreliable and corrupt I can definitely imagine the appeal of Uber. People working on transit apps should take note, this is the way it should work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recess! 1 - Proteus and nature</title>
-      <link>http://localhost:1313/dingen/2013/02/recess-1-proteus-and-nature/</link>
+      <link>http://localhost:1313/blog/recess-1-proteus-and-nature/</link>
       <pubDate>Tue, 05 Feb 2013 14:00:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4255</guid> 
-      <description>&lt;p&gt;&lt;em&gt;Recess! is a correspondence series with personal ruminations on games.&lt;/em&gt; &lt;a href=&#34;http://localhost:1313/dingen/2013/02/recess-1-proteus-and-nature/proteus2/&#34;&gt;&lt;img alt=&#34;proteus2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/2013/02/recess-1-proteus-and-nature/proteus2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Recess! is a correspondence series with personal ruminations on games.&lt;/em&gt; &lt;a href=&#34;http://localhost:1313/dingen/2013/02/recess-1-proteus-and-nature/proteus2/&#34;&gt;&lt;img alt=&#34;proteus2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/recess-1-proteus-and-nature/proteus2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dear &lt;a href=&#34;http://leapfrog.nl/&#34;&gt;Kars&lt;/a&gt; and &lt;a href=&#34;http://nielsthooft.com/&#34;&gt;Niels&lt;/a&gt;,&lt;/p&gt;
 &lt;p&gt;I finally bought &lt;a href=&#34;http://www.visitproteus.com/&#34;&gt;Proteus&lt;/a&gt; yesterday and though I really wanted to like it, I only half succeeded. It truly is a beautiful looking game but I do care a great deal about goals in the games I play (otherwise I probably would have loved &lt;a href=&#34;http://www.glitch.com/&#34;&gt;Glitch&lt;/a&gt; too). Proteus has even fewer goals than &lt;a href=&#34;http://dear-esther.com/&#34;&gt;Dear Esther&lt;/a&gt;. I can chase a few animals but other than that there isn&amp;rsquo;t much else to do on the island than to look at the spectacular sunsets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recensie nrc.next: The Binding of Isaac</title>
-      <link>http://localhost:1313/dingen/2013/01/recensie-nrc-next-the-binding-of-isaac/</link>
+      <link>http://localhost:1313/blog/recensie-nrc-next-the-binding-of-isaac/</link>
       <pubDate>Tue, 15 Jan 2013 07:43:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4086</guid> 
       <description>&lt;p&gt;Recensie verschenen in de &lt;a href=&#34;http://www.nrcnext.nl/&#34;&gt;nrc.next&lt;/a&gt; ergens in oktober 2011:&lt;/p&gt;
@@ -578,7 +578,7 @@
     </item>
     <item>
       <title>Recensie nrc.next: Where Is My Heart?</title>
-      <link>http://localhost:1313/dingen/2013/01/recensie-nrc-next-where-is-my-heart/</link>
+      <link>http://localhost:1313/blog/recensie-nrc-next-where-is-my-heart/</link>
       <pubDate>Tue, 08 Jan 2013 07:45:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4089</guid> 
       <description>&lt;p&gt;Recensie verschenen in de &lt;a href=&#34;http://www.nrcnext.nl/&#34;&gt;nrc.next&lt;/a&gt; ergens in december 2011:&lt;/p&gt;
@@ -587,7 +587,7 @@
     </item>
     <item>
       <title>Recensie nrc.next: Botanicula</title>
-      <link>http://localhost:1313/dingen/2013/01/recensie-nrc-next-botanicula/</link>
+      <link>http://localhost:1313/blog/recensie-nrc-next-botanicula/</link>
       <pubDate>Tue, 01 Jan 2013 07:25:59 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4091</guid> 
       <description>&lt;p&gt;Recensie verschenen in de &lt;a href=&#34;http://www.nrcnext.nl/&#34;&gt;nrc.next&lt;/a&gt; van 20 juni 2012:&lt;/p&gt;
@@ -597,7 +597,7 @@
     </item>
     <item>
       <title>Recensiewerk voor de nrc.next</title>
-      <link>http://localhost:1313/dingen/2012/12/recensiewerk-voor-de-nrc-next/</link>
+      <link>http://localhost:1313/blog/recensiewerk-voor-de-nrc-next/</link>
       <pubDate>Thu, 27 Dec 2012 07:51:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4085</guid> 
       <description>&lt;p&gt;Ik ben even in de e-mail archieven gedoken om mijn recensie-arbeid voor de &lt;a href=&#34;http://www.nrcnext.nl/&#34;&gt;nrc.next&lt;/a&gt; te verzamelen. Naast wat er al op het ter-ziele-gegane &lt;a href=&#34;http://bashers.nl/&#34;&gt;Bashers&lt;/a&gt; staat, zal ik de rest hier posten.&lt;/p&gt;
@@ -608,7 +608,7 @@
     </item>
     <item>
       <title>Games on Ignite Berlin #3</title>
-      <link>http://localhost:1313/dingen/2012/10/games-on-ignite-berlin-3/</link>
+      <link>http://localhost:1313/blog/games-on-ignite-berlin-3/</link>
       <pubDate>Thu, 25 Oct 2012 11:41:45 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3965</guid> 
       <description>&lt;p&gt;Last week I &lt;a href=&#34;http://igniteberlin.com/2012/10/alper-cugun-new-games-for-new-cities/&#34;&gt;presented at the Berlin Ignite&lt;/a&gt;. I had been present at the last one and greatly enjoyed, so I looked what I could add to the mix.&lt;/p&gt;
@@ -616,7 +616,7 @@
     </item>
     <item>
       <title>Week 282: back in Berlin, street games at Play Publik</title>
-      <link>http://localhost:1313/dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/</link>
+      <link>http://localhost:1313/blog/week-282-back-in-berlin-street-games-at-play-publik/</link>
       <pubDate>Sat, 18 Aug 2012 08:00:20 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3775</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/7724995406/&#34; title=&#34;Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby&#34; loading=&#34;lazy&#34; src=&#34;http://farm9.staticflickr.com/8423/7724995406_bc89014832.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -624,7 +624,7 @@
     </item>
     <item>
       <title>Blind Sequence Trust</title>
-      <link>http://localhost:1313/dingen/2012/04/blind-sequence-trust/</link>
+      <link>http://localhost:1313/blog/blind-sequence-trust/</link>
       <pubDate>Thu, 12 Apr 2012 17:03:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3503</guid> 
       <description>&lt;p&gt;De serie video&amp;rsquo;s &lt;a href=&#34;http://www.dam-berlin.de/mlExhibitions-pa-showpage-pid-1-newlang-english.html&#34;&gt;Blind Sequence Trust&lt;/a&gt; van kunstenaar &lt;a href=&#34;http://www.kubasik.biz/&#34;&gt;Joan Leandre&lt;/a&gt; speelt in DAM nog tot en met 5 mei.&lt;/p&gt;
@@ -633,7 +633,7 @@
     </item>
     <item>
       <title>A Dutch theater debate in Berlin</title>
-      <link>http://localhost:1313/dingen/2012/04/a-dutch-theater-debate-in-berlin/</link>
+      <link>http://localhost:1313/blog/a-dutch-theater-debate-in-berlin/</link>
       <pubDate>Wed, 11 Apr 2012 17:45:12 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3424</guid> 
       <description>&lt;p&gt;A week or two ago I attended a discussion at the Deutsches Theater &lt;a href=&#34;http://www.deutschestheater.de/spielplan/spielplan/holland_in_not/&#34;&gt;‘Holland in Not’&lt;/a&gt; that was organized because of &lt;a href=&#34;http://www.spiegel.de/spiegel/vorab/0,1518,820528,00.html&#34;&gt;a recently published book “Der Kulturinfarkt, vom Allem zu viel und überall das Gleiche”&lt;/a&gt; that proposed to close half of all theaters in Germany.&lt;/p&gt;
@@ -641,7 +641,7 @@
     </item>
     <item>
       <title>Cultural Criticism Without Borders</title>
-      <link>http://localhost:1313/dingen/2011/12/cultural-criticism-without-borders/</link>
+      <link>http://localhost:1313/blog/cultural-criticism-without-borders/</link>
       <pubDate>Sun, 15 Jan 2012 23:28:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3165</guid> 
       <description>&lt;p&gt;When I just got into Germany we managed to pin point something I had noticed before. It is striking how conservative people in Germany are when it comes to the internet and especially people who work in cultural positions. Compared to that, the Netherlands of the past five years has gone through a rather tumultuous revolution.&lt;/p&gt;
@@ -649,7 +649,7 @@
     </item>
     <item>
       <title>Cultural Consumption 2011</title>
-      <link>http://localhost:1313/dingen/2012/01/cultural-consumption-2011/</link>
+      <link>http://localhost:1313/blog/cultural-consumption-2011/</link>
       <pubDate>Thu, 05 Jan 2012 16:49:47 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3205</guid> 
       <description>&lt;p&gt;I dived into my log to make the yearly tally of what I did and saw. All in all 2011 has proven to be a good year.&lt;/p&gt;
@@ -667,7 +667,7 @@
     </item>
     <item>
       <title>Week 226</title>
-      <link>http://localhost:1313/dingen/2011/07/week-226/</link>
+      <link>http://localhost:1313/blog/week-226/</link>
       <pubDate>Mon, 18 Jul 2011 19:12:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2718</guid> 
       <description>&lt;p&gt;Last week a bunch of visual progress was made on &lt;em&gt;culiacán&lt;/em&gt;. Expect an August release on that.&lt;/p&gt;
@@ -676,7 +676,7 @@
     </item>
     <item>
       <title>Why write about games?</title>
-      <link>http://localhost:1313/dingen/2011/05/why-write-about-games/</link>
+      <link>http://localhost:1313/blog/why-write-about-games/</link>
       <pubDate>Tue, 17 May 2011 00:49:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2611</guid> 
       <description>&lt;p&gt;Some of my own misgivings about whether to write about games and related phenomena or not are reflected in &lt;a href=&#34;http://www.lostgarden.com/2011/05/blunt-critique-of-game-criticism.html&#34;&gt;the critique of game criticism&lt;/a&gt; at Lost Garden.&lt;/p&gt;
@@ -685,7 +685,7 @@
     </item>
     <item>
       <title>Ontsnappen van het dode speleiland</title>
-      <link>http://localhost:1313/dingen/2011/02/ontsnappen-van-het-dode-speleiland/</link>
+      <link>http://localhost:1313/blog/ontsnappen-van-het-dode-speleiland/</link>
       <pubDate>Tue, 22 Feb 2011 00:02:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2427</guid> 
       <description>&lt;p&gt;Mijn &lt;a href=&#34;http://bashers.nl/goede-game-of-niet-de-trailer-van-dead-island-is-belangrijk&#34;&gt;stukje over de trailer&lt;/a&gt; van &lt;a href=&#34;http://en.wikipedia.org/wiki/Dead_Island&#34;&gt;Dead Island&lt;/a&gt; die we vorige week zagen staat online bij &lt;a href=&#34;http://www.bashers.nl&#34;&gt;Bashers&lt;/a&gt; (mijn debuut). Zie verder ook &lt;a href=&#34;http://bashers.nl/goede-game-of-niet-de-trailer-van-dead-island-is-belangrijk#comments&#34;&gt;de comments&lt;/a&gt;.&lt;/p&gt;</description>

@@ -12,7 +12,8 @@ post_id: "3682"
 tags:
   - weeknotes
 title: 'Week 275: Athens'
-url: /dingen/2012/07/week-275-athens/
+aliases:
+  - /dingen/2012/07/week-275-athens/
 
 ---
 The week before last I spent in Athens mostly hanging out, going to the beach and getting some work done.

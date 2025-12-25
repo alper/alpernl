@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18340
 parent_post_id: null
 post_id: "18340"
 title: ""
-url: /dingen/2025/09/18340/
+aliases:
+  - /dingen/2025/09/18340/
 
 ---
 Litestar is an interesting addition to the list of Python microframeworks with a lot going for it.

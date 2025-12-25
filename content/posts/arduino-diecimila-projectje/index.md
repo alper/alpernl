@@ -11,7 +11,8 @@ post_id: "300"
 tags:
   - uncategorized
 title: Arduino Diecimila projectje
-url: /dingen/2008/05/arduino-diecimila-projectje/
+aliases:
+  - /dingen/2008/05/arduino-diecimila-projectje/
 
 ---
 Het is al een tijdje geek-chique om te zeggen dat [Arduino's](http://www.arduino.cc/) cool zijn en te wensen dat je de tijd had om ermee te spelen. Dat vond ik wat vrijblijvend worden, dus ik heb maar een starters-setje besteld.

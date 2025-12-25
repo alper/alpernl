@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16954
 parent_post_id: null
 post_id: "16954"
 title: ""
-url: /dingen/2023/01/16954/
+aliases:
+  - /dingen/2023/01/16954/
 
 ---
 > "This may surprise you, but continuous deployment is far and away the easiest way to write, ship, and run code in production. This is the counterintuitive truth about software: making lots of little changes swiftly is infinitely easier than making a few bulky changes slowly."

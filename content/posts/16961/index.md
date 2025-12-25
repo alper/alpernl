@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16961
 parent_post_id: null
 post_id: "16961"
 title: ""
-url: /dingen/2023/01/16961/
+aliases:
+  - /dingen/2023/01/16961/
 
 ---
 I love this quirky website, The Kool-aid Factory and its dynamic publications about company culture and coordination.

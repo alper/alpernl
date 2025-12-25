@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16418
 parent_post_id: null
 post_id: "16418"
 title: ""
-url: /dingen/2021/02/16418/
+aliases:
+  - /dingen/2021/02/16418/
 
 ---
 When it comes to software development most of these are good opinions and you can take them as yours without spending the six years Chris Kiehl needed (or the many more I did).

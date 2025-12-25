@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=764
 parent_post_id: null
 post_id: "764"
 title: Bicycle shoot
-url: /dingen/2009/02/bicycle-shoot/
+aliases:
+  - /dingen/2009/02/bicycle-shoot/
 
 ---
 I’d promised the guys over at [the fixie hyve](http://vastverzet.hyves.nl/) some decent quality pictures of my bike. Shooting pictures of a fixie is something of a thing. So yesterday I went out and shot some:

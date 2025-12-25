@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15561
 parent_post_id: null
 post_id: "15561"
 title: ""
-url: /dingen/2019/07/15561/
+aliases:
+  - /dingen/2019/07/15561/
 
 ---
 Any programming language once it gets big enough will face pressure to turn into Java. PHP succumbed to it, let's see where Go goes. Try isn't that big of an issue but it is a path that eventually may lead to… generics and other stuff.

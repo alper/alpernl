@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15737
 parent_post_id: null
 post_id: "15737"
 title: ""
-url: /dingen/2019/09/15737/
+aliases:
+  - /dingen/2019/09/15737/
 
 ---
 A couple of years ago, I remember seeing at IST airport advertisements for connecting flights to Erbil (Ø£Ø±Ø¨ÙŠÙ„â€Ž). The city seems to have continued growing and by now developed a vibrant nightlife.

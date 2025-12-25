@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16556
 parent_post_id: null
 post_id: "16556"
 title: ""
-url: /dingen/2021/08/16556/
+aliases:
+  - /dingen/2021/08/16556/
 
 ---
 An extremely damning account of the way Vice and also the NYT have treated Naomi Wu with some choice bad behaviour from [people like Doctorow in part 2](https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-2-over-the-wall-and-into-the-fire-5e8efc5c1509) as well.

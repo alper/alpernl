@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=5092
 parent_post_id: null
 post_id: "5092"
 title: 'Console gaming after the fact: Journey'
-url: /dingen/2014/12/console-gaming-after-the-fact-journey/
+aliases:
+  - /dingen/2014/12/console-gaming-after-the-fact-journey/
 
 ---
 This is just a lovely experience. A small, beautiful, near perfect game with graphics that have held up excellently over time. Are there more games like this? If not there should be. This has such a broad appeal and playability.

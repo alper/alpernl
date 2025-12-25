@@ -22,7 +22,8 @@ tags:
   - visualization
   - webworker
 title: Coworker.nl â€” Map of coworking spots in the Netherlands
-url: /dingen/2008/08/coworkernl-—-map-of-coworking-spots-in-the-netherlands/
+aliases:
+  - /dingen/2008/08/coworkernl-—-map-of-coworking-spots-in-the-netherlands/
 
 ---
 Some ideas start out small and then grow larger than you thought imaginable. [Coworker.nl](http://coworker.nl) is one such idea. This is a write up about how it came to be and how you can build your own.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5818
 parent_post_id: null
 post_id: "5818"
 title: Thingscon Amsterdam 2016 Talk on Conversational Interfaces
-url: /dingen/2017/07/thingscon-amsterdam-2016-talk-on-conversational-interfaces/
+aliases:
+  - /dingen/2017/07/thingscon-amsterdam-2016-talk-on-conversational-interfaces/
 
 ---
 For my personal archive, here is the talk I gave at Thingscon Amsterdam last year.

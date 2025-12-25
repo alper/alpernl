@@ -22,7 +22,8 @@ guid: http://alper.nl/dingen/?p=3864
 parent_post_id: null
 post_id: "3864"
 title: Hacking Dutch Parliament
-url: /dingen/2012/09/hacking-dutch-parliament/
+aliases:
+  - /dingen/2012/09/hacking-dutch-parliament/
 
 ---
 I just pulled out this stuff from [my weeknote](http://wp.me/pfcwg-105) into a separate post because I think it merited it.

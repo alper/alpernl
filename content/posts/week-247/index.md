@@ -14,7 +14,8 @@ post_id: "3134"
 tags:
   - weeknotes
 title: Week 247
-url: /dingen/2011/12/week-247/
+aliases:
+  - /dingen/2011/12/week-247/
 
 ---
 Another week and another change at the office. One thing that does define the [Open Coop](http://www.opencooperatie.nl/) is that everything is in a constant state of flux adding jitter so none of us remain stuck in a local optimum. The global optimum we are shooting for in and around our location in North is rather ridiculous but best not shared in public.

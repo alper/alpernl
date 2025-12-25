@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16746
 parent_post_id: null
 post_id: "16746"
 title: Highlights for It's Not About the Burqa
-url: /dingen/2022/03/highlights-for-its-not-about-the-burqa/
+aliases:
+  - /dingen/2022/03/highlights-for-its-not-about-the-burqa/
 
 ---
 > I might not have heard the word ‘feminism’ yet, but I knew that the way women and girls were treated in Saudi Arabia was wrong and that this was not the Islam I was taught, nor did it represent the home I was raised in.

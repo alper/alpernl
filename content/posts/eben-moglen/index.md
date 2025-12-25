@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2190
 parent_post_id: null
 post_id: "2190"
 title: "Eben Moglen â€” â€œWill the net empower the center or the ends?â€\x9D"
-url: /dingen/2010/10/eben-moglen/
+aliases:
+  - /dingen/2010/10/eben-moglen/
 
 ---
 [Bits of Freedom](http://www.bof.nl) did a terrific job hosting a salon with [Eben Moglen](http://en.wikipedia.org/wiki/Eben_Moglen) this afternoon at [The Hub](http://the-hub.net/places/amsterdam.html). As Mr. Moglen did, I am going to take the liberty of assuming you already know who he is ((Otherwise you can read the Wikipedia page and 20+ years of Free Software literature.)) and I'm going to proceed to write a biased view of the afternoon.

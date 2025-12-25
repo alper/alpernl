@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15190
 parent_post_id: null
 post_id: "15190"
 title: ""
-url: /dingen/2019/02/15190/
+aliases:
+  - /dingen/2019/02/15190/
 
 ---
 An excellent talk by Tanya Reilly about the career impacts of technical and glue (non-technical) work especially for underrepresented groups: “Being promoted _is_ diversity work.”

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4836
 parent_post_id: null
 post_id: "4836"
 title: Notes from the Rum Diary by Hunter S. Thompson
-url: /dingen/2013/11/notes-from-the-rum-diary-by-hunter-s-thompson/
+aliases:
+  - /dingen/2013/11/notes-from-the-rum-diary-by-hunter-s-thompson/
 
 ---
 This was a tremendously enjoyable read. I wonder why my English teacher never pointed us in this literary direction for things to read.

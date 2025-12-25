@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5861
 parent_post_id: null
 post_id: "5861"
 title: Highlights from What Got You Here Won't Get You There
-url: /dingen/2017/11/highlights-from-what-got-you-here-wont-get-you-there/
+aliases:
+  - /dingen/2017/11/highlights-from-what-got-you-here-wont-get-you-there/
 
 ---
 > Successful people consistently compare themselves favorably to their peers.

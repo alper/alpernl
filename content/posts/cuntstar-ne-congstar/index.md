@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4889
 parent_post_id: null
 post_id: "4889"
 title: Cuntstar nÃ© Congstar
-url: /dingen/2014/02/cuntstar-ne-congstar/
+aliases:
+  - /dingen/2014/02/cuntstar-ne-congstar/
 
 ---
 I'm currently at a German MVNO called [Congstar](http://www.congstar.de/). Partially because somebody told me that they have LTE (which is not true) and partially because I had gotten rather fed up with my [Vodafone prepaid plan](http://www.vodafone.de/privat/callya-prepaid-karte/callya-karte-aufladen.html) (branded CallYa). Like any service in Germany this one too is terrible and since then I have come to call them Cunststar.

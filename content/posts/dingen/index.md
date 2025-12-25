@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18041
 parent_post_id: null
 post_id: "18041"
 title: '`Paper:'
-url: /dingen/
+aliases:
+  - /dingen/
 
 ---
 [How is Google using AI for internal code migrations?](https://arxiv.org/pdf/2501.06972)

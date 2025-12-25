@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4704
 parent_post_id: null
 post_id: "4704"
 title: Only God Forgives
-url: /dingen/2013/07/only-god-forgives/
+aliases:
+  - /dingen/2013/07/only-god-forgives/
 
 ---
 [![only-god-forgives](only-god-forgives.jpg)](only-god-forgives.jpg)

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16525
 parent_post_id: null
 post_id: "16525"
 title: ""
-url: /dingen/2021/05/16525/
+aliases:
+  - /dingen/2021/05/16525/
 
 ---
 A summary of the agile development holy grail of continuous integration and deployment that is so hard to attain but very much worth it.

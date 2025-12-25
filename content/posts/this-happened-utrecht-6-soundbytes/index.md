@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=1791
 parent_post_id: null
 post_id: "1791"
 title: 'This Happened Utrecht #6 Soundbytes'
-url: /dingen/2010/05/this-happened-utrecht-6-soundbytes/
+aliases:
+  - /dingen/2010/05/this-happened-utrecht-6-soundbytes/
 
 ---
 Last Monday we saw the sixth edition of This Happened taking place and —I haven't seen all, but I've seen more than most— I think this was one of the best ones yet.

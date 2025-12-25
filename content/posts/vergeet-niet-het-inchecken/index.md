@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1380
 parent_post_id: null
 post_id: "1380"
 title: Vergeet niet het inchecken
-url: /dingen/2009/11/vergeet-niet-het-inchecken/
+aliases:
+  - /dingen/2009/11/vergeet-niet-het-inchecken/
 
 ---
 We hadden het pas nog in de kroeg over om [de ov-chipkaart](http://www.ov-chipkaart.nl/) te hijacken en te gebruiken als unieke id voor interactieve digitale projecten. Ik had lang geleden een vergelijkbaar idee om hetzelfde te doen met bijvoorbeeld de AH-bonuskaart. Het zijn allebei machine-leesbare tokens met een uniek nummer die (bijna) iedereen altijd bij zich heeft.

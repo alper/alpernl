@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1510
 parent_post_id: null
 post_id: "1510"
 title: A Film in one Week
-url: /dingen/2010/01/a-film-in-one-week/
+aliases:
+  - /dingen/2010/01/a-film-in-one-week/
 
 ---
 [![tumblr_kvxdj0mg7C1qafgwqo1_1280](tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg)](tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg)[![tumblr_kwfwr3Xtpe1qafgwqo1_1280](tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg)](tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg)

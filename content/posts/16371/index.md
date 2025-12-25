@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16371
 parent_post_id: null
 post_id: "16371"
 title: ""
-url: /dingen/2020/12/16371/
+aliases:
+  - /dingen/2020/12/16371/
 
 ---
 It sounds like a great idea here by Albert Wenger to force all major web properties to provide full read and write access to their APIs and in doing so promote the much needed competition.

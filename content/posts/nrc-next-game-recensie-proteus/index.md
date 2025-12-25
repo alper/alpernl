@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16178
 parent_post_id: null
 post_id: "16178"
 title: 'nrc.next game-recensie: Proteus'
-url: /dingen/2020/07/nrc-next-game-recensie-proteus/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-proteus/
 
 ---
 Je kon hem al spelen, maar Proteus van Ed Key is nu eindelijk officieel uit. Proteus is de naam van het willekeurig gegenereerde eiland wat je bezoekt. Aangekomen op het strand zie je op het eerste gezicht alleen wat bomen maar als je verder loopt kom je gaandeweg dieren en ook andere objecten tegen. Door rond te lopen beïnvloed je het eiland. Dat zie je niet alleen, je hoort het vooral in de muziek (gecomponeerd door David Kanaga) en de geluiden die allebei reageren op wat je doet.

@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=15900
 parent_post_id: null
 post_id: "15900"
 title: ""
-url: /dingen/2019/11/15900/
+aliases:
+  - /dingen/2019/11/15900/
 
 ---
 > “In the new city of the supertalls, man is born free but everywhere is in salad chains. The people are being made skinny to fit the skinniness of the buildings to come.”

@@ -13,7 +13,8 @@ post_id: "3100"
 tags:
   - weeknotes
 title: Week 244
-url: /dingen/2011/11/week-244/
+aliases:
+  - /dingen/2011/11/week-244/
 
 ---
 I had a great time last week working at [the Makers Loft](http://twitter.com/themakersloft) in Kreuzberg while our friends of [Gidsy](http://gidsy.com) were out and about in San Francisco.

@@ -14,7 +14,8 @@ post_id: "4254"
 tags:
   - weeknotes
 title: Week 307
-url: /dingen/2013/02/week-307/
+aliases:
+  - /dingen/2013/02/week-307/
 
 ---
 Last Monday [Uber](http://uber.com/) had drinks here in Berlin and took a complimentary Uber there to chat with their Berlin team. The experience was extremely comfortable but given big city traffic it wasn't very fast ((I could have done the same distance quicker by public transportation and even a well-trained runner may have beat the S Class Mercedes.)). In cities where the cab market is unreliable and corrupt I can definitely imagine the appeal of Uber. People working on transit apps should take note, this is the way it should work.

@@ -9,7 +9,8 @@ post_id: "218"
 tags:
   - feest
 title: Gelukkig nieuwjaar
-url: /dingen/2008/01/gelukkig-nieuwjaar/
+aliases:
+  - /dingen/2008/01/gelukkig-nieuwjaar/
 
 ---
 Eindelijk mijn fotos' van Oud en Nieuw online. Hier een staaltje:

@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18157
 parent_post_id: null
 post_id: "18157"
 title: ""
-url: /dingen/2025/03/18157/
+aliases:
+  - /dingen/2025/03/18157/
 
 ---
 I think this critique of Flamework is a bit rich coming from the author of Flask with its global request object. But there is a point in being able to iterate really quickly, it's even better to be able to work crudely without creating a disastrous unmaintainable mess.

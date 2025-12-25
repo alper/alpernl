@@ -14,7 +14,8 @@ post_id: "2011"
 tags:
   - weeknotes
 title: Weeknotes 176
-url: /dingen/2010/08/weeknotes-176/
+aliases:
+  - /dingen/2010/08/weeknotes-176/
 
 ---
 This week was completely spent with work each day on project Ebi, better known as [PLAY Pilots](http://playpilots.nl). The site is due to launch this week (it in fact [launched](/dingen/2010/08/play-pilots/) [yesterday night](http://twitter.com/playpilots/status/20248282113)).

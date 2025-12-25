@@ -17,7 +17,8 @@ tags:
   - internet
   - radio
 title: Eindelijk Radio 1 luisteren op de Mac
-url: /dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/
+aliases:
+  - /dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/
 
 ---
 Ik heb hier [wel](/blog/alper/623) [vaker](/blog/alper/637) geschreven over de beroerde webstreams beschikbaar voor [Radio 1](http://www.radio1.nl) bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.

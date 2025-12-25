@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1582
 parent_post_id: null
 post_id: "1582"
 title: 'This Happened #5 â€” Brief Impressions'
-url: /dingen/2010/02/this-happened-5-—-brief-impressions/
+aliases:
+  - /dingen/2010/02/this-happened-5-—-brief-impressions/
 
 ---
 Yesterday I attended the fifth edition of [This Happened](http://thishappened.nl/) in Utrecht city. It was a great new iteration with more polish even though it was also a big step up moving the entire event to [a new venue](http://www.hku.nl/web/Faculteiten/Akademietheater.htm).

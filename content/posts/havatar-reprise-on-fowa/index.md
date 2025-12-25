@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=554
 parent_post_id: null
 post_id: "554"
 title: hAvatar reprise on FOWA
-url: /dingen/2008/10/havatar-reprise-on-fowa/
+aliases:
+  - /dingen/2008/10/havatar-reprise-on-fowa/
 
 ---
 Funny to hear from Cristiano that [David Recordon](http://twitter.com/daveman692) just flashed [Four Starters](http://fourstarters.com/) on stage (slide 37 of [this presentation](http://www.slideshare.net/daveman692/blowing-up-social-networks-by-going-open-presentation/)) on FOWA in London to demo the concept of [hAvatar](http://fourstarters.com/2008/01/20/havatar-wordpress-plugin/), a Wordpress plugin I developed about half a year ago. And a strange bit of anti-serendipity this stuff happening in London while I'm in SF.

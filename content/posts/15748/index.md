@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15748
 parent_post_id: null
 post_id: "15748"
 title: ""
-url: /dingen/2019/09/15748/
+aliases:
+  - /dingen/2019/09/15748/
 
 ---
 Good on people to opt-out of imposed citizenship and engage on their own piece of statecraft.

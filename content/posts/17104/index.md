@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17104
 parent_post_id: null
 post_id: "17104"
 title: ""
-url: /dingen/2023/03/17104/
+aliases:
+  - /dingen/2023/03/17104/
 
 ---
 "Success in knowledge isn’t about the facts we know, but by _how good we are at judging the truth of uncertain things_."

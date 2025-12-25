@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18141
 parent_post_id: null
 post_id: "18141"
 title: ""
-url: /dingen/2025/03/18141/
+aliases:
+  - /dingen/2025/03/18141/
 
 ---
 Chronicle of how you make a hit game. Balatro is amazing even if I ripped through it in a couple of days.

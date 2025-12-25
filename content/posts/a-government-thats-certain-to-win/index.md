@@ -16,7 +16,8 @@ guid: http://alper.nl/dingen/?p=15922
 parent_post_id: null
 post_id: "15922"
 title: A government that's certain to win
-url: /dingen/2020/01/a-government-thats-certain-to-win/
+aliases:
+  - /dingen/2020/01/a-government-thats-certain-to-win/
 
 ---
 I'm not that negative about the Dominic Cummings [job ad](https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/), because:

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17427
 parent_post_id: null
 post_id: "17427"
 title: De Correspondent over de Wooncrisis
-url: /dingen/2024/02/de-correspondent-over-de-wooncrisis/
+aliases:
+  - /dingen/2024/02/de-correspondent-over-de-wooncrisis/
 
 ---
 Grappig om te zien dat De Correspondent een serie maakt over de wooncrisis in Nederland:

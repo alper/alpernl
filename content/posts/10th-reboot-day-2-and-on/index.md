@@ -19,7 +19,8 @@ tags:
   - technology
   - uncategorized
 title: 10th Reboot - day 2 and on
-url: /dingen/2008/07/10th-reboot-day-2-and-on/
+aliases:
+  - /dingen/2008/07/10th-reboot-day-2-and-on/
 
 ---
 [![Jerry](http://farm4.static.flickr.com/3063/2627216575_d14945bbc7.jpg)](http://www.flickr.com/photos/alper/2627216575/ "Jerry by illustir, on Flickr")

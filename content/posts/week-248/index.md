@@ -13,7 +13,8 @@ post_id: "3193"
 tags:
   - weeknotes
 title: Week 248
-url: /dingen/2012/01/week-248/
+aliases:
+  - /dingen/2012/01/week-248/
 
 ---
 Some remaindered weeknotes that have been the casualty of an international move.

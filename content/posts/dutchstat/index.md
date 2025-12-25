@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1811
 parent_post_id: null
 post_id: "1811"
 title: Dutchstats - Je persoonlijke atlas van Nederland
-url: /dingen/2010/05/dutchstat/
+aliases:
+  - /dingen/2010/05/dutchstat/
 
 ---
 Release van [Dutchstats](http://bit.ly/dutchstats/) een online interactieve datavisualisatie van verkiezingsuitslagen en statistieken voor Nederlandse gemeenten door [Monster Swell](http://monsterswell.com) een Amsterdams datavisualisatie-bureau i.o.

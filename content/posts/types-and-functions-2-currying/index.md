@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15854
 parent_post_id: null
 post_id: "15854"
 title: 'Types and Functions 2: Currying'
-url: /dingen/2019/11/types-and-functions-2-currying/
+aliases:
+  - /dingen/2019/11/types-and-functions-2-currying/
 
 ---
 It goes wrong fairly quickly when it comes to [Chapter 04: Currying](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch04.html). It is unclear why you would want to do this ((I suspect that that will be a recurring theme.)) and how the code really works.

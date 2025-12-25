@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15724
 parent_post_id: null
 post_id: "15724"
 title: ""
-url: /dingen/2019/09/15724/
+aliases:
+  - /dingen/2019/09/15724/
 
 ---
 Not surprising that those things at the MIT Media Lab that looked too good to be true, were in fact fake.

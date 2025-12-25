@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18264
 parent_post_id: null
 post_id: "18264"
 title: ""
-url: /dingen/2025/07/18264/
+aliases:
+  - /dingen/2025/07/18264/
 
 ---
 Complaining about the Cloud has become fashionable and it's an easy thing to do. What's not so easy is to create strategic room to maneuver.

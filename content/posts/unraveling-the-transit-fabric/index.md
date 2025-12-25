@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=881
 parent_post_id: null
 post_id: "881"
 title: Unraveling the Transit Fabric
-url: /dingen/2009/03/unraveling-the-transit-fabric/
+aliases:
+  - /dingen/2009/03/unraveling-the-transit-fabric/
 
 ---
 Previous efforts of privatizing Dutch rail failed miserably. In 1999 [Lovers Rail](http://nl.wikipedia.org/wiki/Lovers_Rail) ran competing trains along a couple of Dutch tracks ((Among which Amsterdam — Haarlem, also the oldest Dutch railway connection.)). I was just starting my studies in Delft and did a daily commute from Amsterdam where I was living back then ((And where I will be living again in the near future if things work out.)), so I remember their service, though I never actually used it.

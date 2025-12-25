@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17018
 parent_post_id: null
 post_id: "17018"
 title: ""
-url: /dingen/2023/02/17018/
+aliases:
+  - /dingen/2023/02/17018/
 
 ---
 Discord has been executing near perfectly and it looks like they've built-in most of the functionality of Discourse now. That's an absolutely amazing complementary feature to the ephemerality of the chat stream.

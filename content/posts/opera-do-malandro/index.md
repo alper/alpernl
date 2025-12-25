@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1063
 parent_post_id: null
 post_id: "1063"
 title: Opera do Malandro
-url: /dingen/2009/06/opera-do-malandro/
+aliases:
+  - /dingen/2009/06/opera-do-malandro/
 
 ---
 Zondag waren we naar de “Opera do Malandro”opvoering van Chico Buarque door [CODARTS](http://www.codarts.nl/) in Rotterdam. Het was een erg tof muzikaal optreden en een leuke dag. Het was onderdeel van het [Brazil Contemporary](http://www.brazilcontemporary.nl/) festival dat nog doorloopt in Rotterdam.

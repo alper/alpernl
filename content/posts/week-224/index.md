@@ -14,7 +14,8 @@ post_id: "2704"
 tags:
   - weeknotes
 title: Week 224
-url: /dingen/2011/07/week-224/
+aliases:
+  - /dingen/2011/07/week-224/
 
 ---
 Monday I spent all day planning the [Statlas](http://statlas.nl) release and encountered some showstoppers still. That night I went to Utrecht for [This Happened](http://thishappened.nl/).

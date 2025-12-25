@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18277
 parent_post_id: null
 post_id: "18277"
 title: ""
-url: /dingen/2025/07/18277/
+aliases:
+  - /dingen/2025/07/18277/
 
 ---
 The Javascript Date class is so criminally bad, that you will have a better score if you give random answers than if you try to reason about it.

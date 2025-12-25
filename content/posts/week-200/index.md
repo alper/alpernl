@@ -13,7 +13,8 @@ post_id: "2391"
 tags:
   - weeknotes
 title: Week 200
-url: /dingen/2011/01/week-200/
+aliases:
+  - /dingen/2011/01/week-200/
 
 ---
 For project Statlas, we kicked off the design framework with Alexander and made some good strides with that. Also met with Kilian for progress on the renderer.

@@ -13,7 +13,8 @@ post_id: "2200"
 tags:
   - weeknotes
 title: Week 186
-url: /dingen/2010/10/week-186/
+aliases:
+  - /dingen/2010/10/week-186/
 
 ---
 A short week returning from Copenhagen on Monday evening.

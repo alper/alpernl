@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15821
 parent_post_id: null
 post_id: "15821"
 title: ""
-url: /dingen/2019/11/15821/
+aliases:
+  - /dingen/2019/11/15821/
 
 ---
 Always nice to read a positive career history from somebody, like this one by Alicia Hickey, but especially nice if you're in it named as the team lead who made a crucial suggestion.

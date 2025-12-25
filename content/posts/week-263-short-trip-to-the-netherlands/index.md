@@ -12,7 +12,8 @@ post_id: "3467"
 tags:
   - weeknotes
 title: 'Week 263: short trip to the Netherlands'
-url: /dingen/2012/04/week-263-short-trip-to-the-netherlands/
+aliases:
+  - /dingen/2012/04/week-263-short-trip-to-the-netherlands/
 
 ---
 Last week commenced with preparing my presentation for [the CrossLab event in Rotterdam](http://extra.wdka.nl/crosslab/2012/03/14/crosslab-event-dynamic-design/). On Tuesday I took the train from Berlin and got there nicely in time.

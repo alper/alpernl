@@ -11,7 +11,8 @@ post_id: "3139"
 tags:
   - weeknotes
 title: Week 246
-url: /dingen/2011/12/week-246/
+aliases:
+  - /dingen/2011/12/week-246/
 
 ---
 [![Great back room action](http://farm8.staticflickr.com/7161/6432828765_fd9f2406ab.jpg)](http://www.flickr.com/photos/alper/6432828765/ "Great back room action by illustir, on Flickr")

@@ -11,7 +11,8 @@ post_id: "376"
 tags:
   - reading
 title: Books read August 2008
-url: /dingen/2008/09/books-read-august-2008/
+aliases:
+  - /dingen/2008/09/books-read-august-2008/
 
 ---
 In the only month where I somewhat approach Matt Webb's amount of reading, he just goes and [ups his count](http://interconnected.org/home/2008/08/30/books_read_august_2008) to nearly double mine.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16773
 parent_post_id: null
 post_id: "16773"
 title: ""
-url: /dingen/2022/04/16773/
+aliases:
+  - /dingen/2022/04/16773/
 
 ---
 A list by Andreas Klinger about how you should manage people that will be more useful to you than most management books.

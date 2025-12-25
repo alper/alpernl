@@ -13,7 +13,8 @@ post_id: "4652"
 tags:
   - weeknotes
 title: Week 324
-url: /dingen/2013/06/week-324/
+aliases:
+  - /dingen/2013/06/week-324/
 
 ---
 [![Bicycle madness](http://farm3.staticflickr.com/2881/8864206696_05077e9c83_z.jpg)](http://www.flickr.com/photos/alper/8864206696/ "Bicycle madness by illustir, on Flickr")

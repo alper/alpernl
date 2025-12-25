@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18174
 parent_post_id: null
 post_id: "18174"
 title: ""
-url: /dingen/2025/03/18174/
+aliases:
+  - /dingen/2025/03/18174/
 
 ---
 Running a public website these days means staving off attacks from every LLM company in the world trying to get your data (legally or illegally).

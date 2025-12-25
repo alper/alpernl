@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15557
 parent_post_id: null
 post_id: "15557"
 title: Answer GKV Spitzenverband
-url: /dingen/2019/08/answer-gkv-spitzenverband/
+aliases:
+  - /dingen/2019/08/answer-gkv-spitzenverband/
 
 ---
 > Dear Mr. Alper Cugun,

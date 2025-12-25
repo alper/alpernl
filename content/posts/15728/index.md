@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15728
 parent_post_id: null
 post_id: "15728"
 title: ""
-url: /dingen/2019/09/15728/
+aliases:
+  - /dingen/2019/09/15728/
 
 ---
 Piketty is back with a new book but his policy proposals are already there and should be implemented immediately and in full. The only reason we will have to fight for them to pass is because our governments do not work for the people.

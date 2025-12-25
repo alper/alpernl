@@ -14,7 +14,8 @@ post_id: "2064"
 tags:
   - weeknotes
 title: Week 180
-url: /dingen/2010/08/week-180/
+aliases:
+  - /dingen/2010/08/week-180/
 
 ---
 Last week was concerned with finalizing stuff for the first presentation of _guadalajara_. The current concept was more exploratory, we do not seem to have found the point of relevance yet to move forward.

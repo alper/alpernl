@@ -9,7 +9,8 @@ post_id: "176"
 tags:
   - internet
 title: Hyves zit erop
-url: /dingen/2007/10/hyves-zit-erop/
+aliases:
+  - /dingen/2007/10/hyves-zit-erop/
 
 ---
 Ik probeerde vandaag eens te kijken of ik voor een gegeven [Hyves](http://www.hyves.nl)-gebruiker zou kunnen achterhalen wie zijn vrienden zijn. Hyves-profielen en vriendenlijsten zijn te bekijken als je niet ingelogd bent. Daar wilde ik dus een scriptje voor schrijven, en als je dan heel Hyves afgaat kun je zo de complete sociale graaf ophalen ((Je zou denken dat dit niet mag, maar Google doet het ook en dan heet het indexeren voor zoektoepassingen.)), superhandig voor analyse en toepassingen ((Er zijn al mensen die [dit hebben verzonnen](http://wiki2.issuecrawler.net/twiki/bin/view/Dmi/AfstandTussenHyvesNetwerken) en stappen hebben genomen om [dit te realiseren](http://wiki2.issuecrawler.net/twiki/bin/view/Dmi/ScrapesterResearch#Sources).)).

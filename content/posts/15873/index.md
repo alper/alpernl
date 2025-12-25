@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15873
 parent_post_id: null
 post_id: "15873"
 title: ""
-url: /dingen/2019/11/15873/
+aliases:
+  - /dingen/2019/11/15873/
 
 ---
 A bunch of incredibly grim stories of people whose lives were destroyed in the DDR.

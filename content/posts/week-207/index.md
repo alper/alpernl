@@ -15,7 +15,8 @@ post_id: "2475"
 tags:
   - weeknotes
 title: Week 207
-url: /dingen/2011/03/week-207/
+aliases:
+  - /dingen/2011/03/week-207/
 
 ---
 _Maguro_ got its next test and nicely stood up to everything thrown at it.

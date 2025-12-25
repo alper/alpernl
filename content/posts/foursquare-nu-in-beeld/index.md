@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1498
 parent_post_id: null
 post_id: "1498"
 title: Foursquare nu in beeld
-url: /dingen/2010/01/foursquare-nu-in-beeld/
+aliases:
+  - /dingen/2010/01/foursquare-nu-in-beeld/
 
 ---
 Na [het radio-item van vorige week](/dingen/2010/01/foursquare-spelen-op-de-radio/) staat nu het filmpje dat [Lody](http://twitter.com/lodytrepels) en [Annejan](http://twitter.com/annejan) vanochtend van me schoten bij [Dwaze Zaken](http://www.dwazezaken.nl) nu [online op NOS Headlines](http://headlines.nos.nl/forum.php/list_messages/18592).

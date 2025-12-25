@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16896
 parent_post_id: null
 post_id: "16896"
 title: ""
-url: /dingen/2022/10/16896/
+aliases:
+  - /dingen/2022/10/16896/
 
 ---
 Lots of great ways to manage change in organizations. It's a bunch of work to do this, but if you skip these steps, the results can and will backfire. I particularly like the guiding policy strategy where even if I don't know something I can usually spitball the values and invariants of the situation that will fit the result.

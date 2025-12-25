@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17213
 parent_post_id: null
 post_id: "17213"
 title: ""
-url: /dingen/2023/07/17213/
+aliases:
+  - /dingen/2023/07/17213/
 
 ---
 Grateful that Hillel Wayne wrote down here that the 4doc model is not the alpha and omega of documentation and that—like with everything—you should keep thinking while you use it.

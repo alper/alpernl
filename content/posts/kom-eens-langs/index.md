@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16077
 parent_post_id: null
 post_id: "16077"
 title: (kom eens langs)
-url: /dingen/2020/05/kom-eens-langs/
+aliases:
+  - /dingen/2020/05/kom-eens-langs/
 
 ---
 Eerst praten we over van alles en niets.

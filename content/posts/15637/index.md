@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15637
 parent_post_id: null
 post_id: "15637"
 title: ""
-url: /dingen/2019/08/15637/
+aliases:
+  - /dingen/2019/08/15637/
 
 ---
 One of the most well-known examples of code reuse between Android and iOS, Dropbox, is giving up on it because it's too difficult to find people who can/want to write C++ code.

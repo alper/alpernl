@@ -11,7 +11,8 @@ tags:
   - informatie
   - internet
 title: Wordpress openid nu nog beter
-url: /dingen/2007/11/wordpress-openid-nu-nog-beter/
+aliases:
+  - /dingen/2007/11/wordpress-openid-nu-nog-beter/
 
 ---
 Met de vorige versie van de wpopenid+ plugin werden commentaren op dit blog van OpenID-gebruikers anoniem geplaatst. Nu is [OpenID](http://openid.net) een identity systeem, en meestal is anonimiteit wel mogelijk maar niet direct de bedoeling.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16617
 parent_post_id: null
 post_id: "16617"
 title: ""
-url: /dingen/2021/10/16617/
+aliases:
+  - /dingen/2021/10/16617/
 
 ---
 There is a lot of truth to [this Economist article about German humour](https://www.economist.com/1843/2016/07/04/let-me-explain-the-problem-with-german-humour) and I refer back to it a lot.

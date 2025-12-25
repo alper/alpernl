@@ -8,7 +8,8 @@ tags:
   - politiek
   - televisie
 title: Livestro pakt zijn biezen
-url: /dingen/2007/06/livestro-rot-eindelijk-op/
+aliases:
+  - /dingen/2007/06/livestro-rot-eindelijk-op/
 
 ---
 [Fok meldt](http://frontpage.fok.nl/nieuws/78040) dat Joshua Livestro bij [Buitenhof](http://www.buitenhoftv.nl) de laan uit is gestuurd. Dit is een goede zaak. Toen hij aantrad [viel het al tegen](/blog/alper/815) en veel beter is het er niet op geworden.

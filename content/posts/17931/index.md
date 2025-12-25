@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17931
 parent_post_id: null
 post_id: "17931"
 title: ""
-url: /dingen/2025/01/17931/
+aliases:
+  - /dingen/2025/01/17931/
 
 ---
 I think Facebook rolled back their block of Pixelfed but they're right to be spooked. Showing a bunch of pictures in a stream hardly seems like a technological challenge. And what are all the people working at Instagram doing other than figuring out novel ways to track you and serve you ads?

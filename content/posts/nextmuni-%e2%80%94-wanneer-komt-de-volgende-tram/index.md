@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1428
 parent_post_id: null
 post_id: "1428"
 title: NextMuni â€” Wanneer komt de volgende tram?
-url: /dingen/2009/12/nextmuni-—-wanneer-komt-de-volgende-tram/
+aliases:
+  - /dingen/2009/12/nextmuni-—-wanneer-komt-de-volgende-tram/
 
 ---
 De vervoersmaatschappij van San Francisco geeft [de voorspelde aankomsttijd](http://www.sfmta.com/cms/asite/nextmunidata.htm) van het volgende voertuig op een willekeurige halte vrij in een handig XML-formaat. Daarmee kun je leuke dingen bouwen, zoals bijvoorbeeld [een horloge wat de volgende tram](http://headwayblog.com/2009/12/14/telling-time-with-openrealtime-data/) aangeeft.

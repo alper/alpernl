@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18362
 parent_post_id: null
 post_id: "18362"
 title: ""
-url: /dingen/2025/09/18362/
+aliases:
+  - /dingen/2025/09/18362/
 
 ---
 The guide to sqlite query planning and tuning is cool, but what's even better is that this kind of scale and optimisations are possible at all with sqlite.

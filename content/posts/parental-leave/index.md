@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15790
 parent_post_id: null
 post_id: "15790"
 title: Parental leave
-url: /dingen/2019/10/parental-leave/
+aliases:
+  - /dingen/2019/10/parental-leave/
 
 ---
 https://twitter.com/GergelyOrosz/status/1183001025155944448

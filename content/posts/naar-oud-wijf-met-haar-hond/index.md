@@ -10,7 +10,8 @@ tags:
   - fotografie
   - werken
 title: Naar oud wijf met haar hond
-url: /dingen/2007/04/naar-oud-wijf-met-haar-hond/
+aliases:
+  - /dingen/2007/04/naar-oud-wijf-met-haar-hond/
 
 ---
 [![](http://farm1.static.flickr.com/224/475469003_bb18c00395.jpg)](http://www.flickr.com/photos/alper/475469003/ "photo sharing")  

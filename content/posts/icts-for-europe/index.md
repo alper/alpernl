@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1502
 parent_post_id: null
 post_id: "1502"
 title: ICTs for Europe
-url: /dingen/2010/01/icts-for-europe/
+aliases:
+  - /dingen/2010/01/icts-for-europe/
 
 ---
 The hearings for the various European Commissioners were held last week. Our Dutch representative [Neelie Kroes](http://en.wikipedia.org/wiki/Neelie_Kroes) (known from her [ferocious busting of Microsoft's balls](http://en.wikipedia.org/wiki/European_Union_v._Microsoft)) was given a hard time mainly due to political getting back from the Christian and Socialist European fractions for the grilling of their candidates.

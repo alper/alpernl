@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=821
 parent_post_id: null
 post_id: "821"
 title: Hofnar in tijden van crisis
-url: /dingen/2009/03/hofnar-in-crisis/
+aliases:
+  - /dingen/2009/03/hofnar-in-crisis/
 
 ---
 Twee dingen die Stewart wel vaker zegt over de humor van [the Daily Show](http://www.thedailyshow.com/) is dat je dit soort dingen niet kunt verzinnen en dat de gebeurtenissen vaak op het tragische af zijn en de enige manier om eromheen te komen is vaak om erom te lachen.

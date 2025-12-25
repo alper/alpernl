@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17797
 parent_post_id: null
 post_id: "17797"
 title: ""
-url: /dingen/2024/12/17797/
+aliases:
+  - /dingen/2024/12/17797/
 
 ---
 Cal Newport has a quick list of his philosophy for busy people. Saves you from reading his books.

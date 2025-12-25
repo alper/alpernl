@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=564
 parent_post_id: null
 post_id: "564"
 title: Twin Peaks
-url: /dingen/2008/10/twin-peaks/
+aliases:
+  - /dingen/2008/10/twin-peaks/
 
 ---
 Last day in San Francisco we went up to Twin Peaks for this absolutely stunning view over the city:

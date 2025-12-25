@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17280
 parent_post_id: null
 post_id: "17280"
 title: ""
-url: /dingen/2023/09/17280/
+aliases:
+  - /dingen/2023/09/17280/
 
 ---
 A clear write-up of why the GDPR is bad actually (entrenchment of power, illusion of freedom) and everybody who thinks they're progressive should stop pushing it. At its very base the GDPR is a bullshit jobs programme for lawyers.

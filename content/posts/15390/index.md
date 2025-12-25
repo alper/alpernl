@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15390
 parent_post_id: null
 post_id: "15390"
 title: ""
-url: /dingen/2019/05/15390/
+aliases:
+  - /dingen/2019/05/15390/
 
 ---
 Fascinating to read about the care with which Slack designs their workplaces.

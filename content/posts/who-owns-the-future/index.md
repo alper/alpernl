@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4418
 parent_post_id: null
 post_id: "4418"
 title: Who owns the future?
-url: /dingen/2013/03/who-owns-the-future/
+aliases:
+  - /dingen/2013/03/who-owns-the-future/
 
 ---
 [In Conversation: Jaron Lanier and James Bridle On Who Owns the Future?](http://vimeo.com/61418990) from [The School of Life](http://vimeo.com/theschooloflife) on [Vimeo](http://vimeo.com).

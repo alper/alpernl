@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16155
 parent_post_id: null
 post_id: "16155"
 title: ""
-url: /dingen/2020/07/16155/
+aliases:
+  - /dingen/2020/07/16155/
 
 ---
 “It is not quantity of his audience that matters so much as the nature of it, however. And the neoreactionaries do seem to be influencing the drift of Silicon Valley libertarianism, which is no small force today.”

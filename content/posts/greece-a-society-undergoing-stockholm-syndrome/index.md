@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3641
 parent_post_id: null
 post_id: "3641"
 title: Greece, a society undergoing Stockholm syndrome
-url: /dingen/2012/06/greece-a-society-undergoing-stockholm-syndrome/
+aliases:
+  - /dingen/2012/06/greece-a-society-undergoing-stockholm-syndrome/
 
 ---
 I spent last week in Athens because [Lea](http://fraulea.tumblr.com/) was at work at the [Athens & Epidaurus festival](http://www.greekfestival.gr/en/) where [the Schaubühne](http://www.schaubuehne.de/) staged two plays. I spent the week relaxing, working and taking in the Athens air.

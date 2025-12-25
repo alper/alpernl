@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17340
 parent_post_id: null
 post_id: "17340"
 title: A small online drama in three parts
-url: /dingen/2023/12/a-small-online-drama-in-three-parts/
+aliases:
+  - /dingen/2023/12/a-small-online-drama-in-three-parts/
 
 ---
 Suppose you're a well-known journalists hosting a weekly rather left podcast around topics such as migration, the climate and criticism of right-wing frames in the media. And then suppose you let yourself get baited majorly by an American alt-right activist.

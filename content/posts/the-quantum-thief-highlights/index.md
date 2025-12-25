@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4562
 parent_post_id: null
 post_id: "4562"
 title: Highlights from The Quantum Thief by Hannu Rajaniemi
-url: /dingen/2013/06/the-quantum-thief-highlights/
+aliases:
+  - /dingen/2013/06/the-quantum-thief-highlights/
 
 ---
 [The Quantum Thief](http://en.wikipedia.org/wiki/The_Quantum_Thief) was a very stimulating read. Make no mistake. However far off the events in this book may seem, Rajaniemi manages to evoke concepts and create language for issues that we are already dealing with.

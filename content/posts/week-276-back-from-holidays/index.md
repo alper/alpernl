@@ -12,7 +12,8 @@ post_id: "3685"
 tags:
   - weeknotes
 title: 'Week 276: back from holidays'
-url: /dingen/2012/07/week-276-back-from-holidays/
+aliases:
+  - /dingen/2012/07/week-276-back-from-holidays/
 
 ---
 It took a bit to get going again back from Greece.

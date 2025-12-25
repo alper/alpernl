@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16944
 parent_post_id: null
 post_id: "16944"
 title: ""
-url: /dingen/2023/01/16944/
+aliases:
+  - /dingen/2023/01/16944/
 
 ---
 A really enjoyable three part essay series by Hillel Wayne comparing software engineering with traditional engineering disciplines to see whether we are really engineers, whether we are special and what we can learn from each other.

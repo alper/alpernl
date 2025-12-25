@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16303
 parent_post_id: null
 post_id: "16303"
 title: ""
-url: /dingen/2020/09/16303/
+aliases:
+  - /dingen/2020/09/16303/
 
 ---
 A simple solution to this: how about you don't lie to your kids?

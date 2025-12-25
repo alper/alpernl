@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17201
 parent_post_id: null
 post_id: "17201"
 title: ""
-url: /dingen/2023/06/17201/
+aliases:
+  - /dingen/2023/06/17201/
 
 ---
 I started my show and tell at work yesterday with: “Every company has a crazy person talking about #Nix. I never imagine that one day I would be that person but here we are.”

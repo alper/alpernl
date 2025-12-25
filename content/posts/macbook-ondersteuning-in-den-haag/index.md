@@ -9,7 +9,8 @@ post_id: "26"
 tags:
   - apple
 title: Macbook ondersteuning in Den Haag
-url: /dingen/2007/04/macbook-ondersteuning-in-den-haag/
+aliases:
+  - /dingen/2007/04/macbook-ondersteuning-in-den-haag/
 
 ---
 Ik heb net mijn Macbook in Den Haag laten inboeken vanwege een smerige topcase ((Hij was al vervangen, maar de nieuwe nog sneller smerig.)) en [een batterij die het niet goed doet](/dingen/2007/04/batterij-macook-rap-leeg/).

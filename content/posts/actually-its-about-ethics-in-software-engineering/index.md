@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5329
 parent_post_id: null
 post_id: "5329"
 title: Actually it's about ethics in software engineering
-url: /dingen/2015/10/actually-its-about-ethics-in-software-engineering/
+aliases:
+  - /dingen/2015/10/actually-its-about-ethics-in-software-engineering/
 
 ---
 This is an expanded transcription of a tweetstorm (based partially on [conversations with Peter](http://www.thewavingcat.com/2015/10/09/what-we-can-learn-from-vws-emission-scandal-for-iot/)) that starts at this Tweet about the Volkswagen emissions scandal but actually as we go along it will be clear that it is about ethics in software engineering. First the news that started it all.

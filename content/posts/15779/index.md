@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15779
 parent_post_id: null
 post_id: "15779"
 title: ""
-url: /dingen/2019/10/15779/
+aliases:
+  - /dingen/2019/10/15779/
 
 ---
 Tax agencies don't have the resources to audit rich people, so they only make sure that poor people stay within the lines.

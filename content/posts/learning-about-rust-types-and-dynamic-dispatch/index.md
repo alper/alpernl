@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16709
 parent_post_id: null
 post_id: "16709"
 title: Learning about Rust types and dynamic dispatch
-url: /dingen/2022/02/learning-about-rust-types-and-dynamic-dispatch/
+aliases:
+  - /dingen/2022/02/learning-about-rust-types-and-dynamic-dispatch/
 
 ---
 So I had some code very similar to the following that wouldn't compile and me with my old Python head was a bit surprised why this was the case. It was a bit more complicated to figure it out in my example but this simplified version makes it pretty clear.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15266
 parent_post_id: null
 post_id: "15266"
 title: ""
-url: /dingen/2019/03/15266/
+aliases:
+  - /dingen/2019/03/15266/
 
 ---
 Confiscatory fines for people who abuse the housing market like here in Barcelona are the way to go.

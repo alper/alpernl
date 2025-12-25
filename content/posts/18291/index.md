@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18291
 parent_post_id: null
 post_id: "18291"
 title: ""
-url: /dingen/2025/08/18291/
+aliases:
+  - /dingen/2025/08/18291/
 
 ---
 This is the kind of deep and rational thinking we should expect to see from the billionaires who own most of the world. Jeff Bezos, one of the richest people in the world, got so demonised that he had to have a cry about it.

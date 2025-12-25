@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16234
 parent_post_id: null
 post_id: "16234"
 title: ""
-url: /dingen/2020/08/16234/
+aliases:
+  - /dingen/2020/08/16234/
 
 ---
 I thought I knew how big a deal TikTok was a year ago already but I feel sorry for not diving in back then because it is much bigger a deal than I had thought.

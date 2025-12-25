@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16981
 parent_post_id: null
 post_id: "16981"
 title: ""
-url: /dingen/2023/01/16981/
+aliases:
+  - /dingen/2023/01/16981/
 
 ---
 The past couple of weeks I had a bit of a weird feeling because there weren't any new episodes from Piratensender Powerplay. Then I found out Friedemann is out sick but also that they have a Patreon with extra episodes.

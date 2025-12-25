@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18107
 parent_post_id: null
 post_id: "18107"
 title: ""
-url: /dingen/2025/02/18107/
+aliases:
+  - /dingen/2025/02/18107/
 
 ---
 Not a major surprise that minorities would be treated poorly at a nazi charity like the Chan Zuckerberg Initiative.

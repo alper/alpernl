@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17917
 parent_post_id: null
 post_id: "17917"
 title: ""
-url: /dingen/2025/01/17917/
+aliases:
+  - /dingen/2025/01/17917/
 
 ---
 The Agents chapter from Chip Huyen's book "AI Engineering" is clear and enjoyable to read. She's right that "the concept of an agent is fairly simple" but building something functional still looks like a massive lift.

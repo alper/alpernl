@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1226
 parent_post_id: null
 post_id: "1226"
 title: Restauranten gevraagd
-url: /dingen/2009/09/restauranten-gevraagd/
+aliases:
+  - /dingen/2009/09/restauranten-gevraagd/
 
 ---
 Ik hou van veel en lekker eten en ik merk dat ik daarmee in het buitenland beter terecht kan dan in Amsterdam. Hier een paar restaurant-tips die voor mij in Amsterdam ontbreken en waarvan ik denk dat ze weleens een succes kunnen worden.

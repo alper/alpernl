@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16612
 parent_post_id: null
 post_id: "16612"
 title: ""
-url: /dingen/2021/10/16612/
+aliases:
+  - /dingen/2021/10/16612/
 
 ---
 I often get surprised reactions when I say that we don't do Scrum. After reading about how other technology companies run their projects, it seems that Scrum—which is wasteful and does not fit reality—is on the way out.

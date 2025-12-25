@@ -15,7 +15,8 @@ post_id: "2286"
 tags:
   - weeknotes
 title: Week 191
-url: /dingen/2010/11/week-191/
+aliases:
+  - /dingen/2010/11/week-191/
 
 ---
 Last week was the first week that I was back from the Levant. I have notes for the three weeks in between, but I think I'll skip those (though plenty of interesting stuff happened over there too).

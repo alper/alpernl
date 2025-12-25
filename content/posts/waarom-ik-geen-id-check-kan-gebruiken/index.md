@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17600
 parent_post_id: null
 post_id: "17600"
 title: Waarom ik geen ID-Check kan gebruiken
-url: /dingen/2024/09/waarom-ik-geen-id-check-kan-gebruiken/
+aliases:
+  - /dingen/2024/09/waarom-ik-geen-id-check-kan-gebruiken/
 
 ---
 Met een nieuwe identiteitskaart of paspoort die je in het buitenland krijgt (als je niet meer in Nederland woont), kun je niet meer ID-Check van DigiD gebruiken.

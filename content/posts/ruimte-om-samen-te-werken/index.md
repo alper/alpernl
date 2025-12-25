@@ -10,7 +10,8 @@ tags:
   - werken
   - zelfstandig
 title: Ruimte om samen te werken
-url: /dingen/2008/02/ruimte-om-samen-te-werken/
+aliases:
+  - /dingen/2008/02/ruimte-om-samen-te-werken/
 
 ---
 Ik zat al een tijdje na te denken om kantoorruimte in het centrum van Delft te huren om niet meer van huis uit te hoeven werken. [Eelke](http://eelkedekker.nl) die pas terug is uit Berlijn dacht aan hetzelfde (en is tegelijkertijd op zoek naar woonruimte in (en om?) Delft).

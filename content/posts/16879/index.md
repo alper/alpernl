@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16879
 parent_post_id: null
 post_id: "16879"
 title: ""
-url: /dingen/2022/10/16879/
+aliases:
+  - /dingen/2022/10/16879/
 
 ---
 Measuring software development productivity is really complicated. That's in large part what makes it so interesting.

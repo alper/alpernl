@@ -10,7 +10,8 @@ tags:
   - internet
   - werken
 title: In bedrijf
-url: /dingen/2007/11/in-bedrijf/
+aliases:
+  - /dingen/2007/11/in-bedrijf/
 
 ---
 Na veel nadenken en schrijven heb ik dan eindelijk een enigzins presentabele website waar ik mij zakelijk kan manifesteren. Boodschappen van anderen helder formuleren is één ding, voor je zelf is het een stuk moeilijker.

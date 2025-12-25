@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1220
 parent_post_id: null
 post_id: "1220"
 title: Een stukje vrijheid in onze tijd
-url: /dingen/2009/09/een-stukje-vrijheid-in-onze-tijd/
+aliases:
+  - /dingen/2009/09/een-stukje-vrijheid-in-onze-tijd/
 
 ---
 [Bits of Freedom](http://www.bof.nl) leeft weer en stuurt [een brief](http://www.bof.nl/briefminjus070909.html) naar [het Ministerie van Justitie](http://www.minjus.nl/) met aanbevelingen om de privacy van burgers te waarborgen. Het doel van justitie is geen samenleving zonder misdaad, het is een samenleving zonder misdaad maar mét vrijheid.

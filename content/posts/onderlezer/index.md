@@ -16,7 +16,8 @@ tags:
   - teaching
   - werken
 title: Onderlezer
-url: /dingen/2008/05/onderlezer/
+aliases:
+  - /dingen/2008/05/onderlezer/
 
 ---
 Deze [baan als culturele attaché](http://www.newyorker.com/talk/2008/03/10/080310ta_talk_widdicombe) in dienst van [Brian Grazer](http://www.imdb.com/name/nm0004976/) lijkt mij ideaal. In ieder geval totdat ik zelf in de positie ben om zo iemand in te huren voor mezelf.

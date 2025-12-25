@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16626
 parent_post_id: null
 post_id: "16626"
 title: ""
-url: /dingen/2021/10/16626/
+aliases:
+  - /dingen/2021/10/16626/
 
 ---
 I was amazed at how closely this article about product development at Facebook tracks with how I approach it: "PMs are 100% accountable for the results of your team."

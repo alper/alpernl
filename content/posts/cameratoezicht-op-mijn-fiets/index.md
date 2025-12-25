@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2995
 parent_post_id: null
 post_id: "2995"
 title: Cameratoezicht op mijn fiets
-url: /dingen/2011/10/cameratoezicht-op-mijn-fiets/
+aliases:
+  - /dingen/2011/10/cameratoezicht-op-mijn-fiets/
 
 ---
 Onlangs zijn de wielen van mijn racefiets gestript toen deze over het weekend geparkeerd stond op de Korte 's-Gravezandestraat in Amsterdam.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18387
 parent_post_id: null
 post_id: "18387"
 title: ""
-url: /dingen/2025/10/18387/
+aliases:
+  - /dingen/2025/10/18387/
 
 ---
 Visual explanations of mathematical concepts are nice if they work. Here's one such explanation of functional optics which is almost kinda accessible.

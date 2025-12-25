@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5831
 parent_post_id: null
 post_id: "5831"
 title: Highlights from The Truth of Suffering and the Path of Liberation
-url: /dingen/2017/09/highlights-from-the-truth-of-suffering-and-the-path-of-liberation/
+aliases:
+  - /dingen/2017/09/highlights-from-the-truth-of-suffering-and-the-path-of-liberation/
 
 ---
 > ï»¿"Association with those you hate is suffering."

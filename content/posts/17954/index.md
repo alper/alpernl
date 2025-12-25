@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17954
 parent_post_id: null
 post_id: "17954"
 title: ""
-url: /dingen/2025/01/17954/
+aliases:
+  - /dingen/2025/01/17954/
 
 ---
 > **No port/adapter terms to learn, no unnecessary layers of horizontal abstractions, no extraneous cognitive load.**

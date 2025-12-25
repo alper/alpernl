@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16461
 parent_post_id: null
 post_id: "16461"
 title: ""
-url: /dingen/2021/03/16461/
+aliases:
+  - /dingen/2021/03/16461/
 
 ---
 Another big volley towards more tenants’ rights in Berlin that if won will provoke a vast shift in thinking around housing politics both locally and globally.

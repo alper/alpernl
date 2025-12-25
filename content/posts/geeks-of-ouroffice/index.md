@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3044
 parent_post_id: null
 post_id: "3044"
 title: Geeks of @ouroffice
-url: /dingen/2011/10/geeks-of-ouroffice/
+aliases:
+  - /dingen/2011/10/geeks-of-ouroffice/
 
 ---
 This summer I shot a roll of color film I had lying around using my trusty [Yashica D](http://www.flickr.com/photos/alper/5639627465/) medium-format camera. The subjects were passers-by in our Amsterdam office. The results were better than expected.

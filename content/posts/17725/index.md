@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17725
 parent_post_id: null
 post_id: "17725"
 title: ""
-url: /dingen/2024/11/17725/
+aliases:
+  - /dingen/2024/11/17725/
 
 ---
 Nicolas from [All About Berlin](https://allaboutberlin.com) has done so much to make living in this administrative nightmare bearable for people. It's a very clear example of what kind of 10-100x improvements are there to be had.

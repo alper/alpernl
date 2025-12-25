@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16542
 parent_post_id: null
 post_id: "16542"
 title: ""
-url: /dingen/2021/07/16542/
+aliases:
+  - /dingen/2021/07/16542/
 
 ---
 Een absurd maar nog schrijnender verslag uit de rechtbank van de processen die gevoerd werden tegen de avondklok-relschoppers.

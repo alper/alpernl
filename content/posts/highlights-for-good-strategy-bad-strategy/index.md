@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5947
 parent_post_id: null
 post_id: "5947"
 title: Highlights for Good Strategy Bad Strategy
-url: /dingen/2018/02/highlights-for-good-strategy-bad-strategy/
+aliases:
+  - /dingen/2018/02/highlights-for-good-strategy-bad-strategy/
 
 ---
 > The core of strategy work is always the same: discovering the critical factors in a situation and designing a way of coordinating and focusing actions to deal with those factors.

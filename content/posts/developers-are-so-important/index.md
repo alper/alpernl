@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1449
 parent_post_id: null
 post_id: "1449"
 title: Developers are so important
-url: /dingen/2009/12/developers-are-so-important/
+aliases:
+  - /dingen/2009/12/developers-are-so-important/
 
 ---
 Of course I agree with this article: [“Why front-end developers are so important to the future of businesses on the web”](http://www.paulcarvill.com/2009/09/why-front-end-developers-are-so-important-to-the-future-of-businesses-on-the-web/) pleading for t-shaped webdevelopers being treated as such. Though that would seem like a fairly obvious point.

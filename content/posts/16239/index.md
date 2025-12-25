@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=16239
 parent_post_id: null
 post_id: "16239"
 title: ""
-url: /dingen/2020/08/16239/
+aliases:
+  - /dingen/2020/08/16239/
 
 ---
 I'm no stranger to ARGs but still I learned a lot from this reading of QAnon as one.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17053
 parent_post_id: null
 post_id: "17053"
 title: ""
-url: /dingen/2023/02/17053/
+aliases:
+  - /dingen/2023/02/17053/
 
 ---
 > "When Jake Knapp was running those design thinking workshops at Google, he saw that for all the excitement and Post-its they generated, the brainstorming sessions didn’t usually lead to built products or, really, solutions of any kind."

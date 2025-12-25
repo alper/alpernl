@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16940
 parent_post_id: null
 post_id: "16940"
 title: ""
-url: /dingen/2023/01/16940/
+aliases:
+  - /dingen/2023/01/16940/
 
 ---
 The Yard Sale model is a very basic thought experiment that explains why the rich get richer and why a free market like the one we have is not fair (or free).

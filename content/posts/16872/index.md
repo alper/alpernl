@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16872
 parent_post_id: null
 post_id: "16872"
 title: ""
-url: /dingen/2022/10/16872/
+aliases:
+  - /dingen/2022/10/16872/
 
 ---
 A short guide of how a team can turn around the work they need to do on a legacy system and come out the better for it. I've seen lots of teams struggle with this but as described here a lot of it is in the approach and the praxis of doing it and working together.

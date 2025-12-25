@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5683
 parent_post_id: null
 post_id: "5683"
 title: Highlights from Lean UX
-url: /dingen/2017/01/highlights-from-lean-ux/
+aliases:
+  - /dingen/2017/01/highlights-from-lean-ux/
 
 ---
 > We went over to the client’s office and spent an entire eight-hour day going over each and every pixel and word in that deck. When it was over, the client clapped (really). They loved it. We were relieved. And we never looked at that deck again. Six months after that meeting, nothing had changed on the client’s site. I don’t think they ever looked at that deck again, either.

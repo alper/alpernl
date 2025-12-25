@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18404
 parent_post_id: null
 post_id: "18404"
 title: ""
-url: /dingen/2025/10/18404/
+aliases:
+  - /dingen/2025/10/18404/
 
 ---
 When people say that Kubernetes is complicated, this is the stuff they mean. As far as I can tell, there's no way to play this complexity game reliably, so the only reasonable way through would be not to play.

@@ -18,7 +18,8 @@ post_id: "4030"
 tags:
   - weeknotes
 title: 'Week 298: Berlin odds and ends, hackday'
-url: /dingen/2012/12/week-298-berlin-odds-and-ends-hackday/
+aliases:
+  - /dingen/2012/12/week-298-berlin-odds-and-ends-hackday/
 
 ---
 Horribly late but here goes anyway. On Monday I briefly dropped by the Makers Loft and finally managed to see the [Third Wave](http://thirdwaveberlin.com/) crew again.

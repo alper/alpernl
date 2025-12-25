@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4928
 parent_post_id: null
 post_id: "4928"
 title: 'New Ways to Work: A Long Overdue Update to the Heist Model'
-url: /dingen/2014/03/new-ways-to-work-a-long-overdue-update-to-the-heist-model/
+aliases:
+  - /dingen/2014/03/new-ways-to-work-a-long-overdue-update-to-the-heist-model/
 
 ---
 I promised to write an update to [the Heist Model](/dingen/2010/09/not-hiring-anybody/) a long time ago and never got around to it because of work and other stuff. Then recently conversations with friends moving back into the freelance life prompted this smaller update but it too had been languishing in a draft for far too long.

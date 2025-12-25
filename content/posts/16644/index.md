@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16644
 parent_post_id: null
 post_id: "16644"
 title: ""
-url: /dingen/2021/11/16644/
+aliases:
+  - /dingen/2021/11/16644/
 
 ---
 The long rumored link between Turkish and Japanese is getting some validation. I'm now also looking into learning Japanese (Chinese wasn't really doing it for me).

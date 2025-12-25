@@ -11,7 +11,8 @@ post_id: "4400"
 tags:
   - recess!
 title: Recess! 7 - Game Gluttony
-url: /dingen/2013/03/recess-7-game-gluttony/
+aliases:
+  - /dingen/2013/03/recess-7-game-gluttony/
 
 ---
 Dear [Niels](http://nielsthooft.com/recess-5-in-a-world) and [Kars](http://tumblr.leapfrog.nl/post/45336328421/recess-6-less-of-a-game),

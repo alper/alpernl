@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18200
 parent_post_id: null
 post_id: "18200"
 title: ""
-url: /dingen/2025/04/18200/
+aliases:
+  - /dingen/2025/04/18200/
 
 ---
 I'm not a huge fan of these "best programmer" lists, but this list was better than most that I have seen.

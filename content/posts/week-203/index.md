@@ -15,7 +15,8 @@ post_id: "2414"
 tags:
   - weeknotes
 title: Week 203
-url: /dingen/2011/02/week-203/
+aliases:
+  - /dingen/2011/02/week-203/
 
 ---
 ### Work

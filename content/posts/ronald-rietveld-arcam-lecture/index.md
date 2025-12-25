@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2080
 parent_post_id: null
 post_id: "2080"
 title: "Ronald Rietveld ARCAM lecture - â€œPeople go to Berlin because they think there's all that free space there, while there is more than plenty here in Amsterdam.â€\x9D"
-url: /dingen/2010/09/ronald-rietveld-arcam-lecture/
+aliases:
+  - /dingen/2010/09/ronald-rietveld-arcam-lecture/
 
 ---
 [Alexander](http://twitter.com/dmos) and I attended the [ARCAM](http://www.arcam.nl) lecture tonight where landscape architect Ronald Rietveld ( [Rietveld Landscape](http://www.rietveldlandscape.nl/)) sketched a future for Amsterdam that isn't dormant and touristic, but somewhat ambitious even.

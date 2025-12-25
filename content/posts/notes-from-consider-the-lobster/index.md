@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4004
 parent_post_id: null
 post_id: "4004"
 title: Notes from Consider the Lobsterâ€¦
-url: /dingen/2012/11/notes-from-consider-the-lobster/
+aliases:
+  - /dingen/2012/11/notes-from-consider-the-lobster/
 
 ---
 I read Consider the Lobster as a bit of a reprieve from the book guilt Infinite Jest still casts over my night stand and as a long overdue requiem to the literary colossus DFW is. Here's the stuff I found noteworthy:

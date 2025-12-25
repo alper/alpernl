@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15464
 parent_post_id: null
 post_id: "15464"
 title: ""
-url: /dingen/2019/05/15464/
+aliases:
+  - /dingen/2019/05/15464/
 
 ---
 Ik dacht dat Arjen van Veelen één van de beste schrijvers op de Correspondent was. Dat is hij misschien nog steeds, maar dan shrijft hij wel dit soort onzin.

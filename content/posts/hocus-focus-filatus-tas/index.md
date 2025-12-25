@@ -8,7 +8,8 @@ tags:
   - eelke-dekker
   - fotografie
 title: Hocus Focus Filatus Tas
-url: /dingen/2007/12/hocus-focus-filatus-tas/
+aliases:
+  - /dingen/2007/12/hocus-focus-filatus-tas/
 
 ---
 [Eelke](http://www.eelkedekker.nl) heeft een nieuwe site ["Hocus Focus"](http://www.hocus-focus.com/) (met bijbehorende [Flickr-groep](http://www.flickr.com/groups/hocusf/)) waar elke week een foto-opdracht staat om je erop uit te sturen, je oog te verscherpen en je geest te verruimen.

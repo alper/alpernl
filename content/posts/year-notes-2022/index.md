@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16916
 parent_post_id: null
 post_id: "16916"
 title: 'Year Notes: 2022'
-url: /dingen/2023/01/year-notes-2022/
+aliases:
+  - /dingen/2023/01/year-notes-2022/
 
 ---
 I’m thinking back about this past year and this has definitely not been a great year. On the other hand it’s also the first time in a while where I have mental capacity to spare to even think about something like a year in review.

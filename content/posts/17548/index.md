@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17548
 parent_post_id: null
 post_id: "17548"
 title: ""
-url: /dingen/2024/06/17548/
+aliases:
+  - /dingen/2024/06/17548/
 
 ---
 Well done everybody on replacing PHP with better programming languages.

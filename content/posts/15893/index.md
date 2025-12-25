@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15893
 parent_post_id: null
 post_id: "15893"
 title: ""
-url: /dingen/2019/11/15893/
+aliases:
+  - /dingen/2019/11/15893/
 
 ---
 An investigative journalism report of Amazon's injury rates that is incredibly grim.

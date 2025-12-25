@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16519
 parent_post_id: null
 post_id: "16519"
 title: ""
-url: /dingen/2021/05/16519/
+aliases:
+  - /dingen/2021/05/16519/
 
 ---
 I think this is a leveling definition that I can live with: "Managers are paid to drive results with some support. Directors are paid to drive results with little or no supervision ('set and forget'). VPs are paid to make the plan."

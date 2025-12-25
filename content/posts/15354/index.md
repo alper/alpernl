@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15354
 parent_post_id: null
 post_id: "15354"
 title: ""
-url: /dingen/2019/04/15354/
+aliases:
+  - /dingen/2019/04/15354/
 
 ---
 The newsworthy thing about the Accenture/Hertz story is not that they failed to deliver but how badly they failed and that they are getting sued for it. Getting something that's not very good for far too much money is an accepted part of doing business with consultancies of that size.

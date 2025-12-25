@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18085
 parent_post_id: null
 post_id: "18085"
 title: ""
-url: /dingen/2025/09/18085/
+aliases:
+  - /dingen/2025/09/18085/
 wp_jp_foreign_id: 77D5B052-CCFB-41F2-A03A-0BE36550207A
 
 ---

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=6087
 parent_post_id: null
 post_id: "6087"
 title: Highlights for Shambhala
-url: /dingen/2018/12/highlights-for-shambhala/
+aliases:
+  - /dingen/2018/12/highlights-for-shambhala/
 
 ---
 > We hope only that we have not obstructed or weakened the power of these teachings. May they help to liberate all beings from the warring evils of the setting sun.

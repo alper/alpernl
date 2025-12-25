@@ -13,7 +13,8 @@ tags:
   - thishappened-utrecht-0209
   - thishappened-utrecht-2
 title: 'This Happened Utrecht #2 - Q&A'
-url: /dingen/2009/02/this-happened-utrecht-2-qa/
+aliases:
+  - /dingen/2009/02/this-happened-utrecht-2-qa/
 
 ---
 Zoals ik [al zei](/dingen/2009/02/this-happened-again/) zou ik aanwezig zijn bij de tweede editie van This Happened Utrecht. Het was weer een erg geslaagde avond met interessante presentaties.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15962
 parent_post_id: null
 post_id: "15962"
 title: ""
-url: /dingen/2020/01/15962/
+aliases:
+  - /dingen/2020/01/15962/
 
 ---
 This is good advice for a Director of UX by Adrian Howard that generalizes well to any other kind of Director.

@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18069
 parent_post_id: null
 post_id: "18069"
 title: ""
-url: /dingen/2025/02/18069/
+aliases:
+  - /dingen/2025/02/18069/
 
 ---
 Wild to see the materials that go into making a single inference machine for private use. At scale this stuff will of course be more efficient, but still the main components will be more or less the same.

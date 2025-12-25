@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5668
 parent_post_id: null
 post_id: "5668"
 title: ThingsCon Amsterdam 2016 Talk
-url: /dingen/2016/12/thingscon-amsterdam-2016-talk/
+aliases:
+  - /dingen/2016/12/thingscon-amsterdam-2016-talk/
 
 ---
 > Next up, [@alper](https://twitter.com/alper) talking about conversational interfaces. Join the livestream at [https://t.co/mdVhV45tsg](https://t.co/mdVhV45tsg)

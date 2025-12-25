@@ -13,7 +13,8 @@ post_id: "2948"
 tags:
   - weeknotes
 title: Week 236
-url: /dingen/2011/09/week-236/
+aliases:
+  - /dingen/2011/09/week-236/
 
 ---
 Monday

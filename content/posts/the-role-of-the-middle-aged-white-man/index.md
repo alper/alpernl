@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15657
 parent_post_id: null
 post_id: "15657"
 title: The Role of the Middle-Aged White Man
-url: /dingen/2019/09/the-role-of-the-middle-aged-white-man/
+aliases:
+  - /dingen/2019/09/the-role-of-the-middle-aged-white-man/
 
 ---
 > “The role of the middle-aged white man is to put out the rubbish and if he is the rubbish then he should put himself out.”

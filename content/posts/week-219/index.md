@@ -13,7 +13,8 @@ post_id: "2636"
 tags:
   - weeknotes
 title: Week 219
-url: /dingen/2011/05/week-219/
+aliases:
+  - /dingen/2011/05/week-219/
 
 ---
 A massively busy week this last, and going on a probably well deserved surfing trip to Bilbao next week so expect things to quiet down a bit here.

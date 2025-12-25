@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16194
 parent_post_id: null
 post_id: "16194"
 title: ""
-url: /dingen/2020/07/16194/
+aliases:
+  - /dingen/2020/07/16194/
 
 ---
 The Zendesk story of how they built a globally distributed company is quite amazing, but there are many more like this by now.

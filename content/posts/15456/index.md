@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15456
 parent_post_id: null
 post_id: "15456"
 title: ""
-url: /dingen/2019/05/15456/
+aliases:
+  - /dingen/2019/05/15456/
 
 ---
 A huge deep dive into how Stripe invests in technical infrastructure that contains too many good things to list.

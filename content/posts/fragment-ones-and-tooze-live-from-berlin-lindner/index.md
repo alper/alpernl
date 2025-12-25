@@ -21,7 +21,8 @@ guid: https://alper.nl/dingen/?p=17325
 parent_post_id: null
 post_id: "17325"
 title: 'Fragment Ones and Tooze: Live from Berlin - Lindner'
-url: /dingen/2023/11/fragment-ones-and-tooze-live-from-berlin-lindner/
+aliases:
+  - /dingen/2023/11/fragment-ones-and-tooze-live-from-berlin-lindner/
 
 ---
 Given the current developments around the German debt brake, I think it's good to refer to this bit about German financial politics and Adam Tooze's initial prediction ( [FT](https://www.ft.com/content/8edcb755-b05a-4ee4-940c-f3660d4240c5), [Zeit](https://adamtooze.com/2021/10/27/it-would-be-a-mistake-to-grant-him-his-wish/)) that Christian Lindner as finance minister would not be good.

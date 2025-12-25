@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16508
 parent_post_id: null
 post_id: "16508"
 title: ""
-url: /dingen/2021/04/16508/
+aliases:
+  - /dingen/2021/04/16508/
 
 ---
 A good list of skills that you will need when you want to level up, but if you have to choose one, pick "Clear Written Communication" and knock that one out of the park.

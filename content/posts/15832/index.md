@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15832
 parent_post_id: null
 post_id: "15832"
 title: ""
-url: /dingen/2019/11/15832/
+aliases:
+  - /dingen/2019/11/15832/
 
 ---
 > “75 jaar vrijheid, en wat krijg je? De lichtgevende lul van Daan Roosegaarde.”

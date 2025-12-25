@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15606
 parent_post_id: null
 post_id: "15606"
 title: ""
-url: /dingen/2019/08/15606/
+aliases:
+  - /dingen/2019/08/15606/
 
 ---
 The dropping arises from the combination of the laissez-faire attitude of Dutch parents along with the incredible safety of the Netherlands. I have been dropped as a child and I never considered that this was a uniquely local experience.

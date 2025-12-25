@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=792
 parent_post_id: null
 post_id: "792"
 title: This Happened Again
-url: /dingen/2009/02/this-happened-again/
+aliases:
+  - /dingen/2009/02/this-happened-again/
 
 ---
 Monday I'll be attending [This Happened Utrecht #2](http://thishappened.nl/) ((I think it's fully booked, so better luck next time. See the [video's of #1](http://www.vimeo.com/thutrecht) on Vimeo.)). This Happened is organized by Ianus, Alex and Kars as part of the [This Happened franchise](http://www.thishappened.org/) and the best description I've heard is that “it's like [Pecha Kucha](http://www.pecha-kucha.org/) with actual content.”

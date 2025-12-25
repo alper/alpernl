@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/2019/11/my-easily-incensed-people/
 parent_post_id: null
 post_id: "15837"
 title: My easily incensed people
-url: /dingen/2019/11/my-easily-incensed-people/
+aliases:
+  - /dingen/2019/11/my-easily-incensed-people/
 
 ---
 A Turkish guy in a van turns the corner tight enough to almost run us over. He then stops and pulls down the window: "Möchtest du mir etwas sagen?"

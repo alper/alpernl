@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4683
 parent_post_id: null
 post_id: "4683"
 title: Week 326
-url: /dingen/2013/07/week-326/
+aliases:
+  - /dingen/2013/07/week-326/
 
 ---
 As my work based weeknotes are being catered for rather nicely both at [Hubbub](http://whatsthehubbub.nl/) and [KANT](http://kantberlin.com/), I'm going to keep writing weeknotes here, but instead of making an overview of the week's work, I'll do some more long form reflecting on stuff that happened. A bit more casual and personal than we are used to.

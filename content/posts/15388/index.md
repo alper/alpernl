@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15388
 parent_post_id: null
 post_id: "15388"
 title: ""
-url: /dingen/2019/05/15388/
+aliases:
+  - /dingen/2019/05/15388/
 
 ---
 A paean for canteens something of which Berlin has ample for a variety of historic reasons.

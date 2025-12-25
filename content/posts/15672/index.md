@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15672
 parent_post_id: null
 post_id: "15672"
 title: ""
-url: /dingen/2019/09/15672/
+aliases:
+  - /dingen/2019/09/15672/
 
 ---
 I've heard “if you're so smart, then why aren't you rich”more than a couple of times in my life. The answer it turns out is: unluckiness.

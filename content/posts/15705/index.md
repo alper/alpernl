@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15705
 parent_post_id: null
 post_id: "15705"
 title: ""
-url: /dingen/2019/09/15705/
+aliases:
+  - /dingen/2019/09/15705/
 
 ---
 I think everybody (myself included) can and should get better at managing up. This guide by Claire Lew has some helpful tips that mostly boil down to: “context”.

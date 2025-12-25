@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4511
 parent_post_id: null
 post_id: "4511"
 title: The Flexibility of the Dutch Language
-url: /dingen/2013/04/the-flexibility-of-the-dutch-language/
+aliases:
+  - /dingen/2013/04/the-flexibility-of-the-dutch-language/
 
 ---
 Something that we noticed during my recent study of the German language is the tremendous promiscuity of Dutch with English which goes even further than I had previously noticed. We all know the usage of many English words in Dutch as if they were our own, but I wanted to pay attention here to a special case: the fully imported verb.

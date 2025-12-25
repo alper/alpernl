@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18023
 parent_post_id: null
 post_id: "18023"
 title: ""
-url: /dingen/2025/02/18023/
+aliases:
+  - /dingen/2025/02/18023/
 
 ---
 "OpenAI shocked that an AI company would train on someone else's data without permission or compensation."

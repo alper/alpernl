@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16825
 parent_post_id: null
 post_id: "16825"
 title: Highlights for Cosmopolitanism
-url: /dingen/2022/07/highlights-for-cosmopolitanism/
+aliases:
+  - /dingen/2022/07/highlights-for-cosmopolitanism/
 
 ---
 > It’s important to insist, however, that to say that Muslims should go to Mecca for this reason isn’t to agree with Muslims. It is to give our reason for them to do something that they do for a different reason.

@@ -12,7 +12,8 @@ post_id: "3633"
 tags:
   - weeknotes
 title: 'Week 274: programming for n00bs, meetups, matches and hackathons'
-url: /dingen/2012/06/week-274/
+aliases:
+  - /dingen/2012/06/week-274/
 
 ---
 On Monday I got back into work after the couple of days in Copenhagen. I also discovered that the talk I gave in Rotterdam [“Designing in the Face of Defeat”](http://monsterswell.com/blog/2012/05/designing-in-the-face-of-defeat/) about the New Aesthetic has been recorded and you can watch it above.

@@ -8,7 +8,8 @@ tags:
   - huis
   - klantenervaring
 title: Internet via het voormalige staatsbedrijf
-url: /dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/
+aliases:
+  - /dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/
 
 ---
 Ik ben bezig voor mijn nieuwe huis internettoegang te regelen en de opties die ik tot nu toe voorgeschoteld krijg, zijn allemaal niet bijzonder aantrekkelijk. Ik wil alleen internet en dat lijkt tot voornog niet mogelijk.

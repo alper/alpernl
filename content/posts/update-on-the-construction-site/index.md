@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16655
 parent_post_id: null
 post_id: "16655"
 title: Update on the construction site
-url: /dingen/2021/12/update-on-the-construction-site/
+aliases:
+  - /dingen/2021/12/update-on-the-construction-site/
 
 ---
 The [construction site next](/dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/) to our house is still spewing forth noise and fumes at all hours. The city is unable to do anything here it seems and calling the people at the construction site we are met with nothing but deflection and lies.

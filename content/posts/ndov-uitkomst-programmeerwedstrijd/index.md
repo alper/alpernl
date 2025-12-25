@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1028
 parent_post_id: null
 post_id: "1028"
 title: NDOV uitkomst programmeerwedstrijd
-url: /dingen/2009/06/ndov-uitkomst-programmeerwedstrijd/
+aliases:
+  - /dingen/2009/06/ndov-uitkomst-programmeerwedstrijd/
 
 ---
 Recent was de prijsuitreiking van de 9292 programmeerwedstrijd voor een applicatie op hun databron gemaakt door studenten. Ik heb daar hier al [genoeg woorden](/dingen/index.php?s=9292) aan vuil gemaakt en de uitkomst is leuk maar niet zo opzienbarend als men deed voorkomen.

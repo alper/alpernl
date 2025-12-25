@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3708
 parent_post_id: null
 post_id: "3708"
 title: Neutralizing your politically aware subjectivity
-url: /dingen/2012/07/neutralizing-your-politically-aware-subjectivity/
+aliases:
+  - /dingen/2012/07/neutralizing-your-politically-aware-subjectivity/
 
 ---
 A rather interesting capitalist reflection on Facebook [by Rob Horning at The New Inquiry](http://thenewinquiry.com/blogs/marginal-utility/facebook-and-living-labor/) and why online activism never changes anything.

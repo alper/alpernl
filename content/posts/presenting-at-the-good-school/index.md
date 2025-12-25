@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6001
 parent_post_id: null
 post_id: "6001"
 title: Presenting at the Good School
-url: /dingen/2018/05/presenting-at-the-good-school/
+aliases:
+  - /dingen/2018/05/presenting-at-the-good-school/
 
 ---
 A couple of weeks ago I took the train to Hamburg and back to present at the Good School. Here's a picture of me in action courtesy of [The Good School](http://www.good-school.de/).

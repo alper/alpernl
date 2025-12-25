@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1319
 parent_post_id: null
 post_id: "1319"
 title: Transitioning
-url: /dingen/2009/10/transitioning/
+aliases:
+  - /dingen/2009/10/transitioning/
 
 ---
 New city, new group, same rituals:

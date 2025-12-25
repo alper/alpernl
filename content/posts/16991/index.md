@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16991
 parent_post_id: null
 post_id: "16991"
 title: ""
-url: /dingen/2023/01/16991/
+aliases:
+  - /dingen/2023/01/16991/
 
 ---
 Always nice to have the company you work for be covered by the local newspaper.

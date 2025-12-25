@@ -12,7 +12,8 @@ tags:
   - internet
   - movies
 title: Vandaar die hoed
-url: /dingen/2007/11/vandaar-die-hoed/
+aliases:
+  - /dingen/2007/11/vandaar-die-hoed/
 
 ---
 Als jullie je afvroegen waarom ik die hoed op had, het komt door [het estafette-interview voor Blogpiloten.de](http://www.blogpiloten.de/2007/11/04/barcamp-berlin-blogger-interviewen-blogger/) dat ik gegeven heb.

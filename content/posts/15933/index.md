@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15933
 parent_post_id: null
 post_id: "15933"
 title: Chaos at the Top of the World
-url: /dingen/2020/01/15933/
+aliases:
+  - /dingen/2020/01/15933/
 
 ---
 A breathtaking background story of how the top of Mount Everest turned into a tourist destination.

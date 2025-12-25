@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16002
 parent_post_id: null
 post_id: "16002"
 title: ""
-url: /dingen/2020/02/16002/
+aliases:
+  - /dingen/2020/02/16002/
 
 ---
 Away is a good example of how Slack can get totally out of hand if your company culture is toxic.

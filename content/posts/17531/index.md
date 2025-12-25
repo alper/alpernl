@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17531
 parent_post_id: null
 post_id: "17531"
 title: ""
-url: /dingen/2024/04/17531/
+aliases:
+  - /dingen/2024/04/17531/
 
 ---
 A truly bizarre story and excellent reporting about Marc Benioff buying up large amounts of land on Hawaii.

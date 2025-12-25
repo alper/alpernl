@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15825
 parent_post_id: null
 post_id: "15825"
 title: ""
-url: /dingen/2019/11/15825/
+aliases:
+  - /dingen/2019/11/15825/
 
 ---
 SUVs do not have any business in cities and the fact that they're allowed in there is criminal.

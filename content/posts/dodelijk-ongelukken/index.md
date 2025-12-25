@@ -7,7 +7,8 @@ post_id: "59"
 tags:
   - politiek
 title: Dodelijke ongelukken
-url: /dingen/2007/06/dodelijk-ongelukken/
+aliases:
+  - /dingen/2007/06/dodelijk-ongelukken/
 
 ---
 Het VVD was al een partij van [populistische opportunisten](http://www.vvd.nl), maar kennelijk schuwen ze tegenwoordig het buitengewoon stupide ook niet ((Waarschijnlijk denken ze de wedstrijd laagste IQ wél van Wilders te kunnen winnen.)).

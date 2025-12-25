@@ -11,7 +11,8 @@ tags:
   - tu-delft
   - universiteit
 title: Rustig
-url: /dingen/2007/06/rustig/
+aliases:
+  - /dingen/2007/06/rustig/
 
 ---
 Een zware week. Vier keer per week capoeira gerelateerde dingen ((Of eigenlijk vijf… Maandag trainen, dinsdag hardlopen en een beetje oefenen in het park, woensdag oefenen, donderdag trainen en vrijdag optreden.)), hard werken en studeren en leuke dingen doen is misschien wat veel van het goede.

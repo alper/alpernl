@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=3014
 parent_post_id: null
 post_id: "3014"
 title: Wat moet je doen met gamification?
-url: /dingen/2011/10/wat-moet-je-doen-met-gamification/
+aliases:
+  - /dingen/2011/10/wat-moet-je-doen-met-gamification/
 
 ---
 Ik was twee weken geleden op een bijeenkomst van de [STT](http://www.stt.nl/) over serious games en ik was een beetje teleurgesteld dat de enige kritische reflectie op het onderwerp van de dag —kansen in serious games en gamification— kwam van super-filosoof [Jos de Mul](http://www2.eur.nl/fw/hyper/). Hoe goed zijn kritiek dan ook was, kritiek van een filosoof is te gemakkelijk weg te wuiven door mensen uit de praktijk. Nederland blijf een land van handelaars en nering is hier de makkelijkste manier om de handen op elkaar te krijgen.

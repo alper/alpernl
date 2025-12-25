@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17206
 parent_post_id: null
 post_id: "17206"
 title: ""
-url: /dingen/2023/07/17206/
+aliases:
+  - /dingen/2023/07/17206/
 
 ---
 I feel very seen by this.

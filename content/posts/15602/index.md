@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15602
 parent_post_id: null
 post_id: "15602"
 title: ""
-url: /dingen/2019/08/15602/
+aliases:
+  - /dingen/2019/08/15602/
 
 ---
 A more than useful read of how the CEO of Ogilvy tries to worm out of the fact that they are doing work selling concentration camps.

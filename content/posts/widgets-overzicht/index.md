@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=969
 parent_post_id: null
 post_id: "969"
 title: Widgets overzicht
-url: /dingen/2009/05/widgets-overzicht/
+aliases:
+  - /dingen/2009/05/widgets-overzicht/
 
 ---
 Pas dus het project van een stel widgets voor het [Ministerie van Binnenlandse Zaken](http://www.minbzk.nl) afgerond. Hier een beschrijving per widget met afwegingen over de functionaliteit en de data. In een vervolgbericht wat algemenere projectnotities.

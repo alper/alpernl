@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1420
 parent_post_id: null
 post_id: "1420"
 title: 'UX Book Club Amsterdam #1'
-url: /dingen/2009/12/ux-book-club-amsterdam-1/
+aliases:
+  - /dingen/2009/12/ux-book-club-amsterdam-1/
 
 ---
 Tuesday, December 8th, we had the first issue of the [UX Book Club Amsterdam](http://www.linkedin.com/groups?gid=1795982&trk=hb_side_g) chapter.

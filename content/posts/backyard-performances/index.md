@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1025
 parent_post_id: null
 post_id: "1025"
 title: Backyard performances
-url: /dingen/2009/06/backyard-performances/
+aliases:
+  - /dingen/2009/06/backyard-performances/
 
 ---
 [![Dance](http://farm4.static.flickr.com/3615/3600861927_997d6b5ba8.jpg)](http://www.flickr.com/photos/alper/3600861927/ "Dance by illustir, on Flickr")

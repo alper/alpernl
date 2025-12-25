@@ -8,7 +8,8 @@ tags:
   - klantenervaring
   - mobiel
 title: Nummerportabiliteit
-url: /dingen/2007/04/nummerportabiliteit/
+aliases:
+  - /dingen/2007/04/nummerportabiliteit/
 
 ---
 Mijn nummer is vandaag zonder enige problemen geporteerd van T-mobile ( [klootzakken](/blog/alper/552)) naar [Orange](http://www.orange.nl). En dat terwijl ik het pas tien dagen geleden had aangevraagd en iedereen zei dat dat onmogelijk was etc. etc.

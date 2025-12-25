@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5266
 parent_post_id: null
 post_id: "5266"
 title: Nakagin Capsule Tower
-url: /dingen/2015/09/nakagin-capsule-tower/
+aliases:
+  - /dingen/2015/09/nakagin-capsule-tower/
 
 ---
 {{< youtube id="rfrbWQYiw9A" >}}

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15960
 parent_post_id: null
 post_id: "15960"
 title: ""
-url: /dingen/2020/01/15960/
+aliases:
+  - /dingen/2020/01/15960/
 
 ---
 A long article by Robert Arkwright that uses react server-side rendering as a hook to discuss various scalability issues.

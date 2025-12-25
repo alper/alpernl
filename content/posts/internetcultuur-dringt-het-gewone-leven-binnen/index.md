@@ -12,7 +12,8 @@ tags:
   - internet
   - muziek
 title: Internetcultuur dringt het gewone leven binnen
-url: /dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/
+aliases:
+  - /dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/
 
 ---
 Iedereen die enige tijd online heeft doorgebracht kent [de dansroutine van OK GO](http://www.youtube.com/watch?v=Kw0YHv3ub-k) voor het lied “A Million Ways”wel en de vele vele keren dat het nagedaan is door mensen over de hele wereld.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2110
 parent_post_id: null
 post_id: "2110"
 title: Supremacy
-url: /dingen/2010/09/supremacy/
+aliases:
+  - /dingen/2010/09/supremacy/
 
 ---
 I went to the penultimate day of the [Matisse to Malevich exposition](http://www.hermitage.nl/en/) in the Amsterdam Hermitage for some visual inspiration.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15450
 parent_post_id: null
 post_id: "15450"
 title: ""
-url: /dingen/2019/05/15450/
+aliases:
+  - /dingen/2019/05/15450/
 
 ---
 > “code is just a high precision design medium”

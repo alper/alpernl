@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17546
 parent_post_id: null
 post_id: "17546"
 title: ""
-url: /dingen/2024/06/17546/
+aliases:
+  - /dingen/2024/06/17546/
 
 ---
 For a phone code editor, the interface here of mobilecode is quite something. I just wist it supported a language that isn't C.

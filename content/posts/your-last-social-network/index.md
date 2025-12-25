@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=510
 parent_post_id: null
 post_id: "510"
 title: Your last social network
-url: /dingen/2008/09/your-last-social-network/
+aliases:
+  - /dingen/2008/09/your-last-social-network/
 
 ---
 Register for the [PICNIC social network](http://www.picnicnetwork.org/), it might very well be your last.

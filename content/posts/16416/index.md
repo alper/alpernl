@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16416
 parent_post_id: null
 post_id: "16416"
 title: ""
-url: /dingen/2021/02/16416/
+aliases:
+  - /dingen/2021/02/16416/
 
 ---
 A very concrete framework with an example of how to give feedback at work.

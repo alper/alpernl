@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2721
 parent_post_id: null
 post_id: "2721"
 title: Jane Jacobs and the city of Amsterdam
-url: /dingen/2011/07/jane-jacobs-and-the-city-of-amsterdam/
+aliases:
+  - /dingen/2011/07/jane-jacobs-and-the-city-of-amsterdam/
 
 ---
 I'm right now reading [The Death and Life of Great American Cities](http://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities), the seminal volume on city planning by Jane Jacobs, for the first time.

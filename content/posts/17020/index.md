@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17020
 parent_post_id: null
 post_id: "17020"
 title: ""
-url: /dingen/2023/02/17020/
+aliases:
+  - /dingen/2023/02/17020/
 
 ---
 I'm thinking of calling this realization "organizational growing up":

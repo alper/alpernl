@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16908
 parent_post_id: null
 post_id: "16908"
 title: ""
-url: /dingen/2022/12/16908/
+aliases:
+  - /dingen/2022/12/16908/
 
 ---
 It always struck me as absurd that degrowth "couldn't work". At this point, it's probably the only thing that _can_ work.

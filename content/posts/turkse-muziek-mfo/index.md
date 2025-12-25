@@ -13,7 +13,8 @@ tags:
   - muziek
   - turkije
 title: Turkse Muziek - MFÃ–
-url: /dingen/2008/03/turkse-muziek-mfo/
+aliases:
+  - /dingen/2008/03/turkse-muziek-mfo/
 
 ---
 Wat nu volgt naar aanleiding van een gesprek met Joris over Turkije en Turkse muziek. Hij vroeg waarom ik niet in İstanbul ging wonen, wat op zich een goede vraag is. Dat komt misschien nog wel een keer, maar voor nu een kleine serie over Turkse muziek.

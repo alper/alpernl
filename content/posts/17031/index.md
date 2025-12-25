@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17031
 parent_post_id: null
 post_id: "17031"
 title: ""
-url: /dingen/2023/02/17031/
+aliases:
+  - /dingen/2023/02/17031/
 
 ---
 Planning should be about confidence intervals and de-risking, not about loading capacity full with commitment.

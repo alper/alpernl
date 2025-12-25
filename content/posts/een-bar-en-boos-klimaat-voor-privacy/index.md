@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1532
 parent_post_id: null
 post_id: "1532"
 title: Een bar en boos klimaat voor privacy
-url: /dingen/2010/01/een-bar-en-boos-klimaat-voor-privacy/
+aliases:
+  - /dingen/2010/01/een-bar-en-boos-klimaat-voor-privacy/
 
 ---
 Aan de hand van diepgravend parlementair onderzoek van [Steeph van Sargasso](http://sargasso.nl/archief/author/steeph/) lanceerde onlangs de [Privacy Barometer](http://www.privacybarometer.nl/). Een ruwe indicator van de privacy-houding van de verschillende politieke partijen op basis van historisch stemgedrag ((En juist dat stemgedrag is moeilijk te achterhalen. Ik verdenk de politiek van kwade wil op dit vlak.)).

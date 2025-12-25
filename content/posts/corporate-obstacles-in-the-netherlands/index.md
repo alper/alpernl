@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=709
 parent_post_id: null
 post_id: "709"
 title: Corporate obstacles in the Netherlands
-url: /dingen/2009/01/corporate-obstacles-in-the-netherlands/
+aliases:
+  - /dingen/2009/01/corporate-obstacles-in-the-netherlands/
 
 ---
 I talked with Max Whitney at [25C3](http://events.ccc.de/congress/2008/) for a bit to learn about how [NYC Resistor](http://www.nycresistor.com/) came to be. The story seems to go something like this ((Maybe a useful recipe if you want to start your own hacker space.)):

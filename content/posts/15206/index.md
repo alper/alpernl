@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15206
 parent_post_id: null
 post_id: "15206"
 title: ""
-url: /dingen/2019/03/15206/
+aliases:
+  - /dingen/2019/03/15206/
 
 ---
 It will be increasingly amazing to visit SF (or SanSan as it should be known) and witness how dystopian they can make it with their NIMBY-ism.

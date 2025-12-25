@@ -10,7 +10,8 @@ tags:
   - muziek
   - ondernemen
 title: Compensatie van artiesten
-url: /dingen/2007/12/compensatie-van-artiesten/
+aliases:
+  - /dingen/2007/12/compensatie-van-artiesten/
 
 ---
 De in-store van Fiction Plane in Velvet werd aangekondigd door een hele grote Hagenees die ons verzekerde dat de enige manier om de winkel levend te verlaten het kopen van een CD was.

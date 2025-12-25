@@ -16,7 +16,8 @@ tags:
   - photography
   - uncategorized
 title: Barbecue Groups
-url: /dingen/2008/06/barbecue-groups/
+aliases:
+  - /dingen/2008/06/barbecue-groups/
 
 ---
 The barbecue (and the alcohol) also make for some interesting group pictures. There's the traditional group with everybody on it:

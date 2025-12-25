@@ -13,7 +13,8 @@ tags:
   - politiek
   - televisie
 title: Leon de Winter landverrader
-url: /dingen/2007/07/leon-de-winter-landverrader/
+aliases:
+  - /dingen/2007/07/leon-de-winter-landverrader/
 
 ---
 Naar aanleiding van [de Zomergasten met Leon de Winter](http://www.uitzendinggemist.nl/afleveringen/1149166) had ik al wat aantekeningen gemaakt. Deze zaterdag las ik in de Volkskrant Femke Halsema's veroordeling van de Winter en zijn debat-techniek. Ik heb mijn aantekeningen van toen er maar weer bij gepakt.

@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18019
 parent_post_id: null
 post_id: "18019"
 title: ""
-url: /dingen/2025/02/18019/
+aliases:
+  - /dingen/2025/02/18019/
 
 ---
 This is a very good framework from Matt Webb for organizations how to do strategic pathfinding when it comes to AI. In Germany especially, lots of orgs would benefit from doing this instead of whatever it is that they are busy with right now.

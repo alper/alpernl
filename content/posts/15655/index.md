@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15655
 parent_post_id: null
 post_id: "15655"
 title: ""
-url: /dingen/2019/09/15655/
+aliases:
+  - /dingen/2019/09/15655/
 
 ---
 Berlin is instituting a rent cap which honestly is the only way the city will remain liveable for the majority of its inhabitants.

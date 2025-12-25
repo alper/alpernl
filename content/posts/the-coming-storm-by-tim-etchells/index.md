@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=3738
 parent_post_id: null
 post_id: "3738"
 title: The Coming Storm by Tim Etchells
-url: /dingen/2012/07/the-coming-storm-by-tim-etchells/
+aliases:
+  - /dingen/2012/07/the-coming-storm-by-tim-etchells/
 
 ---
 I just went to see [“The Coming Storm”](http://www.festival-avignon.com/en/Spectacle/3364) at the Festival d'Avignon. In an interesting open setup, bits and pieces of stories are performed by the ensemble who continually interrupt each other. While one actor is telling a story the others perform variety like diversions using props, music and each other.

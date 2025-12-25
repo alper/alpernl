@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16551
 parent_post_id: null
 post_id: "16551"
 title: ""
-url: /dingen/2021/08/16551/
+aliases:
+  - /dingen/2021/08/16551/
 
 ---
 I'm glad reality is catching up with the design fiction proposals we came up back in the day, like here the combination of video conferencing and Snapchat face filters.

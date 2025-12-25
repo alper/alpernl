@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=835
 parent_post_id: null
 post_id: "835"
 title: De NS spant het paard achter de trein
-url: /dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/
+aliases:
+  - /dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/
 
 ---
 Een [redelijk zachte review](http://www.marketingfacts.nl/berichten/20090318_ns_reisinformatie_nieuwe_stijl_met_videoreview/) van de nieuwe NS-applicatie op Marketingfacts (ook [Tweakers](http://tweakers.net/nieuws/59093/ns-wil-iphone-en-blackberry-reisplanner-maken-update.html)).

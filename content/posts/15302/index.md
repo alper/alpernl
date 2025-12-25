@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15302
 parent_post_id: null
 post_id: "15302"
 title: ""
-url: /dingen/2019/04/15302/
+aliases:
+  - /dingen/2019/04/15302/
 
 ---
 The best thing about ContraPoints is that she gives the most charitable possible treatment to in this case Gender Critical people (the other time it was Incels) and then still rips them for all that they are.

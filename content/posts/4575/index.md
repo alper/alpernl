@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4575
 parent_post_id: null
 post_id: "4575"
 title: Almost hit and run
-url: /dingen/2013/05/4575/
+aliases:
+  - /dingen/2013/05/4575/
 
 ---
 [![Screen Shot 2013-05-18 at 5.33.27 PM](Screen-Shot-2013-05-18-at-5.33.27-PM.png)](/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/)

@@ -13,7 +13,8 @@ post_id: "4508"
 tags:
   - weeknotes
 title: Week 317
-url: /dingen/2013/04/week-317/
+aliases:
+  - /dingen/2013/04/week-317/
 
 ---
 The week before this on Monday (almost two weeks ago), I went to a lecture by Graham Harman. [Notes on that](/dingen/2013/04/graham-harman-at-the-universitat-der-kunste/) were blogged in a timely fashion.

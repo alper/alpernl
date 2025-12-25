@@ -8,7 +8,8 @@ tags:
   - burgerrechten
   - copyright
 title: Oneindige bescherming van auteursrecht en andere misverstanden
-url: /dingen/2007/05/oneindige-bescherming-van-auteursrecht-en-andere-misverstanden/
+aliases:
+  - /dingen/2007/05/oneindige-bescherming-van-auteursrecht-en-andere-misverstanden/
 
 ---
 Ik zou niet graag Mark Helprin willen zijn. Denk je [een aardig artikeltje](http://www.nytimes.com/2007/05/20/opinion/20helprin.html?ex=1337313600&en=3571064d77055f41&ei=5124&partner=permalink&exprod=permalink) over copyright te hebben geschreven in de New York Times, wordt je —extreem gebrekkige— argumentatie vervolgens door het collectieve internet [totaal afgebroken en afgebrand](http://wiki.lessig.org/index.php/Against_perpetual_copyright) ((Via [Boing Boing](http://www.boingboing.net/2007/05/20/help_write_a_reply_t.html).)).

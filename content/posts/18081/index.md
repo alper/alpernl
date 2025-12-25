@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18081
 parent_post_id: null
 post_id: "18081"
 title: ""
-url: /dingen/2025/02/18081/
+aliases:
+  - /dingen/2025/02/18081/
 
 ---
 A very good explanation about "object soup" and how Rust is uniquely poorly suited to model problems in that way. It pins down a very fundamental issue that people coming from an object oriented background run into all the time and offers a helpful solution.

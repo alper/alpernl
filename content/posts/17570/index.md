@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17570
 parent_post_id: null
 post_id: "17570"
 title: ""
-url: /dingen/2024/08/17570/
+aliases:
+  - /dingen/2024/08/17570/
 
 ---
 The thing that Bert is not getting here is that Gaia-X is meant to be a distraction and not much else (that "else" would be politically far too risky to act upon). That's the way these kind of things work. Meanwhile Europe will remain without its own cloud.

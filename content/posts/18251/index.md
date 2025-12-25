@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18251
 parent_post_id: null
 post_id: "18251"
 title: ""
-url: /dingen/2025/06/18251/
+aliases:
+  - /dingen/2025/06/18251/
 
 ---
 It doesn't really matter that much what is next for iOS. We should agree that flat design was a mistake.

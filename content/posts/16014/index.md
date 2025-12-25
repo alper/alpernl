@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16014
 parent_post_id: null
 post_id: "16014"
 title: ""
-url: /dingen/2020/02/16014/
+aliases:
+  - /dingen/2020/02/16014/
 
 ---
 A wild ride of an article that draws the essential but often overlooked connections between neoliberalism and fascism.

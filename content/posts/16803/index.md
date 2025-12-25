@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16803
 parent_post_id: null
 post_id: "16803"
 title: ""
-url: /dingen/2022/05/16803/
+aliases:
+  - /dingen/2022/05/16803/
 
 ---
 It has been a while coming that for most workloads sqlite is more than good enough and at the same time also has a lot of operational benefits to offer. I never could believe all the hoops you have to jump through to get a postgres/mysql to run.

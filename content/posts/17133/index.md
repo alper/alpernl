@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17133
 parent_post_id: null
 post_id: "17133"
 title: ""
-url: /dingen/2023/03/17133/
+aliases:
+  - /dingen/2023/03/17133/
 
 ---
 After the hysteria a bunch of VCs whipped up over the weekend around the SVB collapse, questioning whether they actually do what they claim is more than justified.

@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17683
 parent_post_id: null
 post_id: "17683"
 title: So long Ribbonfarm!
-url: /dingen/2024/11/so-long-ribbonfarm/
+aliases:
+  - /dingen/2024/11/so-long-ribbonfarm/
 
 ---
 Ribbonfarm retiring is another such ending in a time rife with them. I can't overstate how influential it has been on my (our) thinking and practice. Tremendously impressive to think all of that was thought up by one person (who I still haven't met).

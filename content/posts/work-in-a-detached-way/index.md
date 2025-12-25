@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15804
 parent_post_id: null
 post_id: "15804"
 title: Work in a detached way
-url: /dingen/2019/10/work-in-a-detached-way/
+aliases:
+  - /dingen/2019/10/work-in-a-detached-way/
 
 ---
 Some stuff about [meditation and work by Chiara Cokieng](https://medium.com/@chiaracokieng/how-was-the-vipassana-course-my-response-e6f1f456f66c) that I find repeatedly useful so I'm putting it here for reference.

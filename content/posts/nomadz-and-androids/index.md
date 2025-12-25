@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=734
 parent_post_id: null
 post_id: "734"
 title: Nomadz and Androids
-url: /dingen/2009/01/nomadz-and-androids/
+aliases:
+  - /dingen/2009/01/nomadz-and-androids/
 
 ---
 Biked to the Hague yesterday and spent part of the day coworking at my friends over at [Nomadz](http://www.nomadz.nl/). Just when I had to leave for our appointment at the notary [Peter](http://www.bubblefoundry.com/) dropped by and demoed some very cool applications on the Android G1 phone he'd just gotten from [T-Mobile](http://www.t-mobile.nl/).

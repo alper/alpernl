@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15642
 parent_post_id: null
 post_id: "15642"
 title: Medialab fallout
-url: /dingen/2019/09/medialab-fallout/
+aliases:
+  - /dingen/2019/09/medialab-fallout/
 
 ---
 Some of the Medialab faculty seem to be outraged because its current head [Joi Ito took money from Jeffrey Epstein](https://www.fastcompany.com/90391930/mit-media-lab-director-apologizes-for-accepting-funds-from-jeffrey-epstein). Those that can are leaving. Power to them.

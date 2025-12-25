@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17529
 parent_post_id: null
 post_id: "17529"
 title: ""
-url: /dingen/2024/04/17529/
+aliases:
+  - /dingen/2024/04/17529/
 
 ---
 Most people should not bother with specialized productivity software but just see how far they can get with what's already on their phones: Reminders, Notes and the likes. Apple has made these unassuming tools absurdly powerful without losing too much on usability.

@@ -12,7 +12,8 @@ tags:
   - leven
   - werken
 title: Tempo
-url: /dingen/2008/04/tempo/
+aliases:
+  - /dingen/2008/04/tempo/
 
 ---
 De laatste paar weken gaan voorbij in een waas. Te weinig uren in de dag, aan het einde van de week heb ik geen idee meer welke dagen ik wat gedaan heb behalve dan dat het aardig wat geweest moet zijn.

@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16864
 parent_post_id: null
 post_id: "16864"
 title: ""
-url: /dingen/2022/10/16864/
+aliases:
+  - /dingen/2022/10/16864/
 
 ---
 People see this kind of talk about self-governance and think there is no process or management in such a setup while usually there is more (and higher quality) than in a traditional organization. It's also some of the best work you will ever do.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5874
 parent_post_id: null
 post_id: "5874"
 title: A small contribution to apple/swift
-url: /dingen/2017/11/a-small-contribution-to-appleswift/
+aliases:
+  - /dingen/2017/11/a-small-contribution-to-appleswift/
 
 ---
 I saw a starter task fly by in the Swift Weekly Brief and jumped on it. Now it turns out that the Swift project has a util directory full of various [Python](https://www.python.org/) scripts that perform various tasks including cloning and building the project.

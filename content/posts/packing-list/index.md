@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5547
 parent_post_id: null
 post_id: "5547"
 title: Packing List
-url: /dingen/2016/04/packing-list/
+aliases:
+  - /dingen/2016/04/packing-list/
 
 ---
 I used to travel between the Netherlands and Germany at least once a month and pretty quickly I grew tired of forgetting things. That's why I made a list (in **bold**, comments added) with the things that I should take or at least consider taking. Whenever I pack my bag, I quickly scan the list and make sure I've covered the bases. Maybe it'll be helpful to you as well.

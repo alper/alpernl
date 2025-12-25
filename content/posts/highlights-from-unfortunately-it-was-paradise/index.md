@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5809
 parent_post_id: null
 post_id: "5809"
 title: Highlights from Unfortunately, It Was Paradise
-url: /dingen/2017/06/highlights-from-unfortunately-it-was-paradise/
+aliases:
+  - /dingen/2017/06/highlights-from-unfortunately-it-was-paradise/
 
 ---
 > Here or there, our blood will plant olive trees.

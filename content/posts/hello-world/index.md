@@ -8,7 +8,8 @@ tags:
   - blog
   - huishoudelijk
 title: Nieuw blog
-url: /dingen/2007/04/hello-world/
+aliases:
+  - /dingen/2007/04/hello-world/
 
 ---
 Dit is mijn nieuwe Wordpress blog.

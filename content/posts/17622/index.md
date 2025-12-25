@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17622
 parent_post_id: null
 post_id: "17622"
 title: ""
-url: /dingen/2024/10/17622/
+aliases:
+  - /dingen/2024/10/17622/
 
 ---
 Coates and Stewart have a warm and powerful conversation around a number of topics but mostly about Israel/Palestine.

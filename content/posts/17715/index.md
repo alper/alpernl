@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17715
 parent_post_id: null
 post_id: "17715"
 title: ""
-url: /dingen/2024/11/17715/
+aliases:
+  - /dingen/2024/11/17715/
 
 ---
 Cool to read this long view from the inside by [Carlton Gibson](https://noumenal.es) of what has made Django work (and not work) for the past 20 years. Django has been a stellar achievement that's been a cornerstone of my career and I look forward to see the project reach new heights.

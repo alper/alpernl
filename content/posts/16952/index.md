@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16952
 parent_post_id: null
 post_id: "16952"
 title: ""
-url: /dingen/2023/01/16952/
+aliases:
+  - /dingen/2023/01/16952/
 
 ---
 There is a belief in software that making something work is such deep magic or so complicated, that you should be happy with anything.

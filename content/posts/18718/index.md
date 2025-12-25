@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18718
 parent_post_id: null
 post_id: "18718"
 title: ""
-url: /dingen/2025/12/18718/
+aliases:
+  - /dingen/2025/12/18718/
 
 ---
 Dependency cooldowns were the first thing we instituted after tj-actions forced us to hash-pin all the GitHub actions we pulled in. Glad the industry has now also caught up.

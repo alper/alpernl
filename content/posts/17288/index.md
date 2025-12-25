@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17288
 parent_post_id: null
 post_id: "17288"
 title: ""
-url: /dingen/2023/10/17288/
+aliases:
+  - /dingen/2023/10/17288/
 
 ---
 The best thing about this return-to-office model is that it is differential and contextual. Whether the exact categories make sense and who falls in which is something that you can debate ad infinitum.

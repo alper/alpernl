@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16204
 parent_post_id: null
 post_id: "16204"
 title: ""
-url: /dingen/2020/07/16204/
+aliases:
+  - /dingen/2020/07/16204/
 
 ---
 > The types of resistance available to women are particularly interesting: They themselves understand their daily tasks — the upkeep of their homes and the care of their families — as a form of steadfast resistance.

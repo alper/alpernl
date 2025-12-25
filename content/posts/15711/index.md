@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15711
 parent_post_id: null
 post_id: "15711"
 title: ""
-url: /dingen/2019/09/15711/
+aliases:
+  - /dingen/2019/09/15711/
 
 ---
 Slack says that letting people do a code review as a take-home gives a similar or maybe even better signal when hiring.

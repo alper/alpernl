@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17708
 parent_post_id: null
 post_id: "17708"
 title: Renaming half a street
-url: /dingen/2024/11/17708/
+aliases:
+  - /dingen/2024/11/17708/
 wp_jp_foreign_id: B11F1A6C-3443-47AA-B15A-F6FC447696EB
 
 ---

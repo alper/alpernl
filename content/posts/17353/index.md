@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17353
 parent_post_id: null
 post_id: "17353"
 title: ""
-url: /dingen/2023/12/17353/
+aliases:
+  - /dingen/2023/12/17353/
 
 ---
 This article is a wild premise, a wild ride and a wild conclusion (also I'm increasingly warming to the idea of htmx).

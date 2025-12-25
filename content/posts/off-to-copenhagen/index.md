@@ -11,7 +11,8 @@ post_id: "316"
 tags:
   - uncategorized
 title: Off to Copenhagen
-url: /dingen/2008/06/off-to-copenhagen/
+aliases:
+  - /dingen/2008/06/off-to-copenhagen/
 
 ---
 By the time this post has been published I will be on a train on my way to Schiphol to fly to Copenhagen to attend the 10th edition of [Reboot](http://reboot.dk) ((my third)).

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15861
 parent_post_id: null
 post_id: "15861"
 title: ""
-url: /dingen/2019/11/15861/
+aliases:
+  - /dingen/2019/11/15861/
 
 ---
 > “Drinking has to be against the rules for taking a drink to be breaking the rules. Only a Muslim can know how good that tastes.”

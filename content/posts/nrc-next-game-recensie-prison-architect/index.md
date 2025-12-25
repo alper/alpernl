@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16180
 parent_post_id: null
 post_id: "16180"
 title: 'nrc.next game-recensie: Prison Architect'
-url: /dingen/2020/07/nrc-next-game-recensie-prison-architect/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-prison-architect/
 
 ---
 {{< figure src="image.png" alt="" caption="" >}}

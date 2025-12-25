@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16831
 parent_post_id: null
 post_id: "16831"
 title: Getting your Instagram back
-url: /dingen/2022/08/getting-your-instagram-back/
+aliases:
+  - /dingen/2022/08/getting-your-instagram-back/
 
 ---
 I wrote before about how annoying it is if your Instagram username gets hacked and how difficult it is to get it back. I had to go to some lengths to get mine but nothing quite as much as this person.

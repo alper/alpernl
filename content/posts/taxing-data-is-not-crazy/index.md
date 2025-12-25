@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4273
 parent_post_id: null
 post_id: "4273"
 title: Taxing data is not crazy
-url: /dingen/2013/03/taxing-data-is-not-crazy/
+aliases:
+  - /dingen/2013/03/taxing-data-is-not-crazy/
 
 ---
 There are some interesting similarities between a recent proposal commissioned by the French government and the book out by Jaron Lanier just now [“Who Owns The Future?”](http://www.guardian.co.uk/books/2013/feb/27/who-owns-future-lanier-review)

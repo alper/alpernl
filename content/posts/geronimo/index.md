@@ -9,7 +9,8 @@ tags:
   - strand
   - surfen
 title: Geronimo!
-url: /dingen/2007/07/geronimo/
+aliases:
+  - /dingen/2007/07/geronimo/
 
 ---
 Altijd leuk om vrienden de dood te zien tarten.

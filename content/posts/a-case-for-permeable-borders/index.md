@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=6040
 parent_post_id: null
 post_id: "6040"
 title: A Case for Permeable Borders
-url: /dingen/2018/08/a-case-for-permeable-borders/
+aliases:
+  - /dingen/2018/08/a-case-for-permeable-borders/
 
 ---
 Events of the past months have sharply brought into focus the need for passable borders. I'm not coming out for fully open borders. That still seems somewhat extreme and too dismissive of borders (which contrary to some people’s opinions definitely are _not_ arbitrary). I just think that keeping borders hermetically closed will exact a moral cost from us that nobody should be willing to pay.

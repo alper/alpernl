@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16671
 parent_post_id: null
 post_id: "16671"
 title: ""
-url: /dingen/2021/12/16671/
+aliases:
+  - /dingen/2021/12/16671/
 
 ---
 > "I see operationally-minded engineers working cross-functionally with software development teams to help them grow in a few key areas: making outsourcing successful, speeding up time to value, and up-leveling their production chops."

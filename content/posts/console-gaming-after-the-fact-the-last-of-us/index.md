@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5091
 parent_post_id: null
 post_id: "5091"
 title: 'Console gaming after the fact: The Last of Us'
-url: /dingen/2014/12/console-gaming-after-the-fact-the-last-of-us/
+aliases:
+  - /dingen/2014/12/console-gaming-after-the-fact-the-last-of-us/
 
 ---
 > [The Last of Us is amazing. Even at the easiest level it is kicking my ass. And now that I got some dramatic story progression I am well amazed.](https://instagram.com/p/w7GBsDyan5/)

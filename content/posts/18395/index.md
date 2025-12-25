@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18395
 parent_post_id: null
 post_id: "18395"
 title: ""
-url: /dingen/2025/10/18395/
+aliases:
+  - /dingen/2025/10/18395/
 
 ---
 > **The harder the constraint, the more dangerous it is**.

@@ -39,7 +39,8 @@ guid: http://alper.nl/dingen/?p=502
 parent_post_id: null
 post_id: "502"
 title: Mailtjes naar publieke instellingen
-url: /dingen/2008/09/mailtjes-naar-publieke-instellingen/
+aliases:
+  - /dingen/2008/09/mailtjes-naar-publieke-instellingen/
 
 ---
 Zoals ik [gisteren schreef](/dingen/2008/09/playing-with-public-transportation-data/) heb ik e-mails gestuurd over onze resultaten naar [GroenLinks](http://www.groenlinks.nl/) en [Rover](http://www.rover.nl/) over de resultaten van de visualisaties van de reistijdengegevens.

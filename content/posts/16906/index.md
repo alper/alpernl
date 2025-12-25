@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16906
 parent_post_id: null
 post_id: "16906"
 title: ""
-url: /dingen/2022/12/16906/
+aliases:
+  - /dingen/2022/12/16906/
 
 ---
 Looks like we can bootstrap a web app using pretty much only Postgres for the data layer and kick out the redis cluster, the celery process and the ElasticSearch server.

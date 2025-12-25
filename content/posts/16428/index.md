@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16428
 parent_post_id: null
 post_id: "16428"
 title: ""
-url: /dingen/2021/02/16428/
+aliases:
+  - /dingen/2021/02/16428/
 
 ---
 > "The interesting thing about interactive media is that it allows the players to engage with a problem, conjure a solution, try out that solution, and then experience the results. Then they can go back to the thinking stage and start to plan out their next move. This process of trial and error builds the interactive world in their minds. This is the true canvas on which we design—not the screen. That’s something I always keep in mind when designing games."

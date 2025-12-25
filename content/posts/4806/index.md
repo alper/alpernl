@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4806
 parent_post_id: null
 post_id: "4806"
 title: Germany still isn't really a democracy
-url: /dingen/2013/10/4806/
+aliases:
+  - /dingen/2013/10/4806/
 
 ---
 I tried to register to vote for [the buyback of the Berlin energy grid](http://www.berliner-energietisch.net/) and then I got this letter back informing me that I cannot vote.

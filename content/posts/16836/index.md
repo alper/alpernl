@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16836
 parent_post_id: null
 post_id: "16836"
 title: ""
-url: /dingen/2022/08/16836/
+aliases:
+  - /dingen/2022/08/16836/
 
 ---
 Een goed artikel in de Correspondent over de landwaardebelasting oftewel de LVT.

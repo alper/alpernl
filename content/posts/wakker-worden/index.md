@@ -9,7 +9,8 @@ post_id: "227"
 tags:
   - uncategorized
 title: Wakker worden
-url: /dingen/2008/01/wakker-worden/
+aliases:
+  - /dingen/2008/01/wakker-worden/
 
 ---
 Het is in Prenzlauerberg altijd fijn wakker worden met goede koffie, broodjes en kranten binnen handbereik.

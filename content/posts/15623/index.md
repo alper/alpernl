@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15623
 parent_post_id: null
 post_id: "15623"
 title: ""
-url: /dingen/2019/08/15623/
+aliases:
+  - /dingen/2019/08/15623/
 
 ---
 An impressive application of the strangle vine pattern to rewrite the Slack desktop client which everybody loved to hate. The write-up reads rather matter-of-fact but the process to get there most likely was not.

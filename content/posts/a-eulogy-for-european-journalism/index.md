@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=4139
 parent_post_id: null
 post_id: "4139"
 title: A eulogy for European journalism
-url: /dingen/2013/01/a-eulogy-for-european-journalism/
+aliases:
+  - /dingen/2013/01/a-eulogy-for-european-journalism/
 
 ---
 A couple of weeks ago I and judging from Twitter almost everybody I knew read [Quinn Norton's Eulogy for #Occupy](http://www.wired.com/opinion/2012/12/a-eulogy-for-occupy/all/). Her coverage for Wired and her [twitter stream](http://twitter.com/quinnnorton) had already broadcast an almost minute to minute beat of events in the movement. That account finally culminated in this retelling of the camps and the evictions crowned with a tally of the movements hopes and achievements. It is one of the journalistic highlights of 2012.

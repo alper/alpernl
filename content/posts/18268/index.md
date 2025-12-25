@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18268
 parent_post_id: null
 post_id: "18268"
 title: ""
-url: /dingen/2025/07/18268/
+aliases:
+  - /dingen/2025/07/18268/
 
 ---
 At scale you will be slapped in the face by this tail or that all the time. It's a clear and simple argument to rehabilitate the mean as the measurement we should be looking at.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15582
 parent_post_id: null
 post_id: "15582"
 title: ""
-url: /dingen/2019/07/15582/
+aliases:
+  - /dingen/2019/07/15582/
 
 ---
 For the more abstract work, it makes it a lot easier for other people to ‘read your mind’ and for you to delegate if you share as much context as possible as Anna Shipman describes here.

@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=16123
 parent_post_id: null
 post_id: "16123"
 title: ""
-url: /dingen/2020/06/16123/
+aliases:
+  - /dingen/2020/06/16123/
 
 ---
 A revealing tale about structural racism from Ramesh A Nagarajah who by his own admission is the token black friend.

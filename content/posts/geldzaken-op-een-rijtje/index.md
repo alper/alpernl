@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=695
 parent_post_id: null
 post_id: "695"
 title: Geldzaken op een rijtje
-url: /dingen/2008/12/geldzaken-op-een-rijtje/
+aliases:
+  - /dingen/2008/12/geldzaken-op-een-rijtje/
 
 ---
 Ik had een gesprek gisteren over [Qash.nl](http://qash.nl) (het Nederlandse [Wesabe](http://www.wesabe.com)) en de diensten die dit soort sites aanbieden. We waren erover uit dat het belachelijk is dat banken dit zelf niet aanbieden.

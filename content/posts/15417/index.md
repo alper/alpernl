@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15417
 parent_post_id: null
 post_id: "15417"
 title: ""
-url: /dingen/2019/05/15417/
+aliases:
+  - /dingen/2019/05/15417/
 
 ---
 > “Changes to one team’s service may be implemented by another team who needs the enhanced capability by what is called an Away Team. This team works on the Home Team’s code to add what it needs according to established engineering standards and then leaves that code in good order to be maintained by the Home Team who owns the service, with help when needed.”

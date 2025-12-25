@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18410
 parent_post_id: null
 post_id: "18410"
 title: ""
-url: /dingen/2025/10/18410/
+aliases:
+  - /dingen/2025/10/18410/
 
 ---
 Predictions are a nice business because at some point they will be true.

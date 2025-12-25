@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15568
 parent_post_id: null
 post_id: "15568"
 title: ""
-url: /dingen/2019/07/15568/
+aliases:
+  - /dingen/2019/07/15568/
 
 ---
 I've never exactly followed any framework but instead, I played it by ear and mixed and matched what worked best from wherever I could find it. That's always a bit bothersome (but easily solved) when people want to work with the exact definition of something.

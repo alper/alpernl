@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5094
 parent_post_id: null
 post_id: "5094"
 title: 'Console gaming after the fact: Mirror''s Edge'
-url: /dingen/2015/01/console-gaming-after-the-fact-mirrors-edge/
+aliases:
+  - /dingen/2015/01/console-gaming-after-the-fact-mirrors-edge/
 
 ---
 > [Mirror's Edge looks great but the tutorial was really difficult and frustrating already. Not sure this is the best interface for a parkour game.](https://instagram.com/p/xAASR1Sao5/)

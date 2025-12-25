@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17614
 parent_post_id: null
 post_id: "17614"
 title: ""
-url: /dingen/2024/10/17614/
+aliases:
+  - /dingen/2024/10/17614/
 
 ---
 The Game of Sisyphus is hilarious, as is this write-up.

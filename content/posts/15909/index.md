@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15909
 parent_post_id: null
 post_id: "15909"
 title: ""
-url: /dingen/2019/12/15909/
+aliases:
+  - /dingen/2019/12/15909/
 
 ---
 A bunch of very relevant guidelines of how to setup a product team at various stages of a company from the CPO of Credit Karma.

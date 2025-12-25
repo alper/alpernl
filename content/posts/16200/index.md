@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16200
 parent_post_id: null
 post_id: "16200"
 title: ""
-url: /dingen/2020/07/16200/
+aliases:
+  - /dingen/2020/07/16200/
 
 ---
 > Remember that in any organisation, people make decisions — decisions are about trade-offs, and decisions can be influenced, overturned, and changed. More importantly, organisations evolve— the way decisions were made yesterday might not be the way they get made tomorrow!

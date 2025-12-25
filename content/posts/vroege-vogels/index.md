@@ -9,7 +9,8 @@ post_id: "185"
 tags:
   - huis
 title: Vroege vogels
-url: /dingen/2007/11/vroege-vogels/
+aliases:
+  - /dingen/2007/11/vroege-vogels/
 
 ---
 Vanochtend ben ik om 07:15 opgestaan om de vuilnis buiten te zetten. Hier in de binnenstad hebben we geen ondergrondse containers en alles is sowieso slecht bereikbaar. Het schijnt dat de vuilniswagen hem achterin de Vlouw steekt waar wij ons vuilnis neer moeten zetten ((En helaas geen foto's misschien een andere keer.)).

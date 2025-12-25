@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18729
 parent_post_id: null
 post_id: "18729"
 title: ""
-url: /dingen/2025/12/18729/
+aliases:
+  - /dingen/2025/12/18729/
 
 ---
 I'm going through my old drafts on this blog while I prepare moving off Wordpress and I really should have read my own writing.

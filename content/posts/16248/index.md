@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16248
 parent_post_id: null
 post_id: "16248"
 title: ""
-url: /dingen/2020/08/16248/
+aliases:
+  - /dingen/2020/08/16248/
 
 ---
 https://twitter.com/AntonJaegermm/status/1270410350278643714

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15370
 parent_post_id: null
 post_id: "15370"
 title: Puzzels kinderen van Juf Jannie
-url: /dingen/2019/05/puzzels-kinderen-van-juf-jannie/
+aliases:
+  - /dingen/2019/05/puzzels-kinderen-van-juf-jannie/
 
 ---
 Deze Nederlandstalige app van [Juf Jannie](https://www.jufjannie.nl/) belooft puzzels voor kinderen vanaf 2 jaar aan te bieden maar de interactie en gebruiksvriendelijkheid zijn erbarmelijk slecht.

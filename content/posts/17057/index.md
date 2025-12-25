@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17057
 parent_post_id: null
 post_id: "17057"
 title: ""
-url: /dingen/2023/02/17057/
+aliases:
+  - /dingen/2023/02/17057/
 
 ---
 There is _a lot_ in this piece on the Khaleeji Ideology and the collapse of future and landscape that is happening in the Gulf.

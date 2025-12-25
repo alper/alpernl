@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1554
 parent_post_id: null
 post_id: "1554"
 title: Interactive Environments
-url: /dingen/2010/02/interactive-environments/
+aliases:
+  - /dingen/2010/02/interactive-environments/
 
 ---
 A [small post about the Interactive Environments](http://www.bk.tudelft.nl/live/pagina.jsp?id=1cc7669a-0a71-4399-91e5-9898d6f9fc49&lang=nl) exhibit at my alma mater. I had to be in Rotterdam anyway that day so I decided to drop by.

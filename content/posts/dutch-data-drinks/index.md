@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2127
 parent_post_id: null
 post_id: "2127"
 title: Dutch Data Drinks
-url: /dingen/2010/09/dutch-data-drinks/
+aliases:
+  - /dingen/2010/09/dutch-data-drinks/
 
 ---
 There's a lot of stuff happening in the Dutch Data Scene and more communication and consolidation of efforts is in order.

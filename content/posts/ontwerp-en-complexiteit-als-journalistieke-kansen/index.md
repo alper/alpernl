@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2177
 parent_post_id: null
 post_id: "2177"
 title: Ontwerp en complexiteit als journalistieke kansen
-url: /dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/
+aliases:
+  - /dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/
 
 ---
 De laatste dagen staan een beetje in het teken van gelekte e-mailtjes van, naar en door invloedrijke mensen in Nederland. Een van de recentere is die van de nieuwe hoofdredacteur van het [NRC](http://www.nrc.nl), [Peter Vandermeersch](http://nl.wikipedia.org/wiki/Peter_Vandermeersch), naar zijn redactie, hieronder ( [via](http://twitter.com/#!/LeviBottle/status/26646195262)):

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15835
 parent_post_id: null
 post_id: "15835"
 title: ""
-url: /dingen/2019/11/15835/
+aliases:
+  - /dingen/2019/11/15835/
 
 ---
 Such a well-written and cogent argument by Dave Mangot about how it definitely does matter whether you choose to deploy on Fridays or not and also that that choice is fully your own.

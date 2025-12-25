@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15726
 parent_post_id: null
 post_id: "15726"
 title: ""
-url: /dingen/2019/09/15726/
+aliases:
+  - /dingen/2019/09/15726/
 
 ---
 It is true that Goodreads is a deeply broken website but right now it is the only place that we have that has a critical mass of readers on it.

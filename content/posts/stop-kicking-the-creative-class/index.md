@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2976
 parent_post_id: null
 post_id: "2976"
 title: Stop Kicking the Creative Class
-url: /dingen/2011/10/stop-kicking-the-creative-class/
+aliases:
+  - /dingen/2011/10/stop-kicking-the-creative-class/
 
 ---
 I was at a meeting this weekend by the [Pop-up City](http://popupcity.net/) and the documentary displayed about urban development fits into a wider recent trend where people kick the creative class and blame them for society's ills. Usually the dreaded specter of gentrification is pulled out to show how apathetic and different and outright bad the Creative Class ((A horrible term, but the one we got to work with.)) are.

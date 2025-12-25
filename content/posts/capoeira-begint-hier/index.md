@@ -9,7 +9,8 @@ post_id: "53"
 tags:
   - weekend
 title: Capoeira begint hier
-url: /dingen/2007/05/capoeira-begint-hier/
+aliases:
+  - /dingen/2007/05/capoeira-begint-hier/
 
 ---
 De week van capoeira mond uit in het weekend van de Batizado. Capoeira en veel andere leuke dingen, met tussendoor ergens nog [een feest](/dingen/2007/05/braziliaans-festival-capoeira-liberdade/).

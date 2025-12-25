@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17008
 parent_post_id: null
 post_id: "17008"
 title: ""
-url: /dingen/2023/02/17008/
+aliases:
+  - /dingen/2023/02/17008/
 
 ---
 I use a graph based note taking tool (foam) and I am to yet derive any kind of value from the graph (other than some minor visual oohs and aahs). It's vastly oversold and I don't want to think about all the time people have wasted tidying and linking up their notes.

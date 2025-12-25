@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15477
 parent_post_id: null
 post_id: "15477"
 title: ""
-url: /dingen/2019/05/15477/
+aliases:
+  - /dingen/2019/05/15477/
 
 ---
 Leave it to the Netherlands to have a Green party that is right-wing just like every other party. Their leader, Jesse Klaver, styled himself after Trudeau during his campaign but after that, the result has been a bit lackluster without a seat in government.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16047
 parent_post_id: null
 post_id: "16047"
 title: ""
-url: /dingen/2020/04/16047/
+aliases:
+  - /dingen/2020/04/16047/
 
 ---
 > “Wie kann es sein, dass die aufwändig erarbeiteten und austarierten Betreuungs- und Versorgungsnetze aus Kita, Schule, Hort, Babysitter\*in, Großeltern, Tagesmutter-/vater und weiteren Mitbetreuenden, von Verpflegung in Einrichtungen und haushaltsnahen Dienstleistungen von heute auf morgen von behördlicher Seite gestrichen werden, ohne dass gleichzeitig Aussichten auf Kompensations- und Unterstützungsangebote gemacht werden?”

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1917
 parent_post_id: null
 post_id: "1917"
 title: Hangjongeren
-url: /dingen/2010/06/1917/
+aliases:
+  - /dingen/2010/06/1917/
 
 ---
 Jelle Brandt Corstius _nailt_ het:

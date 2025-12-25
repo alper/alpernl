@@ -8,7 +8,8 @@ tags:
   - amerika
   - politiek
 title: American Rhetoric
-url: /dingen/2008/01/american-rhetoric/
+aliases:
+  - /dingen/2008/01/american-rhetoric/
 
 ---
 “We are not a collection of red states and blue states. We are the United States of America.”

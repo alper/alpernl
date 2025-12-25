@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15882
 parent_post_id: null
 post_id: "15882"
 title: ""
-url: /dingen/2019/11/15882/
+aliases:
+  - /dingen/2019/11/15882/
 
 ---
 I started reading this article on WeChat which turned into a convincing takedown of design thinking's incrementalism and lack of vision.

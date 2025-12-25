@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17510
 parent_post_id: null
 post_id: "17510"
 title: ""
-url: /dingen/2024/03/17510/
+aliases:
+  - /dingen/2024/03/17510/
 
 ---
 Amos's style of software engineering historiography accompanied with snide commentary on the state of the art is both educational and entertaining. The weird factoids about Github Actions are the main act here but don't miss out on the introduction on software delivery or the lead out on capitalism.

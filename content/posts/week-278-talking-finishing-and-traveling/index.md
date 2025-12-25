@@ -12,7 +12,8 @@ post_id: "3696"
 tags:
   - weeknotes
 title: 'Week 278: talking, finishing and traveling'
-url: /dingen/2012/07/week-278-talking-finishing-and-traveling/
+aliases:
+  - /dingen/2012/07/week-278-talking-finishing-and-traveling/
 
 ---
 A busy week after a quiet weekend. Monday evening I attended a preliminary meeting with fellow coaches for the Berlin Python classes. After that I attended the Iron Blogger regular meetup to have beer with my fellow Berlin bloggers. Later that week I also attended the regular [Campus Party](http://www.campus-party.eu/) drinks.

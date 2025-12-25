@@ -12,7 +12,8 @@ post_id: "3570"
 tags:
   - weeknotes
 title: 'Week 271: lots of events and event preparations with some making in between'
-url: /dingen/2012/05/week-271-lots-of-events-and-event-preparations-with-some-making-in-between/
+aliases:
+  - /dingen/2012/05/week-271-lots-of-events-and-event-preparations-with-some-making-in-between/
 
 ---
 Quickly this last week. Work on our own iPhone transit application is progressing nicely. The iPhone has an exquisite palette of operations to work with.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17433
 parent_post_id: null
 post_id: "17433"
 title: ""
-url: /dingen/2024/02/17433/
+aliases:
+  - /dingen/2024/02/17433/
 
 ---
 Simon Willison is one of the best engineering communicators out there and this podcast with him about LLMs and AI is one of the most insightful episodes I've heard on the topic.

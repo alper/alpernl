@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=628
 parent_post_id: null
 post_id: "628"
 title: Environmental music experiences
-url: /dingen/2008/12/environmental-music-experiences/
+aliases:
+  - /dingen/2008/12/environmental-music-experiences/
 
 ---
 I recently bought the full version of [RJDJ](http://rjdj.me/) and it is a very fun way to create a dynamic [soundgarden](http://www.tacticalsoundgarden.net/) based on your environment. I also started using [last.fm](http://last.fm) again even though they don't have an iPhone player available yet in the Netherlands ((Yet another reason to move to London or the US, the late release date in the low countries of any significant innovation.)).

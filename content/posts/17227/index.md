@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17227
 parent_post_id: null
 post_id: "17227"
 title: ""
-url: /dingen/2023/07/17227/
+aliases:
+  - /dingen/2023/07/17227/
 
 ---
 The multiplier you get working with people who practice rigorous thinking is huge. Most of the work is getting everybody to this point as Wes Kao explains here.

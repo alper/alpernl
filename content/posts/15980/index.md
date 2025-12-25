@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15980
 parent_post_id: null
 post_id: "15980"
 title: ""
-url: /dingen/2020/02/15980/
+aliases:
+  - /dingen/2020/02/15980/
 
 ---
 Venkat keeps churning out these legendary and broadly valid pieces. This one is about why everything online is on fire all the time. Strap in.

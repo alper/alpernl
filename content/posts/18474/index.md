@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18474
 parent_post_id: null
 post_id: "18474"
 title: ""
-url: /dingen/2025/11/18474/
+aliases:
+  - /dingen/2025/11/18474/
 
 ---
 Not sure how many people know that this kind of deep data modelling is possible to do in Notion. I love tools with a high skill-cap and Notion is definitely one such.

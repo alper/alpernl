@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15839
 parent_post_id: null
 post_id: "15839"
 title: ""
-url: /dingen/2019/11/15839/
+aliases:
+  - /dingen/2019/11/15839/
 
 ---
 I've been a part of the Berlin Dad's Slack for a while now which is proving to be an essential resource for dads who want to live a balanced life.

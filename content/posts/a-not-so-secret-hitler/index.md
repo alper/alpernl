@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5425
 parent_post_id: null
 post_id: "5425"
 title: A not so secret Hitler
-url: /dingen/2015/12/a-not-so-secret-hitler/
+aliases:
+  - /dingen/2015/12/a-not-so-secret-hitler/
 
 ---
 [Rob Dubbin at the Awl](http://www.theawl.com/2015/12/the-humbling-and-inspiring-tale-of-the-game-that-proved-hitlers-name-is-still-worth-at-least-a-million-dollars) has written a comprehensive account of what is wrong with [Secret Hitler](https://www.kickstarter.com/projects/maxtemkin/secret-hitler). I agree with his critique but I want to highlight one issue in particular.

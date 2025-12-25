@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1227
 parent_post_id: null
 post_id: "1227"
 title: Locative privacy measures
-url: /dingen/2009/09/locative-privacy-measures/
+aliases:
+  - /dingen/2009/09/locative-privacy-measures/
 
 ---
 [Robert Scoble hits a point](http://scobleizer.com/2009/09/23/antifeatures-big-mistake-that-location-app-developers-make/) (two actually) that I'd been meaning to write-up as well about anti-features and privacy wich are very very important for mainstream adoption of your webservice.

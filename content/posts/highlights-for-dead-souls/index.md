@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16040
 parent_post_id: null
 post_id: "16040"
 title: Highlights for Dead Souls
-url: /dingen/2020/03/highlights-for-dead-souls/
+aliases:
+  - /dingen/2020/03/highlights-for-dead-souls/
 
 ---
 > The newcomer was somehow never at a loss and showed himself to be an experienced man of the world. Whatever the conversation, he always knew how to keep up his end: if the talk was of horse breeding, he spoke about horse breeding; if they were speaking of fine dogs, here, too, he made very sensible observations; if the discussion touched upon an investigation conducted by the treasury—he showed that he was not uninformed about legal wiles; if there were some argument about the game of billiards—in the game of billiards, too, he would not go amiss; if they spoke of virtue, on virtue, too, he reasoned very well, tears even came to his eyes; if on the distilling of spirits, then on the distilling of spirits he also knew his stuff; if on customs supervisors and officials, of them, too, he could judge as if he himself had been both an official and a supervisor.

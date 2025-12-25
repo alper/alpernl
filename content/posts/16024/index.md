@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16024
 parent_post_id: null
 post_id: "16024"
 title: ""
-url: /dingen/2020/02/16024/
+aliases:
+  - /dingen/2020/02/16024/
 
 ---
 Not surprising that the entire concept of ‘ethical AI’ is another scam perpetuated by the MIT Media Lab. At this point I would assume any project coming out of that institution to be compromised unless proven otherwise.

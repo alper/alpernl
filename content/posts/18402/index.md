@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18402
 parent_post_id: null
 post_id: "18402"
 title: ""
-url: /dingen/2025/10/18402/
+aliases:
+  - /dingen/2025/10/18402/
 
 ---
 If your reliability depends on heroic efforts or arcane knowledge from individuals, then you have no reliability. This week's AWS outage shows that clearly. Whatever conclusions you draw from that is up to you.

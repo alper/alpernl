@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16379
 parent_post_id: null
 post_id: "16379"
 title: ""
-url: /dingen/2020/12/16379/
+aliases:
+  - /dingen/2020/12/16379/
 
 ---
 Hugely thought provoking charts of how much time fathers and mothers have spent with their children in various countries.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15614
 parent_post_id: null
 post_id: "15614"
 title: ""
-url: /dingen/2019/08/15614/
+aliases:
+  - /dingen/2019/08/15614/
 
 ---
 For most managers these responses should come naturally, but still good to reflect on how to deal positively with employees giving notice.

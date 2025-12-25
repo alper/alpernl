@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16777
 parent_post_id: null
 post_id: "16777"
 title: ""
-url: /dingen/2022/04/16777/
+aliases:
+  - /dingen/2022/04/16777/
 
 ---
 Life is too short to use bad tools (Teams, Jira) and It's good to see more and more people screening companies based on this criterium.

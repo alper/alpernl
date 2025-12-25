@@ -9,7 +9,8 @@ tags:
   - overheid
   - trein
 title: Open reisinformatie voor de mensen
-url: /dingen/2007/12/open-reisinformatie-voor-de-mensen/
+aliases:
+  - /dingen/2007/12/open-reisinformatie-voor-de-mensen/
 
 ---
 Ik zit al een tijdje na te denken over reisinformatie en het zou erg fijn zijn als die informatie makkelijk publiek beschikbaar zou zijn. Het is in het huidige klimaat kansloos en dat maakt het zo jammer want je zou er ontzettend veel handige dingen mee kunnen doen.

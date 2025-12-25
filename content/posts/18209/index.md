@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18209
 parent_post_id: null
 post_id: "18209"
 title: ""
-url: /dingen/2025/04/18209/
+aliases:
+  - /dingen/2025/04/18209/
 
 ---
 Something that I also need to try. The rise of overlay networks that can create private networks and make all your devices and servers internet addressable is a huge convenience.

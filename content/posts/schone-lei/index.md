@@ -17,7 +17,8 @@ tags:
   - tudelft
   - universiteit
 title: Schone lei
-url: /dingen/2008/05/schone-lei/
+aliases:
+  - /dingen/2008/05/schone-lei/
 
 ---
 Gisteren overal veel te zien en te [horen](http://www.tweetscan.com/index.php?s=bouwkunde&u=&d=yesterday) [over](http://eoscommunicatie.web-log.nl/eosblog/2008/05/brand-op-facult.html) de brand bij [Bouwkunde](http://www.bk.tudelft.nl/). Vandaag schijnt de brand eindelijk meester te zijn. Sommige mensen verbaasden zich over het snel om zich heen grijpen van de brand, maar al die maquettes branden natuurlijk als een tierelier.

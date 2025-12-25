@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16769
 parent_post_id: null
 post_id: "16769"
 title: ""
-url: /dingen/2022/04/16769/
+aliases:
+  - /dingen/2022/04/16769/
 
 ---
 A bit ostensibly about a rice cooker but in fact much more about post-war architecture and social relations in Japan.

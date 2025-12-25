@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18102
 parent_post_id: null
 post_id: "18102"
 title: ""
-url: /dingen/2025/02/18102/
+aliases:
+  - /dingen/2025/02/18102/
 
 ---
 A lot has been made of this talk about Egoless Engineering but I can say that for me it came at the exactly right time. In our platform team we got to the point mentioned in the talk and are now working on #3: Empower Everybody Else.

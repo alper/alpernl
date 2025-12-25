@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=3719
 parent_post_id: null
 post_id: "3719"
 title: Ten Billion by Katie Mitchell and Stephen Emmott
-url: /dingen/2012/07/ten-billion-by-katie-mitchell-and-stephen-emmott/
+aliases:
+  - /dingen/2012/07/ten-billion-by-katie-mitchell-and-stephen-emmott/
 
 ---
 In the performance [“Ten Billion”](http://www.festival-avignon.com/en/Spectacle/3366) at La Chartreuse de Villeneuve-lès-Avignon Stephen Emmott, a scientist, performed a soliloquy about the state of the world and the environment. He took a message we already have known since the [Club of Rome](http://en.wikipedia.org/wiki/Club_of_Rome) and rehashed that in front of a theater audience over the course of ninety minutes.

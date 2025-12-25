@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4955
 parent_post_id: null
 post_id: "4955"
 title: The Union issue
-url: /dingen/2014/04/the-union-issue/
+aliases:
+  - /dingen/2014/04/the-union-issue/
 
 ---
 I have been long flummoxed by how terrible the [CDU/CSU](http://en.wikipedia.org/wiki/CDU/CSU) complex in Germany is. I could not understand how people could be that stupid and that conservative to the detriment of everybody including themselves. The number of examples is near infinite, but this post was prompted by yesterday's [action by the young Union Berlin](http://juberlin.de/2014/04/08/raeumung-des-oranienplatzes-danke-frank/) ((Who will never ever demonstrate except at the opportune moment where they can celebrate the state's boot crushing down on the poor and the oppressed. See [this VICE report](http://www.vice.com/de/vice-news/berlin-oranienplatz-refugee-camp-raeumung) to see how incredibly fucked that situation is.)).

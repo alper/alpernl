@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5034
 parent_post_id: null
 post_id: "5034"
 title: Thomas Piketty Debunks Conventional Economics
-url: /dingen/2014/08/thomas-piketty-debunks-conventional-economics/
+aliases:
+  - /dingen/2014/08/thomas-piketty-debunks-conventional-economics/
 
 ---
 I read [“Capital in the Twenty-First Century”](http://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) on assignment and I am glad I did because it is a well written, easy to read and profoundly insightful book. It illuminates what capital is and what effects it has in the world to an extent that hasn't been done before. The book contains lots of insights and it takes down many financial myths that are imposed on us every day.

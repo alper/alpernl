@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1020
 parent_post_id: null
 post_id: "1020"
 title: Kyteman and his Hip Hop Orchestar
-url: /dingen/2009/06/kyteman-and-his-hip-hop-orchestar/
+aliases:
+  - /dingen/2009/06/kyteman-and-his-hip-hop-orchestar/
 
 ---
 For my international audience; if you've been living in the Netherlands you could not have missed this.

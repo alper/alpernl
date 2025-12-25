@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4503
 parent_post_id: null
 post_id: "4503"
 title: Recess! 10
-url: /dingen/2013/04/recess-10/
+aliases:
+  - /dingen/2013/04/recess-10/
 
 ---
 I played a bunch of [Ultratron](http://www.puppygames.net/ultratron/) over the past couple of weeks. It's beautiful pulsing dance of bullets that lost its charm somewhere past level 100 where I thought I had the game beat, but everything keeps on repeating ever faster. That was eleven hours of obsessive pleasure (according to Steam) followed by emptiness.

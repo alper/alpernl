@@ -8,7 +8,8 @@ post_id: "270"
 tags:
   - reizen
 title: Diversificeren
-url: /dingen/2008/03/diversificeren/
+aliases:
+  - /dingen/2008/03/diversificeren/
 
 ---
 Net voor de grap mijn kaart weer gemaakt:

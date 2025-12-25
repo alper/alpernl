@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: Terugvlucht ook verplaatst
-url: /dingen/2007/08/terugvlucht-ook-verplaatst/
+aliases:
+  - /dingen/2007/08/terugvlucht-ook-verplaatst/
 
 ---
 Waar ik al bang voor was is gebeurd, mijn terugvlucht met Corendon is ook verplaatst van 05:35 's ochtends naar 14:30 's middags diezelfde dag. Het toeval wil dat een meisje van een Turks stel die ik ontmoette in Palmyra diezelfde vlucht heeft.

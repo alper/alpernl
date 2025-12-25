@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18273
 parent_post_id: null
 post_id: "18273"
 title: ""
-url: /dingen/2025/07/18273/
+aliases:
+  - /dingen/2025/07/18273/
 
 ---
 Glad to see I'm not the only person hooked by these short videos. They're oddly compelling and are at the moment still mostly under the radar here.

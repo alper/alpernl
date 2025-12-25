@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17671
 parent_post_id: null
 post_id: "17671"
 title: ""
-url: /dingen/2024/11/17671/
+aliases:
+  - /dingen/2024/11/17671/
 
 ---
 I've been waiting for an updated edition of “Designing Data-Intensive Applications” and now I see that Kleppmann is working on it. Reading the first edition has given me such an outsized advantage when architecting and building systems.

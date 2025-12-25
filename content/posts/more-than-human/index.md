@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16250
 parent_post_id: null
 post_id: "16250"
 title: More-Than-Human
-url: /dingen/2020/08/more-than-human/
+aliases:
+  - /dingen/2020/08/more-than-human/
 
 ---
 - Caring

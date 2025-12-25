@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17681
 parent_post_id: null
 post_id: "17681"
 title: ""
-url: /dingen/2024/11/17681/
+aliases:
+  - /dingen/2024/11/17681/
 
 ---
 Alan Moore definitely is not wrong:

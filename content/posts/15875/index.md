@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15875
 parent_post_id: null
 post_id: "15875"
 title: ""
-url: /dingen/2019/11/15875/
+aliases:
+  - /dingen/2019/11/15875/
 
 ---
 A concretized framework for making better product decisions by Laura Klein that comes down to: get together, write things down, review things, course correct when required.

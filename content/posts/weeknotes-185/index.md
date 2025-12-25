@@ -16,7 +16,8 @@ post_id: "2163"
 tags:
   - weeknotes
 title: Weeknotes 185
-url: /dingen/2010/10/weeknotes-185/
+aliases:
+  - /dingen/2010/10/weeknotes-185/
 
 ---
 [![That was bloody quick](http://farm5.static.flickr.com/4085/5041548573_7b78c97879.jpg)](http://www.flickr.com/photos/alper/5041548573/ "That was bloody quick by illustir, on Flickr")

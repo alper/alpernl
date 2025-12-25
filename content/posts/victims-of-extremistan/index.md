@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2960
 parent_post_id: null
 post_id: "2960"
 title: Victims of Extremistan
-url: /dingen/2011/10/victims-of-extremistan/
+aliases:
+  - /dingen/2011/10/victims-of-extremistan/
 
 ---
 I thought this piece: [“Amazon and the reintermediation of the spectacle”](http://fantasticlife.posterous.com/amazon-and-the-reintermediation-of-the-specta) my Michael Smethurst was well worth reading. Here are some choice excerpts, but these are mainly for me. You should read the entire thing.

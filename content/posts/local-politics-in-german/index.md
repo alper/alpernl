@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5633
 parent_post_id: null
 post_id: "5633"
 title: Local politics in Berlin
-url: /dingen/2016/11/local-politics-in-german/
+aliases:
+  - /dingen/2016/11/local-politics-in-german/
 
 ---
 Somewhere between language proficiency [levels C1 and C2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels) lies a plateau that I'm finding difficult to cross in German. Living in Berlin I'm simply not exposed to enough of the language on a day to day basis. The usual advice would be to join a _Verein_ and hang out with Germans. That sounds fun but I'm not in the market for a new hobby.

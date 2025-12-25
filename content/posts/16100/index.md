@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16100
 parent_post_id: null
 post_id: "16100"
 title: ""
-url: /dingen/2020/06/16100/
+aliases:
+  - /dingen/2020/06/16100/
 
 ---
 A very thorough treatment of how "Good Intent" is harmful to diversity and inclusion.

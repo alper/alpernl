@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5608
 parent_post_id: null
 post_id: "5608"
 title: Highlights for Certain to Win by Chet Richards
-url: /dingen/2016/09/notes-for-certain-to-win-by-chet-richards/
+aliases:
+  - /dingen/2016/09/notes-for-certain-to-win-by-chet-richards/
 
 ---
 > War strategies, however, rest on a deeper foundation of people working together under stress and uncertainty, and good ones shape the terms of the conflict to their liking before combat begins.

@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=15336
 parent_post_id: null
 post_id: "15336"
 title: ""
-url: /dingen/2019/04/15336/
+aliases:
+  - /dingen/2019/04/15336/
 
 ---
 A clear write-up of how GOV.UK kept things running smoothly while their petitions website suffered an immense rush of signatures.

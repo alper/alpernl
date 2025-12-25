@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17189
 parent_post_id: null
 post_id: "17189"
 title: ""
-url: /dingen/2023/05/17189/
+aliases:
+  - /dingen/2023/05/17189/
 
 ---
 Leuk en informatief interview over ICT-projecten bij de overheid met Cokky Hilhorst.

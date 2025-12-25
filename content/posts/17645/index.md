@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17645
 parent_post_id: null
 post_id: "17645"
 title: ""
-url: /dingen/2024/11/17645/
+aliases:
+  - /dingen/2024/11/17645/
 
 ---
 I knew it of course, but I hadn't realised how dead the web has gotten until I saw this historic overview of traffic to my blog.

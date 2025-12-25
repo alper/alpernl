@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18185
 parent_post_id: null
 post_id: "18185"
 title: ""
-url: /dingen/2025/03/18185/
+aliases:
+  - /dingen/2025/03/18185/
 
 ---
 I guess NVIDIA got lucky and ARM also got lucky and AMD also got lucky. Everybody got lucky except for Intel.

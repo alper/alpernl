@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1769
 parent_post_id: null
 post_id: "1769"
 title: Ambitieuze koffie in Stumptown
-url: /dingen/2010/05/ambitieuze-koffie-in-stumptown/
+aliases:
+  - /dingen/2010/05/ambitieuze-koffie-in-stumptown/
 
 ---
 Via [Johan Schaap](http://twitter.com/johanschaap/status/13536197385) kwam ik [op het spoor](http://twitter.com/johanschaap/status/13538951765) van een popup store van [Stumptown Coffee Roasters](http://www.stumptowncoffee.com/) hier in Amsterdam op de Albert Cuyp ( [4sq](http://foursquare.com/venue/1970833)).

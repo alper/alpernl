@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17097
 parent_post_id: null
 post_id: "17097"
 title: ""
-url: /dingen/2023/03/17097/
+aliases:
+  - /dingen/2023/03/17097/
 
 ---
 I've been playing Breath of the Wild while I'm lying flat and my experience is identical to that of Craig here. All the way back to the gold cartridge I used to have for the NES as a kid.

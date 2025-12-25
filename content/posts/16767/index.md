@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16767
 parent_post_id: null
 post_id: "16767"
 title: ""
-url: /dingen/2022/04/16767/
+aliases:
+  - /dingen/2022/04/16767/
 
 ---
 On old but interesting article about a study that indicates that people will use their cars a lot more once we get fully autonomous vehicles.

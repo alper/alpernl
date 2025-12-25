@@ -9,7 +9,8 @@ tags:
   - spanje
   - taal
 title: Reisverslag Spanje - Meer en minder taligheid
-url: /dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/
+aliases:
+  - /dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/
 
 ---
 _Hier nog een reisverslag uit Spanje wat ik in Wordpress had hangen. Er volgen er hopelijk nog een paar binnenkort._

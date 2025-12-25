@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5007
 parent_post_id: null
 post_id: "5007"
 title: Product design focused on user wants
-url: /dingen/2014/07/product-design-focused-on-user-wants/
+aliases:
+  - /dingen/2014/07/product-design-focused-on-user-wants/
 
 ---
 This post was previously [published on Medium](https://medium.com/@alper/product-design-focused-on-user-wants-484d04cfa572) and is now archived here.

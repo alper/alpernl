@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15763
 parent_post_id: null
 post_id: "15763"
 title: ""
-url: /dingen/2019/10/15763/
+aliases:
+  - /dingen/2019/10/15763/
 
 ---
 Long overdue to take down Clayton Christensen a couple of notches (but then again any theory so widespread can't be anything other than wrong).

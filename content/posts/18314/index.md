@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18314
 parent_post_id: null
 post_id: "18314"
 title: ""
-url: /dingen/2025/09/18314/
+aliases:
+  - /dingen/2025/09/18314/
 
 ---
 The AWS CEO doing not much more than stating the obvious when it comes to AI and software engineering.

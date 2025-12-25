@@ -13,7 +13,8 @@ post_id: "3083"
 tags:
   - weeknotes
 title: Week 243
-url: /dingen/2011/11/week-243/
+aliases:
+  - /dingen/2011/11/week-243/
 
 ---
 It has become even easier to find your way to our office in the Coop. Just follow the green yellow line.

@@ -11,7 +11,8 @@ guid: http://www.alper.nl/dingen/?p=16340
 parent_post_id: null
 post_id: "16340"
 title: ""
-url: /dingen/2020/10/16340/
+aliases:
+  - /dingen/2020/10/16340/
 
 ---
 A fair part of my childhood was spent in gecekondu buildings exactly as the ones depicted here.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15823
 parent_post_id: null
 post_id: "15823"
 title: ""
-url: /dingen/2019/11/15823/
+aliases:
+  - /dingen/2019/11/15823/
 
 ---
 Figma's multiplayer support is fantastic and something similar should be a part of every creative application. Now they've also written a very understandable high-level overview of their implementation (with CRDTs).

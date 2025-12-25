@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15195
 parent_post_id: null
 post_id: "15195"
 title: Changing my media diet
-url: /dingen/2019/02/15195/
+aliases:
+  - /dingen/2019/02/15195/
 
 ---
 I've changed my monthly contribution from the [Guardian](https://www.theguardian.com/international) to the [Taz](https://taz.de/).

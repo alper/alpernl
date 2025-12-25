@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17738
 parent_post_id: null
 post_id: "17738"
 title: ""
-url: /dingen/2024/11/17738/
+aliases:
+  - /dingen/2024/11/17738/
 
 ---
 Chuffed by the strength of my team that we have most of the easy decisions from these Node.js pillars in place and we are making headway on all of them to the extent that's appropriate for us.

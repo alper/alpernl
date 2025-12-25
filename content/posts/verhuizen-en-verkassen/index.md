@@ -9,7 +9,8 @@ post_id: "177"
 tags:
   - uncategorized
 title: Verhuizen en verkassen
-url: /dingen/2007/10/verhuizen-en-verkassen/
+aliases:
+  - /dingen/2007/10/verhuizen-en-verkassen/
 
 ---
 Ik ga donderdagmiddag verhuizen heb ik besloten. Er is al hulp, maar meer is welkom. Voor bier en versnaperingen wordt gezorgd.

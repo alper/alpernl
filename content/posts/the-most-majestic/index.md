@@ -8,7 +8,8 @@ tags:
   - fotografie
   - koffie
 title: The Most Majestic
-url: /dingen/2008/01/the-most-majestic/
+aliases:
+  - /dingen/2008/01/the-most-majestic/
 
 ---
 Een tijdje geleden had ik een site gezien met de [Lavazza 2008 kalender](http://www.lavazza2008.com/) “The Most Majestic”erop met exuberante koninklijke dames die Lavazza espresso drinken geschoten door [Finlay Mackay](http://www.finlaymackay.com/) ((Wat trouwens een [erg goede](http://www.finlaymackay.com/work/index.html) fotograaf is.)) ((Ik schrik me dood. Ga naar gallery shinjyuu op Mackay's portfolio en klik naar de voorlaatste foto. Wees gewaarschuwd.)).

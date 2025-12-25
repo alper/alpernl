@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3623
 parent_post_id: null
 post_id: "3623"
 title: No cars for life
-url: /dingen/2012/06/no-cars-for-life/
+aliases:
+  - /dingen/2012/06/no-cars-for-life/
 
 ---
 This [article by Good about people my age and younger driving less](http://www.good.is/post/young-people-are-driving-less-and-not-just-because-they-re-broke/) strikes me as very true. Just one point: I have a driving license, but I've never owned a car. My brother does not even have a driving license because if you never leave Amsterdam having a car is ludicrous. I try to minimize my driving except for the occasional road trip because I think my time is too valuable to spend many hours doing something unnecessary.

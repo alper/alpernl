@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15703
 parent_post_id: null
 post_id: "15703"
 title: ""
-url: /dingen/2019/09/15703/
+aliases:
+  - /dingen/2019/09/15703/
 
 ---
 Teams just like so many Microsoft products is so bad that people have to be forced to use it.

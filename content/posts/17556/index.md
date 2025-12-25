@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17556
 parent_post_id: null
 post_id: "17556"
 title: ""
-url: /dingen/2024/07/17556/
+aliases:
+  - /dingen/2024/07/17556/
 
 ---
 I don't think it's appreciated how bad it is for one of the richest men in the world and the leadership of a company to walk around propositioning random employees. Elon Musk is a bad person and you should feel bad if you like him.

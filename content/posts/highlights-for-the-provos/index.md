@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16433
 parent_post_id: null
 post_id: "16433"
 title: Highlights for The Provos
-url: /dingen/2021/02/highlights-for-the-provos/
+aliases:
+  - /dingen/2021/02/highlights-for-the-provos/
 
 ---
 > He believed that the ‘blood sacrifice’ of a few would regenerate the national consciousness and lead, by force of Irish arms, to the eventual withdrawal of Britain from Ireland.

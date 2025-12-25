@@ -8,7 +8,8 @@ tags:
   - amsterdam
   - fotografie
 title: Flickr op NDSM
-url: /dingen/2008/02/flickr-op-ndsm/
+aliases:
+  - /dingen/2008/02/flickr-op-ndsm/
 
 ---
 Gisteren met wat Flickr gebruikers afgesproken op de [NDSM](http://nl.wikipedia.org/wiki/NDSM)-werf en daar de hele boel vastgelegd.

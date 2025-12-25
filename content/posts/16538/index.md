@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16538
 parent_post_id: null
 post_id: "16538"
 title: ""
-url: /dingen/2021/07/16538/
+aliases:
+  - /dingen/2021/07/16538/
 
 ---
 > "dass deutsche Behörden und bürokratische Prozesse mitverantwortlich sind am Scheitern des Start-ups."

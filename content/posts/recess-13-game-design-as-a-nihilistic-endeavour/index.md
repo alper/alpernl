@@ -11,7 +11,8 @@ post_id: "4585"
 tags:
   - recess!
 title: Recess! 13 - Game Design as a Nihilistic Endeavour
-url: /dingen/2013/05/recess-13-game-design-as-a-nihilistic-endeavour/
+aliases:
+  - /dingen/2013/05/recess-13-game-design-as-a-nihilistic-endeavour/
 
 ---
 I have a current shtick that says that game designers harbour no illusions about human reality. Designing and testing a game on people reveal the murky depths of human nature in a way few other pursuits do. Take even the simplest game with the possibility of deception and it will often devolve into the horrible treatment of one player for the advantage of another.

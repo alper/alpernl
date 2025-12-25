@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15692
 parent_post_id: null
 post_id: "15692"
 title: ""
-url: /dingen/2019/09/15692/
+aliases:
+  - /dingen/2019/09/15692/
 
 ---
 Working in organizations, it's essential to be able to differentiate between things that are under your purview, and things that you should let fall on the floor. Camille Fournier writes a guide here about how to decide what to fix and how to fix that.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16848
 parent_post_id: null
 post_id: "16848"
 title: Highlights for Bizim BÃ¼yÃ¼k Ã‡aresizliÄŸimiz
-url: /dingen/2022/09/highlights-for-bizim-buyuk-caresizligimiz/
+aliases:
+  - /dingen/2022/09/highlights-for-bizim-buyuk-caresizligimiz/
 
 ---
 > Beş el vardı direksiyonda, babanın iki eli, Nevzat Amca'nın iki eli ve gören görür, ölümün eli...

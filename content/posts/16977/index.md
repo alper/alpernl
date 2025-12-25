@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16977
 parent_post_id: null
 post_id: "16977"
 title: ""
-url: /dingen/2023/01/16977/
+aliases:
+  - /dingen/2023/01/16977/
 
 ---
 Love to see these updates from the German Digital Service. Not sure everybody knows that that organization exists now and what they're busy with.

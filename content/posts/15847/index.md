@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15847
 parent_post_id: null
 post_id: "15847"
 title: ""
-url: /dingen/2019/11/15847/
+aliases:
+  - /dingen/2019/11/15847/
 
 ---
 I usually say that application development (mobile and otherwise) is a solved problem but once you go to any kind of scale, you run into all of these operational issues which keep things interesting.

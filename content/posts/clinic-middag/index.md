@@ -12,7 +12,8 @@ post_id: "303"
 tags:
   - uncategorized
 title: Clinic Middag
-url: /dingen/2008/06/clinic-middag/
+aliases:
+  - /dingen/2008/06/clinic-middag/
 
 ---
 Volgende vrijdag houden we hier op kantoor een unconference-achtige workshop ( [beschrijving](http://studio4stagioni.nl/2008/06/workshop-13-juni/)) middag om kennis uit te wisselen. Iedereen vertelt of laat iets zien wat hij kan ter lering ende vermaek van de anderen, dit mag alles zijn. Nu wilden we het aanvankelijk doen met ons vieren, maar het leek ons nog leuker om het open te stellen voor onze vrienden en kennissen.

@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16558
 parent_post_id: null
 post_id: "16558"
 title: ""
-url: /dingen/2021/08/16558/
+aliases:
+  - /dingen/2021/08/16558/
 
 ---
 It's a bit counterintuitive but I think it's a good point that all the efforts to more and better coordination are harmful. We should have less coordination which will inevitably lead to more work between teams, but that is work you should be doing anyway. I think teams are in general very heavily underfacilitated.

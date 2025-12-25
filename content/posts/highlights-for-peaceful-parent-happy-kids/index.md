@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16139
 parent_post_id: null
 post_id: "16139"
 title: Highlights for Peaceful Parent Happy Kids
-url: /dingen/2020/07/highlights-for-peaceful-parent-happy-kids/
+aliases:
+  - /dingen/2020/07/highlights-for-peaceful-parent-happy-kids/
 
 ---
 > Despite the popular idea that we need to “express”our anger so that it doesn’t eat away at us, research shows that expressing anger while we are angry actually makes us more angry. This in turn makes the other person hurt, afraid, or angry, and causes a rift in the relationship. Rehashing the situation in our mind always proves to us that we’re right and the other person is wrong, which again makes us more angry as we stew. What works is to calm down, and then find a constructive way to address whatever is making us angry so that the situation is resolved, and our anger stops being triggered.

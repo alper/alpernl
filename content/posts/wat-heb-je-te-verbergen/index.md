@@ -10,7 +10,8 @@ tags:
   - overheid
   - politiek
 title: Wat heb je te verbergen?
-url: /dingen/2007/11/wat-heb-je-te-verbergen/
+aliases:
+  - /dingen/2007/11/wat-heb-je-te-verbergen/
 
 ---
 Mijn eerste keuze voor de presidentsverkiezingen in Amerika is Barack Obama maar als _runner up_ zou ik moeten gaan voor het andere kamp: [Ron Paul](http://frontpage.fok.nl/nieuws/84370) zegt extreem zinnige dingen en lijkt weinig gecorrumpeerd.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1808
 parent_post_id: null
 post_id: "1808"
 title: Dead trees
-url: /dingen/2010/05/dead-trees/
+aliases:
+  - /dingen/2010/05/dead-trees/
 
 ---
 I don't think I disagree with anything Craig Mod writes.

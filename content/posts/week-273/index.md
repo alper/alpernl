@@ -12,7 +12,8 @@ post_id: "3599"
 tags:
   - weeknotes
 title: 'Week 273: Objects, Hack de Overheid, Copenhagen, European Data Forum, Linked Data, Metropolis Lab, all new Foursquare'
-url: /dingen/2012/06/week-273/
+aliases:
+  - /dingen/2012/06/week-273/
 
 ---
 I've been into something of a speculative realism binge lately reading quite some books and even more blogs from the field of current day philosophy. Last Monday I [finished Ian Bogost's Alien Phenomenology](http://www.goodreads.com/review/show/337420525) which is highly recommended if you want to read up on object oriented ontology.

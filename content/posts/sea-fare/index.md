@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1662
 parent_post_id: null
 post_id: "1662"
 title: Sea fare
-url: /dingen/2010/03/sea-fare/
+aliases:
+  - /dingen/2010/03/sea-fare/
 
 ---
 Just saw this picture of the Wellington RFID farecard system at [Adam Greenfield's Flickr stream](http://www.flickr.com/photos/studies_and_observations/) ( [CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en_GB) photograph):

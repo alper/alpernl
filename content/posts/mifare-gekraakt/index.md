@@ -10,7 +10,8 @@ tags:
   - computers
   - openbaar-vervoer
 title: Mifare gekraakt
-url: /dingen/2008/01/mifare-gekraakt/
+aliases:
+  - /dingen/2008/01/mifare-gekraakt/
 
 ---
 Een [artikel in de Volkskrant](http://www.volkskrant.nl/economie/article492709.ece/Geheime_code_van_ov-kaart_ligt_op_straat) vandaag over hoe het algemene systeem van de OV-chipkaarten is gekraakt. Dit is aangekondigd door een groep hackers op de CCC in Berlijn tijdens hun presentatie: [Mifare: Little Security, Despite Obscurity](http://events.ccc.de/congress/2007/Fahrplan/track/Hacking/2378.en.html).

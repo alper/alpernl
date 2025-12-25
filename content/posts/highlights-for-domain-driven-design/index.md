@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16850
 parent_post_id: null
 post_id: "16850"
 title: Highlights for Domain Driven Design
-url: /dingen/2022/09/highlights-for-domain-driven-design/
+aliases:
+  - /dingen/2022/09/highlights-for-domain-driven-design/
 
 ---
 > Good programmers will naturally start to abstract and develop a model that can do more work. But when this happens only in a technical setting, without collaboration with domain experts, the concepts are naive. That shallowness of knowledge produces software that does a basic job but lacks a deep connection to the domain expert's way of thinking.

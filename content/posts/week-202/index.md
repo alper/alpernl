@@ -14,7 +14,8 @@ post_id: "2409"
 tags:
   - weeknotes
 title: Week 202
-url: /dingen/2011/02/week-202/
+aliases:
+  - /dingen/2011/02/week-202/
 
 ---
 A different format for these weeknotes:

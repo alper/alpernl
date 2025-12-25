@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17632
 parent_post_id: null
 post_id: "17632"
 title: ""
-url: /dingen/2024/10/17632/
+aliases:
+  - /dingen/2024/10/17632/
 
 ---
 Wanted to show the kids some chiaroscuro for their art class about light and dark tomorrow and ran through some of [the all time greats from Caravaggio](https://www.artrenewal.org/artists/caravaggio/589). They were particularly impressed by Holofernes being beheaded.

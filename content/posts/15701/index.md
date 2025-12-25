@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15701
 parent_post_id: null
 post_id: "15701"
 title: ""
-url: /dingen/2019/09/15701/
+aliases:
+  - /dingen/2019/09/15701/
 
 ---
 An interesting bit of news did the rounds last week but I've personally heard of multiple cases where people leaving online reviews have been faced with legal action.

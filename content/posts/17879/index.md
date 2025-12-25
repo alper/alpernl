@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17879
 parent_post_id: null
 post_id: "17879"
 title: ""
-url: /dingen/2025/01/17879/
+aliases:
+  - /dingen/2025/01/17879/
 
 ---
 [RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models](https://arxiv.org/abs/2412.02830)

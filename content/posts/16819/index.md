@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16819
 parent_post_id: null
 post_id: "16819"
 title: ""
-url: /dingen/2022/07/16819/
+aliases:
+  - /dingen/2022/07/16819/
 
 ---
 [https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari](https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari)

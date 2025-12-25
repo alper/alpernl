@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=18462
 parent_post_id: null
 post_id: "18462"
 title: ""
-url: /dingen/2025/12/18462/
+aliases:
+  - /dingen/2025/12/18462/
 
 ---
 > "AI is expected to approach human reasoning"

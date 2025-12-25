@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1623
 parent_post_id: null
 post_id: "1623"
 title: Verkiezingsuitslagen Grootste Partijen Gevisualiseerd
-url: /dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/
+aliases:
+  - /dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/
 
 ---
 Snel een visualisatie in elkaar gedraaid op basis van mijn Europees Parlement visualisatie van [vorige week](http://www.flickr.com/photos/alper/4388299738/). De huidige verkiezingen voor de gemeenteraad 2010 (klik voor groot):

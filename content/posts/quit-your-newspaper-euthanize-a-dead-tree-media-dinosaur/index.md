@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=664
 parent_post_id: null
 post_id: "664"
 title: Quit your newspaper, euthanize a dead tree media dinosaur
-url: /dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/
+aliases:
+  - /dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/
 
 ---
 [![](http://farm3.static.flickr.com/2035/2117512295_24e409bf9d_m.jpg)](http://flickr.com/photos/zarkodrincic/2117512295/)

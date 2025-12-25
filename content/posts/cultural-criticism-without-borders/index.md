@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3165
 parent_post_id: null
 post_id: "3165"
 title: Cultural Criticism Without Borders
-url: /dingen/2011/12/cultural-criticism-without-borders/
+aliases:
+  - /dingen/2011/12/cultural-criticism-without-borders/
 
 ---
 When I just got into Germany we managed to pin point something I had noticed before. It is striking how conservative people in Germany are when it comes to the internet and especially people who work in cultural positions. Compared to that, the Netherlands of the past five years has gone through a rather tumultuous revolution.

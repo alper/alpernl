@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4327
 parent_post_id: null
 post_id: "4327"
 title: V. in Ballhaus Ost
-url: /dingen/2013/02/v-in-ballhaus-ost/
+aliases:
+  - /dingen/2013/02/v-in-ballhaus-ost/
 
 ---
 I swore to myself never to go to the theater again ((Just after seeing mightysociety10 in Amsterdam.)) which took a lot of the pressure off. But yesterday I did go to see [V. in Ballhaus Ost](http://ballhausost.de/spip.php?article512). The posters hanging around town piqued my interest that a group in Berlin would stage a text by [Thomas Pynchon](http://en.wikipedia.org/wiki/Thomas_Pynchon). And if anyone should break my rules, it should be me.

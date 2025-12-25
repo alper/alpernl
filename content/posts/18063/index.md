@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18063
 parent_post_id: null
 post_id: "18063"
 title: ""
-url: /dingen/2025/02/18063/
+aliases:
+  - /dingen/2025/02/18063/
 
 ---
 > @alper Hast du eine Perspektive für uns was wir tuen können/ tuen sollten?

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15627
 parent_post_id: null
 post_id: "15627"
 title: ""
-url: /dingen/2019/08/15627/
+aliases:
+  - /dingen/2019/08/15627/
 
 ---
 > “I offer this: literature can save a life. Just one life at a time.”

@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=16006
 parent_post_id: null
 post_id: "16006"
 title: ""
-url: /dingen/2020/02/16006/
+aliases:
+  - /dingen/2020/02/16006/
 
 ---
 Een bijzonder goed stuk van Yael van der Wouden over wat het betekent om Nederlander te zijn en wat het betekent om dat niet te zijn.

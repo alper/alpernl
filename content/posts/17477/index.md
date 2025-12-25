@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17477
 parent_post_id: null
 post_id: "17477"
 title: ""
-url: /dingen/2024/03/17477/
+aliases:
+  - /dingen/2024/03/17477/
 
 ---
 Listened to the latest episode of the German eGovernment podcast with the Minister for Digital for Bavaria. That is the state here that's seemingly the farthest along when it comes to digitalisation and it now has the following ambitious plans:

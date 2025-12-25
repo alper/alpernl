@@ -13,7 +13,8 @@ tags:
   - this-happened
   - utrecht
 title: 'This Happened #8 - Sound Bytes'
-url: /dingen/2010/11/this-happened-8-sound-bytes/
+aliases:
+  - /dingen/2010/11/this-happened-8-sound-bytes/
 
 ---
 The quotable [This Happened Utrecht #8](http://thishappened.org/utrecht/8/).

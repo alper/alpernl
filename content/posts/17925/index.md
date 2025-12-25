@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17925
 parent_post_id: null
 post_id: "17925"
 title: ""
-url: /dingen/2025/01/17925/
+aliases:
+  - /dingen/2025/01/17925/
 
 ---
 For those who want to introduce some whimsy into their programming and for whom using a variable width font in your code editor is a bit too far, there is now Comic Mono ( [via](https://www.iamcal.com/2025-01/)). It doesn't even look all too terrible.

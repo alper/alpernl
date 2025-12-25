@@ -9,7 +9,8 @@ post_id: "212"
 tags:
   - movies
 title: 2008 Bioscoopjaar
-url: /dingen/2007/12/2008-bioscoopjaar/
+aliases:
+  - /dingen/2007/12/2008-bioscoopjaar/
 
 ---
 Ik lees de afgelopen week wat [verlekkerde lijstjes](http://www.firstshowing.net/2007/12/18/why-2008-will-be-an-awesome-year-for-movies/) [van films](http://blog.zog.org/2007/12/film-2008.html) die verwacht worden in 2008. Nu heb ik nog niet eens de boeiendste films van 2007 gezien ((Flinke achterstand opgelopen met afstuderen.)).

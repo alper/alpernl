@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=947
 parent_post_id: null
 post_id: "947"
 title: Zeg Nee! tegen copyright
-url: /dingen/2009/04/zeg-nee-tegen-copyright/
+aliases:
+  - /dingen/2009/04/zeg-nee-tegen-copyright/
 
 ---
 Even een kleine copyright roundup na de farce van het proces tegen [the Pirate Bay](http://thepiratebay.org/) en [Brein die daar weer in springt](http://tweakers.net/nieuws/59677/brein-wil-na-vonnis-the-pirate-bay-in-nederland-laten-blokkeren.html). Gebruik in de tussentijd [the Pirate Google](http://www.thepirategoogle.com/) totdat Brein die ook weet te blokkeren.

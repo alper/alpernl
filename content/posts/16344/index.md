@@ -13,7 +13,8 @@ guid: http://www.alper.nl/dingen/?p=16344
 parent_post_id: null
 post_id: "16344"
 title: ""
-url: /dingen/2020/10/16344/
+aliases:
+  - /dingen/2020/10/16344/
 
 ---
 https://www.hpdetijd.nl/2020-10-14/twee-eeuwen-oranjebitter/

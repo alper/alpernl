@@ -7,7 +7,8 @@ post_id: "151"
 tags:
   - huis
 title: Sleuteloverdracht
-url: /dingen/2007/10/sleuteloverdracht/
+aliases:
+  - /dingen/2007/10/sleuteloverdracht/
 
 ---
 Vanmiddag een flinke stapel papier waaronder mijn huurcontract ondertekend en de sleutels van mijn nieuwe huis gekregen.

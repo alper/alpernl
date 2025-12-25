@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1179
 parent_post_id: null
 post_id: "1179"
 title: Playing capoeira and eating lots of meat
-url: /dingen/2009/08/playing-capoeira-and-eating-lots-of-meat/
+aliases:
+  - /dingen/2009/08/playing-capoeira-and-eating-lots-of-meat/
 
 ---
 I've never come as close to a depiction of paradise as with this picture:

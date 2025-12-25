@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17266
 parent_post_id: null
 post_id: "17266"
 title: ""
-url: /dingen/2023/08/17266/
+aliases:
+  - /dingen/2023/08/17266/
 
 ---
 I prefer to use contributing factors over the concept of a "root cause" and if people believe an incident has a single cause, usually that also means that they're not very serious about reliability engineering.

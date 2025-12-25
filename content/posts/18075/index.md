@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18075
 parent_post_id: null
 post_id: "18075"
 title: ""
-url: /dingen/2025/02/18075/
+aliases:
+  - /dingen/2025/02/18075/
 
 ---
 An enjoyable dive into where all these patronyms and nicknames came from. I could make one for Turkish but where I came from the _lakap_ (nickname) is more common than the diminutive (Hatça = Hatice).

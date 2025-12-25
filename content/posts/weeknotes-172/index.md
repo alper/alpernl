@@ -12,7 +12,8 @@ post_id: "1921"
 tags:
   - weeknotes
 title: Weeknotes 172
-url: /dingen/2010/07/weeknotes-172/
+aliases:
+  - /dingen/2010/07/weeknotes-172/
 
 ---
 ### Monday

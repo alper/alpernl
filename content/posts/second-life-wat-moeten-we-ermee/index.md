@@ -13,7 +13,8 @@ tags:
   - politiek
   - tu-delft
 title: 'Second Life: Wat moeten we ermee?'
-url: /dingen/2007/05/second-life-wat-moeten-we-ermee/
+aliases:
+  - /dingen/2007/05/second-life-wat-moeten-we-ermee/
 
 ---
 [![Second Life; Abort, Retry, Ignore?](http://farm1.static.flickr.com/224/510724346_e40cb94907_m.jpg)](http://www.flickr.com/photos/alper/510724346/ "Photo Sharing")

@@ -13,7 +13,8 @@ post_id: "3554"
 tags:
   - weeknotes
 title: 'Week 269: Talks given and posted'
-url: /dingen/2012/05/week-269-talks-given-and-posted/
+aliases:
+  - /dingen/2012/05/week-269-talks-given-and-posted/
 
 ---
 The Hybrid Talk I gave the week before is up on Soundcloud. You can listen to it here and see if you agree with our ideas about how a client driven organization can operate without being rubbish.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17819
 parent_post_id: null
 post_id: "17819"
 title: Witches Kitchen
-url: /dingen/2024/12/witchs-kitchen/
+aliases:
+  - /dingen/2024/12/witchs-kitchen/
 
 ---
 {{< figure src="CleanShot-2024-12-27-at-21.16.15@2x.png" alt="" caption="" >}}

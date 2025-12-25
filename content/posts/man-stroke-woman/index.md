@@ -7,7 +7,8 @@ post_id: "213"
 tags:
   - televisie
 title: Man stroke woman
-url: /dingen/2007/12/man-stroke-woman/
+aliases:
+  - /dingen/2007/12/man-stroke-woman/
 
 ---
 Voor wie weleens in diezelfde situatie terecht komt [in een restaurant](http://www.youtube.com/watch?v=R9dj66MdG-E):

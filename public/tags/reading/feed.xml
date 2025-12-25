@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/tags/reading/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1001 boeken die je gelezen moet hebben</title>
-      <link>http://localhost:1313/dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/</link>
+      <link>http://localhost:1313/blog/1001-boeken-die-je-gelezen-moet-hebben/</link>
       <pubDate>Fri, 29 Apr 2011 10:31:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=295</guid> 
       <description>&lt;p&gt;Een rare lijst &lt;a href=&#34;http://www.kottke.org/remainder/08/05/15642.html&#34;&gt;via Kottke&lt;/a&gt;, maar er staan wel wat goede boeken op (dat kan ook niet anders als je 1001 boeken op een lijst zet). Ik kom op 33.&lt;/p&gt;
@@ -50,7 +50,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Books read August 2008</title>
-      <link>http://localhost:1313/dingen/2008/09/books-read-august-2008/</link>
+      <link>http://localhost:1313/blog/books-read-august-2008/</link>
       <pubDate>Wed, 03 Sep 2008 08:25:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=376</guid> 
       <description>&lt;p&gt;In the only month where I somewhat approach Matt Webb&amp;rsquo;s amount of reading, he just goes and &lt;a href=&#34;http://interconnected.org/home/2008/08/30/books_read_august_2008&#34;&gt;ups his count&lt;/a&gt; to nearly double mine.&lt;/p&gt;
@@ -58,7 +58,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Onderlezer</title>
-      <link>http://localhost:1313/dingen/2008/05/onderlezer/</link>
+      <link>http://localhost:1313/blog/onderlezer/</link>
       <pubDate>Sat, 10 May 2008 06:49:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=291</guid> 
       <description>&lt;p&gt;Deze &lt;a href=&#34;http://www.newyorker.com/talk/2008/03/10/080310ta_talk_widdicombe&#34;&gt;baan als culturele attaché&lt;/a&gt; in dienst van &lt;a href=&#34;http://www.imdb.com/name/nm0004976/&#34;&gt;Brian Grazer&lt;/a&gt; lijkt mij ideaal. In ieder geval totdat ik zelf in de positie ben om zo iemand in te huren voor mezelf.&lt;/p&gt;
@@ -66,7 +66,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Een studie in smaragd</title>
-      <link>http://localhost:1313/dingen/2008/01/een-studie-in-smaragd/</link>
+      <link>http://localhost:1313/blog/een-studie-in-smaragd/</link>
       <pubDate>Sat, 15 Mar 2008 20:01:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/een-studie-in-smaragd/</guid> 
       <description>&lt;p&gt;Een Sherlock Holmes-pastiche voor de donkere zondagavond ((En voor de mensen met House-ontwenningsverschijnselen.)) geschreven door Neil Gaiman en voorgelezen door hemzelf zoals alleen hij dat kan (via &lt;a href=&#34;http://www.boingboing.net/2008/01/26/gaimans-cthulusherlo.html&#34;&gt;BoingBoing&lt;/a&gt;).&lt;/p&gt;
@@ -74,7 +74,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Leeslijsten</title>
-      <link>http://localhost:1313/dingen/2008/01/leeslijsten/</link>
+      <link>http://localhost:1313/blog/leeslijsten/</link>
       <pubDate>Wed, 30 Jan 2008 00:54:21 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/leeslijsten/</guid> 
       <description>&lt;p&gt;Van de week bij de IKEA een klein kastje gekocht om mijn boeken dichter bij de hand te hebben.&lt;/p&gt;
@@ -84,7 +84,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Autodidact</title>
-      <link>http://localhost:1313/dingen/2008/01/autodidact/</link>
+      <link>http://localhost:1313/blog/autodidact/</link>
       <pubDate>Mon, 28 Jan 2008 23:30:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/autodidact/</guid> 
       <description>&lt;p&gt;Het leuke aan klaar zijn met studeren is dat je dingen kunt gaan leren die jÃ­j belangrijk vindt. En ik leer sneller als ik zelf mag bepalen hoe en hoe snel. Dus hier twee boeken in een serie voor het komende jaar:&lt;/p&gt;
@@ -93,7 +93,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Leesboeken</title>
-      <link>http://localhost:1313/dingen/2008/01/leesboeken/</link>
+      <link>http://localhost:1313/blog/leesboeken/</link>
       <pubDate>Sun, 20 Jan 2008 18:33:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/leesboeken/</guid> 
       <description>&lt;p&gt;Deze week ben ik langs &lt;a href=&#34;http://www.abc.nl&#34;&gt;ABC&lt;/a&gt; Den Haag geweest om een paar boeken te kopen om nú te lezen ((De boeken die ik normaal zou lezen zitten nog ingepakt, en ik moet toch iets lezen.)). Ik koop liever niets meer bij normale winkels tenzij ze tof zijn zoals de ABC.&lt;/p&gt;
@@ -101,7 +101,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Boekenlijst</title>
-      <link>http://localhost:1313/dingen/2008/01/boekenlijst/</link>
+      <link>http://localhost:1313/blog/boekenlijst/</link>
       <pubDate>Tue, 08 Jan 2008 11:39:02 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/boekenlijst/</guid> 
       <description>&lt;p&gt;Ik zat het einde van het jaar mijn lijstjes door te kijken en ik zag dat ik in 2007 maar vier (!) boeken heb gelezen. Dan zie je iemand als Aaronsw die er 70 consumeert en dat weinig vindt.&lt;/p&gt;
@@ -109,7 +109,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
     </item>
     <item>
       <title>Popper over de noodzaak van vrede en rationalisme</title>
-      <link>http://localhost:1313/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/</link>
+      <link>http://localhost:1313/blog/popper-over-de-noodzaak-van-vrede-en-rationalisme/</link>
       <pubDate>Sun, 30 Sep 2007 22:22:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/</guid> 
       <description>&lt;p&gt;In het hoofdstuk &amp;lsquo;Waging Wars for Peace&amp;rsquo; ((Een interview van Popper voor Der Spiegel in 1992)) legt Popper uit dat het ons gerechtvaardigd is om desnoods geweld te gebruiken en oorlog te voeren als we de verspreiding en het gebruik van kernwapens maar kunnen tegengaan.&lt;/p&gt;
@@ -120,7 +120,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     </item>
     <item>
       <title>De Profeet</title>
-      <link>http://localhost:1313/dingen/2007/08/de-profeet/</link>
+      <link>http://localhost:1313/blog/de-profeet/</link>
       <pubDate>Wed, 01 Aug 2007 14:37:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/de-profeet/</guid> 
       <description>&lt;p&gt;Maandag &lt;a href=&#34;http://leb.net/gibran/works/prophet/prophet.html&#34;&gt;The Prophet&lt;/a&gt; van &lt;a href=&#34;http://en.wikipedia.org/wiki/Khalil_Gibran&#34;&gt;Khalil Gibran&lt;/a&gt; uitgelezen. Aardige teksten en immens quotebaar. Hier twee:&lt;/p&gt;
@@ -132,7 +132,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     </item>
     <item>
       <title>Drie Werelden over Waarheid en Menselijkheid</title>
-      <link>http://localhost:1313/dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/</link>
+      <link>http://localhost:1313/blog/drie-werelden-over-waarheid-en-menselijkheid/</link>
       <pubDate>Mon, 09 Jul 2007 14:40:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/</guid> 
       <description>&lt;p&gt;Ik lees nu &amp;ldquo;All life is problem solving&amp;rdquo; ((Vertaald, maar ik had hem al gekocht.)) van &lt;a href=&#34;http://en.wikipedia.org/wiki/Karl_Popper&#34;&gt;Karl Popper&lt;/a&gt; en het is zware kost ((Gelukkig niet zo zwaar als &amp;ldquo;Objective Knowledge&amp;rdquo;)) maar ook erg waardevol en boeiend. Vergeef het vage gezwam, maar ik ga af en toe wat inhoud van wat ik lees hier verwerken.&lt;/p&gt;
@@ -140,7 +140,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     </item>
     <item>
       <title>Macbook ingeleverd</title>
-      <link>http://localhost:1313/dingen/2007/05/macbook-ingeleverd/</link>
+      <link>http://localhost:1313/blog/macbook-ingeleverd/</link>
       <pubDate>Sun, 13 May 2007 20:20:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/macbook-ingeleverd/</guid> 
       <description>&lt;p&gt;Ik heb vanochtend vroeg ((Erg verdomde vroeg als je vier uur slaapt.)) mijn Macbook ingeleverd bij &lt;a href=&#34;http://www.ljs.nl&#34;&gt;LJS&lt;/a&gt; op de Lutherse Burgwal. Daarna koffie gedronken in Florencia, grappige tent en aparte interpretatie van het concept cappuccino.&lt;/p&gt;

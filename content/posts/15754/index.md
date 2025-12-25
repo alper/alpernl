@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15754
 parent_post_id: null
 post_id: "15754"
 title: ""
-url: /dingen/2019/09/15754/
+aliases:
+  - /dingen/2019/09/15754/
 
 ---
 An incisive profile on the life of an Instagram influencer.

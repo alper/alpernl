@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5746
 parent_post_id: null
 post_id: "5746"
 title: A possible agenda for a tech workers solidarity movement
-url: /dingen/2017/03/a-possible-agenda-for-a-tech-workers-solidarity-movement/
+aliases:
+  - /dingen/2017/03/a-possible-agenda-for-a-tech-workers-solidarity-movement/
 
 ---
 The USA example of resistance against Trump in the form of [Tech Solidarity](https://twitter.com/TechSolidarity) quickly gained a following in the Netherlands with [TechSolidarity.nl](https://www.techsolidarity.nl/) and here in Berlin with some [Tech-Solidarity-Berlin](https://www.meetup.com/Tech-Solidarity-Berlin/). I've had a small role in both of those groups' creation but I'm currently not an active participant.

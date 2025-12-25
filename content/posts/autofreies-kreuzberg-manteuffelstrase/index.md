@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4669
 parent_post_id: null
 post_id: "4669"
 title: 'Autofreies Kreuzberg: ManteuffelstraÃŸe'
-url: /dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/
+aliases:
+  - /dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/
 
 ---
 So today I went to the meeting of [Autofreies Kreuzberg](https://twitter.com/autofrei) about the traffic calming of the Manteuffelstraße between Skalitzer and Naunynstraße.

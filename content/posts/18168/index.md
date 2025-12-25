@@ -36,7 +36,8 @@ guid: https://alper.nl/dingen/?p=18168
 parent_post_id: null
 post_id: "18168"
 title: ""
-url: /dingen/2025/03/18168/
+aliases:
+  - /dingen/2025/03/18168/
 
 ---
 A weird coincidence how a media campaign would lead to double digit billions in extra revenues for fossil fuel providers (and to worse outcomes for everybody wanting to heat their homes in Germany). Nothing behind this probably.

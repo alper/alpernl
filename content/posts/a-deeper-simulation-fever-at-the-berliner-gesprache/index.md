@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3318
 parent_post_id: null
 post_id: "3318"
 title: A deeper simulation fever (at the Berliner GesprÃ¤che)
-url: /dingen/2012/02/a-deeper-simulation-fever-at-the-berliner-gesprache/
+aliases:
+  - /dingen/2012/02/a-deeper-simulation-fever-at-the-berliner-gesprache/
 
 ---
 Last Wednesday I was at a gathering by the [Institue for Internet and Society](http://hiig.de/) here in Berlin in collaboration with Deutschlandfunk called [“Berliner Gespräche”](http://hiig.de/2012/02/10/%C2%BBberliner-gespr%C3%A4che%C2%AB-zu-internet-und-gesellschaft/) about how the internet influences society.

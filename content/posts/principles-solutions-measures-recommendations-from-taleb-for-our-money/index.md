@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1468
 parent_post_id: null
 post_id: "1468"
 title: Principles, solutions, measures, recommendations from Taleb for our money
-url: /dingen/2009/12/principles-solutions-measures-recommendations-from-taleb-for-our-money/
+aliases:
+  - /dingen/2009/12/principles-solutions-measures-recommendations-from-taleb-for-our-money/
 
 ---
 Yet [another discussion](http://www.joop.nl/media/detail/artikel/huffington_post_roept_amerikanen_op_hun_geld_bij_de_grote_banken_weg_te_halen/) about banks regarding [the Huffington Post call to remove your money](http://www.huffingtonpost.com/arianna-huffington/move-your-money-a-new-yea_b_406022.html) from the major American banks. There is in fact no reason why your money should be managed by a multinational public corporation (and many reasons why it shouldn't). It is partly why my banking is handled by the [Rabobank](http://www.rabobank.nl), a cooperative banking institution.

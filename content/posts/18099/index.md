@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18099
 parent_post_id: null
 post_id: "18099"
 title: ""
-url: /dingen/2025/02/18099/
+aliases:
+  - /dingen/2025/02/18099/
 
 ---
 Obsidian is a knowledge worker's lightsaber. It's indispensable for any kind of serious work and it is now free to use.

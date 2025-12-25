@@ -13,7 +13,8 @@ tags:
   - leven
   - werken
 title: RÃ©sumÃ© de la semaine
-url: /dingen/2008/04/resume-de-la-semaine/
+aliases:
+  - /dingen/2008/04/resume-de-la-semaine/
 
 ---
 De weken gaan hard. Zo hard dat het nu alweer vrijdagavond is.

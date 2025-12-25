@@ -17,7 +17,8 @@ guid: http://alper.nl/dingen/?p=15794
 parent_post_id: null
 post_id: "15794"
 title: ""
-url: /dingen/2019/10/15794/
+aliases:
+  - /dingen/2019/10/15794/
 
 ---
 “the resilience of a system corresponds to its adaptive capacity tuned to the future.”

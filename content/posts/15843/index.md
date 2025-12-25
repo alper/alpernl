@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15843
 parent_post_id: null
 post_id: "15843"
 title: ""
-url: /dingen/2019/11/15843/
+aliases:
+  - /dingen/2019/11/15843/
 
 ---
 English language critique of Turkish rap produced in my backyard here in Berlin. That's the way I like it.

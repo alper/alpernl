@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18231
 parent_post_id: null
 post_id: "18231"
 title: ""
-url: /dingen/2025/05/18231/
+aliases:
+  - /dingen/2025/05/18231/
 
 ---
 The Return To Office debate has been very contentious and hardly productive. Here in HBR is an ethics based approach to create solutions here that work for everybody. A lot of it is common sense but this is coherent and a useful lens.

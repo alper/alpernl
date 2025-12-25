@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3676
 parent_post_id: null
 post_id: "3676"
 title: Computational Literacy in the European Commission
-url: /dingen/2012/07/computational-literacy-in-the-european-commission/
+aliases:
+  - /dingen/2012/07/computational-literacy-in-the-european-commission/
 
 ---
 A couple of days ago I got an answer on behalf of Ms. Neelie Kroes with regards to my inquiry about computational literacy (which I asked during [her visit to Berlin during re:publica](/dingen/2012/05/week-268-presenting-on-transit-and-work-talking-with-neelie-kroes/)):

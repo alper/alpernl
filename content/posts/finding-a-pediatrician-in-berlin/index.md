@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15529
 parent_post_id: null
 post_id: "15529"
 title: Figuring out why there is a shortage of pediatricians
-url: /dingen/2019/06/finding-a-pediatrician-in-berlin/
+aliases:
+  - /dingen/2019/06/finding-a-pediatrician-in-berlin/
 
 ---
 Just like almost every public service in Berlin the pediatrician situation is absolute squalor. It's impossible to find one who picks up the phone or takes on new patients ((Don't bother tipping me a pediatrician unless you're sure they take new patients.)).

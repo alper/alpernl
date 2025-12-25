@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4726
 parent_post_id: null
 post_id: "4726"
 title: The Declaration for a Better Berlin
-url: /dingen/2013/08/the-declaration-for-a-better-berlin/
+aliases:
+  - /dingen/2013/08/the-declaration-for-a-better-berlin/
 
 ---
 Right now in Berlin we are being bombarded with the election campaign but I do not know anybody who looks forward to voting come September. I cannot vote but if I were allowed I would also face a tough choice. None of the options are appealing and what we will get seems so certain and terrible that potential alternatives pale. Germany being as it is the election focuses on the heartland and there isn't that much being discussed that people living in a city can relate to.

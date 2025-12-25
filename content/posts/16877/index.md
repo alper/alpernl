@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16877
 parent_post_id: null
 post_id: "16877"
 title: ""
-url: /dingen/2022/10/16877/
+aliases:
+  - /dingen/2022/10/16877/
 
 ---
 Product sense (and taste) are so important but so hard to pinpoint and teach to others. Lenny here unpacks what goes into it but even then there are very few shortcuts to getting it.

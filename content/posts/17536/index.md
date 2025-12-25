@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17536
 parent_post_id: null
 post_id: "17536"
 title: ""
-url: /dingen/2024/04/17536/
+aliases:
+  - /dingen/2024/04/17536/
 
 ---
 A breath of fresh air to read somebody breaking with the TDD dogma. Test are useful but please remember: "Write tests, not too many, mostly integration." and try to exercise some judgement.

@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17523
 parent_post_id: null
 post_id: "17523"
 title: ""
-url: /dingen/2024/04/17523/
+aliases:
+  - /dingen/2024/04/17523/
 
 ---
 Threads works functionally but as a product it's very bad. As this article mentions being on Threads is a slow-motion exercise in going insane. Threads actively disables many things that make microblogging work and for the rest of the experience there's very little thought that went into it other than "let's make a text-based Instagram and see what happens".

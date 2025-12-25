@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18316
 parent_post_id: null
 post_id: "18316"
 title: ""
-url: /dingen/2025/09/18316/
+aliases:
+  - /dingen/2025/09/18316/
 
 ---
 An excellent Jujutsu reference covering most of the basic operations you will need.

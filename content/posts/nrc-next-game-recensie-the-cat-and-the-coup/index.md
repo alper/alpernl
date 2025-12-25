@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16168
 parent_post_id: null
 post_id: "16168"
 title: 'nrc.next game-recensie: The Cat and the Coup'
-url: /dingen/2020/07/nrc-next-game-recensie-the-cat-and-the-coup/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-the-cat-and-the-coup/
 
 ---
 Op 5 maart 1967 overlijdt Dr. Mohammad Mossadeq na een gevecht met keelkanker. Hij had daarvoor jarenlang in de gevangenis en onder huisarrest gezeten omdat hij als premier van Iran zijn volk wilde bevrijden van de Engelse koloniale invloed. De Engels-Amerikaanse staatsgreep die hem afzette heeft een grote invloed gehad op de wereldgeschiedenis maar dit inspirerende en historisch belangrijke verhaal is nauwelijks bekend in het Westen.

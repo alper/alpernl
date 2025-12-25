@@ -13,7 +13,8 @@ post_id: "2447"
 tags:
   - weeknotes
 title: Week 205
-url: /dingen/2011/02/week-205/
+aliases:
+  - /dingen/2011/02/week-205/
 
 ---
 [![Holding court (and having a flat white)](http://farm6.static.flickr.com/5256/5444314663_044fc2907b.jpg)](http://www.flickr.com/photos/alper/5444314663/ "Holding court (and having a flat white) by illustir, on Flickr")

@@ -16,7 +16,8 @@ tags:
   - kã¼nefe
   - uncategorized
 title: Night Store
-url: /dingen/2008/07/night-store/
+aliases:
+  - /dingen/2008/07/night-store/
 
 ---
 My friendly neighborhood night store will gladly give me a plastic bag for every item of shopping I buy from them ((As well they should if you see the markup they're charging.)). This is pretty thoughtful and at the same time also pretty short-sighted.

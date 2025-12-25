@@ -17,7 +17,8 @@ guid: https://alper.nl/dingen/?p=16403
 parent_post_id: null
 post_id: "16403"
 title: ""
-url: /dingen/2021/01/16403/
+aliases:
+  - /dingen/2021/01/16403/
 
 ---
 Het gedoe waar ze probeerden mee te profiteren van de Toeslagenaffaire en ook nog eens dit lekker anti-woke doen om het doen. Het lijkt erop dat de Correspondent wat altijd al lastig was en beetje de weg kwijt is.

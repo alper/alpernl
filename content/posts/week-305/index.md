@@ -15,7 +15,8 @@ post_id: "4214"
 tags:
   - weeknotes
 title: Week 305
-url: /dingen/2013/01/week-305/
+aliases:
+  - /dingen/2013/01/week-305/
 
 ---
 With most of my work focusing at Hubbub these days, the weeknotes over there ( [the past week](http://whatsthehubbub.nl/blog/2013/01/week-178/)) are going to form the meat of my work in the foreseeable future ((These weeknumbers also don't make any sense anymore since my sole proprietorship in the Netherlands has lapsed with my emigration.)). I may need to use these weeknotes as an excuse for long form writing again and blog more here in general on loose ideas.

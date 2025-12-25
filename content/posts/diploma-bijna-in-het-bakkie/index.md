@@ -10,7 +10,8 @@ tags:
   - feest
   - tu-delft
 title: Diploma bijna in het bakkie
-url: /dingen/2007/09/diploma-bijna-in-het-bakkie/
+aliases:
+  - /dingen/2007/09/diploma-bijna-in-het-bakkie/
 
 ---
 Ik was net voor de één na laatste keer op de TU om bij de administratie te controleren of alles nu in orde was. Naar blijkt was dat het.

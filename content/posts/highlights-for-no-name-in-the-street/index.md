@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6017
 parent_post_id: null
 post_id: "6017"
 title: Highlights for No Name in the Street
-url: /dingen/2018/06/highlights-for-no-name-in-the-street/
+aliases:
+  - /dingen/2018/06/highlights-for-no-name-in-the-street/
 
 ---
 > Incontestably, alas, most people are not, in action, worth very much; and yet, every human being is an unprecedented miracle. One tries to treat them as the miracles they are, while trying to protect oneself against the disasters they’ve become.

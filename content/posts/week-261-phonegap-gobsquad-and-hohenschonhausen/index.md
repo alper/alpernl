@@ -12,7 +12,8 @@ post_id: "3433"
 tags:
   - weeknotes
 title: 'Week 261: Phonegap, Gobsquad and HohenschÃ¶nhausen'
-url: /dingen/2012/03/week-261-phonegap-gobsquad-and-hohenschonhausen/
+aliases:
+  - /dingen/2012/03/week-261-phonegap-gobsquad-and-hohenschonhausen/
 
 ---
 Running behind two weeks and off to the Netherlands tomorrow (for a talk at [a Crosslab event](http://extra.wdka.nl/crosslab/2012/03/14/crosslab-event-dynamic-design/) in the Unie). Oh how time flies! This was a fun week.

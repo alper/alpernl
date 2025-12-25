@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17292
 parent_post_id: null
 post_id: "17292"
 title: ""
-url: /dingen/2023/10/17292/
+aliases:
+  - /dingen/2023/10/17292/
 
 ---
 There's a lot of conversation happening around async Rust which is why I found this article a good primer on the terrain and history of that part of the language.

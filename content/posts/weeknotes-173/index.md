@@ -13,7 +13,8 @@ post_id: "1966"
 tags:
   - weeknotes
 title: Weeknotes 173
-url: /dingen/2010/07/weeknotes-173/
+aliases:
+  - /dingen/2010/07/weeknotes-173/
 
 ---
 Some notes, this time not ordered by day, but by theme.

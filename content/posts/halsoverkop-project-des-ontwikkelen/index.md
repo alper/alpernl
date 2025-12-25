@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=766
 parent_post_id: null
 post_id: "766"
 title: Halsoverkop project-des-ontwikkelen
-url: /dingen/2009/02/halsoverkop-project-des-ontwikkelen/
+aliases:
+  - /dingen/2009/02/halsoverkop-project-des-ontwikkelen/
 
 ---
 Taplin [schreef van de week](http://jontaplin.com/2009/02/13/civil-unrest-the-credit-crisis/) al dat de economische crisis onrust en onveiligheid op lokaal niveau tot gevolg zou hebben. Blijkt dat Dubai al [het ravijn in glijdt](http://www.nytimes.com/2009/02/12/world/middleeast/12dubai.html?pagewanted=1&_r=1) en niemand weet hoe erg het daadwerkelijk is.

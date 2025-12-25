@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1154
 parent_post_id: null
 post_id: "1154"
 title: Social Drinking in Print
-url: /dingen/2009/08/social-drinking-in-print/
+aliases:
+  - /dingen/2009/08/social-drinking-in-print/
 
 ---
 Things are a bit slow in Amsterdam, this being high summer. Having [Foursquare](http://playfoursquare.com/) (see [previous post](/dingen/2009/07/four-square-or-can-you-smell-the-beer-already/)) and being able to drink some beers in the city now and then does make it a lot more relaxed.

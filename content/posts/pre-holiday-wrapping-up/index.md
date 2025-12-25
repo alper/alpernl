@@ -16,7 +16,8 @@ tags:
   - surfing
   - uncategorized
 title: Pre holiday wrapping up
-url: /dingen/2008/07/pre-holiday-wrapping-up/
+aliases:
+  - /dingen/2008/07/pre-holiday-wrapping-up/
 
 ---
 The summer may not have brought the best weather but still good times are around. This week finishing off some work before we'll be going on an ill-prepared week long surftrip somewhere along the French Atlantic coast.

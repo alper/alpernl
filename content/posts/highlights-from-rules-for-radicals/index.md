@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5846
 parent_post_id: null
 post_id: "5846"
 title: Highlights from Rules for Radicals
-url: /dingen/2017/10/highlights-from-rules-for-radicals/
+aliases:
+  - /dingen/2017/10/highlights-from-rules-for-radicals/
 
 ---
 > "The establishment in many ways is as suicidal as some of the far left

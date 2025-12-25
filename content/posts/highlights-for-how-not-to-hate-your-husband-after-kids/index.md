@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15651
 parent_post_id: null
 post_id: "15651"
 title: Highlights for How not to hate your husband after kids
-url: /dingen/2019/09/highlights-for-how-not-to-hate-your-husband-after-kids/
+aliases:
+  - /dingen/2019/09/highlights-for-how-not-to-hate-your-husband-after-kids/
 
 ---
 > Fisher says there is brain evidence that when women are under stress (say, a new baby has colic), they are inclined to “tend and befriend”(become more empathetic and social), while men under stress are apt to withdraw.

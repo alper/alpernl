@@ -9,7 +9,8 @@ post_id: "171"
 tags:
   - uncategorized
 title: Microblogging als manier van communicatie
-url: /dingen/2007/10/microblogging-als-manier-van-communicatie/
+aliases:
+  - /dingen/2007/10/microblogging-als-manier-van-communicatie/
 
 ---
 Vandaag op Frankwatching een artikel gepubliceerd waar ik al een tijdje aan aan het werk was: [Microblogging als communicatiemedium](http://www.frankwatching.com/archive/2007/10/24/microbloggen-als-communicatiemedium/)

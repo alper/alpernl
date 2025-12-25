@@ -14,7 +14,8 @@ post_id: "3712"
 tags:
   - weeknotes
 title: 'Week 279: Paris, Numerical Revolutions, Helsinki, Dutch eCulture Days'
-url: /dingen/2012/07/week-279-paris-numerical-revolutions-helsinki-dutch-eculture-days/
+aliases:
+  - /dingen/2012/07/week-279-paris-numerical-revolutions-helsinki-dutch-eculture-days/
 
 ---
 [![Oh La La Gare du Nord](http://farm9.staticflickr.com/8157/7590724728_5e79e6275f.jpg)](http://www.flickr.com/photos/alper/7590724728/ "Oh La La Gare du Nord by illustir, on Flickr")[![Pyramids](http://farm8.staticflickr.com/7135/7592389114_89d1af3f5c.jpg)](http://www.flickr.com/photos/alper/7592389114/ "Pyramids by illustir, on Flickr")

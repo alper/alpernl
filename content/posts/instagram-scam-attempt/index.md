@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16436
 parent_post_id: null
 post_id: "16436"
 title: Instagram scam attempt
-url: /dingen/2021/02/instagram-scam-attempt/
+aliases:
+  - /dingen/2021/02/instagram-scam-attempt/
 
 ---
 This is an interesting Instagram scam.

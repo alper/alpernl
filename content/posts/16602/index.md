@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16602
 parent_post_id: null
 post_id: "16602"
 title: ""
-url: /dingen/2021/10/16602/
+aliases:
+  - /dingen/2021/10/16602/
 
 ---
 A huge post demystifying DevRel and how to measure activity in this space.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16502
 parent_post_id: null
 post_id: "16502"
 title: Moving away from Omnifocus
-url: /dingen/2021/04/moving-away-from-omnifocus/
+aliases:
+  - /dingen/2021/04/moving-away-from-omnifocus/
 
 ---
 I started a new job and thought I'd try out [OmniFocus](https://www.omnigroup.com/omnifocus/) for a change after using [Things](https://culturedcode.com/things/) very intensively at the last job. Things felt a bit constricting and I thought I'd try out the alternative app for a change.

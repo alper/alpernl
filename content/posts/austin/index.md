@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1693
 parent_post_id: null
 post_id: "1693"
 title: Austin
-url: /dingen/2010/03/austin/
+aliases:
+  - /dingen/2010/03/austin/
 
 ---
 Quite pleased with this picture [Toby](http://www.wearemudlark.com/about-us/toby-barnes/) took of me at a splendid lunch at [Frank](http://www.hotdogscoldbeer.com/):

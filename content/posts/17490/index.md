@@ -19,7 +19,8 @@ guid: https://alper.nl/dingen/?p=17490
 parent_post_id: null
 post_id: "17490"
 title: ""
-url: /dingen/2024/03/17490/
+aliases:
+  - /dingen/2024/03/17490/
 
 ---
 I had previously posted about a deep dive of the connections of the anthroposophical movement with fascism.

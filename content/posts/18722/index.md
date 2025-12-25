@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=18722
 parent_post_id: null
 post_id: "18722"
 title: ""
-url: /dingen/2025/12/18722/
+aliases:
+  - /dingen/2025/12/18722/
 
 ---
 https://netzpolitik.org/2025/dsgvo-reform-beim-datenschutz-ist-deutschland-inzwischen-dem-silicon-valley-naeher-als-dem-rest-der-eu/

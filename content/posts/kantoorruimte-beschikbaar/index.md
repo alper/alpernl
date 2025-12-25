@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2289
 parent_post_id: null
 post_id: "2289"
 title: Kantoorruimte beschikbaar
-url: /dingen/2010/11/kantoorruimte-beschikbaar/
+aliases:
+  - /dingen/2010/11/kantoorruimte-beschikbaar/
 
 ---
 We hebben bij ons op de studio in [@ouroffice](http://twitter.com/ouroffice) binnenkort twee bureau's vrij. Wil je op bureau met de leukste en creatiefste mensen van het [Volkskrantgebouw](http://www.volkskrantgebouw.nl/) — [Eric](http://twitter.com/eholm), [Maarten](http://twitter.com/mdbraber) en ik— roep dan en we kunnen kijken of het past.

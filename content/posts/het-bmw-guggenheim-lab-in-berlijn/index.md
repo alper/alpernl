@@ -12,7 +12,8 @@ post_id: "3781"
 tags:
   - cityjerk
 title: Het BMW Guggenheim Lab in Berlijn
-url: /dingen/2012/08/het-bmw-guggenheim-lab-in-berlijn/
+aliases:
+  - /dingen/2012/08/het-bmw-guggenheim-lab-in-berlijn/
 
 ---
 Geconfronteerd met het feit dat de meeste dertigers die in de stad wonen geen auto meer willen hebben en veel twintigers niet eens meer hun rijbewijs halen, zetten automakers zichzelf opnieuw in de markt. Ze zijn niet meer verkopers van een statussymbool, maar aanbieders van vervoersoplossingen in een toekomstvisie waarin de auto een plek heeft naast de fiets, het openbaar vervoer en alle andere dingen die steden leuk maken. Audi komt in Londen binnenkort met haar [Audicity](http://www.audi.co.uk/audi-innovation/audi-city.html) en BMW toert [in samenwerking met het Guggenheim](http://www.bmwguggenheimlab.org/) langs de wereld met haar lab. Eerst New York, nu Berlijn en straks in Mumbai. (Daimler is MIA.)

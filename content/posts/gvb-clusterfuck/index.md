@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=1993
 parent_post_id: null
 post_id: "1993"
 title: GVB clusterfuck
-url: /dingen/2010/07/gvb-clusterfuck/
+aliases:
+  - /dingen/2010/07/gvb-clusterfuck/
 
 ---
 Terwijl we aan de andere kant een strijd voeren voor vrij beschikbare openbaar vervoersinformatie is het openbaar vervoer zelf in een ‘wereldstad’ als Amsterdam nog een zooitje.

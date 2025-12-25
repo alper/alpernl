@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3897
 parent_post_id: null
 post_id: "3897"
 title: Highlights from Harry Potter and the Methods of Rationality (until chapter 85)
-url: /dingen/2012/10/highlights-from-harry-potter-and-the-methods-of-rationality-until-chapter-85/
+aliases:
+  - /dingen/2012/10/highlights-from-harry-potter-and-the-methods-of-rationality-until-chapter-85/
 
 ---
 I recently discovered the fan fiction [Harry Potter and the Methods of Rationality](http://hpmor.com/) by the esteemed [Eliezer Yudkowsky](http://wiki.lesswrong.com/wiki/Eliezer) (I used to read his friendly AI stuff back in the day) and having never read any Harry Potter ((I watched the movies.)) I still immensely enjoyed this.

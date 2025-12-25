@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18383
 parent_post_id: null
 post_id: "18383"
 title: ""
-url: /dingen/2025/10/18383/
+aliases:
+  - /dingen/2025/10/18383/
 
 ---
 The Bitter Lesson is an interesting concept. Stuffing the prompt runs into diminishing returns pretty quickly but on the other hand, getting your AI to play well with tools is challenging.

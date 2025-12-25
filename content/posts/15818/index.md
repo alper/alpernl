@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15818
 parent_post_id: null
 post_id: "15818"
 title: ""
-url: /dingen/2019/11/15818/
+aliases:
+  - /dingen/2019/11/15818/
 
 ---
 The story about Dutch national cyber scammer Rian van Rijbroek written up in full like is done here is amazing and priceless.

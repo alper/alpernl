@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15215
 parent_post_id: null
 post_id: "15215"
 title: ""
-url: /dingen/2019/03/15215/
+aliases:
+  - /dingen/2019/03/15215/
 
 ---
 As soon as AOC got the nomination I already had a strong hunch that she was the real deal. Turns out I had no idea how much of a deal she was going to be.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15275
 parent_post_id: null
 post_id: "15275"
 title: ""
-url: /dingen/2019/03/15275/
+aliases:
+  - /dingen/2019/03/15275/
 
 ---
 I love Jacinda Ardern showing true leadership after the Christchurch tragedy.

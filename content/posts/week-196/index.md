@@ -14,7 +14,8 @@ post_id: "2351"
 tags:
   - weeknotes
 title: Week 196
-url: /dingen/2010/12/week-196/
+aliases:
+  - /dingen/2010/12/week-196/
 
 ---
 Last week was mired by the flu which made it a bad week for production (and only slightly less bad for meetings).

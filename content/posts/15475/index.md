@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15475
 parent_post_id: null
 post_id: "15475"
 title: ""
-url: /dingen/2019/05/15475/
+aliases:
+  - /dingen/2019/05/15475/
 
 ---
 Fijn zo'n land onder de zeespiegel dat wordt beheerst door klimaatontkenners. En gezien het Nederlandse asielbeleid is het niet heel waarschijnlijk dat klimaatvluchtelingen elders op een warm welkom zullen kunnen rekenen.

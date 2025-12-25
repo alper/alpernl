@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17893
 parent_post_id: null
 post_id: "17893"
 title: ""
-url: /dingen/2025/01/17893/
+aliases:
+  - /dingen/2025/01/17893/
 
 ---
 The lamb ad does a good job showing the madness that is online comments sections. Also it made me want to eat a nice piece of lamb.

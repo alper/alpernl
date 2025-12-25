@@ -14,7 +14,8 @@ tags:
   - politiek
   - verkiezingen
 title: Een perfectere samenleving
-url: /dingen/2008/03/een-perfectere-samenleving/
+aliases:
+  - /dingen/2008/03/een-perfectere-samenleving/
 
 ---
 Voor Mark en eigenlijk voor iedereen: de toespraak die Obama vorige week hield over ras. De voorganger van zijn zwarte kerk had een paar politiek-incorrecte uitspraken gedaan die uiteraard uit den treure herhaald werden op de Amerikaanse _news networks_.

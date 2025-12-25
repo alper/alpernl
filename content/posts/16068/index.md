@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16068
 parent_post_id: null
 post_id: "16068"
 title: ""
-url: /dingen/2020/05/16068/
+aliases:
+  - /dingen/2020/05/16068/
 
 ---
 > so people never settle … they simply won’t stop tweaking their tools, instead of focusing on the actual work.

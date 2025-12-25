@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4701
 parent_post_id: null
 post_id: "4701"
 title: Week 330
-url: /dingen/2013/08/week-330/
+aliases:
+  - /dingen/2013/08/week-330/
 
 ---
 A new coffee place had reportedly opened up in the area and I went out searching for it. [Concierge](https://foursquare.com/v/concierge-coffee/51d3f1e2498e15ad7aa4c00e) is tucked into a gate on Paul-Lincke-Ufer and they are really nice guys pulling quality shots. It is amazing both that this part of Berlin which was quite barren when it comes to coffee is shaping up so nicely and also that

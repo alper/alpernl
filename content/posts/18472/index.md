@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18472
 parent_post_id: null
 post_id: "18472"
 title: ""
-url: /dingen/2025/11/18472/
+aliases:
+  - /dingen/2025/11/18472/
 
 ---
 I am yet to read the Differential Dataflow paper but still interesting to read this explanation of how and why decorrelation works in database engines. LATERAL JOINs and query plans have become something of an interest of mine over the past weeks.

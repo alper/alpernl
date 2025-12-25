@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15913
 parent_post_id: null
 post_id: "15913"
 title: ""
-url: /dingen/2019/12/15913/
+aliases:
+  - /dingen/2019/12/15913/
 
 ---
 I will never do this but I very much love this phenomenon of writing on vintage computers.

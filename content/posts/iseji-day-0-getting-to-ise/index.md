@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18528
 parent_post_id: null
 post_id: "18528"
 title: Iseji - Day 0 - Getting to Ise
-url: /dingen/2025/11/iseji-day-0-getting-to-ise/
+aliases:
+  - /dingen/2025/11/iseji-day-0-getting-to-ise/
 
 ---
 I still need to write up how I got to Ise in the first place and why that was so terrible.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5838
 parent_post_id: null
 post_id: "5838"
 title: Highlights for the Art of Not Being Governed
-url: /dingen/2018/01/highlights-from-the-art-of-not-being-governed/
+aliases:
+  - /dingen/2018/01/highlights-from-the-art-of-not-being-governed/
 
 ---
 > This is the history of those who got away

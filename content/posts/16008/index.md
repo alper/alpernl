@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16008
 parent_post_id: null
 post_id: "16008"
 title: ""
-url: /dingen/2020/02/16008/
+aliases:
+  - /dingen/2020/02/16008/
 
 ---
 Wild that even a mild cycling habit at the population level can strongly reduce obesity rates.

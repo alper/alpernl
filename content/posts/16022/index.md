@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16022
 parent_post_id: null
 post_id: "16022"
 title: ""
-url: /dingen/2020/02/16022/
+aliases:
+  - /dingen/2020/02/16022/
 
 ---
 > “The best engineers can toggle back and forth between manager and IC roles. Make sure your technical foundation and fundamental skills are solid enough to pull that off.”

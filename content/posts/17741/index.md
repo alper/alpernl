@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17741
 parent_post_id: null
 post_id: "17741"
 title: ""
-url: /dingen/2024/11/17741/
+aliases:
+  - /dingen/2024/11/17741/
 
 ---
 Seeing if I can move from [Arc](https://thebrowser.company) to [Vivaldi](https://vivaldi.com) but there are half a dozen radical improvements in Arc that \*make\* the experience. It just shows how much innovation and solid thinking was packed in all of that frivolous design.

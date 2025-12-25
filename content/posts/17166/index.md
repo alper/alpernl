@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17166
 parent_post_id: null
 post_id: "17166"
 title: ""
-url: /dingen/2023/04/17166/
+aliases:
+  - /dingen/2023/04/17166/
 
 ---
 Looking back over my notes and reactions from Interaction16 where I gave a talk calling chat interfaces the "UI for AI". Feels good to be right.

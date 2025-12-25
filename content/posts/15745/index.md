@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15745
 parent_post_id: null
 post_id: "15745"
 title: ""
-url: /dingen/2019/09/15745/
+aliases:
+  - /dingen/2019/09/15745/
 
 ---
 I'll trust Artefact Cards when they say they have something that's better than the Sharpie.

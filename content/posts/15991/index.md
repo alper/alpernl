@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15991
 parent_post_id: null
 post_id: "15991"
 title: ""
-url: /dingen/2020/02/15991/
+aliases:
+  - /dingen/2020/02/15991/
 
 ---
 Anybody who's ever seen a SUV driver knows this, but the car industry themselves have verified that the people who buy those cars are assholes.

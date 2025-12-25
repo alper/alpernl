@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=2341
 parent_post_id: null
 post_id: "2341"
 title: 'Urbanode: first steps in environmental control'
-url: /dingen/2010/12/urbanode-first-steps-in-environmental-control/
+aliases:
+  - /dingen/2010/12/urbanode-first-steps-in-environmental-control/
 
 ---
 [Urbanode running from an Android Phone](http://vimeo.com/17403000) from [VURB](http://vimeo.com/user5376973) on [Vimeo](http://vimeo.com). The movie shows an Android phone controlling the stagelights at the Melkweg using a colour picker on a webpage.

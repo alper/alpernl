@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15958
 parent_post_id: null
 post_id: "15958"
 title: ""
-url: /dingen/2020/01/15958/
+aliases:
+  - /dingen/2020/01/15958/
 
 ---
 An incredibly sad and beautiful story of a father's last days.

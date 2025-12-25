@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4812
 parent_post_id: null
 post_id: "4812"
 title: Notes from Aramis by Bruno Latour
-url: /dingen/2013/11/notes-from-aramis-by-bruno-latour/
+aliases:
+  - /dingen/2013/11/notes-from-aramis-by-bruno-latour/
 
 ---
 I finished Aramis ( [PDF](http://dss-edit.com/plu/Latour-B_Aramis-or-Love-of-Technology_1996.pdf)) a couple of weeks ago and this is absolutely essential reading for anybody involved with technology in a wider sense than just technology. It is also quite funny. I look forward to reading more by Bruno Latour, [An Inquiry into the Modes of Existence](http://www.bruno-latour.fr/node/252) is high on my list ((Though unfortunately not available as an ebook.)) and I've registered to join [his MOOC on the Scientific Humanities](https://www.france-universite-numerique-mooc.fr/courses/SciencesPo/05004/Trimestre_1_2014/about).

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2145
 parent_post_id: null
 post_id: "2145"
 title: 'The Heist Model: Not hiring anybody'
-url: /dingen/2010/09/not-hiring-anybody/
+aliases:
+  - /dingen/2010/09/not-hiring-anybody/
 
 ---
 We're seeing this more and more among the edgiest of shops. The Netherlands has already had a massive shift towards freelancers (ZZP'ers). It is only natural that they would band together regularly to accomplish company level work but without the ties and inertia normally associated with employment.

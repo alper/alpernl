@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1685
 parent_post_id: null
 post_id: "1685"
 title: Joi Ito - De wereld redden door iedereen in staat te stellen om te innoveren
-url: /dingen/2010/03/joi-ito-de-wereld-redden-door-iedereen-in-staat-te-stellen-om-te-innoveren/
+aliases:
+  - /dingen/2010/03/joi-ito-de-wereld-redden-door-iedereen-in-staat-te-stellen-om-te-innoveren/
 
 ---
 [Joi Ito 2010 SXSW Talk](http://prezi.com/z6kirrqd-7h0/joi-ito-2010-sxsw-talk/ "Austin Convention Center Ballroom D, Sat. March 13, 5PM-6PM Creative Commons, Open Innovation and World Peace") on [Prezi](http://prezi.com) [Joi Ito](http://joi.ito.com/) is niet zozeer een man, maar een beweging. Hij leidt, stuurt en overal waar hij komt heeft hij veel gelijkgestemden. In dit tijdslot wat in het programma alleen maar Joi Ito Presentation heet omdat hij nog geen naam (en ook geen presentatie of verhaal) had vult hij in zijn eentje een uur met een samenhangend verhaal en vele anekdotes uit zijn leven als wereldreiziger en cultuurproever.

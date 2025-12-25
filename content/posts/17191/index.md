@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17191
 parent_post_id: null
 post_id: "17191"
 title: ""
-url: /dingen/2023/06/17191/
+aliases:
+  - /dingen/2023/06/17191/
 
 ---
 I got nerd sniped pretty hard by somebody sharing a Django code challenge: "only touch views.py and optimize a page load to a time and memory budget in 60 minutes".

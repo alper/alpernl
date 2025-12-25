@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18131
 parent_post_id: null
 post_id: "18131"
 title: ""
-url: /dingen/2025/02/18131/
+aliases:
+  - /dingen/2025/02/18131/
 
 ---
 Here's a good article about platform teams that I got to read an early draft of. I can say from my own experience that all of these traps are _very easy_ to go into. Be aware and prioritize ruthlessly what works and what doesn't work.

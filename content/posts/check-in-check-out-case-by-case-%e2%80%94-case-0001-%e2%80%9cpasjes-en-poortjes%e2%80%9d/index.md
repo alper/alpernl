@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1889
 parent_post_id: null
 post_id: "1889"
 title: "Check in / Check Out, Case by Case â€” Case 0001, â€œPasjes en poortjesâ€\x9D"
-url: /dingen/2010/06/check-in-check-out-case-by-case-—-case-0001-“pasjes-en-poortjes”/
+aliases:
+  - /dingen/2010/06/check-in-check-out-case-by-case-—-case-0001-“pasjes-en-poortjes”/
 
 ---
 Ik ben [het boek](http://rathenauinstituut.nl/en/themes/project/digitalisering-van-de-openbare-ruimte-1.html) [“Check in / Check out”](http://www.naipublishers.nl/checkin_checkuit/index.html) van [het Rathenau Instituut](http://rathenauinstituut.nl/) aan het lezen.

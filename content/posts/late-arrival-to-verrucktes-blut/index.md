@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=15270
 parent_post_id: null
 post_id: "15270"
 title: Late arrival to VerrÃ¼cktes Blut
-url: /dingen/2019/03/late-arrival-to-verrucktes-blut/
+aliases:
+  - /dingen/2019/03/late-arrival-to-verrucktes-blut/
 
 ---
 I was supposed to see [this play](https://gorki.de/index.php/de/verruecktes-blut) six years ago. Let's say better late than never. Seen Wednesday, March 20th at the Maxim Gorki Theater.

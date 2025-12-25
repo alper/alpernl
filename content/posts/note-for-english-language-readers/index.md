@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=511
 parent_post_id: null
 post_id: "511"
 title: Note for English language readers
-url: /dingen/2008/09/note-for-english-language-readers/
+aliases:
+  - /dingen/2008/09/note-for-english-language-readers/
 
 ---
 This blog will remain to be mainly in English, but the occasional Dutch ((And maybe also other language)) post may creep in. [Pascal told me](/dingen/2008/07/evaluate/#comment-545) that it doesn't make a lot of sense to write about locally Dutch things for a Dutch audience in English ((Though it doesn't strike me as that strange either. The only ones who'd be left out would be Dutch people who don't speak English, a negligible minority.)).

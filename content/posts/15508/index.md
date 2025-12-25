@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15508
 parent_post_id: null
 post_id: "15508"
 title: ""
-url: /dingen/2019/06/15508/
+aliases:
+  - /dingen/2019/06/15508/
 
 ---
 > As the blisters develop and his feet start to bleed, Walton asks the right questions. What are the human and environmental costs of Singapore’s success, and are they sustainable?

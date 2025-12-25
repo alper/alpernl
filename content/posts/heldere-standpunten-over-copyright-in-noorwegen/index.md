@@ -12,7 +12,8 @@ tags:
   - internet
   - politiek
 title: Heldere standpunten over copyright in Noorwegen
-url: /dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/
+aliases:
+  - /dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/
 
 ---
 Bij [Redmonk](http://www.redmonk.com/jgovernor/2007/04/17/norway-liberal-party-on-copyright-law-politics-meets-clue/) [een manifest](http://www.uv.no/politics/translated-items/culture-wants-to-be-free?set_language=en) van de Noorse Liberale Partij waar ik het heel erg mee eens ben.

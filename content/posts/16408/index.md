@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16408
 parent_post_id: null
 post_id: "16408"
 title: ""
-url: /dingen/2021/02/16408/
+aliases:
+  - /dingen/2021/02/16408/
 
 ---
 What is weird is that organizations that purport to be against risk will often do their projects exactly in this very risky way. Within an institutional logic, it often seems like there is no alternative but that is up to a few people to change.

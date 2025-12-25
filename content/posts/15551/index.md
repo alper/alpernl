@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15551
 parent_post_id: null
 post_id: "15551"
 title: ""
-url: /dingen/2019/06/15551/
+aliases:
+  - /dingen/2019/06/15551/
 
 ---
 Too aggravating to even read this entire thing. I'll have to get it together soon to delete my facebook account. Though I'll still be locked into Instagram and Whatsapp then, so I think it would be best indeed if those services would be broken up.

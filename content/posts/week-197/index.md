@@ -15,7 +15,8 @@ post_id: "2355"
 tags:
   - weeknotes
 title: Week 197
-url: /dingen/2010/12/week-197/
+aliases:
+  - /dingen/2010/12/week-197/
 
 ---
 Got some reinforcements at the office:

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4557
 parent_post_id: null
 post_id: "4557"
 title: Moving into KANT
-url: /dingen/2013/05/moving-into-kant/
+aliases:
+  - /dingen/2013/05/moving-into-kant/
 
 ---
 So that cat is out of the bag: I've taken up residency at KANT, the [Kreuzberg Academy for Nerdery and Tinkering](https://foursquare.com/v/kant--kreuzberg-academy-for-nerdery-and-tinkering/51238e70e4b04e6a13aaddc9). Peter who you may have read before on [The Waving Cat](http://www.thewavingcat.com/) just wrote [the inaugural post](http://kantberlin.tumblr.com/post/50347362153/hello-world) on our freshly pressed Tumblr (tweets are still [forthcoming](https://twitter.com/kantberlin)).

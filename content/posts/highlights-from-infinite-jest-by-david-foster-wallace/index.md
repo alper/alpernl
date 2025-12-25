@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4470
 parent_post_id: null
 post_id: "4470"
 title: Highlights from Infinite Jest by David Foster Wallace
-url: /dingen/2013/11/highlights-from-infinite-jest-by-david-foster-wallace/
+aliases:
+  - /dingen/2013/11/highlights-from-infinite-jest-by-david-foster-wallace/
 
 ---
 Reading this book took me quite some time since it [arrived in my mailbox](http://www.flickr.com/photos/alper/3200604927/) some four years ago. I only picked it up after acquiring an epub version of it that I could read in [Readmill](https://readmill.com/books/infinite-jest) wherever I happened to find myself (so also really after Readmill launched their iPhone app). It takes some getting into but this book is hugely rewarding and a pleasure.

@@ -12,7 +12,8 @@ tags:
   - internet
   - leven
 title: Treingenoten
-url: /dingen/2008/01/treingenoten/
+aliases:
+  - /dingen/2008/01/treingenoten/
 
 ---
 Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die [boeken leest](/dingen/2008/01/leeslijsten/#footnote-link-2-238).)) naast me zat.

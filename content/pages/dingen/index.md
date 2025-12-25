@@ -7,7 +7,8 @@ guid: https://alper.nl/dingen/?page_id=17421
 parent_post_id: null
 post_id: "17421"
 title: Career Consulting
-url: /dingen/
+aliases:
+  - /dingen/
 
 ---
 If any of the following apply to you, it might be good to collaborate and work through these issues.

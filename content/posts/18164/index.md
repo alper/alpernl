@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18164
 parent_post_id: null
 post_id: "18164"
 title: ""
-url: /dingen/2025/03/18164/
+aliases:
+  - /dingen/2025/03/18164/
 
 ---
 We liked to pretend that it was possible to use American cloud providers with any measure of sovereignty, but that pretence is going to drop very soon now. Not sure what the alternatives are, but everybody should be planning for some drastic changes here.

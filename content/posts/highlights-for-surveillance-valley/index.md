@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6072
 parent_post_id: null
 post_id: "6072"
 title: Highlights for Surveillance Valley
-url: /dingen/2018/11/highlights-for-surveillance-valley/
+aliases:
+  - /dingen/2018/11/highlights-for-surveillance-valley/
 
 ---
 > The people gathered at city hall that night saw Oakland’s DAC as an extension of the tech-fueled gentrification that was pushing poorer longtime residents out of the city.

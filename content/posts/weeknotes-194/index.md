@@ -15,7 +15,8 @@ post_id: "2320"
 tags:
   - weeknotes
 title: Weeknotes 194
-url: /dingen/2010/12/weeknotes-194/
+aliases:
+  - /dingen/2010/12/weeknotes-194/
 
 ---
 [![Strategic Plan](http://farm5.static.flickr.com/4085/5222966685_29aa8fdf76.jpg)](http://www.flickr.com/photos/alper/5222966685/ "Strategic Plan by illustir, on Flickr")

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5936
 parent_post_id: null
 post_id: "5936"
 title: Highlights for From the Ruins of Empire
-url: /dingen/2018/01/highlights-for-from-the-ruins-of-empire/
+aliases:
+  - /dingen/2018/01/highlights-for-from-the-ruins-of-empire/
 
 ---
 > It mattered little to which class or race they belonged; the subordinate peoples of the world keenly absorbed the deeper implications — moral and psychological — of Japan’s triumph.

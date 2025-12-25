@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17139
 parent_post_id: null
 post_id: "17139"
 title: ""
-url: /dingen/2023/03/17139/
+aliases:
+  - /dingen/2023/03/17139/
 
 ---
 A nice deep dive into the lowest levels of #Rust programming just to be able to target the web browser (!). I'd like to use #wasm as soon as I have a good reason and project to do so.

@@ -12,7 +12,8 @@ tags:
   - reizen
   - trein
 title: NS Internationaal
-url: /dingen/2007/10/ns-internationaal/
+aliases:
+  - /dingen/2007/10/ns-internationaal/
 
 ---
 Ik ga eind deze maand naar Berlijn om [Eelke](http://www.eelkedekker.nl/) te bezoeken en acte de présence te geven op de [Web 2.0 Expo](http://www.web2expo.com/) en Barcamp Berlin. Nu dacht ik dat het wel leuk zou zijn om met de trein te gaan. Ik heb pas ook een Railplus Kaart bij mijn kortingskaart gekocht. Daar zou ik iets aan moeten hebben.

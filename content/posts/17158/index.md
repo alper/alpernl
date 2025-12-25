@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17158
 parent_post_id: null
 post_id: "17158"
 title: ""
-url: /dingen/2023/04/17158/
+aliases:
+  - /dingen/2023/04/17158/
 
 ---
 Because it's twenty years old a crusty technology like Django is the fastest way to bootstrap something into production. Get yourself some engineers who are more interested in creating business impact than they are in sprucing up their resume.

@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16422
 parent_post_id: null
 post_id: "16422"
 title: ""
-url: /dingen/2021/02/16422/
+aliases:
+  - /dingen/2021/02/16422/
 
 ---
 There's going to be a need for operations in companies however much of their infrastructure they outsource and it's going to be increasingly interesting and valuable work.

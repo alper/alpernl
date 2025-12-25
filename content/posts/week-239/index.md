@@ -12,7 +12,8 @@ post_id: "3041"
 tags:
   - weeknotes
 title: Week 239
-url: /dingen/2011/10/week-239/
+aliases:
+  - /dingen/2011/10/week-239/
 
 ---
 Running dreadfully behind with these weeknotes so this would have to be a short one.

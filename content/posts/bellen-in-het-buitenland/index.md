@@ -8,7 +8,8 @@ tags:
   - klantenervaring
   - zomerreis-2007
 title: Bellen in het buitenland
-url: /dingen/2007/10/bellen-in-het-buitenland/
+aliases:
+  - /dingen/2007/10/bellen-in-het-buitenland/
 
 ---
 Ik was trouwens [gisteren in de Orange-winkel](/dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/#comment-236) omdat ik schrok van een SMS'je. Orange stuurde mij het bericht dat ik een rekening voor €72 kreeg voor wat ik de afgelopen maand gebeld had. Ik dacht dat dit onmogelijk was maar ik kon mijn factuur niet online checken.

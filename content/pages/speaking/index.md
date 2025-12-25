@@ -7,7 +7,8 @@ guid: http://alper.nl/dingen/?page_id=350
 parent_post_id: null
 post_id: "350"
 title: Speaking
-url: /dingen/speaking/
+aliases:
+  - /dingen/speaking/
 
 ---
 [**For speaking engagements you can get in touch with The Next Speaker.**](http://thenextspeaker.com/nl/experts/alper-cugun/)

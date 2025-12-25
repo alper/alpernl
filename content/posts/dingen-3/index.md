@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=18522
 parent_post_id: null
 post_id: "18522"
 title: Iseji - Day 4 - Owase to Atashika
-url: /dingen/
+aliases:
+  - /dingen/
 
 ---
 The train I had to catch this morning only went after 9h so I thought I'd take the opportunity to get a real breakfast for the first time. Scale is as good as mentioned and people were lining up before opening time to get in on the action. I attacked the plate I got like a wild animal and was well underway to the FamilyMart and the train station by 08:30.

@@ -15,7 +15,8 @@ post_id: "2460"
 tags:
   - weeknotes
 title: Week 206
-url: /dingen/2011/03/week-206/
+aliases:
+  - /dingen/2011/03/week-206/
 
 ---
 Busily so briefly.

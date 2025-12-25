@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15972
 parent_post_id: null
 post_id: "15972"
 title: ""
-url: /dingen/2020/02/15972/
+aliases:
+  - /dingen/2020/02/15972/
 
 ---
 I'm glad that this takedown of Clean Code by Dan Abramov got so much traction. I have no problem with clean code (lowercase), but inevitably the process of getting there and the things people do as a consequence make the entire endeavor an anti-pattern.

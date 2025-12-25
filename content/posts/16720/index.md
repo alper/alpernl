@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16720
 parent_post_id: null
 post_id: "16720"
 title: ""
-url: /dingen/2022/03/16720/
+aliases:
+  - /dingen/2022/03/16720/
 
 ---
 [https://www.newyorker.com/culture/infinite-scroll/how-tumblr-became-popular-for-being-obsolete](https://www.newyorker.com/culture/infinite-scroll/how-tumblr-became-popular-for-being-obsolete)

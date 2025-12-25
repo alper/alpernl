@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1414
 parent_post_id: null
 post_id: "1414"
 title: Where is the money?
-url: /dingen/2009/12/where-is-the-money/
+aliases:
+  - /dingen/2009/12/where-is-the-money/
 
 ---
 Last week I trod off to Haarlem along with most of the usual suspects for the [Rethinking Media](http://www.rethinkingmedia.nl/) event: “Show me the Money”organized by Dutch Media professionals. Along with the people from the Dutch online scene, there were a lot of professionals from the media industry present which proved to be an interesting mix ((Interesting proof that an event with a lot of suits can also be pretty clued in to what's happening. Michiel Bicker Caarten's chairing of the event was sharp and clueful.)).

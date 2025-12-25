@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2464
 parent_post_id: null
 post_id: "2464"
 title: A more messy city
-url: /dingen/2011/03/a-more-messy-city/
+aliases:
+  - /dingen/2011/03/a-more-messy-city/
 
 ---
 We spent last weekend having [a veritable blast](http://www.flickr.com/photos/alper/5496175719/) at the [Cognitive Cities](http://cognitivecities.com/) conference. It was a great spectacle of familiar faces, a nicely curated program and full frontal confrontations with the city of Berlin.

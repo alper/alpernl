@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16059
 parent_post_id: null
 post_id: "16059"
 title: ""
-url: /dingen/2020/04/16059/
+aliases:
+  - /dingen/2020/04/16059/
 
 ---
 Companies insisting on long hours is probably only one thing holding women back, but this article goes deep on that one question and uncovers a panoply of assumptions and attitudes.

@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17055
 parent_post_id: null
 post_id: "17055"
 title: ""
-url: /dingen/2023/02/17055/
+aliases:
+  - /dingen/2023/02/17055/
 
 ---
 anti-anti-utopia

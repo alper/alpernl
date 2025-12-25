@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5845
 parent_post_id: null
 post_id: "5845"
 title: Highlights from Homage to Catalonia
-url: /dingen/2017/10/highlights-from-homage-to-catalonia/
+aliases:
+  - /dingen/2017/10/highlights-from-homage-to-catalonia/
 
 ---
 > The Spaniards are good at many things, but not at making war. All foreigners alike are appalled by their inefficiency, above all their maddening unpunctuality.

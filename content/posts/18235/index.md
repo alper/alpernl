@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18235
 parent_post_id: null
 post_id: "18235"
 title: ""
-url: /dingen/2025/05/18235/
+aliases:
+  - /dingen/2025/05/18235/
 
 ---
 I fully agree with Paolo Scanferla here that very complex typing ("hyper-typing") is an impediment to get anything done but besides the technical aspects, here are some ratchets here that are very pernicious.

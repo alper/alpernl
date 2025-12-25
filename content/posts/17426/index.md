@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17426
 parent_post_id: null
 post_id: "17426"
 title: ""
-url: /dingen/2024/03/17426/
+aliases:
+  - /dingen/2024/03/17426/
 
 ---
 > Even as the world has caught up with him, Finkelstein remains most comfortable on the margins — ideologically aligned with a left that won’t always have him, platformed by a right that won’t always listen, and insulting them both.

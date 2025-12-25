@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16228
 parent_post_id: null
 post_id: "16228"
 title: ""
-url: /dingen/2020/08/16228/
+aliases:
+  - /dingen/2020/08/16228/
 
 ---
 The JIRA team does not use JIRA and of course why would they if anybody gave them the choice. Also, JIRA is often not used for software engineering anymore but it fits the bill for large scale workflows and compliance trails.

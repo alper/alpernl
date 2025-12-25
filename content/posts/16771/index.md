@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16771
 parent_post_id: null
 post_id: "16771"
 title: ""
-url: /dingen/2022/04/16771/
+aliases:
+  - /dingen/2022/04/16771/
 
 ---
 Oh Beirut, it seems nothing has changed since the last time I was there. Things have pretty much only gotten predictably worse.

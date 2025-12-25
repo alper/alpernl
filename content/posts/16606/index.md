@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16606
 parent_post_id: null
 post_id: "16606"
 title: ""
-url: /dingen/2021/10/16606/
+aliases:
+  - /dingen/2021/10/16606/
 
 ---
 Of course it still makes sense to defend yourself, but if you have any idea how software functions, it should be obvious that the number of known and unknown vulnerabilities in our devices number in the thousands and a lot of them are and remain exploited by all kinds of organizations.

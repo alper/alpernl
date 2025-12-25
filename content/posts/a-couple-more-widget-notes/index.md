@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1010
 parent_post_id: null
 post_id: "1010"
 title: A couple more widget notes
-url: /dingen/2009/05/a-couple-more-widget-notes/
+aliases:
+  - /dingen/2009/05/a-couple-more-widget-notes/
 
 ---
 Some remaindered notes:

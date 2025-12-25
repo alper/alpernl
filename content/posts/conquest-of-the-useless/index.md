@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3951
 parent_post_id: null
 post_id: "3951"
 title: Conquest of the Useless
-url: /dingen/2012/10/conquest-of-the-useless/
+aliases:
+  - /dingen/2012/10/conquest-of-the-useless/
 
 ---
 Yesterday we went to see Werner Herzog read from his own work in [‘Erroberung des Nutzlosen’](http://www.volksbuehne-berlin.de/praxis/eroberung_des_nutzlosen/) at the Volksbühne. While an impressive display of authorship my enjoyment of the performance was hampered by me having no knowledge of his movies and a recent aversion towards the theater.

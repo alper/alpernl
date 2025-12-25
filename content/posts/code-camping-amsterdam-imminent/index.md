@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=3091
 parent_post_id: null
 post_id: "3091"
 title: Code Camping Amsterdam Imminent
-url: /dingen/2011/11/code-camping-amsterdam-imminent/
+aliases:
+  - /dingen/2011/11/code-camping-amsterdam-imminent/
 
 ---
 I'm incredibly proud of the team and events coming together in our organization of the biggest [Hack de Overheid](http://www.hackdeoverheid.nl) feature yet. Looking back on the past year, it has been an incredible ride with the various _Apps for…_ competitions and no small amount of personal and professional changes.

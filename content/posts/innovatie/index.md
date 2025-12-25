@@ -8,7 +8,8 @@ tags:
   - waarheid
   - werken
 title: Innovatie
-url: /dingen/2007/12/innovatie/
+aliases:
+  - /dingen/2007/12/innovatie/
 
 ---
 Waarom is het dat de mensen die het het meeste hebben over innovatie, het minst innovatief zijn?

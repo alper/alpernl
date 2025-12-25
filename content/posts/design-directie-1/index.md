@@ -13,7 +13,8 @@ tags:
   - column
   - design-directie
 title: 'Design Directie #1'
-url: /dingen/2010/08/design-directie-1/
+aliases:
+  - /dingen/2010/08/design-directie-1/
 
 ---
 _‘Design Directie’ is een periodiek stukje van Alper over het raakvlak van design en technologie met de maatschappij ((En boven alles een experiment.))._

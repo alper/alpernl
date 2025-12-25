@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15292
 parent_post_id: null
 post_id: "15292"
 title: ""
-url: /dingen/2019/03/15292/
+aliases:
+  - /dingen/2019/03/15292/
 
 ---
 Some nice parenting tips from the Inuit.

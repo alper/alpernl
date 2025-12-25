@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17825
 parent_post_id: null
 post_id: "17825"
 title: ""
-url: /dingen/2024/12/17825/
+aliases:
+  - /dingen/2024/12/17825/
 
 ---
 Here's Simon Willison [writing about how he approaches his link blog](https://simonwillison.net/2024/Dec/22/link-blog/#atom-everything).

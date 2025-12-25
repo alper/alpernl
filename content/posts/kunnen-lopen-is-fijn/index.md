@@ -9,7 +9,8 @@ post_id: "260"
 tags:
   - sport
 title: Kunnen lopen is fijn
-url: /dingen/2008/02/kunnen-lopen-is-fijn/
+aliases:
+  - /dingen/2008/02/kunnen-lopen-is-fijn/
 
 ---
 Afgelopen zondag hadden we met capoeira een turnzaal gehuurd om acrobatische dingen te oefenen. Turners pakken dit soort dingen redelijk professioneel aan. Van een trampoline in een schuimbak springen is één van de leukste dingen die er is.

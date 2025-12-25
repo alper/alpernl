@@ -16,7 +16,8 @@ tags:
   - wifi
   - wireless
 title: Breedband luchtkastelen
-url: /dingen/2008/05/breedband-luchtkastelen/
+aliases:
+  - /dingen/2008/05/breedband-luchtkastelen/
 
 ---
 Ik zat gisteren op station Leiden verlegen om een klein beetje internet om iets op te zoeken. Voor die paar minuten had ik geen zin om aan KPN €5,95 te betalen voor een uur toegang, dus ik _war walkte_ een beetje om me heen.

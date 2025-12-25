@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4244
 parent_post_id: null
 post_id: "4244"
 title: Dark Matter & Trojan Horses Highlights
-url: /dingen/2013/08/dark-matter-trojan-horses-highlights/
+aliases:
+  - /dingen/2013/08/dark-matter-trojan-horses-highlights/
 
 ---
 Odd that I hadn't gotten around to blogging these notes from Dan Hill's brilliant book, but here they are then finally:

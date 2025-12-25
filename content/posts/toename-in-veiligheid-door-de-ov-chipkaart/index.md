@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1606
 parent_post_id: null
 post_id: "1606"
 title: Toename in veiligheid door de ov-chipkaart
-url: /dingen/2010/03/toename-in-veiligheid-door-de-ov-chipkaart/
+aliases:
+  - /dingen/2010/03/toename-in-veiligheid-door-de-ov-chipkaart/
 
 ---
 De OV-chipkaart is een groot succes in de Amsterdamse metro. Het aantal zwartrijders is afgenomen en navenant ook het aantal geweldsincidenten.

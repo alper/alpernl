@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16288
 parent_post_id: null
 post_id: "16288"
 title: ""
-url: /dingen/2020/09/16288/
+aliases:
+  - /dingen/2020/09/16288/
 
 ---
 Looking at some Discord first organizations this describes how they could play out and how much potential is there if you want to put some effort in it.

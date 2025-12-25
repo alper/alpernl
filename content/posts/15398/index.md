@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15398
 parent_post_id: null
 post_id: "15398"
 title: ""
-url: /dingen/2019/05/15398/
+aliases:
+  - /dingen/2019/05/15398/
 
 ---
 Not a word wrong in this piece, landlords are the original rent-seeking leeches.

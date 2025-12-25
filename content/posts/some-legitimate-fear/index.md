@@ -18,7 +18,8 @@ tags:
   - video
   - war-on-terror
 title: Some legitimate fear
-url: /dingen/2008/08/some-legitimate-fear/
+aliases:
+  - /dingen/2008/08/some-legitimate-fear/
 
 ---
 This [video on BoingBoing](http://www.boingboing.net/2008/08/19/visitor-to-london-vi.html) is shocking in its absurdity but hardly unexpected given the current climate. If you pay any attention around you in metropolitan areas in the UK, it is rife with ostentatious surveillance.

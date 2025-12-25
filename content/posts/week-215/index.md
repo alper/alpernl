@@ -14,7 +14,8 @@ post_id: "2593"
 tags:
   - weeknotes
 title: Week 215
-url: /dingen/2011/05/week-215/
+aliases:
+  - /dingen/2011/05/week-215/
 
 ---
 Is it Wednesday already? We're a bit in a production down cycle, but you wouldn't notice for the lack of administrativa that needs dealing with.

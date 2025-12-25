@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15395
 parent_post_id: null
 post_id: "15395"
 title: ""
-url: /dingen/2019/05/15395/
+aliases:
+  - /dingen/2019/05/15395/
 
 ---
 Innisfil, Ontario's troubles filling in their public transit with Uber is a great example of how governments should not outsource things to private contractors whose unit economics do not make sense.

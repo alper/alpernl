@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3963
 parent_post_id: null
 post_id: "3963"
 title: Capitals I didn't visit until 2012
-url: /dingen/2012/12/capitals-i-didnt-visit-until-2012/
+aliases:
+  - /dingen/2012/12/capitals-i-didnt-visit-until-2012/
 
 ---
 One recap of 2012 which was an odd year what with the international move and all. Still in the second half I managed to get **a lot** of travel in leaving aside the almost monthly trips to Amsterdam by train. Dopplr unfortunately does not give me [a total amount of kilometers](http://www.dopplr.com/traveller/alper/public) travelled for 2012 anymore.

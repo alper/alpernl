@@ -13,7 +13,8 @@ post_id: "3349"
 tags:
   - weeknotes
 title: 'Week 257: moving office, Kotti, to Amsterdam again, Open Coop kicking it off, Social Cities of Tomorrow and explorations in theory and practice'
-url: /dingen/2012/02/week-257-moving-office-kotti-to-amsterdam-again-open-coop-kicking-it-off-social-cities-of-tomorrow-and-explorations-in-theory-and-practice/
+aliases:
+  - /dingen/2012/02/week-257-moving-office-kotti-to-amsterdam-again-open-coop-kicking-it-off-social-cities-of-tomorrow-and-explorations-in-theory-and-practice/
 
 ---
 Writing these notes on a Sunday afternoon wit a mug of steaming coffee within reach as they are meant to be written.

@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16870
 parent_post_id: null
 post_id: "16870"
 title: ""
-url: /dingen/2022/10/16870/
+aliases:
+  - /dingen/2022/10/16870/
 
 ---
 Nice to read a project we worked on a long time ago (web application concept and initial set of user stories to hand off to development) is still going strong. This project and others like it support my thinking that it's possible to solve problems definitely in a product agency context.

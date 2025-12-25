@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16065
 parent_post_id: null
 post_id: "16065"
 title: ""
-url: /dingen/2020/04/16065/
+aliases:
+  - /dingen/2020/04/16065/
 
 ---
 The Spotify model wasn't even a silver bullet for Spotify and it definitely wasn't one for all the organizations that simply copied it.

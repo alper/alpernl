@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16614
 parent_post_id: null
 post_id: "16614"
 title: ""
-url: /dingen/2021/10/16614/
+aliases:
+  - /dingen/2021/10/16614/
 
 ---
 > Most of the time, elites do what they want, influenced by their own ideological commitments and powerful lobby groups. In times of crisis, when people do pay attention, they can be manipulated pretty easily by the media or other partisan sources.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4774
 parent_post_id: null
 post_id: "4774"
 title: Tokyo Coffee Notes
-url: /dingen/2013/10/tokyo-coffee-notes/
+aliases:
+  - /dingen/2013/10/tokyo-coffee-notes/
 
 ---
 Here are my notes from a couple of weeks of drinking coffee in Tokyo on a fact finding mission for [Cuppings](http://www.cuppin.gs/). With Cuppings we try to give you a guide of the best coffee places around the world based on our personal tastings. Some notable locales are still not as well represented as they should be. London and New York have their own excellent guides for coffee with [Oliver Strand's Coffee App](http://www.nytimes.com/interactive/2010/03/09/dining/20100309-new-york-coffee-map.html) and [the London Coffee Map](http://www.thelondoncoffeemap.com/). Tokyo is one place that I thought we should fill in.

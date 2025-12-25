@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5894
 parent_post_id: null
 post_id: "5894"
 title: Highlights for Financial Strategy for Public Managers
-url: /dingen/2017/12/highlights-for-financial-strategy-for-public-managers/
+aliases:
+  - /dingen/2017/12/highlights-for-financial-strategy-for-public-managers/
 
 ---
 > Boeing’s executives expect their managers to know this information, in real time, if the company is to remain profitable.

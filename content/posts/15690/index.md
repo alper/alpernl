@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15690
 parent_post_id: null
 post_id: "15690"
 title: ""
-url: /dingen/2019/09/15690/
+aliases:
+  - /dingen/2019/09/15690/
 
 ---
 > **De PvdA is om en wil weer een basisbeurs voor studenten. De partij maakt een draai van 180 graden en trekt de handen af van het leenstelsel, dat het zelf nota bene heeft ingevoerd.**

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2647
 parent_post_id: null
 post_id: "2647"
 title: Notes about Thoughts on Interaction Design by John Kolko
-url: /dingen/2011/06/notes-about-thoughts-on-interaction-design-by-john-kolko/
+aliases:
+  - /dingen/2011/06/notes-about-thoughts-on-interaction-design-by-john-kolko/
 
 ---
 We read [Thoughts on Interaction Design](http://www.thoughtsoninteraction.com/) 2nd edition as the fifth book for the [UX Book Club Amsterdam](http://www.linkedin.com/groups?mostPopular=&gid=1795982) and reviewed it yesterday. Here are my noteworthy passages from the book, which is not without its issues, but it does give a credible philosophical foundation for our practice.

@@ -10,7 +10,8 @@ post_id: "223"
 tags:
   - internet
 title: Set my WiFi free
-url: /dingen/2008/01/steel-mijn-internet/
+aliases:
+  - /dingen/2008/01/steel-mijn-internet/
 
 ---
 Naar aanleiding van [dit artikel in Wired](http://www.wired.com/politics/security/commentary/securitymatters/2008/01/securitymatters_0110) van veiligheids- [goeroe](http://geekz.co.uk/schneierfacts/) [Bruce Schneier](http://www.schneier.com/) heb ik gedaan waar ik al een tijdje over zat te denken. Ik heb mijn draadloos internet thuis open gegooid voor iedereen in de buurt om te gebruiken.

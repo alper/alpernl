@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1442
 parent_post_id: null
 post_id: "1442"
 title: Municipal boundaries of the Netherlands
-url: /dingen/2010/03/municipal-boundaries-of-the-netherlands/
+aliases:
+  - /dingen/2010/03/municipal-boundaries-of-the-netherlands/
 
 ---
 ### Goal

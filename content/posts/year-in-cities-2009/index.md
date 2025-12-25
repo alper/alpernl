@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1471
 parent_post_id: null
 post_id: "1471"
 title: Year in Cities 2009
-url: /dingen/2010/01/year-in-cities-2009/
+aliases:
+  - /dingen/2010/01/year-in-cities-2009/
 
 ---
 It's [that time](http://novemberborn.net/2009/12/my-year-in-cities-2009-347) of the year again, a modest list this time compared to [some](http://annevankesteren.nl/):

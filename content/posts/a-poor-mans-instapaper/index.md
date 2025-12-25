@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15516
 parent_post_id: null
 post_id: "15516"
 title: A poor man's instapaper
-url: /dingen/2019/06/a-poor-mans-instapaper/
+aliases:
+  - /dingen/2019/06/a-poor-mans-instapaper/
 
 ---
 I've stopped using [Instapaper](https://www.instapaper.com/) for a long time now, but I'm still reading longreads. Let me explain how.

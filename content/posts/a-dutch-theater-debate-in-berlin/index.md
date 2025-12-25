@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3424
 parent_post_id: null
 post_id: "3424"
 title: A Dutch theater debate in Berlin
-url: /dingen/2012/04/a-dutch-theater-debate-in-berlin/
+aliases:
+  - /dingen/2012/04/a-dutch-theater-debate-in-berlin/
 
 ---
 A week or two ago I attended a discussion at the Deutsches Theater [‘Holland in Not’](http://www.deutschestheater.de/spielplan/spielplan/holland_in_not/) that was organized because of [a recently published book “Der Kulturinfarkt, vom Allem zu viel und überall das Gleiche”](http://www.spiegel.de/spiegel/vorab/0,1518,820528,00.html) that proposed to close half of all theaters in Germany.

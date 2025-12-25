@@ -13,7 +13,8 @@ post_id: "3112"
 tags:
   - weeknotes
 title: Week 245
-url: /dingen/2011/11/week-245/
+aliases:
+  - /dingen/2011/11/week-245/
 
 ---
 [![Running through the proceedings, it's going to be epic](http://farm7.staticflickr.com/6239/6383919823_5dce1425bd.jpg)](http://www.flickr.com/photos/alper/6383919823/ "Running through the proceedings, it's going to be epic by illustir, on Flickr")

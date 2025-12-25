@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18204
 parent_post_id: null
 post_id: "18204"
 title: ""
-url: /dingen/2025/04/18204/
+aliases:
+  - /dingen/2025/04/18204/
 
 ---
 > Should managers be _in_ the code? Yes, absolutely. Should managers _write_ code? Maybe, but it also depends on what you mean by writing code.

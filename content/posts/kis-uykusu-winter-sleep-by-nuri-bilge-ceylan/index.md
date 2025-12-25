@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=5129
 parent_post_id: null
 post_id: "5129"
 title: KÄ±ÅŸ Uykusu (Winter Sleep) by Nuri Bilge Ceylan
-url: /dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/
+aliases:
+  - /dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/
 
 ---
 [![Kis-Uykusu-7](Kis-Uykusu-7.jpg)](/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/kis-uykusu-7/)

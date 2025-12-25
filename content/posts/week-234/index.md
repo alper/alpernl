@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2864
 parent_post_id: null
 post_id: "2864"
 title: Week 234
-url: /dingen/2011/09/week-234/
+aliases:
+  - /dingen/2011/09/week-234/
 
 ---
 On Monday I let go a bunch of stalling side projects which were not going anywhere.

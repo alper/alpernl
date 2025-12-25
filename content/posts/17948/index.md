@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17948
 parent_post_id: null
 post_id: "17948"
 title: ""
-url: /dingen/2025/01/17948/
+aliases:
+  - /dingen/2025/01/17948/
 
 ---
 I would have been surprised if Devin had performed even 1/10th as well as it was hyped. This is a good clean write-up.

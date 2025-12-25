@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15756
 parent_post_id: null
 post_id: "15756"
 title: ""
-url: /dingen/2019/09/15756/
+aliases:
+  - /dingen/2019/09/15756/
 
 ---
 We can talk about agile strategy all we want but “Doing over Planning”is a more than sufficient summary for anybody who wants to get started.

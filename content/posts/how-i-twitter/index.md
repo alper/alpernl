@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2176
 parent_post_id: null
 post_id: "2176"
 title: How I Twitter
-url: /dingen/2010/10/how-i-twitter/
+aliases:
+  - /dingen/2010/10/how-i-twitter/
 
 ---
 I explained the way I twitter to several people over the last weeks and it seems that it is somewhat different than how most people setup their account, so I thought it might be interesting to share.

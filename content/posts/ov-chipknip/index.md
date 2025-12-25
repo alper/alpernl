@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=782
 parent_post_id: null
 post_id: "782"
 title: OV-chipknip
-url: /dingen/2009/02/ov-chipknip/
+aliases:
+  - /dingen/2009/02/ov-chipknip/
 
 ---
 Marrije zegt net [“de conducteur zegt dat mijn ov-chipknip werkt. da's fijn, maar ik wist niet eens dat ik 'm had, en waarvoor dan.”](http://twitter.com/marrije/statuses/1227219840) waarop ik antwoord [“@marrije Het is geen chipknip (wat een groot gemis is), daarnaast is het handig voor R'dam. En je kunt hem hier claimen: http://is.gd/k7xG”](http://twitter.com/alper/statuses/1227224584).

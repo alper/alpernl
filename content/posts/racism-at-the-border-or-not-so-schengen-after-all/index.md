@@ -11,7 +11,8 @@ outtake: We could protest this. Maybe if we organized large groups of foreign (l
 parent_post_id: null
 post_id: "3450"
 title: Racism at the border, or not so Schengen after all
-url: /dingen/2012/03/racism-at-the-border-or-not-so-schengen-after-all/
+aliases:
+  - /dingen/2012/03/racism-at-the-border-or-not-so-schengen-after-all/
 
 ---
 The train just had its stop in [Bad Bentheim](http://en.wikipedia.org/wiki/Bad_Bentheim) entering Germany. At that stop we usually get a short break, a new locomotive and the German border police checking the train. Border police? Didn't the [Schengen Agreement](http://en.wikipedia.org/wiki/Schengen_Agreement) abolish checks at the signing countries' borders?

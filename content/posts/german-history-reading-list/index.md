@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15886
 parent_post_id: null
 post_id: "15886"
 title: German history reading list
-url: /dingen/2019/11/german-history-reading-list/
+aliases:
+  - /dingen/2019/11/german-history-reading-list/
 
 ---
 I've been meaning to finish reading up on German history. If I read the five books below, I should be in a great place.

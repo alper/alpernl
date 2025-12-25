@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4782
 parent_post_id: null
 post_id: "4782"
 title: Week 335
-url: /dingen/2013/09/week-335/
+aliases:
+  - /dingen/2013/09/week-335/
 
 ---
 A funny week and with these weeknotes falling ever further behind it is also becoming increasingly vague what ever did happen back then.

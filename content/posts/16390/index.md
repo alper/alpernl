@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=16390
 parent_post_id: null
 post_id: "16390"
 title: ""
-url: /dingen/2021/01/16390/
+aliases:
+  - /dingen/2021/01/16390/
 
 ---
 > \> Perhaps this was one of those things which would have been better off left to legal professionals, rather than being put to trial-by-Clubhouse.  

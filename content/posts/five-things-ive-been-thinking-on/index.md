@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2051
 parent_post_id: null
 post_id: "2051"
 title: Five things I've been thinking on
-url: /dingen/2010/08/five-things-ive-been-thinking-on/
+aliases:
+  - /dingen/2010/08/five-things-ive-been-thinking-on/
 
 ---
 Others [have](http://magicalnihilism.com/2010/08/10/5-things-im-thinking-about/) [done](http://www.hexkey.co.uk/lee/log/2010/08/22/phonecall/) [this](http://danhon.com/2010/07/12/a-collection-of-five-things/), but these are my thoughts.

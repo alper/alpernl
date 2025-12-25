@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17705
 parent_post_id: null
 post_id: "17705"
 title: Project Power
-url: /dingen/2024/11/project-power/
+aliases:
+  - /dingen/2024/11/project-power/
 
 ---
 I think “Project-Power” from [this newsletter by Adam Tooze](https://adamtooze.substack.com/p/chartbook-296-project-power-hegemony?utm_source=publication-search) is going to be a useful concept going forward:

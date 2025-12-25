@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17070
 parent_post_id: null
 post_id: "17070"
 title: ""
-url: /dingen/2023/02/17070/
+aliases:
+  - /dingen/2023/02/17070/
 
 ---
 The biggest tragedy of Agile is that planning your team to maximum capacity is not agile.

@@ -9,7 +9,8 @@ tags:
   - koffie
   - politiek
 title: Morgenrood
-url: /dingen/2008/01/morgenrood/
+aliases:
+  - /dingen/2008/01/morgenrood/
 
 ---
 [![Menu Disclaimer](http://farm3.static.flickr.com/2128/2196376122_fbedece335.jpg)](http://www.flickr.com/photos/alper/2196376122/ "Menu Disclaimer by illustir, on Flickr")

@@ -17,7 +17,8 @@ guid: https://alper.nl/dingen/?p=17513
 parent_post_id: null
 post_id: "17513"
 title: ""
-url: /dingen/2024/03/17513/
+aliases:
+  - /dingen/2024/03/17513/
 
 ---
 Netzpolitik has done a lot of good things, no doubt. But I'm left with a bit of a double feeling after reading Beckedahl's farewell post. Imagine having spent 20 years to improve the state of the German internet (“eine bessere digitale Welt möglich ist”) and you leave with the situation like it is.

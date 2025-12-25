@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5952
 parent_post_id: null
 post_id: "5952"
 title: Highlights for Turn the Ship Around
-url: /dingen/2018/03/highlights-for-turn-the-ship-around/
+aliases:
+  - /dingen/2018/03/highlights-for-turn-the-ship-around/
 
 ---
 > Our world’s bright future will be built by people who have discovered that leadership is the enabling art. It is the art of releasing human talent and potential.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16106
 parent_post_id: null
 post_id: "16106"
 title: ""
-url: /dingen/2020/06/16106/
+aliases:
+  - /dingen/2020/06/16106/
 
 ---
 A grand treatment by Arundhati Roy of the situation that India is in now.

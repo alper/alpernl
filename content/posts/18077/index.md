@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18077
 parent_post_id: null
 post_id: "18077"
 title: ""
-url: /dingen/2025/02/18077/
+aliases:
+  - /dingen/2025/02/18077/
 
 ---
 Quanta's write-ups of math discoveries are always enjoyable to read. In this case an undergraduate (!) figured out something new about hash tables and how fast they can be. Not sure yet when this will be shipped in code, but still it's a pretty amazing discovery.

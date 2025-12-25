@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15707
 parent_post_id: null
 post_id: "15707"
 title: ""
-url: /dingen/2019/09/15707/
+aliases:
+  - /dingen/2019/09/15707/
 
 ---
 An amazing and inspiring play-by-play of how Clio doubled their representation of women by improving their hiring game and setting a quota.

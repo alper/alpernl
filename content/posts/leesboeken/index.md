@@ -9,7 +9,8 @@ post_id: "232"
 tags:
   - reading
 title: Leesboeken
-url: /dingen/2008/01/leesboeken/
+aliases:
+  - /dingen/2008/01/leesboeken/
 
 ---
 Deze week ben ik langs [ABC](http://www.abc.nl) Den Haag geweest om een paar boeken te kopen om nú te lezen ((De boeken die ik normaal zou lezen zitten nog ingepakt, en ik moet toch iets lezen.)). Ik koop liever niets meer bij normale winkels tenzij ze tof zijn zoals de ABC.

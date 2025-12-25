@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15217
 parent_post_id: null
 post_id: "15217"
 title: ""
-url: /dingen/2019/03/15217/
+aliases:
+  - /dingen/2019/03/15217/
 
 ---
 Reality captured in photos by Istanbul cab driver Sevket Sahintas. There's an equivalent series here in Berlin that is not being captured as far as I know.  

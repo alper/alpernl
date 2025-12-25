@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17010
 parent_post_id: null
 post_id: "17010"
 title: ""
-url: /dingen/2023/02/17010/
+aliases:
+  - /dingen/2023/02/17010/
 
 ---
 For my notes, a bunch of receipts about just one of the dark pasts of the German Green Party.

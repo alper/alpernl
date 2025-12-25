@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17649
 parent_post_id: null
 post_id: "17649"
 title: MySQL encoding mistakes corrupting data in this decade?!?
-url: /dingen/2024/11/17649/
+aliases:
+  - /dingen/2024/11/17649/
 
 ---
 Turns out I hadn't noticed my hosting provider [Vimexx](https://www.vimexx.nl) has their MySQL databases on `latin1` coding and this blog was running on that happily corrupting data.

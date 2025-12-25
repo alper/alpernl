@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17253
 parent_post_id: null
 post_id: "17253"
 title: ""
-url: /dingen/2023/08/17253/
+aliases:
+  - /dingen/2023/08/17253/
 
 ---
 An acerbic and entirely deserved preening apart of the base human drives that led to Twitter being destroyed.

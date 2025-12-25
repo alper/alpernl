@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16934
 parent_post_id: null
 post_id: "16934"
 title: ""
-url: /dingen/2023/01/16934/
+aliases:
+  - /dingen/2023/01/16934/
 
 ---
 A manifesto for 2023 by Robin Sloan to take nothing for granted and try out all kinds of new things. Everything old is new again and everything new is exciting.

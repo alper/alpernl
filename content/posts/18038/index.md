@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18038
 parent_post_id: null
 post_id: "18038"
 title: ""
-url: /dingen/2025/02/18038/
+aliases:
+  - /dingen/2025/02/18038/
 
 ---
 After missing the previous edition, I'm 'attending' HYTRADBOI 2025. Databases are the bread and butter of our team and I enjoy keeping up with the cutting edge of the field while using the most boring possible one at work.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5701
 parent_post_id: null
 post_id: "5701"
 title: Highlights from The Lathe of Heaven
-url: /dingen/2017/01/highlights-from-the-lathe-of-heaven/
+aliases:
+  - /dingen/2017/01/highlights-from-the-lathe-of-heaven/
 
 ---
 > "The insistent permissiveness of the late Twentieth Century had produced fully as much sex-guilt and sex-fear in its heirs as had the insistent repressiveness of the late Nineteenth Century."

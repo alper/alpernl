@@ -18,7 +18,8 @@ guid: http://alper.nl/dingen/?p=16224
 parent_post_id: null
 post_id: "16224"
 title: ""
-url: /dingen/2020/08/16224/
+aliases:
+  - /dingen/2020/08/16224/
 
 ---
 https://twitter.com/aaronzlewis/status/1291889682788253696

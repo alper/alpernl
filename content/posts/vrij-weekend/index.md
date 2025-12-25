@@ -11,7 +11,8 @@ tags:
   - computers
   - internet
 title: Vrij weekend
-url: /dingen/2008/02/vrij-weekend/
+aliases:
+  - /dingen/2008/02/vrij-weekend/
 
 ---
 [![Roomware DevHouse](http://farm3.static.flickr.com/2415/2240415290_0516f4e6a8.jpg)](http://www.flickr.com/photos/alper/2240415290/ "Roomware DevHouse by illustir, on Flickr")

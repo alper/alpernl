@@ -10,7 +10,8 @@ guid: http://www.alper.nl/dingen/?p=16332
 parent_post_id: null
 post_id: "16332"
 title: ""
-url: /dingen/2020/10/16332/
+aliases:
+  - /dingen/2020/10/16332/
 
 ---
 A fractal treatment of the various level of engineering management.

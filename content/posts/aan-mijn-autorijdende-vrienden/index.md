@@ -7,7 +7,8 @@ guid: http://alper.nl/dingen/2008/01/aan-mijn-autorijdende-vrienden/
 parent_post_id: null
 post_id: "221"
 title: Aan mijn autorijdende vrienden
-url: /dingen/2008/01/aan-mijn-autorijdende-vrienden/
+aliases:
+  - /dingen/2008/01/aan-mijn-autorijdende-vrienden/
 
 ---
 Passen jullie op als jullie in de buurt van Delft zijn? Het schijnt dat hier de laatste tijd nogal wat auto's ontploffen.

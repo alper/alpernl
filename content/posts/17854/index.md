@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17854
 parent_post_id: null
 post_id: "17854"
 title: ""
-url: /dingen/2025/01/17854/
+aliases:
+  - /dingen/2025/01/17854/
 
 ---
 Hans de Zwart's end of the year media overviews are one of the highlights of what still happens on personal blogs for me. He's a voracious reader and one of the rare people who acts on his moral clarity. Also, Hans is a great guy and I had the chance to briefly catch-up with him last year.

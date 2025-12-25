@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1764
 parent_post_id: null
 post_id: "1764"
 title: Vrijheid herdenken
-url: /dingen/2010/05/vrijheid-herdenken/
+aliases:
+  - /dingen/2010/05/vrijheid-herdenken/
 
 ---
 Een nieuw gedicht van onze Dichter des Vaderlands “Een mooie dag om stilte te verscheuren”:

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2223
 parent_post_id: null
 post_id: "2223"
 title: Lidmaatschappen in de tijd van de Netwerkrevolutie
-url: /dingen/2010/10/lidmaatschappen-in-de-tijd-van-de-netwerkrevolutie/
+aliases:
+  - /dingen/2010/10/lidmaatschappen-in-de-tijd-van-de-netwerkrevolutie/
 
 ---
 Voor sommige e-mails zou het handig zijn als ik een publiek e-mail account ((Er bestaan concepten die dat doen om de schaalvoordelen van het publieke internet te koppelen aan het traditioneel privé-communicatiemedium e-mail.)) had (of een weblog dat ook e-mails kon versturen en ontvangen). Hier een bericht naar aanleiding van een e-mail naar [D66](http://d66.nl) over het opzeggen van mijn lidmaatschap.

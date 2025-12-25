@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15775
 parent_post_id: null
 post_id: "15775"
 title: ""
-url: /dingen/2019/10/15775/
+aliases:
+  - /dingen/2019/10/15775/
 
 ---
 > Wir üben keinen Druck auf unsere Mieter aus. Kein Mieter wird bei uns verdrängt. Das würde gegen unsere Werte verstoßen.

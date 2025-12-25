@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17906
 parent_post_id: null
 post_id: "17906"
 title: ""
-url: /dingen/2025/01/17906/
+aliases:
+  - /dingen/2025/01/17906/
 
 ---
 A thought-provoking article about how to counteract car bloat. I would add that driving a SUV is even worse than smoking because it mostly harms others, not the person doing the driving themselves.

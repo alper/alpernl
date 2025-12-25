@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=929
 parent_post_id: null
 post_id: "929"
 title: Openbaar Vervoer update
-url: /dingen/2009/04/openbaar-vervoer-update/
+aliases:
+  - /dingen/2009/04/openbaar-vervoer-update/
 
 ---
 Het is een tijdje wat stiller geweest rond openbaar vervoer. Hoog tijd voor een update.

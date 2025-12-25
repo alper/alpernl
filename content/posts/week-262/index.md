@@ -12,7 +12,8 @@ post_id: "3443"
 tags:
   - weeknotes
 title: 'Week 262: native iPhone development, gentrification clashes, Fraunhofer, Deutsches Theater and fixie riding'
-url: /dingen/2012/03/week-262/
+aliases:
+  - /dingen/2012/03/week-262/
 
 ---
 The week started with development on _saba_ in [phonegap](http://phonegap.com/). I got that to work with [backbone](http://documentcloud.github.com/backbone/).

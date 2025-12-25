@@ -13,7 +13,8 @@ post_id: "4719"
 tags:
   - weeknotes
 title: Week 332
-url: /dingen/2013/08/week-332/
+aliases:
+  - /dingen/2013/08/week-332/
 
 ---
 Oh, this week. This week was how to put it rather intense.

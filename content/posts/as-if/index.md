@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16648
 parent_post_id: null
 post_id: "16648"
 title: As If
-url: /dingen/2021/12/as-if/
+aliases:
+  - /dingen/2021/12/as-if/
 
 ---
 I've discovered a hilarious new Turkish comedy show called "Gibi" (translated to As If). The episodes revolve around a group of friends who get embroiled in absurdist situations and have very nasty but eloquent arguments with each other.

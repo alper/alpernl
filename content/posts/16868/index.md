@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16868
 parent_post_id: null
 post_id: "16868"
 title: ""
-url: /dingen/2022/10/16868/
+aliases:
+  - /dingen/2022/10/16868/
 
 ---
 A relevant and nuanced complication of agile by Dorian Taylor seeing it as a trauma based response where the core practice has gotten stuck and is preventing the industry from solving more fundamental issues.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15989
 parent_post_id: null
 post_id: "15989"
 title: ""
-url: /dingen/2020/02/15989/
+aliases:
+  - /dingen/2020/02/15989/
 
 ---
 Germany is deeply entrenched in coal as this utterly backward and destructive position by Siemens underlines.

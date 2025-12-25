@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17014
 parent_post_id: null
 post_id: "17014"
 title: ""
-url: /dingen/2023/02/17014/
+aliases:
+  - /dingen/2023/02/17014/
 
 ---
 A nice article about Box's transformation and especially that chart contrasting burn v. growth is one of the most important things for any startup to keep in mind.

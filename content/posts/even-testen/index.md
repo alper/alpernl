@@ -11,7 +11,8 @@ tags:
   - huishoudelijk
   - internet
 title: Even testen
-url: /dingen/2007/04/even-testen/
+aliases:
+  - /dingen/2007/04/even-testen/
 
 ---
 Ik heb net de onnavolgbare voetnoten plugin gedownload en geïnstalleerd op dit blog ((En wel [hiervandaan](http://www.elvery.net/drzax/more-things/wordpress-footnotes-plugin/).)).

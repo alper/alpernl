@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1473
 parent_post_id: null
 post_id: "1473"
 title: New disciplines for a real-time data world
-url: /dingen/2010/04/new-disciplines-for-a-real-time-data-world/
+aliases:
+  - /dingen/2010/04/new-disciplines-for-a-real-time-data-world/
 
 ---
 Some posts that had been sitting in my browser tabs for a while combined together in a brand new job guide for 2010. You can also read this as a follow-up post to my previous post on [Why developers are important](/dingen/2009/12/developers-are-so-important/), this is which developers are important. This post has been lying in my drafts folder for a while, but it has actually only become more relevant.

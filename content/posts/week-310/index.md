@@ -20,7 +20,8 @@ post_id: "4346"
 tags:
   - weeknotes
 title: Week 310
-url: /dingen/2013/02/week-310/
+aliases:
+  - /dingen/2013/02/week-310/
 
 ---
 http://twitter.com/thornet/status/303586923719557122

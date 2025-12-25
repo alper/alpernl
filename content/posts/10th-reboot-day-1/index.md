@@ -14,7 +14,8 @@ post_id: "317"
 tags:
   - uncategorized
 title: 10th Reboot - day 1
-url: /dingen/2008/06/10th-reboot-day-1/
+aliases:
+  - /dingen/2008/06/10th-reboot-day-1/
 
 ---
 [Reboot 10](http://reboot.dk) is over and in my experience they simply get better every year.

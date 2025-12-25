@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1090
 parent_post_id: null
 post_id: "1090"
 title: Rebooted
-url: /dingen/2009/07/rebooted/
+aliases:
+  - /dingen/2009/07/rebooted/
 
 ---
 Last week I got Rebooted in Copenhagen again. Drove up with [Peter](http://www.flickr.com/photos/alper/3676235876/in/set-72157620636875097/) and [Iskander](http://www.flickr.com/photos/alper/3676238350/in/set-72157620636875097/).

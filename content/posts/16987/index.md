@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16987
 parent_post_id: null
 post_id: "16987"
 title: ""
-url: /dingen/2023/01/16987/
+aliases:
+  - /dingen/2023/01/16987/
 
 ---
 Just to file this for my receipts here. Marina Weisband asks whether you would build a website for a small organization using Wix.

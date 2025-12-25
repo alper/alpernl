@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=6069
 parent_post_id: null
 post_id: "6069"
 title: Blitzkrieg Tactics Translated
-url: /dingen/2018/11/blitzkrieg-tactics-translated/
+aliases:
+  - /dingen/2018/11/blitzkrieg-tactics-translated/
 
 ---
 The tactics employed during the Blitzkrieg are those of highly agile manoeuvre warfare. They are:

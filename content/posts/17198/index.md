@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17198
 parent_post_id: null
 post_id: "17198"
 title: ""
-url: /dingen/2023/06/17198/
+aliases:
+  - /dingen/2023/06/17198/
 
 ---
 I had a really bad time getting into #Nix but I used my onboarding experience to fork and update a well-known community resource so it can be used again.

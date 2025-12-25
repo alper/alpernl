@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16972
 parent_post_id: null
 post_id: "16972"
 title: ""
-url: /dingen/2023/01/16972/
+aliases:
+  - /dingen/2023/01/16972/
 
 ---
 Leuke aflevering met Menno en Wimer over de lange en rijke geschiedenis van hun bureau Booreiland en de volgende stap die ze nu zetten.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15871
 parent_post_id: null
 post_id: "15871"
 title: ""
-url: /dingen/2019/11/15871/
+aliases:
+  - /dingen/2019/11/15871/
 
 ---
 Turns out large parts of science and popular science are all contaminated by Epstein. Evgeny Morozov reveals his part and extricates himself.

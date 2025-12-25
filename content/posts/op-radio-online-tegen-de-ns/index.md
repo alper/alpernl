@@ -17,7 +17,8 @@ guid: http://alper.nl/dingen/?p=865
 parent_post_id: null
 post_id: "865"
 title: Op Radio Online tegen de NS
-url: /dingen/2009/03/op-radio-online-tegen-de-ns/
+aliases:
+  - /dingen/2009/03/op-radio-online-tegen-de-ns/
 
 ---
 Ik was [gisteren dus op Radio Online](http://www.radio-online.nl/pivot/entry.php?id=1836) ((Ik mocht het van tevoren niet echt Twitteren wat ik toch een beetje gek vind.)) ( [audio](http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20090321-17.wma?start=25:21)) waar ik [een kritiek](/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/) mocht uiten tegen de strategie van de [NS](http://www.ns.nl) van het niet vrijgeven van de vervoersgegevens.

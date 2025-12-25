@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15168
 parent_post_id: null
 post_id: "15168"
 title: ""
-url: /dingen/2019/02/15168/
+aliases:
+  - /dingen/2019/02/15168/
 
 ---
 A comprehensive list of the challenges for agile development in enterprise environments with the solutions included for immediate implementation.

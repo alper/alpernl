@@ -8,7 +8,8 @@ tags:
   - economie
   - televisie
 title: High Grade Structured Credit Enhanced Leverage Fund
-url: /dingen/2008/02/high-grade-structured-credit-enhanced-leverage-fund/
+aliases:
+  - /dingen/2008/02/high-grade-structured-credit-enhanced-leverage-fund/
 
 ---
 De subprime-crisis uitgelegd door Britse experts. Het zou grappig zijn als het niet waar was.

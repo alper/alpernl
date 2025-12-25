@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16608
 parent_post_id: null
 post_id: "16608"
 title: Barrels and Ammunition
-url: /dingen/2021/10/barrels-and-ammunition/
+aliases:
+  - /dingen/2021/10/barrels-and-ammunition/
 
 ---
 I keep referring back to this distinction which though coarse remains extremely useful. The barrel-like qualities of Understand, Ideate, Take Initiative, Recruit Others, Deliver Results can definitely be nurtured in people.

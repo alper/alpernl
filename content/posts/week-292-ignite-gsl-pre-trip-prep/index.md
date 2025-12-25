@@ -13,7 +13,8 @@ post_id: "3971"
 tags:
   - weeknotes
 title: 'Week 292: Ignite, GSL, pre-trip prep'
-url: /dingen/2012/10/week-292-ignite-gsl-pre-trip-prep/
+aliases:
+  - /dingen/2012/10/week-292-ignite-gsl-pre-trip-prep/
 
 ---
 I'm sitting here at [Beijing Airport](http://en.bcia.com.cn/) writing these too late weeknotes on their free WiFi ((Also: it is nice to still have a blog in a country where most social services are effectively a SPOF.)) which is an oddly implemented but still excellent service.

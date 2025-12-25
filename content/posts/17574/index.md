@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17574
 parent_post_id: null
 post_id: "17574"
 title: ""
-url: /dingen/2024/08/17574/
+aliases:
+  - /dingen/2024/08/17574/
 
 ---
 Coffee is already incredibly under pressure due to climate change. The last thing it needs is well meaning but harmful legislative burdens from the EU.

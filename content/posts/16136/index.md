@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16136
 parent_post_id: null
 post_id: "16136"
 title: ""
-url: /dingen/2020/07/16136/
+aliases:
+  - /dingen/2020/07/16136/
 
 ---
 Not just one thing that every dev should know but a bag full of hard won non-technical multipliers that will improve all of your interactions in this podcast episode with Jesica Kerr.

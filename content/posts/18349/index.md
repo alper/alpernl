@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18349
 parent_post_id: null
 post_id: "18349"
 title: ""
-url: /dingen/2025/09/18349/
+aliases:
+  - /dingen/2025/09/18349/
 
 ---
 At some point you have to ask yourself how many predators work at Meta. They seem hell bent on targeting children. You don't have to be a predator to work at Meta but it helps.

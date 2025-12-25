@@ -10,7 +10,8 @@ tags:
   - filosofie
   - reading
 title: De Profeet
-url: /dingen/2007/08/de-profeet/
+aliases:
+  - /dingen/2007/08/de-profeet/
 
 ---
 Maandag [The Prophet](http://leb.net/gibran/works/prophet/prophet.html) van [Khalil Gibran](http://en.wikipedia.org/wiki/Khalil_Gibran) uitgelezen. Aardige teksten en immens quotebaar. Hier twee:

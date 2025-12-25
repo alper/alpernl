@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1279
 parent_post_id: null
 post_id: "1279"
 title: Wappie rond Antwerpen
-url: /dingen/2009/10/wappie-rond-antwerpen/
+aliases:
+  - /dingen/2009/10/wappie-rond-antwerpen/
 
 ---
 De laatste paar dagen meer en meer op [StuBru](http://www.stubru.be) berichten over BAM ((Beheersmaatschappij Antwerpen Mobiel)) en dat schijnt te maken te hebben met de voorgenomen sluiting van de ring R1 rond Antwerpen. Vandaag lees ik [de stellingname van Pietel](http://www.pietel.be/delangewapper) die me heel terecht lijkt, kiezen voor leefbaarheid en geen verkeerschaos over de stad trekken.

@@ -11,7 +11,8 @@ tags:
   - movies
   - tu-delft
 title: A bag fitting for your life
-url: /dingen/2007/06/a-bag-fitting-for-your-life/
+aliases:
+  - /dingen/2007/06/a-bag-fitting-for-your-life/
 
 ---
 Treffende one liners, spectaculaire actie en wat gebeurt er toch rond tijdsindex 0:24?

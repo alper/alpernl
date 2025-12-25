@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17527
 parent_post_id: null
 post_id: "17527"
 title: ""
-url: /dingen/2024/04/17527/
+aliases:
+  - /dingen/2024/04/17527/
 
 ---
 > A third truth is that we have a generation in crisis and in desperate need of the best of what science and evidence-based solutions can offer. Unfortunately, our time is being spent telling stories that are unsupported by research and that do little to support young people who need, and deserve, more.

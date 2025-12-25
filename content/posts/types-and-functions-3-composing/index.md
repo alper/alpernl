@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15857
 parent_post_id: null
 post_id: "15857"
 title: 'Types and Functions 3: Composing'
-url: /dingen/2019/11/types-and-functions-3-composing/
+aliases:
+  - /dingen/2019/11/types-and-functions-3-composing/
 
 ---
 Then we get at [Chapter 05: Composing](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch05.html) and I really don't understand the need to faff around so much when it comes to such a mathematically simple subject.

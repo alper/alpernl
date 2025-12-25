@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=6056
 parent_post_id: null
 post_id: "6056"
 title: Highlights for The Parent's Tao Te Ching
-url: /dingen/2018/09/highlights-for-the-parents-tao-te-ching/
+aliases:
+  - /dingen/2018/09/highlights-for-the-parents-tao-te-ching/
 
 ---
 > Call birth, “birth,”and death, “death,”without seeing one as good and the other as evil and your children will be at home with life.

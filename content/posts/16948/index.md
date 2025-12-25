@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16948
 parent_post_id: null
 post_id: "16948"
 title: ""
-url: /dingen/2023/01/16948/
+aliases:
+  - /dingen/2023/01/16948/
 
 ---
 Why am I not surprised that somebody like Marc Andreessen would be a NIMBY while at the same time being a hypocrite?

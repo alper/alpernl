@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2268
 parent_post_id: null
 post_id: "2268"
 title: Real Time Bushalte
-url: /dingen/2010/11/real-time-bushalte/
+aliases:
+  - /dingen/2010/11/real-time-bushalte/
 
 ---
 In Seoul hebben ze deze weergave draaien van buslijnen en wanneer ze bij de halte aankomen:

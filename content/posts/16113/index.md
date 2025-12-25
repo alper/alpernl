@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=16113
 parent_post_id: null
 post_id: "16113"
 title: ""
-url: /dingen/2020/06/16113/
+aliases:
+  - /dingen/2020/06/16113/
 
 ---
 Challengers are great if they carry both sets of qualities: both questioning and delivering.

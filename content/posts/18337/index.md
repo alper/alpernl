@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18337
 parent_post_id: null
 post_id: "18337"
 title: ""
-url: /dingen/2025/09/18337/
+aliases:
+  - /dingen/2025/09/18337/
 
 ---
 We're seeing increasingly more posts about jj coming out and I can't repeat enough that it is totally worth switching away from git.

@@ -11,7 +11,8 @@ tags:
   - evenement
   - feest
 title: Braziliaans Festival Capoeira Liberdade
-url: /dingen/2007/05/braziliaans-festival-capoeira-liberdade/
+aliases:
+  - /dingen/2007/05/braziliaans-festival-capoeira-liberdade/
 
 ---
 Ik heb net even [het persbericht](http://www.liberdade.nl/batizado2007/persbericht.html) online gezet.

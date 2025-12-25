@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17444
 parent_post_id: null
 post_id: "17444"
 title: ""
-url: /dingen/2024/03/17444/
+aliases:
+  - /dingen/2024/03/17444/
 
 ---
 Spotify should be very heavily fined for funding and spreading misinformation like the stuff on the Joe Rogan podcast.

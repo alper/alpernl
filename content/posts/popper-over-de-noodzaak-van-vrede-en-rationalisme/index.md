@@ -13,7 +13,8 @@ tags:
   - politiek
   - reading
 title: Popper over de noodzaak van vrede en rationalisme
-url: /dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/
+aliases:
+  - /dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/
 
 ---
 In het hoofdstuk 'Waging Wars for Peace' ((Een interview van Popper voor Der Spiegel in 1992)) legt Popper uit dat het ons gerechtvaardigd is om desnoods geweld te gebruiken en oorlog te voeren als we de verspreiding en het gebruik van kernwapens maar kunnen tegengaan.

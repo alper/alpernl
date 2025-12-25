@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15713
 parent_post_id: null
 post_id: "15713"
 title: ""
-url: /dingen/2019/09/15713/
+aliases:
+  - /dingen/2019/09/15713/
 
 ---
 This piece by Arthur C. Brooks about professional decline, touching on Hinduism, Buddhism and many many more things is quite something.

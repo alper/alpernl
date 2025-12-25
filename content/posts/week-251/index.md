@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=3236
 parent_post_id: null
 post_id: "3236"
 title: Week 251
-url: /dingen/2012/01/week-251/
+aliases:
+  - /dingen/2012/01/week-251/
 
 ---
 [![Dropped in for a bit at the Wostel](http://farm8.staticflickr.com/7171/6619859985_98b3085eda.jpg)](http://www.flickr.com/photos/alper/6619859985/ "Dropped in for a bit at the Wostel by illustir, on Flickr")

@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16970
 parent_post_id: null
 post_id: "16970"
 title: ""
-url: /dingen/2023/01/16970/
+aliases:
+  - /dingen/2023/01/16970/
 
 ---
 The Engineering Enablement podcast has been good to listen to—if a bit anodyne. The recent episode I listened to with Jeremiah Lee about Spotify's massively popular but failed org structure was really fun and useful.

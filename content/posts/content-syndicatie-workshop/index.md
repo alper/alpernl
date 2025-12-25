@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1297
 parent_post_id: null
 post_id: "1297"
 title: Content Syndicatie Workshop
-url: /dingen/2009/10/content-syndicatie-workshop/
+aliases:
+  - /dingen/2009/10/content-syndicatie-workshop/
 
 ---
 Vorige week een presentatie gegeven als ‘expert’ op het gebied van Content Syndicatie. Laten we er maar voor zorgen dat het beter gaat, dat scheelt voor heel veel mensen in de toekomst een hoop frustratie.

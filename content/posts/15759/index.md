@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15759
 parent_post_id: null
 post_id: "15759"
 title: ""
-url: /dingen/2019/10/15759/
+aliases:
+  - /dingen/2019/10/15759/
 
 ---
 Having gone through these myself, it's good to see this planning framework that is at the same time high level and immediately deployable.

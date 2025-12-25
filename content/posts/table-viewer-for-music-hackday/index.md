@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=1744
 parent_post_id: null
 post_id: "1744"
 title: Table Viewer for Music Hackday
-url: /dingen/2010/04/table-viewer-for-music-hackday/
+aliases:
+  - /dingen/2010/04/table-viewer-for-music-hackday/
 
 ---
 This entire weekend was taken up by [Amsterdam Music Hackday](http://amsterdam.musichackday.org/) for which [Alex](http://twitter.com/dmos), [Dirk](http://twitter.com/dvbosch) and [I](http://twitter.com/alper) had planned to build a prototype version of a surface table projector for music discovery.

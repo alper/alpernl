@@ -13,7 +13,8 @@ post_id: "1997"
 tags:
   - weeknotes
 title: Weeknotes 175
-url: /dingen/2010/07/weeknotes-175/
+aliases:
+  - /dingen/2010/07/weeknotes-175/
 
 ---
 A quick one.

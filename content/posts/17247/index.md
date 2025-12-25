@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17247
 parent_post_id: null
 post_id: "17247"
 title: ""
-url: /dingen/2023/08/17247/
+aliases:
+  - /dingen/2023/08/17247/
 
 ---
 It's interesting to see how the dynamics of Indian society influence the tech industry globally and it's very useful to learn more about it.

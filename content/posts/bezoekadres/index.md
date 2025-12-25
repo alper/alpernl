@@ -9,7 +9,8 @@ post_id: "202"
 tags:
   - huis
 title: Bezoekadres
-url: /dingen/2007/12/bezoekadres/
+aliases:
+  - /dingen/2007/12/bezoekadres/
 
 ---
 Zojuist weer bezoek gehad, en het is voor de mensen nog steeds moeilijk om mijn huis te vinden. Om dit probleem in de toekomst voor te zijn heb ik een Google Map gemaakt met daarin de locatie en bereikbaarheid van mijn huis:

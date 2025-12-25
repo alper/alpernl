@@ -14,7 +14,8 @@ post_id: "3009"
 tags:
   - weeknotes
 title: Week 238
-url: /dingen/2011/10/week-238/
+aliases:
+  - /dingen/2011/10/week-238/
 
 ---
 [![Blit Alper](http://farm7.static.flickr.com/6161/6207728352_3b7a1be7ce_m.jpg)](http://www.flickr.com/photos/alper/6207728352/ "Blit Alper by illustir, on Flickr")

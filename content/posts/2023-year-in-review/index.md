@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17382
 parent_post_id: null
 post_id: "17382"
 title: 2023 Year in Review
-url: /dingen/2024/01/2023-year-in-review/
+aliases:
+  - /dingen/2024/01/2023-year-in-review/
 
 ---
 Looking back on 2023 I can say that we made lemonade out of an overall pretty shit year.

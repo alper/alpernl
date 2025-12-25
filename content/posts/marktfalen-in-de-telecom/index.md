@@ -15,7 +15,8 @@ tags:
   - overheid
   - uncategorized
 title: Marktfalen in de telecom
-url: /dingen/2007/08/marktfalen-in-de-telecom/
+aliases:
+  - /dingen/2007/08/marktfalen-in-de-telecom/
 
 ---
 [Berichtje in de Parool](http://www.parool.nl/nieuws/2007/AUG/01/eco2.html) van iets wat natuurlijk al veel langer bekend is. Als je dataverkeer verbruikt in het buitenland dan betaal je je compleet scheel aan roaming mobiele data rates. En je hoeft er [niet eens voor](http://www.marketingfacts.nl/berichten/20070215_vodafone_hsdpa_niet_doen/) naar het buitenland ((Dat bericht over Vodafone leidde toen geloof ik nog tot een aardig staaltje belangenverstrengeling.)).

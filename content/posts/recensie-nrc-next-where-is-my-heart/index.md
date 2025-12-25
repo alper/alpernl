@@ -13,7 +13,8 @@ post_id: "4089"
 tags:
   - nrcnext
 title: 'Recensie nrc.next: Where Is My Heart?'
-url: /dingen/2013/01/recensie-nrc-next-where-is-my-heart/
+aliases:
+  - /dingen/2013/01/recensie-nrc-next-where-is-my-heart/
 
 ---
 Recensie verschenen in de [nrc.next](http://www.nrcnext.nl/) ergens in december 2011:

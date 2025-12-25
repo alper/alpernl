@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16490
 parent_post_id: null
 post_id: "16490"
 title: ""
-url: /dingen/2021/04/16490/
+aliases:
+  - /dingen/2021/04/16490/
 
 ---
 Figuring out how to onboard yourself in a remote world is something that's directly pertinent to me since I'm starting a new job right now. The content is very much the same but it's still quite a different experience.

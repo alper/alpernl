@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16296
 parent_post_id: null
 post_id: "16296"
 title: ""
-url: /dingen/2020/09/16296/
+aliases:
+  - /dingen/2020/09/16296/
 
 ---
 An introduction on how to measure and improve your engineering organization's performance using delivery metrics.

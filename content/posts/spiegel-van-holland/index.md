@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2150
 parent_post_id: null
 post_id: "2150"
 title: Spiegel van Holland
-url: /dingen/2010/09/spiegel-van-holland/
+aliases:
+  - /dingen/2010/09/spiegel-van-holland/
 
 ---
 Gisteren een potje Stereoscoop gespeeld op de Neude in Utrecht en daar een gigantische buit binnengehaald. Deze badges staan nu [op mijn profiel te prijken](http://playpilots.nl/players/25/):

@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18166
 parent_post_id: null
 post_id: "18166"
 title: ""
-url: /dingen/2025/03/18166/
+aliases:
+  - /dingen/2025/03/18166/
 
 ---
 > “When you have a more well-rounded life, it doesn’t take away, it doesn’t distract you as an athlete,” Courtney told him. “It makes you stronger and better. And able to have a clear head when you get the opportunity to line up…I bring who I am to the bike. But the bike does not make me who I am.”

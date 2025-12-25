@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15563
 parent_post_id: null
 post_id: "15563"
 title: ""
-url: /dingen/2019/07/15563/
+aliases:
+  - /dingen/2019/07/15563/
 
 ---
 Leaving this here because I'm going to need it more often:

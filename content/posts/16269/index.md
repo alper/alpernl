@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16269
 parent_post_id: null
 post_id: "16269"
 title: ""
-url: /dingen/2020/09/16269/
+aliases:
+  - /dingen/2020/09/16269/
 
 ---
 A funny German interview with Ben Hammersley on the surface about laziness and productivity but what is a much more current strand to pull on is the ability to systematize large parts of our quotidian life and work.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4738
 parent_post_id: null
 post_id: "4738"
 title: Apply your philosophy
-url: /dingen/2013/08/apply-your-philosophy/
+aliases:
+  - /dingen/2013/08/apply-your-philosophy/
 
 ---
 I've been on something of an applied philosophy ((I'm not a big fan of the other kind.)) binge recently and after almost finishing [“Boyd: The Fighter Pilot Who Changed the Art of War”](http://www.amazon.de/Boyd-The-Fighter-Pilot-Changed/dp/0316796883/ref=sr_1_1?ie=UTF8&qid=1376991962&sr=8-1&keywords=Boyd%3A+The+Fighter+Pilot+Who+Changed+the+Art+of+War) ((This is actually a biography and not exactly the kind of book I was looking for but it provides a good overview of the various disciplines that Boyd influenced. I will have to and will read the PhD thesis “Science Strategy and War”by Frans Osinga for the in depth treatment of his theories.)) I am now starting to read [Aramis](http://www.goodreads.com/book/show/667397.Aramis_or_the_Love_of_Technology) which Latour opens with:

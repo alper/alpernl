@@ -12,7 +12,8 @@ post_id: "298"
 tags:
   - uncategorized
 title: Fiesta Brasileira!
-url: /dingen/2008/05/fiesta-brasileira/
+aliases:
+  - /dingen/2008/05/fiesta-brasileira/
 
 ---
 Het is weer zover! Het jaarlijkse vetste Braziliaanse feest in de grootste disco van Delft komt er weer aan. Vorig jaar was het al een bijzonder geslaagde editie met een vol huis en adembenemende capoeira en afro-brazil acts, dit jaar belooft minstens net zo cool te worden.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18289
 parent_post_id: null
 post_id: "18289"
 title: ""
-url: /dingen/2025/08/18289/
+aliases:
+  - /dingen/2025/08/18289/
 
 ---
 A very cool and simple introduction into Lean and what makes it interesting. I'm not sure exactly what draws people in this direction but it's cool to see the progress that's being made here.

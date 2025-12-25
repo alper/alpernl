@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5676
 parent_post_id: null
 post_id: "5676"
 title: Highlights from The Dictator's Handbook
-url: /dingen/2017/01/notes-from-the-dictators-handbook/
+aliases:
+  - /dingen/2017/01/notes-from-the-dictators-handbook/
 
 ---
 > "In fact, bad behavior is more often than not good politics."

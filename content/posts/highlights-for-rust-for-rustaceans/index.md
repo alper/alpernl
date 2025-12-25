@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16749
 parent_post_id: null
 post_id: "16749"
 title: Highlights for Rust for Rustaceans
-url: /dingen/2022/03/highlights-for-rust-for-rustaceans/
+aliases:
+  - /dingen/2022/03/highlights-for-rust-for-rustaceans/
 
 ---
 > For example, there cannot be two parallel flows with mutable access to a value. Nor can there be a flow that borrows a value while there is no flow that owns the value.

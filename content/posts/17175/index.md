@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17175
 parent_post_id: null
 post_id: "17175"
 title: ""
-url: /dingen/2023/04/17175/
+aliases:
+  - /dingen/2023/04/17175/
 
 ---
 Ik weet nog dat bij elk bezoek aan Hilversum het duidelijk was dat de mensen daar geen idee hebben van wat er buiten Hilversum gebeurt. Grappig om te lezen dat dat nog steeds zo is.

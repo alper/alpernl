@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4073
 parent_post_id: null
 post_id: "4073"
 title: 'SZ: Echoes of chatter'
-url: /dingen/2012/12/sz-echoes-of-chatter/
+aliases:
+  - /dingen/2012/12/sz-echoes-of-chatter/
 
 ---
 I'm sitting in the train and get passed [a link to a piece from Süddeutsche Zeitung](http://www.sueddeutsche.de/digital/kommunikation-im-internet-das-echo-der-geschwaetzigkeit-1.1557367) about the internet and its sharing culture. This being my more-or-less favorite German newspaper, I dig into it expecting it to yield a solid piece of thought that will cause me to reflect on my online behaviour.

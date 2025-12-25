@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16317
 parent_post_id: null
 post_id: "16317"
 title: ""
-url: /dingen/2020/09/16317/
+aliases:
+  - /dingen/2020/09/16317/
 
 ---
 I thought [I had problems with my Instagram account](/dingen/2020/08/losing-firstname-on-instagram/). Turns out it can be a lot worse than that.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1057
 parent_post_id: null
 post_id: "1057"
 title: Bewakers van de journalistiek
-url: /dingen/2009/06/bewakers-van-de-journalistiek/
+aliases:
+  - /dingen/2009/06/bewakers-van-de-journalistiek/
 
 ---
 Het Britse parlement heeft als antwoord op de onkostenaffaire 700'000 documenten vrijgegeven met daarin alle uitgaven van de MPs. Normaal gesproken zou dat een maatregel zijn waarmee een volledig onderzoek naar de uitgaven getraineerd wordt. Wie gaat er nou 700'000 documenten bekijken? Journalisten zouden misschien wat bekende politici doorlichten of steekproefsgewijs wat bekijken.

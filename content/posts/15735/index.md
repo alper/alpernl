@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15735
 parent_post_id: null
 post_id: "15735"
 title: ""
-url: /dingen/2019/09/15735/
+aliases:
+  - /dingen/2019/09/15735/
 
 ---
 My colleague Jiro Minier is featured in the Dahrendorf Foresight Project on European Security with a scenario that is both dystopian and scarily prescient. I read it as a call for more European collaboration and investment.

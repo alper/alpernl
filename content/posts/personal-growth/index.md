@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15413
 parent_post_id: null
 post_id: "15413"
 title: Personal Growth
-url: /dingen/2019/05/personal-growth/
+aliases:
+  - /dingen/2019/05/personal-growth/
 
 ---
 Venkat's [newsletter](https://breakingsmart.com/en/season-1-newsletter-archive/) “Life Spirit Distillation”has a nice argument against personal growth and instead in favor of life intensification reframing the question into:

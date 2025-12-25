@@ -13,7 +13,8 @@ post_id: "2713"
 tags:
   - weeknotes
 title: Week 225
-url: /dingen/2011/07/week-225/
+aliases:
+  - /dingen/2011/07/week-225/
 
 ---
 Last Monday I paid an information architecture house call at a friend at one of the beleaguered (a somewhat redundant word when discussing print publications here) Dutch weeklies. Looking forward to advice taken to heart and maybe some online Dutch media that I can consume with pleasure.

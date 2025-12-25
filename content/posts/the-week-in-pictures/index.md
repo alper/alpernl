@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=980
 parent_post_id: null
 post_id: "980"
 title: The week in pictures
-url: /dingen/2009/05/the-week-in-pictures/
+aliases:
+  - /dingen/2009/05/the-week-in-pictures/
 
 ---
 [![Richard Avedon - FOAM](http://farm4.static.flickr.com/3402/3524365247_e2ba4b4c9f.jpg)](http://www.flickr.com/photos/alper/3524365247/ "Richard Avedon - FOAM by illustir, on Flickr")

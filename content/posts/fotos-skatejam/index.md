@@ -11,7 +11,8 @@ tags:
   - evenement
   - fotografie
 title: Foto's Skatejam
-url: /dingen/2007/10/fotos-skatejam/
+aliases:
+  - /dingen/2007/10/fotos-skatejam/
 
 ---
 Mijn naam verkeerd maar [mijn foto's staan op de site](http://www.skatejamdelft.nl/2007/fotos.php) van Skatejam Delft samen met die van de anderen ((Ik zag ook iemand shieten met een Hasselblad. Naar die foto's ben ik eigenlijk nog wel benieuwder.)). Ik vind het alleen jammer dat ik maar een uurtje op het event heb kunnen schieten en niet alle onderdelen af kon gaan.

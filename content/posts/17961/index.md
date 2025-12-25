@@ -18,7 +18,8 @@ guid: https://alper.nl/dingen/?p=17961
 parent_post_id: null
 post_id: "17961"
 title: ""
-url: /dingen/2025/01/17961/
+aliases:
+  - /dingen/2025/01/17961/
 
 ---
 [Trashfuture](https://trashfuture.co.uk) were really cooking when they taped "The Sulla of Suburbia" with Patrick Wyman.

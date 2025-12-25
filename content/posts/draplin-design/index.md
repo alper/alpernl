@@ -20,7 +20,8 @@ tags:
   - uncategorized
   - video
 title: Draplin Design
-url: /dingen/2008/07/draplin-design/
+aliases:
+  - /dingen/2008/07/draplin-design/
 
 ---
 I got a link to [this video](http://www.jessgibson.com/videos/Draplin_America_is_fucked_newFINAL.mov) from somewhere and it is priceless. It prompted me to do some research and I found [an interview](http://www.hearhear.us/articles/2007/06/24/an-interview-with-draplin-design-co) which confirms that that Aaron Draplin guy is awesome and does really cool work.

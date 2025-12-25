@@ -12,7 +12,8 @@ tags:
   - macbook
   - reading
 title: Macbook ingeleverd
-url: /dingen/2007/05/macbook-ingeleverd/
+aliases:
+  - /dingen/2007/05/macbook-ingeleverd/
 
 ---
 Ik heb vanochtend vroeg ((Erg verdomde vroeg als je vier uur slaapt.)) mijn Macbook ingeleverd bij [LJS](http://www.ljs.nl) op de Lutherse Burgwal. Daarna koffie gedronken in Florencia, grappige tent en aparte interpretatie van het concept cappuccino.

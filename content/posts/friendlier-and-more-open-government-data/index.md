@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1083
 parent_post_id: null
 post_id: "1083"
 title: Friendlier and more open government data
-url: /dingen/2009/06/friendlier-and-more-open-government-data/
+aliases:
+  - /dingen/2009/06/friendlier-and-more-open-government-data/
 
 ---
 _This is an English rewording of [a post in Dutch](/dingen/2009/06/overheidsgegevens-opener-en-vriendelijker/) earlier this week just in time for [this Reboot session](http://www.reboot.dk/page/21801/en)._

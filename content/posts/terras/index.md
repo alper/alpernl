@@ -11,7 +11,8 @@ post_id: "302"
 tags:
   - drinken
 title: Terras
-url: /dingen/2008/05/terras/
+aliases:
+  - /dingen/2008/05/terras/
 
 ---
 [![Chance Encounter](http://farm4.static.flickr.com/3064/2520547781_62720be6f3.jpg)](http://www.flickr.com/photos/alper/2520547781/ "Chance Encounter by illustir, on Flickr")

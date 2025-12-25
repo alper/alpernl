@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18281
 parent_post_id: null
 post_id: "18281"
 title: ""
-url: /dingen/2025/07/18281/
+aliases:
+  - /dingen/2025/07/18281/
 
 ---
 Solvers are very annoying to setup and plug your problem into if you're using them regularly. That's why hooking them into LLMs to do the annoying manipulation work is an amazing idea.

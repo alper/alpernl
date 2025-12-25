@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3893
 parent_post_id: null
 post_id: "3893"
 title: Highlights from Common Sense
-url: /dingen/2012/10/highlights-from-common-sense/
+aliases:
+  - /dingen/2012/10/highlights-from-common-sense/
 
 ---
 I read this pamphlet (at [Gutenberg](http://www.gutenberg.org/ebooks/3755)) by [Thomas Paine](http://en.wikipedia.org/wiki/Thomas_Paine) a while back on a mountain. However short it may be it packs a massive punch and is brimful with powerful rhetoric. It also contains a rather definitive argument against monarchy. Highly recommended.

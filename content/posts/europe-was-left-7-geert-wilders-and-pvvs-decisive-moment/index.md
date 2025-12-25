@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5740
 parent_post_id: null
 post_id: "5740"
 title: 'Europe Was Left #7 - Geert Wilders and PVV''s Decisive Moment'
-url: /dingen/2017/03/europe-was-left-7-geert-wilders-and-pvvs-decisive-moment/
+aliases:
+  - /dingen/2017/03/europe-was-left-7-geert-wilders-and-pvvs-decisive-moment/
 
 ---
 \[soundcloud url="https://api.soundcloud.com/tracks/308750042" params="auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&visual=true" width="100%" height="450" iframe="true" /\]

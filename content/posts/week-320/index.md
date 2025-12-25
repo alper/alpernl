@@ -12,7 +12,8 @@ post_id: "4540"
 tags:
   - weeknotes
 title: Week 320
-url: /dingen/2013/05/week-320/
+aliases:
+  - /dingen/2013/05/week-320/
 
 ---
 The week before last started out with me still in Paris sampling the local coffee scene which has been improving massively over the past year or so.

@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: Vliegen van hot naar her
-url: /dingen/2007/07/vliegen-van-hot-naar-her/
+aliases:
+  - /dingen/2007/07/vliegen-van-hot-naar-her/
 
 ---
 Ik heb vandaag de rest van mijn tickets geboekt voor mijn reis half augustus. Het complete schema:

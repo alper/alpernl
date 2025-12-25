@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=658
 parent_post_id: null
 post_id: "658"
 title: Smooth space of payment and mobility
-url: /dingen/2008/12/smooth-space-of-payment-and-mobility/
+aliases:
+  - /dingen/2008/12/smooth-space-of-payment-and-mobility/
 
 ---
 In [this podcast](http://cataspanglish.wordpress.com/2008/12/06/adam-greenfield-human-again/) [Adam Greenfield](http://speedbird.wordpress.com/) talks about everyware and contactless transit payment systems. At time index 15:33 the following question is asked: “But as a New Yorker would you want that to happen?”

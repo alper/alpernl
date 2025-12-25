@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18453
 parent_post_id: null
 post_id: "18453"
 title: ""
-url: /dingen/2025/11/18453/
+aliases:
+  - /dingen/2025/11/18453/
 
 ---
 Spectacular execution of the idea of having a physical terminal through which to input Unicode characters. Real custom keyboard enthusiasts should have one of these on their desk.

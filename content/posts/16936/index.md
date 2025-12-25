@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16936
 parent_post_id: null
 post_id: "16936"
 title: ""
-url: /dingen/2023/01/16936/
+aliases:
+  - /dingen/2023/01/16936/
 
 ---
 Looking at conversations from an improv perspective opens a lot of doors for interesting outcomes. It requires active thinking and leaning into the awkwardness both of which are good skills to practice.

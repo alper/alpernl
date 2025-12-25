@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15566
 parent_post_id: null
 post_id: "15566"
 title: ""
-url: /dingen/2019/07/15566/
+aliases:
+  - /dingen/2019/07/15566/
 
 ---
 Whenever our kids are dismayed by somebody else, they come to us and say that there was either a human (ein Mensch!) or a kid (ein Kind!). No genders, no nothing.

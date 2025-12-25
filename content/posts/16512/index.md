@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16512
 parent_post_id: null
 post_id: "16512"
 title: ""
-url: /dingen/2021/04/16512/
+aliases:
+  - /dingen/2021/04/16512/
 
 ---
 A fun profile on Annalena Bärbock (initials ACAB) the leader of the Greens who could become Germany's next chancellor.

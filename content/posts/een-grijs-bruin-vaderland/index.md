@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2257
 parent_post_id: null
 post_id: "2257"
 title: Een grijs-bruin vaderland
-url: /dingen/2010/10/een-grijs-bruin-vaderland/
+aliases:
+  - /dingen/2010/10/een-grijs-bruin-vaderland/
 
 ---
 Ik schreef een tijdje geleden al bij [mijn foto](http://www.flickr.com/photos/alper/4476314878/) over de [Linkse Hobby](http://www.linksehobby.nu/):

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17809
 parent_post_id: null
 post_id: "17809"
 title: ""
-url: /dingen/2024/12/17809/
+aliases:
+  - /dingen/2024/12/17809/
 
 ---
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)

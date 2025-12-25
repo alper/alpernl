@@ -17,7 +17,8 @@ guid: https://alper.nl/dingen/?p=17043
 parent_post_id: null
 post_id: "17043"
 title: Hey Datenschutz, leave those kids alone
-url: /dingen/2023/02/hey-datenschutz-leave-those-kids-alone/
+aliases:
+  - /dingen/2023/02/hey-datenschutz-leave-those-kids-alone/
 
 ---
 The next bit of insanity has to do with the German Datenschutz nutters. This is a small but virulent group of people who have blown up privacy issues to the point where most of Germany is still afraid to use the internet.

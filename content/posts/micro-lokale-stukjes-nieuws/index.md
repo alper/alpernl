@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1198
 parent_post_id: null
 post_id: "1198"
 title: micro-Lokale stukjes nieuws
-url: /dingen/2009/09/micro-lokale-stukjes-nieuws/
+aliases:
+  - /dingen/2009/09/micro-lokale-stukjes-nieuws/
 
 ---
 Ik zit op mijn balkon in de namiddagzon te bellen met een vriend als op [de kruising Bertrand Russellstraat / Maliebaan](http://maps.google.nl/maps?f=q&source=s_q&hl=nl&geocode=&q=Maliebaan+2,+Amsterdam,+The+Netherlands&sll=52.215653,5.088589&sspn=0.492213,1.003876&ie=UTF8&t=h&z=16&iwloc=A) een fietser geraakt wordt door een auto. Die weg gaat vanaf Julianaplein heuvel af de Maliebaan in en fietsers hebben voorrang op auto's die uit die wijk en vooral uit het kantoorgebouw van Fortis komen maar in de praktijk moet je dondersgoed uitkijken ((Het is een stuk gevaarlijker dan bijvoorbeeld door rood licht fietsen over het Prins Bernhardplein (wat iedereen doet).)).

@@ -15,7 +15,8 @@ tags:
   - photography
   - uncategorized
 title: Some capoeira pictures
-url: /dingen/2008/06/some-capoeira-pictures/
+aliases:
+  - /dingen/2008/06/some-capoeira-pictures/
 
 ---
 It's been a week but I've just gotten around to processing them after the event. Here's a small selection of capoeira pictures:

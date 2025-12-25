@@ -15,7 +15,8 @@ post_id: "2102"
 tags:
   - weeknotes
 title: Week 182
-url: /dingen/2010/09/week-182/
+aliases:
+  - /dingen/2010/09/week-182/
 
 ---
 The belated weeknotes for the last week. My apologies. Another inbetween week, with a ton of events.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2891
 parent_post_id: null
 post_id: "2891"
 title: Apps voor Nederland
-url: /dingen/2011/09/apps-voor-nederland/
+aliases:
+  - /dingen/2011/09/apps-voor-nederland/
 
 ---
 So this was announced: A Netherlands wide apps competition called [Apps voor Nederland](http://www.appsvoornederland.nl/) was [announced by several ministries](http://www.appsvoornederland.nl/nieuws/open-data-is-goed-voor-de-economie) today at [PICNIC](http://picnicnetwork.org/). Minister for the interior [Donner delivered a video message](http://www.rijksoverheid.nl/ministeries/bzk/documenten-en-publicaties/toespraken/2011/09/15/toespraak-minister-donner-bij-de-opening-van-het-open-dataportaal.html) as well.

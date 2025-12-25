@@ -10,7 +10,8 @@ tags:
   - fotografie
   - reizen
 title: Weer terug in Kopenhagen
-url: /dingen/2007/05/weer-terug-in-kopenhagen/
+aliases:
+  - /dingen/2007/05/weer-terug-in-kopenhagen/
 
 ---
 Ik zit tot en met zondag weer in Kopenhagen met oude en nieuwe vrienden op ons aller favoriete conferentie Reboot.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17351
 parent_post_id: null
 post_id: "17351"
 title: ""
-url: /dingen/2023/12/17351/
+aliases:
+  - /dingen/2023/12/17351/
 
 ---
 Dropbox, a famously private file storage service, has shared files from people with OpenAI. I'd normally say this was a dumb move, but this is far far beyond just dumb.

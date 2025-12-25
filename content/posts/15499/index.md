@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15499
 parent_post_id: null
 post_id: "15499"
 title: ""
-url: /dingen/2019/06/15499/
+aliases:
+  - /dingen/2019/06/15499/
 
 ---
 > “It’s no coincidence that co-living start-ups have gravitated to cities like Berlin, San Francisco, London and New York. Ostensibly ‘winning’ the battle for capital and talent, they are urban testing-grounds, where rootless and cashed-up tech workers, heated real estate markets, and rising housing pressures add up to a recipe for experimentation.”

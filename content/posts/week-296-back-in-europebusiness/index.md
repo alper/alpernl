@@ -13,7 +13,8 @@ post_id: "3989"
 tags:
   - weeknotes
 title: 'Week 296: Back in Europe/business'
-url: /dingen/2012/11/week-296-back-in-europebusiness/
+aliases:
+  - /dingen/2012/11/week-296-back-in-europebusiness/
 
 ---
 After some weeks traveling to Beijing and Australia, last week I was back in Europe, touching down in Amsterdam Tuesday morning early. I had a very nice flight in from Sydney with the only annoyance being that my laptop had broken upon arrival there. This made me spend half a day of the two I had there in the [Bondi Apple Store](http://www.apple.com/au/retail/bondi/) trying to figure out what the problem was.

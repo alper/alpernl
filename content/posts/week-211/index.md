@@ -14,7 +14,8 @@ post_id: "2540"
 tags:
   - weeknotes
 title: Week 211
-url: /dingen/2011/04/week-211/
+aliases:
+  - /dingen/2011/04/week-211/
 
 ---
 It looks like the past period of turbulent ascent is over and the plane is going to be level for a bit. That does not mean that there isn't an awful lot of awesome stuff on deck waiting to be published nor that there aren't a bunch of new prospects on the horizon. More on those in due time.

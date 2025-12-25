@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18414
 parent_post_id: null
 post_id: "18414"
 title: ""
-url: /dingen/2025/10/18414/
+aliases:
+  - /dingen/2025/10/18414/
 
 ---
 When comedians say that Silicon Valley CEOs (and Mark Zuckerberg especially) are bitch coded, this is what they mean.

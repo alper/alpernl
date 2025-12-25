@@ -15,7 +15,8 @@ post_id: "2718"
 tags:
   - weeknotes
 title: Week 226
-url: /dingen/2011/07/week-226/
+aliases:
+  - /dingen/2011/07/week-226/
 
 ---
 Last week a bunch of visual progress was made on _culiacán_. Expect an August release on that.

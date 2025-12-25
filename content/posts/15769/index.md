@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15769
 parent_post_id: null
 post_id: "15769"
 title: ""
-url: /dingen/2019/10/15769/
+aliases:
+  - /dingen/2019/10/15769/
 
 ---
 > “But we don’t need a secret police to turn us into atomized, isolated souls. All it takes is for us to stand by while unbridled capitalism rips apart the temporal preserves that used to let us cultivate the seeds of civil society and nurture the sadly fragile shoots of affection, affinity, and solidarity.”

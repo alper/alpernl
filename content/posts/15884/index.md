@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15884
 parent_post_id: null
 post_id: "15884"
 title: ""
-url: /dingen/2019/11/15884/
+aliases:
+  - /dingen/2019/11/15884/
 
 ---
 A short and clear argument for a degrowth economic model based on the British wartime effort: rationing and government control of production goals.

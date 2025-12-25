@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2370
 parent_post_id: null
 post_id: "2370"
 title: Gelezen in 2010
-url: /dingen/2011/01/gelezen-in-2010/
+aliases:
+  - /dingen/2011/01/gelezen-in-2010/
 
 ---
 Naar aanleiding van [dit lijstje van meneer Webb](http://interconnected.org/home/2011/01/01/books_read_in_2010). Ik heb elf boeken uitgelezen in 2010. Schandelijk schamel aantal, ver van de 1 boek per week waar ik naar streef (maar ik heb wél 73 films gezien).

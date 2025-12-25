@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17598
 parent_post_id: null
 post_id: "17598"
 title: ""
-url: /dingen/2024/08/17598/
+aliases:
+  - /dingen/2024/08/17598/
 
 ---
 In the tech world we have a bunch of crypto bag holder VCs backing Trump hoping their investment will then pay off. Nothing to see there other than the moral emptiness expected of these people.

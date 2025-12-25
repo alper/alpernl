@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16693
 parent_post_id: null
 post_id: "16693"
 title: ""
-url: /dingen/2022/01/16693/
+aliases:
+  - /dingen/2022/01/16693/
 
 ---
 That's a very astute observation of the state and culture of the Go programming language. I got out of Go way before I hit anything like this (though the Channel Axioms are something everybody is going to deal with). For me Go is a not very interesting intermediary language between Python and Rust.

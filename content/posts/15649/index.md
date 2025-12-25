@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15649
 parent_post_id: null
 post_id: "15649"
 title: ""
-url: /dingen/2019/09/15649/
+aliases:
+  - /dingen/2019/09/15649/
 
 ---
 I can't get enough of these literary exposés, this one about how Benjamin Moser treats female collaborators and appropriates their work.

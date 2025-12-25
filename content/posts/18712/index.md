@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18712
 parent_post_id: null
 post_id: "18712"
 title: ""
-url: /dingen/2025/12/18712/
+aliases:
+  - /dingen/2025/12/18712/
 
 ---
 "RDS goes down too. And when it does, you're still the one getting paged, you just have fewer tools to fix the problem."

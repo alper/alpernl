@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18406
 parent_post_id: null
 post_id: "18406"
 title: ""
-url: /dingen/2025/10/18406/
+aliases:
+  - /dingen/2025/10/18406/
 
 ---
 I still haven't upgraded to the new iOS and seeing these reports, I'm not sure whether I should.

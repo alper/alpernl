@@ -13,7 +13,8 @@ post_id: "2533"
 tags:
   - weeknotes
 title: Week 210
-url: /dingen/2011/03/week-210/
+aliases:
+  - /dingen/2011/03/week-210/
 
 ---
 [![@machielse Settling in at @ouroffice. Watch out! This guy's a boss.](http://farm6.static.flickr.com/5023/5546738706_d1e2f4132f.jpg)](http://www.flickr.com/photos/alper/5546738706/ "@machielse Settling in at @ouroffice. Watch out! This guy's a boss. by illustir, on Flickr")

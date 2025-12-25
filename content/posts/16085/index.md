@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16085
 parent_post_id: null
 post_id: "16085"
 title: ""
-url: /dingen/2020/05/16085/
+aliases:
+  - /dingen/2020/05/16085/
 
 ---
 A striking reconstruction by Jaap Stronks tracking the Netherlands' faulty COVID strategy and the efforts of a group of activists (with whom I'm loosely associated) to bring to light the discrepancies.

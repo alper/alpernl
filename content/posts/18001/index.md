@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18001
 parent_post_id: null
 post_id: "18001"
 title: ""
-url: /dingen/2025/02/18001/
+aliases:
+  - /dingen/2025/02/18001/
 
 ---
 > Artemis, fostered with Apollo, virgin who delights in arrows, far-shooting goddess, who swiftly drives her all-golden chariot through Smyrna to vine-clad Claros, I ask that you establish a loop counting from ninety-nine to one called beerLoop.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17554
 parent_post_id: null
 post_id: "17554"
 title: ""
-url: /dingen/2024/07/17554/
+aliases:
+  - /dingen/2024/07/17554/
 
 ---
 That popular open source package managers will at some point all get owned is so inevitable that it's hardly worth mentioning.

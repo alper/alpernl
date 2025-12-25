@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1870
 parent_post_id: null
 post_id: "1870"
 title: Experience Zeeburgereiland
-url: /dingen/2010/06/experience-zeeburgereiland/
+aliases:
+  - /dingen/2010/06/experience-zeeburgereiland/
 
 ---
 This week I biked past Zeeburgereiland on my bike route from the Eastern Docks to IJburg and all I saw was completely desolation and this billboard. I had wanted to bike along side the IJ but this part of the city is so unfinished larg pieces of it are inaccessible.

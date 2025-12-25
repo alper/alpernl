@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=540
 parent_post_id: null
 post_id: "540"
 title: Coworking Desk Available
-url: /dingen/2008/10/coworking-desk-available/
+aliases:
+  - /dingen/2008/10/coworking-desk-available/
 
 ---
 At our nice coworking spot [Studio 4 Stagioni](http://studio4stagioni.nl/) we have one or two desks available effective immediately. This poster has been hanging on some select locations around town:

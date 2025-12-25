@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15237
 parent_post_id: null
 post_id: "15237"
 title: ""
-url: /dingen/2019/03/15237/
+aliases:
+  - /dingen/2019/03/15237/
 
 ---
 A good argument that agile leadership is about delegating and divesting decision making power as far down as possible into the informal network.

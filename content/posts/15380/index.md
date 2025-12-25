@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15380
 parent_post_id: null
 post_id: "15380"
 title: ""
-url: /dingen/2019/05/15380/
+aliases:
+  - /dingen/2019/05/15380/
 
 ---
 A Mac app that turns any website into a handy application, another wild app exploration by Morten Just.

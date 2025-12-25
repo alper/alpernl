@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16218
 parent_post_id: null
 post_id: "16218"
 title: ""
-url: /dingen/2020/08/16218/
+aliases:
+  - /dingen/2020/08/16218/
 
 ---
 I think there was another study about psychopathy in high status car drivers but for now this is good enough.

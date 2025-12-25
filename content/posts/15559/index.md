@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15559
 parent_post_id: null
 post_id: "15559"
 title: ""
-url: /dingen/2019/07/15559/
+aliases:
+  - /dingen/2019/07/15559/
 
 ---
 Not to put too fine a point on it, but the media will go to any lengths to ignore Bernie.

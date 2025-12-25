@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17446
 parent_post_id: null
 post_id: "17446"
 title: ""
-url: /dingen/2024/03/17446/
+aliases:
+  - /dingen/2024/03/17446/
 
 ---
 Customer service loops where you are denied access to a human (this includes any kind of AI) should be illegal.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17616
 parent_post_id: null
 post_id: "17616"
 title: ""
-url: /dingen/2024/10/17616/
+aliases:
+  - /dingen/2024/10/17616/
 
 ---
 Of course it takes a Dutch guy, an outsider, to blow the lid off Germany's Nazi Bilionaires. David de Jong is doing great work and the German establishment tries to bury that as much as possible (because they know which side their bread is buttered on).

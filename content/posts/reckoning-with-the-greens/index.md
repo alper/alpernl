@@ -24,7 +24,8 @@ guid: https://alper.nl/dingen/?p=17567
 parent_post_id: null
 post_id: "17567"
 title: Reckoning with the Greens
-url: /dingen/2024/10/reckoning-with-the-greens/
+aliases:
+  - /dingen/2024/10/reckoning-with-the-greens/
 
 ---
 After some occasional brushes with party politics and reading up on the minimal political agency that we foreigners get here, I dove in. The rise of right-wing sentiment seemed to be a good reason to become a member of the Greens just like I imagine it did for a number of people. Much good that did do if you see the continued rise of that sentiment and this Green government all but enabling right-wing parties with their politics of austerity.

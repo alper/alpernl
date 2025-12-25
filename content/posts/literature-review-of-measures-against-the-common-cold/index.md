@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17408
 parent_post_id: null
 post_id: "17408"
 title: Literature review of measures against the common cold
-url: /dingen/2024/01/literature-review-of-measures-against-the-common-cold/
+aliases:
+  - /dingen/2024/01/literature-review-of-measures-against-the-common-cold/
 
 ---
 I refer to this piece of writing regularly:

@@ -12,7 +12,8 @@ tags:
   - corruptie
   - overheid
 title: Digibewust maar beter voor de leverancier dan de afnemer
-url: /dingen/2007/07/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/
+aliases:
+  - /dingen/2007/07/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/
 
 ---
 Ik zag net op het nieuws (!) een reclame voor de campagne [Digibewust](http://www.digibewust.nl/) van de overheid. Toen heb ik voor de grap de test [Digibarometer](http://www.digibarometer.nl/) maar ingevuld.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17187
 parent_post_id: null
 post_id: "17187"
 title: ""
-url: /dingen/2023/05/17187/
+aliases:
+  - /dingen/2023/05/17187/
 
 ---
 Frank Lantz has a well balanced take on the opportunities and perils of AI that is good (and if you didn't think Harari was a grifter yet, you might after reading this).

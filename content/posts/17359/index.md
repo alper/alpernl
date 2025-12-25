@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17359
 parent_post_id: null
 post_id: "17359"
 title: ""
-url: /dingen/2023/12/17359/
+aliases:
+  - /dingen/2023/12/17359/
 
 ---
 Late to the party but I very much love this interview with Karri Saarinen, the co-founder of Linear. Their way of working, "The Linear Method", will be waved away by companies ("we can't do that because…") but with leadership with the right mentality and experience I don't think it's that far off at all. Ask your leadership how you can work like this.

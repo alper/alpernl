@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15447
 parent_post_id: null
 post_id: "15447"
 title: The future of social democracy
-url: /dingen/2019/05/15447/
+aliases:
+  - /dingen/2019/05/15447/
 
 ---
 The play: SPD goes populist-nationalist to catch all of the right-wing worker votes and nibble off from AfD/CDU. They leave the open society social-democratic policies to the Greens.

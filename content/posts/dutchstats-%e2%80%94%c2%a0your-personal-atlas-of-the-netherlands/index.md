@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1832
 parent_post_id: null
 post_id: "1832"
 title: Dutchstats â€”Â Your personal Atlas of the Netherlands
-url: /dingen/2010/06/dutchstats-— your-personal-atlas-of-the-netherlands/
+aliases:
+  - /dingen/2010/06/dutchstats-— your-personal-atlas-of-the-netherlands/
 
 ---
 Last weekend we released [Dutchstats](http://bit.ly/dutchstats/), an online interactive datavisualization of election results and local statistics for Dutch municipalities by [Monster Swell](http://monsterswell.com), an Amsterdam dataviz agency.

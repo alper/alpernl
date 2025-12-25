@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5951
 parent_post_id: null
 post_id: "5951"
 title: Highlights for Journey to the End of the Night
-url: /dingen/2018/03/highlights-for-journey-to-the-end-of-the-night/
+aliases:
+  - /dingen/2018/03/highlights-for-journey-to-the-end-of-the-night/
 
 ---
 > Maybe our colonel knew why they were shooting, maybe the Germans knew, but I, so help me, hadn't the vaguest idea. As far back as I could search my memory, I hadn't done a thing to the Germans, I'd always treated them friendly and polite.

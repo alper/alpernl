@@ -8,7 +8,8 @@ tags:
   - fotografie
   - politiek
 title: Â¡Viva la revolucion!
-url: /dingen/2007/10/163/
+aliases:
+  - /dingen/2007/10/163/
 
 ---
 > "A revolution is a struggle to the death between the future and the past."

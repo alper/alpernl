@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2831
 parent_post_id: null
 post_id: "2831"
 title: Ik ben bereid
-url: /dingen/2011/09/ik-ben-bereid/
+aliases:
+  - /dingen/2011/09/ik-ben-bereid/
 
 ---
 Je gaat een verlaten loods in waar je verwelkomd wordt. Je mag de ontmoeting met de ander aangaan voor een persoonlijke ervaring en voor een hoger doel. De bedoeling wordt gaandeweg duidelijk en het uiteindelijke aanbod is lidmaatschap van een club, van dé Club.

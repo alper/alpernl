@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16472
 parent_post_id: null
 post_id: "16472"
 title: German adjective inflections demystified
-url: /dingen/2021/03/german-adjective-inflections-demystified/
+aliases:
+  - /dingen/2021/03/german-adjective-inflections-demystified/
 
 ---
 I see lots of people still struggle with the German adjectives and especially the fact that there are three tables, one for each of definite articles, indefinite articles and when there's no article, for 48 separate inflections.

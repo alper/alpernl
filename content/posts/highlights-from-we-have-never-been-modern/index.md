@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5777
 parent_post_id: null
 post_id: "5777"
 title: Highlights from We Have Never Been Modern
-url: /dingen/2017/04/highlights-from-we-have-never-been-modern/
+aliases:
+  - /dingen/2017/04/highlights-from-we-have-never-been-modern/
 
 ---
 > "Let us not mix up heaven and earth

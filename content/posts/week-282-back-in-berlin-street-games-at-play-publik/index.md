@@ -15,7 +15,8 @@ post_id: "3775"
 tags:
   - weeknotes
 title: 'Week 282: back in Berlin, street games at Play Publik'
-url: /dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/
+aliases:
+  - /dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/
 
 ---
 [![Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby](http://farm9.staticflickr.com/8423/7724995406_bc89014832.jpg)](http://www.flickr.com/photos/alper/7724995406/ "Wood paneled, 1-2 seated, ICE second class makes my TGV experience of a week ago look decidedly shabby by illustir, on Flickr")

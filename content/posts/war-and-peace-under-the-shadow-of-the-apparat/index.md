@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4533
 parent_post_id: null
 post_id: "4533"
 title: War and Peace under the shadow of the Apparat
-url: /dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/
+aliases:
+  - /dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/
 
 ---
 I've learned my lessons: I will not go to traditional German theater anymore and I will never again book a play without first checking its duration.

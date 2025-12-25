@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15940
 parent_post_id: null
 post_id: "15940"
 title: ""
-url: /dingen/2020/01/15940/
+aliases:
+  - /dingen/2020/01/15940/
 
 ---
 I read this science-fiction short story which is reminiscent of Ann Leckie's books in how it plays with gender and militarism, but I think this is better.

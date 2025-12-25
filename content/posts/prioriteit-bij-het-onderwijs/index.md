@@ -8,7 +8,8 @@ tags:
   - afstuderen
   - politiek
 title: Prioriteit bij het onderwijs
-url: /dingen/2007/10/prioriteit-bij-het-onderwijs/
+aliases:
+  - /dingen/2007/10/prioriteit-bij-het-onderwijs/
 
 ---
 Vandaag het bericht dat de studiefinanciering af wordt geschaft ( [Fok](http://frontpage.fok.nl/nieuws/83031), [Fok](http://frontpage.fok.nl/nieuws/83028)). Dit is geen ramp, maar ik ben toch blij dat ik al in het oude systeem ben afgestudeerd. Ik kreeg deze week zelfs een brief van de IB-Groep waarin stond dat ze door hadden dat ik afgestudeerd was ((Hoera!)) en dat ik in januari weer een brief van ze zou krijgen ((Toch een beetje raar.)).

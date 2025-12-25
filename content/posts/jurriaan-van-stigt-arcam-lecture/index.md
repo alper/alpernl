@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2168
 parent_post_id: null
 post_id: "2168"
 title: "Jurriaan van Stigt ARCAM lecture â€”Â â€œSolving these things in a simple and right way is fun. It is our work.â€\x9D"
-url: /dingen/2010/10/jurriaan-van-stigt-arcam-lecture/
+aliases:
+  - /dingen/2010/10/jurriaan-van-stigt-arcam-lecture/
 
 ---
 Yesterday the next [ARCAM](http://www.arcam.nl/) lecture was held in [the Brakke Grond](http://www.debrakkegrond.nl/) by Jurriaan van Stigt of the firm [LEVS](http://www.levs.nl/).

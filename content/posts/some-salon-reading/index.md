@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1400
 parent_post_id: null
 post_id: "1400"
 title: Some salon reading
-url: /dingen/2009/12/some-salon-reading/
+aliases:
+  - /dingen/2009/12/some-salon-reading/
 
 ---
 Never enough time for reading, but thanks to [Instapaper](http://www.instapaper.com/) got around to reading some stuff that was due coincidentally both of these are from Salon:

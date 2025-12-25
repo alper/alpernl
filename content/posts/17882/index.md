@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17882
 parent_post_id: null
 post_id: "17882"
 title: ""
-url: /dingen/2025/01/17882/
+aliases:
+  - /dingen/2025/01/17882/
 
 ---
 > \[…\] the Rands Leadership Slack is the most impactful thing I’ve built outside my family and job.

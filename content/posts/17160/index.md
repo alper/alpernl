@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17160
 parent_post_id: null
 post_id: "17160"
 title: ""
-url: /dingen/2023/04/17160/
+aliases:
+  - /dingen/2023/04/17160/
 
 ---
 One of the most interesting applications of Rust is to take over after algorithms have been prototyped in Python and create dramatic performance improvements.

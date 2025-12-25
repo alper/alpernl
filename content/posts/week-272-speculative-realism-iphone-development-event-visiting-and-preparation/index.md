@@ -12,7 +12,8 @@ post_id: "3591"
 tags:
   - weeknotes
 title: 'Week 272: speculative realism, iPhone development, event visiting and preparation'
-url: /dingen/2012/06/week-272-speculative-realism-iphone-development-event-visiting-and-preparation/
+aliases:
+  - /dingen/2012/06/week-272-speculative-realism-iphone-development-event-visiting-and-preparation/
 
 ---
 A nice and quiet week in which I got a lot of stuff done that needed doing for a while.

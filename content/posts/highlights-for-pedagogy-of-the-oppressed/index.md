@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5926
 parent_post_id: null
 post_id: "5926"
 title: Highlights for Pedagogy of the Oppressed
-url: /dingen/2018/01/highlights-for-pedagogy-of-the-oppressed/
+aliases:
+  - /dingen/2018/01/highlights-for-pedagogy-of-the-oppressed/
 
 ---
 > Critical consciousness, they say, is anarchic. Others add that critical consciousness may lead to disorder.

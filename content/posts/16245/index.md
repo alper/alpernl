@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16245
 parent_post_id: null
 post_id: "16245"
 title: ""
-url: /dingen/2020/08/16245/
+aliases:
+  - /dingen/2020/08/16245/
 
 ---
 This look into QAnon by a game designer goes deeper and is a lot more disturbing.

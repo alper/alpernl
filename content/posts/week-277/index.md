@@ -12,7 +12,8 @@ post_id: "3688"
 tags:
   - weeknotes
 title: 'Week 277: remaindered connections'
-url: /dingen/2012/07/week-277/
+aliases:
+  - /dingen/2012/07/week-277/
 
 ---
 The Willem de Kooning Academy published an ebook that contains [the lecture I gave there about digital design](http://extra.wdka.nl/crosslab/epub/) and the new aesthetic. I'm quite pleased that little piece of conceptual remix is getting so much airtime.

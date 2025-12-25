@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=2360
 parent_post_id: null
 post_id: "2360"
 title: Zero History excerpts
-url: /dingen/2010/12/zero-history-excerpts/
+aliases:
+  - /dingen/2010/12/zero-history-excerpts/
 
 ---
 Some Bigend-centric excerpts from [Zero History](http://en.wikipedia.org/wiki/Zero_History):

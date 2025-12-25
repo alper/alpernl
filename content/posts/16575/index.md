@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16575
 parent_post_id: null
 post_id: "16575"
 title: ""
-url: /dingen/2021/08/16575/
+aliases:
+  - /dingen/2021/08/16575/
 
 ---
 > Stripe runs on written long-form documents in a way that I haven’t seen before. So that means somebody can go deep, like all the way down, and then distill it back out to everybody else. So you don’t have to do all of that work yourself. It does require a lot of reading for sure, but the benefit is great clarity of thought on complex topics.

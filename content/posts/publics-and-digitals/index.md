@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2463
 parent_post_id: null
 post_id: "2463"
 title: Publics and Digitals
-url: /dingen/2011/05/publics-and-digitals/
+aliases:
+  - /dingen/2011/05/publics-and-digitals/
 
 ---
 [Adam Greenfield's](http://urbanscale.org/) [keynote at Cognitive Cities](http://vimeo.com/20875732?utm_source=Cognitive+Cities+Conference+Newsletter&utm_campaign=b1ac58d9d5-Greenfield_Video3_17_2011&utm_medium=email) prompted several thoughts about the nature of public space.

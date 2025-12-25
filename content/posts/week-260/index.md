@@ -12,7 +12,8 @@ post_id: "3411"
 tags:
   - weeknotes
 title: 'Week 260: books, games, keynotes and Koolhaas'
-url: /dingen/2012/03/week-260/
+aliases:
+  - /dingen/2012/03/week-260/
 
 ---
 Work continues apace. New websites are forthcoming.

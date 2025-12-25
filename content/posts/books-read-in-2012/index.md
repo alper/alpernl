@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4218
 parent_post_id: null
 post_id: "4218"
 title: Books read in 2012
-url: /dingen/2013/01/books-read-in-2012/
+aliases:
+  - /dingen/2013/01/books-read-in-2012/
 
 ---
 All of the books I read are to be found [on Goodreads](http://www.goodreads.com/user/show/841048-alper-ugun) but here is my year's overview because it is customary to do these things. I count 23 which is not too shabby but should be improved upon (always).

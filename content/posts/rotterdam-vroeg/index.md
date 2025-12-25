@@ -7,7 +7,8 @@ post_id: "201"
 tags:
   - trein
 title: Rotterdam vroeg
-url: /dingen/2007/12/rotterdam-vroeg/
+aliases:
+  - /dingen/2007/12/rotterdam-vroeg/
 
 ---
 En zo stond ik zondagochtend op een bizar vroeg tijdstip op Rotterdam Centraal:

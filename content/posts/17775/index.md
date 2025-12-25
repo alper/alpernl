@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17775
 parent_post_id: null
 post_id: "17775"
 title: ""
-url: /dingen/2024/12/17775/
+aliases:
+  - /dingen/2024/12/17775/
 
 ---
 Judging from this article, it will probably not be good for the acceptance of new technologies long term to build data centers in drought struck areas.

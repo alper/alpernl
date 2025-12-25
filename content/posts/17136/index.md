@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17136
 parent_post_id: null
 post_id: "17136"
 title: ""
-url: /dingen/2023/03/17136/
+aliases:
+  - /dingen/2023/03/17136/
 
 ---
 "Meta is building the future of human connection."

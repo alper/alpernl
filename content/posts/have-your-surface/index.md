@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1883
 parent_post_id: null
 post_id: "1883"
 title: Have your Surface
-url: /dingen/2010/06/have-your-surface/
+aliases:
+  - /dingen/2010/06/have-your-surface/
 
 ---
 Haven't got mine yet, but yes they're [Magic Tables](http://berglondon.com/blog/2010/06/17/magic-tables-not-magic-windows/).

@@ -17,7 +17,8 @@ tags:
   - t-mobile
   - uncategorized
 title: Apple's new iPhone
-url: /dingen/2008/06/apples-new-iphone/
+aliases:
+  - /dingen/2008/06/apples-new-iphone/
 
 ---
 Today was a day of many happy occasions. The Dutch national soccer team [utterly crushed](http://ek2008.nos.nl/nieuws/artikel/ID/tcm:45-384948/titel/oranje-speelt-wereldkampioen-zoek) the reigning world champion 3-0. And Steve Jobs held his annual WWDC address announcing a 3G iPhone for the masses.

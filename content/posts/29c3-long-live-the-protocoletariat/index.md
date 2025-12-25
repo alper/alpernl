@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=4185
 parent_post_id: null
 post_id: "4185"
 title: '29C3: Long live the protocoletariat'
-url: /dingen/2013/01/29c3-long-live-the-protocoletariat/
+aliases:
+  - /dingen/2013/01/29c3-long-live-the-protocoletariat/
 
 ---
 I followed [the last CCC](https://events.ccc.de/congress/2012/wiki/Main_Page) from a distance reading the Twitter fallout and keeping track of the live streams while getting work done in an empty Berlin. Besides the various controversies playing out, there were some good talks. What I found to be the best of the event was [“Long live the protocoletariat”](http://events.ccc.de/congress/2012/Fahrplan/events/5305.en.html) by [Eleanor Saitta](http://dymaxion.org/) ( [@dymaxion](https://twitter.com/dymaxion)) and [Smári McCarthy](http://www.smarimccarthy.com/) ( [@smarimc](https://twitter.com/smarimc)) about a topic that is very near to the things I am thinking about: institutions and networks and all of the opportunities and problems associated with them. The presentation in the first thirty minutes of this video is well worth watching. Pull quotes below are paraphrases.

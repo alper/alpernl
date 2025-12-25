@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4528
 parent_post_id: null
 post_id: "4528"
 title: Week 319
-url: /dingen/2013/05/week-319/
+aliases:
+  - /dingen/2013/05/week-319/
 
 ---
 This week was the week where we were in full sprint for the pilot launch of KAIGARA. Besides that we had a dinner off [NEXT](http://nextberlin.eu/) with some people involved and some speakers. What I managed to catch from NEXT's program while working was nothing short of splendid. [Bruce Sterling's talk](http://nextberlin.eu/2013/04/bruce-sterling-fantasy-prototypes-and-real-disruption/) has been shared widely and I'm eagerly awaiting Anab Jain's to be published as a video ( [the slides are already there](http://www.superflux.in/blog/newnormal-revisited)).

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2251
 parent_post_id: null
 post_id: "2251"
 title: TipiT
-url: /dingen/2010/10/tipit/
+aliases:
+  - /dingen/2010/10/tipit/
 
 ---
 Zoals mensen misschien al wel zagen aankomen, hier het nieuws op Webwereld met een redelijk verslag: [“Fraude nekt online-fooienpot TipiT”](http://webwereld.nl/nieuws/67585/fraude-nekt-online-fooienpot-tipit.html#utm_source=front_head&utm_medium=website&utm_campaign=ww)

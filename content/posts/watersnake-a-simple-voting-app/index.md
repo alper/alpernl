@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4315
 parent_post_id: null
 post_id: "4315"
 title: Watersnake, a simple voting app
-url: /dingen/2013/02/watersnake-a-simple-voting-app/
+aliases:
+  - /dingen/2013/02/watersnake-a-simple-voting-app/
 
 ---
 My small project during [Swhack](http://janl.github.com/swhack-berlin/) was to create a django version of a delegated voting system partially inspired by [Liquid Feedback](http://liquidfeedback.org/) and [the manyfold problems that system](http://wiki.piratenpartei.de/AG_Liquid_Feedback) has ((Among others: the atrocious user experience, the fact that it does not support anonymity, the impossibility of i18n.)). In particular that it is written on such an esoteric stack ((The core is a 4500 line pgsql file which is a solid way to deter outside involvement in a project.)) that it is near impossible to get running without root on a Linux machine and let's not even discuss the maintenance. What is even worse is that it makes it nearly impossible for outsiders to join the project and contribute to it significantly.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15544
 parent_post_id: null
 post_id: "15544"
 title: ""
-url: /dingen/2019/06/15544/
+aliases:
+  - /dingen/2019/06/15544/
 
 ---
 Are people paying the Medium article ransom?

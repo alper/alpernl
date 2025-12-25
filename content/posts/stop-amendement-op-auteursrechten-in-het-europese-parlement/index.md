@@ -10,7 +10,8 @@ tags:
   - copyright
   - politiek
 title: Stop amendement op auteursrechten in het Europese Parlement
-url: /dingen/2008/01/stop-amendement-op-auteursrechten-in-het-europese-parlement/
+aliases:
+  - /dingen/2008/01/stop-amendement-op-auteursrechten-in-het-europese-parlement/
 
 ---
 [Via BoingBoing](http://www.boingboing.net/2008/01/21/europe-stop-isp-spyi.html) het bericht dat de CULT-commissie van het EP morgen gaat stemmen over het Guy Bono-rapport en dat er een schadelijk amendement aan dat rapport kleeft.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6024
 parent_post_id: null
 post_id: "6024"
 title: Highlights for Radical Candor
-url: /dingen/2018/06/highlights-for-radical-candor/
+aliases:
+  - /dingen/2018/06/highlights-for-radical-candor/
 
 ---
 > As you probably know, for every piece of subpar work you accept, for every missed deadline you let slip, you begin to feel resentment and then anger. You no longer just think the work is bad: you think the person is bad. This makes it harder to have an even-keeled conversation. You start to avoid talking to the person at all.

@@ -13,7 +13,8 @@ post_id: "4091"
 tags:
   - nrcnext
 title: 'Recensie nrc.next: Botanicula'
-url: /dingen/2013/01/recensie-nrc-next-botanicula/
+aliases:
+  - /dingen/2013/01/recensie-nrc-next-botanicula/
 
 ---
 Recensie verschenen in de [nrc.next](http://www.nrcnext.nl/) van 20 juni 2012:

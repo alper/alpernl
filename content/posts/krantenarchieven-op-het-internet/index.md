@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=1293
 parent_post_id: null
 post_id: "1293"
 title: Krantenarchieven op het internet
-url: /dingen/2009/10/krantenarchieven-op-het-internet/
+aliases:
+  - /dingen/2009/10/krantenarchieven-op-het-internet/
 
 ---
 Ik weet niet of kranten te redden zijn door middel van techniek, maar ik denk wel dat het een poging waard is. Dit was ook de teneur van de sessie [“Get Me Rewrite! Developing APIs and the Changing Face of News”](http://2009.sxsw.com/node/1577) ( [podcast](http://audio.sxsw.com/2009/podcasts/D3%20SXSW_PODCASTS/031509_PM2_APIsAndChangingFaceOfNews.mp3) nu beschikbaar) op SxSW dit jaar waar ik bij was. In die sessie gaven ontwikkelaars van de [New York Times](http://www.nytimes.com/), [NPR](http://www.npr.org/) en [the Guardian](http://www.guardian.co.uk) voorbeelden van en hun visie op het belang van een solide internet-infrastructuur voor nieuws producerende bedrijven ((Ik heb nog een grote post liggen naar aanleiding van dat panel over het belang van een beheersbare en strategische IT-infrastructuur voor kranten die ik één dezer dagen af wil schrijven.)).

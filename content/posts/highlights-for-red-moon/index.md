@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6104
 parent_post_id: null
 post_id: "6104"
 title: Highlights for Red Moon
-url: /dingen/2019/02/highlights-for-red-moon/
+aliases:
+  - /dingen/2019/02/highlights-for-red-moon/
 
 ---
 > Analogies always deceive more than they reveal; I am no fan of analogies, I do not use them. Even metaphor, that mental operation we use with almost every word we speak, is slippery and deceptive. I always speak as plainly as I can.

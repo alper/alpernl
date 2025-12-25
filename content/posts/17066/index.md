@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17066
 parent_post_id: null
 post_id: "17066"
 title: ""
-url: /dingen/2023/02/17066/
+aliases:
+  - /dingen/2023/02/17066/
 
 ---
 It would be fitting if the tech layoffs would take some big bites out of the boundary of the firm and move us to more dynamic working arrangements. Unfortunately a country like Germany with its rigid social security is incredibly hostile to most such arrangements.

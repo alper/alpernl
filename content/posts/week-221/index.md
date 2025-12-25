@@ -13,7 +13,8 @@ post_id: "2666"
 tags:
   - weeknotes
 title: Week 221
-url: /dingen/2011/06/week-221/
+aliases:
+  - /dingen/2011/06/week-221/
 
 ---
 Belayed notes for the week before last but right now I'm bored out of my skull so it's as good a time as any other.

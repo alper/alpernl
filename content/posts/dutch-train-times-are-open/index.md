@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2548
 parent_post_id: null
 post_id: "2548"
 title: Dutch Train Times are open
-url: /dingen/2011/04/dutch-train-times-are-open/
+aliases:
+  - /dingen/2011/04/dutch-train-times-are-open/
 
 ---
 Two years after [I harrangued the Dutch national railways](/dingen/2009/03/op-radio-online-tegen-de-ns/) on radio about their closed data policy and [debunked all their arguments](/dingen/2009/04/een-soort-van-antwoord-van-de-ns/) why they would not open up this data.

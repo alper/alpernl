@@ -12,7 +12,8 @@ post_id: "743"
 tags:
   - ukgc09
 title: Guidelines for government data
-url: /dingen/2009/02/guidelines-for-government-data/
+aliases:
+  - /dingen/2009/02/guidelines-for-government-data/
 
 ---
 This weekend I visited the [Barcamp UK Govweb](http://www.ukgovweb.org/) (#ukgc09, [barcamp](http://barcamp.org/BarcampUKGovweb09)) in London to talk with people about government websites, data and see what the state of the art is in the UK on this topic. It was a very interesting meeting and I learned a lot from people who've been doing this for far longer than I have been.

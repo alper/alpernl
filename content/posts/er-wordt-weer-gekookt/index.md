@@ -7,7 +7,8 @@ post_id: "62"
 tags:
   - koken
 title: Er wordt weer gekookt
-url: /dingen/2007/06/er-wordt-weer-gekookt/
+aliases:
+  - /dingen/2007/06/er-wordt-weer-gekookt/
 
 ---
 Vandaag de geest gekregen om voor het eerst in tijden weer te koken. In de stress met afstuderen, kwam het er niet echt meer van. Doordeweeks is eten in combinatie met capoeira ook niet echt te doen. Dat komt meestal neer op een snel broodje vooraf en een stoommaaltijd erna tegen elven.

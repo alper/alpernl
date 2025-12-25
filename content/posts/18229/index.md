@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18229
 parent_post_id: null
 post_id: "18229"
 title: ""
-url: /dingen/2025/05/18229/
+aliases:
+  - /dingen/2025/05/18229/
 
 ---
 We use reservoir sampling a lot day to day and here's a great visual explanation of how this algorithm does this seemingly impossible task.

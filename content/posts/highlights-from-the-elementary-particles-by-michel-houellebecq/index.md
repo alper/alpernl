@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4467
 parent_post_id: null
 post_id: "4467"
 title: Highlights from the Elementary Particles by Michel Houellebecq
-url: /dingen/2013/03/highlights-from-the-elementary-particles-by-michel-houellebecq/
+aliases:
+  - /dingen/2013/03/highlights-from-the-elementary-particles-by-michel-houellebecq/
 
 ---
 This was an interesting read and only strengthens my resolve to read most of the things Houellebecq has written.

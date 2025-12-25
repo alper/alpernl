@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15213
 parent_post_id: null
 post_id: "15213"
 title: ""
-url: /dingen/2019/03/15213/
+aliases:
+  - /dingen/2019/03/15213/
 
 ---
 I've seen tons of people whose lives were made significantly easier because of parental credit lines which is good for them, but to be fair:

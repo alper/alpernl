@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16795
 parent_post_id: null
 post_id: "16795"
 title: ""
-url: /dingen/2022/04/16795/
+aliases:
+  - /dingen/2022/04/16795/
 
 ---
 Lots of examples here by Intercom about how to enable teams to ship as fast as possible and at the same time also as safely as possible.

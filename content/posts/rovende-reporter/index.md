@@ -13,7 +13,8 @@ tags:
   - internet
   - journalistiek
 title: Rovende reporter
-url: /dingen/2008/04/rovende-reporter/
+aliases:
+  - /dingen/2008/04/rovende-reporter/
 
 ---
 Afgelopen week donderdag en vrijdag was [the Next Web](http://2008.thenextweb.org/) weer in Amsterdam. Ik had met [Tipit.to](http://tipit.to) via [de wedstrijd](/dingen/2008/03/stemmen-op-ons-filmpje/) al kaartjes gewonnen maar [Eelke](http://blog.eelkedekker.nl) en ik wilden geloof ik meer video maken. Voor [Frankwatching](http://www.frankwatching.com) ((Ik kwam Frank maandag tegen op het knap saaie Mobile Monday.)) hebben we toen een verslag van de eerste conferentie-dag in elkaar gezet.

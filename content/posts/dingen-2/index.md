@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=18501
 parent_post_id: null
 post_id: "18501"
 title: Iseji Recap
-url: /dingen/
+aliases:
+  - /dingen/
 
 ---
 Which passes did I do in the end?

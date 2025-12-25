@@ -9,7 +9,8 @@ post_id: "16"
 tags:
   - fotografie
 title: Brug gesloopt
-url: /dingen/2007/04/brug-gesloopt/
+aliases:
+  - /dingen/2007/04/brug-gesloopt/
 
 ---
 Gisteren wat door Delft gelopen en [gefotografeerd](http://www.flickr.com/photos/alper/archives/date-taken/2007/04/21/). Ik had net de [presentatie van James Nachtwey](http://www.ted.com/index.php/talks/view/id/84) gezien wat redelijk indrukwekkend was.

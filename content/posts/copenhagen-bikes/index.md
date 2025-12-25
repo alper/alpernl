@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3602
 parent_post_id: null
 post_id: "3602"
 title: Copenhagen Bikes
-url: /dingen/2012/06/copenhagen-bikes/
+aliases:
+  - /dingen/2012/06/copenhagen-bikes/
 
 ---
 During my visit to Copenhagen I tried to make use of the [Copenhagen City Bike](http://www.bycyklen.dk/) system. Although eventually successful, it turns out bicycle sharing systems without a digital component can lead to frustrations.

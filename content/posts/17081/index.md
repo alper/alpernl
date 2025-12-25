@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17081
 parent_post_id: null
 post_id: "17081"
 title: ""
-url: /dingen/2023/02/17081/
+aliases:
+  - /dingen/2023/02/17081/
 
 ---
 One of my favorite new podcasts is Oxide and Friends which is a weekly live show that's technically very deep, focused on #Rust, morally opinionated and funny.

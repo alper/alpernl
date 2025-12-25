@@ -12,7 +12,8 @@ post_id: "3837"
 tags:
   - weeknotes
 title: 'Week 285: dots connected, games demoed, book proposals written, programming taught, apps prototyped'
-url: /dingen/2012/09/week-285-dots-connected-games-demoed-book-proposals-written-programming-taught-apps-prototyped/
+aliases:
+  - /dingen/2012/09/week-285-dots-connected-games-demoed-book-proposals-written-programming-taught-apps-prototyped/
 
 ---
 I'll include here [Hubbub's two reasons for celebration](http://whatsthehubbub.nl/blog/2012/09/week-159/) which were also reasons for me to celebrate and I'll add a third in a bit. These really are the weeks when a lot of stuff is happening, being built and delivered. Not that much time for idle talk and reflection, though that too will return.

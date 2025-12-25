@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17540
 parent_post_id: null
 post_id: "17540"
 title: ""
-url: /dingen/2024/06/17540/
+aliases:
+  - /dingen/2024/06/17540/
 
 ---
 Coming from an area in the center of Turkey where water was always scarce, it's not really possible to be surprised by this development. Though if you talk to people locally of course many of them will continue to deny deveolpments because they have no other option.

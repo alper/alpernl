@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15253
 parent_post_id: null
 post_id: "15253"
 title: ""
-url: /dingen/2019/03/15253/
+aliases:
+  - /dingen/2019/03/15253/
 
 ---
 A thorough and hugely insightful breakdown of six software rewrites with the conclusion that you can always create something new without throwing away the value you already have.  

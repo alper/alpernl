@@ -9,7 +9,8 @@ post_id: "162"
 tags:
   - evenement
 title: Pop!Tech
-url: /dingen/2007/10/poptech/
+aliases:
+  - /dingen/2007/10/poptech/
 
 ---
 Dit weekend is Pop!Tech weer en als het prijskaartje en de reis naar Amerika teveel zijn, kun je de boel ook live volgen op [Pop!Tech Live](http://poptech.com/live/).

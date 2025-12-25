@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6085
 parent_post_id: null
 post_id: "6085"
 title: Highlights for Oh Crap
-url: /dingen/2018/12/highlights-for-oh-crap/
+aliases:
+  - /dingen/2018/12/highlights-for-oh-crap/
 
 ---
 > One year of one child using disposable diapers uses two full grown trees.

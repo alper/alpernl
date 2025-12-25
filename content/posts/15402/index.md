@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15402
 parent_post_id: null
 post_id: "15402"
 title: ""
-url: /dingen/2019/05/15402/
+aliases:
+  - /dingen/2019/05/15402/
 
 ---
 Usually it's not for a good reason but still, it's nice to see my grand-boss Dror on television regularly explaining cybersecurity to the German public.

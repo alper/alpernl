@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=985
 parent_post_id: null
 post_id: "985"
 title: Cycling Zuid
-url: /dingen/2009/05/cycling-zuid/
+aliases:
+  - /dingen/2009/05/cycling-zuid/
 
 ---
 [![Erasmus](http://farm3.static.flickr.com/2049/3541454271_277b74ab8a.jpg)](http://www.flickr.com/photos/alper/3541454271/ "Erasmus by illustir, on Flickr")

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=924
 parent_post_id: null
 post_id: "924"
 title: Halfje Utrecht
-url: /dingen/2009/04/halfje-utrecht/
+aliases:
+  - /dingen/2009/04/halfje-utrecht/
 
 ---
 Afgelopen maandag niet naar de meubelboulevard geweest maar wel een andere traditionele Paasbezigheid volbracht. Net zoals Jesus stierf aan het kruis en weer opstond, ben ik tijdens de halve marathon van Utrecht figuurlijk gestorven waarna ik door een wonderbaarlijke opleving toch de finish wist te behalen op [2:22:36](http://services.ad.nl/hardloopuitslagen/cache/details/100407.html).

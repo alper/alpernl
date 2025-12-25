@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3943
 parent_post_id: null
 post_id: "3943"
 title: The Selim Varol Collection
-url: /dingen/2012/10/the-selim-varol-collection/
+aliases:
+  - /dingen/2012/10/the-selim-varol-collection/
 
 ---
 Last Saturday I made it out to the penultimate day of the exhibition of the [Selim Varol](https://twitter.com/www_toykio_com) Collection in the [me collectors room](http://www.me-berlin.com/) here in Berlin. I'm glad I did. This was one of the most complete and stunning collections of contemporary toys and subversive art on display anywhere.

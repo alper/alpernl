@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1331
 parent_post_id: null
 post_id: "1331"
 title: Creating an audiogeography from walks through the silence
-url: /dingen/2009/10/creating-an-audiogeography-from-walks-through-the-silence/
+aliases:
+  - /dingen/2009/10/creating-an-audiogeography-from-walks-through-the-silence/
 
 ---
 Recently I worked together with longtime professional friend [Kars Alfrink](http://leapfrog.nl/) on a small side project. Now that we've finished it, it is time to show what we have done.

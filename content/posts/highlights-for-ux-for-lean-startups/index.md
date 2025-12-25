@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5879
 parent_post_id: null
 post_id: "5879"
 title: Highlights for UX for Lean Startups
-url: /dingen/2017/11/highlights-for-ux-for-lean-startups/
+aliases:
+  - /dingen/2017/11/highlights-for-ux-for-lean-startups/
 
 ---
 > Nothing will bias a session faster than you trying to sell him on your ideas. You’re not there to talk. You are there to listen.

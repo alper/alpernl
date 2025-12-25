@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5743
 parent_post_id: null
 post_id: "5743"
 title: Highlights from The Name of the Rose
-url: /dingen/2017/03/highlights-from-the-name-of-the-rose/
+aliases:
+  - /dingen/2017/03/highlights-from-the-name-of-the-rose/
 
 ---
 > ï»¿"there are also visions of books as yet unwritten."

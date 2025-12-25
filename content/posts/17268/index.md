@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17268
 parent_post_id: null
 post_id: "17268"
 title: ""
-url: /dingen/2023/08/17268/
+aliases:
+  - /dingen/2023/08/17268/
 
 ---
 Wat Sinan hier schrijft is een herkenbare spagaat voor iedereen die tussen meerdere culturen opgroeit. Om zijn eindvraag te beantwoorden: "Er is nergens om heen te rennen. De enige naar wie je toe kunt dat ben jezelf."

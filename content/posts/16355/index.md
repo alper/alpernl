@@ -9,7 +9,8 @@ guid: http://www.alper.nl/dingen/?p=16355
 parent_post_id: null
 post_id: "16355"
 title: ""
-url: /dingen/2020/10/16355/
+aliases:
+  - /dingen/2020/10/16355/
 
 ---
 A Django API server in a single file of 70 lines is quite a statement.

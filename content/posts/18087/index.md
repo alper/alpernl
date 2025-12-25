@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18087
 parent_post_id: null
 post_id: "18087"
 title: ""
-url: /dingen/2025/02/18087/
+aliases:
+  - /dingen/2025/02/18087/
 
 ---
 Filing this away for future reference when at some point we'll want to get out of managed Kubernetes.

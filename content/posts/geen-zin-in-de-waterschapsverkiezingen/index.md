@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=616
 parent_post_id: null
 post_id: "616"
 title: Geen zin in de waterschapsverkiezingen
-url: /dingen/2008/11/geen-zin-in-de-waterschapsverkiezingen/
+aliases:
+  - /dingen/2008/11/geen-zin-in-de-waterschapsverkiezingen/
 
 ---
 Ik heb vandaag niet gestemd. Hier mijn filmpje met waarom:

@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=15382
 parent_post_id: null
 post_id: "15382"
 title: ""
-url: /dingen/2019/05/15382/
+aliases:
+  - /dingen/2019/05/15382/
 
 ---
 https://www.niemanlab.org/2019/05/what-will-the-correspondent-publish-in-english-a-look-at-the-dutch-site-offers-some-clues/

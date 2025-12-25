@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16012
 parent_post_id: null
 post_id: "16012"
 title: ""
-url: /dingen/2020/02/16012/
+aliases:
+  - /dingen/2020/02/16012/
 
 ---
 Every place that turns car free like the city center of Ghent here is incredibly well received by the residents. The people who seem to be against it don't live there, they just want to drive through.

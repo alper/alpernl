@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16570
 parent_post_id: null
 post_id: "16570"
 title: ""
-url: /dingen/2021/08/16570/
+aliases:
+  - /dingen/2021/08/16570/
 
 ---
 A good counter-point by Camille Fournier about how being a hands-off manager can turn into being an absent manager. Making sure these kind of meetings are held is the most important leverage you have as senior leadership.

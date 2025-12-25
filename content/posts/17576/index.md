@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17576
 parent_post_id: null
 post_id: "17576"
 title: ""
-url: /dingen/2024/08/17576/
+aliases:
+  - /dingen/2024/08/17576/
 
 ---
 Super useful and unfortunately increasingly relevant article about all the ways scientists are trying to quantify perceived heat.

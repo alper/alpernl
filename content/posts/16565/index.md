@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16565
 parent_post_id: null
 post_id: "16565"
 title: ""
-url: /dingen/2021/08/16565/
+aliases:
+  - /dingen/2021/08/16565/
 
 ---
 > Enter prebuilds: pools of codespaces, fully cloned and bootstrapped, waiting to be connected with a developer who wants to get to work. The engineering investment we’ve made in prebuilds has returned its value many times over: we can now create reliable, preconfigured codespaces, primed and ready for GitHub.com development in 10 seconds.

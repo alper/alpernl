@@ -10,7 +10,8 @@ tags:
   - computers
   - internet
 title: hAvatar voor Wordpress
-url: /dingen/2007/08/havatar-voor-wordpress/
+aliases:
+  - /dingen/2007/08/havatar-voor-wordpress/
 
 ---
 Ik had het al een tijdje gehad met [gravatar](http://www.gravatar.com/) en alle andere verschillende manieren om avatars ((Plaatjes van gebruikers.)) toe te voegen aan blogs en vond tijd dat er een simpele open versie kwam.

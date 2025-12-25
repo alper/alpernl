@@ -8,7 +8,8 @@ tags:
   - informatie
   - politiek
 title: Amerikaanse analyse
-url: /dingen/2008/02/amerikaanse-analyse/
+aliases:
+  - /dingen/2008/02/amerikaanse-analyse/
 
 ---
 Blogtip: [Jon Taplin](http://jtaplin.wordpress.com/) is een goeroe en hij behandelt op zijn blog met authoriteit onderwerpen uit de media-industrie ((Onder andere over de schrijversstaking, die binnenkort afgelopen zou moeten zijn.)), politiek en (macro-)economie ((Zijn analyse van macro-economie is helder en begrijpbaar, iets wat je van het vakgebied in het algemeen niet kunt zeggen.)).

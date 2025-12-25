@@ -10,7 +10,8 @@ tags:
   - tu-delft
   - universiteit
 title: Eindelijk dan voorbij?
-url: /dingen/2007/07/eindelijk-dan-voorbij/
+aliases:
+  - /dingen/2007/07/eindelijk-dan-voorbij/
 
 ---
 Maandag al een poging gewaagd om mijn allerlaatste practicum af te laten tekenen en er toen niet in geslaagd. Met mijn uitgestelde afstuderen heb ik wat vrienden de kans gegeven om toch nog eerder dan ik af te studeren. Daarnaast heb ik voor mezelf wat tijd uitgespaard om op adem te komen, te surfen en [de andere dingen](http://www.flickr.com/photos/alper/843852209/) te doen die gedaan moeten.

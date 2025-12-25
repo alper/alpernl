@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=6091
 parent_post_id: null
 post_id: "6091"
 title: Reading 2018
-url: /dingen/2019/01/reading-2018/
+aliases:
+  - /dingen/2019/01/reading-2018/
 
 ---
 I grabbed [the code](https://github.com/alper/goodreadsgraph) I had lying around for [last year](/dingen/2017/12/reading-2017/) and without too much trouble ran the same analysis for the books. The graph is not that dramatic this time though for some reason I did not read much during summer.

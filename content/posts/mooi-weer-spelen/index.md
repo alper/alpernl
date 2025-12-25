@@ -16,7 +16,8 @@ tags:
   - theatre
   - uncategorized
 title: Mooi Weer Spelen
-url: /dingen/2008/06/mooi-weer-spelen/
+aliases:
+  - /dingen/2008/06/mooi-weer-spelen/
 
 ---
 “Mooi Weer Spelen”((Nice Weather Games)) is the title of the annual street theater festival that takes over the city center of Delft. This year, I'm living in said center and it's much easier to see the events.

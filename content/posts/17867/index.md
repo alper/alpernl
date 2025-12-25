@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17867
 parent_post_id: null
 post_id: "17867"
 title: ""
-url: /dingen/2025/01/17867/
+aliases:
+  - /dingen/2025/01/17867/
 
 ---
 The terminal I use daily (because it's the best really), fish, has been rewritten entirely in Rust, because it's nice and more fun: "For one, fish is a hobby project, and that means we want it to be fun for us. Nobody is being paid to work on fish, so we _need_ it to be fun. Being fun and interesting also attracts contributors."

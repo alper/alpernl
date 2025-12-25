@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16531
 parent_post_id: null
 post_id: "16531"
 title: Bir BaÅŸkadÄ±r (Ethos) Character Network Chart
-url: /dingen/2021/06/bir-baskadir-ethos-character-network-chart/
+aliases:
+  - /dingen/2021/06/bir-baskadir-ethos-character-network-chart/
 
 ---
 {{< figure src="Bir-Baskadir-Frame-1.jpg" alt="" caption="" >}}

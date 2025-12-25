@@ -9,7 +9,8 @@ post_id: "111"
 tags:
   - movies
 title: Extreem matige score
-url: /dingen/2007/08/extreem-matige-score/
+aliases:
+  - /dingen/2007/08/extreem-matige-score/
 
 ---
 Maar wel voldoende:

@@ -10,7 +10,8 @@ guid: http://www.alper.nl/dingen/?p=16334
 parent_post_id: null
 post_id: "16334"
 title: ""
-url: /dingen/2020/10/16334/
+aliases:
+  - /dingen/2020/10/16334/
 
 ---
 "Ultimately the truly great product manager ensures that everyone in their organization feels connected to the business, and shares an equal level of urgency and commitment to the customer’s needs."

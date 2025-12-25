@@ -7,7 +7,8 @@ post_id: "188"
 tags:
   - sport
 title: De essentie van hardlopen
-url: /dingen/2007/11/de-essentie-van-hardlopen/
+aliases:
+  - /dingen/2007/11/de-essentie-van-hardlopen/
 
 ---
 Vanavond weer heel lekker hardgelopen en dat na een slopende training gisteren. De ervaring leert dat je liever de dag na een slopende training hardloopt dan de dag ervoor.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5397
 parent_post_id: null
 post_id: "5397"
 title: OSM Live Edit Screensaver
-url: /dingen/2015/12/osm-live-edit-screensaver/
+aliases:
+  - /dingen/2015/12/osm-live-edit-screensaver/
 
 ---
 I've been running a [live open streetmap edits](http://osmlab.github.io/show-me-the-way/) view as a screen saver for a couple of years now and it never fails to draw the attention from people in the room (whether they know what OSM is or not). The OSM visualization is pretty cool and really comes to life when it is displayed full screen. It is also a great way to see a part of the world you might not have known existed. I used to browse atlases when I was a kid, so this is me indulging in virtual travel again.

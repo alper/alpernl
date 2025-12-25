@@ -19,7 +19,8 @@ post_id: "3872"
 tags:
   - weeknotes
 title: 'Week 287: kohi, praxis'
-url: /dingen/2012/09/week-287-kohi-praxis/
+aliases:
+  - /dingen/2012/09/week-287-kohi-praxis/
 
 ---
 Work on the [Pigs](http://playingwithpigs.nl/) continues though my part is sort of finished now. The rest of the team is very busy getting the thing into the stable.

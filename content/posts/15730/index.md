@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15730
 parent_post_id: null
 post_id: "15730"
 title: ""
-url: /dingen/2019/09/15730/
+aliases:
+  - /dingen/2019/09/15730/
 
 ---
 > “Sometimes when he walks, I swear I can hear it, the depression. It’s a liquid sound. I can hear the cortisol sloshing around in his veins. I can hear the adrenaline drip-drip-dripping down the twisted cord of his spine.”

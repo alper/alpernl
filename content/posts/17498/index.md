@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17498
 parent_post_id: null
 post_id: "17498"
 title: ""
-url: /dingen/2024/03/17498/
+aliases:
+  - /dingen/2024/03/17498/
 
 ---
 Schools wasting money is not as big of a deal as it is made out to be here. Not every investment can be a good one and you have to deal with that and just keep investing. My business partner used to say that innovation in the education field is like driving a van full of money to a school building and setting it on fire. Soit.

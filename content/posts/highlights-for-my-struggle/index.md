@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15733
 parent_post_id: null
 post_id: "15733"
 title: Highlights for My Struggle
-url: /dingen/2019/09/highlights-for-my-struggle/
+aliases:
+  - /dingen/2019/09/highlights-for-my-struggle/
 
 ---
 > As your perspective of the world increases not only is the pain it inflicts on you less but also its meaning. Understanding the world requires you to take a certain distance from it. Things that are too small to see with the naked eye, such as molecules and atoms, we magnify. Things that are too large, such as cloud formations, river deltas, constellations, we reduce. At length we bring it within the scope of our senses and we stabilize it with fixer. When it has been fixed we call it knowledge. Throughout our childhood and teenage years, we strive to attain the correct distance to objects and phenomena. We read, we learn, we experience, we make adjustments. Then one day we reach the point where all the necessary distances have been set, all the necessary systems have been put in place. That is when time begins to pick up speed. It no longer meets any obstacles, everything is set, time races through our lives, the days pass by in a flash and before we know what is happening we are forty, fifty, sixty . . .

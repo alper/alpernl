@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18033
 parent_post_id: null
 post_id: "18033"
 title: ""
-url: /dingen/2025/02/18033/
+aliases:
+  - /dingen/2025/02/18033/
 
 ---
 Imagine being this rich and having this much free time and using all of those capabilities to drive yourself mad with ignorance. Nothing bad has happened to these people yet they are convinced the entire world is out to get them.

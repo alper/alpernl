@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16791
 parent_post_id: null
 post_id: "16791"
 title: ""
-url: /dingen/2022/04/16791/
+aliases:
+  - /dingen/2022/04/16791/
 
 ---
 Momentum definitely is magic and I'd add that you get it by focusing on tempo.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1046
 parent_post_id: null
 post_id: "1046"
 title: Een middel tegen Wilders
-url: /dingen/2009/06/een-middel-tegen-wilders/
+aliases:
+  - /dingen/2009/06/een-middel-tegen-wilders/
 
 ---
 Ik heb al lang niet over politiek geschreven hier omdat het redelijk suf is en ik het niet bijzonder meer volg. Vroeger keek ik wel een stapel actualiteiten en journaals per dag, maar sinds ik geen tv meer heb komt het er niet meer zo van. Dat is zeker niet erg, dit is zeker een beter leven.

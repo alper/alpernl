@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4879
 parent_post_id: null
 post_id: "4879"
 title: Unleash the panther
-url: /dingen/2014/02/unleash-the-panther/
+aliases:
+  - /dingen/2014/02/unleash-the-panther/
 
 ---
 On Saturday evening I was in the Volksbühne for [Stargaze](http://www.we-are-stargaze.com/) among others to see [Cantus Domus](http://www.cantusdomus.de/) perform a set with an odd German band called 1000 Robota. After that there was an intermission and the main performance of the evening by Pantha du Prince and The Bell Laboratory.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16042
 parent_post_id: null
 post_id: "16042"
 title: ""
-url: /dingen/2020/03/16042/
+aliases:
+  - /dingen/2020/03/16042/
 
 ---
 Reading this reminds me what a pleasure it is to work with good product managers and how rare they are.

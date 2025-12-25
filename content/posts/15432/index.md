@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15432
 parent_post_id: null
 post_id: "15432"
 title: ""
-url: /dingen/2019/05/15432/
+aliases:
+  - /dingen/2019/05/15432/
 
 ---
 > “Admittedly, this neat combination of worshipping totems while pursuing practical benefits is quintessentially Chinese.”

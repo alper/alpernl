@@ -17,7 +17,8 @@ guid: https://alper.nl/dingen/?p=17185
 parent_post_id: null
 post_id: "17185"
 title: ""
-url: /dingen/2023/05/17185/
+aliases:
+  - /dingen/2023/05/17185/
 
 ---
 In this podcast episode a court case is treated (with the public prosecutor) where during a fluke accident a girl riding along on a bike is killed by a bus in Amsterdam.

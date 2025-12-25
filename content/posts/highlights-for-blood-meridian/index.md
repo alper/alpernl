@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5891
 parent_post_id: null
 post_id: "5891"
 title: Highlights for Blood Meridian
-url: /dingen/2017/12/highlights-for-blood-meridian/
+aliases:
+  - /dingen/2017/12/highlights-for-blood-meridian/
 
 ---
 > "We are dealing with a people manifestly incapable of governing themselves. And do you know what happens with people who cannot govern themselves? That’s right. Others come in to govern for them."

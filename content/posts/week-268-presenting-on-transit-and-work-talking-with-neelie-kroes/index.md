@@ -12,7 +12,8 @@ post_id: "3544"
 tags:
   - weeknotes
 title: 'Week 268: presenting on transit and work, talking with Neelie Kroes'
-url: /dingen/2012/05/week-268-presenting-on-transit-and-work-talking-with-neelie-kroes/
+aliases:
+  - /dingen/2012/05/week-268-presenting-on-transit-and-work-talking-with-neelie-kroes/
 
 ---
 This week was marked by a massive sprint on saba which made me miss this year's [Myfest](http://www.myfest36.de/) in Kreuzberg, which is annoying but survivable. I did manage to see Ryoji Ikeda's [Data Anatomy](http://dataanatomy.net/) on its last day in Tresor. A visually spectacular but thematically flat affair.

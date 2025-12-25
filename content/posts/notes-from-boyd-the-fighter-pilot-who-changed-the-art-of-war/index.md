@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4814
 parent_post_id: null
 post_id: "4814"
 title: 'Notes from Boyd: The Fighter Pilot Who Changed the Art of War'
-url: /dingen/2013/11/notes-from-boyd-the-fighter-pilot-who-changed-the-art-of-war/
+aliases:
+  - /dingen/2013/11/notes-from-boyd-the-fighter-pilot-who-changed-the-art-of-war/
 
 ---
 Another long overdue post with notes from [the biography of Colonel John Boyd](https://www.goodreads.com/book/show/38840.Boyd?ac=1). This is partially so long overdue because extracting quotes from Readmill is somewhat annoying and the excellent API integration [Box of Quotes](http://boxofquotes.javierarce.com/) no longer works ((Building things on top of APIs looks to be a thing of the past for anything serious or meant to run longer than one week.)).

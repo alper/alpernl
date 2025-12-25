@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18059
 parent_post_id: null
 post_id: "18059"
 title: ""
-url: /dingen/2025/02/18059/
+aliases:
+  - /dingen/2025/02/18059/
 
 ---
 > LLMs are fundamentally matching the patterns they’ve seen, and their abilities are constrained by mathematical boundaries. Embedding tricks and chain-of-thought prompting simply extends their ability to do more sophisticated pattern matching. The mathematical results imply that you can always find compositional tasks whose complexity lies beyond a given system’s abilities.

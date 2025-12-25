@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5151
 parent_post_id: null
 post_id: "5151"
 title: 'Counter Strike: Global Offensive'
-url: /dingen/2015/02/counter-strike-global-offensive/
+aliases:
+  - /dingen/2015/02/counter-strike-global-offensive/
 
 ---
 [![GeForce GTX AllStar Tournament](https://farm9.staticflickr.com/8616/15854911054_2c3f74976a_z.jpg)](https://www.flickr.com/photos/alper/15854911054 "GeForce GTX AllStar Tournament by Alper Çuğun, on Flickr")

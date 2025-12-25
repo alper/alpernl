@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16968
 parent_post_id: null
 post_id: "16968"
 title: ""
-url: /dingen/2023/01/16968/
+aliases:
+  - /dingen/2023/01/16968/
 
 ---
 > Leadership abhors a vacuum.

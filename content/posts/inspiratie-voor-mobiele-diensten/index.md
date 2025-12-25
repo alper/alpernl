@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=938
 parent_post_id: null
 post_id: "938"
 title: Inspiratie voor mobiele diensten
-url: /dingen/2009/04/inspiratie-voor-mobiele-diensten/
+aliases:
+  - /dingen/2009/04/inspiratie-voor-mobiele-diensten/
 
 ---
 Ik schreef een paar dagen geleden in [een roundup](/dingen/2009/04/openbaar-vervoer-update/) over de wedstrijd van 9292 voor een nieuwe reisplanner. Marie-José Klaver heeft er ook [een stukje](http://weblogs3.nrc.nl/klaver/2009/04/10/ov-reiswijzer-crowdsourcet-mobiele-navigator-en-claimt-rechten/#comment-66887) over waarin ze nog wat minder mals is dan ik.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15715
 parent_post_id: null
 post_id: "15715"
 title: ""
-url: /dingen/2019/09/15715/
+aliases:
+  - /dingen/2019/09/15715/
 
 ---
 I'm finding that I really enjoy the role of management for the reasons listed in this piece below and some more even.

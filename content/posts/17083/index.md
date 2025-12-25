@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17083
 parent_post_id: null
 post_id: "17083"
 title: ""
-url: /dingen/2023/02/17083/
+aliases:
+  - /dingen/2023/02/17083/
 
 ---
 A result that generalizes prompt hacking and would point towards most deep learning AIs are exploitable (and proably trivially so).

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6075
 parent_post_id: null
 post_id: "6075"
 title: Highlights for How Democracy Ends
-url: /dingen/2018/11/highlights-for-how-democracy-ends/
+aliases:
+  - /dingen/2018/11/highlights-for-how-democracy-ends/
 
 ---
 > When democracy ends, we are likely to be surprised by the form it takes. We may not even notice that it is happening because we are looking in the wrong places.

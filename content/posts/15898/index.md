@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15898
 parent_post_id: null
 post_id: "15898"
 title: ""
-url: /dingen/2019/11/15898/
+aliases:
+  - /dingen/2019/11/15898/
 
 ---
 Read this post by Dan Hill if only to see the highway cutting through Enskede (I had to gasp) which if you consider it is a criminal act in the form of urban planning.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17286
 parent_post_id: null
 post_id: "17286"
 title: ""
-url: /dingen/2023/10/17286/
+aliases:
+  - /dingen/2023/10/17286/
 
 ---
 I was surprised and delighted by this story (in German) about social cohesion in small town America. A look back to when everything was less of a trash fire.

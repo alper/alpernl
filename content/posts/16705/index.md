@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16705
 parent_post_id: null
 post_id: "16705"
 title: ""
-url: /dingen/2022/02/16705/
+aliases:
+  - /dingen/2022/02/16705/
 
 ---
 Working in the Spotify organizational structure can be a bit tiresome but I'm glad we're getting the important stuff from their product development culture, listed here by Jason Yip, right as well: aligned autonomy, trust and decoupling. Without those the structure indeed does not matter.

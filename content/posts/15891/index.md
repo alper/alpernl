@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15891
 parent_post_id: null
 post_id: "15891"
 title: ""
-url: /dingen/2019/11/15891/
+aliases:
+  - /dingen/2019/11/15891/
 
 ---
 The difference between peacetime and wartime productivity is when things are so explosive and all your systems break down and when you get out the other side everything is changed. It's an essential and very educational mode.

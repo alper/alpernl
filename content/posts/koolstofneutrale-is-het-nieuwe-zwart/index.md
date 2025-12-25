@@ -10,7 +10,8 @@ tags:
   - internet
   - milieu
 title: Koolstofneutraal is het nieuwe zwart
-url: /dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/
+aliases:
+  - /dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/
 
 ---
 Op [TOPdesk](http://www.topdesk.com) vandaag het nieuws dat al ons drukwerk ((Ja, ik weet het. Zó vorige eeuw.)) milieuvriendelijk gedrukt wordt ((Voor zover dat mogelijk is met een _dode-bomen-medium_.))

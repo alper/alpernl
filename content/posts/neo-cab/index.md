@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15472
 parent_post_id: null
 post_id: "15472"
 title: Neo Cab
-url: /dingen/2019/05/neo-cab/
+aliases:
+  - /dingen/2019/05/neo-cab/
 
 ---
 Ages ago we also made a [game](https://whatsthehubbub.nl/projects/vrije-vogels/) that:

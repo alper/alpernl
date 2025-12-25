@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4253
 parent_post_id: null
 post_id: "4253"
 title: Swhack Berlin
-url: /dingen/2013/02/swhack-berlin/
+aliases:
+  - /dingen/2013/02/swhack-berlin/
 
 ---
 So this Saturday [Jan Lehnardt](http://writing.jan.io/) and I are having [a small hackathon here in Berlin](http://janl.github.com/swhack-berlin/) in remembrance of Aaron Swartz and to in one small way continue doing the work that needs to be done on the internet, in government and especially where those two meet.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1097
 parent_post_id: null
 post_id: "1097"
 title: "120"
-url: /dingen/2009/07/120/
+aliases:
+  - /dingen/2009/07/120/
 
 ---
 I had my [Yashica D](http://www.flickr.com/photos/alper/2226513597/) repaired and also recently acquired [a lightmeter](http://www.flickr.com/photos/alper/3628509161/) to make the process of shooting easier and now I'm slowly but surely shooting stuff with it.

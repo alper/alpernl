@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15666
 parent_post_id: null
 post_id: "15666"
 title: ""
-url: /dingen/2019/09/15666/
+aliases:
+  - /dingen/2019/09/15666/
 
 ---
 Design thinking is finally officially over, even Ideo admits it now.

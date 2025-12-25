@@ -21,7 +21,8 @@ tags:
   - taliban
   - war
 title: "â€œI am not in the business of being liked.â€\x9D"
-url: /dingen/2008/05/“i-am-not-in-the-business-of-being-liked”/
+aliases:
+  - /dingen/2008/05/“i-am-not-in-the-business-of-being-liked”/
 
 ---
 Gisteren een [lezing bijgewoond van Arnold Karskens](http://www.dok.info/index.php?cat=actief&pagina_id=50&agenda_id=271) in DOK Delft. Interessant omdat Karskens grote thema's aanhaalt, bijna samenzweringen aan de kaak stelt en een beroep doet op de morele verantwoordelijkheid van het Nederlandse volk en journaille ( [‘Halve journalistiek bestaat niet’](http://www.denieuwereporter.nl/?p=1574)).

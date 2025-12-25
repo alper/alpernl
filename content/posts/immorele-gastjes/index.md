@@ -12,7 +12,8 @@ tags:
   - overheid
   - politiek
 title: Immorele gastjes
-url: /dingen/2007/09/immorele-gastjes/
+aliases:
+  - /dingen/2007/09/immorele-gastjes/
 
 ---
 Ik probeerde vrijdagavond na een redelijk bewogen dag in de trein terug naar Delft bijna oud-collega's Joop en Niek ervan te overtuigen dat het merendeel van de mensen geen moreel besef heeft ((Een langere post hierover komt nog een keer. Het wordt in ieder geval niet een uitsluitend pessimistisch verhaal.)). Dit wilden ze niet geloven. Nu zal het misschien niet de meerderheid zijn ((Ik overdrijf weleens om een punt duidelijk te maken.)), maar ik denk dat het een grote groep mensen is die groeit.

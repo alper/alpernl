@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=2043
 parent_post_id: null
 post_id: "2043"
 title: Zuiverheid
-url: /dingen/2010/08/2043/
+aliases:
+  - /dingen/2010/08/2043/
 
 ---
 In de nacht van vrijdag op zaterdag kreeg onze [Dichter des Vaderlands](http://www.ramseynasr.nl) een blok van anderhalf uur radio in Zomernachten om te vertellen wat hij wilde. Ik had me in de dag vergist, maar het stond vannacht ook [al op de website](http://casaluna.ncrv.nl/pagina/ramsey-nasr). De MP3 is hier uit de podcast te vissen: [Zomernacht van Ramsey Nasr](http://tools.ncrv.nl/download/podcast_tool/casaluna_2010_08_21_1282352652_Zomernachten_Ramsey__-_.MP3).

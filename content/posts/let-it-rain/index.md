@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1551
 parent_post_id: null
 post_id: "1551"
 title: Let it rain
-url: /dingen/2010/02/let-it-rain/
+aliases:
+  - /dingen/2010/02/let-it-rain/
 
 ---
 [![Light Stand](http://farm3.static.flickr.com/2716/4325995936_d28e341691.jpg)](http://www.flickr.com/photos/alper/4325995936/ "Light Stand by illustir, on Flickr")

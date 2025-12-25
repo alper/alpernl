@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2135
 parent_post_id: null
 post_id: "2135"
 title: Hard to be a God
-url: /dingen/2010/09/hard-to-be-a-god/
+aliases:
+  - /dingen/2010/09/hard-to-be-a-god/
 
 ---
 Wednesday I went to a performance by a Hungarian theater group showing [“Hard to be a God”](http://www.deinternationalekeuze.nl/programma/4020/Kornel_Mundrucz_/Hard_To_Be_A_God/) by Kornél Mundruczó a famous Hungarian director after the story by the Soviet Russian brothers science-fiction writers [Arkady and Boris Strugatsky](http://en.wikipedia.org/wiki/Boris_and_Arkady_Strugatsky).

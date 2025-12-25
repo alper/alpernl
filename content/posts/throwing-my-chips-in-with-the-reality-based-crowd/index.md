@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2653
 parent_post_id: null
 post_id: "2653"
 title: Throwing my chips in with the reality based crowd
-url: /dingen/2011/06/throwing-my-chips-in-with-the-reality-based-crowd/
+aliases:
+  - /dingen/2011/06/throwing-my-chips-in-with-the-reality-based-crowd/
 
 ---
 Seeing this presentation in Amsterdam as the culmination of [Mobile Monday](http://www.mobilemonday.nl/), was something great. The far reaching vision and reality based optimism Kevin Slavin lays down ( [his comments](http://slavin.tumblr.com/post/6034597315/does-augmented-reality-deserve-to-be-killed)) are something we should aspire to. It is worth watching and watching again.

@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16779
 parent_post_id: null
 post_id: "16779"
 title: ""
-url: /dingen/2022/04/16779/
+aliases:
+  - /dingen/2022/04/16779/
 
 ---
 HBR asking Seinfeld if McKinsey could have helped them write comedy. Terminal case of brain worms.

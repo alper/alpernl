@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18275
 parent_post_id: null
 post_id: "18275"
 title: ""
-url: /dingen/2025/07/18275/
+aliases:
+  - /dingen/2025/07/18275/
 
 ---
 Imagine a foreign language being pervasive in your country for no real reason whatsoever. The Uzbeks are right in wanting to rip it out.

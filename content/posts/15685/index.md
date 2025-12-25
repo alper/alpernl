@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15685
 parent_post_id: null
 post_id: "15685"
 title: ""
-url: /dingen/2019/09/15685/
+aliases:
+  - /dingen/2019/09/15685/
 
 ---
 Oatley is by far our favorite plant based milk and I'm glad to read that they are seeing explosive growth (also animal milk consumption in the Netherlands has already dropped 14%).

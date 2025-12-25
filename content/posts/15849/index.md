@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15849
 parent_post_id: null
 post_id: "15849"
 title: ""
-url: /dingen/2019/11/15849/
+aliases:
+  - /dingen/2019/11/15849/
 
 ---
 Truly, if you don't throw hundreds of millions into the trash fire that is the big consultancies, there is no limit to what you can get done.

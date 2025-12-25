@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17938
 parent_post_id: null
 post_id: "17938"
 title: ""
-url: /dingen/2025/01/17938/
+aliases:
+  - /dingen/2025/01/17938/
 
 ---
 I'll have to agree here that for normal engineers it's better to not really engage with Glue work.

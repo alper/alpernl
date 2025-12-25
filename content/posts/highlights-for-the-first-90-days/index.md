@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6078
 parent_post_id: null
 post_id: "6078"
 title: Highlights for The First 90 Days
-url: /dingen/2018/12/highlights-for-the-first-90-days/
+aliases:
+  - /dingen/2018/12/highlights-for-the-first-90-days/
 
 ---
 > To transition effectively, first identify the risks you face as you move into your new role using the Transition Risk Assessment.

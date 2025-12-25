@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15176
 parent_post_id: null
 post_id: "15176"
 title: ""
-url: /dingen/2019/02/15176/
+aliases:
+  - /dingen/2019/02/15176/
 
 ---
 This description of the Goldsmith MA Design Expanded Practice is more or less also how I prefer to work whether in my own practice or anywhere else. An exposition of how to redesign design education that is well worth reading.

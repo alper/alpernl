@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=802
 parent_post_id: null
 post_id: "802"
 title: Maak wat je wil, Protospace College
-url: /dingen/2009/02/protospace-presentatie/
+aliases:
+  - /dingen/2009/02/protospace-presentatie/
 
 ---
 Na heel veel gedoe en proberen ((Ik krijg er echt een extreem lange sik van, als iemand een handige workflow heeft dan hoor ik het graag.)) met verschillende video-codecs heb ik eindelijk de presentatie van Siert vorige week in een formaat waarmee ik hem ook online kon zetten. Ik ben nog niet heel erg te spreken over de kwaliteit maar dit is heel acceptabel voor een filmpje van drie kwartier.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5587
 parent_post_id: null
 post_id: "5587"
 title: Welt am Draht
-url: /dingen/2016/06/welt-am-draht/
+aliases:
+  - /dingen/2016/06/welt-am-draht/
 
 ---
 I strolled through the massive exhibition ‘Welt am Draht’ at Leipziger Strasse this weekend. This is a selection of video art from the massive [Julia Stoschek Collection](http://www.julia-stoschek-collection.net/) exhibited in the former Czech Cultural center.

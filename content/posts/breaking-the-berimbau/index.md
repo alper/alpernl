@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=647
 parent_post_id: null
 post_id: "647"
 title: Breaking the berimbau
-url: /dingen/2008/12/breaking-the-berimbau/
+aliases:
+  - /dingen/2008/12/breaking-the-berimbau/
 
 ---
 These last couple of months we've been having regular music lessons. It's a lot of fun and we are making crazy progress.

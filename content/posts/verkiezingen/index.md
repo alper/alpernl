@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1597
 parent_post_id: null
 post_id: "1597"
 title: Verkiezingen
-url: /dingen/2010/02/verkiezingen/
+aliases:
+  - /dingen/2010/02/verkiezingen/
 
 ---
 Een overzicht van de uitslagen van de Europese Verkiezingen 2009 per gemeente:

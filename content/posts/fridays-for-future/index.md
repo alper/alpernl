@@ -18,7 +18,8 @@ guid: http://alper.nl/dingen/?p=15262
 parent_post_id: null
 post_id: "15262"
 title: Fridays for Future
-url: /dingen/2019/03/fridays-for-future/
+aliases:
+  - /dingen/2019/03/fridays-for-future/
 
 ---
 I found this picture on twitter this morning.

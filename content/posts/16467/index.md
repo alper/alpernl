@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16467
 parent_post_id: null
 post_id: "16467"
 title: ""
-url: /dingen/2021/03/16467/
+aliases:
+  - /dingen/2021/03/16467/
 
 ---
 Tiny cars are a huge thing and will be a much bigger deal than anything that Tesla is planning.

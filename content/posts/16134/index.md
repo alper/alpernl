@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16134
 parent_post_id: null
 post_id: "16134"
 title: ""
-url: /dingen/2020/07/16134/
+aliases:
+  - /dingen/2020/07/16134/
 
 ---
 A good definition of product judgement which is absolutely essential for project success. I've seen groups without this head off in the wrong direction too often to count and have usually had to jump in myself.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4830
 parent_post_id: null
 post_id: "4830"
 title: Lazy intellectualism exposed (probably without consequences)
-url: /dingen/2013/11/lazy-intellectualism-exposed-probably-without-consequences/
+aliases:
+  - /dingen/2013/11/lazy-intellectualism-exposed-probably-without-consequences/
 
 ---
 Funny to come across three pieces today wherein a bunch of fashionable faux-intellectuals are taken apart.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16319
 parent_post_id: null
 post_id: "16319"
 title: Here come the scammers
-url: /dingen/2020/09/here-come-the-scammers/
+aliases:
+  - /dingen/2020/09/here-come-the-scammers/
 
 ---
 After having been [locked out of my Instagram](/dingen/2020/08/losing-firstname-on-instagram/) account for months because of wrongful reports, I have just gotten back access to the account for a week or so and I already get the first people reporting me again.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17699
 parent_post_id: null
 post_id: "17699"
 title: GIFT
-url: /dingen/2024/11/gift/
+aliases:
+  - /dingen/2024/11/gift/
 
 ---
 Watched “Evil Does Not Exist” as GIFT, the recut and rescored (silent) version performed live by [Eiko Ishibashi](https://en.wikipedia.org/wiki/Eiko_Ishibashi) at HAU1.

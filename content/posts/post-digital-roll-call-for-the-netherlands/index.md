@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2282
 parent_post_id: null
 post_id: "2282"
 title: Post Digital Roll Call for the Netherlands
-url: /dingen/2010/11/post-digital-roll-call-for-the-netherlands/
+aliases:
+  - /dingen/2010/11/post-digital-roll-call-for-the-netherlands/
 
 ---
 Russell Davies apologizes, though he needn't.

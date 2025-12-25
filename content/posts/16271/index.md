@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16271
 parent_post_id: null
 post_id: "16271"
 title: ""
-url: /dingen/2020/09/16271/
+aliases:
+  - /dingen/2020/09/16271/
 
 ---
 You may find yourself suddenly leading a project as an IC and if that is the case, please take this guide by Gergely Orosz with you. It will prove very helpful.

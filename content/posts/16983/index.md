@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16983
 parent_post_id: null
 post_id: "16983"
 title: ""
-url: /dingen/2023/01/16983/
+aliases:
+  - /dingen/2023/01/16983/
 
 ---
 To refocus on being available and being able to do deep work as a leader of an org I'm employing a bunch of the things listed.

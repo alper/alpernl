@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3051
 parent_post_id: null
 post_id: "3051"
 title: Awards and Power
-url: /dingen/2011/11/awards-and-power/
+aliases:
+  - /dingen/2011/11/awards-and-power/
 
 ---
 To all you who have won awards (and to all you who haven't):

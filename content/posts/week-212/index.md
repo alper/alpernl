@@ -13,7 +13,8 @@ post_id: "2562"
 tags:
   - weeknotes
 title: Week 212
-url: /dingen/2011/04/week-212/
+aliases:
+  - /dingen/2011/04/week-212/
 
 ---
 [![Coworking Table](http://farm6.static.flickr.com/5148/5594333281_80bb7814ea.jpg)](http://www.flickr.com/photos/alper/5594333281/ "Coworking Table by illustir, on Flickr")

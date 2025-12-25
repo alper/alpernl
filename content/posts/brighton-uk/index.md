@@ -9,7 +9,8 @@ tags:
   - cultuur
   - reizen
 title: Brighton, UK
-url: /dingen/2007/09/brighton-uk/
+aliases:
+  - /dingen/2007/09/brighton-uk/
 
 ---
 Ik zit hier aan het ontbijt, nog zonder eten maar wel al even koffie gehaald bij de Costa in de straat verderop met heel veel nerds in een kamer en bijna iedereen heeft een laptop open ((Waarvan 70% ofzo een Apple laptop is.)).

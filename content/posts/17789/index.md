@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17789
 parent_post_id: null
 post_id: "17789"
 title: ""
-url: /dingen/2024/12/17789/
+aliases:
+  - /dingen/2024/12/17789/
 
 ---
 I made the mistake of opening the desktop Spotify app which does not really work anymore. The UI is broken and there's lots of irrelevant stuff going on.

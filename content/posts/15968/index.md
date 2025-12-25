@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15968
 parent_post_id: null
 post_id: "15968"
 title: ""
-url: /dingen/2020/02/15968/
+aliases:
+  - /dingen/2020/02/15968/
 
 ---
 Een verslag van Marijn Kruk over de bijzonder grimmige politieke situatie in Frankrijk.

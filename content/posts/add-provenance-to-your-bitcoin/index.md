@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4397
 parent_post_id: null
 post_id: "4397"
 title: Add provenance to your bitcoin
-url: /dingen/2013/04/add-provenance-to-your-bitcoin/
+aliases:
+  - /dingen/2013/04/add-provenance-to-your-bitcoin/
 
 ---
 I had penned some notes about bitcoin before the entire thing exploded last week. So it seems that everybody is blogging pretty much everything about bitcoin there is to blog. So trying to see if I have some points that are still worth publishing.

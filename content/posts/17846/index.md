@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17846
 parent_post_id: null
 post_id: "17846"
 title: ""
-url: /dingen/2025/01/17846/
+aliases:
+  - /dingen/2025/01/17846/
 
 ---
 I think for sure we've built an Erlang but even then again Erlang is such an esoteric environment that I would barely consider using it to be an alternative. Where would you start and how would you get other people onboarded?

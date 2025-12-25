@@ -12,7 +12,8 @@ post_id: "4341"
 tags:
   - weeknotes
 title: Week 309
-url: /dingen/2013/02/week-309/
+aliases:
+  - /dingen/2013/02/week-309/
 
 ---
 A bunch of stuff I did last week is summarized nicely at [the Hubbub weeknotes](http://whatsthehubbub.nl/blog/2013/02/week-182/). This is going to happen more and more often, so these weeknotes may become at risk. We'll see what happens.

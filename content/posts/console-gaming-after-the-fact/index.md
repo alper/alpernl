@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5088
 parent_post_id: null
 post_id: "5088"
 title: Console gaming after the fact
-url: /dingen/2014/12/console-gaming-after-the-fact/
+aliases:
+  - /dingen/2014/12/console-gaming-after-the-fact/
 
 ---
 I have found myself in the custody of a Playstation 3 console and have borrowed a couple dozen games to play over the holidays. This came to be after I mentioned to my local game design support group that I hadn't played anything on a console for over ten years and that I was quite happy with that state of being. They thought that this was unacceptable.

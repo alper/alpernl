@@ -8,7 +8,8 @@ tags:
   - fotografie
   - reizen
 title: Daarheen en weer terug
-url: /dingen/2007/06/daarheen-en-weer-terug/
+aliases:
+  - /dingen/2007/06/daarheen-en-weer-terug/
 
 ---
 Vanochtend genoot ik een geweldige brunch in het [Laundromat café](http://www.thelaundromatcafe.com/) in Kopenhagen waarna lekker gechilled in het Ørstedspark.

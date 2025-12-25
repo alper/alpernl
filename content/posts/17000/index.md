@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17000
 parent_post_id: null
 post_id: "17000"
 title: ""
-url: /dingen/2023/02/17000/
+aliases:
+  - /dingen/2023/02/17000/
 
 ---
 Since the one digital thing that Germany is really good at is copying, here is the UK's 2025 roadmap for digital and data. Just copy-paste it and do everything that's in there.

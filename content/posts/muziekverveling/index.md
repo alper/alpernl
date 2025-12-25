@@ -7,7 +7,8 @@ post_id: "175"
 tags:
   - muziek
 title: Muziekverveling
-url: /dingen/2007/10/muziekverveling/
+aliases:
+  - /dingen/2007/10/muziekverveling/
 
 ---
 Ik heb nu mijn shuffle en mijn Sennheiser en dat zijn onder de dingen die ik altijd bij me heb. Geen stilte aan mijn kop.

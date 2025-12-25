@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16594
 parent_post_id: null
 post_id: "16594"
 title: ""
-url: /dingen/2021/10/16594/
+aliases:
+  - /dingen/2021/10/16594/
 
 ---
 We're picking up some of these large scale iOS development practices ourselves. Getting rid of those pesky conflicts in pbxproj files alone would be more than worth it.

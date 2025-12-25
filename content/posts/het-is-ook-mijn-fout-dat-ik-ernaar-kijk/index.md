@@ -8,7 +8,8 @@ tags:
   - religie
   - televisie
 title: Het is ook mijn fout dat ik ernaar kijk
-url: /dingen/2007/09/het-is-ook-mijn-fout-dat-ik-ernaar-kijk/
+aliases:
+  - /dingen/2007/09/het-is-ook-mijn-fout-dat-ik-ernaar-kijk/
 
 ---
 Ik kijk televisie ((Op zich al een grote fout)) en ik kom langs [Rondom 10](http://www.ncrv.nl/ncrv/tv/rondomtien). Hier blijven hangen en kijken is op zich al een grote fout. De publieke discussie in dit soort televisieprogramma's is gekaapt door zogenaamde ‘gewone mensen’ ((Je bent een 'gewoon mens' als je niet al te slim en redelijk makkelijk in een hokje te plaatsen bent. Al het andere is te verwarrend voor kijkers.)) waar kijkers zich in kunnen herkennen.

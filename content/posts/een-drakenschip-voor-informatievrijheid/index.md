@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=1481
 parent_post_id: null
 post_id: "1481"
 title: Een drakenschip voor informatievrijheid
-url: /dingen/2010/02/een-drakenschip-voor-informatievrijheid/
+aliases:
+  - /dingen/2010/02/een-drakenschip-voor-informatievrijheid/
 
 ---
 ### Of: Hoe IJsland ondanks ons gekoeioneer onze informatievrijheid gaat veiligstellen.

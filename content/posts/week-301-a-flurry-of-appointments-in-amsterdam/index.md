@@ -17,7 +17,8 @@ post_id: "4108"
 tags:
   - weeknotes
 title: 'Week 301: a flurry of appointments in Amsterdam'
-url: /dingen/2012/12/week-301-a-flurry-of-appointments-in-amsterdam/
+aliases:
+  - /dingen/2012/12/week-301-a-flurry-of-appointments-in-amsterdam/
 
 ---
 Last Monday was the last day in Berlin before the holidays so something of a push here and there to get things to go through. That night we had a [vvvv](http://vvvv.org/) workshop at the studio hosted by Joreg to teach somewhere around eight people the basics of node based graphical environments (the only other one I had used extensively before was [Open DX](http://www.opendx.org/) and of course there's Quartz Composer and [Impure Quadrigram](http://impure.com/)).

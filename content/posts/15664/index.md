@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15664
 parent_post_id: null
 post_id: "15664"
 title: ""
-url: /dingen/2019/09/15664/
+aliases:
+  - /dingen/2019/09/15664/
 
 ---
 This lament on SF does not sound that far off from where Berlin is. The city is a lot bigger and less boring, but without measures, it could go the same way when it comes to property prices and hollowing out of public services.

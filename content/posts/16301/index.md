@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16301
 parent_post_id: null
 post_id: "16301"
 title: ""
-url: /dingen/2020/09/16301/
+aliases:
+  - /dingen/2020/09/16301/
 
 ---
 > "I am successful if I’m saying the right “No”s to my manager. If the ICs that report to my manager end up feeling like “I told you so”or “We knew this was a bad idea”and that wasn’t surfaced for a discussion, that’s on me."

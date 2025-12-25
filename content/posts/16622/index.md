@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16622
 parent_post_id: null
 post_id: "16622"
 title: ""
-url: /dingen/2021/10/16622/
+aliases:
+  - /dingen/2021/10/16622/
 
 ---
 The Pulp game editor is hugely impressive and at the same time making something like this is well within the potential of any small talented group of people who have a bit of time and vision.

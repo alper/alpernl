@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15880
 parent_post_id: null
 post_id: "15880"
 title: ""
-url: /dingen/2019/11/15880/
+aliases:
+  - /dingen/2019/11/15880/
 
 ---
 A good summary of Grove's High Output Management and a strong argument to read it: “To paraphrase the book, the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.”

@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?page_id=5981
 parent_post_id: null
 post_id: "5981"
 title: About
-url: /dingen/about/
+aliases:
+  - /dingen/about/
 
 ---
 Moved to [biography](/dingen/alper-cugun-biography/).

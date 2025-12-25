@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15865
 parent_post_id: null
 post_id: "15865"
 title: 'Types and Function 5: Monads'
-url: /dingen/2019/11/types-and-function-5-monads/
+aliases:
+  - /dingen/2019/11/types-and-function-5-monads/
 
 ---
 I'm looking forward to this chapter. When they taught us Haskell as an undergrad they made sure to stop well short of Monads. At the time I was happy about that but by now I wish we had pushed on.

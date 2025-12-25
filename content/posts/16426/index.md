@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16426
 parent_post_id: null
 post_id: "16426"
 title: ""
-url: /dingen/2021/02/16426/
+aliases:
+  - /dingen/2021/02/16426/
 
 ---
 This article on the Huawei corporate culture is one of the worst possible ways to treat employees I've ever seen.

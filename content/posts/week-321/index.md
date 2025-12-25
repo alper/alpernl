@@ -10,7 +10,8 @@ post_id: "4594"
 tags:
   - weeknotes
 title: Week 321
-url: /dingen/2013/05/week-321/
+aliases:
+  - /dingen/2013/05/week-321/
 
 ---
 The week before last was filled with theater, a full 9 hours of it which should last me for the rest of the year. I wrote [the one negative review you will find of ‘Krieg und Frieden’](/dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/) as a result of it.

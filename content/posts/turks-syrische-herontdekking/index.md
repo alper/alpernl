@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1982
 parent_post_id: null
 post_id: "1982"
 title: Turks-Syrische herontdekking
-url: /dingen/2010/07/turks-syrische-herontdekking/
+aliases:
+  - /dingen/2010/07/turks-syrische-herontdekking/
 
 ---
 De grens tussen Turkije en Syrië is tegenwoordig compleet open en Turkije ‘groeit uit zijn voegen’ ((Wat nou Eurozone…)):

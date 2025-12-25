@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16554
 parent_post_id: null
 post_id: "16554"
 title: ""
-url: /dingen/2021/08/16554/
+aliases:
+  - /dingen/2021/08/16554/
 
 ---
 The truth about cryptocurrencies.

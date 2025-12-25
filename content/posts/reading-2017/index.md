@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5917
 parent_post_id: null
 post_id: "5917"
 title: Reading 2017
-url: /dingen/2017/12/reading-2017/
+aliases:
+  - /dingen/2017/12/reading-2017/
 
 ---
 Most unexpectedly I read 52 books in 2017. These last couple of months I’d been gunning for it but nothing about the first half of this year indicated that I would even hit my [challenge of 26 books](https://www.goodreads.com/user_challenges/6889434).

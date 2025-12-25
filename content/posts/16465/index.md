@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16465
 parent_post_id: null
 post_id: "16465"
 title: ""
-url: /dingen/2021/03/16465/
+aliases:
+  - /dingen/2021/03/16465/
 
 ---
 > Taken from the title of Chinese sci-fi writer Liu Cixin’s 2008 book, “the dark forest”region of the web is becoming increasingly important as a space of online communication for users of all ages and political persuasions. In part, this is because it is less sociologically stressful than the clearnet zone, where one is subject to peer, employer, and state exposure. It also now includes Discord servers, paid newsletters (e.g., Substack), encrypted group messaging (via Telegram, etc.), gaming communities, podcasts, and other off-clearnet message board forums and social media. One forages for content or shares in what others in the community have retrieved rather than accepting whatever the platform algorithms happen to match to your data profile.   

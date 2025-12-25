@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5792
 parent_post_id: null
 post_id: "5792"
 title: Talk at Emerce Tech Live in Amsterdam
-url: /dingen/2017/06/talk-at-emerce-tech-live-in-amsterdam/
+aliases:
+  - /dingen/2017/06/talk-at-emerce-tech-live-in-amsterdam/
 
 ---
 Last Tuesday I gave a talk at EMERCE [Tech Live](https://tech-live.nl/?utm_source=Emerce&utm_medium=Mail&utm_content=lanceermail&utm_campaign=techlive17%2F) on the main stage of the Beurs van Berlage in Amsterdam. It was a lovely event and it was fun being back in Amsterdam however briefly.

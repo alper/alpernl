@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18053
 parent_post_id: null
 post_id: "18053"
 title: ""
-url: /dingen/2025/02/18053/
+aliases:
+  - /dingen/2025/02/18053/
 
 ---
 This was exactly a discussion I had yesterday where when teams reach higher levels of maturity, they may catch and fix issues internally before they become full blown incidents.

@@ -10,7 +10,8 @@ tags:
   - politiek
   - verkiezingen
 title: Verandering waar we in kunnen geloven
-url: /dingen/2008/02/verandering-waar-we-in-kunnen-geloven/
+aliases:
+  - /dingen/2008/02/verandering-waar-we-in-kunnen-geloven/
 
 ---
 Voor alle Obamisten en anderen die verandering willen, [dit filmpje](http://www.dipdive.com/) in woord en muziek.

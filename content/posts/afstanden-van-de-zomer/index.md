@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: Afstanden van de zomer
-url: /dingen/2007/10/afstanden-van-de-zomer/
+aliases:
+  - /dingen/2007/10/afstanden-van-de-zomer/
 
 ---
 Had net Google Earth geïnstalleerd en zag dat daar erg handige tools in staan om afstanden te meten tussen plaatsen. Ik had voor mijn tabel nog een paar afstanden nodig die ik daarmee heb geschat.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15806
 parent_post_id: null
 post_id: "15806"
 title: ""
-url: /dingen/2019/11/15806/
+aliases:
+  - /dingen/2019/11/15806/
 
 ---
 Not very surprisingly Airbnb these days is a willing platform for criminal behavior.

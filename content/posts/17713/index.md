@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17713
 parent_post_id: null
 post_id: "17713"
 title: ""
-url: /dingen/2024/11/17713/
+aliases:
+  - /dingen/2024/11/17713/
 
 ---
 Reading these database migration stories is usually interesting, but what I found especially noteworthy here is that all of the Django features they used to make it easy for themselves have been in there for more than a decade.

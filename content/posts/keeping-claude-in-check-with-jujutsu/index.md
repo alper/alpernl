@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18270
 parent_post_id: null
 post_id: "18270"
 title: Keeping Claude in check with Jujutsu
-url: /dingen/2025/07/keeping-claude-in-check-with-jujutsu/
+aliases:
+  - /dingen/2025/07/keeping-claude-in-check-with-jujutsu/
 
 ---
 I've found it very useful to use [jj](https://github.com/jj-vcs/jj) to continuously and automatically snapshot the changes that Claude makes. This way if it does anything that I didn't want, it's incredibly easy to undo it and still keep a clean history.

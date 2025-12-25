@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4429
 parent_post_id: null
 post_id: "4429"
 title: Not their mothers and fathers
-url: /dingen/2013/03/not-their-mothers-and-fathers/
+aliases:
+  - /dingen/2013/03/not-their-mothers-and-fathers/
 
 ---
 [![Screen Shot 2013-03-20 at 22.49.53](Screen-Shot-2013-03-20-at-22.49.53-.png)](/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/)

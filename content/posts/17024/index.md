@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=17024
 parent_post_id: null
 post_id: "17024"
 title: ""
-url: /dingen/2023/02/17024/
+aliases:
+  - /dingen/2023/02/17024/
 
 ---
 https://sozialtheoristen.de/2023/02/05/ungleichheit-und-systemtheorie-die-blinden-flecken-in-luhmanns-theorie-der-gesellschaft/

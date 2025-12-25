@@ -15,7 +15,8 @@ tags:
   - travel-times
   - visualization
 title: Playing with Public (Transportation) Data
-url: /dingen/2008/09/playing-with-public-transportation-data/
+aliases:
+  - /dingen/2008/09/playing-with-public-transportation-data/
 
 ---
 As [promised a while back](/dingen/2008/06/workshop-session-on-geodata-visualization/) after we got our fill playing with the data I would release it to the public to see if you could come up with something interesting. I'd leaked the JSON file to [Kars](http://www.leapfrog.nl) and he applied his skills in visualizing things in processing ((With some help from [Ben Fry](http://benfry.com/).)) to the dataset.

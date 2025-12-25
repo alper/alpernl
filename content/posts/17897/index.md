@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17897
 parent_post_id: null
 post_id: "17897"
 title: ""
-url: /dingen/2025/01/17897/
+aliases:
+  - /dingen/2025/01/17897/
 
 ---
 A tear down of how women still get erased from narratives like Toshi here in the new Bob Dylan movie.

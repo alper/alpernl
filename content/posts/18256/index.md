@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18256
 parent_post_id: null
 post_id: "18256"
 title: ""
-url: /dingen/2025/06/18256/
+aliases:
+  - /dingen/2025/06/18256/
 
 ---
 For the many people who may not be intimately familiar with the workings of Turing machines, this visual and interactive guide should get them up to speed really nicely.

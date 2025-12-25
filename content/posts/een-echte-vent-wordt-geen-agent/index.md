@@ -11,7 +11,8 @@ tags:
   - movies
   - overheid
 title: Een echte vent wordt geen agent
-url: /dingen/2007/07/een-echte-vent-wordt-geen-agent/
+aliases:
+  - /dingen/2007/07/een-echte-vent-wordt-geen-agent/
 
 ---
 De politie gebruikt bij inperkingen van de privacy altijd het argument ‘Als u niets te verbergen heeft, heeft u ook niets te vrezen.’

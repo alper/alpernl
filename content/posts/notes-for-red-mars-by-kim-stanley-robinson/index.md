@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5606
 parent_post_id: null
 post_id: "5606"
 title: Highlights for Red Mars by Kim Stanley Robinson
-url: /dingen/2016/09/notes-for-red-mars-by-kim-stanley-robinson/
+aliases:
+  - /dingen/2016/09/notes-for-red-mars-by-kim-stanley-robinson/
 
 ---
 > “Whenever scientists say they’re Christian,”Sax said, “I take it to be an aesthetic statement.”

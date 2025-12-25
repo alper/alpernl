@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=557
 parent_post_id: null
 post_id: "557"
 title: Current affairs
-url: /dingen/2008/10/current-affairs/
+aliases:
+  - /dingen/2008/10/current-affairs/
 
 ---
 My days in Berkeley/Oakland ((About which more later.)) used to be filled with:

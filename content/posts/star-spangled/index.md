@@ -9,7 +9,8 @@ tags:
   - muziek
   - sport
 title: Star-spangled
-url: /dingen/2008/02/star-spangled/
+aliases:
+  - /dingen/2008/02/star-spangled/
 
 ---
 [Taplin schreef](http://jtaplin.wordpress.com/2008/02/03/girl-power/) gisteren dat Jordan Sparks ((American Idol winnares)) het Amerikaanse volkslied nailde voor de Super Bowl afgelopen zondag. Ik was benieuwd, hier het filmpje:

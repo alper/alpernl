@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5189
 parent_post_id: null
 post_id: "5189"
 title: Jumping to the end by Matt Jones
-url: /dingen/2015/03/jumping-to-the-end-by-matt-jones/
+aliases:
+  - /dingen/2015/03/jumping-to-the-end-by-matt-jones/
 
 ---
 [Matt Jones: Jumping to the End -- Practical Design Fiction](https://vimeo.com/121072011) from [Interaction Design Association](https://vimeo.com/ixdaglobal) on [Vimeo](https://vimeo.com).

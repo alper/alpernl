@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=16153
 parent_post_id: null
 post_id: "16153"
 title: Slate Star Codex and Silicon Valleyâ€™s War Against the Media
-url: /dingen/2020/07/slate-star-codex-and-silicon-valleys-war-against-the-media/
+aliases:
+  - /dingen/2020/07/slate-star-codex-and-silicon-valleys-war-against-the-media/
 
 ---
 An excellent overview of the issues around Slate Star Codex without having to read a single word of the blog yourself. That's an excellent service.

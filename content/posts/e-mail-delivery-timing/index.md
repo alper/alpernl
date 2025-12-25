@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=519
 parent_post_id: null
 post_id: "519"
 title: E-mail delivery timing
-url: /dingen/2008/09/e-mail-delivery-timing/
+aliases:
+  - /dingen/2008/09/e-mail-delivery-timing/
 
 ---
 [Mr. Hammersley asks](http://blog.benhammersley.com/post/49893547/calling-the-lazyweb-delayed-email-delivery) whether it's possible to delay the delivery of e-mail in a way to receive stuff in bulk at a certain time. Other than some creative spooling on a mailserver more dynamic than most in existence today, the easiest solution would probably be to setup a different GMail account called “lists-XXX@”and POP everything from there once a day either manually or scripted ((Remains the pain of having those lists accept your e-mail from a different address than the one that is subcribed.)).

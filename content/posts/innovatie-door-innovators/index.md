@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2165
 parent_post_id: null
 post_id: "2165"
 title: Innovatie door innovators
-url: /dingen/2010/10/innovatie-door-innovators/
+aliases:
+  - /dingen/2010/10/innovatie-door-innovators/
 
 ---
 Dit [fijne dubbelinterview](http://www.wired.com/magazine/2010/09/mf_kellyjohnson/all/1) met [Kevin Kelly](http://www.kk.org/) en [Steven Berlin Johnson](http://www.stevenberlinjohnson.com/) is nog wel het aardigst omdat het uitlegt waarom we Engels moeten praten.

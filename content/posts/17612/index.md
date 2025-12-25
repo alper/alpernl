@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17612
 parent_post_id: null
 post_id: "17612"
 title: ""
-url: /dingen/2024/10/17612/
+aliases:
+  - /dingen/2024/10/17612/
 
 ---
 Don't let a bit of data get in the way of some nice AI hype.

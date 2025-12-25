@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17346
 parent_post_id: null
 post_id: "17346"
 title: ""
-url: /dingen/2023/12/17346/
+aliases:
+  - /dingen/2023/12/17346/
 
 ---
 Notion has formulas now (!) and here's a formula to calculate a Cost of Delay column based on two other columns:

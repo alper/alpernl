@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2227
 parent_post_id: null
 post_id: "2227"
 title: Design Mind Salon - The Quotable Buxton
-url: /dingen/2010/10/design-mind-salon-the-quotable-buxton/
+aliases:
+  - /dingen/2010/10/design-mind-salon-the-quotable-buxton/
 
 ---
 Last week I attended the Design Mind Salon with Bill Buxton (our hero) as one of its speakers. I managed to jot down some quotes by him. All of these are paraphrases but they're good ones:

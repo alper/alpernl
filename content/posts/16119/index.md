@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16119
 parent_post_id: null
 post_id: "16119"
 title: ""
-url: /dingen/2020/06/16119/
+aliases:
+  - /dingen/2020/06/16119/
 
 ---
 This interview with Marc Andreessen is mostly interesting for the talk about productivity and operations.

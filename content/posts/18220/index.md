@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18220
 parent_post_id: null
 post_id: "18220"
 title: ""
-url: /dingen/2025/04/18220/
+aliases:
+  - /dingen/2025/04/18220/
 
 ---
 A dive into Stafford Beer's systems thinking that uncovers the ANT-style depth that's often glossed over. That notwithstanding, I still think the glib and reductive [POSIWID](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does) has its uses.

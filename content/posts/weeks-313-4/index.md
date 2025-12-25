@@ -13,7 +13,8 @@ post_id: "4463"
 tags:
   - weeknotes
 title: Weeks 313-4
-url: /dingen/2013/03/weeks-313-4/
+aliases:
+  - /dingen/2013/03/weeks-313-4/
 
 ---
 Two week notes in one because last week seems to have been too busy to write any.

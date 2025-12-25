@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1134
 parent_post_id: null
 post_id: "1134"
 title: Tour de France live online, of toch niet?
-url: /dingen/2009/07/tour-de-france-live-online-of-toch-niet/
+aliases:
+  - /dingen/2009/07/tour-de-france-live-online-of-toch-niet/
 
 ---
 [![NOS | Tour de France 2009 | Live](http://farm3.static.flickr.com/2559/3709743770_d1c1e19d16.jpg)](http://www.flickr.com/photos/alper/3709743770/ "NOS | Tour de France 2009 | Live by illustir, on Flickr")

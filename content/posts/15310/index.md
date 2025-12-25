@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15310
 parent_post_id: null
 post_id: "15310"
 title: ""
-url: /dingen/2019/04/15310/
+aliases:
+  - /dingen/2019/04/15310/
 
 ---
 Here is the sad recounting how the Dutch media fueled the rise of a white nationalist politician to the point where he's polling as the second largest party now.  

@@ -13,7 +13,8 @@ post_id: "2680"
 tags:
   - weeknotes
 title: Week 222
-url: /dingen/2011/06/week-222/
+aliases:
+  - /dingen/2011/06/week-222/
 
 ---
 The week was mostly spent doing stuff for either [Statlas](http://statlas.nl) or for another project on the essence of architecture.

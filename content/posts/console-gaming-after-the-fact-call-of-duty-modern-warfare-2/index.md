@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5095
 parent_post_id: null
 post_id: "5095"
 title: 'Console gaming after the fact: Call of Duty Modern Warfare 2'
-url: /dingen/2015/01/console-gaming-after-the-fact-call-of-duty-modern-warfare-2/
+aliases:
+  - /dingen/2015/01/console-gaming-after-the-fact-call-of-duty-modern-warfare-2/
 
 ---
 > [Modern Warfare 2, I'm in a deep cover mission with a Russian terrorist and anytime I kill a civilian I have to restart. Whenever I die the game gives me quotes by Cheney and Gandhi.](https://instagram.com/p/xAL4wlyaid/)

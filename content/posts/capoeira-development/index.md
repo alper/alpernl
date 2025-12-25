@@ -15,7 +15,8 @@ tags:
   - uncategorized
   - wapse
 title: Capoeira Development
-url: /dingen/2008/08/capoeira-development/
+aliases:
+  - /dingen/2008/08/capoeira-development/
 
 ---
 A weekend with friends for me only reaches conclusion after the pictures have been edited and placed online. The process takes some time but also allows/forces me to relive it. This time the process has been further prolonged because I have to wait until somewhere next week to pick up my developed film.

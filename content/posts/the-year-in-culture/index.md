@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5450
 parent_post_id: null
 post_id: "5450"
 title: The year in culture
-url: /dingen/2015/12/the-year-in-culture/
+aliases:
+  - /dingen/2015/12/the-year-in-culture/
 
 ---
 I have a personal log of culture consumed going back to 2003. This year was a particular low on many counts. I have been busy and I don't ascribe the same value to consuming culture pure for the goal of consuming it anymore. Been there, done that.

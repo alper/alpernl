@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15739
 parent_post_id: null
 post_id: "15739"
 title: ""
-url: /dingen/2019/09/15739/
+aliases:
+  - /dingen/2019/09/15739/
 
 ---
 All online metrics are a fraud.

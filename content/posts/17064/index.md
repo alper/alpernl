@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17064
 parent_post_id: null
 post_id: "17064"
 title: ""
-url: /dingen/2023/02/17064/
+aliases:
+  - /dingen/2023/02/17064/
 
 ---
 I read this thorough survey of monospace fonts by Tim Bray and found out in the end that I've already been using the fonts that he recommends (Jetbrains Mono and Inconsolata) for a while now.

@@ -10,7 +10,8 @@ tags:
   - drinken
   - eten
 title: No more bagels
-url: /dingen/2007/12/no-more-bagels/
+aliases:
+  - /dingen/2007/12/no-more-bagels/
 
 ---
 [![Store](http://farm3.static.flickr.com/2159/2123070515_0103b859b3.jpg)](http://www.flickr.com/photos/alper/2123070515/ "Store by illustir, on Flickr")

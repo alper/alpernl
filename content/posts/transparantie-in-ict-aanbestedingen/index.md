@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2395
 parent_post_id: null
 post_id: "2395"
 title: Transparantie in ICT-aanbestedingen
-url: /dingen/2011/01/transparantie-in-ict-aanbestedingen/
+aliases:
+  - /dingen/2011/01/transparantie-in-ict-aanbestedingen/
 
 ---
 Ik ben meer dan een beetje benieuwd hoe het aanbestedingstraject van grote ICT-projecten bij de overheid verloopt. De uitkomsten zijn zo raar en uiteenlopend dat ik me afvraag of er een eenduidig model achter steekt. En als er dan niks onoorbaars gebeurt tijdens zo'n traject, waarom zou ik er dan niet bij mogen zitten? Ik ben best bereid een NDA te tekenen.

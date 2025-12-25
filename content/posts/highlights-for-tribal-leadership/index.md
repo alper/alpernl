@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6101
 parent_post_id: null
 post_id: "6101"
 title: Highlights for Tribal Leadership
-url: /dingen/2019/01/highlights-for-tribal-leadership/
+aliases:
+  - /dingen/2019/01/highlights-for-tribal-leadership/
 
 ---
 > First, they spent most of their efforts building strong relationships between Griffin’s tribal members—its employees, volunteers, and patients. Second, instead of telling people what to do, they engineered experiences (such as the retreats) in which staff members would look at the same issues they were dealing with, so that strategy became everyone’s problem. Third, they got out of the way and let people contribute in their own way to the emerging tribal goals.

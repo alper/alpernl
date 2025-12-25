@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15356
 parent_post_id: null
 post_id: "15356"
 title: ""
-url: /dingen/2019/04/15356/
+aliases:
+  - /dingen/2019/04/15356/
 
 ---
 A worth-while apology for Design Thinking:

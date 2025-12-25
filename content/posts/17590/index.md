@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17590
 parent_post_id: null
 post_id: "17590"
 title: ""
-url: /dingen/2024/08/17590/
+aliases:
+  - /dingen/2024/08/17590/
 
 ---
 I don't agree that naming is that hard but I do agree with Steve Klabnik here that we should avoid redundant naming if at all possible. Say on Github I have to describe my commit, name my branch and then also title my Pull Request. It's a bit much.

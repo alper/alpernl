@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17911
 parent_post_id: null
 post_id: "17911"
 title: ""
-url: /dingen/2025/01/17911/
+aliases:
+  - /dingen/2025/01/17911/
 
 ---
 [Maps for where you've been](https://tenpages.github.io/us-level/us.html) in Europe and the US ( [via](http://www.iamcal.com/2025-01/10229/)). Stayed means having spent a night there which means the only places I've visited and not spent the night are Slovenia (went over the border to hike a mountain there) and the Vatican.

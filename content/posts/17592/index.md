@@ -8,7 +8,8 @@ guid: https://alper.nl/dingen/?p=17592
 parent_post_id: null
 post_id: "17592"
 title: ""
-url: /dingen/2024/08/17592/
+aliases:
+  - /dingen/2024/08/17592/
 
 ---
 That skateboarding originated out of the byproduct of one of Alvar Aalto's designs should not be that surprising. Architecture (built and coded) determines large parts of human behaviour.

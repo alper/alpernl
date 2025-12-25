@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5964
 parent_post_id: null
 post_id: "5964"
 title: Highlights for Sapiens
-url: /dingen/2018/03/highlights-for-sapiens/
+aliases:
+  - /dingen/2018/03/highlights-for-sapiens/
 
 ---
 > Humankind paid for its lofty vision and industrious hands with backaches and stiff necks.

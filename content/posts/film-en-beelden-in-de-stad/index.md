@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=739
 parent_post_id: null
 post_id: "739"
 title: Film en beelden in de stad
-url: /dingen/2009/01/film-en-beelden-in-de-stad/
+aliases:
+  - /dingen/2009/01/film-en-beelden-in-de-stad/
 
 ---
 Het heruitvinden van de steden is in gevallen [zoals Los Angeles](http://hammer.ucla.edu/programs/detail/program_id/128) iets urgenter dan hier, maar een huizenmarkt die niet op slot is en een leuke publieke ruimte zou ik hier ook op prijs stellen.

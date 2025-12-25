@@ -18,7 +18,8 @@ tags:
   - visualization
   - workshop
 title: Workshop session on geodata visualization
-url: /dingen/2008/06/workshop-session-on-geodata-visualization/
+aliases:
+  - /dingen/2008/06/workshop-session-on-geodata-visualization/
 
 ---
 Yesterday we had an [afternoon of workshops](http://studio4stagioni.nl/2008/06/workshop-13-juni/) in an unconference style event at [the office](http://studio4stagioni.nl/). A full registration of the event with video and slides will be published during the course of this weekend, but unfortunately most of it will be [in Dutch](http://studio4stagioni.nl/2008/06/workshops-kickoff/).

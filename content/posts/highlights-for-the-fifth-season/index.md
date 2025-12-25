@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5956
 parent_post_id: null
 post_id: "5956"
 title: Highlights for The Fifth Season
-url: /dingen/2018/03/highlights-for-the-fifth-season/
+aliases:
+  - /dingen/2018/03/highlights-for-the-fifth-season/
 
 ---
 > Accepted members of a comm are those who have been accorded rights of cache-share and protection, and who in turn support the comm through taxes or other contributions.

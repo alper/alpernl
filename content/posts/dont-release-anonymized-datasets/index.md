@@ -23,7 +23,8 @@ guid: http://alper.nl/dingen/?p=4600
 parent_post_id: null
 post_id: "4600"
 title: Don't release anonymized datasets
-url: /dingen/2013/05/dont-release-anonymized-datasets/
+aliases:
+  - /dingen/2013/05/dont-release-anonymized-datasets/
 
 ---
 There is no thing as an anonymized dataset. Anybody propagating this idea even tacitly is doing a disservice to the informed debate on privacy. Here's a round up with some recent cases.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17416
 parent_post_id: null
 post_id: "17416"
 title: ""
-url: /dingen/2024/01/17416/
+aliases:
+  - /dingen/2024/01/17416/
 
 ---
 A good but not definitive guide of how to think about where to apply yourself in your career and how to be useful.

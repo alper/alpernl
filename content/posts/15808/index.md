@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15808
 parent_post_id: null
 post_id: "15808"
 title: ""
-url: /dingen/2019/11/15808/
+aliases:
+  - /dingen/2019/11/15808/
 
 ---
 An accessible and highly educational overview of the most important lines of code ever written.

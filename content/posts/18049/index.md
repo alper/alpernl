@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18049
 parent_post_id: null
 post_id: "18049"
 title: ""
-url: /dingen/2025/02/18049/
+aliases:
+  - /dingen/2025/02/18049/
 
 ---
 Good luck hiring talent for your struggling economy with racism becoming even more rampant than it normally is. Not that that is the only problem facing Germany, but it's a huge distraction for all parties while nothing material has improved for decades.

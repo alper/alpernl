@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5706
 parent_post_id: null
 post_id: "5706"
 title: Highlights from Blue Mars
-url: /dingen/2017/01/highlights-from-blue-mars/
+aliases:
+  - /dingen/2017/01/highlights-from-blue-mars/
 
 ---
 > it might have been only a temporary confluence of interests, but everything was temporary now— with so many traditions broken or vanished, it left what John used to call the necessity of creation;

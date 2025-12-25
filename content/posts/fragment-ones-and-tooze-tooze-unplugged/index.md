@@ -19,7 +19,8 @@ guid: https://alper.nl/dingen/?p=17239
 parent_post_id: null
 post_id: "17239"
 title: 'Fragment Ones and Tooze: Tooze Unplugged'
-url: /dingen/2023/07/fragment-ones-and-tooze-tooze-unplugged/
+aliases:
+  - /dingen/2023/07/fragment-ones-and-tooze-tooze-unplugged/
 
 ---
 {{< audio src="Tooze-Clip.mp3" >}}

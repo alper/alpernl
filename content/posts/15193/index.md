@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15193
 parent_post_id: null
 post_id: "15193"
 title: ""
-url: /dingen/2019/02/15193/
+aliases:
+  - /dingen/2019/02/15193/
 
 ---
 I didn't think I would be working with MISP, a threat intelligence platform written in PHP but now I am and here you can read a bit more about the various things we're doing with it.

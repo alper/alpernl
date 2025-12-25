@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16089
 parent_post_id: null
 post_id: "16089"
 title: ""
-url: /dingen/2020/05/16089/
+aliases:
+  - /dingen/2020/05/16089/
 
 ---
 I had put the Ray Dalio book on my do-not-read pile even before knowing exactly how evil it is.

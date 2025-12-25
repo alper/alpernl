@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15851
 parent_post_id: null
 post_id: "15851"
 title: ""
-url: /dingen/2019/11/15851/
+aliases:
+  - /dingen/2019/11/15851/
 
 ---
 Nice to find some more socially conscious and also quality rap in Germany.

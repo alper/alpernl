@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16312
 parent_post_id: null
 post_id: "16312"
 title: ""
-url: /dingen/2020/09/16312/
+aliases:
+  - /dingen/2020/09/16312/
 
 ---
 Once we expect leadership to come from everybody at work, engineers don't have to switch to management anymore to be able to lead and be rewarded for it.

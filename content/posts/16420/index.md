@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16420
 parent_post_id: null
 post_id: "16420"
 title: ""
-url: /dingen/2021/02/16420/
+aliases:
+  - /dingen/2021/02/16420/
 
 ---
 I immediately understand it but I've never seen it articulated as explicitly as here by the Singapore Civil Service College: "The main value in software is not the code produced, but the knowledge accumulated by the people who produced it."

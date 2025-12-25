@@ -17,7 +17,8 @@ guid: https://alper.nl/dingen/?p=17095
 parent_post_id: null
 post_id: "17095"
 title: ""
-url: /dingen/2023/03/17095/
+aliases:
+  - /dingen/2023/03/17095/
 
 ---
 It's super lovely that Berlin has a lab which does these kind of user tested innovations on city processes. The work that needs to be done is written up here and it's relatively straight-forward (there are just no short-cuts).

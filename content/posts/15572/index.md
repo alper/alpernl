@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15572
 parent_post_id: null
 post_id: "15572"
 title: ""
-url: /dingen/2019/07/15572/
+aliases:
+  - /dingen/2019/07/15572/
 
 ---
 My foray into local politics showed me that more than anything the Grüne are a party of yuppies without much or any social face behind it.

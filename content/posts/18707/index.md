@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18707
 parent_post_id: null
 post_id: "18707"
 title: ""
-url: /dingen/2025/12/18707/
+aliases:
+  - /dingen/2025/12/18707/
 
 ---
 I'm glad that Robert Yang is still making games like these. One of the more original and interesting thinkers in game design/development.

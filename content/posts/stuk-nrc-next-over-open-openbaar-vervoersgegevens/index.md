@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2245
 parent_post_id: null
 post_id: "2245"
 title: Stuk NRC.next over open openbaar vervoersgegevens
-url: /dingen/2010/10/stuk-nrc-next-over-open-openbaar-vervoersgegevens/
+aliases:
+  - /dingen/2010/10/stuk-nrc-next-over-open-openbaar-vervoersgegevens/
 
 ---
 Morgenochtend staat er op de opiniepagina een stuk in de [NRC.next](http://www.nrcnext.nl/) van mij over de noodzaak van open openbaar vervoersgegevens in relatie tot de huidige vervoerders en het [NDOV](/dingen/index.php?s=NDOV).

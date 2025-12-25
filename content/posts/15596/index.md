@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15596
 parent_post_id: null
 post_id: "15596"
 title: ""
-url: /dingen/2019/08/15596/
+aliases:
+  - /dingen/2019/08/15596/
 
 ---
 Instead of giving up, let's hope that climate despair pushes people towards increasingly radical action.

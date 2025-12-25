@@ -10,7 +10,8 @@ post_id: "304"
 tags:
   - uncategorized
 title: Code Switching
-url: /dingen/2008/06/code-switching/
+aliases:
+  - /dingen/2008/06/code-switching/
 
 ---
 Het is tegenover mijn potentiele internationale publiek niet echt eerlijk om Nederlands te schrijven, terwijl ik het Engels bijna net zo goed beheers.

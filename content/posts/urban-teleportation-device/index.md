@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1147
 parent_post_id: null
 post_id: "1147"
 title: Urban Teleportation Device
-url: /dingen/2009/08/urban-teleportation-device/
+aliases:
+  - /dingen/2009/08/urban-teleportation-device/
 
 ---
 I can't say enough how pleased I am to be riding this bike through the city.

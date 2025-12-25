@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17890
 parent_post_id: null
 post_id: "17890"
 title: ""
-url: /dingen/2025/01/17890/
+aliases:
+  - /dingen/2025/01/17890/
 
 ---
 I've had to spend more time than I like thinking about how datetimes are stored in databases and even the commonly accepted practice of storing UTC does not work for all cases.

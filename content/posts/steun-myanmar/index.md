@@ -9,7 +9,8 @@ tags:
   - corruptie
   - politiek
 title: Steun Myanmar
-url: /dingen/2007/09/steun-myanmar/
+aliases:
+  - /dingen/2007/09/steun-myanmar/
 
 ---
 Goed idee trouwens van [PICNIC af](http://www.picnicnetwork.org), doe morgen rood aan als teken van solidariteit met de monniken en de mensen van Myanmar.

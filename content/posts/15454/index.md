@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15454
 parent_post_id: null
 post_id: "15454"
 title: ""
-url: /dingen/2019/05/15454/
+aliases:
+  - /dingen/2019/05/15454/
 
 ---
 I am hard out at three 2/3 days a week to pick up my children and stayed at home last Friday to take care of a sick kid, so I am doing my best to parent very much out in the open in my workplace. It helps that my grandboss is also very explicit about this but I still find it difficult.

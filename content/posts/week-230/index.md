@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2734
 parent_post_id: null
 post_id: "2734"
 title: Week 230
-url: /dingen/2011/08/week-230/
+aliases:
+  - /dingen/2011/08/week-230/
 
 ---
 [![Gem Slime](http://farm7.static.flickr.com/6069/6028630385_f03969df92.jpg)](http://www.flickr.com/photos/alper/6028630385/ "Gem Slime by illustir, on Flickr")

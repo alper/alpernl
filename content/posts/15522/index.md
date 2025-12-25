@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15522
 parent_post_id: null
 post_id: "15522"
 title: ""
-url: /dingen/2019/06/15522/
+aliases:
+  - /dingen/2019/06/15522/
 
 ---
 Reading about Amsterdam canceling 10'000 parking spaces, does make me feel as if I'm living in an idiot's city.

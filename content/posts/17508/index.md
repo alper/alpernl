@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17508
 parent_post_id: null
 post_id: "17508"
 title: ""
-url: /dingen/2024/03/17508/
+aliases:
+  - /dingen/2024/03/17508/
 
 ---
 Besides being a clear warning that the open source party is over, this article is a good overview of the different service mesh offerings out there and how they compare to one another. It beats having to wade through the endless amounts of vendor material that's out there.

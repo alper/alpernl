@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16974
 parent_post_id: null
 post_id: "16974"
 title: ""
-url: /dingen/2023/01/16974/
+aliases:
+  - /dingen/2023/01/16974/
 
 ---
 We've mapped our metrics and levers in Double Loop as a platform org and are now seeing this approach spread through the company.

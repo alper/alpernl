@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=6031
 parent_post_id: null
 post_id: "6031"
 title: Highlights for Why We Sleep
-url: /dingen/2018/07/highlights-for-why-we-sleep/
+aliases:
+  - /dingen/2018/07/highlights-for-why-we-sleep/
 
 ---
 > Short sleeping increases the likelihood of your coronary arteries becoming blocked and brittle, setting you on a path toward cardiovascular disease, stroke, and congestive heart failure.

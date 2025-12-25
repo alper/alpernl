@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16283
 parent_post_id: null
 post_id: "16283"
 title: ""
-url: /dingen/2020/09/16283/
+aliases:
+  - /dingen/2020/09/16283/
 
 ---
 Once you've worked with post-commit reviews, I promise you will not want to go back to the PR way of working again.

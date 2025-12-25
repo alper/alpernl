@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5620
 parent_post_id: null
 post_id: "5620"
 title: Highlights from Slouching Towards Bethlehem by Joan Didion
-url: /dingen/2016/09/highlights-from-slouching-towards-bethlehem-by-joan-didion/
+aliases:
+  - /dingen/2016/09/highlights-from-slouching-towards-bethlehem-by-joan-didion/
 
 ---
 > That is one last thing to remember: writers are always selling somebody out.

@@ -10,7 +10,8 @@ tags:
   - klantenervaring
   - koffie
 title: 'AD Koffietest: dieper in op Delft'
-url: /dingen/2007/10/ad-koffietest/
+aliases:
+  - /dingen/2007/10/ad-koffietest/
 
 ---
 Via [Oliver](http://www.oliver3.nl/) de [AD-koffietest](http://www.ad.nl/koffietest/) binnengekregen en daarin staat wat elke koffieliefhebber al weet: in Nederland wordt je schandelijk behandeld als koffiedrinker.

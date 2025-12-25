@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1543
 parent_post_id: null
 post_id: "1543"
 title: Big Data makes me horny
-url: /dingen/2010/01/big-data-makes-me-horny/
+aliases:
+  - /dingen/2010/01/big-data-makes-me-horny/
 
 ---
 Today at an event called ‘What makes you horny?’ ( [#wmyh](http://search.twitter.com/search?q=%23wmyh)), I gave a presentation about my inspiration: Big Data.

@@ -17,7 +17,8 @@ tags:
   - portrait
   - uncategorized
 title: Fast Portraits
-url: /dingen/2008/06/fast-portraits/
+aliases:
+  - /dingen/2008/06/fast-portraits/
 
 ---
 Last week we had the batizado for our group with people coming in from Amsterdam, Norway, London and Portugal just to celebrate this event together. The batizado with associated parties and barbecues is a highlight of the year and this year proved to be a great amount of fun.

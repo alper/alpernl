@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17667
 parent_post_id: null
 post_id: "17667"
 title: ""
-url: /dingen/2024/11/17667/
+aliases:
+  - /dingen/2024/11/17667/
 
 ---
 GitHub Copilot is like every Microsoft product. Everybody uses it because it comes bundled in their company contract but nobody likes it.

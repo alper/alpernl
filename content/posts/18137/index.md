@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18137
 parent_post_id: null
 post_id: "18137"
 title: ""
-url: /dingen/2025/02/18137/
+aliases:
+  - /dingen/2025/02/18137/
 
 ---
 I usually enjoy Cortex's romps into productivity porn, but what struck me here is that they open with Grey discovering Asana and how he spent the week setting his business and life up in it.

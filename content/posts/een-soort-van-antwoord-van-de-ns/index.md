@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=899
 parent_post_id: null
 post_id: "899"
 title: Een soort van antwoord van de NS
-url: /dingen/2009/04/een-soort-van-antwoord-van-de-ns/
+aliases:
+  - /dingen/2009/04/een-soort-van-antwoord-van-de-ns/
 
 ---
 Ik vernam al dat de NS op de afgelopen Mobile Monday probeerde hun nieuwe reisplanner te pitchen. Dat was afgaand op [de reacties via Twitter](http://search.twitter.com/search?q=momo+ns) geen doorslaand succes.

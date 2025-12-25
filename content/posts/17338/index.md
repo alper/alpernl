@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17338
 parent_post_id: null
 post_id: "17338"
 title: ""
-url: /dingen/2023/12/17338/
+aliases:
+  - /dingen/2023/12/17338/
 
 ---
 Listening to the Trash Future team describe CulturePulse.ai and the digital twin profile created for entire populations seems very very reminiscent of [“The Red Men”](https://www.goodreads.com/en/book/show/2263657) by Matthew de Abaitua which didn't get the attention it deserved but was quite prescient.

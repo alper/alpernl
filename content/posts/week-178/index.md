@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2036
 parent_post_id: null
 post_id: "2036"
 title: Week 178
-url: /dingen/2010/08/week-178/
+aliases:
+  - /dingen/2010/08/week-178/
 
 ---
 This week was dominated by a bunch of things. Preparations for Stekkerfest and touching up the website for that were very important. Also anticipation for the live demonstration of the first PLAY Pilots live game by [Fourcelabs](http://www.fourcelabs.com/).

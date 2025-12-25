@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16839
 parent_post_id: null
 post_id: "16839"
 title: ""
-url: /dingen/2022/08/16839/
+aliases:
+  - /dingen/2022/08/16839/
 
 ---
 Goed werk van de Groene wat onthult hoe Kroes ervoor zorgde dat Uber zijn gang kon gaan in Nederland. Het zou me verbazen als Uber het enige bedrijf was waar StartupDelta zo'n rol voor gespeeld heeft.

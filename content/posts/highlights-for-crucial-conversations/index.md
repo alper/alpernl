@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16035
 parent_post_id: null
 post_id: "16035"
 title: Highlights for Crucial Conversations
-url: /dingen/2020/03/highlights-for-crucial-conversations/
+aliases:
+  - /dingen/2020/03/highlights-for-crucial-conversations/
 
 ---
 > As it turns out, you don’t have to choose between being honest and being effective. You don’t have to choose between candor and your career. People who routinely hold crucial conversations and hold them well are able to express controversial and even risky opinions in a way that gets heard. Their bosses, peers, and direct reports listen without becoming defensive or angry.

@@ -19,7 +19,8 @@ tags:
   - video
   - youtube
 title: Lazy ass music videos
-url: /dingen/2008/11/lazy-ass-music-videos/
+aliases:
+  - /dingen/2008/11/lazy-ass-music-videos/
 
 ---
 So I get bored on a Friday night and I want a decent way to watch music videos. Rather than look for a service which provides this ((Surely there are a ton of usable music video players online by now.)), I decided to revive our own toy of a couple years ago, so it's alive (again!): [LastTV](http://lasttv.net/).

@@ -16,7 +16,8 @@ guid: http://alper.nl/dingen/?p=15363
 parent_post_id: null
 post_id: "15363"
 title: ""
-url: /dingen/2019/04/15363/
+aliases:
+  - /dingen/2019/04/15363/
 
 ---
 “The economic costs Airbnb imposes likely outweigh the benefits.”

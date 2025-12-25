@@ -14,7 +14,8 @@ tags:
   - huis
   - reizen
 title: Slaapkamerraam
-url: /dingen/2008/04/slaapkamerraam/
+aliases:
+  - /dingen/2008/04/slaapkamerraam/
 
 ---
 Mony attendeerde me op de laatste challenge van JPGMag, een foto genomen uit je slaapkamerraam.

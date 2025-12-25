@@ -18,7 +18,8 @@ post_id: "4061"
 tags:
   - weeknotes
 title: 'Week 300: odds and ends'
-url: /dingen/2012/12/week-300/
+aliases:
+  - /dingen/2012/12/week-300/
 
 ---
 Last week was a week without travel or deadlines so a lot of stuff that had been lying around for too long got done.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5563
 parent_post_id: null
 post_id: "5563"
 title: Tweet coverage of the 2016 Bot Summit at the V&A in London
-url: /dingen/2016/04/tweet-coverage-of-the-2016-bot-summit-at-the-va-in-london/
+aliases:
+  - /dingen/2016/04/tweet-coverage-of-the-2016-bot-summit-at-the-va-in-london/
 
 ---
 I was at the [2016 Bot Summit](http://tinysubversions.com/botsummit/2016/) in London a couple of weeks ago. I did my best to capture salient points from every talk in a tweet. Here are all of them in order.

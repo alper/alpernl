@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15863
 parent_post_id: null
 post_id: "15863"
 title: 'Types and Functions 4: Containers'
-url: /dingen/2019/11/types-and-functions-4-containers/
+aliases:
+  - /dingen/2019/11/types-and-functions-4-containers/
 
 ---
 > _Functor_ is simply an interface with a contract. We could have just as easily named it _Mappable_, but now, where's the _fun_ in that?

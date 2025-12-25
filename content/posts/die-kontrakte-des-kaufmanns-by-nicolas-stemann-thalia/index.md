@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=3734
 parent_post_id: null
 post_id: "3734"
 title: Die Kontrakte des Kaufmanns by Nicolas Stemann & Thalia
-url: /dingen/2012/07/die-kontrakte-des-kaufmanns-by-nicolas-stemann-thalia/
+aliases:
+  - /dingen/2012/07/die-kontrakte-des-kaufmanns-by-nicolas-stemann-thalia/
 
 ---
 Ever since [the recent re-enactment of Hamlet](http://www.thalia-theater.de/h/repertoire_33_de.php?play=243) by Luk Perceval, I have wanted to see something by the Hamburg Thalia theater. Last year I saw Luk Perceval stage [Disgrace at TA](http://www.tga.nl/voorstellingen/in-ongenade) which was a good display by itself, but still the Thalia remained elusive.

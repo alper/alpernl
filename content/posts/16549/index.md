@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16549
 parent_post_id: null
 post_id: "16549"
 title: ""
-url: /dingen/2021/08/16549/
+aliases:
+  - /dingen/2021/08/16549/
 
 ---
 A nice deep dive into some low level memory details of Rust as compared to more dynamic languages.

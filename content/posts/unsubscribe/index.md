@@ -9,7 +9,8 @@ tags:
   - oorlog
   - politiek
 title: Unsubscribe
-url: /dingen/2007/11/unsubscribe/
+aliases:
+  - /dingen/2007/11/unsubscribe/
 
 ---
 Toeval na [bericht van gisteren](/dingen/2007/11/wat-heb-je-te-verbergen/) dat Spaink vandaag over de columns-mailinglijst met het bericht komt van de nieuwe Amnesty International-campagne [“Unsubscribe.”](http://www.unsubscribe-me.org/waitingfortheguards.php) Deze gaat over de War on Terror, die zogenaamde oorlog waardoor we onze privacy en burgervrijheden kwijt raken in Europa wat later dan in Amerika, maar zeker niet veel minder.

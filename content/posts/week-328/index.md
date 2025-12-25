@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=4695
 parent_post_id: null
 post_id: "4695"
 title: Week 328
-url: /dingen/2013/07/week-328/
+aliases:
+  - /dingen/2013/07/week-328/
 
 ---
 Travel is making it hard to keep up writing these notes weekly (or write anything for that matter). So this blog is [turning into an expensive affair](http://ironbloggerberlin.com/).

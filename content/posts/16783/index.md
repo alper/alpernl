@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=16783
 parent_post_id: null
 post_id: "16783"
 title: ""
-url: /dingen/2022/04/16783/
+aliases:
+  - /dingen/2022/04/16783/
 
 ---
 Who knows… maybe I'll go back to engineering at some point. There's lots of good reasons to go back and forth a bit between the two for a while.

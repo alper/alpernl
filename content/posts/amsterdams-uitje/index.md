@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2349
 parent_post_id: null
 post_id: "2349"
 title: Amsterdams Uitje
-url: /dingen/2010/12/amsterdams-uitje/
+aliases:
+  - /dingen/2010/12/amsterdams-uitje/
 
 ---
 [![](http://farm6.static.flickr.com/5006/5279958944_5d3849b018.jpg)](http://www.flickr.com/photos/straboh/5279958944/ "Untitled by straboh, on Flickr")

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15352
 parent_post_id: null
 post_id: "15352"
 title: ""
-url: /dingen/2019/04/15352/
+aliases:
+  - /dingen/2019/04/15352/
 
 ---
 > “Everyone else, money manager big or small, met with him virtually, over Zoom. When Yuan flew to New York for the IPO, it was just his eighth work trip in five years.”

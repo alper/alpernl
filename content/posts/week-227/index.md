@@ -14,7 +14,8 @@ post_id: "2729"
 tags:
   - weeknotes
 title: Week 227
-url: /dingen/2011/07/week-227/
+aliases:
+  - /dingen/2011/07/week-227/
 
 ---
 Monday I went off exploring a [fort](http://forteiland.nl) for an upcoming [Hack de Overheid](http://hackdeoverheid.nl) event. The industrial scenery and weather at the sea locks of IJmuiden was positively apocalyptic that day.

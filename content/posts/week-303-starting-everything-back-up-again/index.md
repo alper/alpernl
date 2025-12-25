@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=4172
 parent_post_id: null
 post_id: "4172"
 title: 'Week 303: starting everything back up again'
-url: /dingen/2013/01/week-303-starting-everything-back-up-again/
+aliases:
+  - /dingen/2013/01/week-303-starting-everything-back-up-again/
 
 ---
 Nothing much happened during the Christmas week before, so I decided to skip that note. Most of Berlin shut down into a deep hibernation normally only witnessed in student towns.

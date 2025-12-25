@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5061
 parent_post_id: null
 post_id: "5061"
 title: Capitalism is magical
-url: /dingen/2014/11/capitalism-is-magical/
+aliases:
+  - /dingen/2014/11/capitalism-is-magical/
 
 ---
 A story I meant to write up for a while is my discovery of the German rap formation [K.I.Z.](http://en.m.wikipedia.org/wiki/K.I.Z.) (Kapitalismus ist Zauberhaft) and with that German pop culture that is actually worthwhile and fun.

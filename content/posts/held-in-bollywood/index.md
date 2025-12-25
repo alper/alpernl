@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=825
 parent_post_id: null
 post_id: "825"
 title: Held in Bollywood
-url: /dingen/2009/03/held-in-bollywood/
+aliases:
+  - /dingen/2009/03/held-in-bollywood/
 
 ---
 Net in de sneak de Nederlandse productie [Bollywood Hero](http://www.bollywoodhero.nl/) gezien. Dat er een hausse aan Bollywood films zou volgen op het succes van [Slumdog Millionaire](http://www.imdb.com/title/tt1010048/) stond vast, maar dit is wel erg rap.

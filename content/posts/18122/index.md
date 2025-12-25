@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18122
 parent_post_id: null
 post_id: "18122"
 title: ""
-url: /dingen/2025/02/18122/
+aliases:
+  - /dingen/2025/02/18122/
 
 ---
 I can relate to this because I'm using Cursor to write a bit of Gleam where it's usually off entirely because this is such a small language.

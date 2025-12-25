@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17817
 parent_post_id: null
 post_id: "17817"
 title: ""
-url: /dingen/2024/12/17817/
+aliases:
+  - /dingen/2024/12/17817/
 
 ---
 > The low-latency user wants Bigtable’s request queues to be (almost always) empty so that the system can process each outstanding request immediately upon arrival. (Indeed, inefficient queuing is often a cause of high tail latency.) The user concerned with offline analysis is more interested in system throughput, so that user wants request queues to never be empty. To optimize for throughput, the Bigtable system should never need to idle while waiting for its next request.

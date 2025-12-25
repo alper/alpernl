@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18480
 parent_post_id: null
 post_id: "18480"
 title: Iseji - Day 1 - Tamura to Misedani
-url: /dingen/2025/11/iseji-day-1-tamura-to-misedani/
+aliases:
+  - /dingen/2025/11/iseji-day-1-tamura-to-misedani/
 
 ---
 The day started late after jetlag kept me up between 2-5am. Then when I finally got to sleep, it was time to get up and leave. The Fitbit clocks me at 3h47m of sleep.

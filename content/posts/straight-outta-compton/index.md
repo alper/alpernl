@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5297
 parent_post_id: null
 post_id: "5297"
 title: Straight outta ComptonÂ 
-url: /dingen/2015/09/straight-outta-compton/
+aliases:
+  - /dingen/2015/09/straight-outta-compton/
 
 ---
 [![LwoaE](LwoaE.jpg)](/dingen/2015/09/straight-outta-compton/lwoae/)

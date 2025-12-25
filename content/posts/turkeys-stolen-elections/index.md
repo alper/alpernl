@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4946
 parent_post_id: null
 post_id: "4946"
 title: Turkey's stolen elections
-url: /dingen/2014/04/turkeys-stolen-elections/
+aliases:
+  - /dingen/2014/04/turkeys-stolen-elections/
 
 ---
 I have followed the Turkish elections on the night from Sunday to Monday which turned into a gripping account of prime minister Erdogan trying to steal the elections while most of the people were sleeping. Orchestrated blackouts had drawn out the count. The twitter block didn't prevent activism from spreading but did reduce the reach of its effects. Those that knew and cared about it were at the counting locations trying to safeguard the ballots and the tallies.

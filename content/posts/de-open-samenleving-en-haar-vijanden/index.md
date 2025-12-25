@@ -11,7 +11,8 @@ tags:
   - internet
   - politiek
 title: De open samenleving en haar vijanden
-url: /dingen/2007/06/de-open-samenleving-en-haar-vijanden/
+aliases:
+  - /dingen/2007/06/de-open-samenleving-en-haar-vijanden/
 
 ---
 Een [nieuwsbericht op Fok](http://frontpage.fok.nl/nieuws/77854) over dat de doodstraf staat op mobiel bellen in Noord-Korea.

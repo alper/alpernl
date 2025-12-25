@@ -8,7 +8,8 @@ tags:
   - fotografie
   - reizen
 title: Portfolio update
-url: /dingen/2007/10/portfolio-update/
+aliases:
+  - /dingen/2007/10/portfolio-update/
 
 ---
 Ik heb na [de vakanties en gebeurtenissen van de zomer](/dingen/category/zomerreis-2007/) wat foto's toegevoegd aan [mijn portfolio](/photography/).

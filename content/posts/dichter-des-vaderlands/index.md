@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=751
 parent_post_id: null
 post_id: "751"
 title: Dichter des Vaderlands
-url: /dingen/2009/02/dichter-des-vaderlands/
+aliases:
+  - /dingen/2009/02/dichter-des-vaderlands/
 
 ---
 Ik heb de hele verkiezingen rond de dichter des vaderlands gemist ((Één van de weinige nadelige gevolgen van het je onttrekken aan massamedia.)) ((Én blijkbaar ga ik met niemand om die zich bezig houdt met poëzie (dat kan wel kloppen). )) maar ik ben nog steeds blij en ik vind dat ik er iets over moet schrijven.

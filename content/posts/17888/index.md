@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17888
 parent_post_id: null
 post_id: "17888"
 title: ""
-url: /dingen/2025/01/17888/
+aliases:
+  - /dingen/2025/01/17888/
 
 ---
 Let's see how this develops but good to see a positive healthcare story for AIs.

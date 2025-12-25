@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17744
 parent_post_id: null
 post_id: "17744"
 title: ""
-url: /dingen/2024/11/17744/
+aliases:
+  - /dingen/2024/11/17744/
 
 ---
 Old people's brains have been entirely cooked by the slop feeds that Meta produces. No parent worth their salt would trust these people to protect their kids. The EU should follow suit.

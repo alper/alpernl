@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15321
 parent_post_id: null
 post_id: "15321"
 title: ""
-url: /dingen/2019/04/15321/
+aliases:
+  - /dingen/2019/04/15321/
 
 ---
 Barcelona is implementing a traffic transition we here in Berlin can only dream of.  

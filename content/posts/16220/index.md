@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16220
 parent_post_id: null
 post_id: "16220"
 title: Risk appetites of different leaders
-url: /dingen/2020/08/16220/
+aliases:
+  - /dingen/2020/08/16220/
 
 ---
 > There are the leaders that — like samurai — embrace death. They see their role as protecting and empowering the people below them who do the real work and it’s an honor to serve the team’s interests even if things do not go well for them personally.

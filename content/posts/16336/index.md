@@ -13,7 +13,8 @@ guid: http://www.alper.nl/dingen/?p=16336
 parent_post_id: null
 post_id: "16336"
 title: ""
-url: /dingen/2020/10/16336/
+aliases:
+  - /dingen/2020/10/16336/
 
 ---
 A crucial part of effective teams is introducing slack like in this case removing the entire concept of a hand-off (which causes misalignment at best).

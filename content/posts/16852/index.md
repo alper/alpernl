@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16852
 parent_post_id: null
 post_id: "16852"
 title: ""
-url: /dingen/2022/09/16852/
+aliases:
+  - /dingen/2022/09/16852/
 
 ---
 That's a very relevant and timely article listing the challenges middle managers face in the post-pandemic office. It's a lot!

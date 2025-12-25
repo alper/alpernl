@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16515
 parent_post_id: null
 post_id: "16515"
 title: ""
-url: /dingen/2021/05/16515/
+aliases:
+  - /dingen/2021/05/16515/
 
 ---
 Given all of the mistakes we could have made picking out Turkish names when you read this article, I think we did pretty well.

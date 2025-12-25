@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16739
 parent_post_id: null
 post_id: "16739"
 title: ""
-url: /dingen/2022/03/16739/
+aliases:
+  - /dingen/2022/03/16739/
 
 ---
 Not verified but an interesting data point in how German civil servants don't have that attractive a position and can get better deals working indirectly for the people 'at the engines of the global economy'.

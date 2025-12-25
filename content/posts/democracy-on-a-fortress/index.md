@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=2847
 parent_post_id: null
 post_id: "2847"
 title: Democracy on a fortress
-url: /dingen/2011/09/democracy-on-a-fortress/
+aliases:
+  - /dingen/2011/09/democracy-on-a-fortress/
 
 ---
 The weekend before last we were on a fortress (part of [the defense works of Amsterdam](http://en.wikipedia.org/wiki/Stelling_van_Amsterdam)) to spend a day on hacking civic data for [Apps for Noord-Holland](http://appsfornoordholland.nl/).

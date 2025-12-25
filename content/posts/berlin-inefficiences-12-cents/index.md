@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3911
 parent_post_id: null
 post_id: "3911"
 title: 'Berlin Inefficiences: 1/2 Cents'
-url: /dingen/2012/10/berlin-inefficiences-12-cents/
+aliases:
+  - /dingen/2012/10/berlin-inefficiences-12-cents/
 
 ---
 Just to start a series here about ways in which German society could be organized more sensibly ((Paraphrasing Harry Potter from the Methods of Rationality: “I don't want to rule the universe. I just think it could be more sensibly organised.”)) ((Also I need to document this somewhere to get it out of my head.)).

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2625
 parent_post_id: null
 post_id: "2625"
 title: Fitbit lost and findings
-url: /dingen/2011/05/fitbit-lost-and-findings/
+aliases:
+  - /dingen/2011/05/fitbit-lost-and-findings/
 
 ---
 I lost my [Fitbit](http://www.fitbit.com) today. This was bound to happen and I'm surprised I managed to hold on to it as long as I did. So one minute I was getting off the tram and the next I didn't have it anymore.

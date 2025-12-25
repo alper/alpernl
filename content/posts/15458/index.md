@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15458
 parent_post_id: null
 post_id: "15458"
 title: ""
-url: /dingen/2019/05/15458/
+aliases:
+  - /dingen/2019/05/15458/
 
 ---
 Swisher is doing good work here on Facebook/Fakebook but her handling of the worst of technology is still astonishingly softball given what is happening.

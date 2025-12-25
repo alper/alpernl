@@ -11,7 +11,8 @@ tags:
   - fotografie
   - leren
 title: HOSC - Alan McCluskey - Opening education to the future
-url: /dingen/2007/06/hosc-alan-mccluskey-opening-education-to-the-future/
+aliases:
+  - /dingen/2007/06/hosc-alan-mccluskey-opening-education-to-the-future/
 
 ---
 Ik zit vandaag en morgen op de [Holland Open Software Conference](http://www.hosc.nl) en hier wat snel getikte notities van presentaties die ik interessant vind.

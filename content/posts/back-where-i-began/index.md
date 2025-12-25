@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1142
 parent_post_id: null
 post_id: "1142"
 title: Back where I began
-url: /dingen/2009/08/back-where-i-began/
+aliases:
+  - /dingen/2009/08/back-where-i-began/
 
 ---
 Last Sunday we did a big haul and carried most of our stuff over to the new place in Amsterdam. Now we're almost done with the tedious process of making sure the basics are taken care of, sorting through stuff, eliminating duplicates.

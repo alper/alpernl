@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17610
 parent_post_id: null
 post_id: "17610"
 title: ""
-url: /dingen/2024/10/17610/
+aliases:
+  - /dingen/2024/10/17610/
 
 ---
 A damning but also entirely correct assessment of Elon Musk:

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16072
 parent_post_id: null
 post_id: "16072"
 title: ""
-url: /dingen/2020/05/16072/
+aliases:
+  - /dingen/2020/05/16072/
 
 ---
 Ming-era génocidaire Zhang Xian-zhong

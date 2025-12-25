@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17101
 parent_post_id: null
 post_id: "17101"
 title: ""
-url: /dingen/2023/03/17101/
+aliases:
+  - /dingen/2023/03/17101/
 
 ---
 A useful distinction between "code proofreading" and "code editing" by Hillel Wayne both of which are part of a standard PR process but neither is really a good fit there.

@@ -15,7 +15,8 @@ post_id: "3191"
 tags:
   - weeknotes
 title: Week 249
-url: /dingen/2012/01/week-249/
+aliases:
+  - /dingen/2012/01/week-249/
 
 ---
 In the beginning of the week I spotted an interesting dataset on Sargasso, requested to play with it and got the following [visual published the next day](http://sargasso.nl/archief/2011/12/20/interrupties-tweede-kamer-mooi-verbeeld/) ( [our write-up](http://monsterswell.com/blog/2012/01/parliamentary-interruptions/)).

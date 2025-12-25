@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15510
 parent_post_id: null
 post_id: "15510"
 title: ""
-url: /dingen/2019/06/15510/
+aliases:
+  - /dingen/2019/06/15510/
 
 ---
 A case for becoming good at writing for software engineers that frankly holds up for anybody in a growing organization.

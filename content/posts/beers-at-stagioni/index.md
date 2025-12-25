@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=612
 parent_post_id: null
 post_id: "612"
 title: Beers at Stagioni
-url: /dingen/2008/11/beers-at-stagioni/
+aliases:
+  - /dingen/2008/11/beers-at-stagioni/
 
 ---
 As can be read in [this thread](http://groups.google.com/group/open-coffee-delft/browse_thread/thread/9ade5f53b7034428#) we are holding the next Open Beer Delft at our coworking office next to the Delft Central train station: Studio 4 Stagioni.

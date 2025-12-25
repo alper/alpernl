@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17618
 parent_post_id: null
 post_id: "17618"
 title: ""
-url: /dingen/2024/10/17618/
+aliases:
+  - /dingen/2024/10/17618/
 
 ---
 AI has democratised creating startups to the point where people really don't have to do anything anymore.

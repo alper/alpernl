@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4022
 parent_post_id: null
 post_id: "4022"
 title: Mailing books within Germany
-url: /dingen/2013/01/mailing-books-within-germany/
+aliases:
+  - /dingen/2013/01/mailing-books-within-germany/
 
 ---
 [![Amazon.com](http://farm4.staticflickr.com/3346/3200604927_5508e9388d.jpg)](http://www.flickr.com/photos/alper/3200604927/ "Amazon.com by illustir, on Flickr")

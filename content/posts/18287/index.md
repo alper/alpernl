@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18287
 parent_post_id: null
 post_id: "18287"
 title: ""
-url: /dingen/2025/08/18287/
+aliases:
+  - /dingen/2025/08/18287/
 
 ---
 Perplexity lost its momentum almost a year ago and everything they've been doing since has been stuff like this. It takes some effort to stand out as a bad actor in a field like this, but here they are.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=6052
 parent_post_id: null
 post_id: "6052"
 title: Highlights for Ghachar Ghochar
-url: /dingen/2018/08/highlights-for-ghachar-ghochar/
+aliases:
+  - /dingen/2018/08/highlights-for-ghachar-ghochar/
 
 ---
 > The woman had not abused us. She had not come here to pick a fight. We were thrown off balance by her love for one of us, and so we tore into her with such vengeance that she collapsed to the ground, sobbing.

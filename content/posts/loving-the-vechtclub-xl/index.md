@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4962
 parent_post_id: null
 post_id: "4962"
 title: Loving the Vechtclub XL
-url: /dingen/2014/04/loving-the-vechtclub-xl/
+aliases:
+  - /dingen/2014/04/loving-the-vechtclub-xl/
 
 ---
 A couple of weeks ago by now I finally got to visit our new office in the [Vechtclub XL](http://www.vechtclubxl.nl/) building in Utrecht. This turned out to be a great experience.

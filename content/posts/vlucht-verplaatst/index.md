@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: Vlucht verplaatst
-url: /dingen/2007/08/vlucht-verplaatst/
+aliases:
+  - /dingen/2007/08/vlucht-verplaatst/
 
 ---
 Het leek me wel handig voor vrienden en familie om een continu up to date reisschema bij te houden. Een kruising zogezegd tussen een itinerary en een travelogue. Maar een blog is dat in feite al.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2514
 parent_post_id: null
 post_id: "2514"
 title: Colour
-url: /dingen/2011/03/colour/
+aliases:
+  - /dingen/2011/03/colour/
 
 ---
 [![photo.PNG](http://farm6.static.flickr.com/5133/5556255708_578ffc696f.jpg)](http://www.flickr.com/photos/alper/5556255708/ "photo.PNG by illustir, on Flickr")

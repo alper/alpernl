@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2278
 parent_post_id: null
 post_id: "2278"
 title: RFID Meets Retro
-url: /dingen/2010/11/rfid-meets-retro/
+aliases:
+  - /dingen/2010/11/rfid-meets-retro/
 
 ---
 At the upcoming [Le Guess Who?](http://www.leguesswho.nl/) festival, hipsters will employ RFIDs for interesting purposes:

@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=16682
 parent_post_id: null
 post_id: "16682"
 title: ""
-url: /dingen/2021/12/16682/
+aliases:
+  - /dingen/2021/12/16682/
 
 ---
 I had no idea that most of Tesla's FSD videos were fake. Huh.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16860
 parent_post_id: null
 post_id: "16860"
 title: ""
-url: /dingen/2022/09/16860/
+aliases:
+  - /dingen/2022/09/16860/
 
 ---
 Some ways to improve the quarterly prioritization tussle between engineering and business that focus on facilitating the conversation and reducing the number of things under immediate consideration.

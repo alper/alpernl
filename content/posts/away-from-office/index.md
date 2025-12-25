@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=830
 parent_post_id: null
 post_id: "830"
 title: Away from office
-url: /dingen/2009/03/away-from-office/
+aliases:
+  - /dingen/2009/03/away-from-office/
 
 ---
 Ik ben even een weekje naar [Austin](http://sxsw.com/interactive/) voor een woestijn-retraite met vakgenoten.

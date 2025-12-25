@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17389
 parent_post_id: null
 post_id: "17389"
 title: ""
-url: /dingen/2024/01/17389/
+aliases:
+  - /dingen/2024/01/17389/
 
 ---
 It's much healthier for Germany if digital issues have an answer that goes beyond "Let's see what the CCC has to say!" The CCC is a shady organization which is good at taking things apart but does not have that much constructive to offer.

@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17123
 parent_post_id: null
 post_id: "17123"
 title: ""
-url: /dingen/2023/03/17123/
+aliases:
+  - /dingen/2023/03/17123/
 
 ---
 Finally got around to reading Elizabeth Sandifer's essay and if there was any doubt, this makes it clear how much of an unserious and malicious person Scott Alexander/Siskind is. Siskind's writing deliberately pretends to be respectable to provide ideological cover to some real evil.

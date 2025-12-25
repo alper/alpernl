@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=3697
 parent_post_id: null
 post_id: "3697"
 title: 'Gentse Feesten: a fantastic city festival'
-url: /dingen/2012/08/gentse-feesten-a-fantastic-city-festival/
+aliases:
+  - /dingen/2012/08/gentse-feesten-a-fantastic-city-festival/
 
 ---
 I spent two days in Ghent a Belgian city that is lovely in its own right, but really shines for a long week every summer when it has its own festival: the Gentse Feesten. I'd been there once before some ten years ago and had a lot of fun there. So [Tourism Flanders](http://www.visitflanders.com/) gave me the chance to revisit.

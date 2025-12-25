@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17550
 parent_post_id: null
 post_id: "17550"
 title: ""
-url: /dingen/2024/07/17550/
+aliases:
+  - /dingen/2024/07/17550/
 
 ---
 The end of free money has had a huge negative impact on open source. I agree with the author here, it would have been better to license everything under copy-left and see what happens.

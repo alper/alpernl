@@ -10,7 +10,8 @@ tags:
   - religie
   - waarheid
 title: Mind the hoax
-url: /dingen/2007/07/mind-the-hoax/
+aliases:
+  - /dingen/2007/07/mind-the-hoax/
 
 ---
 Sterk staaltje culture jamming in de fietstunnel van het station van Delft. Het overplakken van zichzelf te serieus nemende troep is cool. [![Culture Jamming](http://farm2.static.flickr.com/1383/870946507_09a4482fbe.jpg)](http://www.flickr.com/photos/alper/870946507/ "Photo Sharing")

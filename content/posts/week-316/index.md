@@ -12,7 +12,8 @@ post_id: "4494"
 tags:
   - weeknotes
 title: Week 316
-url: /dingen/2013/04/week-316/
+aliases:
+  - /dingen/2013/04/week-316/
 
 ---
 The week before this is getting a bit boring, but as soon as the current project is over I promise that adventures will resume again.

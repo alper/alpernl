@@ -14,7 +14,8 @@ post_id: "2499"
 tags:
   - weeknotes
 title: Week 209
-url: /dingen/2011/03/week-209/
+aliases:
+  - /dingen/2011/03/week-209/
 
 ---
 Last week Monday we saw the final work presentations at the [Willem de Kooning Academy](http://www.wdka.nl/). It was a great experience and I was really blown away by the breadth of some of the work presented. Nevertheless it remains a challenge to fit a full data visualization curriculum within the course of 4 weeks. Given the time we had I am very proud of the progress made.

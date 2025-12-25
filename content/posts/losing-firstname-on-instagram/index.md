@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16213
 parent_post_id: null
 post_id: "16213"
 title: Losing @firstname on Instagram
-url: /dingen/2020/08/losing-firstname-on-instagram/
+aliases:
+  - /dingen/2020/08/losing-firstname-on-instagram/
 
 ---
 I have my first name as my user name in a bunch of places. I've had my Twitter account ( [Twitter.com/alper](https://twitter.com/alper)) for a very long time but my Instagram account ( [Instagram.com/alper](http://instagram.com/alper)) got a lot more attention after Instagram got really big. A couple of weeks ago I lost that account.

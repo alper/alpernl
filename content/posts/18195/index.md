@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18195
 parent_post_id: null
 post_id: "18195"
 title: ""
-url: /dingen/2025/04/18195/
+aliases:
+  - /dingen/2025/04/18195/
 
 ---
 I've never used a tool that supports interdiff code reviews, but seeing it described here, it makes intuitive sense and I would love to have this. Instead we are--as is pretty much everybody else--stuck on Github.

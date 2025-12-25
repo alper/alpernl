@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5780
 parent_post_id: null
 post_id: "5780"
 title: Kritiek naar aanleiding van Hallo Witte Mensen
-url: /dingen/2017/05/kritiek-naar-aanleiding-van-hallo-witte-mensen/
+aliases:
+  - /dingen/2017/05/kritiek-naar-aanleiding-van-hallo-witte-mensen/
 
 ---
 Ik heb me de afgelopen weken geërgerd aan en gegeneerd voor de domme venijnige kritieken die het boek [‘Hallo Witte Mensen’ van Anousha Nzume](http://nl.aup.nl/books/9789462984141-hallo-witte-mensen.html) kreeg. Zoals de uitgever van het boek Ebissé Rouw zegt: Nederland is een _intellectual wasteland_. We zijn nu eenmaal een klein taalgebied waar iedereen zich heel slim en onschuldig kan voelen door het Engelstalige debat over een onderwerp compleet te missen en zelf wat bij elkaar te verzinnen.

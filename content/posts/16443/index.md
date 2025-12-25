@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16443
 parent_post_id: null
 post_id: "16443"
 title: ""
-url: /dingen/2021/03/16443/
+aliases:
+  - /dingen/2021/03/16443/
 
 ---
 > \[Cryptoart is\] **a crime against humanity.**

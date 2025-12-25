@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16540
 parent_post_id: null
 post_id: "16540"
 title: ""
-url: /dingen/2021/07/16540/
+aliases:
+  - /dingen/2021/07/16540/
 
 ---
 "Helicopter Story" was one of the best pieces of sci-fi I've read in a while. All the more galling that it was ripped apart in a culture war free-for-all.

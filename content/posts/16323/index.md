@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16323
 parent_post_id: null
 post_id: "16323"
 title: ""
-url: /dingen/2020/10/16323/
+aliases:
+  - /dingen/2020/10/16323/
 
 ---
 The San Diego Loyal got a lot of additional fans with this move. A great example too for European clubs in a lot of ways.

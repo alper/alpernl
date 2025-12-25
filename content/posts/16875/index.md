@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16875
 parent_post_id: null
 post_id: "16875"
 title: ""
-url: /dingen/2022/10/16875/
+aliases:
+  - /dingen/2022/10/16875/
 
 ---
 People want local development but I feel a lot of the reasons and movements described here are valid.

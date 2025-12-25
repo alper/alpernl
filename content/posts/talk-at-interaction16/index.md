@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=5494
 parent_post_id: null
 post_id: "5494"
 title: Talk at Interaction16
-url: /dingen/2016/03/talk-at-interaction16/
+aliases:
+  - /dingen/2016/03/talk-at-interaction16/
 
 ---
 I just got back from [Interaction](http://interaction16.ixda.org/) in Helsinki having given my talk about how [Conversations are the New Interfaces](http://interaction16.ixda.org/session/conversations-are-the-new-interfaces/).

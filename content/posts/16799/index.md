@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16799
 parent_post_id: null
 post_id: "16799"
 title: ""
-url: /dingen/2022/04/16799/
+aliases:
+  - /dingen/2022/04/16799/
 
 ---
 That's nothing short of an amazing list of time management techniques geared specifically towards helping engineers achieve maximum impact.

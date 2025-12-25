@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17976
 parent_post_id: null
 post_id: "17976"
 title: ""
-url: /dingen/2025/01/17976/
+aliases:
+  - /dingen/2025/01/17976/
 
 ---
 Sam Altman and OpenAI are consistently unreliable. One more example that by this point should not surprise anybody.

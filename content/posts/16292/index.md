@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16292
 parent_post_id: null
 post_id: "16292"
 title: ""
-url: /dingen/2020/09/16292/
+aliases:
+  - /dingen/2020/09/16292/
 
 ---
 A nice interview with Gergely Orosz about building engineering teams.

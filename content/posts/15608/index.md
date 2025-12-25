@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15608
 parent_post_id: null
 post_id: "15608"
 title: ""
-url: /dingen/2019/08/15608/
+aliases:
+  - /dingen/2019/08/15608/
 
 ---
 > Farmers are forced to be taught in a “reeducation camp”to use their mobile phones to monitor the status in the greenhouse including CO2, light strength, soil temperature, etc.

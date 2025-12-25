@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5052
 parent_post_id: null
 post_id: "5052"
 title: Recensie Desert Golfing in de nrc.next
-url: /dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/
+aliases:
+  - /dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/
 
 ---
 [![screen520x924](screen520x924.jpeg)](screen520x924.jpeg)

@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17934
 parent_post_id: null
 post_id: "17934"
 title: ""
-url: /dingen/2025/01/17934/
+aliases:
+  - /dingen/2025/01/17934/
 
 ---
 Running a LLM on a Nintendo Switch is a marvellous little hack and it's also a testament to the strength of NVIDIA's platform.

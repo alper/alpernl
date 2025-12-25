@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17262
 parent_post_id: null
 post_id: "17262"
 title: ""
-url: /dingen/2023/08/17262/
+aliases:
+  - /dingen/2023/08/17262/
 
 ---
 A long post that builds up to async Rust from the ground up and explains how the various bits and pieces work. Really quite the tour de force with a simple conclusion: use Tokio.

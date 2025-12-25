@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17251
 parent_post_id: null
 post_id: "17251"
 title: ""
-url: /dingen/2023/08/17251/
+aliases:
+  - /dingen/2023/08/17251/
 
 ---
 A comparison of the sustainability of different kinds of bikes and how progress in cycling has often come at the price of sustainability. Still however you spin it, electric cycling is much more efficient and sustainable than driving.

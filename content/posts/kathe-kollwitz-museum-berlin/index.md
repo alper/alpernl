@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5567
 parent_post_id: null
 post_id: "5567"
 title: Why KÃ¤the Kollwitz is one of Germany's most important figurative artists
-url: /dingen/2016/05/kathe-kollwitz-museum-berlin/
+aliases:
+  - /dingen/2016/05/kathe-kollwitz-museum-berlin/
 
 ---
 Today I got a tour of the [Käthe Kollwitz museum](http://www.kaethe-kollwitz.de/) in Berlin. I had wanted to visit this museum for a while but this proved the concrete reason to finally go (though [the café next door](https://foursquare.com/v/caf%C3%A9-restaurant-wintergarten/4adcda78f964a5205c4621e3) makes some mean pancakes if you find yourself in the area).

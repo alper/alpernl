@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1937
 parent_post_id: null
 post_id: "1937"
 title: Coffee as catching up
-url: /dingen/2010/07/coffee-as-catching-up/
+aliases:
+  - /dingen/2010/07/coffee-as-catching-up/
 
 ---
 I was already in the habit of starting my mornings drinking the best coffee in Amsterdam at [Stumptown](http://foursquare.com/venue/1970833) and would regularly chat with [the mayor](http://foursquare.com/user/johanschaap). After planning some morning meetings there, getting an early start, drinking great coffee and having a good conversation with people you'd normally not talk to, proved to be a good idea.

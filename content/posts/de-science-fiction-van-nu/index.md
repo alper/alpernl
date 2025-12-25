@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2951
 parent_post_id: null
 post_id: "2951"
 title: De science-fiction van nu
-url: /dingen/2011/09/de-science-fiction-van-nu/
+aliases:
+  - /dingen/2011/09/de-science-fiction-van-nu/
 
 ---
 Ik probeer mijn [literaire vrienden](http://literaturfest.nl/) aan het verstand te brengen dat door de technologisering van de samenleving science-fiction een niet meer te negeren onderdeel van de cultuur aan het worden is.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2603
 parent_post_id: null
 post_id: "2603"
 title: Week 216
-url: /dingen/2011/05/week-216/
+aliases:
+  - /dingen/2011/05/week-216/
 
 ---
 [![Sarpa di Poli](http://farm6.static.flickr.com/5028/5680909079_bcc0167474.jpg)](http://www.flickr.com/photos/alper/5680909079/ "Sarpa di Poli by illustir, on Flickr")

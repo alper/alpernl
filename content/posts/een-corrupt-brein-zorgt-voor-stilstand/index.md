@@ -11,7 +11,8 @@ tags:
   - internet
   - muziek
 title: Een corrupt Brein zorgt voor stilstand
-url: /dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/
+aliases:
+  - /dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/
 
 ---
 De [stichting Brein](http://www.anti-piracy.nl/) is een club van advocaten, lobbyisten en accountants in dienst van de auteursrechten-industrieën. Ze hebben aardig wat geld te besteden, maar al het geld in de wereld kan niet op tegen een culturele trend die het einde betekent van oude businessmodellen. De stichting en hun bazen zullen verdwijnen, het is alleen de vraag hoe lang ze een corrupte ((Corrupt in de zin van Lessig nl. overheidsorganen die meer beïnvloed zijn door geld dan door dat wat correct is.)) overheid kunnen misbruiken om hun doelen te dienen en het onvermijdelijke uit te stellen.

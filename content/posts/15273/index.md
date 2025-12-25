@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15273
 parent_post_id: null
 post_id: "15273"
 title: ""
-url: /dingen/2019/03/15273/
+aliases:
+  - /dingen/2019/03/15273/
 
 ---
 I've been trying to figure out what makes for the best kind of professional working relationships. Sometimes things work, sometimes they don't and sometimes they really take off.

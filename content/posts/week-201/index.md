@@ -11,7 +11,8 @@ post_id: "2398"
 tags:
   - weeknotes
 title: Week 201
-url: /dingen/2011/01/week-201/
+aliases:
+  - /dingen/2011/01/week-201/
 
 ---
 Solid progress on Maguro in Utrecht. Spent a large amount of time over there also to evaluate the [PLAY Pilots](http://playpilots.nl/) project's succes. Started building a prototype that runs more in real-time and on timed events (and all that in a traditional web framework).

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1434
 parent_post_id: null
 post_id: "1434"
 title: Onrealistische en onwenselijke maatregelen
-url: /dingen/2009/12/onrealistische-en-onwenselijke-maatregelen/
+aliases:
+  - /dingen/2009/12/onrealistische-en-onwenselijke-maatregelen/
 
 ---
 In een vergelijkbaar filmpje zoals je ze ook voor je film ziet wanneer je legaal DVDs koopt/huurt, komt er weer een stukje propaganda van de entertainment-industrie:

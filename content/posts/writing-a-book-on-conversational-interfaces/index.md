@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5581
 parent_post_id: null
 post_id: "5581"
 title: "New book â€œDesigning Conversational Interfacesâ€\x9D"
-url: /dingen/2016/06/writing-a-book-on-conversational-interfaces/
+aliases:
+  - /dingen/2016/06/writing-a-book-on-conversational-interfaces/
 
 ---
 I've spent June until October writing a brief but comprehensive book called [“Designing Conversational Interfaces”](http://www.convbook.com/) introducing the creation of messaging applications and chatbots to a non-technical audience.

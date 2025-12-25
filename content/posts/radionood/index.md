@@ -8,7 +8,8 @@ tags:
   - radio
   - werken
 title: Radionood
-url: /dingen/2008/02/radionood/
+aliases:
+  - /dingen/2008/02/radionood/
 
 ---
 Mail naar [Studio Brussel](http://www.stubru.be/):

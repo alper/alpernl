@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17872
 parent_post_id: null
 post_id: "17872"
 title: Year in Review 2024
-url: /dingen/2025/01/year-in-review-2024/
+aliases:
+  - /dingen/2025/01/year-in-review-2024/
 
 ---
 It's been a bit of a grab bag year but overall not as bad as 2023 and a bunch of things seem to be on track.

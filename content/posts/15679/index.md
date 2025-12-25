@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15679
 parent_post_id: null
 post_id: "15679"
 title: ""
-url: /dingen/2019/09/15679/
+aliases:
+  - /dingen/2019/09/15679/
 
 ---
 BMW thinks it's a funny marketing gimmick to paint one of their worst cars in Vantablack. Dark coloured cars have been proven to be more likely to cause accidents. Black cars should be forbidden to participate in traffic, that should be what people are talking about here.

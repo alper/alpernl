@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1161
 parent_post_id: null
 post_id: "1161"
 title: De krant is stuk. Wat nu?
-url: /dingen/2009/08/de-krant-is-stuk-wat-nu/
+aliases:
+  - /dingen/2009/08/de-krant-is-stuk-wat-nu/
 
 ---
 Van het weekend gebeurden er weer een paar dingen die me met de neus op de feiten drukten hoe kapot ((Als in _disfunctioneel_.)) het concept ‘papieren krant’ wel niet is. Ik zeg het al een tijdje en heb opgeschreven waarom ik principieel tegen de papieren krant ben ( [alle argumenten](/dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/)), maar dit was wel saillant.

@@ -12,7 +12,8 @@ tags:
   - computers
   - reizen
 title: Ein Berliner
-url: /dingen/2008/01/ein-berliner/
+aliases:
+  - /dingen/2008/01/ein-berliner/
 
 ---
 Net een dag terug uit Berlijn na een weekend van straf rijden, drinken en [programmeren](http://blog.plazes.com/?p=222) ((Klinkt redelijk ideaal, niet?)).

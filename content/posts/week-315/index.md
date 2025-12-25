@@ -15,7 +15,8 @@ post_id: "4483"
 tags:
   - weeknotes
 title: Week 315
-url: /dingen/2013/04/week-315/
+aliases:
+  - /dingen/2013/04/week-315/
 
 ---
 We're in the middle of a big project, so pretty much everything is that right now. In between some small things happen, but we're rather busy shipping right now.

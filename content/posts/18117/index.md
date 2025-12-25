@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18117
 parent_post_id: null
 post_id: "18117"
 title: ""
-url: /dingen/2025/02/18117/
+aliases:
+  - /dingen/2025/02/18117/
 
 ---
 Lots of people are going to have a problem with the truth going forward, so get those Wikipedia backups handy and start thinking about how to host it in a more distributed and resilient way.

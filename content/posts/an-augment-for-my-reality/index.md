@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=1885
 parent_post_id: null
 post_id: "1885"
 title: An augment for my reality
-url: /dingen/2010/06/an-augment-for-my-reality/
+aliases:
+  - /dingen/2010/06/an-augment-for-my-reality/
 
 ---
 I recently got glasses to make my vision even better than it already is. Nothing wrong with my eyes, but once you've seen the difference in sharpness, you do not want to go back. For me it's an augment:

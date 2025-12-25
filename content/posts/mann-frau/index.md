@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5368
 parent_post_id: null
 post_id: "5368"
 title: Mann/Frau
-url: /dingen/2015/11/mann-frau/
+aliases:
+  - /dingen/2015/11/mann-frau/
 
 ---
 The idea that German television is necessarily terrible has to be reconsidered. I've recently started watching [Deutschland '83](https://en.wikipedia.org/wiki/Deutschland_83) which is amazing (more on that later) and yesterday I finished season two of the web series Mann/Frau by [BR PULS](http://www.br.de/puls/index.html).

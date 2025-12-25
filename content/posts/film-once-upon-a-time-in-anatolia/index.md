@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=2744
 parent_post_id: null
 post_id: "2744"
 title: 'Film: Once Upon a Time in Anatolia'
-url: /dingen/2011/08/film-once-upon-a-time-in-anatolia/
+aliases:
+  - /dingen/2011/08/film-once-upon-a-time-in-anatolia/
 
 ---
 {{< youtube id="snm5kHomfSo" >}}

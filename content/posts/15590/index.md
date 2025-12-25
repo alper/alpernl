@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15590
 parent_post_id: null
 post_id: "15590"
 title: ""
-url: /dingen/2019/07/15590/
+aliases:
+  - /dingen/2019/07/15590/
 
 ---
 Cloudflare is setting a high bar for post-mortem writing but if you want to get started with this, the only parts you really need are: What went wrong & What are we doing about it.

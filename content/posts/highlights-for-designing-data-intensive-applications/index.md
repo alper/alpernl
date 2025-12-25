@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15514
 parent_post_id: null
 post_id: "15514"
 title: Highlights for Designing Data-Intensive Applications
-url: /dingen/2019/06/highlights-for-designing-data-intensive-applications/
+aliases:
+  - /dingen/2019/06/highlights-for-designing-data-intensive-applications/
 
 ---
 > Amazon RedShift is a hosted version of ParAccel. More recently, a plethora of open source SQL-on-Hadoop projects have emerged; they are young but aiming to compete with commercial data warehouse systems. These include Apache Hive, Spark SQL, Cloudera Impala, Facebook Presto, Apache Tajo, and Apache Drill \[52, 53\].

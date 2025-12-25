@@ -12,7 +12,8 @@ tags:
   - computers
   - fotografie
 title: Gasten en vis
-url: /dingen/2008/03/gasten-en-vis/
+aliases:
+  - /dingen/2008/03/gasten-en-vis/
 
 ---
 En dan zwemt er zomaar dit je scherm binnen:

@@ -15,7 +15,8 @@ guid: http://alper.nl/dingen/?p=15952
 parent_post_id: null
 post_id: "15952"
 title: ""
-url: /dingen/2020/01/15952/
+aliases:
+  - /dingen/2020/01/15952/
 
 ---
 Een lang en grondig interview met Cody Hochstenbach over de wooncrisis in Nederland. Studio Tegengif is een favoriete podcast wat een soort Nederlandse versie van The Weeds lijkt te worden.

@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=16087
 parent_post_id: null
 post_id: "16087"
 title: ""
-url: /dingen/2020/05/16087/
+aliases:
+  - /dingen/2020/05/16087/
 
 ---
 A lovely set of easter eggs hidden in Switzerland's official maps.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=2905
 parent_post_id: null
 post_id: "2905"
 title: A dual national flag
-url: /dingen/2011/09/a-dual-national-flag/
+aliases:
+  - /dingen/2011/09/a-dual-national-flag/
 
 ---
 An idea I had while browsing through Instagram and easily executed, a Turkish Dutch mashup flag:

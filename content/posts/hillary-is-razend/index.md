@@ -13,7 +13,8 @@ tags:
   - televisie
   - verkiezingen
 title: Hillary is razend
-url: /dingen/2008/02/hillary-is-razend/
+aliases:
+  - /dingen/2008/02/hillary-is-razend/
 
 ---
 Maar dan, ik weet niet hoe ik me zou voelen als ik als gedoodverfde kandidaat van het establishment op alle vlakken de loef af werd gestoken door een _uppity negro_.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5968
 parent_post_id: null
 post_id: "5968"
 title: Highlights for Exit West
-url: /dingen/2018/04/highlights-for-exit-west/
+aliases:
+  - /dingen/2018/04/highlights-for-exit-west/
 
 ---
 > but that is the way of things, with cities as with life, for one moment we are pottering about our errands as usual and the next we are dying, and our eternally impending ending does not put a stop to our transient beginnings and middles until the instant when it does.

@@ -13,7 +13,8 @@ post_id: "3519"
 tags:
   - weeknotes
 title: 'Week 265: Tatort debate, presentations, writing about theater, reading'
-url: /dingen/2012/04/week-265-tatort-debate-presentations-writing-about-theater-reading/
+aliases:
+  - /dingen/2012/04/week-265-tatort-debate-presentations-writing-about-theater-reading/
 
 ---
 The week before last (I'm running one week behind), was a good weak. Easter Monday was spent cleaning up the house which is now finally fully operational and fit to live in.

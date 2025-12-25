@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16568
 parent_post_id: null
 post_id: "16568"
 title: ""
-url: /dingen/2021/08/16568/
+aliases:
+  - /dingen/2021/08/16568/
 
 ---
 > ‘Whomsoever is possessed of magisterial strength is courted; while whomsoever has inferior strength pays court to others. It is for this reason that the shrewd ruler strives for might.’

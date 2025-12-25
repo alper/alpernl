@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=17479
 parent_post_id: null
 post_id: "17479"
 title: ""
-url: /dingen/2024/03/17479/
+aliases:
+  - /dingen/2024/03/17479/
 
 ---
 https://twitter.com/ProgrammerDude/status/1758148576134177246

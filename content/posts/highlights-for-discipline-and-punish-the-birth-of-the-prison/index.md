@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17697
 parent_post_id: null
 post_id: "17697"
 title: 'Highlights for Discipline and Punish: The Birth of the Prison'
-url: /dingen/2024/11/highlights-for-discipline-and-punish-the-birth-of-the-prison/
+aliases:
+  - /dingen/2024/11/highlights-for-discipline-and-punish-the-birth-of-the-prison/
 
 ---
 > In modern justice and on the part of those who dispense it there is a shame in punishing, which does not always preclude zeal. This sense of shame is constantly growing: the psychologists and the minor civil servants of moral orthopaedics proliferate on the wound it leaves.

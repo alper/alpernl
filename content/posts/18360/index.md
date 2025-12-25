@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18360
 parent_post_id: null
 post_id: "18360"
 title: ""
-url: /dingen/2025/09/18360/
+aliases:
+  - /dingen/2025/09/18360/
 
 ---
 The situation described here where AI writes 90% of the code is almost entirely the same as how any software engineer works already. The only thing that's changing is that instead of code you're writing instructions to the LLM.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4751
 parent_post_id: null
 post_id: "4751"
 title: Week 334
-url: /dingen/2013/09/week-334/
+aliases:
+  - /dingen/2013/09/week-334/
 
 ---
 I'm writing this from Japan after seeing I have fallen seriously off the blogging horse. I think this particular week I was a bit under the weather but I did manage to get out a minimal prototype for AJI.

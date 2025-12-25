@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15889
 parent_post_id: null
 post_id: "15889"
 title: Highlights for Winners Take All
-url: /dingen/2019/11/highlights-for-winners-take-all/
+aliases:
+  - /dingen/2019/11/highlights-for-winners-take-all/
 
 ---
 > Instead, the system—in America and around the world—has been organized to siphon the gains from innovation upward, such that the fortunes of the world’s billionaires now grow at more than double the pace of everyone else’s, and the top 10 percent of humanity have come to hold 90 percent of the planet’s wealth.

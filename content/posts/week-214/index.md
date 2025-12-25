@@ -14,7 +14,8 @@ post_id: "2581"
 tags:
   - weeknotes
 title: Week 214
-url: /dingen/2011/04/week-214/
+aliases:
+  - /dingen/2011/04/week-214/
 
 ---
 A busy week, _maguro_ got completely finished and delivered to client. _Culiacan_ managed to overcome the horrible [Media Temple](http://mediatemple.net/) hurdle.

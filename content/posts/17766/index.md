@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17766
 parent_post_id: null
 post_id: "17766"
 title: ""
-url: /dingen/2024/12/17766/
+aliases:
+  - /dingen/2024/12/17766/
 
 ---
 That's an amazing overview of all the things that can and will go wrong in online PvP gaming. It covers the range from networking exploits to all the in-game ways that people try to grief or abuse others.

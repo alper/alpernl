@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15750
 parent_post_id: null
 post_id: "15750"
 title: ""
-url: /dingen/2019/09/15750/
+aliases:
+  - /dingen/2019/09/15750/
 
 ---
 The necessity of physical fitness to create peak mental performance has been a well-known fact in esports. Useful to see the documented effects of pushing yourself cognitively within the chess world.

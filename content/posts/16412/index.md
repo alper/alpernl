@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16412
 parent_post_id: null
 post_id: "16412"
 title: ""
-url: /dingen/2021/02/16412/
+aliases:
+  - /dingen/2021/02/16412/
 
 ---
 A useful perspective on the leadership career path and what skills you need to keep leveling up.

@@ -13,7 +13,8 @@ post_id: "4724"
 tags:
   - weeknotes
 title: Week 333
-url: /dingen/2013/09/week-333/
+aliases:
+  - /dingen/2013/09/week-333/
 
 ---
 This week was a bit more stationary than the last thankfully. I tried out a competitor to [Cuppings](http://cuppin.gs) called Bean Seeker which is a rather terrible app.

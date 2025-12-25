@@ -11,7 +11,8 @@ tags:
   - huis
   - leven
 title: ZurÃ¼ck aus Deutschland
-url: /dingen/2007/10/zuruck-aus-deutschland/
+aliases:
+  - /dingen/2007/10/zuruck-aus-deutschland/
 
 ---
 Even twee dagen weg zijn en aan niks anders dan [capoeira](http://www.expressaopaulista.com/DE/) en andere Brazilianischen Sachen hoeven te denken is fijn. Nu nog even 1500 foto's verwerken.

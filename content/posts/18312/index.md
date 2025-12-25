@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18312
 parent_post_id: null
 post_id: "18312"
 title: ""
-url: /dingen/2025/09/18312/
+aliases:
+  - /dingen/2025/09/18312/
 
 ---
 Meta's push towards sexualised chatbots for children is very concerning and nobody should let their kids use any of Zuckerberg's platforms unsupervised.

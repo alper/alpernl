@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15911
 parent_post_id: null
 post_id: "15911"
 title: ""
-url: /dingen/2019/12/15911/
+aliases:
+  - /dingen/2019/12/15911/
 
 ---
 I too love taking notes just like Tanya Reilly here and I wish more people would take better notes.

@@ -13,7 +13,8 @@ post_id: "236"
 tags:
   - reading
 title: Een studie in smaragd
-url: /dingen/2008/01/een-studie-in-smaragd/
+aliases:
+  - /dingen/2008/01/een-studie-in-smaragd/
 
 ---
 Een Sherlock Holmes-pastiche voor de donkere zondagavond ((En voor de mensen met House-ontwenningsverschijnselen.)) geschreven door Neil Gaiman en voorgelezen door hemzelf zoals alleen hij dat kan (via [BoingBoing](http://www.boingboing.net/2008/01/26/gaimans-cthulusherlo.html)).

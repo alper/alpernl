@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1329
 parent_post_id: null
 post_id: "1329"
 title: De anatomie van het nieuws
-url: /dingen/2009/10/de-anatomie-van-het-nieuws/
+aliases:
+  - /dingen/2009/10/de-anatomie-van-het-nieuws/
 
 ---
 Shirky schreef pas zijn anatomie van het nieuws in: [“Rescuing the Reporters”](http://www.shirky.com/weblog/2009/10/rescuing-the-reporters/) waarin hij een krant ontleed in nieuws en restmateriaal en dan ook nog dat nieuws splitst in zelf-gemaakt en uit andere bronnen afkomstig.

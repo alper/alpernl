@@ -11,7 +11,8 @@ post_id: "326"
 tags:
   - uncategorized
 title: World Press
-url: /dingen/2008/07/world-press/
+aliases:
+  - /dingen/2008/07/world-press/
 
 ---
 A while back we went to the [World Press Photo](http://www.worldpressphoto.org/) 2008 exhibition in Utrecht [with some capoeiras](http://www.flickr.com/photos/alper/sets/72157606141100891/) and looked at the pictures many of us had already seen after the first announcement.

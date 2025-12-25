@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17799
 parent_post_id: null
 post_id: "17799"
 title: ""
-url: /dingen/2024/12/17799/
+aliases:
+  - /dingen/2024/12/17799/
 
 ---
 I get to have a lot of conversations around compliance and this is as good a “SOC2 for tech people” guide as I could have asked for by the good people at Fly.

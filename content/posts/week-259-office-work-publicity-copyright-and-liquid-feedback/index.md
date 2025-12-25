@@ -12,7 +12,8 @@ post_id: "3376"
 tags:
   - weeknotes
 title: 'Week 259: office work, publicity, copyright and liquid feedback'
-url: /dingen/2012/03/week-259-office-work-publicity-copyright-and-liquid-feedback/
+aliases:
+  - /dingen/2012/03/week-259-office-work-publicity-copyright-and-liquid-feedback/
 
 ---
 Briefly written notes for last week. It was one of the first proper weeks at the office for which I am grateful. German administration remains a challenging affair as my [blog post and quoted Times article also testify](/dingen/2012/02/administrative-no-ops/).

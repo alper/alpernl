@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17982
 parent_post_id: null
 post_id: "17982"
 title: ""
-url: /dingen/2025/01/17982/
+aliases:
+  - /dingen/2025/01/17982/
 
 ---
 I find limited run podcast series that dive deep into a specific topic are some of the best things the medium brings forth.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=548
 parent_post_id: null
 post_id: "548"
 title: Uprising tomorrow
-url: /dingen/2008/10/uprising-tomorrow/
+aliases:
+  - /dingen/2008/10/uprising-tomorrow/
 
 ---
 Tomorrow I'm going to attend [Students for Free Culture](http://conference.freeculture.org/). I may not be a student anymore, but I still regularly ride with that crowd and the conference has a [great program](http://freeculture.berkeley.edu/fc2008.pdf) and is for anybody with an interest in the topic. So, getting up early and taking the BART down into Berkeley. I'll see if I can use my newly bought Kodak to record a couple of keynotes.

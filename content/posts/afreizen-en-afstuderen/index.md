@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: Afreizen en afstuderen
-url: /dingen/2007/09/afreizen-en-afstuderen/
+aliases:
+  - /dingen/2007/09/afreizen-en-afstuderen/
 
 ---
 Ik was op het einde van mijn reis afgelopen weekend nog even in Londen voor een paar leuke events.

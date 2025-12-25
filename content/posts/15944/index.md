@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15944
 parent_post_id: null
 post_id: "15944"
 title: ""
-url: /dingen/2020/01/15944/
+aliases:
+  - /dingen/2020/01/15944/
 
 ---
 “Slack eliminates hierarchy time and space.”

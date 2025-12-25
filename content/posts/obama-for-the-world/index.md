@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=578
 parent_post_id: null
 post_id: "578"
 title: Obama for the World
-url: /dingen/2008/11/obama-for-the-world/
+aliases:
+  - /dingen/2008/11/obama-for-the-world/
 
 ---
 Staying up all night to watch the elections we finally saw Barack Obama's victory speech somewhere after 5AM. Though at that moment I couldn't fully appreciate it, it was one of his best speeches and one ending a period.

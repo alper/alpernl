@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16742
 parent_post_id: null
 post_id: "16742"
 title: Highlights for Becoming Trader Joe
-url: /dingen/2022/03/highlights-for-becoming-trader-joe/
+aliases:
+  - /dingen/2022/03/highlights-for-becoming-trader-joe/
 
 ---
 > We witnessed something very interesting: the United States had a quota for imported tuna. Once Peru’s quota had been filled, a biological miracle occurred right there on the canning line. What had been tuna was now pilchard, a member of the herring family, on which there was no quota.

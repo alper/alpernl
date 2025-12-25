@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16020
 parent_post_id: null
 post_id: "16020"
 title: ""
-url: /dingen/2020/02/16020/
+aliases:
+  - /dingen/2020/02/16020/
 
 ---
 I know more about TikTok than almost everybody around me and still I hardly know anything about TikTok.

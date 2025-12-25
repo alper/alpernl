@@ -11,7 +11,8 @@ tags:
   - html
   - internet
 title: Starre denkpatronen in de webindustrie
-url: /dingen/2007/06/starre-denkpatronen-in-de-webindustrie/
+aliases:
+  - /dingen/2007/06/starre-denkpatronen-in-de-webindustrie/
 
 ---
 Een tijdje geleden praatten we met [wat verlichte zielen](http://www.happyclog.nl/) over de stand van webstandaarden in Nederland. We vonden dat daar verbetering in moest komen en we hebben allemaal wel ons best gedaan om mensen hiervan te overtuigen. Het lijkt er nu op dat de verbetering voor een deel is gerealiseerd maar dat sommige mensen wellicht zijn doorgeschoten.

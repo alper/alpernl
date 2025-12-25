@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16486
 parent_post_id: null
 post_id: "16486"
 title: ""
-url: /dingen/2021/04/16486/
+aliases:
+  - /dingen/2021/04/16486/
 
 ---
 This point by Charity Majors is well worth repeating: you should not take on additional responsibilities if you're not delivering at and excelling in your core job. All of the other stuff seems like it matters a lot, but it really doesn't.

@@ -10,7 +10,8 @@ tags:
   - interactie
   - usability
 title: Alledaagse innovatie
-url: /dingen/2007/07/alledaagse-innovatie/
+aliases:
+  - /dingen/2007/07/alledaagse-innovatie/
 
 ---
 Fijn om gebruiksvriendelijke innovatie te zien in alledaagse producten waarvan je dacht dat het eigenlijk af was. In dit geval in het "Verse volle melk" pak van het huismerk van Albert Heijn.

@@ -12,7 +12,8 @@ post_id: "4310"
 tags:
   - weeknotes
 title: Week 308
-url: /dingen/2013/02/week-308/
+aliases:
+  - /dingen/2013/02/week-308/
 
 ---
 Besides [the immense amount of things](http://whatsthehubbub.nl/blog/2013/02/week-181/) we did over at Hubbub last week, I also spent a lot of time doing various other things which sort of amazed me to be honest.

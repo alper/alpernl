@@ -10,7 +10,8 @@ tags:
   - milieu
   - politiek
 title: Actievoerders zijn niet de intelligentste mensen
-url: /dingen/2007/06/actievoerder-zijn-niet-de-intelligentste-mensen/
+aliases:
+  - /dingen/2007/06/actievoerder-zijn-niet-de-intelligentste-mensen/
 
 ---
 Je kunt praten wat je wilt over het gebrek aan engagement in de samenleving en dat niemand meer bereid is tot actie maar misschien is dat wel een goed teken.

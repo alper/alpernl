@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18055
 parent_post_id: null
 post_id: "18055"
 title: ""
-url: /dingen/2025/02/18055/
+aliases:
+  - /dingen/2025/02/18055/
 
 ---
 It's a shame these people are so thoroughly psychopathic (from this epic [Guardian profile](https://www.theguardian.com/lifeandstyle/article/2024/may/25/american-pronatalists-malcolm-and-simone-collins)) because this piece about pronatalism is nothing if not well argued.

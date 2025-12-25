@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16785
 parent_post_id: null
 post_id: "16785"
 title: ""
-url: /dingen/2022/04/16785/
+aliases:
+  - /dingen/2022/04/16785/
 
 ---
 Lots of hours put in over the past year to achieve this and the only thing it means is that I get to put lots more hours in. Let's go!

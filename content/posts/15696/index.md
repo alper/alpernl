@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15696
 parent_post_id: null
 post_id: "15696"
 title: ""
-url: /dingen/2019/09/15696/
+aliases:
+  - /dingen/2019/09/15696/
 
 ---
 I love TikTok but it is a very large application with very little checks.

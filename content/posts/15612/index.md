@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15612
 parent_post_id: null
 post_id: "15612"
 title: ""
-url: /dingen/2019/08/15612/
+aliases:
+  - /dingen/2019/08/15612/
 
 ---
 First I hear about _Mauerkrankheit_—and I'm not the only one—but a politically triggered rise in mental health problems would explain many things both past and present.

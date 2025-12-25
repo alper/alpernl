@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17106
 parent_post_id: null
 post_id: "17106"
 title: ""
-url: /dingen/2023/03/17106/
+aliases:
+  - /dingen/2023/03/17106/
 
 ---
 A not too bad checklist of what makes an "Exceptional Engineer". Have you ever worked with one?

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17085
 parent_post_id: null
 post_id: "17085"
 title: Highlights for Thinking in Bets
-url: /dingen/2023/02/highlights-for-thinking-in-bets/
+aliases:
+  - /dingen/2023/02/highlights-for-thinking-in-bets/
 
 ---
 > _The punch line of the John Hennigan—Des Moines story—“after two days, he begged to get out of it”—made it part of gambling folklore._

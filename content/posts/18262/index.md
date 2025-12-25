@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18262
 parent_post_id: null
 post_id: "18262"
 title: ""
-url: /dingen/2025/07/18262/
+aliases:
+  - /dingen/2025/07/18262/
 
 ---
 One of the best ways to learn anything (including Git) is to make the entire thing yourself from scratch. Obsess over the details.

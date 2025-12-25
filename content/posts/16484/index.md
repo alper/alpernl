@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16484
 parent_post_id: null
 post_id: "16484"
 title: ""
-url: /dingen/2021/04/16484/
+aliases:
+  - /dingen/2021/04/16484/
 
 ---
 A write-up how Dropbox rearchitected and broke up their monolith into pragmatic components. Nice to read that their base was a large Python code base, a bit similar to Instagram which is still running a branch of Django underneath.

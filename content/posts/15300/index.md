@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15300
 parent_post_id: null
 post_id: "15300"
 title: ""
-url: /dingen/2019/03/15300/
+aliases:
+  - /dingen/2019/03/15300/
 
 ---
 I'll be proud to live in Berlin when the home owner expropriations are passed and the real estate madness is curtailed.

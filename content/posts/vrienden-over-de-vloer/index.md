@@ -8,7 +8,8 @@ tags:
   - eten
   - fotografie
 title: Vrienden over de vloer
-url: /dingen/2007/08/vrienden-over-de-vloer/
+aliases:
+  - /dingen/2007/08/vrienden-over-de-vloer/
 
 ---
 Vrienden die komen eten is fijn. Eten, drinken en gesprekken.

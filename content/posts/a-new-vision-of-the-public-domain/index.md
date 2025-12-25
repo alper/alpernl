@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2660
 parent_post_id: null
 post_id: "2660"
 title: A new vision of the public domain
-url: /dingen/2011/06/a-new-vision-of-the-public-domain/
+aliases:
+  - /dingen/2011/06/a-new-vision-of-the-public-domain/
 
 ---
 Lifting choice quotes from the proceedings of the Berkman [Hyperpublic](http://www.hyperpublic.org/) event graciously compiled by [Ethan Zuckerman](http://www.ethanzuckerman.com/blog/?page_id=15).

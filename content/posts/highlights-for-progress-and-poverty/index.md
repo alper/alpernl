@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16265
 parent_post_id: null
 post_id: "16265"
 title: Highlights for Progress and Poverty
-url: /dingen/2020/09/highlights-for-progress-and-poverty/
+aliases:
+  - /dingen/2020/09/highlights-for-progress-and-poverty/
 
 ---
 > Foul things fled, fierce things tame; discord turned to harmony! For how could there be greed where all had enough? How could the vice, the crime, the ignorance, the brutality, that spring from poverty and the fear of poverty, exist where poverty had vanished? Who should crouch where all were freemen; who oppress where all were peers?

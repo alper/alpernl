@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17108
 parent_post_id: null
 post_id: "17108"
 title: ""
-url: /dingen/2023/03/17108/
+aliases:
+  - /dingen/2023/03/17108/
 
 ---
 The hype train around AI now should be very familiar if you paid any attention during the previous crypto cycle. It's the same people pushing this technology in the world in the same overblown and damaging way.

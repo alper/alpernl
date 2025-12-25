@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15635
 parent_post_id: null
 post_id: "15635"
 title: Highlights for Agile Application Security
-url: /dingen/2019/08/highlights-for-agile-application-security/
+aliases:
+  - /dingen/2019/08/highlights-for-agile-application-security/
 
 ---
 > Don’t wait for the perfect time, tool or training course to get started. Just do something.

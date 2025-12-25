@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1750
 parent_post_id: null
 post_id: "1750"
 title: Elections and Campaign Data Visualization
-url: /dingen/2010/05/elections-and-campaign-data-visualization/
+aliases:
+  - /dingen/2010/05/elections-and-campaign-data-visualization/
 
 ---
 With the upcoming [Dutch elections](http://www.nederlandkiest.nl) the campaigns are heating up and we will be allowed to choose our parliamentary representatives yet again. It is interesting to see how statistics and their visualization are used to clarify and position issues in our complex world.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1052
 parent_post_id: null
 post_id: "1052"
 title: I come not to save Flash
-url: /dingen/2009/06/i-come-not-to-save-flash/
+aliases:
+  - /dingen/2009/06/i-come-not-to-save-flash/
 
 ---
 Adobe's CEO [said that Flash is safe from HTLM5](http://blogs.adobe.com/jd/2009/06/adobe_on_html5.html). Just the fact that Adobe made a board level comment on this is telling enough, the answer itself is somewhat lacking.

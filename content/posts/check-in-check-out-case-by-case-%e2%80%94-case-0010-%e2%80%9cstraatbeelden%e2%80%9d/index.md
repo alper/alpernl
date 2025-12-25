@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=1985
 parent_post_id: null
 post_id: "1985"
 title: "Check in / Check Out, Case by Case â€” Case 0010, â€œStraatbeeldenâ€\x9D"
-url: /dingen/2010/07/check-in-check-out-case-by-case-—-case-0010-“straatbeelden”/
+aliases:
+  - /dingen/2010/07/check-in-check-out-case-by-case-—-case-0010-“straatbeelden”/
 
 ---
 Niet zoveel aan te merken op dit hoofdstuk. Ook niet heel erg mijn interessegebied.

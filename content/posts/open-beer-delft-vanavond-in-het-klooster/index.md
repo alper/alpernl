@@ -13,7 +13,8 @@ tags:
   - ondernemen
   - zelfstandig
 title: Open Beer Delft vanavond in het Klooster
-url: /dingen/2007/04/open-beer-delft-vanavond-in-het-klooster/
+aliases:
+  - /dingen/2007/04/open-beer-delft-vanavond-in-het-klooster/
 
 ---
 Nog even ter herinnering, vanavond is de eerste editie van de netwerkborrel voor web professionals en zelfstandigen in Delft en omstreken.

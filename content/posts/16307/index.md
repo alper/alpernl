@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16307
 parent_post_id: null
 post_id: "16307"
 title: ""
-url: /dingen/2020/09/16307/
+aliases:
+  - /dingen/2020/09/16307/
 
 ---
 Canada and Russia are the big winners when it comes to climate change as can be seen in this piece about Climate Migration by Pro Publica.

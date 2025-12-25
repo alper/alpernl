@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16577
 parent_post_id: null
 post_id: "16577"
 title: ""
-url: /dingen/2021/08/16577/
+aliases:
+  - /dingen/2021/08/16577/
 
 ---
 > One, they must build psychological safety to spur learning and avoid preventable failures; two, they must set high standards and inspire and enable people to reach them.

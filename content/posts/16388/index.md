@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16388
 parent_post_id: null
 post_id: "16388"
 title: ""
-url: /dingen/2021/01/16388/
+aliases:
+  - /dingen/2021/01/16388/
 
 ---
 > "This is all to say that Paul Graham is an effective marketer and practitioner, but a profoundly unserious public intellectual. His attempts to grapple with the major issues of the present, especially as they intersect with his personal legacy, are so mired in intuition and incuriosity that they’re at best a distraction, and worst a real obstacle to understanding our paths forward."

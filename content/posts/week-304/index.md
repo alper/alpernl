@@ -13,7 +13,8 @@ post_id: "4194"
 tags:
   - weeknotes
 title: Week 304
-url: /dingen/2013/01/week-304/
+aliases:
+  - /dingen/2013/01/week-304/
 
 ---
 I got things back running again. Did a bunch of work on TORREON. Most Hubbub stuff is in [a weeknote over there](http://whatsthehubbub.nl/blog/2013/01/week-177/) now that I am writing now alternating with Kars Alfrink.

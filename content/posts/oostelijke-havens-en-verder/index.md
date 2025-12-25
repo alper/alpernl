@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1865
 parent_post_id: null
 post_id: "1865"
 title: Oostelijke Havens en verder
-url: /dingen/2010/06/oostelijke-havens-en-verder/
+aliases:
+  - /dingen/2010/06/oostelijke-havens-en-verder/
 
 ---
 Een kleine fietstocht lansg het IJ voor een toekomstig project:

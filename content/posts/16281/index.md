@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16281
 parent_post_id: null
 post_id: "16281"
 title: ""
-url: /dingen/2020/09/16281/
+aliases:
+  - /dingen/2020/09/16281/
 
 ---
 I had some people from the Greens explain to me how the SUV was not so bad after all (as my intuition told me). Turns out my intuition was right.

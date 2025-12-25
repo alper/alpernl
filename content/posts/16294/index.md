@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16294
 parent_post_id: null
 post_id: "16294"
 title: ""
-url: /dingen/2020/09/16294/
+aliases:
+  - /dingen/2020/09/16294/
 
 ---
 Something to remember when embarking on a journey to improve large and complex systems of humans and technology: small changes can make big a difference and afterwards nobody will really remember how bad things were.

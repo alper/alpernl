@@ -12,7 +12,8 @@ post_id: "323"
 tags:
   - uncategorized
 title: Socio-locational disconnection
-url: /dingen/2008/07/socio-locational-disconnection/
+aliases:
+  - /dingen/2008/07/socio-locational-disconnection/
 
 ---
 I've been tremendously enjoying [the stuff Jan Chipchase writes](http://www.janchipchase.com/) on his blog both current and digging deep into his archives ((Back to a time when comments were still allowed on his blog.)). A dream job if ever there was one.

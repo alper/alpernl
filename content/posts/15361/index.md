@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15361
 parent_post_id: null
 post_id: "15361"
 title: ""
-url: /dingen/2019/04/15361/
+aliases:
+  - /dingen/2019/04/15361/
 
 ---
 Something that sounds so basic and is so very important but that can be very difficult to achieve when you're in the thick of it: “Work on the business, not in the business.”

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3592
 parent_post_id: null
 post_id: "3592"
 title: The Prince of Networks Notes
-url: /dingen/2012/06/the-prince-of-networks-notes/
+aliases:
+  - /dingen/2012/06/the-prince-of-networks-notes/
 
 ---
 Last weekend I finished the Prince of Networks (which is in fact [available for free online](http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf) and I recommend you read it, though [Alien Phenomenology](http://www.bogost.com/blog/alien_phenomenology_or_what_it.shtml) may be a more concise and lighter introduction into speculative realism) by [Graham Harman](http://doctorzamalek2.wordpress.com/).

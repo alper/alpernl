@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17255
 parent_post_id: null
 post_id: "17255"
 title: ""
-url: /dingen/2023/08/17255/
+aliases:
+  - /dingen/2023/08/17255/
 
 ---
 Mastodon is really picking up lately and with a couple more features (search!, discovery!) this can become much better than Twitter ever was.

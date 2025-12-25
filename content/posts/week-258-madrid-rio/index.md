@@ -11,7 +11,8 @@ post_id: "3372"
 tags:
   - weeknotes
 title: 'Week 258: Madrid, RIO'
-url: /dingen/2012/02/week-258-madrid-rio/
+aliases:
+  - /dingen/2012/02/week-258-madrid-rio/
 
 ---
 [![First noms in Madrid](http://farm8.staticflickr.com/7198/6909332625_fe9158c785.jpg)](http://www.flickr.com/photos/alper/6909332625/ "First noms in Madrid by illustir, on Flickr")[![Churros con chocolate](http://farm8.staticflickr.com/7187/6923022011_db4b644342.jpg)](http://www.flickr.com/photos/alper/6923022011/ "Churros con chocolate by illustir, on Flickr")

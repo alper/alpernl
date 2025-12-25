@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18320
 parent_post_id: null
 post_id: "18320"
 title: ""
-url: /dingen/2025/09/18320/
+aliases:
+  - /dingen/2025/09/18320/
 
 ---
 The disabled creating custom prosthetics and turning themselves into highly visible and fashionable “neo-people” is at least one positive way that cyberpunk is turning into reality.

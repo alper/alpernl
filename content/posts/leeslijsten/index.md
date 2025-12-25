@@ -9,7 +9,8 @@ post_id: "238"
 tags:
   - reading
 title: Leeslijsten
-url: /dingen/2008/01/leeslijsten/
+aliases:
+  - /dingen/2008/01/leeslijsten/
 
 ---
 Van de week bij de IKEA een klein kastje gekocht om mijn boeken dichter bij de hand te hebben.

@@ -9,7 +9,8 @@ post_id: "139"
 tags:
   - eten
 title: Fusion is niks voor mij
-url: /dingen/2007/09/fusion-is-niks-voor-mij/
+aliases:
+  - /dingen/2007/09/fusion-is-niks-voor-mij/
 
 ---
 Gisteren een nieuw fusion restaurant/coffee-corner/danscafé/concept hier in Delft uitgeprobeerd: [Yamamoto](http://www.yamamoto.nl/). Het ziet er aardig uit maar een ingewikkelde menukaart die niet veel toevoegt ( [mijn recensie](http://www.yelloyello.com/nl/delft/yamamoto/a7P9e-zo0r3jg3adbiDtP6)).

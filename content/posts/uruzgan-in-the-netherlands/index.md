@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2001
 parent_post_id: null
 post_id: "2001"
 title: Uruzgan in the Netherlands
-url: /dingen/2010/08/uruzgan-in-the-netherlands/
+aliases:
+  - /dingen/2010/08/uruzgan-in-the-netherlands/
 
 ---
 Today marks [the end of the Dutch presence](http://nos.nl/artikel/175626-missie-nederland-in-afghanistan-voorbij.html) in Afghanistan and here's a small data oriented tribute to those that have fallen in service. Inspired by the [Home and Away visualization](http://edition.cnn.com/SPECIALS/war.casualties/index.html) by Stamen, I decided to see if something similar for our [Task Force Uruzgan](http://nl.wikipedia.org/wiki/Task_Force_Uruzgan) would provide any insight.

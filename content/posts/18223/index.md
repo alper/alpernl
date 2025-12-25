@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18223
 parent_post_id: null
 post_id: "18223"
 title: ""
-url: /dingen/2025/04/18223/
+aliases:
+  - /dingen/2025/04/18223/
 
 ---
 Thorsten Ball keeps writing bangers such as this speed run how to write a AI coding agent.

@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16866
 parent_post_id: null
 post_id: "16866"
 title: ""
-url: /dingen/2022/10/16866/
+aliases:
+  - /dingen/2022/10/16866/
 
 ---
 Pretty much each of these 20 systems thinking tips, I've had to learn the hard way so seeing them all in one place is good but also difficult.

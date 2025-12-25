@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16161
 parent_post_id: null
 post_id: "16161"
 title: ""
-url: /dingen/2020/07/16161/
+aliases:
+  - /dingen/2020/07/16161/
 
 ---
 "There must be agreement on a coalition between labor and capital, whose interests are aligned in seeking taxation from landowners rather than workers or productive activity."

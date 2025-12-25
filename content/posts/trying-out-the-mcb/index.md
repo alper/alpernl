@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5333
 parent_post_id: null
 post_id: "5333"
 title: Trying out the McB.
-url: /dingen/2015/10/trying-out-the-mcb/
+aliases:
+  - /dingen/2015/10/trying-out-the-mcb/
 
 ---
 I finally got the chance of trying out the [McB](http://www.mcdonalds.de/produkte/mcb), McDonald's new ecological burger tonight after [a visit to the opera](/dingen/2015/10/les-contes-dhoffmann/).

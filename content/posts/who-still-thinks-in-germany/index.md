@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=4066
 parent_post_id: null
 post_id: "4066"
 title: Who still thinks in Germany?
-url: /dingen/2013/01/who-still-thinks-in-germany/
+aliases:
+  - /dingen/2013/01/who-still-thinks-in-germany/
 
 ---
 _German friends some things need to be written but don't take them personally. If anything, as I write below, this presents a very large opportunity for who will take it._

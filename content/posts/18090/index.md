@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18090
 parent_post_id: null
 post_id: "18090"
 title: ""
-url: /dingen/2025/02/18090/
+aliases:
+  - /dingen/2025/02/18090/
 
 ---
 This is the way “A Pattern Language” intended we should talk about patterns: applied and without making things more complicated. Patterns should simplify and be grasped immediately.

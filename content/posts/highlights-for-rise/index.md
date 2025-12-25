@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17090
 parent_post_id: null
 post_id: "17090"
 title: Highlights for Rise
-url: /dingen/2023/02/highlights-for-rise/
+aliases:
+  - /dingen/2023/02/highlights-for-rise/
 
 ---
 > You need to use your time differently. You need to rise above the work. You need to figure out how to make yourself less busy with your current workload to make room to do higher-value work. No one will do this for you.

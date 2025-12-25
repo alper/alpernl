@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17921
 parent_post_id: null
 post_id: "17921"
 title: ""
-url: /dingen/2025/01/17921/
+aliases:
+  - /dingen/2025/01/17921/
 
 ---
 A more than accurate description of my entire LinkedIn experience.

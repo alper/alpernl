@@ -11,7 +11,8 @@ post_id: "321"
 tags:
   - uncategorized
 title: Linguistic Waves
-url: /dingen/2008/07/linguistic-waves/
+aliases:
+  - /dingen/2008/07/linguistic-waves/
 
 ---
 [Talking about](/dingen/2008/07/pre-holiday-wrapping-up/) catching waves, I had been annoyed majorly by the uselessness of Safari not incorporating any decent URL shortcut function ((Like Firefox and Opera have had for ages.)) without either a [paid for extension](http://pimpmysafari.com/plugins/saft) or a dreadful [input manager hack](http://safarikeywords.sourceforge.net/).

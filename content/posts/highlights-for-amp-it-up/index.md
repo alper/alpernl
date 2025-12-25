@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17112
 parent_post_id: null
 post_id: "17112"
 title: Highlights for Amp It Up
-url: /dingen/2023/03/highlights-for-amp-it-up/
+aliases:
+  - /dingen/2023/03/highlights-for-amp-it-up/
 
 ---
 > What you need on day one is to ratchet up expectations, energy, urgency, and intensity.

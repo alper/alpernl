@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=16286
 parent_post_id: null
 post_id: "16286"
 title: ""
-url: /dingen/2020/09/16286/
+aliases:
+  - /dingen/2020/09/16286/
 
 ---
 > “The technology is not the hard part. It’s already invented, but we have to pay ourselves to install it fast. So, again, that’s an economic question, and it doesn’t work in capitalism. We have the means right now to arrange for everybody alive today to have adequate food, water, shelter, clothing, education, and healthcare, within the biosphere’s carrying capacity.”

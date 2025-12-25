@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1170
 parent_post_id: null
 post_id: "1170"
 title: Enjoyment of Public Space
-url: /dingen/2009/08/enjoyment-of-public-space/
+aliases:
+  - /dingen/2009/08/enjoyment-of-public-space/
 
 ---
 Jan Chipchase had asked this question recently in a post on [this street scene](http://www.janchipchase.com/blog/archives/2009/07/social-form.html) which already had me thinking.

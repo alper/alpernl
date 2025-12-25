@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15485
 parent_post_id: null
 post_id: "15485"
 title: ""
-url: /dingen/2019/06/15485/
+aliases:
+  - /dingen/2019/06/15485/
 
 ---
 Tooling has become so good and so empowering that like in this tweet, many commerce ‘startups’ that are really struggling to hire and retain dev teams (and then utilize them to their potential) would be much better served using Airtable, Zapier and Pipedrive until they break.

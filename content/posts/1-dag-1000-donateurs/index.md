@@ -13,7 +13,8 @@ post_id: "2229"
 tags:
   - 1dag1000donateurs
 title: 1 Dag â€” 1000 Donateurs
-url: /dingen/2010/10/1-dag-1000-donateurs/
+aliases:
+  - /dingen/2010/10/1-dag-1000-donateurs/
 
 ---
 Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: [https://www.bof.nl/1dag1000donateurs/](https://www.bof.nl/1dag1000donateurs/) [![](1dag1000donateurs-banner-728px.png)](1dag1000donateurs-banner-728px.png)

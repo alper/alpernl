@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16018
 parent_post_id: null
 post_id: "16018"
 title: ""
-url: /dingen/2020/02/16018/
+aliases:
+  - /dingen/2020/02/16018/
 
 ---
 It's not that often that you see a guide how to hire engineering managers, let alone people at the DirEng/VPE level. That makes this guide by Rushab Doshi rare and useful.

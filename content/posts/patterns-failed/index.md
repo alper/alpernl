@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15542
 parent_post_id: null
 post_id: "15542"
 title: Patterns failed
-url: /dingen/2019/06/patterns-failed/
+aliases:
+  - /dingen/2019/06/patterns-failed/
 
 ---
 Exceedingly rare to find a talk about programming that draws on both Christopher Alexander and James C. Scott, two authors that I keep coming back to myself.

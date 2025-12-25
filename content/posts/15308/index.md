@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15308
 parent_post_id: null
 post_id: "15308"
 title: ""
-url: /dingen/2019/04/15308/
+aliases:
+  - /dingen/2019/04/15308/
 
 ---
 I've got a Patagonia down jacket and I'm glad that they are taking a stand against the appropriation of the brand by finance bros.

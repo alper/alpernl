@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5215
 parent_post_id: null
 post_id: "5215"
 title: Encounter Zone MaaÃŸenstraÃŸe
-url: /dingen/2015/05/encounter-zone-maasenstrase/
+aliases:
+  - /dingen/2015/05/encounter-zone-maasenstrase/
 
 ---
 Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after [a public consultation](https://begegnungszonen.berlin.de/) was finished last year or the year before. I looked around a bit but I couldn't find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got [a PDF of the plan](06-Flyer_Begegnungszone_maassenstr.pdf).

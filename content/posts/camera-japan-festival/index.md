@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=527
 parent_post_id: null
 post_id: "527"
 title: Camera Japan Festival
-url: /dingen/2008/09/camera-japan-festival/
+aliases:
+  - /dingen/2008/09/camera-japan-festival/
 
 ---
 Last weekend the [Camera Japan](http://www.camerajapan.nl/) movie festival took place at the arthouse cinema Lantaren/Venster in Rotterdam and it was a lot of fun. The venue was packed and there was a great vibe (like always).

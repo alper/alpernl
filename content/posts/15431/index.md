@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15431
 parent_post_id: null
 post_id: "15431"
 title: ""
-url: /dingen/2019/05/15431/
+aliases:
+  - /dingen/2019/05/15431/
 
 ---
 A lot of very salient thinking on books, metacognition, double-loop learning and the deliberate design of new forms by Andy Matuschak in [“Why Books Don't Work”](https://andymatuschak.org/books/).

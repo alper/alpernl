@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18408
 parent_post_id: null
 post_id: "18408"
 title: ""
-url: /dingen/2025/10/18408/
+aliases:
+  - /dingen/2025/10/18408/
 
 ---
 Lots of respect for the people who spend years pushing something like a standardised Python lock file. It's crucial but invisible work.

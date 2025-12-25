@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1675
 parent_post_id: null
 post_id: "1675"
 title: In code we trust â€” Vertrouwen in de overheid, bureaucratie en technologie
-url: /dingen/2010/03/in-code-we-trust-—-vertrouwen-in-de-overheid-bureaucratie-en-technologie/
+aliases:
+  - /dingen/2010/03/in-code-we-trust-—-vertrouwen-in-de-overheid-bureaucratie-en-technologie/
 
 ---
 Boeiende vinger aan de pols in open overheid Amerika met [Noel Hidalgo](http://twitter.com/noneck) (New York), Dmitry Kachaev (Washington D.C.) en [Alissa Black](http://www.linkedin.com/pub/alissa-black/6/a9b/2b9) (San Francisco).

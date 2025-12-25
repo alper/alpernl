@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15987
 parent_post_id: null
 post_id: "15987"
 title: ""
-url: /dingen/2020/02/15987/
+aliases:
+  - /dingen/2020/02/15987/
 
 ---
 A long piece on The Daily which reveals a lot about its inner workings and the all-consuming scale with which something like that operates.

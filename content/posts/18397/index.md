@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18397
 parent_post_id: null
 post_id: "18397"
 title: ""
-url: /dingen/2025/10/18397/
+aliases:
+  - /dingen/2025/10/18397/
 
 ---
 I am not that sure that AI workslop is that much of problem in a healthy workplace.

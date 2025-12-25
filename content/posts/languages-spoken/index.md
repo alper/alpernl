@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15798
 parent_post_id: null
 post_id: "15798"
 title: Languages spoken
-url: /dingen/2019/10/languages-spoken/
+aliases:
+  - /dingen/2019/10/languages-spoken/
 
 ---
 Found this on Reddit and made my own.

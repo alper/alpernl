@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=2684
 parent_post_id: null
 post_id: "2684"
 title: Statlas, bÃ¨ta versie
-url: /dingen/2011/06/statlas-beta-versie/
+aliases:
+  - /dingen/2011/06/statlas-beta-versie/
 
 ---
 We zijn al een tijdje bezig met [Statlas](http://statlas.nl) en het is de hoogste tijd dat een eerste versie het daglicht ziet om te laten zien wat voor iets tofs we hebben gemaakt en te horen wat jullie ervan vinden. Dus voor jullie ogen: [Statlas](http://statlas.nl)

@@ -8,7 +8,8 @@ tags:
   - eten
   - huis
 title: Koele spullen
-url: /dingen/2008/01/koele-spullen/
+aliases:
+  - /dingen/2008/01/koele-spullen/
 
 ---
 Vanochtend is mijn koelkast bezorgd.

@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17131
 parent_post_id: null
 post_id: "17131"
 title: ""
-url: /dingen/2023/03/17131/
+aliases:
+  - /dingen/2023/03/17131/
 
 ---
 A brief English overview of the dizi Alev Alev which truly was very good and focused on empowering women. I still want to make a supercut at some point of all of Ömer and Ozan's interactions.

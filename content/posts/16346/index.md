@@ -13,7 +13,8 @@ guid: http://www.alper.nl/dingen/?p=16346
 parent_post_id: null
 post_id: "16346"
 title: ""
-url: /dingen/2020/10/16346/
+aliases:
+  - /dingen/2020/10/16346/
 
 ---
 > The problem isn’t just that infections have risen, it’s that the authorities’ response is increasingly muddled.

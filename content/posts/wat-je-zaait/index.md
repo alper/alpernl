@@ -10,7 +10,8 @@ post_id: "287"
 tags:
   - uncategorized
 title: Wat je zaait
-url: /dingen/2008/05/wat-je-zaait/
+aliases:
+  - /dingen/2008/05/wat-je-zaait/
 
 ---
 Druk en weinig bloggerij de laatste tijd. Daar komt wel weer verandering in, al weet ik niet of ik moet blijven bloggen in het Nederlands. Ik schat dat de meeste lezers van dit stukje toch ook wel Engels kunnen lezen en dat ik ondertussen goed genoeg Engels schrijf dat het niet storend is.

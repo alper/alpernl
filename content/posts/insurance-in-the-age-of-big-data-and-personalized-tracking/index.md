@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5312
 parent_post_id: null
 post_id: "5312"
 title: Insurance in the age of big data and personalized tracking
-url: /dingen/2015/10/insurance-in-the-age-of-big-data-and-personalized-tracking/
+aliases:
+  - /dingen/2015/10/insurance-in-the-age-of-big-data-and-personalized-tracking/
 
 ---
 Last week there was some debate spurred by some of the larger insurers of the Netherlands who want to use tracking data to personalize insurance coverage. [A piece in the Reformatorisch Dagblad](http://www.refdag.nl/nieuws/binnenland/korting_op_premie_in_ruil_voor_privedata_gaat_achmea_te_ver_1_943352) of all places and [Rob Wijnberg talking about it at DWDD](http://dewerelddraaitdoor.vara.nl/media/346768).

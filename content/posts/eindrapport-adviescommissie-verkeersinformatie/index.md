@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1923
 parent_post_id: null
 post_id: "1923"
 title: Eindrapport Adviescommissie Verkeersinformatie
-url: /dingen/2010/07/eindrapport-adviescommissie-verkeersinformatie/
+aliases:
+  - /dingen/2010/07/eindrapport-adviescommissie-verkeersinformatie/
 
 ---
 Dit rapport is tijdens de verhuizingen een beetje tussen wal en schip geraakt. Het lijkt me goed om de gedeelten die ik al had aangestreept even snel te bloggen voordat we diep op de openbaar vervoersinformatie-situatie in Nederland ingaan.

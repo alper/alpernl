@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16989
 parent_post_id: null
 post_id: "16989"
 title: ""
-url: /dingen/2023/01/16989/
+aliases:
+  - /dingen/2023/01/16989/
 
 ---
 Despite not being the biggest fan of Shape Up or of 37s, I still really enjoyed watching this video by Ryan Singer about Shaping.

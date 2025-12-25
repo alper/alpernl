@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3034
 parent_post_id: null
 post_id: "3034"
 title: Michael LaFond - Berlin Co-Housing
-url: /dingen/2011/10/michael-lafond-berlin-co-housing/
+aliases:
+  - /dingen/2011/10/michael-lafond-berlin-co-housing/
 
 ---
 I was at [an event organized by ARCAM](http://www.arcam.nl/lezingen/programma_nl.html) tonight concerning co-operative housing projects which are already very popular in Berlin but are rapidly expanding to other cities. Amsterdam is busy launching its own initiative and Michael LaFond from Berlin presented their experiences with this way of building.

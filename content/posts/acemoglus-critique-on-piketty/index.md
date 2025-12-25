@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5030
 parent_post_id: null
 post_id: "5030"
 title: Acemoglu's Critique on Piketty
-url: /dingen/2014/08/acemoglus-critique-on-piketty/
+aliases:
+  - /dingen/2014/08/acemoglus-critique-on-piketty/
 
 ---
 I read [this paper](http://economics.mit.edu/files/9834) by Acemoglu and Robinson right after I read the book by Piketty thinking that there would be some interesting economic debate. Unfortunately I was proved wrong and this seems to be exemplary for the stagnation of the economic field.

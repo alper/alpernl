@@ -12,7 +12,8 @@ tags:
   - reading
   - waarheid
 title: Drie Werelden over Waarheid en Menselijkheid
-url: /dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/
+aliases:
+  - /dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/
 
 ---
 Ik lees nu "All life is problem solving" ((Vertaald, maar ik had hem al gekocht.)) van [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) en het is zware kost ((Gelukkig niet zo zwaar als "Objective Knowledge")) maar ook erg waardevol en boeiend. Vergeef het vage gezwam, maar ik ga af en toe wat inhoud van wat ik lees hier verwerken.

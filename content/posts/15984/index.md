@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15984
 parent_post_id: null
 post_id: "15984"
 title: ""
-url: /dingen/2020/02/15984/
+aliases:
+  - /dingen/2020/02/15984/
 
 ---
 Ik kijk heel erg uit om dingen op het vernieuwde OneWorld te lezen.

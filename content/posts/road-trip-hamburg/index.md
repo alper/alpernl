@@ -9,7 +9,8 @@ post_id: "158"
 tags:
   - reizen
 title: Road Trip Hamburg
-url: /dingen/2007/10/road-trip-hamburg/
+aliases:
+  - /dingen/2007/10/road-trip-hamburg/
 
 ---
 Vanavond met een klein groepje onderweg naar Hamburg voor een weekendje capoeira. Het wordt tof.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15435
 parent_post_id: null
 post_id: "15435"
 title: ""
-url: /dingen/2019/05/15435/
+aliases:
+  - /dingen/2019/05/15435/
 
 ---
 With my background in behavior change, I'm very pleasantly surprised to find this quote in what is a connoisseur's treatment of the nuances of agile/agility: “There is only one way to create business value, and that’s to change someone’s behavior.”

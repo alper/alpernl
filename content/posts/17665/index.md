@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17665
 parent_post_id: null
 post_id: "17665"
 title: ""
-url: /dingen/2024/11/17665/
+aliases:
+  - /dingen/2024/11/17665/
 
 ---
 Cancelled Apple Arcade because I haven’t seen a nice game enter the set in months now.

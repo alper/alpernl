@@ -13,7 +13,8 @@ tags:
   - leven
   - reizen
 title: Berliner Existenz
-url: /dingen/2007/11/berliner-existenz/
+aliases:
+  - /dingen/2007/11/berliner-existenz/
 
 ---
 Na in Berlijn aangekomen te zijn, heb ik:

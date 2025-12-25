@@ -8,7 +8,8 @@ tags:
   - koken
   - winkelen
 title: Barre culi-ervaring bij de Albert Heijn
-url: /dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/
+aliases:
+  - /dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/
 
 ---
 Net bij [de supermarkt](http://www.ah.nl/) geweest voor ingrediënten om [Robby Rodriguez's](/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/) recept te maken.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=536
 parent_post_id: null
 post_id: "536"
 title: Downsize and change
-url: /dingen/2008/09/downsize-and-change/
+aliases:
+  - /dingen/2008/09/downsize-and-change/
 
 ---
 Taplin [writes about America having to buckle up](http://jtaplin.wordpress.com/2008/09/19/the-next-america/) and go to the simpler life, which I think might not be such a bad thing:

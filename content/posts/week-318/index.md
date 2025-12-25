@@ -14,7 +14,8 @@ post_id: "4524"
 tags:
   - weeknotes
 title: Week 318
-url: /dingen/2013/05/week-318/
+aliases:
+  - /dingen/2013/05/week-318/
 
 ---
 Unbelievable how many weeks behind I am on these. That's not wholly intended, but the last couple of weeks have been a bit busier than usual. This was the week of April 15th which I spent mostly in Amsterdam.

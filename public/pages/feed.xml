@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/pages/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biography</title>
-      <link>http://localhost:1313/dingen/alper-cugun-biography/</link>
+      <link>http://localhost:1313/pages/alper-cugun-biography/</link>
       <pubDate>Fri, 21 Dec 2018 02:12:34 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:1313/dingen/alper-cugun-biography/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/about/alper-cugun-portrait-februar-2015/&#34;&gt;&lt;img alt=&#34;Alper Cugun Portrait Februar 2015&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/dingen/alper-cugun-biography/150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+       <guid isPermaLink="false">http://localhost:1313/pages/alper-cugun-biography/</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/dingen/about/alper-cugun-portrait-februar-2015/&#34;&gt;&lt;img alt=&#34;Alper Cugun Portrait Februar 2015&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/pages/alper-cugun-biography/150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Photograph by &lt;a href=&#34;http://www.tonysojka.com/&#34;&gt;Antony Sojka&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
 &lt;p&gt;Alper Çuğun-Gscheidel M.Sc. is an engineer, designer and author working in software engineering.&lt;/p&gt;
@@ -22,14 +22,14 @@
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/dingen/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Sun, 22 Apr 2018 12:50:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?page_id=5981</guid> 
       <description>&lt;p&gt;Moved to &lt;a href=&#34;http://localhost:1313/dingen/alper-cugun-biography/&#34;&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Speaking</title>
-      <link>http://localhost:1313/dingen/speaking/</link>
+      <link>http://localhost:1313/pages/speaking/</link>
       <pubDate>Fri, 01 Aug 2008 08:07:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?page_id=350</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;http://thenextspeaker.com/nl/experts/alper-cugun/&#34;&gt;&lt;strong&gt;For speaking engagements you can get in touch with The Next Speaker.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;

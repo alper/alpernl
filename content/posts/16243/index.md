@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=16243
 parent_post_id: null
 post_id: "16243"
 title: ""
-url: /dingen/2020/08/16243/
+aliases:
+  - /dingen/2020/08/16243/
 
 ---
 I love the examples in this bit about great engineering cultures: teamwork as default, quality is personal, results driven meetings & retrospectives are fun

@@ -14,7 +14,8 @@ post_id: "2377"
 tags:
   - weeknotes
 title: Week 198
-url: /dingen/2011/01/week-198/
+aliases:
+  - /dingen/2011/01/week-198/
 
 ---
 The ephemeral week between Christmas and New Year's.

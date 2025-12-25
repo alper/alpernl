@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15783
 parent_post_id: null
 post_id: "15783"
 title: ""
-url: /dingen/2019/10/15783/
+aliases:
+  - /dingen/2019/10/15783/
 
 ---
 > “As I flick off the power switch on the back of the Macintosh, the whine retreats in a gentle diminuendo, until it finally gives way to silence. I have accomplished a feat that is no longer possible: My computing session has ended.”

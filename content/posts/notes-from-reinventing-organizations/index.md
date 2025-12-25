@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5853
 parent_post_id: null
 post_id: "5853"
 title: Highlights from Reinventing Organizations
-url: /dingen/2017/10/notes-from-reinventing-organizations/
+aliases:
+  - /dingen/2017/10/notes-from-reinventing-organizations/
 
 ---
 > I believe it has to do with the belief system of our times: in a hierarchical worldview, there can be only one brain in command, just as there must be a single boss at the head of every organization.

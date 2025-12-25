@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16563
 parent_post_id: null
 post_id: "16563"
 title: ""
-url: /dingen/2021/08/16563/
+aliases:
+  - /dingen/2021/08/16563/
 
 ---
 > We improve at this process by becoming more creative, having more slack, being more equanimous, and pruning more efficiently.

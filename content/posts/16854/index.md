@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16854
 parent_post_id: null
 post_id: "16854"
 title: ""
-url: /dingen/2022/09/16854/
+aliases:
+  - /dingen/2022/09/16854/
 
 ---
 https://twitter.com/SteveFi04457564/status/1558065690820624387

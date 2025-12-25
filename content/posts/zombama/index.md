@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=605
 parent_post_id: null
 post_id: "605"
 title: Zombama
-url: /dingen/2008/11/zombama/
+aliases:
+  - /dingen/2008/11/zombama/
 
 ---
 Sorry people. The Onion made me realize what I've subjected you guys to all this time:

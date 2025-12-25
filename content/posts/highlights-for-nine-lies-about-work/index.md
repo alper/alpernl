@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16431
 parent_post_id: null
 post_id: "16431"
 title: Highlights for Nine Lies About Work
-url: /dingen/2021/02/highlights-for-nine-lies-about-work/
+aliases:
+  - /dingen/2021/02/highlights-for-nine-lies-about-work/
 
 ---
 > And from that point on she micromanaged me, and I realized that she was fear-based, both in how she thought of her bosses and in terms of how she ran her team.

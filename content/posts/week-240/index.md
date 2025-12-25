@@ -14,7 +14,8 @@ post_id: "3054"
 tags:
   - weeknotes
 title: Week 240
-url: /dingen/2011/11/week-240/
+aliases:
+  - /dingen/2011/11/week-240/
 
 ---
 This was a short week. Work on [Apps voor Nederland](http://appsvoornederland.nl) and then off to [Playful](http://thisisplayful.com/).

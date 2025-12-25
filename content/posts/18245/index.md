@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18245
 parent_post_id: null
 post_id: "18245"
 title: ""
-url: /dingen/2025/06/18245/
+aliases:
+  - /dingen/2025/06/18245/
 
 ---
 "Nightmare bicycle" is a concept that I won't get out of my head quickly.

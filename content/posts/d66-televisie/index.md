@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1491
 parent_post_id: null
 post_id: "1491"
 title: D66 Televisie
-url: /dingen/2010/01/d66-televisie/
+aliases:
+  - /dingen/2010/01/d66-televisie/
 
 ---
 Afgelopen weekend was ik ook bij de nieuwjaarsborrel van [D66 Amsterdam](http://www.d66amsterdam.nl/) in het kader van de gemeenteraadsverkiezingen die er aankomen. Ik heb toen samen met wat anderen wat video's gemaakt van de verschillende lijsttrekkers, gemeenteraadsleden en andere belangrijke D66'ers (ook van Alexander Pechtold en Boris van der Ham) in de komende periode voor het [D66 Amsterdam videokanaal](http://www.dik.nl/channel/player/6278).

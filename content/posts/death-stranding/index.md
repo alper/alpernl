@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17468
 parent_post_id: null
 post_id: "17468"
 title: Death Stranding
-url: /dingen/2024/03/death-stranding/
+aliases:
+  - /dingen/2024/03/death-stranding/
 
 ---
 Last night I sat down to finish Death Stranding and after beating the final boss it took an additional two hours of story, dream sequences, credit sequences and false endings before it was over. Or not quite over but finished and into the open ended chapter: “Tomorrow is in your Hands.”

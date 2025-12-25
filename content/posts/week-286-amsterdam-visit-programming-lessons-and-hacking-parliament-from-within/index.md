@@ -42,7 +42,8 @@ post_id: "3849"
 tags:
   - weeknotes
 title: 'Week 286: Amsterdam visit, programming lessons and hacking parliament from within'
-url: /dingen/2012/09/week-286-amsterdam-visit-programming-lessons-and-hacking-parliament-from-within/
+aliases:
+  - /dingen/2012/09/week-286-amsterdam-visit-programming-lessons-and-hacking-parliament-from-within/
 
 ---
 A massively eventful week that for me took place mostly in Amsterdam where I had tons of catching up to do after a holiday absence of I believe over two months. In between moving offices and traveling, work on _kohi_ moved on apace. We may have something usable by a slightly wider audience somewhere in the next week.

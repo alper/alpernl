@@ -22,7 +22,8 @@ post_id: "4401"
 tags:
   - weeknotes
 title: Week 312
-url: /dingen/2013/03/week-312/
+aliases:
+  - /dingen/2013/03/week-312/
 
 ---
 [![The German police state is up and about](http://farm9.staticflickr.com/8371/8527131955_97673a982f_z.jpg)](http://www.flickr.com/photos/alper/8527131955/ "The German police state is up and about by illustir, on Flickr")

@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16517
 parent_post_id: null
 post_id: "16517"
 title: ""
-url: /dingen/2021/05/16517/
+aliases:
+  - /dingen/2021/05/16517/
 
 ---
 I've been thinking along these lines and a DNA type meeting as an informal place of leadership and sparring sound great. In our case, I think I'll call it "Debt and Architecture".

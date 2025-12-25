@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15618
 parent_post_id: null
 post_id: "15618"
 title: ""
-url: /dingen/2019/08/15618/
+aliases:
+  - /dingen/2019/08/15618/
 
 ---
 Reading Shopify's approach to keeping their merchant's secure at their humongous scale seems to come down to the radical standardization of everything. People think this is boring (it isn't) but it has tons of benefits beyond just security.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1894
 parent_post_id: null
 post_id: "1894"
 title: Rabobank innovatief maar niet heus
-url: /dingen/2010/06/rabobank-innovatief-maar-niet-heus/
+aliases:
+  - /dingen/2010/06/rabobank-innovatief-maar-niet-heus/
 
 ---
 Dit is de zogenaamde innovatie bij de [Rabobank](http://www.rabobank.nl):

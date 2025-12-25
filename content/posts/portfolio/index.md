@@ -11,7 +11,8 @@ tags:
   - html
   - internet
 title: Portfolio
-url: /dingen/2007/06/portfolio/
+aliases:
+  - /dingen/2007/06/portfolio/
 
 ---
 Sommigen hebben het al gezien, ik heb [een kleine site](/photography/) gemaakt waar ik een [fotoportfolio](/photography/) kwijt kan.

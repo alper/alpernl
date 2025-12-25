@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=18419
 parent_post_id: null
 post_id: "18419"
 title: ""
-url: /dingen/2025/10/18419/
+aliases:
+  - /dingen/2025/10/18419/
 
 ---
 Good to have explained this explicitly why mathematics is such an essential component of programming. People without an inclination for this kind of abstract mathematical thinking often are poor and chaotic programmers.

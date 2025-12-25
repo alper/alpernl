@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3151
 parent_post_id: null
 post_id: "3151"
 title: Cameratoezicht conclusie
-url: /dingen/2011/12/cameratoezicht-conclusie/
+aliases:
+  - /dingen/2011/12/cameratoezicht-conclusie/
 
 ---
 Ik zou nog schrijven wat de conclusie was van het cameratoezicht op mijn gestolen fiets [uit het vorige bericht](/dingen/2011/10/cameratoezicht-op-mijn-fiets/). Daar stond al hoe je voor dit soort zaken van het kastje naar de muur gestuurd wordt. Ik had nagelaten dit op te schrijven door drukte en frustratie met hoe het gaat in de stad, maar gelukkig herinnerde [Rejo Zenger](https://rejo.zenger.nl/) van [Bits of Freedom](https://www.bof.nl/) me eraan.

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16979
 parent_post_id: null
 post_id: "16979"
 title: ""
-url: /dingen/2023/01/16979/
+aliases:
+  - /dingen/2023/01/16979/
 
 ---
 Being able to run Chrome in your terminal and watch YouTube videos there means the snake has fully eaten its tail.

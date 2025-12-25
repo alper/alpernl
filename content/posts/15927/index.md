@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15927
 parent_post_id: null
 post_id: "15927"
 title: ""
-url: /dingen/2020/01/15927/
+aliases:
+  - /dingen/2020/01/15927/
 
 ---
 A quick rundown by Github of how to develop quickly on production using feature flags and what benefits that brings.

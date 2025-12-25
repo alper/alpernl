@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17475
 parent_post_id: null
 post_id: "17475"
 title: ""
-url: /dingen/2024/03/17475/
+aliases:
+  - /dingen/2024/03/17475/
 
 ---
 Learned in this podcast episode about class justice in Germany something rather remarkable.

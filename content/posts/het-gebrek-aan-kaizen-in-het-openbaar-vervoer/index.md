@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1451
 parent_post_id: null
 post_id: "1451"
 title: Het gebrek aan kaizen in het openbaar vervoer
-url: /dingen/2009/12/het-gebrek-aan-kaizen-in-het-openbaar-vervoer/
+aliases:
+  - /dingen/2009/12/het-gebrek-aan-kaizen-in-het-openbaar-vervoer/
 
 ---
 Ik schreef hier al eerder dat [de ov-chipkaart kut](/dingen/2009/12/ov-chipkaart-ellende/) ((Excusez le mot, maar er is geen ander wat de lading zo goed dekt.)) is. Het is nog steeds kut.

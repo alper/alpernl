@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18500
 parent_post_id: null
 post_id: "18500"
 title: Iseji - Day 3 - Kiinagashima to Owase
-url: /dingen/2025/11/iseji-day-3-kiinagashima-to-owase/
+aliases:
+  - /dingen/2025/11/iseji-day-3-kiinagashima-to-owase/
 
 ---
 Another day, another broken night because of jetlag. Getting up at all was not easy, let alone getting up early.

@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18025
 parent_post_id: null
 post_id: "18025"
 title: ""
-url: /dingen/2025/02/18025/
+aliases:
+  - /dingen/2025/02/18025/
 
 ---
 As if it wasn't obvious that the New York Times is a pile of crap, here's them getting rid of Paul Krugman for views that aren't Trump positive enough.

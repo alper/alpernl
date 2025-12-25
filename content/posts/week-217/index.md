@@ -15,7 +15,8 @@ post_id: "2623"
 tags:
   - weeknotes
 title: Week 217
-url: /dingen/2011/05/week-217/
+aliases:
+  - /dingen/2011/05/week-217/
 
 ---
 Lots of writing last week. We submitted the maguro project as a practice report to the [DiGRA conference](http://gamesconference.hku.nl/). Also wrote a bit of damage control on the Apps for Amsterdam contest regarding the implications of a certain submission: [“Dude! Where's my car?”](http://www.hackdeoverheid.nl/2011/05/inzending-dude-wheres-my-car/) Decisions made border on the ludicrous and it falls upon us as [Hack de Overheid](http://www.hackdeoverheid.nl) to choose the side of sanity. Finally I punched out some meta-writing about the conundrums of writing (or trying to write) for larger audiences: [“Why write about games?”](/dingen/2011/05/why-write-about-games/)

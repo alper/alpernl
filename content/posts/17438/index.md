@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17438
 parent_post_id: null
 post_id: "17438"
 title: ""
-url: /dingen/2024/02/17438/
+aliases:
+  - /dingen/2024/02/17438/
 
 ---
 As somebody who dove pretty deep into how to run a creative agency in a way that's innovative and goes against the grain, I really like what Village One here in Berlin are doing with their cooperative approach.

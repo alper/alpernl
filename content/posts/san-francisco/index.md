@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=544
 parent_post_id: null
 post_id: "544"
 title: San Francisco
-url: /dingen/2008/10/san-francisco/
+aliases:
+  - /dingen/2008/10/san-francisco/
 
 ---
 I've always wanted to go there and tomorrow I'm finally going. Some vague plans, tads of serendipity and friends pushing me over the edge were enough to have me book the ticket, I think, only three weeks ago. Tomorrow Lufthansa will take me over an ocean for the first time of my life ((Pretty lame for somebody who likes to travel.)).

@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=16070
 parent_post_id: null
 post_id: "16070"
 title: ""
-url: /dingen/2020/05/16070/
+aliases:
+  - /dingen/2020/05/16070/
 
 ---
 > Remember that most of the adults who seem like they're doing okay are actually just treading water; the rest have generational wealth and family money the likes of which you will never have.

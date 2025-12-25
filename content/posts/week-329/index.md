@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4698
 parent_post_id: null
 post_id: "4698"
 title: Week 329
-url: /dingen/2013/08/week-329/
+aliases:
+  - /dingen/2013/08/week-329/
 
 ---
 Most of the time this week was spent doing heads down work ( [notes on which elsewhere](http://whatsthehubbub.nl/blog/category/weeknotes/)). Meeting with [Igor](https://twitter.com/zeigor) and [Tijmen](https://twitter.com/TijmenR) and hanging out in parks. Summer.

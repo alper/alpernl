@@ -8,7 +8,8 @@ tags:
   - fotografie
   - reizen
 title: Het Duitse landschap
-url: /dingen/2008/01/het-duitse-landschap/
+aliases:
+  - /dingen/2008/01/het-duitse-landschap/
 
 ---
 Fijne toevalstreffer hoe het Duitse landschap wordt verrijkt door mensgemaakte objecten.

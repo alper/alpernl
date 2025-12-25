@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2107
 parent_post_id: null
 post_id: "2107"
 title: Brief tegen censuur
-url: /dingen/2010/09/brief-tegen-censuur/
+aliases:
+  - /dingen/2010/09/brief-tegen-censuur/
 
 ---
 Ik ben mede-ondertekenaar van [een brief van Bits of Freedom](https://www.bof.nl/2010/09/15/persbericht-nederlandse-internetgemeenschap-protesteert-tegen-overheidscensuur/) tegen verregaande bevoegdheden van de overheid voor institutionele internet-censuur. Het kunnen killen van websites zonder tussenkomst van een rechter is een bizar gegeven.

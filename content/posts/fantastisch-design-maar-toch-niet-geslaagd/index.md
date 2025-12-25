@@ -10,7 +10,8 @@ tags:
   - klantenervaring
   - koffie
 title: Fantastisch design maar toch niet geslaagd
-url: /dingen/2007/07/fantastisch-design-maar-toch-niet-geslaagd/
+aliases:
+  - /dingen/2007/07/fantastisch-design-maar-toch-niet-geslaagd/
 
 ---
 Veelgemaakte fout in het ervaringsontwerp en gevoelsmatig goed passend bij [de faculteit bouwkunde](http://www.google.nl/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.bk.tudelft.nl%2F&ei=hZCkRtOVC6DoQO757f8N&usg=AFQjCNEMcK-rSgjDr5m8N9sYIJTZyOX7xQ&sig2=yfQeD0KQw9RK9URCz6ljNA).

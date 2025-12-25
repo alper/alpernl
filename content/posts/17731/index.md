@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17731
 parent_post_id: null
 post_id: "17731"
 title: ""
-url: /dingen/2024/11/17731/
+aliases:
+  - /dingen/2024/11/17731/
 
 ---
 > What China has done in industry after industry is to flatten the supply curve by subsidizing hordes of producers. This spurs innovation, increases output and crushes margins. Value is not being destroyed; it’s accruing to consumers as lower prices, higher quality and/or more innovative products and services.

@@ -13,7 +13,8 @@ tags:
   - movies
   - ondernemen
 title: Stemmen op ons filmpje
-url: /dingen/2008/03/stemmen-op-ons-filmpje/
+aliases:
+  - /dingen/2008/03/stemmen-op-ons-filmpje/
 
 ---
 We hebben afgelopen week dit filmpje gemaakt om Tipit.to uit te leggen:

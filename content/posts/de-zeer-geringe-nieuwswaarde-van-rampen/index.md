@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=1796
 parent_post_id: null
 post_id: "1796"
 title: De zeer geringe nieuwswaarde van rampen
-url: /dingen/2010/05/de-zeer-geringe-nieuwswaarde-van-rampen/
+aliases:
+  - /dingen/2010/05/de-zeer-geringe-nieuwswaarde-van-rampen/
 
 ---
 De berichtgeving over de vliegramp illustreert weer eens waarom ik geen massa-media en nieuws meer volg en [de redenen om geen krant](/dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/) te hebben.

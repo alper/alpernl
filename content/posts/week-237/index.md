@@ -12,7 +12,8 @@ post_id: "2972"
 tags:
   - weeknotes
 title: Week 237
-url: /dingen/2011/10/week-237/
+aliases:
+  - /dingen/2011/10/week-237/
 
 ---
 [![Fim do trabalho](http://farm7.static.flickr.com/6015/6188809017_f652a8cdf9_m.jpg)](http://www.flickr.com/photos/alper/6188809017/ "Fim do trabalho by illustir, on Flickr")

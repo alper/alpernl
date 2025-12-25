@@ -12,7 +12,8 @@ tags:
   - fotografie
   - koken
 title: Het was weer zo'n weekend
-url: /dingen/2007/07/het-was-weer-zon-weekend/
+aliases:
+  - /dingen/2007/07/het-was-weer-zon-weekend/
 
 ---
 Barbecue in Uilenstede, goede vrienden en capoeira:

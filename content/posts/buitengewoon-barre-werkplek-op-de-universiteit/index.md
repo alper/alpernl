@@ -10,7 +10,8 @@ tags:
   - universiteit
   - werken
 title: Buitengewoon barre werkplek op de universiteit
-url: /dingen/2007/05/buitengewoon-barre-werkplek-op-de-universiteit/
+aliases:
+  - /dingen/2007/05/buitengewoon-barre-werkplek-op-de-universiteit/
 
 ---
 Het internet op de TU Delft is nog steeds om te huilen. Hier in de Aula ligt het er elke tien minuten uit.

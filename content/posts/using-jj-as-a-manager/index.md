@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18115
 parent_post_id: null
 post_id: "18115"
 title: Using jj as a manager
-url: /dingen/2025/02/using-jj-as-a-manager/
+aliases:
+  - /dingen/2025/02/using-jj-as-a-manager/
 
 ---
 I think when people ask what's so great about [jj](https://github.com/jj-vcs/jj) they tend to go deep into things such as [mega-merge strategies](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/) and [stacked PRs](https://github.com/lazywei/fj). These things are cool, no doubt, but jj can be useful starting from the very small.

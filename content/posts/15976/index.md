@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15976
 parent_post_id: null
 post_id: "15976"
 title: ""
-url: /dingen/2020/02/15976/
+aliases:
+  - /dingen/2020/02/15976/
 
 ---
 Pizza toast and all kinds of toasties are a staple here with small kids which seems to imply that an odyssey through Japan like Craig Mod undertakes here could be a great idea.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=6059
 parent_post_id: null
 post_id: "6059"
 title: Highlights for The Chapo Guide to Revolution
-url: /dingen/2018/09/highlights-for-the-chapo-guide-to-revolution/
+aliases:
+  - /dingen/2018/09/highlights-for-the-chapo-guide-to-revolution/
 
 ---
 > You find yourself in the dumbest of all possible worlds, clowns to the left of you, Re-thug-licans to the right.

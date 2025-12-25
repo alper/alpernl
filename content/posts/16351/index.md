@@ -10,7 +10,8 @@ guid: http://www.alper.nl/dingen/?p=16351
 parent_post_id: null
 post_id: "16351"
 title: ""
-url: /dingen/2020/10/16351/
+aliases:
+  - /dingen/2020/10/16351/
 
 ---
 > How Taiwan’s Unlikely Digital Minister Hacked the Pandemic

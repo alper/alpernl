@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1116
 parent_post_id: null
 post_id: "1116"
 title: Augmented reality in HTML5
-url: /dingen/2009/07/augmented-reality-in-html5/
+aliases:
+  - /dingen/2009/07/augmented-reality-in-html5/
 
 ---
 One of the last bastions of Flash and native apps is the processing of video from outside sources such as webcams. It does not at all seem difficult to add this functionality to [HTML5](http://www.whatwg.org/specs/web-apps/current-work/).

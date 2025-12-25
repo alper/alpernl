@@ -8,7 +8,8 @@ tags:
   - reizen
   - zomerreis-2007
 title: De betekenis van een sluier
-url: /dingen/2007/09/de-betekenis-van-een-sluier/
+aliases:
+  - /dingen/2007/09/de-betekenis-van-een-sluier/
 
 ---
 Ik ben op mijn laatste avond in het Riad Hotel in Hama nog bijna versierd.

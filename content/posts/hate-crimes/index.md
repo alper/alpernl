@@ -8,7 +8,8 @@ tags:
   - amsterdam
   - burgerrechten
 title: Hate Crimes
-url: /dingen/2007/08/hate-crimes/
+aliases:
+  - /dingen/2007/08/hate-crimes/
 
 ---
 Een stukje [in het Parool](http://www.parool.nl/nieuws/2007/AUG/07/ams2.html) over de Gay Pride waarin staat dat de loco-burgemeester Tjeerd Herrema een idee heeft: “Hij vindt ook dat bij geweldsincidenten op grond van iemands geaardheid of uiterlijk strenger moet worden gestraft.”

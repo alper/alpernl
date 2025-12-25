@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18400
 parent_post_id: null
 post_id: "18400"
 title: ""
-url: /dingen/2025/10/18400/
+aliases:
+  - /dingen/2025/10/18400/
 
 ---
 What I always say: "Premature abstraction is the root of all evil."

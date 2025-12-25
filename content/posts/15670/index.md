@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15670
 parent_post_id: null
 post_id: "15670"
 title: ""
-url: /dingen/2019/09/15670/
+aliases:
+  - /dingen/2019/09/15670/
 
 ---
 A thorough and humane treatment of alt-right memetic history and 8chan with its associated chans.

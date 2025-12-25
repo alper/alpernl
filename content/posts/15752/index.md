@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15752
 parent_post_id: null
 post_id: "15752"
 title: ""
-url: /dingen/2019/09/15752/
+aliases:
+  - /dingen/2019/09/15752/
 
 ---
 As good a confession as could have been written on the Medialab by danah boyd.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17904
 parent_post_id: null
 post_id: "17904"
 title: ""
-url: /dingen/2025/01/17904/
+aliases:
+  - /dingen/2025/01/17904/
 
 ---
 In Germany for many transactions you need a proof of address which a _Personalausweis_ provides for German citizens. Us foreigners don't get one however often we ask for it. In the Netherlands moving through the country without a battery of chip cards (OV chipkaart, Bonuskaart, OV-fiets etc.), apps and associated services is costly and annoying.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3311
 parent_post_id: null
 post_id: "3311"
 title: 'Week 255: Games, hacks, art and coworking'
-url: /dingen/2012/02/week-255/
+aliases:
+  - /dingen/2012/02/week-255/
 
 ---
 Last week featured some taxes, and a write-up of our gamejam efforts [in nrc.ne](http://instagr.am/p/mgcfj/) xt post-published on Bashers: [The Making of Nakatomi Rider](http://bashers.nl/ggj12-nakatomi-rider).

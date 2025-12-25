@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=16032
 parent_post_id: null
 post_id: "16032"
 title: ""
-url: /dingen/2020/03/16032/
+aliases:
+  - /dingen/2020/03/16032/
 
 ---
 One of the points in this list by Paul Osman that I recently stumbled on is that things like “staging”are indeed mostly useless however much people want to keep using them.

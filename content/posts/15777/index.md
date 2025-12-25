@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15777
 parent_post_id: null
 post_id: "15777"
 title: Lifestyle Liquidations
-url: /dingen/2019/10/15777/
+aliases:
+  - /dingen/2019/10/15777/
 
 ---
 [https://www.groene.nl/artikel/broer-ik-heb-mijn-9mm-helemaal-geleegd](https://www.groene.nl/artikel/broer-ik-heb-mijn-9mm-helemaal-geleegd)

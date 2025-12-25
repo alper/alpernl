@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1391
 parent_post_id: null
 post_id: "1391"
 title: Fake subway of Amsterdam
-url: /dingen/2009/12/fake-subway-of-amsterdam/
+aliases:
+  - /dingen/2009/12/fake-subway-of-amsterdam/
 
 ---
 Like I [said yesterday](/dingen/2009/11/vergeet-niet-het-inchecken/), I added support for the Amsterdam subway to [fakesubwayapis](http://github.com/straup/gae-fakesubwayapis) and [fakesubwayapis-data](http://github.com/straup/gae-fakesubwayapis-data). My forks: [gae-fakesubwayapis](http://github.com/alper/gae-fakesubwayapis) and [gae-fakesubwayapis-data](http://github.com/alper/gae-fakesubwayapis-data).

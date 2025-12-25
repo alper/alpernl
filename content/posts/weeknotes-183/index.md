@@ -13,7 +13,8 @@ post_id: "2122"
 tags:
   - weeknotes
 title: Weeknotes 183
-url: /dingen/2010/09/weeknotes-183/
+aliases:
+  - /dingen/2010/09/weeknotes-183/
 
 ---
 We moved in our new desks and got rid of the old ones. This clears up a lot of space in [the studio](http://twitter.com/ouroffice) and we now have a fifth desk [open for lease](http://twitter.com/ouroffice/status/24394400840). If you're design minded and interested in a great place in a creative hub of Amsterdam, [get in touch](http://aardverschuiving.com/contact).

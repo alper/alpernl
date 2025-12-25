@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18299
 parent_post_id: null
 post_id: "18299"
 title: ""
-url: /dingen/2025/09/18299/
+aliases:
+  - /dingen/2025/09/18299/
 
 ---
 Congratulations to That Browser Company on what must be a stellar exit for them.

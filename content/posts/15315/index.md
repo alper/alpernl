@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15315
 parent_post_id: null
 post_id: "15315"
 title: ""
-url: /dingen/2019/04/15315/
+aliases:
+  - /dingen/2019/04/15315/
 
 ---
 Nice to see some positive urban development coming from Turkey for a change.  

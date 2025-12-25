@@ -11,7 +11,8 @@ tags:
   - computers
   - cultuur
 title: Iedereen anders
-url: /dingen/2007/12/iedereen-anders/
+aliases:
+  - /dingen/2007/12/iedereen-anders/
 
 ---
 [Seth Godin schrijft](http://sethgodin.typepad.com/seths_blog/2007/12/apples-next-pro.html) over het luxe-probleem waar Apple binnenkort mee te kampen heeft wanneer de meeste mensen een computer van Apple hebben. [Think Different](http://en.wikipedia.org/wiki/Think_Different) ( [video](http://massanti.com/2007/09/25/think-different-you-wont-see-a-better-version-than-this-one/)) gaat per definitie niet meer op als iedereen ‘different’ is.

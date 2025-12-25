@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18283
 parent_post_id: null
 post_id: "18283"
 title: ""
-url: /dingen/2025/08/18283/
+aliases:
+  - /dingen/2025/08/18283/
 
 ---
 Claude Code is the best in class code assistant out there right now, so it's interesting to see how it works under the hood and how it has evolved.

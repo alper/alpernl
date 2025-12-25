@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16901
 parent_post_id: null
 post_id: "16901"
 title: ""
-url: /dingen/2022/10/16901/
+aliases:
+  - /dingen/2022/10/16901/
 
 ---
 A long winding post by @codefolio that's probably better career advice for this programming thing than any.

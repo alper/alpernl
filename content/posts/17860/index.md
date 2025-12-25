@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17860
 parent_post_id: null
 post_id: "17860"
 title: ""
-url: /dingen/2025/01/17860/
+aliases:
+  - /dingen/2025/01/17860/
 
 ---
 As a parent and as a social media user, I don't buy that something that's harmful to adults is not EVEN MORE harmful to children.

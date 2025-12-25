@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15502
 parent_post_id: null
 post_id: "15502"
 title: ""
-url: /dingen/2019/06/15502/
+aliases:
+  - /dingen/2019/06/15502/
 
 ---
 I'd dare say that with the waning of the iPhone as a platform (both for development and for business), Apple's closed plays will be increasingly lackluster. I've been rooting for Swift but it's a horse running in the wrong race.

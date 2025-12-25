@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15681
 parent_post_id: null
 post_id: "15681"
 title: Ã‰lite Universities and Their Donors
-url: /dingen/2019/09/elite-universities-and-their-donors/
+aliases:
+  - /dingen/2019/09/elite-universities-and-their-donors/
 
 ---
 Maybe after this New Yorker exposé, Joi Ito will finally resign?

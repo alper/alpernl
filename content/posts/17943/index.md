@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17943
 parent_post_id: null
 post_id: "17943"
 title: ""
-url: /dingen/2025/01/17943/
+aliases:
+  - /dingen/2025/01/17943/
 
 ---
 I love Github Projects for tracking work. It's close to the code and engineers understand it natively. I feel you can deliver features of any size with it if you work with the tool.

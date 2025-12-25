@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5060
 parent_post_id: null
 post_id: "5060"
 title: Give Da Vinci's Demons a shot
-url: /dingen/2014/09/give-da-vincis-demons-a-shot/
+aliases:
+  - /dingen/2014/09/give-da-vincis-demons-a-shot/
 
 ---
 I'm really into the series [Da Vinci's Demons](http://en.wikipedia.org/wiki/Da_Vinci's_Demons) right now (thanks to [Kevin Slavin](http://slavin.tumblr.com/post/95973919823/dolly-snow-da-vincis-demons-season-1)) which is a light hearted affair for the off season when there's no Game of Thrones, True Detective or Sherlock.

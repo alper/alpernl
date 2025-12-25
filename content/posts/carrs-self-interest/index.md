@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2505
 parent_post_id: null
 post_id: "2505"
 title: Carr's self-interest
-url: /dingen/2011/03/carrs-self-interest/
+aliases:
+  - /dingen/2011/03/carrs-self-interest/
 
 ---
 There's a bunch being said about Nicholas Carr's book [“The Shallows”](http://www.theshallowsbook.com/). Most notably a lot of print media jumping onto the the [Ever-Betters](http://www.newyorker.com/arts/critics/atlarge/2011/02/14/110214crat_atlarge_gopnik) bandwagon. Obviously Carr stating that reading long form print is being drowned out by the internet is right up the alley of the old media in their death throes.

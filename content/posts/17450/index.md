@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17450
 parent_post_id: null
 post_id: "17450"
 title: ""
-url: /dingen/2024/03/17450/
+aliases:
+  - /dingen/2024/03/17450/
 
 ---
 > “Once, men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.”

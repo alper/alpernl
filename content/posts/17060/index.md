@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17060
 parent_post_id: null
 post_id: "17060"
 title: ""
-url: /dingen/2023/02/17060/
+aliases:
+  - /dingen/2023/02/17060/
 
 ---
 A thorough explanation why building UI frameworks in Rust is uniquely difficult (and why we haven't seen clear victories for Rust in that domain… yet).

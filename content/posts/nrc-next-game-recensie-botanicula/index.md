@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16176
 parent_post_id: null
 post_id: "16176"
 title: 'nrc.next game-recensie: Botanicula'
-url: /dingen/2020/07/nrc-next-game-recensie-botanicula/
+aliases:
+  - /dingen/2020/07/nrc-next-game-recensie-botanicula/
 
 ---
 Het langverwachte “Botanicula”van Amanita Design is uit en het is nog mooier dan de vorige spellen (Samorost, Machinarium etc.) van deze studio. De jaren werk die erin zitten zijn af te zien en te horen aan dit spel dat verbaast door zijn pure schoonheid.

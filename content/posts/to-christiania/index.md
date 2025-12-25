@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=15443
 parent_post_id: null
 post_id: "15443"
 title: To Christiania!
-url: /dingen/2019/05/to-christiania/
+aliases:
+  - /dingen/2019/05/to-christiania/
 
 ---
 After their long nap, I took both out for a round of recycling cardboard, pumping some tires and buying some coffee beans ((Johann & Nyström at Chapter One)).

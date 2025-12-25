@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16675
 parent_post_id: null
 post_id: "16675"
 title: ""
-url: /dingen/2021/12/16675/
+aliases:
+  - /dingen/2021/12/16675/
 
 ---
 One of the things I have to fight the most for and that I think is what allows me to work well: "Regularly get in your team's shoes". Call it Genba, or Fingerspitzengefühl but the most important thing is to stay in touch with your team's day to day reality.

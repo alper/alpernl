@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=16196
 parent_post_id: null
 post_id: "16196"
 title: ""
-url: /dingen/2020/07/16196/
+aliases:
+  - /dingen/2020/07/16196/
 
 ---
 I've been very pleasantly surprised with the FT's reporting, diversity, tech-savvy and also the travel specials.

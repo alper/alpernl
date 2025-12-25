@@ -8,7 +8,8 @@ tags:
   - koken
   - recept
 title: 'Recept: "Sin City" Ontbijttaco''s door Robert Rodriguez'
-url: /dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/
+aliases:
+  - /dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/
 
 ---
 Hier het recept uit de video. Ik heb een Engelse transcriptie gevonden die ik gebruikt heb. Mijn recept met meer Detail in het Nederlands en met metrieke maten.

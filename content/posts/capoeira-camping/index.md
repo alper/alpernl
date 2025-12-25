@@ -9,7 +9,8 @@ post_id: "115"
 tags:
   - reizen
 title: Capoeira Camping
-url: /dingen/2007/08/capoeira-camping/
+aliases:
+  - /dingen/2007/08/capoeira-camping/
 
 ---
 Afgelopen weekend wezen kamperen in Wapse ((Ja, dat is de naam van een dorp in Nederland.)). Hier wat foto's:

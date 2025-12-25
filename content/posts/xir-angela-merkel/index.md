@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5903
 parent_post_id: null
 post_id: "5903"
 title: XiR - Angela Merkel
-url: /dingen/2017/12/xir-angela-merkel/
+aliases:
+  - /dingen/2017/12/xir-angela-merkel/
 
 ---
 [![](XiR-—-Angela-Merkel-—-alper.nl-2017-12-28-23-11-53-1024x618.jpg)](/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/)

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15373
 parent_post_id: null
 post_id: "15373"
 title: Dikkie Dik spelletjes
-url: /dingen/2019/05/dikkie-dik-spelletjes/
+aliases:
+  - /dingen/2019/05/dikkie-dik-spelletjes/
 
 ---
 [Dikkie Dik spelletjes](https://itunes.apple.com/de/app/dikkie-dik-spelletjes/id527008784?mt=8) is een officiele app van de uitgever Gottmer. Het is een rijke verzameling spelletjes maar over het algemeen matig bruikbaar en ongeschikt voor kinderen van 2 jaar oud.

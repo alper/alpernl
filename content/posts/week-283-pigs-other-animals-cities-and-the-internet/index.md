@@ -18,7 +18,8 @@ post_id: "3795"
 tags:
   - weeknotes
 title: 'Week 283: Pigs, other animals, cities and the internet'
-url: /dingen/2012/08/week-283-pigs-other-animals-cities-and-the-internet/
+aliases:
+  - /dingen/2012/08/week-283-pigs-other-animals-cities-and-the-internet/
 
 ---
 A delayed picture in picture from me presenting in Helsinki:

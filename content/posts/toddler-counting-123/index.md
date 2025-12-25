@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15372
 parent_post_id: null
 post_id: "15372"
 title: Toddler Counting 123
-url: /dingen/2019/05/toddler-counting-123/
+aliases:
+  - /dingen/2019/05/toddler-counting-123/
 
 ---
 [Zählen für die Kleinsten 123](https://itunes.apple.com/de/app/z%C3%A4hlen-f%C3%BCr-die-kleinsten-123-lerne-zu-z%C3%A4hlen/id536476423?mt=8) heb ik gekocht omdat er een Nederlandse versie van is (inclusief de audio). Helaas is de kwaliteit te slecht om dat vaker aan te horen en de interactiviteit laat veel te wensen over.

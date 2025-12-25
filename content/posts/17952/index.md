@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17952
 parent_post_id: null
 post_id: "17952"
 title: ""
-url: /dingen/2025/01/17952/
+aliases:
+  - /dingen/2025/01/17952/
 
 ---
 What's happening in Flint is a good example of how the social effects of institutional lapses are much more difficult to fix than just replacing a bunch of pipes. We're seeing the same effects happening around COVID and its after effects and we'll see many more examples of government distrust and chaotic confusion in the coming decades.

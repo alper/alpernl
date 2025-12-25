@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17306
 parent_post_id: null
 post_id: "17306"
 title: ""
-url: /dingen/2023/11/17306/
+aliases:
+  - /dingen/2023/11/17306/
 
 ---
 I _can_ stop thinking about the Roman Empire, but this piece that draws an analogy between the Fall of the Romans and the End of Twitter is long overdue to be shared and still really good.

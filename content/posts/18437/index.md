@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=18437
 parent_post_id: null
 post_id: "18437"
 title: ""
-url: /dingen/2025/10/18437/
+aliases:
+  - /dingen/2025/10/18437/
 
 ---
 > Many chefs I know get upset at me when I tell them this. But this is the truth: If you can’t cook everything you make in a microwave thats a skill issue.

@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17848
 parent_post_id: null
 post_id: "17848"
 title: ""
-url: /dingen/2025/01/17848/
+aliases:
+  - /dingen/2025/01/17848/
 
 ---
 An overview of the year in databases by Andy Pavlo that does not pull any punches. I learned a bunch of things (and I somewhat keep up with this area).

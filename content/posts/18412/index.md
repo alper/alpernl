@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18412
 parent_post_id: null
 post_id: "18412"
 title: ""
-url: /dingen/2025/10/18412/
+aliases:
+  - /dingen/2025/10/18412/
 
 ---
 Alternative licenses like the Forklift Certified License are a good and necessary counter-reaction to open source becoming a corporate hollowed out shambles.

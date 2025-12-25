@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16392
 parent_post_id: null
 post_id: "16392"
 title: ""
-url: /dingen/2021/01/16392/
+aliases:
+  - /dingen/2021/01/16392/
 
 ---
 Er valt heel veel te zeggen over de Toeslagen-affaire.

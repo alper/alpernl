@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=16572
 parent_post_id: null
 post_id: "16572"
 title: ""
-url: /dingen/2021/08/16572/
+aliases:
+  - /dingen/2021/08/16572/
 
 ---
 > A culture of celebrating shipping, versus celebrating measurable progress and learnings

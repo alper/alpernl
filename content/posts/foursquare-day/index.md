@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1868
 parent_post_id: null
 post_id: "1868"
 title: Foursquare Day
-url: /dingen/2010/06/foursquare-day/
+aliases:
+  - /dingen/2010/06/foursquare-day/
 
 ---
 This Wednesday was Foursquare Day, but I don't know who went. We just had ours recently and I just dug up the pictures from my camera:

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4839
 parent_post_id: null
 post_id: "4839"
 title: Notes for Against the Smart City by Adam Greenfield
-url: /dingen/2013/11/notes-for-against-the-smart-city-by-adam-greenfield/
+aliases:
+  - /dingen/2013/11/notes-for-against-the-smart-city-by-adam-greenfield/
 
 ---
 This [pamphlet by Adam Greenfield](http://speedbird.wordpress.com/2013/09/28/against-the-smart-city-now-available-for-purchase-in-kindle/), the first of more is a concise and enjoyable distillation of his politics when it concerns the smart city and also features a number of similarly inclined thinkers:

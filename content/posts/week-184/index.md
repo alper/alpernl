@@ -15,7 +15,8 @@ post_id: "2140"
 tags:
   - weeknotes
 title: Week 184
-url: /dingen/2010/09/week-184/
+aliases:
+  - /dingen/2010/09/week-184/
 
 ---
 Last week was mostly busy with getting [http://playpilots.nl](http://playpilots.nl/) to talk nicely to [the Stereoscoop](http://playpilots.nl/games/de-stereoscoop/) live game and make stuff work (mostly) properly back and forth. Synchronizing physical installations with websites is always fun.

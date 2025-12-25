@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15674
 parent_post_id: null
 post_id: "15674"
 title: ""
-url: /dingen/2019/09/15674/
+aliases:
+  - /dingen/2019/09/15674/
 
 ---
 Ten principles for how to grow as an engineer that are as true as the day they were written.

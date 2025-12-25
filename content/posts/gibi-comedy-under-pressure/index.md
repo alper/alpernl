@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16757
 parent_post_id: null
 post_id: "16757"
 title: 'Gibi: Comedy under Pressure'
-url: /dingen/2022/08/gibi-comedy-under-pressure/
+aliases:
+  - /dingen/2022/08/gibi-comedy-under-pressure/
 
 ---
 I just watched and finished season 1 of [Gibi](https://trakt.tv/shows/as-if-2021) which seems to have been enough of a success for them to quickly put out a second season. It's a Turkish dark comedy show that you can watch online on [Exxen](https://www.exxen.com/). I already [wrote it's a bit like Seinfeld](/dingen/2021/12/as-if/) but with a very dark undercurrent.

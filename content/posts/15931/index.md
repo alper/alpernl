@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15931
 parent_post_id: null
 post_id: "15931"
 title: ""
-url: /dingen/2020/01/15931/
+aliases:
+  - /dingen/2020/01/15931/
 
 ---
 This profile on C.C. Myers is a good example of leading from the front but even more than that it shows that speed begets speed.

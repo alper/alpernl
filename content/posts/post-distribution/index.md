@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=728
 parent_post_id: null
 post_id: "728"
 title: Post Distribution
-url: /dingen/2009/01/post-distribution/
+aliases:
+  - /dingen/2009/01/post-distribution/
 
 ---
 Today I got the idea and I think I've seen spectrum plots like these before but I couldn't quite figure out where. So I dumped all my blogposts and got into [Processing](http://processing.org/) to plot it out. It should look something like this but less ugly:

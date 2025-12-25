@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15460
 parent_post_id: null
 post_id: "15460"
 title: ""
-url: /dingen/2019/05/15460/
+aliases:
+  - /dingen/2019/05/15460/
 
 ---
 Set aside all of the obvious outcry, I haven't seen a single argument yet that explains how encrypted communications are compatible with state power.

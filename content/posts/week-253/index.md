@@ -12,7 +12,8 @@ post_id: "3269"
 tags:
   - weeknotes
 title: Week 253
-url: /dingen/2012/01/week-253/
+aliases:
+  - /dingen/2012/01/week-253/
 
 ---
 Last week we got the DSL at home to work (in two tries). It feels good to have that after something of a month of bureaucracy and false starts to deal with.

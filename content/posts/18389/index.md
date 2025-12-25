@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18389
 parent_post_id: null
 post_id: "18389"
 title: ""
-url: /dingen/2025/10/18389/
+aliases:
+  - /dingen/2025/10/18389/
 
 ---
 Software can only be proven right within a set of assumptions. Something as simple as leftpad can be broken in any number of interesting ways.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15338
 parent_post_id: null
 post_id: "15338"
 title: ""
-url: /dingen/2019/04/15338/
+aliases:
+  - /dingen/2019/04/15338/
 
 ---
 A handy checklist of what you need to take into account when you do (remote) mob programming. Every time we've used mobbing as an approach it has paid off thusfar so I'm very interested in deepening the practice.

@@ -13,7 +13,8 @@ post_id: "2481"
 tags:
   - weeknotes
 title: Week 208
-url: /dingen/2011/03/week-208/
+aliases:
+  - /dingen/2011/03/week-208/
 
 ---
 A busy and monotonous week with deadlines for many long running projects.

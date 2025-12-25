@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=18449
 parent_post_id: null
 post_id: "18449"
 title: ""
-url: /dingen/2025/11/18449/
+aliases:
+  - /dingen/2025/11/18449/
 
 ---
 China is steaming ahead also with self-driving car technology.

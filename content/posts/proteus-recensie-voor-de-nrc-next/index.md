@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4357
 parent_post_id: null
 post_id: "4357"
 title: Proteus Recensie voor de nrc.next
-url: /dingen/2013/03/proteus-recensie-voor-de-nrc-next/
+aliases:
+  - /dingen/2013/03/proteus-recensie-voor-de-nrc-next/
 
 ---
 Hier mijn recensie van [Proteus](http://www.visitproteus.com/) voor de [nrc.next](http://nrcnext.nl/) een paar weken geleden geplaatst (dit is een fractie van [wat Bogost heeft gedaan op Gamasutra](http://www.gamasutra.com/view/feature/186735/proteus_a_trio_of_artisanal_game_.php) maar in Nederland is er geen plek, tijd of geld voor games):

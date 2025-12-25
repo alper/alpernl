@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16883
 parent_post_id: null
 post_id: "16883"
 title: ""
-url: /dingen/2022/10/16883/
+aliases:
+  - /dingen/2022/10/16883/
 
 ---
 Seeing that Gitlab had published their TeamOps framework, I stayed up late to get my certification. I especially liked the recorded meetings with Sid Sijbrand and other Gitlab senior staff that they have published on YouTube.

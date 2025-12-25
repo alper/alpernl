@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17194
 parent_post_id: null
 post_id: "17194"
 title: ""
-url: /dingen/2023/06/17194/
+aliases:
+  - /dingen/2023/06/17194/
 
 ---
 A large part of the movement back to the office is because a lot of commercial real estate is under water. That's where all the opinion pieces in the FT are coming from.

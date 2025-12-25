@@ -10,7 +10,8 @@ tags:
   - reizen
   - turkije
 title: Online en open journalisme
-url: /dingen/2007/06/online-en-open-journalisme/
+aliases:
+  - /dingen/2007/06/online-en-open-journalisme/
 
 ---
 [Ben Hammersley](http://www.benhammersley.com) —fotograaf, schrijver, journalist, presentator, wat niet eigenlijk?— gaat voor de [BBC](http://bbc.co.uk) de aankomende verkiezingen in Turkije verslaan ( [Frank](http://www.frank-ly.nl/journalistiek-20) schrijft er ook over).

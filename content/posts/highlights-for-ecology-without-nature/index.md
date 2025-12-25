@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=5989
 parent_post_id: null
 post_id: "5989"
 title: Highlights for Ecology Without Nature
-url: /dingen/2018/05/highlights-for-ecology-without-nature/
+aliases:
+  - /dingen/2018/05/highlights-for-ecology-without-nature/
 
 ---
 > To speak thus is to use the aesthetic as an anesthetic.

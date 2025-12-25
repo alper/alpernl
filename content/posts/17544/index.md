@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17544
 parent_post_id: null
 post_id: "17544"
 title: ""
-url: /dingen/2024/06/17544/
+aliases:
+  - /dingen/2024/06/17544/
 
 ---
 Stop writing documentation about your codebase norms that nobody will read anyway and use this approach codifying requirements in tests. It's so simple and frankly quite ingenious.

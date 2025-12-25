@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/categories/agile/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/09/18332/</link>
+      <link>http://localhost:1313/blog/18332/</link>
       <pubDate>Fri, 12 Sep 2025 08:00:29 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18332</guid> 
       <description>&lt;p&gt;That&amp;rsquo;s definitely a phrase worth remembering:&lt;/p&gt;
@@ -22,7 +22,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/05/18238/</link>
+      <link>http://localhost:1313/blog/18238/</link>
       <pubDate>Tue, 27 May 2025 06:11:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18238</guid> 
       <description>&lt;p&gt;A twofer on software estimation that also tallies with my intuition. People are really great at estimating the median which is impossible to communicate to people without deep intuition for software engineering and statistics.&lt;/p&gt;
@@ -30,7 +30,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/04/18213/</link>
+      <link>http://localhost:1313/blog/18213/</link>
       <pubDate>Sat, 12 Apr 2025 10:43:25 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18213</guid> 
       <description>&lt;p&gt;I could quote this entire article by &lt;a href=&#34;https://dannorth.net&#34;&gt;Dan North&lt;/a&gt;:&lt;/p&gt;
@@ -39,7 +39,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2025/02/18047/</link>
+      <link>http://localhost:1313/blog/18047/</link>
       <pubDate>Sat, 08 Feb 2025 13:10:49 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18047</guid> 
       <description>&lt;p&gt;I enjoy James Stanier&amp;rsquo;s newsletter on engineering management a lot. This one is about information processing in organizations, something which will make or break you.&lt;/p&gt;
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/10/17630/</link>
+      <link>http://localhost:1313/blog/17630/</link>
       <pubDate>Thu, 03 Oct 2024 11:15:29 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17630</guid> 
       <description>&lt;p&gt;Thoroughness unpacked in three dimensions like this by James Stanier is so good and gives a much better way to think and talk about issues of velocity:&lt;/p&gt;
@@ -61,7 +61,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2024/10/17628/</link>
+      <link>http://localhost:1313/blog/17628/</link>
       <pubDate>Thu, 03 Oct 2024 10:57:56 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17628</guid> 
       <description>&lt;p&gt;As somebody working in platform for the past years, I&amp;rsquo;ve become very familiar with the different dimensions of this debate around productivity and John here unpacks the topic in a way that&amp;rsquo;s really useful. I used the nails analogy just yesterday.&lt;/p&gt;
@@ -69,7 +69,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/02/17070/</link>
+      <link>http://localhost:1313/blog/17070/</link>
       <pubDate>Sat, 18 Feb 2023 09:29:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17070</guid> 
       <description>&lt;p&gt;The biggest tragedy of Agile is that planning your team to maximum capacity is not agile.&lt;/p&gt;
@@ -77,7 +77,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/02/17016/</link>
+      <link>http://localhost:1313/blog/17016/</link>
       <pubDate>Sat, 04 Feb 2023 11:06:40 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17016</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s understandable that organizations try to make their word legible and simplify things. In fact, it&amp;rsquo;s one of the reasons for the organizational boundary.&lt;/p&gt;
@@ -86,7 +86,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/02/17004/</link>
+      <link>http://localhost:1313/blog/17004/</link>
       <pubDate>Wed, 01 Feb 2023 22:41:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17004</guid> 
       <description>&lt;p&gt;As a company scales, there are phase shifts which feel like they suck all the productivity out of an organization. The way to get through as described here is familiar: categorize and capture everything, reduce WIP and loop through your process.&lt;/p&gt;
@@ -94,7 +94,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/02/17002/</link>
+      <link>http://localhost:1313/blog/17002/</link>
       <pubDate>Wed, 01 Feb 2023 22:35:03 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17002</guid> 
       <description>&lt;p&gt;A lot to like in this article (&amp;ldquo;They avoid scrum and SAFe like the plague.â€Œâ€Œ&amp;rdquo;) but I&amp;rsquo;ll settle for adopting the core thrust of it and just retiring the entire concept of a PO and never have to debate &amp;ldquo;What is the difference between a PM and a PO?&amp;rdquo; ever again.&lt;/p&gt;
@@ -102,7 +102,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16989/</link>
+      <link>http://localhost:1313/blog/16989/</link>
       <pubDate>Sun, 29 Jan 2023 23:09:42 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16989</guid> 
       <description>&lt;p&gt;Despite not being the biggest fan of Shape Up or of 37s, I still really enjoyed watching this video by Ryan Singer about Shaping.&lt;/p&gt;
@@ -113,7 +113,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16977/</link>
+      <link>http://localhost:1313/blog/16977/</link>
       <pubDate>Tue, 24 Jan 2023 11:28:13 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16977</guid> 
       <description>&lt;p&gt;Love to see these updates from the German Digital Service. Not sure everybody knows that that organization exists now and what they&amp;rsquo;re busy with.&lt;/p&gt;
@@ -122,7 +122,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2023/01/16970/</link>
+      <link>http://localhost:1313/blog/16970/</link>
       <pubDate>Fri, 20 Jan 2023 09:08:00 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16970</guid> 
       <description>&lt;p&gt;The Engineering Enablement podcast has been good to listen to—if a bit anodyne. The recent episode I listened to with Jeremiah Lee about Spotify&amp;rsquo;s massively popular but failed org structure was really fun and useful.&lt;/p&gt;
@@ -130,7 +130,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/10/16868/</link>
+      <link>http://localhost:1313/blog/16868/</link>
       <pubDate>Thu, 06 Oct 2022 18:08:43 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16868</guid> 
       <description>&lt;p&gt;A relevant and nuanced complication of agile by Dorian Taylor seeing it as a trauma based response where the core practice has gotten stuck and is preventing the industry from solving more fundamental issues.&lt;/p&gt;
@@ -138,7 +138,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/10/16864/</link>
+      <link>http://localhost:1313/blog/16864/</link>
       <pubDate>Thu, 06 Oct 2022 17:51:07 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16864</guid> 
       <description>&lt;p&gt;People see this kind of talk about self-governance and think there is no process or management in such a setup while usually there is more (and higher quality) than in a traditional organization. It&amp;rsquo;s also some of the best work you will ever do.&lt;/p&gt;
@@ -146,7 +146,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/09/16858/</link>
+      <link>http://localhost:1313/blog/16858/</link>
       <pubDate>Sun, 25 Sep 2022 16:03:32 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16858</guid> 
       <description>&lt;p&gt;Having seen lots of teams stuck in the two week agile rat race, a framework like Shape Up seems like it could offer a lot of benefits. But also just changing things up can&amp;rsquo;t hurt at that point. What is agility if not also being able to iterate on the way you work?&lt;/p&gt;
@@ -154,7 +154,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/07/16817/</link>
+      <link>http://localhost:1313/blog/16817/</link>
       <pubDate>Sun, 17 Jul 2022 08:59:07 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16817</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://jhall.io/archive/2022/06/19/a-gitflow-story/&#34;&gt;https://jhall.io/archive/2022/06/19/a-gitflow-story/&lt;/a&gt;&lt;/p&gt;
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/06/16812/</link>
+      <link>http://localhost:1313/blog/16812/</link>
       <pubDate>Mon, 06 Jun 2022 22:16:28 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16812</guid> 
       <description>&lt;blockquote&gt;
@@ -175,7 +175,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/05/16807/</link>
+      <link>http://localhost:1313/blog/16807/</link>
       <pubDate>Sat, 14 May 2022 12:11:19 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16807</guid> 
       <description>&lt;p&gt;Lots of teams try to dogmatically implement scrum without looking at their team and goals. There are lots of alternative ways of doing things most of which will be more agile, not less.&lt;/p&gt;
@@ -183,7 +183,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/04/16795/</link>
+      <link>http://localhost:1313/blog/16795/</link>
       <pubDate>Sun, 17 Apr 2022 09:14:05 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16795</guid> 
       <description>&lt;p&gt;Lots of examples here by Intercom about how to enable teams to ship as fast as possible and at the same time also as safely as possible.&lt;/p&gt;
@@ -199,7 +199,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/04/16791/</link>
+      <link>http://localhost:1313/blog/16791/</link>
       <pubDate>Sat, 16 Apr 2022 16:16:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16791</guid> 
       <description>&lt;p&gt;Momentum definitely is magic and I&amp;rsquo;d add that you get it by focusing on tempo.&lt;/p&gt;
@@ -207,7 +207,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/02/16705/</link>
+      <link>http://localhost:1313/blog/16705/</link>
       <pubDate>Mon, 07 Feb 2022 23:25:06 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16705</guid> 
       <description>&lt;p&gt;Working in the Spotify organizational structure can be a bit tiresome but I&amp;rsquo;m glad we&amp;rsquo;re getting the important stuff from their product development culture, listed here by Jason Yip, right as well: aligned autonomy, trust and decoupling. Without those the structure indeed does not matter.&lt;/p&gt;
@@ -215,7 +215,7 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2022/02/16703/</link>
+      <link>http://localhost:1313/blog/16703/</link>
       <pubDate>Mon, 07 Feb 2022 23:17:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16703</guid> 
       <description>&lt;p&gt;People leaving your team have a cost that is far far larger than what you can directly see (and we know what a challenge directing stuff that you can&amp;rsquo;t see is). These visualizations&lt;br&gt;
@@ -224,7 +224,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/12/16677/</link>
+      <link>http://localhost:1313/blog/16677/</link>
       <pubDate>Fri, 31 Dec 2021 11:36:27 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16677</guid> 
       <description>&lt;p&gt;An entire article about speed vs. velocity vs. tempo that can be summarized as: &amp;ldquo;Orientation is the Schwerpunkt.&amp;rdquo; How much does your team invest into orienting themselves before they take on new work?&lt;/p&gt;
@@ -232,7 +232,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/12/16675/</link>
+      <link>http://localhost:1313/blog/16675/</link>
       <pubDate>Fri, 31 Dec 2021 11:29:45 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16675</guid> 
       <description>&lt;p&gt;One of the things I have to fight the most for and that I think is what allows me to work well: &amp;ldquo;Regularly get in your team&amp;rsquo;s shoes&amp;rdquo;. Call it Genba, or Fingerspitzengefühl but the most important thing is to stay in touch with your team&amp;rsquo;s day to day reality.&lt;/p&gt;
@@ -240,7 +240,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/10/16612/</link>
+      <link>http://localhost:1313/blog/16612/</link>
       <pubDate>Thu, 21 Oct 2021 22:08:40 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16612</guid> 
       <description>&lt;p&gt;I often get surprised reactions when I say that we don&amp;rsquo;t do Scrum. After reading about how other technology companies run their projects, it seems that Scrum—which is wasteful and does not fit reality—is on the way out.&lt;/p&gt;
@@ -248,7 +248,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2021/04/16494/</link>
+      <link>http://localhost:1313/blog/16494/</link>
       <pubDate>Sun, 04 Apr 2021 14:20:11 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16494</guid> 
       <description>&lt;p&gt;Agile is setup as a bit of a straw man in this piece about scaling product delivery, but it is true that following the existing methods too rigidly will not get you where you want to be. I&amp;rsquo;d rephrase it to say that mature teams need to be able to reflect and create their own systems as they go.&lt;/p&gt;
@@ -256,7 +256,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/10/16336/</link>
+      <link>http://localhost:1313/blog/16336/</link>
       <pubDate>Thu, 08 Oct 2020 20:25:18 +0000</pubDate>
        <guid isPermaLink="false">http://www.alper.nl/dingen/?p=16336</guid> 
       <description>&lt;p&gt;A crucial part of effective teams is introducing slack like in this case removing the entire concept of a hand-off (which causes misalignment at best).&lt;/p&gt;
@@ -264,7 +264,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/09/16283/</link>
+      <link>http://localhost:1313/blog/16283/</link>
       <pubDate>Sun, 06 Sep 2020 21:18:14 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16283</guid> 
       <description>&lt;p&gt;Once you&amp;rsquo;ve worked with post-commit reviews, I promise you will not want to go back to the PR way of working again.&lt;/p&gt;
@@ -272,7 +272,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/09/16279/</link>
+      <link>http://localhost:1313/blog/16279/</link>
       <pubDate>Sun, 06 Sep 2020 20:33:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16279</guid> 
       <description>&lt;p&gt;Most of my discussions with data scientists have revolved around exactly this point (usually to serious pushback): that they need to be end-to-end to deliver value in an organization.&lt;/p&gt;
@@ -280,7 +280,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/08/16228/</link>
+      <link>http://localhost:1313/blog/16228/</link>
       <pubDate>Sun, 16 Aug 2020 13:22:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16228</guid> 
       <description>&lt;p&gt;The JIRA team does not use JIRA and of course why would they if anybody gave them the choice. Also, JIRA is often not used for software engineering anymore but it fits the bill for large scale workflows and compliance trails.&lt;/p&gt;
@@ -288,7 +288,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/07/16157/</link>
+      <link>http://localhost:1313/blog/16157/</link>
       <pubDate>Tue, 14 Jul 2020 09:47:53 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16157</guid> 
       <description>&lt;p&gt;Edge C2 is a nice ideal position to move towards in this article about military agility that contains a bunch of useful elements including an interlinked OODA loop and a visualization of the Trust Equation.&lt;/p&gt;
@@ -303,7 +303,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/07/16143/</link>
+      <link>http://localhost:1313/blog/16143/</link>
       <pubDate>Sun, 12 Jul 2020 10:21:26 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16143</guid> 
       <description>&lt;p&gt;As a bystander you can observe a retrospective and hope to see some of these symptoms listed by Adrian Howard of a good one. But keep in mind that you should be happy to hit some of these and getting all of them right probably means you have reached the summum of team work.&lt;/p&gt;
@@ -311,7 +311,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/03/16032/</link>
+      <link>http://localhost:1313/blog/16032/</link>
       <pubDate>Sun, 01 Mar 2020 23:23:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16032</guid> 
       <description>&lt;p&gt;One of the points in this list by Paul Osman that I recently stumbled on is that things like “staging”are indeed mostly useless however much people want to keep using them.&lt;/p&gt;
@@ -319,7 +319,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/02/16004/</link>
+      <link>http://localhost:1313/blog/16004/</link>
       <pubDate>Tue, 18 Feb 2020 23:04:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16004</guid> 
       <description>&lt;p&gt;A fairly definitive article about why SAFe (Scaled Agile Framework) should not be used. Mostly because it is the antithesis of every kind of agility.&lt;/p&gt;
@@ -327,7 +327,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/02/15982/</link>
+      <link>http://localhost:1313/blog/15982/</link>
       <pubDate>Sat, 08 Feb 2020 22:58:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15982</guid> 
       <description>&lt;p&gt;A broad treatment of what the essential quality of Fingerspitzengefühl means.&lt;/p&gt;
@@ -335,7 +335,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/02/15978/</link>
+      <link>http://localhost:1313/blog/15978/</link>
       <pubDate>Sun, 02 Feb 2020 20:10:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15978</guid> 
       <description>&lt;p&gt;A long treatment of how to scale work as organizations grow with some helpful guidelines: “Keep the work parallel, the groups small, and the resources local.”&lt;/p&gt;
@@ -343,7 +343,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/01/15931/</link>
+      <link>http://localhost:1313/blog/15931/</link>
       <pubDate>Fri, 10 Jan 2020 13:53:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15931</guid> 
       <description>&lt;p&gt;This profile on C.C. Myers is a good example of leading from the front but even more than that it shows that speed begets speed.&lt;/p&gt;
@@ -351,7 +351,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2020/01/15927/</link>
+      <link>http://localhost:1313/blog/15927/</link>
       <pubDate>Fri, 10 Jan 2020 13:42:42 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15927</guid> 
       <description>&lt;p&gt;A quick rundown by Github of how to develop quickly on production using feature flags and what benefits that brings.&lt;/p&gt;
@@ -359,7 +359,7 @@ by Benji Weber put forth a strong argument especially against people working as 
     </item>
     <item>
       <title>A government that&#39;s certain to win</title>
-      <link>http://localhost:1313/dingen/2020/01/a-government-thats-certain-to-win/</link>
+      <link>http://localhost:1313/blog/a-government-thats-certain-to-win/</link>
       <pubDate>Thu, 02 Jan 2020 22:59:48 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15922</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m not that negative about the Dominic Cummings &lt;a href=&#34;https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/&#34;&gt;job ad&lt;/a&gt;, because:&lt;/p&gt;
@@ -375,7 +375,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/11/15835/</link>
+      <link>http://localhost:1313/blog/15835/</link>
       <pubDate>Sun, 10 Nov 2019 23:06:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15835</guid> 
       <description>&lt;p&gt;Such a well-written and cogent argument by Dave Mangot about how it definitely does matter whether you choose to deploy on Fridays or not and also that that choice is fully your own.&lt;/p&gt;
@@ -383,7 +383,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/11/15821/</link>
+      <link>http://localhost:1313/blog/15821/</link>
       <pubDate>Sun, 10 Nov 2019 09:36:01 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15821</guid> 
       <description>&lt;p&gt;Always nice to read a positive career history from somebody, like this one by Alicia Hickey, but especially nice if you&amp;rsquo;re in it named as the team lead who made a crucial suggestion.&lt;/p&gt;
@@ -391,7 +391,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15756/</link>
+      <link>http://localhost:1313/blog/15756/</link>
       <pubDate>Sat, 28 Sep 2019 09:16:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15756</guid> 
       <description>&lt;p&gt;We can talk about agile strategy all we want but “Doing over Planning”is a more than sufficient summary for anybody who wants to get started.&lt;/p&gt;
@@ -399,7 +399,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15743/</link>
+      <link>http://localhost:1313/blog/15743/</link>
       <pubDate>Fri, 27 Sep 2019 22:25:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15743</guid> 
       <description>&lt;p&gt;I found this excellent summary of John Boyd&amp;rsquo;s concepts as they relate to agile.&lt;/p&gt;
@@ -407,7 +407,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15677/</link>
+      <link>http://localhost:1313/blog/15677/</link>
       <pubDate>Fri, 06 Sep 2019 22:18:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15677</guid> 
       <description>&lt;p&gt;Marty Cagan&amp;rsquo;s piece on product vs. feature teams yielded more than enough stuff to reflect on and discuss. I wouldn&amp;rsquo;t mind having a ‘true‘ product manager. Where do you get one of those?&lt;/p&gt;
@@ -415,7 +415,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/09/15659/</link>
+      <link>http://localhost:1313/blog/15659/</link>
       <pubDate>Sun, 01 Sep 2019 19:24:32 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15659</guid> 
       <description>&lt;p&gt;We were represented at PM Camp last week and here&amp;rsquo;s a blog post (in German) by Alicia, one of my team members about the way we work.&lt;/p&gt;
@@ -423,7 +423,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title>Highlights for Agile Application Security</title>
-      <link>http://localhost:1313/dingen/2019/08/highlights-for-agile-application-security/</link>
+      <link>http://localhost:1313/blog/highlights-for-agile-application-security/</link>
       <pubDate>Wed, 21 Aug 2019 20:54:37 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15635</guid> 
       <description>&lt;blockquote&gt;
@@ -437,7 +437,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/08/15618/</link>
+      <link>http://localhost:1313/blog/15618/</link>
       <pubDate>Sun, 04 Aug 2019 11:35:19 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15618</guid> 
       <description>&lt;p&gt;Reading Shopify&amp;rsquo;s approach to keeping their merchant&amp;rsquo;s secure at their humongous scale seems to come down to the radical standardization of everything. People think this is boring (it isn&amp;rsquo;t) but it has tons of benefits beyond just security.&lt;/p&gt;
@@ -445,7 +445,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/08/15616/</link>
+      <link>http://localhost:1313/blog/15616/</link>
       <pubDate>Sun, 04 Aug 2019 11:19:36 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15616</guid> 
       <description>&lt;p&gt;One good example with an open sourced tool over at Slack of how they&amp;rsquo;ve implemented their Security Development Lifecycle to enable their developers to move forward confidently.&lt;/p&gt;
@@ -453,7 +453,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/07/15594/</link>
+      <link>http://localhost:1313/blog/15594/</link>
       <pubDate>Wed, 31 Jul 2019 22:22:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15594</guid> 
       <description>&lt;p&gt;The manifesto to choose boring technology in order to be able to solve interesting problems is something to (re-)read regularly until you&amp;rsquo;ve internalized it.&lt;/p&gt;
@@ -461,7 +461,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/07/15590/</link>
+      <link>http://localhost:1313/blog/15590/</link>
       <pubDate>Wed, 31 Jul 2019 21:40:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15590</guid> 
       <description>&lt;p&gt;Cloudflare is setting a high bar for post-mortem writing but if you want to get started with this, the only parts you really need are: What went wrong &amp;amp; What are we doing about it.&lt;/p&gt;
@@ -469,7 +469,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/07/15582/</link>
+      <link>http://localhost:1313/blog/15582/</link>
       <pubDate>Sun, 14 Jul 2019 13:01:22 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15582</guid> 
       <description>&lt;p&gt;For the more abstract work, it makes it a lot easier for other people to ‘read your mind’ and for you to delegate if you share as much context as possible as Anna Shipman describes here.&lt;/p&gt;
@@ -477,7 +477,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/07/15580/</link>
+      <link>http://localhost:1313/blog/15580/</link>
       <pubDate>Sun, 14 Jul 2019 12:55:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15580</guid> 
       <description>&lt;p&gt;Something that bears pointing out regularly: “Plus, contrary to popular belief, agile practices were not invented by the Agile movement. They predate it by many decades.”&lt;/p&gt;
@@ -485,7 +485,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/07/15568/</link>
+      <link>http://localhost:1313/blog/15568/</link>
       <pubDate>Sun, 07 Jul 2019 19:19:09 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15568</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve never exactly followed any framework but instead, I played it by ear and mixed and matched what worked best from wherever I could find it. That&amp;rsquo;s always a bit bothersome (but easily solved) when people want to work with the exact definition of something.&lt;/p&gt;
@@ -494,7 +494,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title>Jez Humble - Continuous Delivery in Agile</title>
-      <link>http://localhost:1313/dingen/2019/06/jez-humble-continuous-delivery-in-agile/</link>
+      <link>http://localhost:1313/blog/jez-humble-continuous-delivery-in-agile/</link>
       <pubDate>Fri, 21 Jun 2019 16:20:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15538</guid> 
       <description>&lt;p&gt;This Jez Humble talk about Continuous Delivery is one of my all-time favorites. As a bonus at the end he also totally demolishes the Google Guy.&lt;/p&gt;
@@ -502,7 +502,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/06/15485/</link>
+      <link>http://localhost:1313/blog/15485/</link>
       <pubDate>Wed, 05 Jun 2019 21:46:35 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15485</guid> 
       <description>&lt;p&gt;Tooling has become so good and so empowering that like in this tweet, many commerce ‘startups’ that are really struggling to hire and retain dev teams (and then utilize them to their potential) would be much better served using Airtable, Zapier and Pipedrive until they break.&lt;/p&gt;
@@ -510,7 +510,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/05/15435/</link>
+      <link>http://localhost:1313/blog/15435/</link>
       <pubDate>Sun, 26 May 2019 12:03:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15435</guid> 
       <description>&lt;p&gt;With my background in behavior change, I&amp;rsquo;m very pleasantly surprised to find this quote in what is a connoisseur&amp;rsquo;s treatment of the nuances of agile/agility: “There is only one way to create business value, and that’s to change someone’s behavior.”&lt;/p&gt;
@@ -518,7 +518,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/05/15417/</link>
+      <link>http://localhost:1313/blog/15417/</link>
       <pubDate>Sun, 19 May 2019 12:50:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15417</guid> 
       <description>&lt;blockquote&gt;
@@ -528,7 +528,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15356/</link>
+      <link>http://localhost:1313/blog/15356/</link>
       <pubDate>Sun, 28 Apr 2019 13:46:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15356</guid> 
       <description>&lt;p&gt;A worth-while apology for Design Thinking:&lt;/p&gt;
@@ -537,7 +537,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15354/</link>
+      <link>http://localhost:1313/blog/15354/</link>
       <pubDate>Sun, 28 Apr 2019 12:43:13 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15354</guid> 
       <description>&lt;p&gt;The newsworthy thing about the Accenture/Hertz story is not that they failed to deliver but how badly they failed and that they are getting sued for it. Getting something that&amp;rsquo;s not very good for far too much money is an accepted part of doing business with consultancies of that size.&lt;/p&gt;
@@ -545,7 +545,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/04/15338/</link>
+      <link>http://localhost:1313/blog/15338/</link>
       <pubDate>Fri, 19 Apr 2019 21:16:27 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15338</guid> 
       <description>&lt;p&gt;A handy checklist of what you need to take into account when you do (remote) mob programming. Every time we&amp;rsquo;ve used mobbing as an approach it has paid off thusfar so I&amp;rsquo;m very interested in deepening the practice.&lt;/p&gt;
@@ -553,7 +553,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/dingen/2019/03/15237/</link>
+      <link>http://localhost:1313/blog/15237/</link>
       <pubDate>Sun, 10 Mar 2019 13:10:23 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15237</guid> 
       <description>&lt;p&gt;A good argument that agile leadership is about delegating and divesting decision making power as far down as possible into the informal network.&lt;/p&gt;

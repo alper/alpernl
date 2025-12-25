@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15625
 parent_post_id: null
 post_id: "15625"
 title: ""
-url: /dingen/2019/08/15625/
+aliases:
+  - /dingen/2019/08/15625/
 
 ---
 With some minor adjustments, this entire piece about the systematic advantaging of the automobile is applicable to Germany as well.

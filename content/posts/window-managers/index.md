@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=18420
 parent_post_id: null
 post_id: "18420"
 title: Window Managers
-url: /dingen/2025/10/window-managers/
+aliases:
+  - /dingen/2025/10/window-managers/
 
 ---
 Window managers have become a bit of a special interest of mine. After being a Rectangle user for most of my macOS life, I tried out [Amethyst](https://github.com/ianyh/Amethyst) and [Yabai](https://github.com/koekeishiya/yabai) and finally settled on [Aerospace](https://github.com/nikitabobko/AeroSpace).

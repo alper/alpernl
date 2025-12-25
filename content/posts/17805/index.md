@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17805
 parent_post_id: null
 post_id: "17805"
 title: ""
-url: /dingen/2024/12/17805/
+aliases:
+  - /dingen/2024/12/17805/
 
 ---
 [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601)

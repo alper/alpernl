@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=16131
 parent_post_id: null
 post_id: "16131"
 title: ""
-url: /dingen/2020/06/16131/
+aliases:
+  - /dingen/2020/06/16131/
 
 ---
 The Yak Collective is a great idea coupled with great execution judging from this incredibly strong deck about the New Old Home, changes to living during the pandemic.

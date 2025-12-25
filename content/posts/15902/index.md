@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15902
 parent_post_id: null
 post_id: "15902"
 title: ""
-url: /dingen/2019/11/15902/
+aliases:
+  - /dingen/2019/11/15902/
 
 ---
 This summary of Robert Kegan is more than a bit illuminating. And maybe I'm only aspiring when I say this, but come join me at Stage 5. It's nice here.

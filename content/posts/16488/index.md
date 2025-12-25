@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16488
 parent_post_id: null
 post_id: "16488"
 title: ""
-url: /dingen/2021/04/16488/
+aliases:
+  - /dingen/2021/04/16488/
 
 ---
 The correct sequence is to start with a business goal, translate that into a technical strategy and have architectural initiatives follow from that.

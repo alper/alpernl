@@ -14,7 +14,8 @@ post_id: "3476"
 tags:
   - weeknotes
 title: 'Week 264: playable prototypes and Open State'
-url: /dingen/2012/04/week-264-playable-prototypes-and-open-state/
+aliases:
+  - /dingen/2012/04/week-264-playable-prototypes-and-open-state/
 
 ---
 Last week was crazy hectic, notwithstanding the fact that I was ill at the same time. Sickness and deadlines are not fun, but thankfully both were survived.

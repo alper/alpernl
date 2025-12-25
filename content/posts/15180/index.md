@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15180
 parent_post_id: null
 post_id: "15180"
 title: ""
-url: /dingen/2019/02/15180/
+aliases:
+  - /dingen/2019/02/15180/
 
 ---
 This piece about Stephen Wolfram's productivity system is too much but also too fascinating to stop reading.

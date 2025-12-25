@@ -15,7 +15,8 @@ guid: https://alper.nl/dingen/?p=16691
 parent_post_id: null
 post_id: "16691"
 title: Anthroposophy and Ecofascism
-url: /dingen/2022/01/anthroposophy-and-ecofascism/
+aliases:
+  - /dingen/2022/01/anthroposophy-and-ecofascism/
 
 ---
 An in-depth study of the links between Nazism and Anthroposophy by Peter Staudenmaier at the Institute for Social Ecology with a lot of interesting bits in there.

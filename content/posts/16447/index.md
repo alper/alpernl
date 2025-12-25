@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16447
 parent_post_id: null
 post_id: "16447"
 title: ""
-url: /dingen/2021/03/16447/
+aliases:
+  - /dingen/2021/03/16447/
 
 ---
 The trimodal salary distribution for Amsterdam (and likely other cities as well) as displayed here is very useful information and will hopefully help push compensation (and innovation) in Europe closer to American levels.

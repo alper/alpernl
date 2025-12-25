@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1105
 parent_post_id: null
 post_id: "1105"
 title: De Geest van de Webrichtlijnen
-url: /dingen/2009/07/de-geest-van-de-webrichtlijnen/
+aliases:
+  - /dingen/2009/07/de-geest-van-de-webrichtlijnen/
 
 ---
 Vorige week dinsdag gaf ik een presentatie op [de Barcamp Webrichtlijnen](http://barcamp.overheid20.nl/) over waar wat mij betreft de prioriteit moet liggen in het ontwikkelen met het oog op [de webrichtlijnen](http://www.webrichtlijnen.nl/).

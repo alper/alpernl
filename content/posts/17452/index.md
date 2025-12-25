@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17452
 parent_post_id: null
 post_id: "17452"
 title: ""
-url: /dingen/2024/03/17452/
+aliases:
+  - /dingen/2024/03/17452/
 
 ---
 After trying apps by Sony and Garmin I think that Apple should be the only hardware manufacturer who's allowed to write software.

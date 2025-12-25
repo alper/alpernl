@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15540
 parent_post_id: null
 post_id: "15540"
 title: ""
-url: /dingen/2019/06/15540/
+aliases:
+  - /dingen/2019/06/15540/
 
 ---
 Leaving this here for when the UBER thing finally comes crashing down.

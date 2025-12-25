@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5691
 parent_post_id: null
 post_id: "5691"
 title: Books and movies of 2016
-url: /dingen/2017/01/books-and-movies-of-2016/
+aliases:
+  - /dingen/2017/01/books-and-movies-of-2016/
 
 ---
 Like every year the books I read and the movies I watched. Recommended ones are in bold.

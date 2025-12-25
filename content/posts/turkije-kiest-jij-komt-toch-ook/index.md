@@ -9,7 +9,8 @@ tags:
   - politiek
   - reizen
 title: Turkije kiest - Jij komt toch ook?
-url: /dingen/2007/07/turkije-kiest-jij-komt-toch-ook/
+aliases:
+  - /dingen/2007/07/turkije-kiest-jij-komt-toch-ook/
 
 ---
 Morgen zijn er verkiezingen in Turkije. Dit zijn redelijk controversiële verkiezingen om een boel redenen. De belangrijkste daarvan is het feit dat de [AKP](http://www.akparti.org.tr/) afstevent op een flinke overwinning. De AKP is een islamitische partij en dat ligt wat ongemakkelijk in Turkije. Ik heb al [gereageerd op Sargasso](http://www.sargasso.nl/archief/2007/07/19/turkije-kiest-koers/#comment-236203). Nu hier wat uitgebreider.

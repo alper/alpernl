@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15668
 parent_post_id: null
 post_id: "15668"
 title: ""
-url: /dingen/2019/09/15668/
+aliases:
+  - /dingen/2019/09/15668/
 
 ---
 I'd say a lot of this criticism of React is fair but because all frameworks have jumped onto components, I don't really see a realistic workable alternative either.

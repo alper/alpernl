@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=1989
 parent_post_id: null
 post_id: "1989"
 title: Check in / Check Out - Design Principles for Camera Surveillance
-url: /dingen/2010/07/check-in-check-out-design-principles-for-camera-surveillance/
+aliases:
+  - /dingen/2010/07/check-in-check-out-design-principles-for-camera-surveillance/
 
 ---
 Here the first of my English translations of the design principles outlined in the Dutch book by Rathenau about the digitalization of society and its implications.

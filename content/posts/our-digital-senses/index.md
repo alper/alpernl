@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=570
 parent_post_id: null
 post_id: "570"
 title: Our digital senses
-url: /dingen/2008/11/our-digital-senses/
+aliases:
+  - /dingen/2008/11/our-digital-senses/
 
 ---
 In some of Adam Greenfield's backpages [“Whatever happened to serendipity?”](http://speedbird.wordpress.com/2008/10/31/my-back-pages-whatever-happened-to-serendipity/) he recounts how he used to scrounge for punk rock records and how the difficulty and uncertainty of the experience was part of what made it worthwhile:

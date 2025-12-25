@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15788
 parent_post_id: null
 post_id: "15788"
 title: ""
-url: /dingen/2019/10/15788/
+aliases:
+  - /dingen/2019/10/15788/
 
 ---
 https://twitter.com/Pinboard/status/1180283203052961792

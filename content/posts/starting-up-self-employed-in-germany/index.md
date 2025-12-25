@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3257
 parent_post_id: null
 post_id: "3257"
 title: Starting up self-employed in Germany
-url: /dingen/2012/01/starting-up-self-employed-in-germany/
+aliases:
+  - /dingen/2012/01/starting-up-self-employed-in-germany/
 
 ---
 I'm reading up on German tax and trade rules because I'm going to incorporate here this month and most of the things I read do not make me very happy. They look like they are more suited to a 19th century gentry than to creative workers in the multipolar 21st.

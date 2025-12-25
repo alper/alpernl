@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17686
 parent_post_id: null
 post_id: "17686"
 title: ""
-url: /dingen/2024/11/17686/
+aliases:
+  - /dingen/2024/11/17686/
 
 ---
 A beautiful elegy for photographer Matthieu Chazal by Paul Salopek on the epic Out of Eden Walk.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=4745
 parent_post_id: null
 post_id: "4745"
 title: Voting advice for the German elections
-url: /dingen/2013/09/voting-advice-for-the-german-elections/
+aliases:
+  - /dingen/2013/09/voting-advice-for-the-german-elections/
 
 ---
 I will be gone during the peak of the horrible German election campaigns (in fact I'm just back and voting is this Sunday). The only thing that is keeping things somewhat bearable are the low-budget fake news broadcasts by [Tagesschaum](https://www.youtube.com/channel/UCIvthGRDv___2gL2JGiDryQ). I pay taxes in this damned country but I am not eligible to vote. That's why I penned this election advice before I left for those that are. I didn't have time to polish it then but here it is, better late than never.

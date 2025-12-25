@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16410
 parent_post_id: null
 post_id: "16410"
 title: ""
-url: /dingen/2021/02/16410/
+aliases:
+  - /dingen/2021/02/16410/
 
 ---
 > but I like working with PMs who went into it through channels other than the official ones, and are motivated out of their passion for building things and solving problems. Not because they feel it’s something they’re supposed to do, or because they think it’s prestigious, or because it is the default path from whatever elite school they went to.

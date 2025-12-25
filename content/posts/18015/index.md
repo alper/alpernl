@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18015
 parent_post_id: null
 post_id: "18015"
 title: ""
-url: /dingen/2025/02/18015/
+aliases:
+  - /dingen/2025/02/18015/
 
 ---
 Looks like food waste and food security are going to be very important going forward.

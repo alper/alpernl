@@ -33,7 +33,8 @@ guid: https://alper.nl/dingen/?p=18254
 parent_post_id: null
 post_id: "18254"
 title: ""
-url: /dingen/2025/06/18254/
+aliases:
+  - /dingen/2025/06/18254/
 
 ---
 A very informative write-up of how you would squeeze out the last bits of performance out of a Rust port. Not sure if I'd ever apply this but I'm happy enough that I can mostly follow along.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2315
 parent_post_id: null
 post_id: "2315"
 title: Spook Country
-url: /dingen/2010/12/spook-country/
+aliases:
+  - /dingen/2010/12/spook-country/
 
 ---
 I wanted to read Zero History and found out I hadn't read Spook Country yet, so I did. Unfortunately Stanza does not allow a batch export of annotations, but fortunately I did not make that many.

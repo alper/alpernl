@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18096
 parent_post_id: null
 post_id: "18096"
 title: ""
-url: /dingen/2025/02/18096/
+aliases:
+  - /dingen/2025/02/18096/
 
 ---
 Rare to see an actual apples-to-apples comparison of databases like this. Postgres comes out ahead versus Sqlite but as always, it depends.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1484
 parent_post_id: null
 post_id: "1484"
 title: Foursquare spelen op de radio
-url: /dingen/2010/01/foursquare-spelen-op-de-radio/
+aliases:
+  - /dingen/2010/01/foursquare-spelen-op-de-radio/
 
 ---
 Afgelopen donderdag werd ik samen met [de manager](http://twitter.com/hermn) van [Dwaze Zaken](http://foursquare.com/venue/55186) en [de burgermeester](http://twitter.com/pfountain) [geïnterviewd](http://nos.nl/audio/128301-foursquare-koppelt-internet-aan-het-echte-leven.html) ( [Radio 1 link](http://www.radio1.nl/contents/11769-nieuw-soort-spel-voor-mobiele-telefoon-wordt-populair) ((Ik wacht nog tot ze mijn naam goed schrijven op de site.))) voor [Radio1](http://www.radio1.nl/) over [Foursquare](http://foursquare.com). Foursquare het mobiele spel, vrienden-vinder en sociale gids die we afgelopen jaar naar Amsterdam hebben gehaald en dat nu ook [overal speelbaar](http://foursquare.tumblr.com/post/323823770/foursquare-everywhere) is.

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5167
 parent_post_id: null
 post_id: "5167"
 title: Session of the traffic commission of the Berlin borough of NeukÃ¶lln
-url: /dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/
+aliases:
+  - /dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/
 
 ---
 [![Neukölln committee for traffic meeting](https://farm8.staticflickr.com/7349/16579780102_6f86aa18a1_z.jpg)](https://www.flickr.com/photos/alper/16579780102 "Neukölln committee for traffic meeting by Alper Çuğun, on Flickr")

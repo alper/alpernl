@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3179
 parent_post_id: null
 post_id: "3179"
 title: Scepticism on the Filter Bubble
-url: /dingen/2012/01/scepticism-on-the-filter-bubble/
+aliases:
+  - /dingen/2012/01/scepticism-on-the-filter-bubble/
 
 ---
 I think most of the thinking around [The Filter Bubble](http://www.thefilterbubble.com/) comes from people who are not very procedurally literate to begin with. That is to say they are not very adept at understanding the rules that govern interactive systems nor are they well equipped at reconfiguring them to suit their ends. I touch on this because the same tired argument was parroted in [this Zeit interview with Miriam Meckel](http://www.zeit.de/campus/2012/01/sprechstunde-miriam-meckel/komplettansicht), a leading German communication scientist ((eine Koryphäe ihres Fachs)). It starts off with some very sensible sentiments but then it quickly derails on the topic of algorithms and concludes on several sidelines.

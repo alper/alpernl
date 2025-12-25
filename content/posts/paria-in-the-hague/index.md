@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1695
 parent_post_id: null
 post_id: "1695"
 title: Paria in the Hague
-url: /dingen/2010/03/paria-in-the-hague/
+aliases:
+  - /dingen/2010/03/paria-in-the-hague/
 
 ---
 Lots of fun to ride my second time at the Hague spring alleycat: Paria. Great guys, lots of speed and fun. Looking forward to more riding and maybe getting into polo.

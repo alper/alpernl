@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=1321
 parent_post_id: null
 post_id: "1321"
 title: City Hopping
-url: /dingen/2009/10/city-hopping/
+aliases:
+  - /dingen/2009/10/city-hopping/
 
 ---
 Jumping all over the randstad these past weeks. Some gems to be found:

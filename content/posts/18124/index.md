@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18124
 parent_post_id: null
 post_id: "18124"
 title: ""
-url: /dingen/2025/02/18124/
+aliases:
+  - /dingen/2025/02/18124/
 
 ---
 A beautiful lush essay and homage to an ubiquitous typeface without a name.

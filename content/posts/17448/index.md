@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17448
 parent_post_id: null
 post_id: "17448"
 title: ""
-url: /dingen/2024/03/17448/
+aliases:
+  - /dingen/2024/03/17448/
 
 ---
 The most vocal people in progressive/critical technology don't have kids (for various reasons) and as such also have zero empathy for the real problems people deal with.

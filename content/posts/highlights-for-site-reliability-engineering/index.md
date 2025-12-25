@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16581
 parent_post_id: null
 post_id: "16581"
 title: Highlights for Site Reliability Engineering
-url: /dingen/2021/08/highlights-for-site-reliability-engineering/
+aliases:
+  - /dingen/2021/08/highlights-for-site-reliability-engineering/
 
 ---
 > Traditional operations teams and their counterparts in product development thus often end up in conflict, most visibly over how quickly software can be released to production. At their core, the development teams want to launch new features and see them adopted by users. At their core, the ops teams want to make sure the service doesn’t break while they are holding the pager. Because most outages are caused by some kind of change—a new configuration, a new feature launch, or a new type of user traffic—the two teams’ goals are fundamentally in tension.

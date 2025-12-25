@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15577
 parent_post_id: null
 post_id: "15577"
 title: ""
-url: /dingen/2019/07/15577/
+aliases:
+  - /dingen/2019/07/15577/
 
 ---
 Cath writes some very salient points about growing into leadership that on the one hand should be more widespread, but on the other hand, everybody will likely have to find out for themselves.

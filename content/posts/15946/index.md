@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15946
 parent_post_id: null
 post_id: "15946"
 title: ""
-url: /dingen/2020/01/15946/
+aliases:
+  - /dingen/2020/01/15946/
 
 ---
 I used to know Wytze and the foresight and innovation that he put into the Urban Arrow back in the day (2010) which is still going strong is nothing short of mind-boggling.

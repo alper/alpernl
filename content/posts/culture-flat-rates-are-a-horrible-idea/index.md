@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3462
 parent_post_id: null
 post_id: "3462"
 title: Culture flat rates are a horrible idea
-url: /dingen/2012/03/culture-flat-rates-are-a-horrible-idea/
+aliases:
+  - /dingen/2012/03/culture-flat-rates-are-a-horrible-idea/
 
 ---
 Culture flat rates are named both in the Netherlands and [in Germany](http://www.otz.de/startseite/detail/-/specific/Trittin-fordert-Kulturflatrate-fuer-das-Internet-1191312731) as a solution to the problem of copyright piracy.

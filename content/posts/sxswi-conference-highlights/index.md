@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=843
 parent_post_id: null
 post_id: "843"
 title: SxSWi Conference Highlights
-url: /dingen/2009/03/sxswi-conference-highlights/
+aliases:
+  - /dingen/2009/03/sxswi-conference-highlights/
 
 ---
 Here's a list of some of my favorite things from SxSW:

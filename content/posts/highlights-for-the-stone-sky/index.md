@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5962
 parent_post_id: null
 post_id: "5962"
 title: Highlights for The Stone Sky
-url: /dingen/2018/03/highlights-for-the-stone-sky/
+aliases:
+  - /dingen/2018/03/highlights-for-the-stone-sky/
 
 ---
 > Well, some worlds are built on a fault line of pain, held up by nightmares. Don’t lament when those worlds fall. Rage that they were built doomed in the first place.

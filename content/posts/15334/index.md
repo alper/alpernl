@@ -16,7 +16,8 @@ guid: http://alper.nl/dingen/?p=15334
 parent_post_id: null
 post_id: "15334"
 title: ""
-url: /dingen/2019/04/15334/
+aliases:
+  - /dingen/2019/04/15334/
 
 ---
 Zoom is an excellent video-conferencing app which turns out to be built on some technical excellence of its own (running WASM encoders and decoders in the browser).  

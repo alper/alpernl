@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=4255
 parent_post_id: null
 post_id: "4255"
 title: Recess! 1 - Proteus and nature
-url: /dingen/2013/02/recess-1-proteus-and-nature/
+aliases:
+  - /dingen/2013/02/recess-1-proteus-and-nature/
 
 ---
 _Recess! is a correspondence series with personal ruminations on games._ [![proteus2](proteus2.jpg)](/dingen/2013/02/recess-1-proteus-and-nature/proteus2/)

@@ -9,7 +9,8 @@ post_id: "252"
 tags:
   - fotografie
 title: Truien foto's
-url: /dingen/2008/02/truien-fotos/
+aliases:
+  - /dingen/2008/02/truien-fotos/
 
 ---
 De shoot van afgelopen maandag was ter gelegenheid van onze mooie nieuwe capoeiratruien die uit Brazilië geïmporteerd zijn.

@@ -10,7 +10,8 @@ tags:
   - fotografie
   - muziek
 title: Leuke dingen voor Koninginnedag
-url: /dingen/2007/05/leuke-dingen-voor-koninginnedag/
+aliases:
+  - /dingen/2007/05/leuke-dingen-voor-koninginnedag/
 
 ---
 [![](http://farm1.static.flickr.com/231/479052551_7b61611580.jpg)](http://www.flickr.com/photos/alper/479052551/ "Photo Sharing")

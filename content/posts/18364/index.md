@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18364
 parent_post_id: null
 post_id: "18364"
 title: ""
-url: /dingen/2025/09/18364/
+aliases:
+  - /dingen/2025/09/18364/
 
 ---
 We should have more histories of software. There are lots of things that have been tried out and learned which if they aren't captured will disappear entirely.

@@ -11,7 +11,8 @@ post_id: "1912"
 tags:
   - weeknotes
 title: Weeknotes 25
-url: /dingen/2010/06/weeknotes-25/
+aliases:
+  - /dingen/2010/06/weeknotes-25/
 
 ---
 Let's see how this goes. Consider this a try out for now.

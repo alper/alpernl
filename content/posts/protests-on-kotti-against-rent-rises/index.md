@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3573
 parent_post_id: null
 post_id: "3573"
 title: Protests on Kotti against rent rises
-url: /dingen/2012/05/protests-on-kotti-against-rent-rises/
+aliases:
+  - /dingen/2012/05/protests-on-kotti-against-rent-rises/
 
 ---
 Today I wandered over to the rent increase protest camp on Kottbusser Tor. Some initial unformed thoughts.

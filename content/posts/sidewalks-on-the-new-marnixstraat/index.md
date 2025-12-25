@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=2740
 parent_post_id: null
 post_id: "2740"
 title: Sidewalks on the new Marnixstraat
-url: /dingen/2011/08/sidewalks-on-the-new-marnixstraat/
+aliases:
+  - /dingen/2011/08/sidewalks-on-the-new-marnixstraat/
 
 ---
 The sidewalks of the newly renovated Marnixstraat:

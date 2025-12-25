@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=964
 parent_post_id: null
 post_id: "964"
 title: Widgets algemene afwegingen
-url: /dingen/2009/05/widgets-algemene-afwegingen/
+aliases:
+  - /dingen/2009/05/widgets-algemene-afwegingen/
 
 ---
 Het is nu een paar weken geleden dat ik de eerste release versie van een serie widgets die ik samen met [Tam Tam](http://www.tamtam.nl) in opdracht van het [Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](http://www.minbzk.nl/) (BZK) heb ontwikkeld ( [een overzichtsartikel](/dingen/2009/05/widgets-overzicht/)).

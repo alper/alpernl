@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1845
 parent_post_id: null
 post_id: "1845"
 title: Fresh election results
-url: /dingen/2010/06/fresh-election-results/
+aliases:
+  - /dingen/2010/06/fresh-election-results/
 
 ---
 Interesting to see that there were a ton of election result charting, display and visualization sites that popped up just before the elections. It seems that this is a hot topic.

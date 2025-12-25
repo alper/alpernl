@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15468
 parent_post_id: null
 post_id: "15468"
 title: ""
-url: /dingen/2019/05/15468/
+aliases:
+  - /dingen/2019/05/15468/
 
 ---
 I had no idea but it seems Berlin has a booming Chinese art scene.

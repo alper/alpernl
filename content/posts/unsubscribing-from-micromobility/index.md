@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=15699
 parent_post_id: null
 post_id: "15699"
 title: Unsubscribing from Micromobility
-url: /dingen/2019/09/unsubscribing-from-micromobility/
+aliases:
+  - /dingen/2019/09/unsubscribing-from-micromobility/
 
 ---
 https://twitter.com/alper/status/1124042550053150723?s=11

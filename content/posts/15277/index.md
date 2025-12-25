@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15277
 parent_post_id: null
 post_id: "15277"
 title: ""
-url: /dingen/2019/03/15277/
+aliases:
+  - /dingen/2019/03/15277/
 
 ---
 De Nederlandse huizenmarkt is kapot (net zoals de huizenmarkt bijna overal) en de mensen blijven maar VVD stemmen. Wat klopt hier niet?

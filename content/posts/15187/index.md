@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15187
 parent_post_id: null
 post_id: "15187"
 title: ""
-url: /dingen/2019/02/15187/
+aliases:
+  - /dingen/2019/02/15187/
 
 ---
 I'm not a data scientist but I've been trained for it (as part of my computer science degree) and I've worked in a bunch of related fields. I wholly endorse this take by Vicki Boykis on the state of data science and what you need to be successful at it.

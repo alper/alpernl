@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=17062
 parent_post_id: null
 post_id: "17062"
 title: ""
-url: /dingen/2023/02/17062/
+aliases:
+  - /dingen/2023/02/17062/
 
 ---
 It is beyond funny that the right wing conspiracy theorists have latched onto the idea of creating liveable, walkable cities as the next threat to humanity.

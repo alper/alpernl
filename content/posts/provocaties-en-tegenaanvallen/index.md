@@ -8,7 +8,8 @@ tags:
   - oorlog
   - politiek
 title: Provocaties en tegenaanvallen
-url: /dingen/2007/10/provocaties-en-tegenaanvallen/
+aliases:
+  - /dingen/2007/10/provocaties-en-tegenaanvallen/
 
 ---
 [Artikel in de New Yorker](http://www.newyorker.com/reporting/2007/10/08/071008fa_fact_hersh?currentPage=all) over de plannen van Bush en Cheney om Iran aan te vallen.

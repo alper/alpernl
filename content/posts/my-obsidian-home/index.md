@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17361
 parent_post_id: null
 post_id: "17361"
 title: My Obsidian Daily Productivity System
-url: /dingen/2023/12/my-obsidian-home/
+aliases:
+  - /dingen/2023/12/my-obsidian-home/
 
 ---
 On popular request, here finally the write-up of my [Obsidian](https://obsidian.md) setup. It's somewhat elaborate but I've tried to keep it as simple as possible.

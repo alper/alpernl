@@ -13,7 +13,8 @@ guid: http://alper.nl/dingen/?p=2069
 parent_post_id: null
 post_id: "2069"
 title: Boris Bikes are made of epic win
-url: /dingen/2010/09/boris-bikes-are-made-of-epic-win/
+aliases:
+  - /dingen/2010/09/boris-bikes-are-made-of-epic-win/
 
 ---
 This week I had my yearly trip to the UK to attend the dConstruct conference in Brighton. Usually I add some time to visit London too and explore the things that need exploring.

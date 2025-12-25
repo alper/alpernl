@@ -9,7 +9,8 @@ post_id: "253"
 tags:
   - fotografie
 title: Schieten op middenformaat
-url: /dingen/2008/02/schieten-op-middenformaat/
+aliases:
+  - /dingen/2008/02/schieten-op-middenformaat/
 
 ---
 [![Lens hood](http://farm3.static.flickr.com/2010/2226514669_964b05bcf9_m.jpg)](http://www.flickr.com/photos/alper/2226514669/ "Lens hood by illustir, on Flickr")

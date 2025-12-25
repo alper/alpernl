@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=15244
 parent_post_id: null
 post_id: "15244"
 title: ""
-url: /dingen/2019/03/15244/
+aliases:
+  - /dingen/2019/03/15244/
 
 ---
 Facebook did a half-hearted push towards a more messaging focused experience during the conversational boom, but didn't manage to make any inroads and abandoned the effort. Whatsapp could have been the beachhead but with the original leadership and vision gone, nothing interesting will happen there. Instagram (also without original leadership) is slowly being turned into sludge by whatever PMs Facebook has left.

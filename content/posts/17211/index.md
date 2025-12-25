@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17211
 parent_post_id: null
 post_id: "17211"
 title: ""
-url: /dingen/2023/07/17211/
+aliases:
+  - /dingen/2023/07/17211/
 
 ---
 After using all kinds of note taking tools (eg. Notational Velocity) at some point some years ago I moved all my personal notes to Bear and it has been my secret productivity boost ever since.

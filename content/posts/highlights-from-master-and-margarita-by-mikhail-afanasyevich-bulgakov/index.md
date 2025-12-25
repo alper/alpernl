@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5622
 parent_post_id: null
 post_id: "5622"
 title: Highlights from Master and Margarita by MikhaÃ­l Afanasyevich Bulgakov
-url: /dingen/2016/09/highlights-from-master-and-margarita-by-mikhail-afanasyevich-bulgakov/
+aliases:
+  - /dingen/2016/09/highlights-from-master-and-margarita-by-mikhail-afanasyevich-bulgakov/
 
 ---
 > Riukhin sat in complete solitude, hunched over his bream, drinking glass after glass, understanding and recognizing that it was no longer possible to set anything right in his life, that it was only possible to forget.

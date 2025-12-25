@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=1943
 parent_post_id: null
 post_id: "1943"
 title: Distilling meter, rhyme and verse from your database
-url: /dingen/2010/07/distilling-meter-rhyme-and-verse-from-your-database/
+aliases:
+  - /dingen/2010/07/distilling-meter-rhyme-and-verse-from-your-database/
 
 ---
 I don't know how I missed this job in my post this year on [“New disciplines for a real-time data world”](/dingen/2010/04/new-disciplines-for-a-real-time-data-world/) but this week the position for [a Data Griot and Community Activator](http://www.last.fm/about/jobs#job_Data+Griot+and+Community+Activator) popped up at Last.fm and was brought to my attention by [Chris Heathcote's post](http://anti-mega.com/antimega/2010/07/04/griotism) who did some griotting into Grindr (an interesting app worth a post on its own).

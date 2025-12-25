@@ -12,7 +12,8 @@ guid: https://alper.nl/dingen/?p=16586
 parent_post_id: null
 post_id: "16586"
 title: Leveled up in Turkish
-url: /dingen/2021/09/leveled-up-in-turkish/
+aliases:
+  - /dingen/2021/09/leveled-up-in-turkish/
 
 ---
 Hanging out on [Clubhouse](https://www.joinclubhouse.com/) from the beginning made me realize how lacking my Turkish was. I got on the app when Germany came online and I think Turkey launched shortly after that and only then did it kick off in the Netherlands.

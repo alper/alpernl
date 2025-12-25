@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4869
 parent_post_id: null
 post_id: "4869"
 title: Highlights from The Unwinding by George Packer
-url: /dingen/2014/02/notes-from-the-unwinding-by-george-packer/
+aliases:
+  - /dingen/2014/02/notes-from-the-unwinding-by-george-packer/
 
 ---
 This got stuck in my draft queue but I have no idea what to meaningfully add to this absurd amount of highlights. [The Unwinding by George Packer](https://www.goodreads.com/book/show/17139513-the-unwinding) is a massive and amazing work with turns of phrase worth remembering on every page. It also shows very precisely how amazingly fucked up the USA is right about now. Here is the book cut up through my lens, but I would highly encourage you to read the whole thing (I tore through it in a couple of days).

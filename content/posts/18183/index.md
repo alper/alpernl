@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18183
 parent_post_id: null
 post_id: "18183"
 title: ""
-url: /dingen/2025/03/18183/
+aliases:
+  - /dingen/2025/03/18183/
 
 ---
 We have kids in two parallel classes at school which lets us compare things directly and gives us insights many of the other parents don't have.

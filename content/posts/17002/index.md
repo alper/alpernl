@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17002
 parent_post_id: null
 post_id: "17002"
 title: ""
-url: /dingen/2023/02/17002/
+aliases:
+  - /dingen/2023/02/17002/
 
 ---
 A lot to like in this article ("They avoid scrum and SAFe like the plague.â€Œâ€Œ") but I'll settle for adopting the core thrust of it and just retiring the entire concept of a PO and never have to debate "What is the difference between a PM and a PO?" ever again.

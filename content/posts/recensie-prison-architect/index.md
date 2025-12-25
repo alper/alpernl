@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=4680
 parent_post_id: null
 post_id: "4680"
 title: 'Recensie: Prison Architect'
-url: /dingen/2013/07/recensie-prison-architect/
+aliases:
+  - /dingen/2013/07/recensie-prison-architect/
 
 ---
 Hij staat ook bij Niels op de site in [het blokje paid alpha's](http://nielsthooft.com/paid-alphas) wat erg leuk geworden is. Prison Architect is een curieus spel en ik heb er een tijdje op gezeten om te kijken of ze het nu af gingen maken of niet en uiteindelijk heb ik dit korte stukje ervan gemaakt:

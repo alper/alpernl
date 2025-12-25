@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17435
 parent_post_id: null
 post_id: "17435"
 title: ""
-url: /dingen/2024/02/17435/
+aliases:
+  - /dingen/2024/02/17435/
 
 ---
 This piece about moving away from CDK is a bit overly dramatic and comes down to "CloudFormation sucks" which is something that anybody who's worked with it can testify to.

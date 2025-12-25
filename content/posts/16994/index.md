@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16994
 parent_post_id: null
 post_id: "16994"
 title: ""
-url: /dingen/2023/01/16994/
+aliases:
+  - /dingen/2023/01/16994/
 
 ---
 Ilya Grigorik notes down a perspective on what people at the higher senior+ levels should be doing. At that level things can get fuzzy and people tend to struggle.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15251
 parent_post_id: null
 post_id: "15251"
 title: ""
-url: /dingen/2019/03/15251/
+aliases:
+  - /dingen/2019/03/15251/
 
 ---
 An excruciating story about the necessary choices during a genetically fraught pregnancy.

@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=17840
 parent_post_id: null
 post_id: "17840"
 title: ""
-url: /dingen/2025/01/17840/
+aliases:
+  - /dingen/2025/01/17840/
 
 ---
 Another take on the old adage that writing the code is the easy part of software engineering. The real work is figuring out what has to be built and how. Once that is clear, the actual building can be done relatively quickly and linearly.

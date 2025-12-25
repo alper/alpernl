@@ -10,7 +10,7 @@
     <atom:link href="http://localhost:1313/tags/visualization/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coworker.nl â€” Map of coworking spots in the Netherlands</title>
-      <link>http://localhost:1313/dingen/2008/08/coworkernl-%E2%80%94-map-of-coworking-spots-in-the-netherlands/</link>
+      <link>http://localhost:1313/blog/coworkernl--map-of-coworking-spots-in-the-netherlands/</link>
       <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=333</guid> 
       <description>&lt;p&gt;Some ideas start out small and then grow larger than you thought imaginable. &lt;a href=&#34;http://coworker.nl&#34;&gt;Coworker.nl&lt;/a&gt; is one such idea. This is a write up about how it came to be and how you can build your own.&lt;/p&gt;
@@ -18,7 +18,7 @@
     </item>
     <item>
       <title>Playing with Public (Transportation) Data</title>
-      <link>http://localhost:1313/dingen/2008/09/playing-with-public-transportation-data/</link>
+      <link>http://localhost:1313/blog/playing-with-public-transportation-data/</link>
       <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=381</guid> 
       <description>&lt;p&gt;As &lt;a href=&#34;http://localhost:1313/dingen/2008/06/workshop-session-on-geodata-visualization/&#34;&gt;promised a while back&lt;/a&gt; after we got our fill playing with the data I would release it to the public to see if you could come up with something interesting. I&amp;rsquo;d leaked the JSON file to &lt;a href=&#34;http://www.leapfrog.nl&#34;&gt;Kars&lt;/a&gt; and he applied his skills in visualizing things in processing ((With some help from &lt;a href=&#34;http://benfry.com/&#34;&gt;Ben Fry&lt;/a&gt;.)) to the dataset.&lt;/p&gt;
@@ -26,7 +26,7 @@
     </item>
     <item>
       <title>Workshop session on geodata visualization</title>
-      <link>http://localhost:1313/dingen/2008/06/workshop-session-on-geodata-visualization/</link>
+      <link>http://localhost:1313/blog/workshop-session-on-geodata-visualization/</link>
       <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=314</guid> 
       <description>&lt;p&gt;Yesterday we had an &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshop-13-juni/&#34;&gt;afternoon of workshops&lt;/a&gt; in an unconference style event at &lt;a href=&#34;http://studio4stagioni.nl/&#34;&gt;the office&lt;/a&gt;. A full registration of the event with video and slides will be published during the course of this weekend, but unfortunately most of it will be &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshops-kickoff/&#34;&gt;in Dutch&lt;/a&gt;.&lt;/p&gt;

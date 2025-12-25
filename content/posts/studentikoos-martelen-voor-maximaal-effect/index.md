@@ -10,7 +10,8 @@ tags:
   - burgerrechten
   - universiteit
 title: Studentikoos martelen voor maximaal effect
-url: /dingen/2007/12/studentikoos-martelen-voor-maximaal-effect/
+aliases:
+  - /dingen/2007/12/studentikoos-martelen-voor-maximaal-effect/
 
 ---
 Een tijdje geleden lazen we op het werk de ingezonden brief [“Abu Ghraib aan de Schie”](http://www.nrc.nl/opinie/article767560.ece) ((Wrede titel (pun intended) trouwens)) in NRC over praktijken bij het corps hier in Delft. Naar aanleiding van welke [wat onderzoek](http://www.nrc.nl/binnenland/article868835.ece/Corps_Delft_over_rand_bij_ontgroening) heeft plaatsgevonden.

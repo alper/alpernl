@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18206
 parent_post_id: null
 post_id: "18206"
 title: ""
-url: /dingen/2025/04/18206/
+aliases:
+  - /dingen/2025/04/18206/
 
 ---
 Here's a topic over at Lobsters of what a bunch of software engineers would like to see programmed out in the world. Every ask gets a bunch of suggestions of things out there that could fill that gap.

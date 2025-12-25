@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16102
 parent_post_id: null
 post_id: "16102"
 title: ""
-url: /dingen/2020/06/16102/
+aliases:
+  - /dingen/2020/06/16102/
 
 ---
 It's common for angry people to be dismissed but it is also a fully wrong and unjust attitude.

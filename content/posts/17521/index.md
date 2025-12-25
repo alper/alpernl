@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17521
 parent_post_id: null
 post_id: "17521"
 title: ""
-url: /dingen/2024/04/17521/
+aliases:
+  - /dingen/2024/04/17521/
 
 ---
 I would be the last to ever watch anything by Lex Fridman, but TikTok has been feeding me clips from his interview with Bassem Youssef and I can't help but be impressed. Fridman does a decent job interviewing but of course the conversation is carried by Youssef, who is nothing short of a treasure.

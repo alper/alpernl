@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16793
 parent_post_id: null
 post_id: "16793"
 title: ""
-url: /dingen/2022/04/16793/
+aliases:
+  - /dingen/2022/04/16793/
 
 ---
 Lots of good bits about learning to write in this despite the weird formatting in Substack.

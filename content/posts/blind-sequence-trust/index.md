@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=3503
 parent_post_id: null
 post_id: "3503"
 title: Blind Sequence Trust
-url: /dingen/2012/04/blind-sequence-trust/
+aliases:
+  - /dingen/2012/04/blind-sequence-trust/
 
 ---
 De serie video's [Blind Sequence Trust](http://www.dam-berlin.de/mlExhibitions-pa-showpage-pid-1-newlang-english.html) van kunstenaar [Joan Leandre](http://www.kubasik.biz/) speelt in DAM nog tot en met 5 mei.

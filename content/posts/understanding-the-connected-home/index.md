@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5278
 parent_post_id: null
 post_id: "5278"
 title: Understanding the Connected Home
-url: /dingen/2015/09/understanding-the-connected-home/
+aliases:
+  - /dingen/2015/09/understanding-the-connected-home/
 
 ---
 The great [Peter](http://peterbihr.com/) and [Michelle](http://michellethorne.cc/) have written a book called [“Understanding the Connected Home”](http://theconnectedhome.org/) based on current developments around the topic and both of their professional interests.

@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15239
 parent_post_id: null
 post_id: "15239"
 title: ""
-url: /dingen/2019/03/15239/
+aliases:
+  - /dingen/2019/03/15239/
 
 ---
 Ilhan Omar is maybe even better than AOC. She definitely is more fearless.

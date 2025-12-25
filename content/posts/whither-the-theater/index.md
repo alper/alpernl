@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3131
 parent_post_id: null
 post_id: "3131"
 title: Whither the theater?
-url: /dingen/2012/01/whither-the-theater/
+aliases:
+  - /dingen/2012/01/whither-the-theater/
 
 ---
 Talking to two young theater makers yesterday, I remarked that the majority of the Dutch plays I see don't deliver the relevant and socially engaged experiences I would want them to. To which they asked why I still bothered going to the theater, a question I hear regularly from those in the more modern performing arts. They themselves hardly ever go and they make participatory theater, not the stage dramas that first come to mind. That is a response I get more often: that theater is boring, irrelevant and really **‘Why would anybody want to go?’**

@@ -11,7 +11,8 @@ tags:
   - leven
   - reading
 title: Boekenlijst
-url: /dingen/2008/01/boekenlijst/
+aliases:
+  - /dingen/2008/01/boekenlijst/
 
 ---
 Ik zat het einde van het jaar mijn lijstjes door te kijken en ik zag dat ik in 2007 maar vier (!) boeken heb gelezen. Dan zie je iemand als Aaronsw die er 70 consumeert en dat weinig vindt.

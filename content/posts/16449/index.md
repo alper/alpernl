@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16449
 parent_post_id: null
 post_id: "16449"
 title: ""
-url: /dingen/2021/03/16449/
+aliases:
+  - /dingen/2021/03/16449/
 
 ---
 Elon Musk proving that he’s a peddler of garbage and global destruction once again.

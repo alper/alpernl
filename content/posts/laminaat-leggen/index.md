@@ -7,7 +7,8 @@ post_id: "174"
 tags:
   - huis
 title: Laminaat leggen
-url: /dingen/2007/10/laminaat-leggen/
+aliases:
+  - /dingen/2007/10/laminaat-leggen/
 
 ---
 Lamineren is gek genoeg niet het werkwoord voor laminaat leggen. Vandaag wat uurtjes besteed aan het en het schiet aardig op. De eindjes zijn klote ((Ik heb ontzettend scheve muren.)) maar daar tussenin gaat het heel vlot.

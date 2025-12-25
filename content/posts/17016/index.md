@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=17016
 parent_post_id: null
 post_id: "17016"
 title: ""
-url: /dingen/2023/02/17016/
+aliases:
+  - /dingen/2023/02/17016/
 
 ---
 It's understandable that organizations try to make their word legible and simplify things. In fact, it's one of the reasons for the organizational boundary.

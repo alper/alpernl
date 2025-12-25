@@ -9,7 +9,8 @@ guid: https://alper.nl/dingen/?p=18366
 parent_post_id: null
 post_id: "18366"
 title: ""
-url: /dingen/2025/09/18366/
+aliases:
+  - /dingen/2025/09/18366/
 
 ---
 Github is over and many leading edge developers have already moved off or are seriously considering it.

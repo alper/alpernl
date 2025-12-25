@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=16093
 parent_post_id: null
 post_id: "16093"
 title: ""
-url: /dingen/2020/05/16093/
+aliases:
+  - /dingen/2020/05/16093/
 
 ---
 A very thorough overview of William Gibson's life and work which touches on a lot of familiar points. It reminds me that I should read Agency and makes me want to dive back and read the previous trilogies again.

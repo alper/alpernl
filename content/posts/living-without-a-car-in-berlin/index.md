@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15480
 parent_post_id: null
 post_id: "15480"
 title: Living without a car in Berlin
-url: /dingen/2019/06/living-without-a-car-in-berlin/
+aliases:
+  - /dingen/2019/06/living-without-a-car-in-berlin/
 
 ---
 [From a thread](https://www.reddit.com/r/berlin/comments/bv66jt/senatorin_will_zwangsbvgticket_f%C3%BCr_autofahrer/epnd77d/) about whether it is possible or not to live in Berlin without a car (gasp!). This is what a normal odd day of mine looks like.

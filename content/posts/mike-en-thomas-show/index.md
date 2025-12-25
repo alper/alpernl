@@ -9,7 +9,8 @@ tags:
   - muziek
   - televisie
 title: Mike en Thomas Show
-url: /dingen/2007/05/mike-en-thomas-show/
+aliases:
+  - /dingen/2007/05/mike-en-thomas-show/
 
 ---
 Ik zit nu op een oude Windows XP bak te werken met bijna niks erop geïnstalleerd. Ik kan met Firefox de meest belangrijke dingen online wel doen.

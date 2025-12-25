@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=16455
 parent_post_id: null
 post_id: "16455"
 title: ""
-url: /dingen/2021/03/16455/
+aliases:
+  - /dingen/2021/03/16455/
 
 ---
 The organizational debt listed here is more the norm than the exception and a lot of management is dealing with unnecessarily suboptimal circumstances.

@@ -12,7 +12,8 @@ tags:
   - tu-delft
   - universiteit
 title: Veranderingen ook in de e-mail
-url: /dingen/2007/09/veranderingen-ook-in-de-e-mail/
+aliases:
+  - /dingen/2007/09/veranderingen-ook-in-de-e-mail/
 
 ---
 Ik heb geen idee wanneer maar het lijkt me niet meer dan logisch dat mijn TU Delft e-mailadres binnenkort ophoudt met werken. Dus voor de duidelijkheid nooit meer dingen sturen naar **a.cugun@student.tudelft.nl** of **a.cugun@student.twi.tudelft.nl** of **a.cugun@ewi.tudelft.nl** of **a.cugun@elektron.its.tudelft.nl** en noem nog maar een boel aliassen voor hetzelfde adres op.

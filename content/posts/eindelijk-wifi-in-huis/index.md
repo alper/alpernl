@@ -11,7 +11,8 @@ tags:
   - huishoudelijk
   - internet
 title: Eindelijk WiFi in huis
-url: /dingen/2007/05/eindelijk-wifi-in-huis/
+aliases:
+  - /dingen/2007/05/eindelijk-wifi-in-huis/
 
 ---
 [![](http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg)](http://www.flickr.com/photos/alper/486973408/ "photo sharing")  

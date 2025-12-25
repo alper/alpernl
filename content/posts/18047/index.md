@@ -34,7 +34,8 @@ guid: https://alper.nl/dingen/?p=18047
 parent_post_id: null
 post_id: "18047"
 title: ""
-url: /dingen/2025/02/18047/
+aliases:
+  - /dingen/2025/02/18047/
 
 ---
 I enjoy James Stanier's newsletter on engineering management a lot. This one is about information processing in organizations, something which will make or break you.

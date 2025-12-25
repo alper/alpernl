@@ -11,7 +11,8 @@ post_id: "275"
 tags:
   - fotografie
 title: Idiote week
-url: /dingen/2008/03/idiote-week/
+aliases:
+  - /dingen/2008/03/idiote-week/
 
 ---
 Aan het herstellen van overvolle programma's op dinsdag, woensdag en donderdag deze week. Zo dinsdag avond om 22:30 aangekomen op het [Cultureel Centrum](http://snc.tudelft.nl) waar vrienden al een paar uur met flitsers, pocket wizards, softboxes en ander profi-spul zaten te spelen.

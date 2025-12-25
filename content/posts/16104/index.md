@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16104
 parent_post_id: null
 post_id: "16104"
 title: ""
-url: /dingen/2020/06/16104/
+aliases:
+  - /dingen/2020/06/16104/
 
 ---
 I was saddened by reading that Iepe, a Dutch fixture here in Berlin, had passed away suddenly and far too young.

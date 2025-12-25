@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=1286
 parent_post_id: null
 post_id: "1286"
 title: een stittie die stilstaat
-url: /dingen/2009/10/een-stittie-die-stilstaat/
+aliases:
+  - /dingen/2009/10/een-stittie-die-stilstaat/
 
 ---
 [Ramsey Nasr](http://www.ramseynasr.nl/) bewijst met zijn nieuwste gedicht ‘mi have een droom’ dat hij overduidelijk de beste Dichter des Vaderlands is die we ons maar hadden kunnen wensen:

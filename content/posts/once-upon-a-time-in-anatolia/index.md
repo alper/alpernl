@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5112
 parent_post_id: null
 post_id: "5112"
 title: Once Upon a Time in Anatolia
-url: /dingen/2015/01/once-upon-a-time-in-anatolia/
+aliases:
+  - /dingen/2015/01/once-upon-a-time-in-anatolia/
 
 ---
 [![anatoliablu00002](anatoliablu00002.jpg)](anatoliablu00002.jpg)

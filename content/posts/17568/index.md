@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17568
 parent_post_id: null
 post_id: "17568"
 title: ""
-url: /dingen/2024/08/17568/
+aliases:
+  - /dingen/2024/08/17568/
 
 ---
 Logitech already has a forever mouse. No need for an MBA CEO to reinvent the wheel.

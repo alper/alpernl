@@ -12,7 +12,8 @@ guid: http://alper.nl/dingen/?p=15183
 parent_post_id: null
 post_id: "15183"
 title: ""
-url: /dingen/2019/02/15183/
+aliases:
+  - /dingen/2019/02/15183/
 
 ---
 A very necessary housing revolution is underway in Berlin that has the potential to halt market forces that are running amok. After Barcelona, now Berlin. Who's next?

@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16846
 parent_post_id: null
 post_id: "16846"
 title: Highlights for The Ministry for the Future
-url: /dingen/2022/09/highlights-for-the-ministry-for-the-future/
+aliases:
+  - /dingen/2022/09/highlights-for-the-ministry-for-the-future/
 
 ---
 > In dealing with the poverty that still plagued so much of the Indian populace, the Indian government had had to create electricity as fast as they could, and also, since they existed in a world run by the market, as cheaply as they could. Otherwise outside investors would not invest, because the rate of return would not be high enough. So they had burned coal, yes. Like everyone else had up until just a few years before. Now India was being told not to burn coal, when everyone else had finished burning enough of it to build up the capital to afford to shift to cleaner sources of power. India had been told to get better without any financial help to do so whatsoever. Told to tighten the belt and embrace austerity, and be the working class for the bourgeoisie of the developed world, and suffer in silence until better times came— but the better times could never come, that plan was shot. The deck had been stacked, the game was over. And now twenty million people were dead.

@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=6028
 parent_post_id: null
 post_id: "6028"
 title: Highlights for Cracking the Tech Career
-url: /dingen/2018/08/highlights-for-cracking-the-tech-career/
+aliases:
+  - /dingen/2018/08/highlights-for-cracking-the-tech-career/
 
 ---
 > The best product managers, the best marketers, and the best developers have something in common: they each understand the others' roles.

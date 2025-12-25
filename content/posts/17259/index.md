@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17259
 parent_post_id: null
 post_id: "17259"
 title: ""
-url: /dingen/2023/08/17259/
+aliases:
+  - /dingen/2023/08/17259/
 
 ---
 It's hard to believe that it's going to cost €1.6B for Germany to hook up ChatGPT to their beloved fax machines.

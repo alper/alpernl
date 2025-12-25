@@ -36,7 +36,8 @@ post_id: "3932"
 tags:
   - weeknotes
 title: 'Week 290: projects finished, visa, JSconf'
-url: /dingen/2012/10/week-290-projects-finished-visa-jsconf/
+aliases:
+  - /dingen/2012/10/week-290-projects-finished-visa-jsconf/
 
 ---
 [![For every office its proximity to food (here 20 steps)](http://farm9.staticflickr.com/8173/8043010122_45c9385e6a.jpg)](http://www.flickr.com/photos/alper/8043010122/ "For every office its proximity to food (here 20 steps) by illustir, on Flickr")

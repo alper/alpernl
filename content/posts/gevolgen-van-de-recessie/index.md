@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=568
 parent_post_id: null
 post_id: "568"
 title: Gevolgen van de recessie
-url: /dingen/2008/11/gevolgen-van-de-recessie/
+aliases:
+  - /dingen/2008/11/gevolgen-van-de-recessie/
 
 ---
 Één van de voordelen van mijn huis in het hartje van Delft was het wonen op drie minuten lopen van een C1000 en drie minuten fietsen van een Albert Heijn.

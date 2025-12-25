@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17829
 parent_post_id: null
 post_id: "17829"
 title: ""
-url: /dingen/2024/12/17829/
+aliases:
+  - /dingen/2024/12/17829/
 
 ---
 [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)

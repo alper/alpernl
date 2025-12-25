@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16801
 parent_post_id: null
 post_id: "16801"
 title: ""
-url: /dingen/2022/05/16801/
+aliases:
+  - /dingen/2022/05/16801/
 
 ---
 > “People have 250 percent more meetings every day than they did before the pandemic,”

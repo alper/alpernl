@@ -19,7 +19,8 @@ post_id: "3885"
 tags:
   - weeknotes
 title: 'Week 288: settling in and Munich'
-url: /dingen/2012/09/week-288-settling-in-and-munich/
+aliases:
+  - /dingen/2012/09/week-288-settling-in-and-munich/
 
 ---
 [![Coffee station if anybody fancies a cup](http://farm9.staticflickr.com/8037/7999315903_dfd93d7736.jpg)](http://www.flickr.com/photos/alper/7999315903/ "Coffee station if anybody fancies a cup by illustir, on Flickr")

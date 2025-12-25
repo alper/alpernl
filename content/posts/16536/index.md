@@ -16,7 +16,8 @@ guid: https://alper.nl/dingen/?p=16536
 parent_post_id: null
 post_id: "16536"
 title: ""
-url: /dingen/2021/07/16536/
+aliases:
+  - /dingen/2021/07/16536/
 
 ---
 Foursquare is responsible for an inordinate amount of good times I've had, it still powers @cuppings and I'm still pleased that we got it to launch in Amsterdam as its first international city.

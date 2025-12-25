@@ -7,7 +7,8 @@ post_id: "152"
 tags:
   - klantenervaring
 title: Klantenondersteuning kan makkelijk verbeterd worden
-url: /dingen/2007/10/klantenondersteuning-kan-makkelijk-verbeterd-worden/
+aliases:
+  - /dingen/2007/10/klantenondersteuning-kan-makkelijk-verbeterd-worden/
 
 ---
 Ik ben net bezig wat dingen te regelen voor mijn nieuwe huis en de klantenervaring als je bedrijven opbelt kan eenvoudig verbeterd worden.

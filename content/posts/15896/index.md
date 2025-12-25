@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=15896
 parent_post_id: null
 post_id: "15896"
 title: ""
-url: /dingen/2019/11/15896/
+aliases:
+  - /dingen/2019/11/15896/
 
 ---
 German publications fail cyclists in all of the ways described here.

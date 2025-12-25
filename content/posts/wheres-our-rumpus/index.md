@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=1309
 parent_post_id: null
 post_id: "1309"
 title: Where's our rumpus?
-url: /dingen/2009/10/wheres-our-rumpus/
+aliases:
+  - /dingen/2009/10/wheres-our-rumpus/
 
 ---
 Taplin regularly writes that [the entertainment business is in crisis](http://jontaplin.com/2009/10/17/creative-destruction-hollywood-division/) because people outside of the USA are not willing to pay for their intellectual property.

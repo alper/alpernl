@@ -10,7 +10,8 @@ tags:
   - huis
   - movies
 title: Schilderen
-url: /dingen/2007/10/schilderen/
+aliases:
+  - /dingen/2007/10/schilderen/
 
 ---
 Vandaag het grootste deel van de dag besteed aan verfen in mijn nieuwe huis. Alles is nu gewit inclusief de imposante grote muur waarvan hieronder een filmpje:

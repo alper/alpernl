@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=17079
 parent_post_id: null
 post_id: "17079"
 title: ""
-url: /dingen/2023/02/17079/
+aliases:
+  - /dingen/2023/02/17079/
 
 ---
 One state, BW, in Germany took the opportunity with the reform of the property taxes to implement something like a Land Value Tax (at a very moderate 1.3â€° rate) and it is doing exactly what it should be doing.

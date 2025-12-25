@@ -35,7 +35,8 @@ guid: https://alper.nl/dingen/?p=18170
 parent_post_id: null
 post_id: "18170"
 title: ""
-url: /dingen/2025/03/18170/
+aliases:
+  - /dingen/2025/03/18170/
 
 ---
 Type level programming in Typescript has been driven to the point of pure absurdity by implementing a DOOM runtime on it to play the game with.

@@ -14,7 +14,8 @@ guid: https://alper.nl/dingen/?p=16469
 parent_post_id: null
 post_id: "16469"
 title: ""
-url: /dingen/2021/03/16469/
+aliases:
+  - /dingen/2021/03/16469/
 
 ---
 Marijn Bolhuis sums up the devastating effects that a decade of Rutte government has in the Netherlands but people keep electing him. It follows from this that Dutch people are a bunch of piggies.

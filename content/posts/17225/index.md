@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17225
 parent_post_id: null
 post_id: "17225"
 title: ""
-url: /dingen/2023/07/17225/
+aliases:
+  - /dingen/2023/07/17225/
 
 ---
 Some good insights in reading about Flipkart's popularity in India and how they achieved that.

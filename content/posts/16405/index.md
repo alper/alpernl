@@ -11,7 +11,8 @@ guid: https://alper.nl/dingen/?p=16405
 parent_post_id: null
 post_id: "16405"
 title: ""
-url: /dingen/2021/01/16405/
+aliases:
+  - /dingen/2021/01/16405/
 
 ---
 Emine is erg slim en dit moet dus een van de sterkere argumenten voor het dragen van een hoofddoek zijn. Ik vind het niet bijzonder overtuigend maar dat terzijde.

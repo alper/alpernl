@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16232
 parent_post_id: null
 post_id: "16232"
 title: ""
-url: /dingen/2020/08/16232/
+aliases:
+  - /dingen/2020/08/16232/
 
 ---
 > "The second thing is that there’s almost no watchable esport for a normal person. The real issue is that no one has actually made \[an esport\] that people like to play, that is fun to play, that is also remotely tolerable to watch for a normal person. They’re all baffling. I dare anyone to turn on Overwatch in front of a person and even explain what’s going on to them. The closest we’ve gotten \[to something watchable\] is Rocket League, because it’s just soccer."

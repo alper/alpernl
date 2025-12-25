@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=3982
 parent_post_id: null
 post_id: "3982"
 title: Monocle-isms
-url: /dingen/2012/11/monocle-isms/
+aliases:
+  - /dingen/2012/11/monocle-isms/
 
 ---
 I picked up a [Monocle](http://monocle.com/) at Sydney airport for a long flight without laptop (along with [a book](http://www.goodreads.com/book/show/7141642-the-thousand-autumns-of-jacob-de-zoet)) and I was a bit disappointed ((In retrospect I should have bought a New Yorker if they had them, but this was an impulse purchase and yes I too do aspire in a modest way.)) in finding that the magazine hadn't progressed much since I first read it years ago. It still is that strangely a-political collection of fluff pieces for the spendy class and because of the current realities of print publishing now also brimful of advertorials.

@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=2843
 parent_post_id: null
 post_id: "2843"
 title: De studio uit, de wereld in
-url: /dingen/2011/10/de-studio-uit-de-wereld-in/
+aliases:
+  - /dingen/2011/10/de-studio-uit-de-wereld-in/
 
 ---
 Ian Bogost, videogame-filosoof, publiceerde een tijdje geleden een kritiek op de geesteswetenschappen (http://bogost.com — “Beyond the Elbow-patched Playground”) die moeite hebben uit te leggen waar ze voor dienen ( [deel 1](http://www.bogost.com/blog/beyond_the_elbow-patched_playg.shtml)) en niet weten wat ze met het internet aan moeten ( [deel 2](http://www.bogost.com/blog/beyond_the_elbow-patched_playg_1.shtml)). Bogost rekent af met academici die zich afzonderen in de ondoordringbare vestingen van hun vakgebied en te weinig relevant zijn voor mensen daarbuiten. Bas Heijnes recent verschenen essay [‘Echt zien’](http://www.bol.com/nl/p/nederlandse-boeken/echt-zien/1001004006945732/index.html) past eenzelfde redenering toe op de ‘zieke’ roman. Het is nuttig om deze twee redeneringen tegen de kunst- en cultuursector aan te houden. Na de debatten heeft die zich teruggetrokken maar —het lijkt— geen echte lessen getrokken.

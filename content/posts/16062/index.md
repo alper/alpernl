@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=16062
 parent_post_id: null
 post_id: "16062"
 title: ""
-url: /dingen/2020/04/16062/
+aliases:
+  - /dingen/2020/04/16062/
 
 ---
 A useful article that slices the valuable insights in High Output Management for non-managers (tech leads, seniors, etc.).

@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5927
 parent_post_id: null
 post_id: "5927"
 title: Highlights for The Coaching Habit
-url: /dingen/2018/01/highlights-for-the-coaching-habit/
+aliases:
+  - /dingen/2018/01/highlights-for-the-coaching-habit/
 
 ---
 > When you use “And what else?”you’ll get more options and often better options. Better options lead to better decisions. Better decisions lead to greater success.

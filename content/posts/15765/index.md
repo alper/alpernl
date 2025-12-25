@@ -8,7 +8,8 @@ guid: http://alper.nl/dingen/?p=15765
 parent_post_id: null
 post_id: "15765"
 title: ""
-url: /dingen/2019/10/15765/
+aliases:
+  - /dingen/2019/10/15765/
 
 ---
 This indictment of WeWork en passant paraphrases the Innovator's Dilemma:

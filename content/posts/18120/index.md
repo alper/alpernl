@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18120
 parent_post_id: null
 post_id: "18120"
 title: ""
-url: /dingen/2025/02/18120/
+aliases:
+  - /dingen/2025/02/18120/
 
 ---
 So much car traffic is absolutely unnecessary which makes it all the more galling that we allow people to poison everybody else by doing it.

@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=5866
 parent_post_id: null
 post_id: "5866"
 title: Highlights from The Dispossessed
-url: /dingen/2017/11/highlights-from-the-dispossessed/
+aliases:
+  - /dingen/2017/11/highlights-from-the-dispossessed/
 
 ---
 > There were walls around all his thoughts.

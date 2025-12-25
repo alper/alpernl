@@ -10,7 +10,8 @@ guid: https://alper.nl/dingen/?p=17221
 parent_post_id: null
 post_id: "17221"
 title: ""
-url: /dingen/2023/07/17221/
+aliases:
+  - /dingen/2023/07/17221/
 
 ---
 Every time I mention slack time as one of the most important things for healthy engineering teams people look at me as if they're seeing water burning.

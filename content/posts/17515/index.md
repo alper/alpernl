@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17515
 parent_post_id: null
 post_id: "17515"
 title: ""
-url: /dingen/2024/03/17515/
+aliases:
+  - /dingen/2024/03/17515/
 
 ---
 The Netherlands is facing similar problems where depressed salaries, lack of housing and rampant overt racism are making it difficult to attract digital talent from all over the world.

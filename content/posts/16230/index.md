@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=16230
 parent_post_id: null
 post_id: "16230"
 title: ""
-url: /dingen/2020/08/16230/
+aliases:
+  - /dingen/2020/08/16230/
 
 ---
 Reading this account by the former COO Francoise Brougher, I'm disappointed to learn how badly Pinterest failed at Diversity and Inclusion.

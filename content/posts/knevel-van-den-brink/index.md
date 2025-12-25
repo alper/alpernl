@@ -7,7 +7,8 @@ post_id: "13"
 tags:
   - televisie
 title: Knevel & van den Brink
-url: /dingen/2007/04/knevel-van-den-brink/
+aliases:
+  - /dingen/2007/04/knevel-van-den-brink/
 
 ---
 Ik ben geen gigantische fan van [Pauw en Witteman](http://pauwenwitteman.vara.nl/) maar het is een solide talkshow en het doet het erg goed in hun timeslot. Mijn bezwaren zijn vooral dat het vaak te tam is, de gasten, de presentatoren en de vragen die gesteld worden.

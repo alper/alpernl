@@ -10,7 +10,8 @@ guid: http://alper.nl/dingen/?p=3316
 parent_post_id: null
 post_id: "3316"
 title: Amsterdam Culinary Desert
-url: /dingen/2012/02/amsterdam-culinary-desert/
+aliases:
+  - /dingen/2012/02/amsterdam-culinary-desert/
 
 ---
 I just read [the double interview in Amsterdam Weekly](http://www.stevekorver.com/writing/food-drink/talking-belly-to-belly-with-glutton-and-van-dam/) with Johannes van Dam and Undercover Glutton. It is a lovely interview and their combined knowledge of food is certainly impressive. What I am a bit less impressed with is their knowledge of metropolitan cuisine. At one point in the interview van Dam extolls the culinary variety in Amsterdam and there I must take offense. I have traversed the city far and wide and I have come up empty more often than not for many a dish. Eventually I gave up and moved to warmer culinary climes.

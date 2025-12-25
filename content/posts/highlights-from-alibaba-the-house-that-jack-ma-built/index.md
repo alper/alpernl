@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=5880
 parent_post_id: null
 post_id: "5880"
 title: 'Highlights from Alibaba: The House That Jack Ma Built'
-url: /dingen/2017/11/highlights-from-alibaba-the-house-that-jack-ma-built/
+aliases:
+  - /dingen/2017/11/highlights-from-alibaba-the-house-that-jack-ma-built/
 
 ---
 > The idea is that by sharing orders, delivery status, and customer feedback each member company can improve efficiency and service quality, while remaining separately owned.

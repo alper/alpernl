@@ -14,7 +14,8 @@ guid: http://alper.nl/dingen/?p=2253
 parent_post_id: null
 post_id: "2253"
 title: Tekst NRC.next-artikel openbaar vervoersgegevens
-url: /dingen/2010/10/tekst-nrc-next-artikel-openbaar-vervoersgegevens/
+aliases:
+  - /dingen/2010/10/tekst-nrc-next-artikel-openbaar-vervoersgegevens/
 
 ---
 Stukjes schrijven zonder hyperlinks erin is gek, maar dat komt erbij kijken als het op krantenpapier gedrukt moet worden. In ieder geval is vandaag een stuk van mij gepubliceerd op de opinie-pagina van de [nrc.next: “Dat moet toch beter kunnen? — Geef vervoersinformatie vrij](http://www.nrcnext.nl/).

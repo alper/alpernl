@@ -11,7 +11,8 @@ guid: http://alper.nl/dingen/?p=15228
 parent_post_id: null
 post_id: "15228"
 title: German podcast update
-url: /dingen/2019/03/german-podcast-update/
+aliases:
+  - /dingen/2019/03/german-podcast-update/
 
 ---
 I'm swapping out [Lage der Nation](https://www.kuechenstud.io/lagedernation/) whose popularity has led them to lose focus and believe in their own hype for [FAZ Einspruch](https://blogs.faz.net/einspruch/).

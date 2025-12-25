@@ -13,7 +13,8 @@ post_id: "2300"
 tags:
   - weeknotes
 title: Week 193
-url: /dingen/2010/11/week-193/
+aliases:
+  - /dingen/2010/11/week-193/
 
 ---
 I'm writing this sitting in a foggy Village Bagels in Amsterdam looking out onto the snowy streets. It's been a while, and things are different than they were a year ago.

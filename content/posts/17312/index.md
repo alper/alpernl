@@ -13,7 +13,8 @@ guid: https://alper.nl/dingen/?p=17312
 parent_post_id: null
 post_id: "17312"
 title: ""
-url: /dingen/2023/11/17312/
+aliases:
+  - /dingen/2023/11/17312/
 
 ---
 Finding time for side projects and putting out new versions of Cuppings is difficult as always, but I'm glad we have a new version out this week again.

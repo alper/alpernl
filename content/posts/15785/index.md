@@ -9,7 +9,8 @@ guid: http://alper.nl/dingen/?p=15785
 parent_post_id: null
 post_id: "15785"
 title: ""
-url: /dingen/2019/10/15785/
+aliases:
+  - /dingen/2019/10/15785/
 
 ---
 The rise of astrology apps is a kinda grim symptom of our current times.

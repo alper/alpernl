@@ -32,7 +32,8 @@ guid: https://alper.nl/dingen/?p=18051
 parent_post_id: null
 post_id: "18051"
 title: ""
-url: /dingen/2025/02/18051/
+aliases:
+  - /dingen/2025/02/18051/
 
 ---
 Even the most basic functions in foundational libraries can be iterated on and improved by reading papers and implementing novel algorithmic approaches. Here's a breakdown of how the `time` crate got faster (even though "no one has complained").
