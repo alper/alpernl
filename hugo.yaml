@@ -12,7 +12,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
-  showReadingTime: true
+  showReadingTime: false
   Toc: false
   showBreadCrumbs: true
   showCodeCopyButtons: true
