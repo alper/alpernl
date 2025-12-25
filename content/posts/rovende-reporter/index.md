@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-04-24T16:15:44+00:00"
-tags:
-  - internet
-  - journalistiek
 title: Rovende reporter
 aliases:
   - /dingen/2008/04/rovende-reporter/

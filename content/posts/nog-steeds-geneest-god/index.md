@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-05T22:34:44+00:00"
-tags:
-  - filosofie
-  - religie
 title: Nog steeds geneest God
 aliases:
   - /dingen/2007/08/nog-steeds-geneest-god/

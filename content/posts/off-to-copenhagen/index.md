@@ -4,8 +4,6 @@ categories:
   - english
   - travel
 date: "2008-06-26T00:48:04+00:00"
-tags:
-  - uncategorized
 title: Off to Copenhagen
 aliases:
   - /dingen/2008/06/off-to-copenhagen/

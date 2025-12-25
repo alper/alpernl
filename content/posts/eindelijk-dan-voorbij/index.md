@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-07-18T22:03:31+00:00"
-tags:
-  - afstuderen
-  - reizen
-  - tu-delft
-  - universiteit
 title: Eindelijk dan voorbij?
 aliases:
   - /dingen/2007/07/eindelijk-dan-voorbij/

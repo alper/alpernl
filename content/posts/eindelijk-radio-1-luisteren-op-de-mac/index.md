@@ -9,9 +9,6 @@ enclosure: |-
   http://mp3.streampower.be/stubru-high.mp3?rand=644
   0
   audio/mpeg
-tags:
-  - internet
-  - radio
 title: Eindelijk Radio 1 luisteren op de Mac
 aliases:
   - /dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/

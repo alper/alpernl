@@ -6,8 +6,6 @@ categories:
   - travel
   - work
 date: "2012-10-26T03:46:09+00:00"
-tags:
-  - weeknotes
 title: 'Week 292: Ignite, GSL, pre-trip prep'
 aliases:
   - /dingen/2012/10/week-292-ignite-gsl-pre-trip-prep/

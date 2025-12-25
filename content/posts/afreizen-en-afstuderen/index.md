@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-11T23:05:29+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: Afreizen en afstuderen
 aliases:
   - /dingen/2007/09/afreizen-en-afstuderen/

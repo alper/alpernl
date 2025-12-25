@@ -6,8 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-03-22T12:46:32+00:00"
-tags:
-  - weeknotes
 title: Week 209
 aliases:
   - /dingen/2011/03/week-209/

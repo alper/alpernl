@@ -6,8 +6,6 @@ categories:
   - travel
   - work
 date: "2012-11-19T17:40:11+00:00"
-tags:
-  - weeknotes
 title: 'Week 296: Back in Europe/business'
 aliases:
   - /dingen/2012/11/week-296-back-in-europebusiness/

@@ -4,9 +4,6 @@ categories:
   - berlin
   - internet
 date: "2007-11-05T01:03:23+00:00"
-tags:
-  - internet
-  - movies
 title: Vandaar die hoed
 aliases:
   - /dingen/2007/11/vandaar-die-hoed/

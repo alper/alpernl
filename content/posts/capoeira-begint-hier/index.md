@@ -3,8 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-05-25T14:43:44+00:00"
-tags:
-  - weekend
 title: Capoeira begint hier
 aliases:
   - /dingen/2007/05/capoeira-begint-hier/

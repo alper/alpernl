@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-05-01T09:50:10+00:00"
-tags:
-  - drinken
-  - feest
-  - fotografie
-  - muziek
 title: Leuke dingen voor Koninginnedag
 aliases:
   - /dingen/2007/05/leuke-dingen-voor-koninginnedag/

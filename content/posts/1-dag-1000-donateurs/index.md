@@ -5,8 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-10-22T08:46:08+00:00"
-tags:
-  - 1dag1000donateurs
 title: 1 Dag — 1000 Donateurs
 aliases:
   - /dingen/2010/10/1-dag-1000-donateurs/

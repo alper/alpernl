@@ -4,8 +4,6 @@ categories:
   - english
   - open-state
 date: "2013-04-06T19:15:29+00:00"
-tags:
-  - weeknotes
 title: Week 315
 aliases:
   - /dingen/2013/04/week-315/

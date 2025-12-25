@@ -3,10 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2008-01-15T16:38:32+00:00"
-tags:
-  - berlijn
-  - computers
-  - reizen
 title: Ein Berliner
 aliases:
   - /dingen/2008/01/ein-berliner/

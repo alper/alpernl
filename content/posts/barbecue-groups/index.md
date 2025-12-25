@@ -6,11 +6,6 @@ categories:
   - english
   - photography
 date: "2008-06-11T06:53:52+00:00"
-tags:
-  - barbecue
-  - group
-  - photography
-  - uncategorized
 title: Barbecue Groups
 aliases:
   - /dingen/2008/06/barbecue-groups/

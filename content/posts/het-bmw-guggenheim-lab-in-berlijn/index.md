@@ -5,8 +5,6 @@ categories:
   - nederlands
   - the-city
 date: "2012-08-17T12:43:23+00:00"
-tags:
-  - cityjerk
 title: Het BMW Guggenheim Lab in Berlijn
 aliases:
   - /dingen/2012/08/het-bmw-guggenheim-lab-in-berlijn/

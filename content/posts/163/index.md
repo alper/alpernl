@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-20T11:12:41+00:00"
-tags:
-  - fotografie
-  - politiek
 title: Â¡Viva la revolucion!
 aliases:
   - /dingen/2007/10/163/

@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2009-02-11T01:42:35+00:00"
-tags:
-  - ervaring
-  - interactie
-  - klantenervaring
-  - koffie
 title: Fantastisch design maar toch niet geslaagd
 aliases:
   - /dingen/2007/07/fantastisch-design-maar-toch-niet-geslaagd/

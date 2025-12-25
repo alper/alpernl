@@ -3,11 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-04-26T08:39:40+00:00"
-tags:
-  - burgerrechten
-  - copyright
-  - internet
-  - politiek
 title: Heldere standpunten over copyright in Noorwegen
 aliases:
   - /dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/

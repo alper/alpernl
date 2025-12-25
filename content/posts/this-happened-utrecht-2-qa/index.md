@@ -5,9 +5,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2009-02-27T12:56:19+00:00"
-tags:
-  - thishappened-utrecht-0209
-  - thishappened-utrecht-2
 title: 'This Happened Utrecht #2 - Q&A'
 aliases:
   - /dingen/2009/02/this-happened-utrecht-2-qa/

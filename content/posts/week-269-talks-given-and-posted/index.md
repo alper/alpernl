@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-17T15:47:04+00:00"
-tags:
-  - weeknotes
 title: 'Week 269: Talks given and posted'
 aliases:
   - /dingen/2012/05/week-269-talks-given-and-posted/

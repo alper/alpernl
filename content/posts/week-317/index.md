@@ -6,8 +6,6 @@ categories:
   - travel
   - work
 date: "2013-04-21T19:25:38+00:00"
-tags:
-  - weeknotes
 title: Week 317
 aliases:
   - /dingen/2013/04/week-317/

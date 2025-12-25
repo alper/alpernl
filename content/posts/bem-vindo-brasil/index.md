@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-23T02:09:33+00:00"
-tags:
-  - berlijn
-  - fotografie
 title: Bem vindo Brasil
 aliases:
   - /dingen/2008/01/bem-vindo-brasil/

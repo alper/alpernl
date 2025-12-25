@@ -3,11 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-05-13T20:20:53+00:00"
-tags:
-  - apple
-  - klantenervaring
-  - macbook
-  - reading
 title: Macbook ingeleverd
 aliases:
   - /dingen/2007/05/macbook-ingeleverd/

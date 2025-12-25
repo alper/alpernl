@@ -3,8 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-30T00:54:21+00:00"
-tags:
-  - reading
 title: Leeslijsten
 aliases:
   - /dingen/2008/01/leeslijsten/

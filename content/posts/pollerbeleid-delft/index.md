@@ -4,12 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-11-10T11:26:13+00:00"
-tags:
-  - auto
-  - binnenstad
-  - delft
-  - parkeerbeleid
-  - poller
 title: Pollerbeleid Delft
 aliases:
   - /dingen/2008/11/pollerbeleid-delft/

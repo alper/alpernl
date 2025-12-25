@@ -5,8 +5,6 @@ categories:
   - travel
   - work
 date: "2013-03-16T12:23:39+00:00"
-tags:
-  - weeknotes
 title: Week 312
 aliases:
   - /dingen/2013/03/week-312/

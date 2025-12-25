@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-16T20:02:15+00:00"
-tags:
-  - afstuderen
-  - politiek
 title: Prioriteit bij het onderwijs
 aliases:
   - /dingen/2007/10/prioriteit-bij-het-onderwijs/

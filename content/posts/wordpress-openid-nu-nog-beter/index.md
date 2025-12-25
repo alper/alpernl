@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-12-12T20:17:08+00:00"
-tags:
-  - huishoudelijk
-  - informatie
-  - internet
 title: Wordpress openid nu nog beter
 aliases:
   - /dingen/2007/11/wordpress-openid-nu-nog-beter/

@@ -5,8 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-01-08T07:45:12+00:00"
-tags:
-  - nrcnext
 title: 'Recensie nrc.next: Where Is My Heart?'
 aliases:
   - /dingen/2013/01/recensie-nrc-next-where-is-my-heart/

@@ -7,8 +7,6 @@ categories:
   - open-state
   - travel
 date: "2013-05-08T13:26:34+00:00"
-tags:
-  - weeknotes
 title: Week 318
 aliases:
   - /dingen/2013/05/week-318/

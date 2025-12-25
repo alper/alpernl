@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-12-10T15:20:41+00:00"
-tags:
-  - weeknotes
 title: 'Week 299: Moscow and sake release'
 aliases:
   - /dingen/2012/12/week-299-moscow-and-sake-release/

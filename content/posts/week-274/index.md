@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-06-19T07:45:47+00:00"
-tags:
-  - weeknotes
 title: 'Week 274: programming for n00bs, meetups, matches and hackathons'
 aliases:
   - /dingen/2012/06/week-274/

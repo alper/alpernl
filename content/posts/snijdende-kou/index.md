@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-20T07:25:13+00:00"
-tags:
-  - huis
-  - milieu
 title: Snijdende kou
 aliases:
   - /dingen/2007/12/snijdende-kou/

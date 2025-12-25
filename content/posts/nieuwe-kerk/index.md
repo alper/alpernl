@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-11-24T15:54:53+00:00"
-tags:
-  - fotografie
-  - huis
 title: Nieuwe Kerk
 aliases:
   - /dingen/2007/11/nieuwe-kerk/

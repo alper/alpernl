@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - politics
 date: "2009-02-04T20:23:38+00:00"
-tags:
-  - ukgc09
 title: Guidelines for government data
 aliases:
   - /dingen/2009/02/guidelines-for-government-data/

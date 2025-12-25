@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-06-10T21:56:13+00:00"
-tags:
-  - weeknotes
 title: 'Week 273: Objects, Hack de Overheid, Copenhagen, European Data Forum, Linked Data, Metropolis Lab, all new Foursquare'
 aliases:
   - /dingen/2012/06/week-273/

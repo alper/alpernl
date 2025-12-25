@@ -5,18 +5,6 @@ categories:
   - internet
   - monster-swell
 date: "2010-03-30T15:37:44+00:00"
-tags:
-  - coworker.nl
-  - coworking
-  - freelance
-  - geodata
-  - google
-  - google-map
-  - map
-  - noma
-  - uncategorized
-  - visualization
-  - webworker
 title: Coworker.nl — Map of coworking spots in the Netherlands
 aliases:
   - /dingen/2008/08/coworkernl-—-map-of-coworking-spots-in-the-netherlands/

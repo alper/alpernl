@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - travel
 date: "2012-12-28T07:57:38+00:00"
-tags:
-  - weeknotes
 title: 'Week 301: a flurry of appointments in Amsterdam'
 aliases:
   - /dingen/2012/12/week-301-a-flurry-of-appointments-in-amsterdam/

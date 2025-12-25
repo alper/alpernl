@@ -6,8 +6,6 @@ categories:
   - photography
   - travel
 date: "2008-07-27T11:15:40+00:00"
-tags:
-  - uncategorized
 title: Normal service
 aliases:
   - /dingen/2008/07/normal-service/

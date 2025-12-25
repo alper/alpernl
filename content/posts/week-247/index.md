@@ -7,8 +7,6 @@ categories:
   - reading
   - work
 date: "2011-12-11T17:49:26+00:00"
-tags:
-  - weeknotes
 title: Week 247
 aliases:
   - /dingen/2011/12/week-247/

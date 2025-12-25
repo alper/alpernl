@@ -4,13 +4,6 @@ categories:
   - internet
   - uncategorized
 date: "2007-08-01T14:33:26+00:00"
-tags:
-  - computers
-  - internet
-  - mobiel
-  - ondernemen
-  - overheid
-  - uncategorized
 title: Marktfalen in de telecom
 aliases:
   - /dingen/2007/08/marktfalen-in-de-telecom/

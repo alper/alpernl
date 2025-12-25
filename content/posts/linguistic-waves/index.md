@@ -4,8 +4,6 @@ categories:
   - english
   - internet
 date: "2008-07-11T11:00:28+00:00"
-tags:
-  - uncategorized
 title: Linguistic Waves
 aliases:
   - /dingen/2008/07/linguistic-waves/

@@ -5,8 +5,6 @@ categories:
   - english
   - travel
 date: "2013-08-26T07:15:32+00:00"
-tags:
-  - weeknotes
 title: Week 332
 aliases:
   - /dingen/2013/08/week-332/

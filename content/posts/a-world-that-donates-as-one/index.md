@@ -3,17 +3,6 @@ author: alper
 categories:
   - english
 date: "2008-07-31T15:10:56+00:00"
-tags:
-  - campaign
-  - donations
-  - ecb
-  - elections
-  - europe
-  - finance
-  - indecision-2008
-  - obama
-  - trichet
-  - uncategorized
 title: A World That Donates As One
 aliases:
   - /dingen/2008/07/a-world-that-donates-as-one/

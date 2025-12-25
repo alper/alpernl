@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-12-17T06:56:08+00:00"
-tags:
-  - trein
 title: Rotterdam vroeg
 aliases:
   - /dingen/2007/12/rotterdam-vroeg/

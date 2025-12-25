@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-11-04T05:32:38+00:00"
-tags:
-  - huis
 title: Laminaat leggen
 aliases:
   - /dingen/2007/10/laminaat-leggen/

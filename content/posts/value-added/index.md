@@ -3,15 +3,6 @@ author: alper
 categories:
   - english
 date: "2008-06-20T00:44:23+00:00"
-tags:
-  - btw
-  - death
-  - economy
-  - politics
-  - society
-  - taxes
-  - uncategorized
-  - vat
 title: Value Added
 aliases:
   - /dingen/2008/06/value-added/

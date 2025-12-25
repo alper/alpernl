@@ -7,12 +7,6 @@ categories:
   - product-/-design
   - video
 date: "2008-06-16T01:12:46+00:00"
-tags:
-  - gis
-  - google-earth
-  - uncategorized
-  - visualization
-  - workshop
 title: Workshop session on geodata visualization
 aliases:
   - /dingen/2008/06/workshop-session-on-geodata-visualization/

@@ -3,10 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-06-27T20:25:30+00:00"
-tags:
-  - eelke-dekker
-  - movies
-  - tu-delft
 title: A bag fitting for your life
 aliases:
   - /dingen/2007/06/a-bag-fitting-for-your-life/

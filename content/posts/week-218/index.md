@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2011-05-29T16:04:10+00:00"
-tags:
-  - weeknotes
 title: Week 218
 aliases:
   - /dingen/2011/05/week-218/

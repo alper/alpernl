@@ -6,10 +6,6 @@ categories:
   - english
   - photography
 date: "2008-06-12T07:02:47+00:00"
-tags:
-  - capoeira
-  - photography
-  - uncategorized
 title: Some capoeira pictures
 aliases:
   - /dingen/2008/06/some-capoeira-pictures/

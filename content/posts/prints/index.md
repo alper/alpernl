@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-06-25T22:27:26+00:00"
-tags:
-  - fotografie
 title: Prints
 aliases:
   - /dingen/2007/06/prints/

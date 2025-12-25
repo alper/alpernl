@@ -4,8 +4,6 @@ categories:
   - english
   - monster-swell
 date: "2011-12-14T14:02:28+00:00"
-tags:
-  - weeknotes
 title: Week 246
 aliases:
   - /dingen/2011/12/week-246/

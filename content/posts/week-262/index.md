@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-29T16:59:40+00:00"
-tags:
-  - weeknotes
 title: 'Week 262: native iPhone development, gentrification clashes, Fraunhofer, Deutsches Theater and fixie riding'
 aliases:
   - /dingen/2012/03/week-262/

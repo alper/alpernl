@@ -3,8 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-08-05T23:20:20+00:00"
-tags:
-  - movies
 title: Extreem matige score
 aliases:
   - /dingen/2007/08/extreem-matige-score/

@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-03-23T17:45:38+00:00"
-tags:
-  - werken
-  - zelfstandig
 title: Wageningen met de Mexicaan
 aliases:
   - /dingen/2008/03/wageningen-met-de-mexicaan/

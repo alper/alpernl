@@ -3,10 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-28T23:30:53+00:00"
-tags:
-  - leven
-  - reading
-  - universiteit
 title: Autodidact
 aliases:
   - /dingen/2008/01/autodidact/

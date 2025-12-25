@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-21T02:49:25+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: Afstanden van de zomer
 aliases:
   - /dingen/2007/10/afstanden-van-de-zomer/

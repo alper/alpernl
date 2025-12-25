@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-27T23:36:53+00:00"
-tags:
-  - internet
-  - reizen
 title: JavaONE Afterglow - Desktop Java
 aliases:
   - /dingen/2007/06/javaone-afterglow-desktop-java/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-12T03:10:30+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: Het gras is altijd groener
 aliases:
   - /dingen/2007/09/het-gras-is-altijd-groener/

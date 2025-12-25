@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-09-27T21:05:26+00:00"
-tags:
-  - afstuderen
-  - leven
-  - ondernemen
 title: Kleine updates grote stappen
 aliases:
   - /dingen/2007/09/kleine-updates-grote-stappen/

@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2013-02-21T07:55:29+00:00"
-tags:
-  - weeknotes
 title: Week 309
 aliases:
   - /dingen/2013/02/week-309/

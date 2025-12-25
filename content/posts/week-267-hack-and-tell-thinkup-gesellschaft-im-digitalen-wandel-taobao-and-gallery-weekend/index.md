@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-04T07:46:51+00:00"
-tags:
-  - weeknotes
 title: 'Week 267: Hack and Tell, Thinkup, Gesellschaft im digitalen Wandel, Taobao and Gallery Weekend'
 aliases:
   - /dingen/2012/05/week-267-hack-and-tell-thinkup-gesellschaft-im-digitalen-wandel-taobao-and-gallery-weekend/

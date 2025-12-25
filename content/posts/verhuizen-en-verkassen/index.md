@@ -3,8 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-30T21:04:13+00:00"
-tags:
-  - uncategorized
 title: Verhuizen en verkassen
 aliases:
   - /dingen/2007/10/verhuizen-en-verkassen/

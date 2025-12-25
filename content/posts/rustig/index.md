@@ -3,10 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-06-09T14:14:07+00:00"
-tags:
-  - fotografie
-  - tu-delft
-  - universiteit
 title: Rustig
 aliases:
   - /dingen/2007/06/rustig/

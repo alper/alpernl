@@ -5,8 +5,6 @@ categories:
   - internet
   - open-state
 date: "2013-06-05T15:51:16+00:00"
-tags:
-  - weeknotes
 title: Week 322
 aliases:
   - /dingen/2013/06/week-322/

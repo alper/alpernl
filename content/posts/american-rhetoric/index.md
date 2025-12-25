@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-04T15:44:31+00:00"
-tags:
-  - amerika
-  - politiek
 title: American Rhetoric
 aliases:
   - /dingen/2008/01/american-rhetoric/

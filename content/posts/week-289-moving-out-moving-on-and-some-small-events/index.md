@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-10-02T09:36:24+00:00"
-tags:
-  - weeknotes
 title: 'Week 289: moving out, moving on and some small events'
 aliases:
   - /dingen/2012/10/week-289-moving-out-moving-on-and-some-small-events/

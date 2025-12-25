@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-12T13:37:09+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: Het verkeer in SyriÃ« is gekkenwerk
 aliases:
   - /dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/

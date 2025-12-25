@@ -4,12 +4,6 @@ categories:
   - capoeira
   - english
 date: "2008-08-20T21:17:05+00:00"
-tags:
-  - camping
-  - capoeira
-  - photography
-  - uncategorized
-  - wapse
 title: Capoeira Development
 aliases:
   - /dingen/2008/08/capoeira-development/

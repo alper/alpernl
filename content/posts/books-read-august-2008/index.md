@@ -4,8 +4,6 @@ categories:
   - english
   - reading
 date: "2008-09-03T08:25:36+00:00"
-tags:
-  - reading
 title: Books read August 2008
 aliases:
   - /dingen/2008/09/books-read-august-2008/

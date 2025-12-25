@@ -4,11 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-03-26T15:00:21+00:00"
-tags:
-  - amerika
-  - obama
-  - politiek
-  - verkiezingen
 title: Een perfectere samenleving
 aliases:
   - /dingen/2008/03/een-perfectere-samenleving/

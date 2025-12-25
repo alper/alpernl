@@ -5,12 +5,6 @@ categories:
   - english
   - photography
 date: "2008-06-08T15:35:08+00:00"
-tags:
-  - delft
-  - photography
-  - street
-  - theatre
-  - uncategorized
 title: Mooi Weer Spelen
 aliases:
   - /dingen/2008/06/mooi-weer-spelen/

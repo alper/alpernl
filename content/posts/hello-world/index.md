@@ -1,9 +1,6 @@
 ---
 author: admin
 date: "2007-04-12T13:06:06+00:00"
-tags:
-  - blog
-  - huishoudelijk
 title: Nieuw blog
 aliases:
   - /dingen/2007/04/hello-world/

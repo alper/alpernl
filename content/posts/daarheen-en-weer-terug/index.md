@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-03T20:12:39+00:00"
-tags:
-  - fotografie
-  - reizen
 title: Daarheen en weer terug
 aliases:
   - /dingen/2007/06/daarheen-en-weer-terug/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-09T21:35:09+00:00"
-tags:
-  - koken
-  - recept
 title: 'Recept: "Sin City" Ontbijttaco''s door Robert Rodriguez'
 aliases:
   - /dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/

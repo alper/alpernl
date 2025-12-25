@@ -5,8 +5,6 @@ categories:
   - travel
   - work
 date: "2013-05-13T12:32:22+00:00"
-tags:
-  - weeknotes
 title: Week 320
 aliases:
   - /dingen/2013/05/week-320/

@@ -4,12 +4,6 @@ categories:
   - english
   - monster-swell
 date: "2008-09-08T14:50:15+00:00"
-tags:
-  - json
-  - open-data
-  - public-transportation
-  - travel-times
-  - visualization
 title: Playing with Public (Transportation) Data
 aliases:
   - /dingen/2008/09/playing-with-public-transportation-data/

@@ -5,8 +5,6 @@ categories:
   - nederlands
   - work
 date: "2012-08-28T07:52:13+00:00"
-tags:
-  - weeknotes
 title: 'Week 284: New beginnings, Campus Party'
 aliases:
   - /dingen/2012/08/week-284-new-beginnings-campus-party/

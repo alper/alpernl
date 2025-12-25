@@ -5,8 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-06-06T15:16:28+00:00"
-tags:
-  - uncategorized
 title: Clinic Middag
 aliases:
   - /dingen/2008/06/clinic-middag/

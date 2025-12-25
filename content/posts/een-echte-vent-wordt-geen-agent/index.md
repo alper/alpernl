@@ -3,10 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-07-14T14:51:49+00:00"
-tags:
-  - burgerrechten
-  - movies
-  - overheid
 title: Een echte vent wordt geen agent
 aliases:
   - /dingen/2007/07/een-echte-vent-wordt-geen-agent/

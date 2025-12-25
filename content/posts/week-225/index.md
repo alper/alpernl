@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2011-07-11T15:00:46+00:00"
-tags:
-  - weeknotes
 title: Week 225
 aliases:
   - /dingen/2011/07/week-225/

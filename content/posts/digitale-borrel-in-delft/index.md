@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-04-22T11:42:28+00:00"
-tags:
-  - evenement
 title: Digitale Borrel in Delft
 aliases:
   - /dingen/2007/04/digitale-borrel-in-delft/

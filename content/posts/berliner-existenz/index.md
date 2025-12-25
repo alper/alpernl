@@ -3,11 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2007-11-13T01:57:08+00:00"
-tags:
-  - berlijn
-  - fotografie
-  - leven
-  - reizen
 title: Berliner Existenz
 aliases:
   - /dingen/2007/11/berliner-existenz/

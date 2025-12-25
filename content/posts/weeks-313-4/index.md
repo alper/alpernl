@@ -6,8 +6,6 @@ categories:
   - open-state
   - travel
 date: "2013-03-25T12:27:03+00:00"
-tags:
-  - weeknotes
 title: Weeks 313-4
 aliases:
   - /dingen/2013/03/weeks-313-4/

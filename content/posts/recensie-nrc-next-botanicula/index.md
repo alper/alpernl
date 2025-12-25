@@ -5,8 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-01-01T07:25:59+00:00"
-tags:
-  - nrcnext
 title: 'Recensie nrc.next: Botanicula'
 aliases:
   - /dingen/2013/01/recensie-nrc-next-botanicula/

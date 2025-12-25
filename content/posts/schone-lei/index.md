@@ -5,13 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-05-14T11:23:24+00:00"
-tags:
-  - architecture
-  - delft
-  - dut
-  - fire
-  - tudelft
-  - universiteit
 title: Schone lei
 aliases:
   - /dingen/2008/05/schone-lei/

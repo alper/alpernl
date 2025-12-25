@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-04-11T20:02:02+00:00"
-tags:
-  - leven
-  - werken
 title: Résumé de la semaine
 aliases:
   - /dingen/2008/04/resume-de-la-semaine/

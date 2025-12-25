@@ -3,11 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-05-20T11:10:59+00:00"
-tags:
-  - evenement
-  - feest
-  - fotografie
-  - weekend
 title: Weekend met veel dingen
 aliases:
   - /dingen/2007/05/weekend-met-veel-dingen/

@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-18T17:36:26+00:00"
-tags:
-  - weeknotes
 title: 'Week 260: books, games, keynotes and Koolhaas'
 aliases:
   - /dingen/2012/03/week-260/

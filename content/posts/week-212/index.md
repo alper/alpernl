@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - product-/-design
 date: "2011-04-12T00:06:02+00:00"
-tags:
-  - weeknotes
 title: Week 212
 aliases:
   - /dingen/2011/04/week-212/

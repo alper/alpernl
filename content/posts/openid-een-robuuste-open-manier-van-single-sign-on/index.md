@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-08-05T23:21:05+00:00"
-tags:
-  - computers
-  - internet
 title: OpenID een robuuste open manier van Single Sign On
 aliases:
   - /dingen/2007/07/openid-een-robuuste-open-manier-van-single-sign-on/

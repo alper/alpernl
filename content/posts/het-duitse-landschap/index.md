@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-20T18:32:00+00:00"
-tags:
-  - fotografie
-  - reizen
 title: Het Duitse landschap
 aliases:
   - /dingen/2008/01/het-duitse-landschap/

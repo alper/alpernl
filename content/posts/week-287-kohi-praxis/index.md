@@ -6,8 +6,6 @@ categories:
   - internet
   - work
 date: "2012-09-17T16:21:58+00:00"
-tags:
-  - weeknotes
 title: 'Week 287: kohi, praxis'
 aliases:
   - /dingen/2012/09/week-287-kohi-praxis/

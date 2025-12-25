@@ -3,8 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-11-13T23:42:03+00:00"
-tags:
-  - reizen
 title: Rustig na weggeweest te zijn
 aliases:
   - /dingen/2007/11/rustig-na-weggeweest-te-zijn/

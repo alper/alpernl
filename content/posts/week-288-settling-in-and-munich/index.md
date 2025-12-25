@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-09-28T08:07:02+00:00"
-tags:
-  - weeknotes
 title: 'Week 288: settling in and Munich'
 aliases:
   - /dingen/2012/09/week-288-settling-in-and-munich/

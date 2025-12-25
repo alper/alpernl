@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2009-05-19T13:36:14+00:00"
-tags:
-  - drinken
-  - eten
 title: No more bagels
 aliases:
   - /dingen/2007/12/no-more-bagels/

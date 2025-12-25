@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-04-17T12:25:23+00:00"
-tags:
-  - leven
-  - werken
 title: Tempo
 aliases:
   - /dingen/2008/04/tempo/

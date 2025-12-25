@@ -3,8 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2008-02-04T23:59:58+00:00"
-tags:
-  - fotografie
 title: Nieuwe truien
 aliases:
   - /dingen/2008/02/nieuwe-truien/

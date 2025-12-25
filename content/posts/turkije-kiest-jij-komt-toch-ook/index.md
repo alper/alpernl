@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-07-22T22:55:37+00:00"
-tags:
-  - journalistiek
-  - politiek
-  - reizen
 title: Turkije kiest - Jij komt toch ook?
 aliases:
   - /dingen/2007/07/turkije-kiest-jij-komt-toch-ook/

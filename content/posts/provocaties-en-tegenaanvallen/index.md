@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-01T08:17:09+00:00"
-tags:
-  - oorlog
-  - politiek
 title: Provocaties en tegenaanvallen
 aliases:
   - /dingen/2007/10/provocaties-en-tegenaanvallen/

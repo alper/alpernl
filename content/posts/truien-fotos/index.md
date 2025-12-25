@@ -3,8 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2008-02-09T12:38:06+00:00"
-tags:
-  - fotografie
 title: Truien foto's
 aliases:
   - /dingen/2008/02/truien-fotos/

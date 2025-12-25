@@ -4,8 +4,6 @@ categories:
   - delft
   - english
 date: "2008-07-27T11:57:04+00:00"
-tags:
-  - uncategorized
 title: Wireless typing
 aliases:
   - /dingen/2008/07/wireless-typing/

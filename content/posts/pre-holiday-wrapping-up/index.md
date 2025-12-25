@@ -5,12 +5,6 @@ categories:
   - english
   - photography
 date: "2008-07-11T10:51:46+00:00"
-tags:
-  - france
-  - holiday
-  - iphone
-  - surfing
-  - uncategorized
 title: Pre holiday wrapping up
 aliases:
   - /dingen/2008/07/pre-holiday-wrapping-up/

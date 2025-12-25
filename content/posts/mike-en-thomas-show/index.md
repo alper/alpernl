@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-05-10T21:40:14+00:00"
-tags:
-  - humor
-  - muziek
-  - televisie
 title: Mike en Thomas Show
 aliases:
   - /dingen/2007/05/mike-en-thomas-show/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-20T18:20:27+00:00"
-tags:
-  - eten
-  - huis
 title: Koele spullen
 aliases:
   - /dingen/2008/01/koele-spullen/

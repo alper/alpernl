@@ -7,8 +7,6 @@ enclosure: |-
   http://harpercoln.vo.llnwd.net/o16/StudyInEmerald_full.mp3
   71515642
   audio/mpeg
-tags:
-  - reading
 title: Een studie in smaragd
 aliases:
   - /dingen/2008/01/een-studie-in-smaragd/

@@ -4,9 +4,6 @@ categories:
   - capoeira
   - internet
 date: "2007-07-11T12:15:40+00:00"
-tags:
-  - fotografie
-  - internet
 title: Capoeira sites
 aliases:
   - /dingen/2007/07/capoeira-sites/

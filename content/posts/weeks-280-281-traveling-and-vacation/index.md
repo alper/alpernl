@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - travel
 date: "2012-08-10T16:38:57+00:00"
-tags:
-  - weeknotes
 title: 'Weeks 280-281: Traveling and vacation'
 aliases:
   - /dingen/2012/08/weeks-280-281-traveling-and-vacation/

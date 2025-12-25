@@ -4,18 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-05-08T13:55:43+00:00"
-tags:
-  - afghanistan
-  - arnold-karskens
-  - delft
-  - journalism
-  - lecture
-  - oorlogsverslaggeving
-  - overheid
-  - politiek
-  - reporting
-  - taliban
-  - war
 title: "“I am not in the business of being liked.â€\x9D"
 aliases:
   - /dingen/2008/05/“i-am-not-in-the-business-of-being-liked”/

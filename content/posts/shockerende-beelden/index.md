@@ -7,11 +7,6 @@ enclosure: |-
   http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.wmv
   222896333
   video/x-ms-wmv
-tags:
-  - filosofie
-  - movies
-  - overheid
-  - politiek
 title: Shockerende beelden
 aliases:
   - /dingen/2007/09/shockerende-beelden/

@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2010-10-11T13:35:30+00:00"
-tags:
-  - weeknotes
 title: Week 186
 aliases:
   - /dingen/2010/10/week-186/

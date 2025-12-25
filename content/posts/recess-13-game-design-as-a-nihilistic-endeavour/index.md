@@ -4,8 +4,6 @@ categories:
   - english
   - games
 date: "2013-05-24T20:15:48+00:00"
-tags:
-  - recess!
 title: Recess! 13 - Game Design as a Nihilistic Endeavour
 aliases:
   - /dingen/2013/05/recess-13-game-design-as-a-nihilistic-endeavour/

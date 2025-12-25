@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-11-22T07:57:44+00:00"
-tags:
-  - burgerrechten
-  - oorlog
-  - overheid
-  - politiek
 title: Wat heb je te verbergen?
 aliases:
   - /dingen/2007/11/wat-heb-je-te-verbergen/

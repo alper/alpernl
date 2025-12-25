@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-07-17T19:02:54+00:00"
-tags:
-  - weeknotes
 title: 'Week 277: remaindered connections'
 aliases:
   - /dingen/2012/07/week-277/

@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-11-04T13:58:19+00:00"
-tags:
-  - muziek
 title: Muziekverveling
 aliases:
   - /dingen/2007/10/muziekverveling/

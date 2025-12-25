@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-08T14:02:00+00:00"
-tags:
-  - computers
-  - html
-  - internet
 title: Starre denkpatronen in de webindustrie
 aliases:
   - /dingen/2007/06/starre-denkpatronen-in-de-webindustrie/

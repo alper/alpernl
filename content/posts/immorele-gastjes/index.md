@@ -3,11 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-09-25T08:42:49+00:00"
-tags:
-  - burgerrechten
-  - cultuur
-  - overheid
-  - politiek
 title: Immorele gastjes
 aliases:
   - /dingen/2007/09/immorele-gastjes/

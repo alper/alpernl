@@ -3,10 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-12-16T13:24:46+00:00"
-tags:
-  - apple
-  - computers
-  - cultuur
 title: Iedereen anders
 aliases:
   - /dingen/2007/12/iedereen-anders/

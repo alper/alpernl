@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-20T20:08:42+00:00"
-tags:
-  - muziek
 title: Left side of the brain
 aliases:
   - /dingen/2007/12/left-side-of-the-brain/

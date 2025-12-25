@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2010-11-30T11:15:44+00:00"
-tags:
-  - this-happened
-  - utrecht
 title: 'This Happened #8 - Sound Bytes'
 aliases:
   - /dingen/2010/11/this-happened-8-sound-bytes/

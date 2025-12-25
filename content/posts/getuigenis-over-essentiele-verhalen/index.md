@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-04-22T12:50:54+00:00"
-tags:
-  - fotografie
-  - museum
 title: Getuigenis over essentiele verhalen
 aliases:
   - /dingen/2007/04/getuigenis-over-essentiele-verhalen/

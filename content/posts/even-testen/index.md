@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-04-22T12:16:10+00:00"
-tags:
-  - html
-  - huishoudelijk
-  - internet
 title: Even testen
 aliases:
   - /dingen/2007/04/even-testen/

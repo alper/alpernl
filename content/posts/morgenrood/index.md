@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2008-01-21T06:43:39+00:00"
-tags:
-  - berlijn
-  - koffie
-  - politiek
 title: Morgenrood
 aliases:
   - /dingen/2008/01/morgenrood/

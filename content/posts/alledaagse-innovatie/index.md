@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-07-23T22:22:23+00:00"
-tags:
-  - ervaring
-  - informatie
-  - interactie
-  - usability
 title: Alledaagse innovatie
 aliases:
   - /dingen/2007/07/alledaagse-innovatie/

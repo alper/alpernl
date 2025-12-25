@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-10-14T09:39:09+00:00"
-tags:
-  - weeknotes
 title: 'Week 290: projects finished, visa, JSconf'
 aliases:
   - /dingen/2012/10/week-290-projects-finished-visa-jsconf/

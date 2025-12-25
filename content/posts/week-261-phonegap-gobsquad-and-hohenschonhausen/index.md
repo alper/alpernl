@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-26T20:35:59+00:00"
-tags:
-  - weeknotes
 title: 'Week 261: Phonegap, Gobsquad and Hohenschönhausen'
 aliases:
   - /dingen/2012/03/week-261-phonegap-gobsquad-and-hohenschonhausen/

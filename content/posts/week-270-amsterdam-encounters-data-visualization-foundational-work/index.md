@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-21T10:10:16+00:00"
-tags:
-  - weeknotes
 title: 'Week 270: Amsterdam encounters, data visualization, foundational work'
 aliases:
   - /dingen/2012/05/week-270-amsterdam-encounters-data-visualization-foundational-work/

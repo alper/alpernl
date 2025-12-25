@@ -3,8 +3,6 @@ author: alper
 categories:
   - video
 date: "2007-10-17T21:31:41+00:00"
-tags:
-  - evenement
 title: Pop!Tech
 aliases:
   - /dingen/2007/10/poptech/

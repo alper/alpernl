@@ -3,11 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-07-15T17:08:50+00:00"
-tags:
-  - cultuur
-  - humor
-  - internet
-  - muziek
 title: Internetcultuur dringt het gewone leven binnen
 aliases:
   - /dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/

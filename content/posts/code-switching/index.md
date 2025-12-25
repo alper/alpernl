@@ -3,8 +3,6 @@ author: alper
 categories:
   - nederlands
 date: "2008-06-08T15:11:54+00:00"
-tags:
-  - uncategorized
 title: Code Switching
 aliases:
   - /dingen/2008/06/code-switching/

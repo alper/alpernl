@@ -3,10 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-04-21T14:37:54+00:00"
-tags:
-  - apple
-  - macbook
-  - zelfstandig
 title: Batterij Macbook rap leeg
 aliases:
   - /dingen/2007/04/batterij-macook-rap-leeg/

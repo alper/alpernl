@@ -7,8 +7,6 @@ categories:
   - travel
   - uncategorized
 date: "2008-06-29T22:54:18+00:00"
-tags:
-  - uncategorized
 title: 10th Reboot - day 1
 aliases:
   - /dingen/2008/06/10th-reboot-day-1/

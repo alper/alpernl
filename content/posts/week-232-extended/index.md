@@ -7,8 +7,6 @@ categories:
   - the-city
   - work
 date: "2011-09-03T07:30:35+00:00"
-tags:
-  - weeknotes
 title: Week 232 - extended
 aliases:
   - /dingen/2011/09/week-232-extended/

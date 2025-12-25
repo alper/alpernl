@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-12-14T07:09:22+00:00"
-tags:
-  - klantenervaring
 title: Betalen voor je klantenservice
 aliases:
   - /dingen/2007/12/betalen-voor-je-klantenservice/

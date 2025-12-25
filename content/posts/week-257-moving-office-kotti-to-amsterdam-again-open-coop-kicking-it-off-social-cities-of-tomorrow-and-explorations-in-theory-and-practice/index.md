@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-02-19T21:04:07+00:00"
-tags:
-  - weeknotes
 title: 'Week 257: moving office, Kotti, to Amsterdam again, Open Coop kicking it off, Social Cities of Tomorrow and explorations in theory and practice'
 aliases:
   - /dingen/2012/02/week-257-moving-office-kotti-to-amsterdam-again-open-coop-kicking-it-off-social-cities-of-tomorrow-and-explorations-in-theory-and-practice/

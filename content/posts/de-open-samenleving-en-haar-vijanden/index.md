@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-14T21:47:52+00:00"
-tags:
-  - filosofie
-  - internet
-  - politiek
 title: De open samenleving en haar vijanden
 aliases:
   - /dingen/2007/06/de-open-samenleving-en-haar-vijanden/

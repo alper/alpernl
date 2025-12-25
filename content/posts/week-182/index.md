@@ -7,8 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-09-14T20:47:53+00:00"
-tags:
-  - weeknotes
 title: Week 182
 aliases:
   - /dingen/2010/09/week-182/

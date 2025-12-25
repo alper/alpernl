@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-01T13:32:19+00:00"
-tags:
-  - weeknotes
 title: 'Week 266: Django, iPhone programming and Quentin Meillassoux'
 aliases:
   - /dingen/2012/05/week-266/

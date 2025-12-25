@@ -6,8 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-11-04T16:40:35+00:00"
-tags:
-  - weeknotes
 title: Week 241
 aliases:
   - /dingen/2011/11/week-241/

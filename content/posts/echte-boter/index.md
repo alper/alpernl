@@ -5,9 +5,6 @@ categories:
   - music
   - nederlands
 date: "2008-03-03T16:43:20+00:00"
-tags:
-  - feest
-  - muziek
 title: Echte Boter
 aliases:
   - /dingen/2008/02/echte-boter/

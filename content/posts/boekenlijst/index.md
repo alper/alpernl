@@ -3,10 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-08T11:39:02+00:00"
-tags:
-  - leren
-  - leven
-  - reading
 title: Boekenlijst
 aliases:
   - /dingen/2008/01/boekenlijst/

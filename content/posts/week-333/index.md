@@ -5,8 +5,6 @@ categories:
   - english
   - work
 date: "2013-09-05T13:23:05+00:00"
-tags:
-  - weeknotes
 title: Week 333
 aliases:
   - /dingen/2013/09/week-333/

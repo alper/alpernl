@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-22T23:54:28+00:00"
-tags:
-  - eelke-dekker
-  - fotografie
 title: Hocus Focus Filatus Tas
 aliases:
   - /dingen/2007/12/hocus-focus-filatus-tas/

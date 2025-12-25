@@ -4,8 +4,6 @@ categories:
   - english
   - photography
 date: "2008-07-29T13:52:22+00:00"
-tags:
-  - uncategorized
 title: World Press
 aliases:
   - /dingen/2008/07/world-press/

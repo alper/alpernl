@@ -4,8 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-05-25T21:06:58+00:00"
-tags:
-  - drinken
 title: Terras
 aliases:
   - /dingen/2008/05/terras/

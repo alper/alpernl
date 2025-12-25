@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-07-14T20:13:19+00:00"
-tags:
-  - fotografie
-  - gent
-  - journalistiek
 title: Gent begint te feesten
 aliases:
   - /dingen/2007/07/gent-begint-te-feesten/

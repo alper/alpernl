@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-29T20:24:45+00:00"
-tags:
-  - religie
-  - televisie
 title: Het is ook mijn fout dat ik ernaar kijk
 aliases:
   - /dingen/2007/09/het-is-ook-mijn-fout-dat-ik-ernaar-kijk/

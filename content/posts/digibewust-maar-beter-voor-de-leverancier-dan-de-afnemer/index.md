@@ -3,11 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-07-03T20:39:02+00:00"
-tags:
-  - apple
-  - computers
-  - corruptie
-  - overheid
 title: Digibewust maar beter voor de leverancier dan de afnemer
 aliases:
   - /dingen/2007/07/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/

@@ -7,8 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2011-03-07T22:13:42+00:00"
-tags:
-  - weeknotes
 title: Week 207
 aliases:
   - /dingen/2011/03/week-207/

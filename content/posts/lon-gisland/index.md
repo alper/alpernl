@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-20T15:38:50+00:00"
-tags:
-  - muziek
-  - radio
 title: Lon Gisland
 aliases:
   - /dingen/2008/01/lon-gisland/

@@ -3,12 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-09-30T22:22:19+00:00"
-tags:
-  - filosofie
-  - karl-popper
-  - milieu
-  - politiek
-  - reading
 title: Popper over de noodzaak van vrede en rationalisme
 aliases:
   - /dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/

@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-09-03T20:02:10+00:00"
-tags:
-  - humor
-  - politiek
-  - televisie
 title: De meisjes van de zwakke argumentatie
 aliases:
   - /dingen/2007/09/121/

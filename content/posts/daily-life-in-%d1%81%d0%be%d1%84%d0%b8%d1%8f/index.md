@@ -5,17 +5,6 @@ categories:
   - photography
   - travel
 date: "2008-08-19T21:19:17+00:00"
-tags:
-  - "120"
-  - bulgaria
-  - movies
-  - photography
-  - sofia
-  - street
-  - street-photography
-  - travel
-  - uncategorized
-  - weekend
 title: "Daily life in Ð¡Ð¾Ñ„Ð¸Ñ\x8F"
 aliases:
   - /dingen/2008/08/daily-life-in-софия/

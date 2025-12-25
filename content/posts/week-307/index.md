@@ -7,8 +7,6 @@ categories:
   - open-state
   - work
 date: "2013-02-06T08:09:15+00:00"
-tags:
-  - weeknotes
 title: Week 307
 aliases:
   - /dingen/2013/02/week-307/

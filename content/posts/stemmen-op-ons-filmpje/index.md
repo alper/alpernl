@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-03-30T16:09:05+00:00"
-tags:
-  - movies
-  - ondernemen
 title: Stemmen op ons filmpje
 aliases:
   - /dingen/2008/03/stemmen-op-ons-filmpje/

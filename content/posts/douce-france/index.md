@@ -4,12 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-05-08T15:26:34+00:00"
-tags:
-  - cultuur
-  - france
-  - ghetto
-  - video
-  - violence
 title: Douce France
 aliases:
   - /dingen/2008/05/douce-france/

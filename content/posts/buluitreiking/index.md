@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-09-30T03:27:04+00:00"
-tags:
-  - afstuderen
-  - fotografie
-  - leven
-  - tu-delft
 title: Buluitreiking
 aliases:
   - /dingen/2007/09/buluitreiking/

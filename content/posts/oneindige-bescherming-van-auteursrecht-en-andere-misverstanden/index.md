@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-21T23:56:53+00:00"
-tags:
-  - burgerrechten
-  - copyright
 title: Oneindige bescherming van auteursrecht en andere misverstanden
 aliases:
   - /dingen/2007/05/oneindige-bescherming-van-auteursrecht-en-andere-misverstanden/

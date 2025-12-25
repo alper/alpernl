@@ -3,8 +3,6 @@ author: alper
 categories:
   - english
 date: "2013-05-20T09:40:28+00:00"
-tags:
-  - weeknotes
 title: Week 321
 aliases:
   - /dingen/2013/05/week-321/

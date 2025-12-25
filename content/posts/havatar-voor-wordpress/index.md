@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-08-17T16:23:07+00:00"
-tags:
-  - computers
-  - internet
 title: hAvatar voor Wordpress
 aliases:
   - /dingen/2007/08/havatar-voor-wordpress/

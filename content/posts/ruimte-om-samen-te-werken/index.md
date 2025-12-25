@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2008-02-07T19:28:08+00:00"
-tags:
-  - werken
-  - zelfstandig
 title: Ruimte om samen te werken
 aliases:
   - /dingen/2008/02/ruimte-om-samen-te-werken/

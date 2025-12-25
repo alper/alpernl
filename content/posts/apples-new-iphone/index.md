@@ -5,13 +5,6 @@ categories:
   - internet
   - product-/-design
 date: "2008-06-09T23:08:40+00:00"
-tags:
-  - apple
-  - ec
-  - iphone
-  - orange
-  - t-mobile
-  - uncategorized
 title: Apple's new iPhone
 aliases:
   - /dingen/2008/06/apples-new-iphone/

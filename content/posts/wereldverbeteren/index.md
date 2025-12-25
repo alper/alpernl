@@ -4,9 +4,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2008-05-25T20:58:55+00:00"
-tags:
-  - geekyoto
-  - milieu
 title: Wereldverbeteren
 aliases:
   - /dingen/2008/05/wereldverbeteren/

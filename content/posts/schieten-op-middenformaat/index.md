@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2008-02-09T00:30:16+00:00"
-tags:
-  - fotografie
 title: Schieten op middenformaat
 aliases:
   - /dingen/2008/02/schieten-op-middenformaat/

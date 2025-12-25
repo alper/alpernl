@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2008-02-20T13:22:17+00:00"
-tags:
-  - amerika
-  - midden-oosten
-  - politiek
 title: Soft Power
 aliases:
   - /dingen/2008/02/soft-power/

@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-09-10T17:23:25+00:00"
-tags:
-  - weeknotes
 title: 'Week 286: Amsterdam visit, programming lessons and hacking parliament from within'
 aliases:
   - /dingen/2012/09/week-286-amsterdam-visit-programming-lessons-and-hacking-parliament-from-within/

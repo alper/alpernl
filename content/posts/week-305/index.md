@@ -4,8 +4,6 @@ categories:
   - english
   - monster-swell
 date: "2013-01-21T22:32:54+00:00"
-tags:
-  - weeknotes
 title: Week 305
 aliases:
   - /dingen/2013/01/week-305/

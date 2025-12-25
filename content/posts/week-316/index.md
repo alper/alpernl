@@ -5,8 +5,6 @@ categories:
   - english
   - work
 date: "2013-04-15T08:01:43+00:00"
-tags:
-  - weeknotes
 title: Week 316
 aliases:
   - /dingen/2013/04/week-316/

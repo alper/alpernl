@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-02T12:33:46+00:00"
-tags:
-  - eten
-  - fotografie
 title: Vrienden over de vloer
 aliases:
   - /dingen/2007/08/vrienden-over-de-vloer/

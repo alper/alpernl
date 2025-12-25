@@ -49,7 +49,7 @@
   * [ ] Remove dangling categories
   * [ ] Show full posts on list display
 * Data edits
-  * [ ] Remove all tags from posts
+  * [x] Remove all tags from posts
   * [x] Remove post_id?
     * https://gohugobrasil.netlify.app/content-management/front-matter/
   * [x] Fix character encoding issues from posts

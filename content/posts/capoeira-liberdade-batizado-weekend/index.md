@@ -4,10 +4,6 @@ categories:
   - capoeira
   - delft
 date: "2007-06-05T22:49:46+00:00"
-tags:
-  - evenement
-  - feest
-  - fotografie
 title: Capoeira Liberdade Batizado Weekend
 aliases:
   - /dingen/2007/05/capoeira-liberdade-batizado-weekend/

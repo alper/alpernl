@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-03-14T12:06:09+00:00"
-tags:
-  - computers
-  - fotografie
 title: Gasten en vis
 aliases:
   - /dingen/2008/03/gasten-en-vis/

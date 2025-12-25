@@ -5,12 +5,6 @@ categories:
   - english
   - food
 date: "2008-07-31T21:18:45+00:00"
-tags:
-  - baklava
-  - environment
-  - food
-  - kã¼nefe
-  - uncategorized
 title: Night Store
 aliases:
   - /dingen/2008/07/night-store/

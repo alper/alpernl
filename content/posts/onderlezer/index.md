@@ -4,13 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2008-05-10T06:49:55+00:00"
-tags:
-  - culture
-  - curiousity
-  - knowledge
-  - reading
-  - teaching
-  - werken
 title: Onderlezer
 aliases:
   - /dingen/2008/05/onderlezer/

@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2010-08-09T06:27:09+00:00"
-tags:
-  - column
-  - design-directie
 title: 'Design Directie #1'
 aliases:
   - /dingen/2010/08/design-directie-1/

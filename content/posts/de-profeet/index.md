@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-08-01T14:37:28+00:00"
-tags:
-  - filosofie
-  - reading
 title: De Profeet
 aliases:
   - /dingen/2007/08/de-profeet/

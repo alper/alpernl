@@ -5,8 +5,6 @@ categories:
   - english
   - travel
 date: "2013-06-18T07:36:36+00:00"
-tags:
-  - weeknotes
 title: Week 324
 aliases:
   - /dingen/2013/06/week-324/

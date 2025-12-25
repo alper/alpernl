@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-06-05T12:43:47+00:00"
-tags:
-  - politiek
 title: Dodelijke ongelukken
 aliases:
   - /dingen/2007/06/dodelijk-ongelukken/

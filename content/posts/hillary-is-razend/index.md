@@ -4,10 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-02-24T13:59:17+00:00"
-tags:
-  - amerika
-  - televisie
-  - verkiezingen
 title: Hillary is razend
 aliases:
   - /dingen/2008/02/hillary-is-razend/

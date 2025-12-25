@@ -3,8 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-20T18:33:57+00:00"
-tags:
-  - reading
 title: Leesboeken
 aliases:
   - /dingen/2008/01/leesboeken/

@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2011-06-16T21:59:45+00:00"
-tags:
-  - fotografie
-  - html
-  - internet
 title: Portfolio
 aliases:
   - /dingen/2007/06/portfolio/

@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-08-02T08:21:36+00:00"
-tags:
-  - ondernemen
-  - overheid
-  - politiek
 title: Verminderen regeldruk voor de burger
 aliases:
   - /dingen/2007/08/verminderen-regeldruk-voor-de-burger/

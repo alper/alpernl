@@ -6,8 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2010-07-18T18:32:16+00:00"
-tags:
-  - weeknotes
 title: Weeknotes 174
 aliases:
   - /dingen/2010/07/weeknotes-174/

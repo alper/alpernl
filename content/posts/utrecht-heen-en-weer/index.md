@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-03T02:59:51+00:00"
-tags:
-  - klantenervaring
-  - trein
 title: Utrecht heen en weer
 aliases:
   - /dingen/2007/11/utrecht-heen-en-weer/

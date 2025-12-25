@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-04-03T07:23:31+00:00"
-tags:
-  - weeknotes
 title: 'Week 263: short trip to the Netherlands'
 aliases:
   - /dingen/2012/04/week-263-short-trip-to-the-netherlands/

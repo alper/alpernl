@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-04-26T16:40:31+00:00"
-tags:
-  - reizen
-  - spanje
-  - taal
 title: Reisverslag Spanje - Meer en minder taligheid
 aliases:
   - /dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/

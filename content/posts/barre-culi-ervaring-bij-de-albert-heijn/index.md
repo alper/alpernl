@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2010-05-08T17:05:04+00:00"
-tags:
-  - koken
-  - winkelen
 title: Barre culi-ervaring bij de Albert Heijn
 aliases:
   - /dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/

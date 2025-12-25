@@ -4,8 +4,6 @@ categories:
   - delft
   - internet
 date: "2008-01-17T10:32:22+00:00"
-tags:
-  - internet
 title: Set my WiFi free
 aliases:
   - /dingen/2008/01/steel-mijn-internet/

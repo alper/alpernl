@@ -3,11 +3,6 @@ author: alper
 categories:
   - internet
 date: "2008-01-31T00:58:18+00:00"
-tags:
-  - ervaring
-  - interactie
-  - internet
-  - leven
 title: Treingenoten
 aliases:
   - /dingen/2008/01/treingenoten/

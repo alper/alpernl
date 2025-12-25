@@ -7,8 +7,6 @@ categories:
   - travel
   - work
 date: "2012-07-30T07:35:58+00:00"
-tags:
-  - weeknotes
 title: 'Week 279: Paris, Numerical Revolutions, Helsinki, Dutch eCulture Days'
 aliases:
   - /dingen/2012/07/week-279-paris-numerical-revolutions-helsinki-dutch-eculture-days/

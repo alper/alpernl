@@ -4,13 +4,6 @@ categories:
   - internet
   - nederlands
 date: "2008-05-09T06:47:28+00:00"
-tags:
-  - broadband
-  - internet
-  - net-neutrality
-  - open
-  - wifi
-  - wireless
 title: Breedband luchtkastelen
 aliases:
   - /dingen/2008/05/breedband-luchtkastelen/

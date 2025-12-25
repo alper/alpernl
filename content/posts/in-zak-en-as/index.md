@@ -4,13 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-05-19T09:27:37+00:00"
-tags:
-  - brand
-  - perceptie
-  - risico
-  - terrorisme
-  - tudelft
-  - universiteit
 title: In zak en as
 aliases:
   - /dingen/2008/05/in-zak-en-as/

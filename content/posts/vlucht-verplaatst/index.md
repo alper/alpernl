@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-15T20:32:25+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: Vlucht verplaatst
 aliases:
   - /dingen/2007/08/vlucht-verplaatst/

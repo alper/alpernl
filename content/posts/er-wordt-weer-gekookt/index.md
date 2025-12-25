@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-06-09T20:02:50+00:00"
-tags:
-  - koken
 title: Er wordt weer gekookt
 aliases:
   - /dingen/2007/06/er-wordt-weer-gekookt/

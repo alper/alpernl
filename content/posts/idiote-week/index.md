@@ -4,8 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-03-22T20:31:40+00:00"
-tags:
-  - fotografie
 title: Idiote week
 aliases:
   - /dingen/2008/03/idiote-week/

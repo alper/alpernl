@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2008-01-04T13:26:17+00:00"
-tags:
-  - feest
 title: Gelukkig nieuwjaar
 aliases:
   - /dingen/2008/01/gelukkig-nieuwjaar/

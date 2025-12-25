@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-03T16:33:04+00:00"
-tags:
-  - fotografie
-  - koken
 title: Tacos, een verslag
 aliases:
   - /dingen/2007/06/tacos-een-verslag/

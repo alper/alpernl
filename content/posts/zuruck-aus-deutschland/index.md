@@ -3,9 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2007-10-15T15:08:35+00:00"
-tags:
-  - huis
-  - leven
 title: Zurück aus Deutschland
 aliases:
   - /dingen/2007/10/zuruck-aus-deutschland/

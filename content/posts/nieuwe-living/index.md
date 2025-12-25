@@ -4,8 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-04-23T16:23:24+00:00"
-tags:
-  - huis
 title: Nieuwe Living
 aliases:
   - /dingen/2008/04/nieuwe-living/

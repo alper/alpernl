@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-27T21:44:01+00:00"
-tags:
-  - weeknotes
 title: 'Week 271: lots of events and event preparations with some making in between'
 aliases:
   - /dingen/2012/05/week-271-lots-of-events-and-event-preparations-with-some-making-in-between/

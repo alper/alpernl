@@ -7,8 +7,6 @@ categories:
   - the-city
   - work
 date: "2011-05-17T15:57:21+00:00"
-tags:
-  - weeknotes
 title: Week 217
 aliases:
   - /dingen/2011/05/week-217/

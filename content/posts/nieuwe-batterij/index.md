@@ -3,10 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-05-19T20:44:18+00:00"
-tags:
-  - apple
-  - klantenervaring
-  - macbook
 title: Nieuwe batterij
 aliases:
   - /dingen/2007/05/nieuwe-batterij/

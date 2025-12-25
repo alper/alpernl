@@ -4,10 +4,6 @@ categories:
   - nederlands
   - politics
 date: "2017-04-19T11:58:38+00:00"
-tags:
-  - krant
-  - politiek
-  - televisie
 title: Leon de Winter landverrader
 aliases:
   - /dingen/2007/07/leon-de-winter-landverrader/

@@ -5,8 +5,6 @@ categories:
   - delft
   - nederlands
 date: "2008-05-21T12:39:19+00:00"
-tags:
-  - uncategorized
 title: Fiesta Brasileira!
 aliases:
   - /dingen/2008/05/fiesta-brasileira/

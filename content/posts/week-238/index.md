@@ -7,8 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2011-10-17T10:17:42+00:00"
-tags:
-  - weeknotes
 title: Week 238
 aliases:
   - /dingen/2011/10/week-238/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-05-11T04:12:17+00:00"
-tags:
-  - internet
-  - milieu
 title: Koolstofneutraal is het nieuwe zwart
 aliases:
   - /dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/

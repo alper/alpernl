@@ -7,12 +7,6 @@ enclosure: |-
   http://alper.nl/media/Palmyra.mov
   3760787
   video/quicktime
-tags:
-  - fotografie
-  - geschiedenis
-  - reizen
-  - time-lapse
-  - zomerreis-2007
 title: Zonsondergang over Palmyra
 aliases:
   - /dingen/2007/09/zonsondergang-over-palmyra/

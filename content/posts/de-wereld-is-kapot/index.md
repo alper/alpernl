@@ -5,8 +5,6 @@ categories:
   - nederlands
   - travel
 date: "2008-05-17T20:14:44+00:00"
-tags:
-  - uncategorized
 title: De wereld is kapot
 aliases:
   - /dingen/2008/05/de-wereld-is-kapot/

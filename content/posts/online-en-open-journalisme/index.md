@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-06-27T13:15:51+00:00"
-tags:
-  - fotografie
-  - journalistiek
-  - reizen
-  - turkije
 title: Online en open journalisme
 aliases:
   - /dingen/2007/06/online-en-open-journalisme/

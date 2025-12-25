@@ -3,10 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2007-10-08T04:33:05+00:00"
-tags:
-  - klantenervaring
-  - reizen
-  - trein
 title: NS Internationaal
 aliases:
   - /dingen/2007/10/ns-internationaal/

@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2008-01-09T08:53:30+00:00"
-tags:
-  - berlijn
-  - computers
-  - openbaar-vervoer
 title: Mifare gekraakt
 aliases:
   - /dingen/2008/01/mifare-gekraakt/

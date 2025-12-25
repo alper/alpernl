@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - travel
 date: "2012-07-02T15:51:28+00:00"
-tags:
-  - weeknotes
 title: 'Week 275: Athens'
 aliases:
   - /dingen/2012/07/week-275-athens/

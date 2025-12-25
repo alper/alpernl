@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-12-24T14:08:30+00:00"
-tags:
-  - openbaar-vervoer
-  - overheid
-  - trein
 title: Open reisinformatie voor de mensen
 aliases:
   - /dingen/2007/12/open-reisinformatie-voor-de-mensen/

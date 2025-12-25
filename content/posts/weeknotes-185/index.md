@@ -8,8 +8,6 @@ categories:
   - product-/-design
   - work
 date: "2010-10-05T11:41:41+00:00"
-tags:
-  - weeknotes
 title: Weeknotes 185
 aliases:
   - /dingen/2010/10/weeknotes-185/

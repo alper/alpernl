@@ -4,10 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2011-04-29T10:31:17+00:00"
-tags:
-  - boeken
-  - books
-  - reading
 title: 1001 boeken die je gelezen moet hebben
 aliases:
   - /dingen/2008/05/1001-boeken-die-je-gelezen-moet-hebben/

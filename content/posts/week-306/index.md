@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2013-01-28T07:31:26+00:00"
-tags:
-  - weeknotes
 title: Week 306
 aliases:
   - /dingen/2013/01/week-306/

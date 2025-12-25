@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-11-03T18:51:41+00:00"
-tags:
-  - reizen
 title: Berlijn dan eindelijk
 aliases:
   - /dingen/2007/11/berlijn-dan-eindelijk/

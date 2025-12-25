@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-05-10T03:13:57+00:00"
-tags:
-  - televisie
 title: Knevel & van den Brink
 aliases:
   - /dingen/2007/04/knevel-van-den-brink/

@@ -8,8 +8,6 @@ categories:
   - product-/-design
   - work
 date: "2011-07-18T19:12:14+00:00"
-tags:
-  - weeknotes
 title: Week 226
 aliases:
   - /dingen/2011/07/week-226/

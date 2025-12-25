@@ -3,12 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-05-23T23:25:14+00:00"
-tags:
-  - computers
-  - fotografie
-  - internet
-  - politiek
-  - tu-delft
 title: 'Second Life: Wat moeten we ermee?'
 aliases:
   - /dingen/2007/05/second-life-wat-moeten-we-ermee/

@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-06-07T17:57:24+00:00"
-tags:
-  - weeknotes
 title: 'Week 272: speculative realism, iPhone development, event visiting and preparation'
 aliases:
   - /dingen/2012/06/week-272-speculative-realism-iphone-development-event-visiting-and-preparation/

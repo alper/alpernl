@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2012-08-24T13:36:26+00:00"
-tags:
-  - arabisch
-  - taal
 title: Leer jezelf Arabisch
 aliases:
   - /dingen/2007/05/leer-jezelf-arabisch/

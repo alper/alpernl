@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-07T14:54:29+00:00"
-tags:
-  - weeknotes
 title: 'Week 259: office work, publicity, copyright and liquid feedback'
 aliases:
   - /dingen/2012/03/week-259-office-work-publicity-copyright-and-liquid-feedback/

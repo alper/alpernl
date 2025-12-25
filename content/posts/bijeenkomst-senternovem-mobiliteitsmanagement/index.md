@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2008-02-14T15:15:32+00:00"
-tags:
-  - ondernemen
-  - openbaar-vervoer
-  - overheid
 title: Bijeenkomst SenterNovem Mobiliteitsmanagement
 aliases:
   - /dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/

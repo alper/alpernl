@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-09-10T18:38:30+00:00"
-tags:
-  - computers
-  - cultuur
-  - reizen
 title: Brighton, UK
 aliases:
   - /dingen/2007/09/brighton-uk/

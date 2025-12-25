@@ -3,8 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2008-02-20T11:20:38+00:00"
-tags:
-  - sport
 title: Kunnen lopen is fijn
 aliases:
   - /dingen/2008/02/kunnen-lopen-is-fijn/

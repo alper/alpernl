@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-08-22T08:00:28+00:00"
-tags:
-  - weeknotes
 title: 'Week 283: Pigs, other animals, cities and the internet'
 aliases:
   - /dingen/2012/08/week-283-pigs-other-animals-cities-and-the-internet/

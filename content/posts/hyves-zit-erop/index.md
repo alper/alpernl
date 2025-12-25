@@ -3,8 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-11-01T14:42:49+00:00"
-tags:
-  - internet
 title: Hyves zit erop
 aliases:
   - /dingen/2007/10/hyves-zit-erop/

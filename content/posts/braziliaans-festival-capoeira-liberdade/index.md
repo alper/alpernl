@@ -4,9 +4,6 @@ categories:
   - capoeira
   - delft
 date: "2007-05-07T12:45:40+00:00"
-tags:
-  - evenement
-  - feest
 title: Braziliaans Festival Capoeira Liberdade
 aliases:
   - /dingen/2007/05/braziliaans-festival-capoeira-liberdade/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-23T23:13:15+00:00"
-tags:
-  - politiek
-  - televisie
 title: Noord Irak
 aliases:
   - /dingen/2007/10/noord-irak/

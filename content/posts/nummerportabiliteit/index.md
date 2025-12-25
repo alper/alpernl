@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-04-19T15:17:05+00:00"
-tags:
-  - klantenervaring
-  - mobiel
 title: Nummerportabiliteit
 aliases:
   - /dingen/2007/04/nummerportabiliteit/

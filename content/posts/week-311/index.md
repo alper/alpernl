@@ -6,8 +6,6 @@ categories:
   - open-state
   - work
 date: "2013-03-05T10:04:01+00:00"
-tags:
-  - weeknotes
 title: Week 311
 aliases:
   - /dingen/2013/03/week-311/

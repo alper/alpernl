@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-07-11T16:07:42+00:00"
-tags:
-  - weeknotes
 title: 'Week 276: back from holidays'
 aliases:
   - /dingen/2012/07/week-276-back-from-holidays/

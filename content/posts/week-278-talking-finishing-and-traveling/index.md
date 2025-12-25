@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-07-25T07:30:33+00:00"
-tags:
-  - weeknotes
 title: 'Week 278: talking, finishing and traveling'
 aliases:
   - /dingen/2012/07/week-278-talking-finishing-and-traveling/

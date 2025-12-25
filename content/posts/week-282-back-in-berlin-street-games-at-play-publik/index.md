@@ -8,8 +8,6 @@ categories:
   - travel
   - work
 date: "2012-08-18T08:00:20+00:00"
-tags:
-  - weeknotes
 title: 'Week 282: back in Berlin, street games at Play Publik'
 aliases:
   - /dingen/2012/08/week-282-back-in-berlin-street-games-at-play-publik/

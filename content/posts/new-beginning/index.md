@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-04T20:20:54+00:00"
-tags:
-  - fotografie
-  - werken
 title: Een nieuw begin
 aliases:
   - /dingen/2007/05/new-beginning/

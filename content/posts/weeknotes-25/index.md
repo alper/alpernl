@@ -4,8 +4,6 @@ categories:
   - english
   - work
 date: "2010-06-27T14:16:28+00:00"
-tags:
-  - weeknotes
 title: Weeknotes 25
 aliases:
   - /dingen/2010/06/weeknotes-25/

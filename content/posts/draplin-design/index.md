@@ -9,12 +9,6 @@ enclosure: |-
   http://www.jessgibson.com/videos/Draplin_America_is_fucked_newFINAL.mov
   47332717
   video/quicktime
-tags:
-  - design
-  - draplin
-  - graphic
-  - uncategorized
-  - video
 title: Draplin Design
 aliases:
   - /dingen/2008/07/draplin-design/

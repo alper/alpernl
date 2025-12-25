@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-06-24T21:43:06+00:00"
-tags:
-  - milieu
-  - politiek
 title: Actievoerders zijn niet de intelligentste mensen
 aliases:
   - /dingen/2007/06/actievoerder-zijn-niet-de-intelligentste-mensen/

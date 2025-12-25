@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-05-31T15:27:19+00:00"
-tags:
-  - computers
-  - evenement
-  - fotografie
-  - reizen
 title: Weer terug in Kopenhagen
 aliases:
   - /dingen/2007/05/weer-terug-in-kopenhagen/

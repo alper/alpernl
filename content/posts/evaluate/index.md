@@ -4,8 +4,6 @@ categories:
   - english
   - internet
 date: "2008-09-03T09:54:57+00:00"
-tags:
-  - uncategorized
 title: Evaluate
 aliases:
   - /dingen/2008/07/evaluate/

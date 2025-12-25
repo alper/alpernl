@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-24T21:29:02+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: Vliegen van hot naar her
 aliases:
   - /dingen/2007/07/vliegen-van-hot-naar-her/

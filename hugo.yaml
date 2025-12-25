@@ -6,7 +6,6 @@ pagination:
   pagerSize: 50
 taxonomies:
   category: categories
-  tag: tags
 params:
   description: The homepage of Alper Cugun
   defaultTheme: auto

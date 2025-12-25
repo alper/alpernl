@@ -6,8 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-09-27T18:39:29+00:00"
-tags:
-  - weeknotes
 title: Week 236
 aliases:
   - /dingen/2011/09/week-236/

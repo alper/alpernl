@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-10-25T07:08:02+00:00"
-tags:
-  - klantenervaring
-  - koffie
 title: 'AD Koffietest: dieper in op Delft'
 aliases:
   - /dingen/2007/10/ad-koffietest/

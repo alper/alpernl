@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-19T16:20:15+00:00"
-tags:
-  - huis
 title: Bezoekadres
 aliases:
   - /dingen/2007/12/bezoekadres/

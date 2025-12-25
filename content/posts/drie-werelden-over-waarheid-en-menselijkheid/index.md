@@ -3,11 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-07-09T14:40:38+00:00"
-tags:
-  - filosofie
-  - karl-popper
-  - reading
-  - waarheid
 title: Drie Werelden over Waarheid en Menselijkheid
 aliases:
   - /dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/

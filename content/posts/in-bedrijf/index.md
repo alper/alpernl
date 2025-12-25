@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-11-20T18:01:15+00:00"
-tags:
-  - internet
-  - werken
 title: In bedrijf
 aliases:
   - /dingen/2007/11/in-bedrijf/

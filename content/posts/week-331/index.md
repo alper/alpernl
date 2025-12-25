@@ -5,8 +5,6 @@ categories:
   - english
   - work
 date: "2013-08-19T07:28:03+00:00"
-tags:
-  - weeknotes
 title: Week 331
 aliases:
   - /dingen/2013/08/week-331/

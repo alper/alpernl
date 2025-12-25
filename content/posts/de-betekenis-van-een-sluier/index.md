@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-27T02:21:56+00:00"
-tags:
-  - reizen
-  - zomerreis-2007
 title: De betekenis van een sluier
 aliases:
   - /dingen/2007/09/de-betekenis-van-een-sluier/

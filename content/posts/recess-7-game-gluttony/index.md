@@ -4,8 +4,6 @@ categories:
   - english
   - games
 date: "2013-03-23T20:35:19+00:00"
-tags:
-  - recess!
 title: Recess! 7 - Game Gluttony
 aliases:
   - /dingen/2013/03/recess-7-game-gluttony/

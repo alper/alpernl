@@ -6,8 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-04-25T16:06:29+00:00"
-tags:
-  - weeknotes
 title: Week 214
 aliases:
   - /dingen/2011/04/week-214/

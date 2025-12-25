@@ -3,8 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-10-12T09:46:57+00:00"
-tags:
-  - reizen
 title: Road Trip Hamburg
 aliases:
   - /dingen/2007/10/road-trip-hamburg/

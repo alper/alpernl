@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-11-15T12:22:05+00:00"
-tags:
-  - huis
 title: Vroege vogels
 aliases:
   - /dingen/2007/11/vroege-vogels/

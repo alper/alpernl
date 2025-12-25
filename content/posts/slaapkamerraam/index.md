@@ -5,10 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-04-06T21:05:51+00:00"
-tags:
-  - fotografie
-  - huis
-  - reizen
 title: Slaapkamerraam
 aliases:
   - /dingen/2008/04/slaapkamerraam/

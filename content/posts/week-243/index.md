@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2011-11-15T14:00:11+00:00"
-tags:
-  - weeknotes
 title: Week 243
 aliases:
   - /dingen/2011/11/week-243/

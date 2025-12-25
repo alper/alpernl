@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-29T01:37:00+00:00"
-tags:
-  - strand
-  - surfen
 title: Surf's up!
 aliases:
   - /dingen/2007/05/surfs-up/

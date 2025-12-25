@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-24T20:51:41+00:00"
-tags:
-  - huis
-  - movies
 title: Schilderen
 aliases:
   - /dingen/2007/10/schilderen/

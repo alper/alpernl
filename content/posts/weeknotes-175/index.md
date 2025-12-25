@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2010-07-25T14:09:05+00:00"
-tags:
-  - weeknotes
 title: Weeknotes 175
 aliases:
   - /dingen/2010/07/weeknotes-175/

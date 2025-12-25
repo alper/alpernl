@@ -3,8 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-12-26T17:30:07+00:00"
-tags:
-  - movies
 title: 2008 Bioscoopjaar
 aliases:
   - /dingen/2007/12/2008-bioscoopjaar/

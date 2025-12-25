@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2008-02-04T06:10:03+00:00"
-tags:
-  - amsterdam
-  - computers
-  - internet
 title: Vrij weekend
 aliases:
   - /dingen/2008/02/vrij-weekend/

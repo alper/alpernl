@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-07T10:20:01+00:00"
-tags:
-  - amsterdam
-  - burgerrechten
 title: Hate Crimes
 aliases:
   - /dingen/2007/08/hate-crimes/

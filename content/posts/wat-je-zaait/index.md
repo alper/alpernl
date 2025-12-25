@@ -3,8 +3,6 @@ author: alper
 categories:
   - nederlands
 date: "2008-05-04T01:54:31+00:00"
-tags:
-  - uncategorized
 title: Wat je zaait
 aliases:
   - /dingen/2008/05/wat-je-zaait/

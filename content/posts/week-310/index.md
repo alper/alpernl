@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - open-state
 date: "2013-02-25T15:19:11+00:00"
-tags:
-  - weeknotes
 title: Week 310
 aliases:
   - /dingen/2013/02/week-310/

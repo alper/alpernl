@@ -3,10 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-09-23T17:37:07+00:00"
-tags:
-  - evenement
-  - fotografie
-  - sport
 title: Breakjam in Delft
 aliases:
   - /dingen/2007/09/breakjam-in-delft/

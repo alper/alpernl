@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-06-17T16:39:49+00:00"
-tags:
-  - gadget
-  - sport
 title: Beter presteren met beter spul
 aliases:
   - /dingen/2007/06/beter-presteren-met-beter-spul/

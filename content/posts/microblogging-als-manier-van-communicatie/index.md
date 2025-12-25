@@ -3,8 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-24T12:34:59+00:00"
-tags:
-  - uncategorized
 title: Microblogging als manier van communicatie
 aliases:
   - /dingen/2007/10/microblogging-als-manier-van-communicatie/

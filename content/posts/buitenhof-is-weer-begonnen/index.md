@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-03T23:14:01+00:00"
-tags:
-  - politiek
-  - televisie
 title: Buitenhof is weer begonnen
 aliases:
   - /dingen/2007/12/buitenhof-is-weer-begonnen/

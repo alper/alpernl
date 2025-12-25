@@ -7,13 +7,6 @@ categories:
   - travel
   - uncategorized
 date: "2008-07-01T14:40:33+00:00"
-tags:
-  - conference
-  - copenhagen
-  - reboot
-  - reboot10
-  - technology
-  - uncategorized
 title: 10th Reboot - day 2 and on
 aliases:
   - /dingen/2008/07/10th-reboot-day-2-and-on/

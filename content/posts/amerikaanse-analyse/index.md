@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-03T21:46:48+00:00"
-tags:
-  - informatie
-  - politiek
 title: Amerikaanse analyse
 aliases:
   - /dingen/2008/02/amerikaanse-analyse/

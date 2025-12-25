@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-19T00:42:32+00:00"
-tags:
-  - computers
-  - internet
-  - journalistiek
 title: De Volkskrant toch maar opzeggen
 aliases:
   - /dingen/2007/06/de-volkskrant-toch-maar-opzeggen/

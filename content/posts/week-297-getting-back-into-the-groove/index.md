@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-11-27T07:30:21+00:00"
-tags:
-  - weeknotes
 title: 'Week 297: getting back into the groove'
 aliases:
   - /dingen/2012/11/week-297-getting-back-into-the-groove/

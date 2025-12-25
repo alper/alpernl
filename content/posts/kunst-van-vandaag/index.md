@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-09-23T23:53:59+00:00"
-tags:
-  - evenement
-  - fotografie
-  - kunst
 title: Kunst van vandaag
 aliases:
   - /dingen/2007/09/kunst-van-vandaag/

@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-07-22T20:09:50+00:00"
-tags:
-  - cultuur
-  - politiek
-  - religie
-  - waarheid
 title: Mind the hoax
 aliases:
   - /dingen/2007/07/mind-the-hoax/

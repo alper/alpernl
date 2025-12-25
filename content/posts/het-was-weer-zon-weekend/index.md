@@ -3,11 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-07-29T20:23:15+00:00"
-tags:
-  - amsterdam
-  - feest
-  - fotografie
-  - koken
 title: Het was weer zo'n weekend
 aliases:
   - /dingen/2007/07/het-was-weer-zon-weekend/

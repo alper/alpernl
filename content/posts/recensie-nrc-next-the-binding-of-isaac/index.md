@@ -5,8 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-01-15T07:43:11+00:00"
-tags:
-  - nrcnext
 title: 'Recensie nrc.next: The Binding of Isaac'
 aliases:
   - /dingen/2013/01/recensie-nrc-next-the-binding-of-isaac/

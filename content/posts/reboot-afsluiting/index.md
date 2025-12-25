@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-06-04T10:27:47+00:00"
-tags:
-  - computers
-  - evenement
-  - fotografie
 title: Reboot afsluiting
 aliases:
   - /dingen/2007/06/reboot-afsluiting/

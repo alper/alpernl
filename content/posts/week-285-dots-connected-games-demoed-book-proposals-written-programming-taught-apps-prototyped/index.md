@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-09-04T07:51:32+00:00"
-tags:
-  - weeknotes
 title: 'Week 285: dots connected, games demoed, book proposals written, programming taught, apps prototyped'
 aliases:
   - /dingen/2012/09/week-285-dots-connected-games-demoed-book-proposals-written-programming-taught-apps-prototyped/

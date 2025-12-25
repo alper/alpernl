@@ -4,15 +4,6 @@ categories:
   - english
   - uncategorized
 date: "2008-08-22T00:53:20+00:00"
-tags:
-  - civil-liberty
-  - liberty
-  - search
-  - security
-  - terrorism
-  - uncategorized
-  - video
-  - war-on-terror
 title: Some legitimate fear
 aliases:
   - /dingen/2008/08/some-legitimate-fear/

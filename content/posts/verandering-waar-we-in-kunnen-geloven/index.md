@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2008-02-05T00:24:54+00:00"
-tags:
-  - amerika
-  - burgerrechten
-  - politiek
-  - verkiezingen
 title: Verandering waar we in kunnen geloven
 aliases:
   - /dingen/2008/02/verandering-waar-we-in-kunnen-geloven/

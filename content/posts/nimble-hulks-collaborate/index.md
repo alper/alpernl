@@ -5,11 +5,6 @@ categories:
   - internet
   - work
 date: "2009-02-21T12:55:33+00:00"
-tags:
-  - media
-  - mobile
-  - news
-  - newspaper
 title: Nimble hulks collaborate
 aliases:
   - /dingen/2009/02/nimble-hulks-collaborate/

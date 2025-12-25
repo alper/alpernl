@@ -1,10 +1,6 @@
 ---
 author: alper
 date: "2007-11-23T07:01:37+00:00"
-tags:
-  - burgerrechten
-  - oorlog
-  - politiek
 title: Unsubscribe
 aliases:
   - /dingen/2007/11/unsubscribe/

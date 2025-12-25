@@ -5,8 +5,6 @@ categories:
   - product-/-design
   - travel
 date: "2008-07-27T11:26:42+00:00"
-tags:
-  - uncategorized
 title: Socio-locational disconnection
 aliases:
   - /dingen/2008/07/socio-locational-disconnection/

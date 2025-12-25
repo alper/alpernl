@@ -3,8 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-09-27T12:29:27+00:00"
-tags:
-  - eten
 title: Fusion is niks voor mij
 aliases:
   - /dingen/2007/09/fusion-is-niks-voor-mij/

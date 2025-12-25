@@ -3,8 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-04-28T14:08:52+00:00"
-tags:
-  - apple
 title: Macbook ondersteuning in Den Haag
 aliases:
   - /dingen/2007/04/macbook-ondersteuning-in-den-haag/

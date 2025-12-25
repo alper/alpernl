@@ -5,8 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2010-11-22T11:52:25+00:00"
-tags:
-  - weeknotes
 title: Week 192
 aliases:
   - /dingen/2010/11/week-192/

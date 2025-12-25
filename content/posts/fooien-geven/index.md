@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2008-02-14T12:59:27+00:00"
-tags:
-  - internet
-  - ondernemen
 title: Fooien geven
 aliases:
   - /dingen/2008/02/fooien-geven/

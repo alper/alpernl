@@ -6,12 +6,6 @@ categories:
   - english
   - photography
 date: "2008-06-09T07:20:17+00:00"
-tags:
-  - capoeira
-  - liberdade
-  - photography
-  - portrait
-  - uncategorized
 title: Fast Portraits
 aliases:
   - /dingen/2008/06/fast-portraits/

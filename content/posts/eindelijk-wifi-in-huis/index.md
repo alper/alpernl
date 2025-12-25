@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-08-04T10:50:05+00:00"
-tags:
-  - computers
-  - huishoudelijk
-  - internet
 title: Eindelijk WiFi in huis
 aliases:
   - /dingen/2007/05/eindelijk-wifi-in-huis/

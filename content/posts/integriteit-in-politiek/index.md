@@ -5,9 +5,6 @@ enclosure: |-
   http://s3.amazonaws.com/truth/4obama.mov
   56073506
   video/quicktime
-tags:
-  - politiek
-  - verkiezingen
 title: Integriteit in politiek
 aliases:
   - /dingen/2008/02/integriteit-in-politiek/

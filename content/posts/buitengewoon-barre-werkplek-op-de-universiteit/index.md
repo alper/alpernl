@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2007-05-23T12:28:05+00:00"
-tags:
-  - koffie
-  - tu-delft
-  - universiteit
-  - werken
 title: Buitengewoon barre werkplek op de universiteit
 aliases:
   - /dingen/2007/05/buitengewoon-barre-werkplek-op-de-universiteit/

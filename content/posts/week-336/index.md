@@ -4,8 +4,6 @@ categories:
   - english
   - travel
 date: "2013-10-06T12:16:04+00:00"
-tags:
-  - weeknotes
 title: Week 336
 aliases:
   - /dingen/2013/10/week-336/

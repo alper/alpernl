@@ -1,11 +1,6 @@
 ---
 author: alper
 date: "2008-01-23T00:35:37+00:00"
-tags:
-  - burgerrechten
-  - computers
-  - copyright
-  - politiek
 title: Stop amendement op auteursrechten in het Europese Parlement
 aliases:
   - /dingen/2008/01/stop-amendement-op-auteursrechten-in-het-europese-parlement/

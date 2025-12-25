@@ -1,8 +1,6 @@
 ---
 author: alper
 date: "2007-05-23T00:28:28+00:00"
-tags:
-  - fotografie
 title: Het kan echt niet meer
 aliases:
   - /dingen/2007/05/het-kan-echt-niet-meer/

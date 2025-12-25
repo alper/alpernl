@@ -3,11 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-09-11T13:36:40+00:00"
-tags:
-  - computers
-  - internet
-  - tu-delft
-  - universiteit
 title: Veranderingen ook in de e-mail
 aliases:
   - /dingen/2007/09/veranderingen-ook-in-de-e-mail/

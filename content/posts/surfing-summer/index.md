@@ -5,11 +5,6 @@ categories:
   - photography
   - uncategorized
 date: "2008-06-10T07:12:04+00:00"
-tags:
-  - scheveningen
-  - surf
-  - travel
-  - uncategorized
 title: Surfing Summer
 aliases:
   - /dingen/2008/06/surfing-summer/

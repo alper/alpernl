@@ -4,10 +4,6 @@ categories:
   - capoeira
   - video
 date: "2007-05-01T09:51:46+00:00"
-tags:
-  - drinken
-  - feest
-  - fotografie
 title: Koninginnedag zelf
 aliases:
   - /dingen/2007/05/koninginnedag-zelf/

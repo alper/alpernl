@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-04-23T11:33:27+00:00"
-tags:
-  - weeknotes
 title: 'Week 265: Tatort debate, presentations, writing about theater, reading'
 aliases:
   - /dingen/2012/04/week-265-tatort-debate-presentations-writing-about-theater-reading/

@@ -6,8 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-01-02T06:15:20+00:00"
-tags:
-  - weeknotes
 title: Week 248
 aliases:
   - /dingen/2012/01/week-248/

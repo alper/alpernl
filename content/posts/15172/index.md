@@ -4,8 +4,6 @@ categories:
   - english
   - work
 date: "2019-03-25T23:01:14+00:00"
-tags:
-  - jira
 title: ""
 aliases:
   - /dingen/2019/02/15172/

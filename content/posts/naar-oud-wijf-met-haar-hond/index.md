@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-05-02T16:53:48+00:00"
-tags:
-  - fotografie
-  - werken
 title: Naar oud wijf met haar hond
 aliases:
   - /dingen/2007/04/naar-oud-wijf-met-haar-hond/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-10-16T20:27:25+00:00"
-tags:
-  - fotografie
-  - reizen
 title: Hamburg en terug
 aliases:
   - /dingen/2007/10/161/

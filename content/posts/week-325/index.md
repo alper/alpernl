@@ -4,8 +4,6 @@ categories:
   - english
   - work
 date: "2013-06-28T13:14:09+00:00"
-tags:
-  - weeknotes
 title: Week 325
 aliases:
   - /dingen/2013/06/week-325/

@@ -3,8 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2011-01-24T15:18:07+00:00"
-tags:
-  - weeknotes
 title: Week 201
 aliases:
   - /dingen/2011/01/week-201/

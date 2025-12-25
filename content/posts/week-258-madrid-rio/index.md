@@ -4,8 +4,6 @@ categories:
   - english
   - work
 date: "2012-02-27T17:33:36+00:00"
-tags:
-  - weeknotes
 title: 'Week 258: Madrid, RIO'
 aliases:
   - /dingen/2012/02/week-258-madrid-rio/

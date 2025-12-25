@@ -6,14 +6,6 @@ categories:
   - music
   - video
 date: "2008-11-29T14:01:00+00:00"
-tags:
-  - api
-  - last.fm
-  - music
-  - player
-  - programming
-  - video
-  - youtube
 title: Lazy ass music videos
 aliases:
   - /dingen/2008/11/lazy-ass-music-videos/

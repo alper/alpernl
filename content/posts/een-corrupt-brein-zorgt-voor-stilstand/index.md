@@ -3,10 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-10-24T21:28:33+00:00"
-tags:
-  - burgerrechten
-  - internet
-  - muziek
 title: Een corrupt Brein zorgt voor stilstand
 aliases:
   - /dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/
