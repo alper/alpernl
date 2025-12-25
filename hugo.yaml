@@ -2,6 +2,8 @@ baseURL: https://alper.nl
 languageCode: en-US
 title: alper.nl
 theme: tailwind
+pagination:
+  pagerSize: 50
 taxonomies:
   category: categories
   tag: tags
