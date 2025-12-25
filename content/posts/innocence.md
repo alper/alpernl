@@ -1,0 +1,21 @@
+---
+_edit_last: "2"
+author: alper
+categories:
+  - english
+  - video
+date: "2009-10-13T11:23:17+00:00"
+guid: http://alper.nl/dingen/?p=1300
+parent_post_id: null
+post_id: "1300"
+title: Innocence
+url: /dingen/2009/10/innocence/
+
+---
+Interesting on the part of the sub-team adding extra information to clarify references, cultural differences and even tone of voice. There were enough of these notes to be distracting, which makes it a mixed blessing. I think a movie is experienced better without.
+
+[![[KAA] Ghost in the Shell_ Innocence](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence.png)](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence.png)
+
+And here another interesting image in a movie littered with them:
+
+[![[KAA] Ghost in the Shell_ Innocence-1](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence-1.png)](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence-1.png)

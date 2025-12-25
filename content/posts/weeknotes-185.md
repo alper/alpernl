@@ -1,0 +1,36 @@
+---
+_edit_last: "2"
+_wp_old_slug: ""
+author: alper
+categories:
+  - english
+  - internet
+  - monster-swell
+  - photography
+  - product-/-design
+  - work
+date: "2010-10-05T11:41:41+00:00"
+guid: http://alper.nl/dingen/?p=2163
+parent_post_id: null
+post_id: "2163"
+tags:
+  - weeknotes
+title: Weeknotes 185
+url: /dingen/2010/10/weeknotes-185/
+
+---
+[![That was bloody quick](http://farm5.static.flickr.com/4085/5041548573_7b78c97879.jpg)](http://www.flickr.com/photos/alper/5041548573/ "That was bloody quick by illustir, on Flickr")
+
+Last week was a short one due to a multitude of other engagements and a weekend trip to [Malmö-Lund-Copenhagen](http://www.flickr.com/photos/alper/sets/72157625096215518/) from which I returned yesterday.
+
+Project _mérida_ which concerns a collaboration with [Buro Pony](http://www.buropony.nl) took up some time and we had a meeting on that on Wednesday.
+
+A bunch of updates on [PLAY Pilots](http://playpilots.nl) were also on the roster and my first (and quite succesful) play at the Stereoscoop during the Film Festival.
+
+[![Epic Win](http://farm5.static.flickr.com/4084/5032593677_23747522ef.jpg)](http://www.flickr.com/photos/alper/5032593677/ "Epic Win by illustir, on Flickr")
+
+An opinion piece I've been writing for a national daily has been accepted, but the urgency of the topic has been pushed aside a bit by current political developments in the Netherlands. Here's hoping it gets published sometime soon.
+
+Wednesday was also the office warming for [Lev Kaupas](http://www.levkaupas.com/) new haunts which was a very lively and entertaining event.
+
+[![Friend Requests](http://farm5.static.flickr.com/4083/5041571630_48886ce2d7.jpg)](http://www.flickr.com/photos/alper/5041571630/ "Friend Requests by illustir, on Flickr")

@@ -1,0 +1,16 @@
+---
+author: alper
+categories:
+  - delft
+date: "2007-12-20T20:08:42+00:00"
+guid: http://alper.nl/dingen/2007/12/left-side-of-the-brain/
+parent_post_id: null
+post_id: "203"
+tags:
+  - muziek
+title: Left side of the brain
+url: /dingen/2007/12/left-side-of-the-brain/
+
+---
+En zo wordt er opeens een in-store concert gegeven door Fiction Plane in de platenzaak bij mij om de hoek:
+[![Fiction Plane](http://farm3.static.flickr.com/2190/2122585896_a9721700ef.jpg)](http://www.flickr.com/photos/alper/2122585896/ "Fiction Plane by illustir, on Flickr")
