@@ -39,6 +39,8 @@
   * [x] Create new permalink setup and alias the old links
     * https://gohugo.io/configuration/permalinks/
   * [ ] Set correct homepage
+  * [ ] Setup feed with redirect of old feed
+  * [ ] Figure out category feeds and why they aren't linked up
 * Theme edits
   * [x] Fix display of titleless posts
   * [ ] Fix display of titleless posts in search
@@ -48,12 +50,12 @@
   * [ ] Show full posts on list display
 * Data edits
   * [ ] Remove all tags from posts
-  * [ ] Remove post_id?
+  * [x] Remove post_id?
     * https://gohugobrasil.netlify.app/content-management/front-matter/
-  * [ ] Fix character encoding issues from posts
-  * [ ] Move images to final destination and change image links (see if Claude can move them into folders for each post)
-  * [ ] Remove the _edit_last, parent_post_id and _wpas_done_all fields
-  * [ ] Check for other superfluous fields to be removed
+  * [x] Fix character encoding issues from posts
+  * [x] Move images to final destination and change image links (see if Claude can move them into folders for each post)
+  * [x] Remove the _edit_last, parent_post_id and _wpas_done_all fields
+  * [x] Check for other superfluous fields to be removed
 * [ ] Backport old blog content into markdown
 
 
