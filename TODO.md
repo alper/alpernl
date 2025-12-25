@@ -35,10 +35,15 @@
 
 * Config setup
   * [ ] https://gohugo.io/configuration/all/
-  * [ ] Remove /dingen prefix
+  * [x] Remove /dingen prefix
+  * [x] Create new permalink setup and alias the old links
   * [ ] https://gohugo.io/configuration/permalinks/
 * Theme edits
-  * [ ] Fix display of titleless posts
+  * [x] Fix display of titleless posts
+  * [x] Remove time to read
+  * [x] Show all categories
+  * [ ] Remove dangling categories
+  * [ ] Show full posts on list display
 * Data edits
   * [ ] Remove all tags from posts
   * [ ] Remove post_id?
