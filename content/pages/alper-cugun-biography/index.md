@@ -17,7 +17,7 @@ title: Biography
 url: /dingen/alper-cugun-biography/
 
 ---
-[![Alper Cugun Portrait Februar 2015](/dingen/wp-content/uploads/2007/04/150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg)](/dingen/about/alper-cugun-portrait-februar-2015/)
+[![Alper Cugun Portrait Februar 2015](150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg)](/dingen/about/alper-cugun-portrait-februar-2015/)
 
 Photograph by [Antony Sojka](http://www.tonysojka.com/).
 

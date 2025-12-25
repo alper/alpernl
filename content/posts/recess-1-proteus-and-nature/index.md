@@ -12,7 +12,7 @@ title: Recess! 1 - Proteus and nature
 url: /dingen/2013/02/recess-1-proteus-and-nature/
 
 ---
-_Recess! is a correspondence series with personal ruminations on games._ [![proteus2](/dingen/wp-content/uploads/2013/02/proteus2.jpg)](/dingen/2013/02/recess-1-proteus-and-nature/proteus2/)
+_Recess! is a correspondence series with personal ruminations on games._ [![proteus2](proteus2.jpg)](/dingen/2013/02/recess-1-proteus-and-nature/proteus2/)
 
 Dear [Kars](http://leapfrog.nl/) and [Niels](http://nielsthooft.com/),
 

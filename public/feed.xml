@@ -341,7 +341,7 @@
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18414</guid> 
       <description>&lt;p&gt;When comedians say that Silicon Valley CEOs (and Mark Zuckerberg especially) are bitch coded, this is what they mean.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/10/bafkreigwp4qqltr7ydbo4soqhg4e6tpfzjyawtthz4ho32i2wtohjp5hym.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;bafkreigwp4qqltr7ydbo4soqhg4e6tpfzjyawtthz4ho32i2wtohjp5hym.jpg&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -702,7 +702,7 @@
        <guid isPermaLink="false">https://alper.nl/dingen/2025/09/18319/</guid> 
       <description>&lt;p&gt;Attitudes towards part-time employment of men are a good proxy indicator of how sophisticated the economy is and also of gender equality.&lt;/p&gt;
 &lt;p&gt;From my own experience Germany and the Netherlands are markedly different on this front and the statistics prove it with a 2x difference in part-time men.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/09/img_9581.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2025/09/18319/img_9581.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -793,7 +793,7 @@
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18291</guid> 
       <description>&lt;p&gt;This is the kind of deep and rational thinking we should expect to see from the billionaires who own most of the world. Jeff Bezos, one of the richest people in the world, got so demonised that he had to have a cry about it.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/08/bafkreiddi4d3iycm3rafupbn2ryraq4fabfhct6t7y7vwo3fodx3gk4dde-2.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;bafkreiddi4d3iycm3rafupbn2ryraq4fabfhct6t7y7vwo3fodx3gk4dde-2.jpg&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -879,7 +879,7 @@
       <description>&lt;p&gt;I&amp;rsquo;ve found it very useful to use &lt;a href=&#34;https://github.com/jj-vcs/jj&#34;&gt;jj&lt;/a&gt; to continuously and automatically snapshot the changes that Claude makes. This way if it does anything that I didn&amp;rsquo;t want, it&amp;rsquo;s incredibly easy to undo it and still keep a clean history.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s what my hackathon project looks like in the &lt;a href=&#34;https://github.com/gulbanana/gg&#34;&gt;gg&lt;/a&gt; client after several days of on and off development.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/07/CleanShot-2025-07-25-at-16.41.13@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2025-07-25-at-16.41.13@2x.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;You can have Claude do these steps as well. It&amp;rsquo;s pretty good at &lt;code&gt;jj describe&lt;/code&gt; even if a bit verbose. And in most cases it could also do &lt;code&gt;jj new&lt;/code&gt; before every change, something that I forget occasionally.&lt;/p&gt;</description>
@@ -1428,7 +1428,7 @@
 &lt;p&gt;Jetzt habe ich einen guten Job aber ich versuche meine Familie davon zu überzeugen demnächst zurück nach Amsterdam oder in die Schweiz umzuziehen.&lt;/p&gt;
 &lt;p&gt;Ich meine was man hätte tun sollen ist einige von den Problemen die hier skizziert werden zu lösen:&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/02/61LnmYbbtPL.%5FSL1500%5F.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;61LnmYbbtPL._SL1500_.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Nur:&lt;/p&gt;
@@ -1660,7 +1660,7 @@
 &lt;p&gt;I do this during extended work sessions away from my desk.&lt;/p&gt;
 &lt;p&gt;The setup is really easy with Karabiner Elements and a new profile that disables the laptop built-in keyboard when my contra is plugged in.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/02/img%5F7796.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;img_7796.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://xn--gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/&#34;&gt;https://xn&amp;ndash;gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/&lt;/a&gt;&lt;/p&gt;</description>
@@ -1734,28 +1734,28 @@
 &lt;p&gt;They want Sulla:&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/01/they-want-sulla.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;they-want-sulla.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
 &lt;p&gt;They have a hierarchical view of the world:&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/01/hierarchical.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;hierarchical.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
 &lt;p&gt;November saying that they really want Hitler:&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/01/they-really-want-hitler.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;they-really-want-hitler.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
 &lt;p&gt;The op-ed departments love this stuff:&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/01/op-ed.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;op-ed.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;</description>
     </item>
@@ -1907,7 +1907,7 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://tenpages.github.io/us-level/us.html&#34;&gt;Maps for where you&amp;rsquo;ve been&lt;/a&gt; in Europe and the US ( &lt;a href=&#34;http://www.iamcal.com/2025-01/10229/&#34;&gt;via&lt;/a&gt;). Stayed means having spent a night there which means the only places I&amp;rsquo;ve visited and not spent the night are Slovenia (went over the border to hike a mountain there) and the Vatican.&lt;/p&gt;
 &lt;p&gt;I should probably upgrade Turkey to lived depending on your definition: stayed in your own house or registered as a resident.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2025/01/CleanShot-2025-01-12-at-11.30.08@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2025-01-12-at-11.30.08@2x.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;My score for the US is negligible and I don&amp;rsquo;t see this changing any time soon (maybe ever).&lt;/p&gt;</description>
@@ -2196,7 +2196,7 @@
       <pubDate>Fri, 27 Dec 2024 20:22:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17819</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-27-at-21.16.15@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2024-12-27-at-21.16.15@2x.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;From &lt;a href=&#34;https://www.ams.org/notices/200410/fea-grothendieck-part2.pdf&#34;&gt;the Grothendieck biography&lt;/a&gt;, funny to see that the legend would express himself in German.&lt;/p&gt;
@@ -2454,7 +2454,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17699</guid> 
       <description>&lt;p&gt;Watched “Evil Does Not Exist” as GIFT, the recut and rescored (silent) version performed live by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eiko_Ishibashi&#34;&gt;Eiko Ishibashi&lt;/a&gt; at HAU1.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/11/IMG%5F7406.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_7406.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;This has a shorter runtime than the movie because a lot of fluff is cut out and we are only left with a very summary story. That is a good choice and I can&amp;rsquo;t say the movie suffers from it very much even though this is version is very much its own thing (i.e. not a narrative movie).&lt;/p&gt;</description>
@@ -2586,7 +2586,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
       <pubDate>Sun, 03 Nov 2024 17:22:18 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17657</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/11/bafkreifd42yeog54zrdxr5nlgdpmeq66ptq4mzbesxzsnjucn34zybcfgu-2.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;bafkreifd42yeog54zrdxr5nlgdpmeq66ptq4mzbesxzsnjucn34zybcfgu-2.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;I was somewhat excited to watch this anime series. It&amp;rsquo;s only 12 episodes for its first season so it was over pretty quickly.&lt;/p&gt;
@@ -2608,7 +2608,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17645</guid> 
       <description>&lt;p&gt;I knew it of course, but I hadn&amp;rsquo;t realised how dead the web has gotten until I saw this historic overview of traffic to my blog.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/11/CleanShot-2024-11-03-at-02.14.40@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2024-11-03-at-02.14.40@2x.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;It used to be worthwhile but right now more or less the only person that I&amp;rsquo;m writing these things for anymore is me.&lt;/p&gt;</description>
@@ -3263,7 +3263,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17455</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m enjoying another light season of &lt;a href=&#34;https://en.wikipedia.org/wiki/Spy_%C3%83%E2%80%94_Family&#34;&gt;SPY x FAMILY&lt;/a&gt;. It&amp;rsquo;s a light anime whose premise is that of a spy (Loid) who needs live in deep cover in hostile territory and forms a family of convenience. He finds a woman (Yor) who&amp;rsquo;s secretly an assassin also in need of cover and an orphan child (Anya) who&amp;rsquo;s a telepath. It&amp;rsquo;s great fun.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2024/03/IMG%5F5912.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_5912.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Season 2 goes on with the story arc and some filler segments thrown in between. Of these, in the third episode ( &lt;a href=&#34;https://trakt.tv/shows/spy-x-family/seasons/2/episodes/3&#34;&gt;S02E03&lt;/a&gt;) they pull off a stunning take on &lt;a href=&#34;https://letterboxd.com/film/the-lives-of-others/&#34;&gt;“Das Leben der Anderen”&lt;/a&gt;. I was watching it and by the time it was over I couldn&amp;rsquo;t believe they&amp;rsquo;d done this.&lt;/p&gt;</description>
@@ -3491,7 +3491,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17340</guid> 
       <description>&lt;p&gt;Suppose you&amp;rsquo;re a well-known journalists hosting a weekly rather left podcast around topics such as migration, the climate and criticism of right-wing frames in the media. And then suppose you let yourself get baited majorly by an American alt-right activist.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/12/Friedemann-baited.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;Friedemann-baited.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;This particular video was going around on German twitter and all the usual suspects were letting themselves get baited by it including above mentioned Friedemann. I &lt;a href=&#34;http://localhost:62818/dingen/?s=piratensender&#34;&gt;wrote about their podcast previously&lt;/a&gt; and I couldn&amp;rsquo;t resist so I confronted him on it.&lt;/p&gt;</description>
@@ -3531,7 +3531,7 @@ Ein packendes Beispiel dafür, wie unser Wissens und Entdeckungsdrang sich immer
 &lt;p&gt;Fragment from around 45:00 clipped below:&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/11/volkskorper.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;volkskorper.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -3815,7 +3815,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
 &lt;p&gt;He also mentions that Germany is debt unconstrained and could borrow much more than it is doing right now to fix its broken infrastructure but won&amp;rsquo;t do it because of stupid politics.&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/07/Germany-debt-unconstrained.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;Germany-debt-unconstrained.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -3827,7 +3827,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
       <pubDate>Wed, 26 Jul 2023 20:38:46 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17239</guid> 
       <description>&lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/07/Tooze-Clip.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;Tooze-Clip.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -3843,7 +3843,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
       <description>&lt;p&gt;Once in a while they knock them out of the park in this podcast. In this episode Friedemann Karig goes out and asks for people to understand the necessity and reasons behind violent antifascism in the void left behind when the state fails to protect its citizens.&lt;/p&gt;
 
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-  &lt;source src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/07/Friedeman-Karig-about-militant-antifascism.mp3&#34; type=&#34;audio/mp3&#34;&gt;
+  &lt;source src=&#34;Friedeman-Karig-about-militant-antifascism.mp3&#34; type=&#34;audio/mp3&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -3997,7 +3997,7 @@ We don&amp;rsquo;t have any reason to regret it. We were clearly right.&lt;/p&gt
       <description>&lt;p&gt;I got nerd sniped pretty hard by somebody sharing a Django code challenge: &amp;ldquo;only touch views.py and optimize a page load to a time and memory budget in 60 minutes&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Started it before going to bed just to see if I still had it and 0.3s and 38MB say that I do still have it. Django is also a king among frameworks.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2023/06/CleanShot-2023-06-02-at-01.36.26@2x.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;CleanShot-2023-06-02-at-01.36.26@2x.png&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -5848,7 +5848,7 @@ by Benji Weber put forth a strong argument especially against people working as 
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16630</guid> 
       <description>&lt;p&gt;The construction site that surrounds our house has started a bunch of space heaters this week. The devices had been there for a while but only started being annoying now that they&amp;rsquo;re turned on. These things run day and night, they make a ridiculous amount of noise (some 60 dB at our window) and because they burns diesel oil they also pollute and stink up the entire courtyard.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2021/11/IMG%5F1458-1.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_1458-1.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;We are used to some noise and annoyance during the day time with this construction site. Some of the noise we went through was truly unbelievable and for some periods we have received a reduction in our rent. We thought that with most external construction being done, we would finally be able to get some peace but now these things are running and will probably run all winter.&lt;/p&gt;</description>
@@ -6102,7 +6102,7 @@ by Benji Weber put forth a strong argument especially against people working as 
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16560</guid> 
       <description>&lt;p&gt;I need to keep track of how our bet on AWS AppSync is doing which is so small that it doesn&amp;rsquo;t show up in Stack Overflow&amp;rsquo;s official tags chart but &lt;a href=&#34;http://sotagtrends.com/?tags=aws-appsync+aws-api-gateway+aws-lambda&#34;&gt;here&amp;rsquo;s an off-label website&lt;/a&gt; that will give it to us.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2021/08/Tag-Trends-2021-08-15-13-13-07.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;Tag-Trends-2021-08-15-13-13-07.jpg&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -6196,7 +6196,7 @@ by Benji Weber put forth a strong argument especially against people working as 
       <pubDate>Sun, 13 Jun 2021 09:33:20 +0000</pubDate>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16531</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2021/06/Bir-Baskadir-Frame-1.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;Bir-Baskadir-Frame-1.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;The character relations turned into a bit of a tangle so I fired up Miro and &lt;a href=&#34;https://miro.com/app/board/o9J_lBPW5CU=/&#34;&gt;quickly charted them out&lt;/a&gt;. In the end it wasn&amp;rsquo;t that complicated but the worlds of Meryem and Peri are very clearly separate.&lt;/p&gt;
@@ -6915,7 +6915,7 @@ Uiteindelijk komt het bij de aanpak van zo’n crisis voor een groot deel aan op
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16325</guid> 
       <description>&lt;p&gt;The nice part of working on open source is I can finally share some of the amazing work my team has been doing. Here&amp;rsquo;s some forthcoming Suricata contributions by Sascha and Frank with more on the way.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/10/image%5Ffrom%5Fios.jpg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image_from_ios.jpg&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -6934,7 +6934,7 @@ Uiteindelijk komt het bij de aanpak van zo’n crisis voor een groot deel aan op
       <description>&lt;p&gt;After having been &lt;a href=&#34;http://localhost:62818/dingen/2020/08/losing-firstname-on-instagram/&#34;&gt;locked out of my Instagram&lt;/a&gt; account for months because of wrongful reports, I have just gotten back access to the account for a week or so and I already get the first people reporting me again.&lt;/p&gt;
 &lt;p&gt;And how do I know that they&amp;rsquo;re doing this? They are in my messages and telling me that they are doing it. This is extremely brazen.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/09/IMG%5F9505-2.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_9505-2.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;I don&amp;rsquo;t know what they are thinking but let&amp;rsquo;s hope that Instagram has tweaked some of their abuse processes or that my additional protection will pay off.&lt;/p&gt;</description>
@@ -6956,7 +6956,7 @@ Uiteindelijk komt het bij de aanpak van zo’n crisis voor een groot deel aan op
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16314</guid> 
       <description>&lt;p&gt;So the Instagram handle that &lt;a href=&#34;http://localhost:62818/dingen/2020/08/losing-firstname-on-instagram/&#34;&gt;I thought I had lost&lt;/a&gt; was returned to me suddenly last week (thanks to a friend). Not sure whether I&amp;rsquo;ll get to keep it this time round, but let&amp;rsquo;s try.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/09/IMG%5F35EEFA265E81-1.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_35EEFA265E81-1.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;At least this time I&amp;rsquo;ve copied most of my follows to my backup account and I&amp;rsquo;ll see if I can make a data backup at one point or another.&lt;/p&gt;</description>
@@ -7298,7 +7298,7 @@ Uiteindelijk komt het bij de aanpak van zo’n crisis voor een groot deel aan op
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/aaronzlewis/status/1291889695102656513&#34;&gt;https://twitter.com/aaronzlewis/status/1291889695102656513&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This graphic about Western vs. Eastern conceptions of playing from &amp;lsquo;The Future of Ritual&amp;rsquo;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/08/Ee2wBT%5FXoAYlBrD.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;Ee2wBT_XoAYlBrD.jpeg&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -7422,7 +7422,7 @@ Uiteindelijk komt het bij de aanpak van zo’n crisis voor een groot deel aan op
       <pubDate>Mon, 20 Jul 2020 22:34:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16180</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/07/image.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image.png&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -7496,11 +7496,11 @@ Uiteindelijk komt het bij de aanpak van zo’n crisis voor een groot deel aan op
       <description>&lt;p&gt;Edge C2 is a nice ideal position to move towards in this article about military agility that contains a bunch of useful elements including an interlinked OODA loop and a visualization of the Trust Equation.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://thearmyleader.co.uk/future-of-command-and-control/&#34;&gt;https://thearmyleader.co.uk/future-of-command-and-control/&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/07/Interlinked-OODA.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;Interlinked-OODA.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2020/07/Trust-Equation.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;Trust-Equation.png&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -8801,7 +8801,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
       <description>&lt;p&gt;Found this on Reddit and made my own.&lt;/p&gt;
 &lt;p&gt;Picked the countries where 50% of the people speak a language where I have at least B level of skill.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/10/5e3bc816-e99f-46b4-92a5-4adc3b911d5d.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;5e3bc816-e99f-46b4-92a5-4adc3b911d5d.png&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     <item>
@@ -9837,7 +9837,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
       <description>&lt;p&gt;I&amp;rsquo;ve stopped using &lt;a href=&#34;https://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt; for a long time now, but I&amp;rsquo;m still reading longreads. Let me explain how.&lt;/p&gt;
 &lt;p&gt;I go through my links in Chrome on my desktop. I close and read whatever I can and anything that&amp;rsquo;s too long stays in an open tab and floats slowly to the left.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/06/IMG%5FCAACFBBBB194-1-1.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;IMG_CAACFBBBB194-1-1.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;On Chrome on my phone whenever I&amp;rsquo;m in transit or when I want to read something longer that isn&amp;rsquo;t a book, I go to the “Recent tabs”screen. Besides those you can also find synced open tabs from all your other Chrome browsers. I then pick something that I want to read.&lt;/p&gt;</description>
@@ -10778,7 +10778,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
       <pubDate>Fri, 15 Mar 2019 22:22:38 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15255</guid> 
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/03/JPEG-image-33A58FAF2AC2-1-1.jpeg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;JPEG-image-33A58FAF2AC2-1-1.jpeg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Scooters are not legal in Germany yet but in select locations like here in Berlin you can try them out on private land.&lt;/p&gt;
@@ -11108,7 +11108,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6091</guid> 
       <description>&lt;p&gt;I grabbed &lt;a href=&#34;https://github.com/alper/goodreadsgraph&#34;&gt;the code&lt;/a&gt; I had lying around for &lt;a href=&#34;http://localhost:62818/dingen/2017/12/reading-2017/&#34;&gt;last year&lt;/a&gt; and without too much trouble ran the same analysis for the books. The graph is not that dramatic this time though for some reason I did not read much during summer.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2019/01/download.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;download.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Page-wise this year with 13398 pages was a bit weaker than last year (15049 pages).&lt;/p&gt;
@@ -11161,7 +11161,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
       <link>http://localhost:62818/dingen/dingen/alper-cugun-biography/</link>
       <pubDate>Fri, 21 Dec 2018 02:12:34 +0000</pubDate>
        <guid isPermaLink="false">http://localhost:62818/dingen/dingen/alper-cugun-biography/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/about/alper-cugun-portrait-februar-2015/&#34;&gt;&lt;img alt=&#34;Alper Cugun Portrait Februar 2015&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2007/04/150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/about/alper-cugun-portrait-februar-2015/&#34;&gt;&lt;img alt=&#34;Alper Cugun Portrait Februar 2015&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/alper-cugun-biography/150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Photograph by &lt;a href=&#34;http://www.tonysojka.com/&#34;&gt;Antony Sojka&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
 &lt;p&gt;Alper Çuğun-Gscheidel M.Sc. is an engineer, designer and author working in software engineering.&lt;/p&gt;
@@ -11427,7 +11427,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
       <pubDate>Fri, 18 May 2018 08:04:49 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=6001</guid> 
       <description>&lt;p&gt;A couple of weeks ago I took the train to Hamburg and back to present at the Good School. Here&amp;rsquo;s a picture of me in action courtesy of &lt;a href=&#34;http://www.good-school.de/&#34;&gt;The Good School&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2018/05/presenting-at-the-good-school/dtc_t_3-tag_alper/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2018/05/DTC_T_3.-Tag_Alper.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2018/05/presenting-at-the-good-school/dtc_t_3-tag_alper/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2018/05/presenting-at-the-good-school/DTC_T_3.-Tag_Alper.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>UIKonf Unconference: Gradual Coordinators</title>
@@ -11722,7 +11722,7 @@ This is even worse in Germany where the institutions are bigger and the ahistori
       <link>http://localhost:62818/dingen/dingen/2017/12/xir-angela-merkel/</link>
       <pubDate>Thu, 28 Dec 2017 22:06:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5903</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2017/12/XiR-%E2%80%94-Angela-Merkel-%E2%80%94-alper.nl-2017-12-28-23-11-53-1024x618.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;XiR-%E2%80%94-Angela-Merkel-%E2%80%94-alper.nl-2017-12-28-23-11-53-1024x618.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Turkish MC &lt;a href=&#34;https://www.facebook.com/xirgokdeniz/&#34;&gt;XiR&lt;/a&gt; has a new trap song out with the noteworthy title Angela Merkel. There is even somebody with a Merkel mask in the video.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/5Ci2kwIob6c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -12604,7 +12604,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <pubDate>Thu, 10 Dec 2015 11:25:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5387</guid> 
       <description>&lt;p&gt;I was tremendously hyped for &lt;a href=&#34;https://en.wikipedia.org/wiki/Deutschland_83&#34;&gt;Deutschland &amp;lsquo;83&lt;/a&gt; after hearing about it and watching the first episode. Now that it is finally airing in Germany it turns out that &lt;a href=&#34;http://www.tagesspiegel.de/medien/deutschland-83-diese-serie-passt-nicht-ins-deutsche-fernsehen/12701524.html&#34;&gt;it is not doing that well&lt;/a&gt;. Viewership started out low and has been declining over the first four episodes.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/12/deutschland-83/img_0181/&#34;&gt;&lt;img alt=&#34;IMG_0181&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/12/IMG_0181.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/UFAFiction/posts/1095109577195935&#34;&gt;People are attributing this&lt;/a&gt; to the fact that the average &lt;a href=&#34;http://rtl.de/&#34;&gt;RTL&lt;/a&gt; viewer is stupid and only used to watch plain episodic series. That may well be true, but the decline of the series&amp;rsquo;s ratings closely mirror the decline of my appetite for the show itself. By episode four Deutschland &amp;lsquo;83 is a slog and the only thing that got me to the finish line was an empty Sunday and stamina.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/12/deutschland-83/img_0181/&#34;&gt;&lt;img alt=&#34;IMG_0181&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2015/12/deutschland-83/IMG_0181.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/UFAFiction/posts/1095109577195935&#34;&gt;People are attributing this&lt;/a&gt; to the fact that the average &lt;a href=&#34;http://rtl.de/&#34;&gt;RTL&lt;/a&gt; viewer is stupid and only used to watch plain episodic series. That may well be true, but the decline of the series&amp;rsquo;s ratings closely mirror the decline of my appetite for the show itself. By episode four Deutschland &amp;lsquo;83 is a slog and the only thing that got me to the finish line was an empty Sunday and stamina.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSM Live Edit Screensaver</title>
@@ -12661,7 +12661,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2015/09/straight-outta-compton/</link>
       <pubDate>Sat, 19 Sep 2015 12:11:52 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5297</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/09/straight-outta-compton/lwoae/&#34;&gt;&lt;img alt=&#34;LwoaE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/09/LwoaE.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/09/straight-outta-compton/lwoae/&#34;&gt;&lt;img alt=&#34;LwoaE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2015/09/straight-outta-compton/LwoaE.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I would have preferred &lt;a href=&#34;http://letterboxd.com/film/straight-outta-compton/&#34;&gt;Straight Outta Compton&lt;/a&gt; to be a documentary cut together from real footage and narrated by the guys themselves. There is a lot of that available which you can see bits of during the credits of this movie. The biopic is well done but the dramatization does not add much and in many parts the movie devolves into melodrama.&lt;/p&gt;
 &lt;p&gt;What is amazing is how music executives are universally portrayed as the terrible human beings which they are. This is a recurring theme up until the late movie slithering appearance of Jimmy Iovine. If you read up on the stuff that went down with Ruthless you could even argue that the movie downplays it.&lt;/p&gt;</description>
     </item>
@@ -12735,7 +12735,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2015/05/encounter-zone-maasenstrase/</link>
       <pubDate>Thu, 28 May 2015 13:18:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5215</guid> 
-      <description>&lt;p&gt;Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after &lt;a href=&#34;https://begegnungszonen.berlin.de/&#34;&gt;a public consultation&lt;/a&gt; was finished last year or the year before. I looked around a bit but I couldn&amp;rsquo;t find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got &lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/05/06-Flyer_Begegnungszone_maassenstr.pdf&#34;&gt;a PDF of the plan&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after &lt;a href=&#34;https://begegnungszonen.berlin.de/&#34;&gt;a public consultation&lt;/a&gt; was finished last year or the year before. I looked around a bit but I couldn&amp;rsquo;t find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got &lt;a href=&#34;06-Flyer_Begegnungszone_maassenstr.pdf&#34;&gt;a PDF of the plan&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/alper/17361704548&#34; title=&#34;Redesigning Maaßenstraße by Alper Çuğun, on Flickr&#34;&gt;&lt;img alt=&#34;Redesigning Maaßenstraße&#34; loading=&#34;lazy&#34; src=&#34;https://c2.staticflickr.com/6/5445/17361704548_cb4465b6a7_z.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -12765,7 +12765,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5189</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/121072011&#34;&gt;Matt Jones: Jumping to the End &amp;ndash; Practical Design Fiction&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/ixdaglobal&#34;&gt;Interaction Design Association&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Matt Jones gives an overview of the kind of work he used to do at BERG and then talks about the process of his creative work at Google. It&amp;rsquo;s refreshing to see that practice is shifting towards media that is readily consumable and deliverables that actually do something.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/03/jumping-to-the-end-by-matt-jones/matt_jones_jumping_to_the_end_-_practical_design_fiction_on_vimeo_2015-03-11_16-52-01/&#34;&gt;&lt;img alt=&#34;Matt_Jones_Jumping_to_the_End_&amp;ndash;_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/03/Matt_Jones_Jumping_to_the_End_-_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/03/jumping-to-the-end-by-matt-jones/matt_jones_jumping_to_the_end_-_practical_design_fiction_on_vimeo_2015-03-11_16-52-01/&#34;&gt;&lt;img alt=&#34;Matt_Jones_Jumping_to_the_End_&amp;ndash;_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2015/03/jumping-to-the-end-by-matt-jones/Matt_Jones_Jumping_to_the_End_-_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terry Pratchett</title>
@@ -12818,7 +12818,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/</link>
       <pubDate>Fri, 23 Jan 2015 19:10:28 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5129</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/kis-uykusu-7/&#34;&gt;&lt;img alt=&#34;Kis-Uykusu-7&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/01/Kis-Uykusu-7.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/kis-uykusu-7/&#34;&gt;&lt;img alt=&#34;Kis-Uykusu-7&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/Kis-Uykusu-7.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I watched Winter Sleep in the train back to Berlin and Ceylan is indulging himself with his movies becoming ever longer. &lt;a href=&#34;http://letterboxd.com/film/winter-sleep/&#34;&gt;Winter Sleep&lt;/a&gt; clocks in at three hours and fifteen minutes so by the time it was over I found myself well past Hannover.&lt;/p&gt;
 &lt;p&gt;The movie is about freedom—the bit with the horse and the guy on the motorcycle sort of gave it away—and in particularly the fact that however much apparent physical freedom people may have, they will not take advantage of it because their effective freedom is the product of complex social negotiation. At some point people become trapped both within themselves and by each other.&lt;/p&gt;</description>
     </item>
@@ -12827,7 +12827,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2015/01/cache-and-french-history/</link>
       <pubDate>Tue, 20 Jan 2015 08:13:11 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5114</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/01/cache1.jpg&#34;&gt;&lt;img alt=&#34;cache1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/01/cache1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;cache1.jpg&#34;&gt;&lt;img alt=&#34;cache1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2015/01/cache-and-french-history/cache1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In my newly rekindled love for movies, this weekend I finally watched &lt;a href=&#34;http://letterboxd.com/film/cache/&#34;&gt;Caché&lt;/a&gt; ((I seem to be the only person I know who watches a lot of French movies.)). As expected the movie is excellent and I should watch more movies by Haneke. It plays out like a reverse and more refined version of the &lt;a href=&#34;http://www.nytimes.com/2013/03/10/books/review/the-dinner-by-herman-koch.html?pagewanted=all&amp;amp;_r=0&#34;&gt;Dinner&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I was however stupefied to learn about the &lt;a href=&#34;http://en.wikipedia.org/wiki/Paris_massacre_of_1961&#34;&gt;Paris massacre of 1961&lt;/a&gt; from this movie. The French culture we learned in school did not really touch on colonial history instead focusing on the more touristic aspects.&lt;/p&gt;</description>
     </item>
@@ -12836,7 +12836,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2015/01/once-upon-a-time-in-anatolia/</link>
       <pubDate>Mon, 19 Jan 2015 09:06:46 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5112</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/01/anatoliablu00002.jpg&#34;&gt;&lt;img alt=&#34;anatoliablu00002&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2015/01/anatoliablu00002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;anatoliablu00002.jpg&#34;&gt;&lt;img alt=&#34;anatoliablu00002&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2015/01/once-upon-a-time-in-anatolia/anatoliablu00002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I rewatched &lt;a href=&#34;http://letterboxd.com/film/once-upon-a-time-in-anatolia/&#34;&gt;Once Upon a Time in Anatolia&lt;/a&gt; last week with my parents and it was even better than the first time. I usually think that movies shouldn&amp;rsquo;t be longer than two hours but here even a second viewing did not bore.&lt;/p&gt;
 &lt;p&gt;What I learned is that it at one point the convoy moves out of the &lt;a href=&#34;http://en.wikipedia.org/wiki/K%C4%B1r%C4%B1kkale&#34;&gt;Kırıkkale&lt;/a&gt; area into the administrative part of Turkey that we are from ( &lt;a href=&#34;https://goo.gl/maps/k3RXz&#34;&gt;map&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The idle chit-chat of the people in the cars is still funny but now it was easier to keep track of the interleaving stories. Pared down they rend flesh. Arap&amp;rsquo;s story about why you need a gun or the piecewise telling of a woman&amp;rsquo;s suicide are incredible. The point where Clark Gable swallows his words being one extreme example.&lt;/p&gt;</description>
@@ -12933,7 +12933,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/</link>
       <pubDate>Wed, 03 Sep 2014 10:07:10 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=5052</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2014/09/screen520x924.jpeg&#34;&gt;&lt;img alt=&#34;screen520x924&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2014/09/screen520x924.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;screen520x924.jpeg&#34;&gt;&lt;img alt=&#34;screen520x924&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/screen520x924.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In de &lt;a href=&#34;http://www.nrc.nl/&#34;&gt;nrc.next&lt;/a&gt; van vandaag staat &lt;a href=&#34;https://blendle.nl/i/nrcnext/golfen-in-de-woestijn/bnl-nn-20140903-1415978&#34;&gt;de eerste helft&lt;/a&gt; van mijn recensie van de iOS sensatie &lt;a href=&#34;https://itunes.apple.com/us/app/desert-golfing/id902062673?mt=8&#34;&gt;Desert Golfing&lt;/a&gt;. Hier is de rest:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Desert Golfing is een game over golfen in de woestijn. In een twee-dimensionaal pastelkleurig woestijnlandschap moet je een bal de hole in schieten. Je vinger bepaalt de kracht en de hoek van je slag en als je loslaat vliegt de bal weg. Hoe ver je bal komt, hoe vaak hij stuitert en hoe lang hij doorrolt voelen perfect, eigenlijk precies alsof je echt golf speelt in een woestijn. Alleen ben je hier na 18 holes niet klaar. De maker laat niet veel los maar spelers hebben ontdekt dat er duizenden willekeurig gegenereerde woestijnlandschappen—de een moeilijker dan de andere—wachten om gespeeld te worden. Of er een einde aan komt weten we niet. De combinatie van eenvoud en oneindigheid maken dat je Desert Golfing lang kunt blijven spelen. Het is een fijn tussendoortje voor onderweg en tegelijkertijd een meditatie op hoeveel er met heel weinig mogelijk is.&lt;/p&gt;</description>
@@ -12962,7 +12962,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <description>&lt;blockquote&gt;
 &lt;p&gt;“The new technology was both the virus and the vector of transmission.”— Walter J. Ong&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2014/08/Shannonmouse.png&#34;&gt;&lt;img alt=&#34;Shannonmouse&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2014/08/Shannonmouse.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Shannonmouse.png&#34;&gt;&lt;img alt=&#34;Shannonmouse&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2014/08/holiday-reading-the-information-by-james-gleick/Shannonmouse.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This was one of the three books I read during my holiday in a cabin on the Austrian Alps. To hedge against a lack of sun hours to charge my reading device with I brought some physical books that had been lingering on my moribund to-read pile.&lt;/p&gt;
 &lt;p&gt;I wasn&amp;rsquo;t sure if ‘The Information’ would be worth reading as a graduate in computer science but it turns out that it is as fantastic a book as everybody said it was.&lt;/p&gt;</description>
     </item>
@@ -13280,7 +13280,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2013/07/only-god-forgives/</link>
       <pubDate>Mon, 29 Jul 2013 11:07:05 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4704</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/07/only-god-forgives.jpg&#34;&gt;&lt;img alt=&#34;only-god-forgives&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/07/only-god-forgives.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;only-god-forgives.jpg&#34;&gt;&lt;img alt=&#34;only-god-forgives&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2013/07/only-god-forgives/only-god-forgives.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;After a rather hectic week and day last Friday I went to see &lt;a href=&#34;http://www.imdb.com/title/tt1602613/&#34;&gt;Only God Forgives&lt;/a&gt; in &lt;a href=&#34;https://foursquare.com/v/central/4b0722d6f964a520f8f722e3&#34;&gt;Central&lt;/a&gt; cinema ((Which honestly is a bit of a dump, but it was the best option given the circumstances.)). The movie is rather excellent if you like extreme violence or Ryan Gosling or both.&lt;/p&gt;
 &lt;p&gt;The stylized violence and disjunct story telling reminded me remotely of &lt;a href=&#34;http://www.g-v.fr/creations/ve-thisishowyouwilldisappear-frameset.htm&#34;&gt;This Is How You Will Disappear&lt;/a&gt;. Probably not because any real visual similarity but because I am anxious for somebody in theater to produce something that good and ballsy again. And as &lt;a href=&#34;http://www.guardian.co.uk/film/2013/may/22/cannes-only-good-forgives-ryan-gosling-review&#34;&gt;this Guardian critic says&lt;/a&gt;, the Asian setting and lighting are reminiscent of Noé&amp;rsquo;s &lt;a href=&#34;http://www.imdb.com/title/tt1191111/&#34;&gt;Enter the Void&lt;/a&gt; which I would recommend if you can stomach it.&lt;/p&gt;</description>
     </item>
@@ -13416,7 +13416,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2013/05/4575/</link>
       <pubDate>Sat, 18 May 2013 15:41:00 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4575</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-05-18 at 5.33.27 PM&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/05/Screen-Shot-2013-05-18-at-5.33.27-PM.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-05-18 at 5.33.27 PM&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2013/05/4575/Screen-Shot-2013-05-18-at-5.33.27-PM.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The turn above from Rosa-Luxemburg-Straße into Schönhauser Allee yesterday around 19:15 is where I almost got hit by a woman driving a black car with license plates &lt;strong&gt;LDS HS 179&lt;/strong&gt;. Shaken but not too shaken I pursued them up the street to demonstrate my discontent and to write down the plate number.&lt;/p&gt;
 &lt;p&gt;I should have seen that they weren&amp;rsquo;t going to stop though they usually do but this was rather unexpected during a leisurely evening ride where absolutely nothing should have gone wrong.&lt;/p&gt;</description>
     </item>
@@ -13574,7 +13574,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2013/03/not-their-mothers-and-fathers/</link>
       <pubDate>Fri, 22 Mar 2013 10:33:39 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4429</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-03-20 at 22.49.53&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/03/Screen-Shot-2013-03-20-at-22.49.53-.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/&#34;&gt;&lt;img alt=&#34;Screen Shot 2013-03-20 at 22.49.53&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2013/03/not-their-mothers-and-fathers/Screen-Shot-2013-03-20-at-22.49.53-.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A new large scale German drama series has been making the rounds on Twitter this week called &lt;a href=&#34;http://de.wikipedia.org/wiki/Unsere_M%C3%BCtter,_unsere_V%C3%A4ter&#34;&gt;‘Unsere Mütter, Unsere Väter’&lt;/a&gt; and it is interesting though flawed. I haven&amp;rsquo;t seen a production with these production values on German television before and I think we should see more of it ((Something properly historical could be interesting. Martin suggested a series on the life of Charlemagne.)).&lt;/p&gt;
 &lt;p&gt;The series is somewhat schmaltzy (see the screen capture above of bullet casings landing in slow motion on a group portrait) but that is to be expected from a mainstream production.&lt;/p&gt;</description>
     </item>
@@ -13696,7 +13696,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <link>http://localhost:62818/dingen/dingen/2013/02/recess-1-proteus-and-nature/</link>
       <pubDate>Tue, 05 Feb 2013 14:00:58 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4255</guid> 
-      <description>&lt;p&gt;&lt;em&gt;Recess! is a correspondence series with personal ruminations on games.&lt;/em&gt; &lt;a href=&#34;http://localhost:62818/dingen/2013/02/recess-1-proteus-and-nature/proteus2/&#34;&gt;&lt;img alt=&#34;proteus2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/02/proteus2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Recess! is a correspondence series with personal ruminations on games.&lt;/em&gt; &lt;a href=&#34;http://localhost:62818/dingen/2013/02/recess-1-proteus-and-nature/proteus2/&#34;&gt;&lt;img alt=&#34;proteus2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2013/02/recess-1-proteus-and-nature/proteus2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dear &lt;a href=&#34;http://leapfrog.nl/&#34;&gt;Kars&lt;/a&gt; and &lt;a href=&#34;http://nielsthooft.com/&#34;&gt;Niels&lt;/a&gt;,&lt;/p&gt;
 &lt;p&gt;I finally bought &lt;a href=&#34;http://www.visitproteus.com/&#34;&gt;Proteus&lt;/a&gt; yesterday and though I really wanted to like it, I only half succeeded. It truly is a beautiful looking game but I do care a great deal about goals in the games I play (otherwise I probably would have loved &lt;a href=&#34;http://www.glitch.com/&#34;&gt;Glitch&lt;/a&gt; too). Proteus has even fewer goals than &lt;a href=&#34;http://dear-esther.com/&#34;&gt;Dear Esther&lt;/a&gt;. I can chase a few animals but other than that there isn&amp;rsquo;t much else to do on the island than to look at the spectacular sunsets.&lt;/p&gt;</description>
     </item>
@@ -13706,7 +13706,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <pubDate>Tue, 05 Feb 2013 09:28:57 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=4277</guid> 
       <description>&lt;p&gt;Here in the Berlin office we grind by hand:
-&lt;a href=&#34;http://localhost:62818/dingen/2013/02/grindin-at-the-office/grindin-alper/&#34;&gt;&lt;img alt=&#34;Grindin Alper&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2013/02/Grindin-Alper.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;http://localhost:62818/dingen/2013/02/grindin-at-the-office/grindin-alper/&#34;&gt;&lt;img alt=&#34;Grindin Alper&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2013/02/grindin-at-the-office/Grindin-Alper.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swhack Berlin</title>
@@ -14413,7 +14413,7 @@ The coming Dutch elections are dominated by the specter of Geert Wilders&amp;rsq
       <pubDate>Thu, 12 Apr 2012 08:10:43 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3420</guid> 
       <description>&lt;p&gt;Yesterday night I went to see &lt;a href=&#34;http://www.schaubuehne.de/de_DE/program/detail/10489810&#34;&gt;Maß für Maß&lt;/a&gt; (Measure for Measure by Shakespeare) at die Schaubühne here in Berlin and it marked the first occasion where I saw a play directed by the intendant of that theater Thomas Ostermeier himself (see &lt;a href=&#34;http://www.guardian.co.uk/stage/2011/nov/13/thomas-ostermeier-hamlet-schaubuhne&#34;&gt;this Guardian piece&lt;/a&gt; for a bit of background).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/mass-fur-mass.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/mass-fur-mass.jpg&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;mass-fur-mass.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2012/04/what-the-schaubuhne-is-about/mass-fur-mass.jpg&#34;&gt;&lt;/a&gt;
 Picture by Arno Declair&lt;/p&gt;
 &lt;p&gt;Up until that moment I had seen lots of pieces by other directors at the same house which were —I&amp;rsquo;m afraid to say— quite boring, almost all except for this one: &lt;a href=&#34;http://www.schaubuehne.de/de_DE/program/repertoire/577997&#34;&gt;Die Macht der Finsternis&lt;/a&gt; by Michael Thalheimer. The dance pieces that Falk Richter makes together with Anouk van Dijk are also very much worth watching, but not theater really.&lt;/p&gt;</description>
     </item>
@@ -14501,7 +14501,7 @@ Picture by Arno Declair&lt;/p&gt;
       <pubDate>Tue, 13 Mar 2012 13:20:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=3389</guid> 
       <description>&lt;p&gt;Last weekend I saw &lt;a href=&#34;http://www.tga.nl/default.asp?path=h8ql0lx8&#34;&gt;Husbands&lt;/a&gt; by &lt;a href=&#34;http://www.tga.nl/&#34;&gt;Toneelgroep Amsterdam&lt;/a&gt; director Ivo van Hove in the Schaubühne in Berlin. I was not unequivocally enthusiastic about the play, though it has a boisterous quality that has stayed with me these past days.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/husbands.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/03/husbands-300x199.jpg&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;husbands.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2012/03/toneelgroep-amsterdam-husbands/husbands-300x199.jpg&#34;&gt;&lt;/a&gt;
 Picture © &lt;a href=&#34;http://www.tga.nl/default.asp?path=ql0lx8t48d&#34;&gt;Jan Versweyveld&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Germans on the other hand have not deigned to give the play five minutes before deciding it is trash, see &lt;a href=&#34;http://www.freitag.de/community/blogs/juloeffl/find-4--husbands&#34;&gt;Jule Löffler for Freitag&lt;/a&gt; and &lt;a href=&#34;http://stagescreen.wordpress.com/2012/03/10/manner-am-rande-des-nervenzusammenbruchs/&#34;&gt;Sascha Krieger&lt;/a&gt;. They stumble over each other and their poorly worded mischaracterizations to denounce the play, calling it boring, grotesque and poorly founded.&lt;/p&gt;</description>
     </item>
@@ -14761,7 +14761,7 @@ I went to Berlin five times, the last time for good.&lt;/p&gt;</description>
       <description>&lt;p&gt;Some remaindered weeknotes that have been the casualty of an international move.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/6499370423/&#34; title=&#34;Presentation Template by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Presentation Template&#34; loading=&#34;lazy&#34; src=&#34;http://farm8.staticflickr.com/7163/6499370423_4a44aa85e9.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This week marked a strategic planning session for the coming year out of which a lot of opportunity flowed. I also finished &lt;a href=&#34;http://www.copenhagengamecollective.org/where-is-my-heart/&#34;&gt;‘Where is my Heart?’&lt;/a&gt; for an upcoming &lt;a href=&#34;http://www.nrcnext.nl/&#34;&gt;nrc.next&lt;/a&gt; review. It is a spectacular piece of work and a total mind altering experience. A well deserved five stars.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/01/rocks.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2012/01/rocks.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;rocks.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2012/01/week-248/rocks.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Next we did some project planning for a fun little thing ( &lt;em&gt;saba&lt;/em&gt;) we&amp;rsquo;re going to build in 2012Q1. And then we played &lt;a href=&#34;http://boardgamegeek.com/boardgame/91536/quarriors&#34;&gt;Quarriors&lt;/a&gt; which I won against all odds ((Me writing this is still a bit of residual fiero.)).&lt;/p&gt;</description>
     </item>
     <item>
@@ -14864,7 +14864,7 @@ I went to Berlin five times, the last time for good.&lt;/p&gt;</description>
       <pubDate>Fri, 11 Nov 2011 22:25:24 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2011/11/a-blue-button/</guid> 
       <description>&lt;p&gt;That moment where you&amp;rsquo;re texting somebody for the first time and the Send button turns blue. The expectations conveyed with that small indicator about the time to response as well as the type of person on the other side.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2011/11/20111111-231906.jpg&#34;&gt;&lt;img alt=&#34;20111111-231906.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2011/11/20111111-231906.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;20111111-231906.jpg&#34;&gt;&lt;img alt=&#34;20111111-231906.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2011/11/a-blue-button/20111111-231906.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 242</title>
@@ -15499,7 +15499,7 @@ Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))&lt;/p&gt;</descri
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5493634635/&#34; title=&#34;Designers design by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Designers design&#34; loading=&#34;lazy&#34; src=&#34;http://farm6.static.flickr.com/5173/5493634635_a4763236a3.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;‘PvdA — Altijd in de buurt’ ( &lt;em&gt;hermosillo&lt;/em&gt;) was put live just before the elections and was announced &lt;a href=&#34;http://www.arnhem-direct.nl/berichten/20110226_pvda_vraagt_wat_er_beter_kan_in_jouw_buurt&#34;&gt;here&lt;/a&gt; &lt;a href=&#34;http://sargasso.nl/archief/2011/02/26/pvda-koppelt-best-geslaagd-direct-contact-met-kiezers-aan-een-2-0-website/&#34;&gt;and&lt;/a&gt; &lt;a href=&#34;http://nu.pvda.nl/berichten/2011/02/Lancering-website-PvdA-altijd-in-de-buurt.html&#34;&gt;there&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I got called an ‘open data goeroe’ by the VPRO on &lt;a href=&#34;http://weblogs.vpro.nl/nederlandvanboven/2011/02/18/fotoverslag-app-in-a-day/&#34;&gt;their hackday report&lt;/a&gt;, which I don&amp;rsquo;t know what to think about.
-&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2011/03/dsc_0031.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2011/03/dsc_0031-300x199.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5497661198/&#34; title=&#34;Japanese Robata! - Kampaii!!! by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Japanese Robata! - Kampaii!!!&#34; loading=&#34;lazy&#34; src=&#34;http://farm6.static.flickr.com/5178/5497661198_082d05dc0c.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;dsc_0031.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2011/03/week-207/dsc_0031-300x199.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5497661198/&#34; title=&#34;Japanese Robata! - Kampaii!!! by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Japanese Robata! - Kampaii!!!&#34; loading=&#34;lazy&#34; src=&#34;http://farm6.static.flickr.com/5178/5497661198_082d05dc0c.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A more messy city</title>
@@ -15935,7 +15935,7 @@ I got an iPad thanks to &lt;a href=&#34;http://www.peerz.nl&#34;&gt;Peerz&lt;/a&
       <link>http://localhost:62818/dingen/dingen/2010/10/1-dag-1000-donateurs/</link>
       <pubDate>Fri, 22 Oct 2010 08:46:08 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2229</guid> 
-      <description>&lt;p&gt;Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: &lt;a href=&#34;https://www.bof.nl/1dag1000donateurs/&#34;&gt;https://www.bof.nl/1dag1000donateurs/&lt;/a&gt; &lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/1dag1000donateurs-banner-728px.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/1dag1000donateurs-banner-728px.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: &lt;a href=&#34;https://www.bof.nl/1dag1000donateurs/&#34;&gt;https://www.bof.nl/1dag1000donateurs/&lt;/a&gt; &lt;a href=&#34;1dag1000donateurs-banner-728px.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/10/1-dag-1000-donateurs/1dag1000donateurs-banner-728px.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bits of Freedom is de burgerrechten organisatie voor het internet die ervoor zorgt dat we allemaal kunnen internet zoals we dat willen zonder beperkingen en verboden opgelegd door machtswellustige politici of op geld azende bedrijven, dat we in niet teveel databases worden gestopt —die dan toch weer uitlekken— en dat de dingen waarvan je wilt dat ze privé zijn dat ook blijven in de toekomst.&lt;/p&gt;</description>
     </item>
     <item>
@@ -15994,7 +15994,7 @@ Op die manier kunnen we vanuit journalistiek oogpunt interessante informatie win
       <pubDate>Thu, 07 Oct 2010 21:29:30 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2177</guid> 
       <description>&lt;p&gt;De laatste dagen staan een beetje in het teken van gelekte e-mailtjes van, naar en door invloedrijke mensen in Nederland. Een van de recentere is die van de nieuwe hoofdredacteur van het &lt;a href=&#34;http://www.nrc.nl&#34;&gt;NRC&lt;/a&gt;, &lt;a href=&#34;http://nl.wikipedia.org/wiki/Peter_Vandermeersch&#34;&gt;Peter Vandermeersch&lt;/a&gt;, naar zijn redactie, hieronder ( &lt;a href=&#34;http://twitter.com/#!/LeviBottle/status/26646195262&#34;&gt;via&lt;/a&gt;):&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/briefvandermeesch.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/10/briefvandermeesch.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;briefvandermeesch.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/briefvandermeesch.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Klik voor groter. Vandermeersch benoemt een serie dingen die de krant zou kunnen en moeten verbeteren om ‘het centrum van het politieke en intellectuele debat’ in Nederland te worden. Ik denk dat weinig mensen echt problemen zouden hebben met deze punten, veel ervan zijn nogal voor de hand liggend: sneller, beter, harder nieuws, geen primeurs laten afpakken, geen dingen laten liggen.&lt;/p&gt;</description>
     </item>
     <item>
@@ -16447,7 +16447,7 @@ The upcoming book &lt;a href=&#34;http://twitter.com/undercoverux&#34;&gt;Underc
       <pubDate>Mon, 21 Jun 2010 16:09:06 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1894</guid> 
       <description>&lt;p&gt;Dit is de zogenaamde innovatie bij de &lt;a href=&#34;http://www.rabobank.nl&#34;&gt;Rabobank&lt;/a&gt;:
-&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/06/rabobank-innovatie2.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/06/rabobank-innovatie2.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;rabobank-innovatie2.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/06/rabobank-innovatief-maar-niet-heus/rabobank-innovatie2.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ter verduidelijking, ik wil graag automatisch afschriften uit Rabobank naar applicaties kunnen sturen (en er &lt;a href=&#34;http://www.yunoo.nl&#34;&gt;zijn&lt;/a&gt; &lt;a href=&#34;http://www.moneybird.nl&#34;&gt;meerderen&lt;/a&gt; in Nederland die daar graag mooie dingen mee zouden bouwen).&lt;/p&gt;
 &lt;p&gt;De Rabobank staat dat alleen maar toe naar &lt;a href=&#34;http://nl.wikipedia.org/wiki/Exact&#34;&gt;Exact&lt;/a&gt;, een boekhoudpakket dat niemand wil gebruiken maar heel veel mensen wel doen.&lt;/p&gt;
 &lt;p&gt;Kiezen met je voeten is ook niet mogelijk, aangezien er geen betere keuzes zijn in deze oligopolie.&lt;/p&gt;</description>
@@ -16592,7 +16592,7 @@ Weer persoonlijke relevantie; actioneerbare informatie om je te helpen bij het m
       <pubDate>Thu, 13 May 2010 12:35:54 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1786</guid> 
       <description>&lt;p&gt;Last week we had this piece of news in the Netherlands: &lt;a href=&#34;http://nos.nl/artikel/156731-scholenranglijst-van-trouw-heeft-effect.html&#34;&gt;“Scholenranglijst van Trouw heeft effect”&lt;/a&gt; (School ranking by Dutch newspaper Trouw sorts effect):
-&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/05/118-01.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/05/118-01.gif&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.trouw.nl&#34;&gt;Trouw&lt;/a&gt; has a database on their website with the statistics from our board of education which they editorialize and republish on their &lt;a href=&#34;http://www.trouwcommunities.nl/onderwijs/schoolprestaties.html&#34;&gt;Schoolprestaties&lt;/a&gt; site. The news piece reports on research that shows this ranking has a real effect both in prospective school choice and in school improvement.&lt;/p&gt;
+&lt;a href=&#34;118-01.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/05/ranking-our-schools-for-better-effect/118-01.gif&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.trouw.nl&#34;&gt;Trouw&lt;/a&gt; has a database on their website with the statistics from our board of education which they editorialize and republish on their &lt;a href=&#34;http://www.trouwcommunities.nl/onderwijs/schoolprestaties.html&#34;&gt;Schoolprestaties&lt;/a&gt; site. The news piece reports on research that shows this ranking has a real effect both in prospective school choice and in school improvement.&lt;/p&gt;
 &lt;p&gt;This week &lt;a href=&#34;http://www.berglondon.com&#34;&gt;BERG&lt;/a&gt; release their &lt;a href=&#34;http://www.schooloscope.com/&#34;&gt;Schooloscope&lt;/a&gt; (formerly &lt;a href=&#34;http://berglondon.com/blog/tag/ashdown/&#34;&gt;Ashdown&lt;/a&gt;) site that makes statistics about school quality accessible. The &lt;a href=&#34;http://hello.schooloscope.com/howitworks/&#34;&gt;story about how it works&lt;/a&gt; is particularly worth reading. The entire thing is a beautiful work of insight.&lt;/p&gt;</description>
     </item>
     <item>
@@ -16740,9 +16740,9 @@ Nog een foto van het event.&lt;/p&gt;</description>
 &lt;a href=&#34;http://www.flickr.com/photos/studies_and_observations/4410103749/&#34; title=&#34;Notxtian by adamgreenfield, on Flickr&#34;&gt;&lt;img alt=&#34;Notxtian&#34; loading=&#34;lazy&#34; src=&#34;http://farm5.static.flickr.com/4066/4410103749_8786b44b13.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s called a &lt;a href=&#34;http://en.wikipedia.org/wiki/Snapper_card&#34;&gt;Snapper card&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Compare this to the London based &lt;a href=&#34;http://en.wikipedia.org/wiki/Oyster_card&#34;&gt;Oyster card&lt;/a&gt;:
-&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/03/Oystercardsandwallets.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/03/Oystercardsandwallets.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;Oystercardsandwallets.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/03/sea-fare/Oystercardsandwallets.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;And the Hong Kong &lt;a href=&#34;http://en.wikipedia.org/wiki/Octopus_card&#34;&gt;Octopus card&lt;/a&gt;:
-&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/03/AdultOctopusCard.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/03/AdultOctopusCard.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;AdultOctopusCard.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/03/sea-fare/AdultOctopusCard.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This international sea food theme makes me think that we have definitely missed a branding opportunity here (and this for a country of fishermen). Our entire &lt;a href=&#34;http://en.wikipedia.org/wiki/OV-chipkaart&#34;&gt;OV-chipkaart system&lt;/a&gt; ((How stupid is it to put the implementation detail of the ‘chip’ in the name?)) has been grossly underdesigned on all fronts, so no surprises there ((You currently have the messages in the tram: “Don&amp;rsquo;t forget to check out with your public transport chip card.”These are a bit awkward.)).&lt;/p&gt;</description>
     </item>
     <item>
@@ -16751,7 +16751,7 @@ Nog een foto van het event.&lt;/p&gt;</description>
       <pubDate>Wed, 03 Mar 2010 23:29:18 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1623</guid> 
       <description>&lt;p&gt;Snel een visualisatie in elkaar gedraaid op basis van mijn Europees Parlement visualisatie van &lt;a href=&#34;http://www.flickr.com/photos/alper/4388299738/&#34;&gt;vorige week&lt;/a&gt;. De huidige verkiezingen voor de gemeenteraad 2010 (klik voor groot):&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/03/GR20104.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/03/GR20104.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;GR20104.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/GR20104.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Grootste landelijke partijen per gemeente genomen waar mogelijk ((Sommige gemeenten hebben niet eens een landelijke partij in het lijstje staan. Die blijven dan wit.)). Sommige &lt;a href=&#34;http://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2010#Gemeenten_die_niet_meededen&#34;&gt;gemeenten doen nu niet mee&lt;/a&gt;, zie Wikipedia voor het lijstje en van 22 gemeenten &lt;a href=&#34;http://www.nu.nl/raadsverkiezingen/2198015/uitslagen-22-gemeenten-laten-zich-wachten.html&#34;&gt;moet de uitslag nog komen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;De kaart met de grootste partijen van de vorige verkiezingen (voor het Europees Parlement in 2009):&lt;/p&gt;</description>
     </item>
@@ -16877,7 +16877,7 @@ picture by &lt;a href=&#34;http://www.flickr.com/people/wynandvanpoortvliet/&#34
       <link>http://localhost:62818/dingen/dingen/2010/01/a-film-in-one-week/</link>
       <pubDate>Mon, 18 Jan 2010 12:59:16 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1510</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/01/tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/01/tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/01/tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2010/01/tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kvxdj0mg7C1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/01/a-film-in-one-week/tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg&#34;&gt;&lt;img alt=&#34;tumblr_kwfwr3Xtpe1qafgwqo1_1280&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2010/01/a-film-in-one-week/tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Friends of motion studio &lt;a href=&#34;http://www.eelkedekker.nl/&#34;&gt;Eelke Dekker&lt;/a&gt; and design agency &lt;a href=&#34;http://www.booreiland.nl&#34;&gt;Booreiland&lt;/a&gt; have gone into seclusion for a week in the East of the Netherlands to concept, shoot and produce a movie within that week, &lt;strong&gt;&lt;a href=&#34;http://dotmov.tumblr.com/&#34;&gt;project .mov&lt;/a&gt;&lt;/strong&gt;. No ulterior motives, just making a movie for the love of making a movie (and having made that movie).&lt;/p&gt;
 &lt;p&gt;Some years ago without a budget and far less experience they&amp;rsquo;d already produced &lt;a href=&#34;http://www.vimeo.com/597113&#34;&gt;the classic Frag&lt;/a&gt;. It took some time however to find the right moment and opportunity to make another one. Now that moment is there with more time, better gear, actually &lt;strong&gt;better everything&lt;/strong&gt; and a recipe for awesome.&lt;/p&gt;</description>
     </item>
@@ -17106,7 +17106,7 @@ picture by &lt;a href=&#34;http://www.flickr.com/people/wynandvanpoortvliet/&#34
       <pubDate>Sun, 15 Nov 2009 22:25:51 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1372</guid> 
       <description>&lt;p&gt;Ik zou zeggen “duh!”, maar je kunt net zo goed zeggen dat dit een revolutie inluidt:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/11/105-01.gif&#34;&gt;&lt;img alt=&#34;Reisadvies ov moet beter&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/11/105-01.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;105-01.gif&#34;&gt;&lt;img alt=&#34;Reisadvies ov moet beter&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2009/11/reisadvies-ov-moet-beter/105-01.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Heel vet. Laten we zien wat er gebeurt.&lt;/p&gt;</description>
     </item>
     <item>
@@ -17164,9 +17164,9 @@ picture by &lt;a href=&#34;http://www.flickr.com/people/wynandvanpoortvliet/&#34
       <pubDate>Tue, 13 Oct 2009 11:23:17 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1300</guid> 
       <description>&lt;p&gt;Interesting on the part of the sub-team adding extra information to clarify references, cultural differences and even tone of voice. There were enough of these notes to be distracting, which makes it a mixed blessing. I think a movie is experienced better without.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2009/10/innocence/KAA-Ghost-in-the-Shell_-Innocence.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;And here another interesting image in a movie littered with them:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence-1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;img alt=&#34;[KAA] Ghost in the Shell_ Innocence-1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2009/10/innocence/KAA-Ghost-in-the-Shell_-Innocence-1.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Content Syndicatie Workshop</title>
@@ -17675,7 +17675,7 @@ Absolute aanrader dus als je Engels kunt en zelfredzaam bent. We zijn nu al met 
       <pubDate>Mon, 09 Mar 2009 17:57:50 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=825</guid> 
       <description>&lt;p&gt;Net in de sneak de Nederlandse productie &lt;a href=&#34;http://www.bollywoodhero.nl/&#34;&gt;Bollywood Hero&lt;/a&gt; gezien. Dat er een hausse aan Bollywood films zou volgen op het succes van &lt;a href=&#34;http://www.imdb.com/title/tt1010048/&#34;&gt;Slumdog Millionaire&lt;/a&gt; stond vast, maar dit is wel erg rap.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;bollywood-hero&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2009/03/bollywood-hero.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;bollywood-hero&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2009/03/held-in-bollywood/bollywood-hero.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Het verhaal gaat over een Nederlandse jongen die een rol krijgt (als Engelsman schijnbaar) in een Bollywood film. Hij is erg beschermd opgevoed. Geconfronteerd met de schrijnende ongelijkheid in Mumbai trekt hij het niet meer. Hij kan zich niet verzoenen met de andersheid van de cultuur en hij verliest zichzelf ((Een beetje vergelijkbaar met de situatie in &lt;a href=&#34;http://www.imdb.com/title/tt1029241/&#34;&gt;Vinyan&lt;/a&gt; een tijdje geleden ook in de sneak.)) waarna hij ten onder gaat.&lt;/p&gt;</description>
     </item>
     <item>
@@ -18970,7 +18970,7 @@ Als dit inderdaad is wat het lijkt en wat Rop Gonggrijp gelijk heet met: ‘Deze
       <pubDate>Fri, 28 Dec 2007 07:23:55 +0000</pubDate>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/studentikoos-martelen-voor-maximaal-effect/</guid> 
       <description>&lt;p&gt;Een tijdje geleden lazen we op het werk de ingezonden brief &lt;a href=&#34;http://www.nrc.nl/opinie/article767560.ece&#34;&gt;“Abu Ghraib aan de Schie”&lt;/a&gt; ((Wrede titel (pun intended) trouwens)) in NRC over praktijken bij het corps hier in Delft. Naar aanleiding van welke &lt;a href=&#34;http://www.nrc.nl/binnenland/article868835.ece/Corps_Delft_over_rand_bij_ontgroening&#34;&gt;wat onderzoek&lt;/a&gt; heeft plaatsgevonden.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:62818/dingen/wp-content/uploads/2007/12/waterboard.jpg&#34; title=&#34;Waterboarden&#34;&gt;&lt;img alt=&#34;Waterboarden&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/wp-content/uploads/2007/12/waterboard.thumbnail.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;waterboard.jpg&#34; title=&#34;Waterboarden&#34;&gt;&lt;img alt=&#34;Waterboarden&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:62818/dingen/dingen/2007/12/studentikoos-martelen-voor-maximaal-effect/waterboard.thumbnail.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wij hadden toen geconcludeerd dat ze daar beter in plaats van dit halfslachtige gedoe ((“Vlak boven het matras hangt een camouflagenet met bewegingssensoren.”)), de feuten beter direct kunnen &lt;a href=&#34;http://en.wikipedia.org/wiki/Waterboarding&#34;&gt;&lt;em&gt;waterboarden&lt;/em&gt;&lt;/a&gt;.
 Het gaat óf om het resultaat, óf om het proces. Gaat het om het proces, dan is het pure vernedering. Gaat het om het resultaat, doe dan een waterboarding sessie. De snelste en effectiefste manier om mensen te breken.&lt;/p&gt;</description>
     </item>

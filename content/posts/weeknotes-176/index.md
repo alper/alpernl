@@ -23,7 +23,7 @@ Two other noteworthy events transpired:
 
 I got a new avatar picture taken by [Daphne Horn](http://daphnehorn.nl/). My current avatar picture was long overdue for a refresh and Daphne's offer to get my picture taken by a professional photographer proved to be both very fun and resulted in a very nice photo. The picture is now [live on my account](http://twitter.com/account/profile_image/alper?hreflang=en). [A preview](http://ikbendaf.tumblr.com/post/885917089/look-alper) was on Daphne's tumblr.
 
-[![](/dingen/wp-content/uploads/2010/08/AlperPolaroid3.jpg)](/dingen/wp-content/uploads/2010/08/AlperPolaroid3.jpg)
+[![](AlperPolaroid3.jpg)](AlperPolaroid3.jpg)
 
 Sunday marked the end of the Dutch mission in Afghanistan, so I used some downtime on Saturday to finish project _puebla_ which is [a small map with the origins](http://monsterswell.com/projects/uruzgan/) of our 24 fallen ( [write-up](/dingen/2010/08/uruzgan-in-the-netherlands/)).
 

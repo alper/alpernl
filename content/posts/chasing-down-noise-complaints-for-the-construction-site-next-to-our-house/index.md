@@ -16,7 +16,7 @@ url: /dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-nex
 ---
 The construction site that surrounds our house has started a bunch of space heaters this week. The devices had been there for a while but only started being annoying now that they're turned on. These things run day and night, they make a ridiculous amount of noise (some 60 dB at our window) and because they burns diesel oil they also pollute and stink up the entire courtyard.
 
-{{< figure src="/dingen/wp-content/uploads/2021/11/IMG%5F1458-1.jpg" alt="" caption="" >}}
+{{< figure src="IMG_1458-1.jpg" alt="" caption="" >}}
 
 We are used to some noise and annoyance during the day time with this construction site. Some of the noise we went through was truly unbelievable and for some periods we have received a reduction in our rent. We thought that with most external construction being done, we would finally be able to get some peace but now these things are running and will probably run all winter.
 
@@ -48,7 +48,7 @@ I knew the SenUVK office at Am Köllnischen Park but I was told to go to Brücke
 
 The ground floor of that building was a construction site. Next to the elevator it did find a plan of the SenUVK offices that listed Baulärm on the fifth floor. I took the elevator to the fifth floor only to find another construction site. Then I went down and asked the construction workers whether the entire building was a construction site. They said, nah, floors 7 and so and so are not. So I went up to the 7th floor and found the _Pförtner_ there who referred me to room 191 on the 2nd floor ((This room numbering scheme is insane.)).
 
-{{< figure src="/dingen/wp-content/uploads/2021/11/500B60D1-6231-4FA9-86A3-1B22734113E6.jpg" alt="" caption="" >}}
+{{< figure src="500B60D1-6231-4FA9-86A3-1B22734113E6.jpg" alt="" caption="" >}}
 
 On the second floor I found a very long office corridor where everything seemed to be more or less operational. I walked all the way to the end and after some turns found the office numbered 191 which of course was closed. Not to be dissuaded that easily, I started knocking and opening the doors in that corridor which were labelled _Immissionsschutz_.
 

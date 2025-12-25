@@ -18,4 +18,4 @@ The news that an OSINT researcher spent 30 minutes to find a fugitive that the G
 
 Most likely the police would say that they couldn't use any modern tools or data sources here because of _Datenschutz_ (data protection) reasons. Datenschutz is 1. a great excuse for people who don't want to do their jobs and 2. a way to protect every kind of crook and criminal.
 
-{{< figure src="/dingen/wp-content/uploads/2024/03/430381642%5F744908387732989%5F4585305841622879612%5Fn.jpg" alt="" caption="" >}}
+{{< figure src="430381642_744908387732989_4585305841622879612_n.jpg" alt="" caption="" >}}

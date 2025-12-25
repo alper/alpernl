@@ -16,4 +16,4 @@ url: /dingen/2020/10/16325/
 ---
 The nice part of working on open source is I can finally share some of the amazing work my team has been doing. Here's some forthcoming Suricata contributions by Sascha and Frank with more on the way.
 
-{{< figure src="/dingen/wp-content/uploads/2020/10/image%5Ffrom%5Fios.jpg" alt="" caption="" >}}
+{{< figure src="image_from_ios.jpg" alt="" caption="" >}}

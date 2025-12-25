@@ -22,9 +22,9 @@ Then given permission by [the inspiration for this walk](https://walkkumano.com/
 
 I visited the [Higashitokida shrine](https://maps.app.goo.gl/7Yz8W4StCLSnFREC9) quickly and was very much impressed by the sense of space the walk in always gives you with the grove of trees and the gravel path.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F9985-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_9985-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F9981-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_9981-Large.jpeg" alt="" caption="" >}}
 
 It rained almost all day today from the early morning until after noon. \`Maybe that's why the number of people I saw out and about was extremely limited. In the early morning I did see lots of kids cycling to school with their uniforms and helmets on.
 
@@ -34,29 +34,29 @@ The colours of the leaves are reported on during the local weather forecasts. Au
 
 Then after some back and forth between provincial roads, it was time for the [Misesaka Toge](https://www.kodo.pref.mie.lg.jp/en/course/02.html). Not very challenging but a couple of steep segments and switch backs. All in all very beautiful. At one of the guardian deities there is a box with a trail booklet. Thin as it is, it goes back for years because there are so few people hiking this trail. The last person before me who signed the book though did so three days ago.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0008-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0008-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0010-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0010-Large.jpeg" alt="" caption="" >}}
 
 Then came a relatively uninspiring part along the main road. I was hungry and sick of the rain. I cut around the route to make my way to [Cafe de Touhenvoku](https://maps.app.goo.gl/GmwR3n93pkfF595i8) which with its funky interior and pizza toast on the menu revealed itself to be a genuine [Kissa](https://shop.specialprojects.jp/products/kissa-by-kissa-4th-ed?variant=42844316762267). I got the Katsu Curry and scarfed it down. How excellent is it to eats something warm after a whole day of walking through the rain?
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0022-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0022-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0023-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0023-Large.jpeg" alt="" caption="" >}}
 
 At this point I considered taking the train at Tochihara to skip to the end but feeling my legs still doing well, I looped back to the track and continued along the route. Good that I did, because otherwise I'd have missed the riverbed crossing and the bamboo forest. I'll happily walk a bunch to see amazing stuff like this.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0032-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0032-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0038-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0038-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0039-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0039-Large.jpeg" alt="" caption="" >}}
 
 I stopped at [bread and coffee](https://maps.app.goo.gl/D8LdNdqDX481cjyP8) in Kawazoe which true to its name sold bread and coffee, and children's toys. I'm not sure what's going on with the population but I'm seeing children everywhere. After that point the walk became an incessant plod along the secondary road. My feet were hurting and the light was fading. Sundown at 16:45 does not mean that much if the mountain obscures at least an hour worth of light.
 
 I passed a bunch of derelict buildings and a very weird one.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0043-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0043-Large.jpeg" alt="" caption="" >}}
 
 Mr Bear (Kumasan above) did not make it unfortunately.
 
@@ -68,9 +68,9 @@ That hotel was the [Fairfield](https://maps.app.goo.gl/dttDrTfEW37QCdwU8) which 
 
 I found a bow of ramen and alcohol free Kirin at a ["famous" ramen place](https://maps.app.goo.gl/VEqWbiDQkmJoi3sc6) where lots of kids with or without their parents were also eating. The ramen was nothing to write home about but the electrolytes and vegetables were welcome. I was happy too to observe that I could still walk.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0049-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0049-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0048-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0048-Large.jpeg" alt="" caption="" >}}
 
 The stats for the day say 33,53km and some 42k steps ( [strava](https://www.strava.com/activities/16558960888)).
 

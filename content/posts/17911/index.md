@@ -16,8 +16,8 @@ url: /dingen/2025/01/17911/
 
 I should probably upgrade Turkey to lived depending on your definition: stayed in your own house or registered as a resident.
 
-{{< figure src="/dingen/wp-content/uploads/2025/01/CleanShot-2025-01-12-at-11.30.08@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-01-12-at-11.30.08@2x.png" alt="" caption="" >}}
 
 My score for the US is negligible and I don't see this changing any time soon (maybe ever).
 
-{{< figure src="/dingen/wp-content/uploads/2025/01/CleanShot-2025-01-12-at-11.33.37@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-01-12-at-11.33.37@2x.png" alt="" caption="" >}}

@@ -14,7 +14,7 @@ title: Encounter Zone MaaÃŸenstraÃŸe
 url: /dingen/2015/05/encounter-zone-maasenstrase/
 
 ---
-Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after [a public consultation](https://begegnungszonen.berlin.de/) was finished last year or the year before. I looked around a bit but I couldn't find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got [a PDF of the plan](/dingen/wp-content/uploads/2015/05/06-Flyer_Begegnungszone_maassenstr.pdf).
+Berlin is rebuilding the Maaßenstraße into the first Begegnungszone (‘Encounter Zone’) of its kind in the city. Works are underway now after [a public consultation](https://begegnungszonen.berlin.de/) was finished last year or the year before. I looked around a bit but I couldn't find the plans for what they are actually building there. A quick e-mail to the senate solved that problem and I got [a PDF of the plan](06-Flyer_Begegnungszone_maassenstr.pdf).
 
 [![Redesigning Maaßenstraße](https://c2.staticflickr.com/6/5445/17361704548_cb4465b6a7_z.jpg)](https://www.flickr.com/photos/alper/17361704548 "Redesigning Maaßenstraße by Alper Çuğun, on Flickr")
 
@@ -28,4 +28,4 @@ The new plan removes parking altogether which may or may not work depending on t
 
 I've annotated what I think is noteworthy about the plan below (in a 13MB image file, click for big). All in all the plan looks solid and is bolder than I could have hoped for. It remains to be seen how it will be received by drivers and whether the police enforces the zones that are on there with vigour.
 
-[![06-Flyer_Begegnungszone_maassenstr](/dingen/wp-content/uploads/2015/05/06-Flyer_Begegnungszone_maassenstr.jpg)](/dingen/wp-content/uploads/2015/05/06-Flyer_Begegnungszone_maassenstr.jpg)
+[![06-Flyer_Begegnungszone_maassenstr](06-Flyer_Begegnungszone_maassenstr.jpg)](06-Flyer_Begegnungszone_maassenstr.jpg)

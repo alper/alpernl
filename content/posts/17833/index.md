@@ -34,7 +34,7 @@ Same as with the high school questions. These datasets are easily available and 
 
 This is the core proposition of the paper. Looking at Table 1 with the accuracy percentages there is something of an improvement but it does not really look dramatic or so convincing that you could use these systems in any critical context.
 
-{{< figure src="/dingen/wp-content/uploads/2025/01/CleanShot-2025-01-02-at-08.10.34@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-01-02-at-08.10.34@2x.png" alt="" caption="" >}}
 
 We're looking at increases of 10-20% and an accuracy that's still well under 90% (which I'm also not convinced would be usable).
 

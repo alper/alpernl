@@ -39,15 +39,15 @@ Then at Nagoya station I tried some more machines after the German bank did some
 
 At this point I had resigned. I bought a ticket to Iseshi and stared out the window for two hours. When there, I got word from Germany that there had been a payment system malfunction in the group of my bank and that lots of people everywhere had had issues with their cards.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F9943-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_9943-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F9946-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_9946-Large.jpeg" alt="" caption="" >}}
 
 That also meant the malfunction was over and I rushed to the nearest ATM and took out a bunch of cash. I was super elated and with the money I had dinner on the town, twice, to celebrate.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F9952-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_9952-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F9956-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_9956-Large.jpeg" alt="" caption="" >}}
 
 After six very stressful hours, I had arrived where I should be.
 

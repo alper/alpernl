@@ -31,6 +31,6 @@ Add to that that making good apps is becoming an increasingly difficult endeavou
 
 Most of the effort we spend right now into user interfaces could be moot if the experience would be delivered through a chat interface. That every app has a different UI and information architecture and that it has to be learned anew is a huge impediment to its adoption. [We](http://hubbub.eu/) have recently built several chat based apps & games inspired partially by [Lark](http://lark.com/). During testing we found that users don't need to be explained anything because they are so familiar with the paradigm.
 
-![IMG_0147](/dingen/wp-content/uploads/2015/09/IMG_0147.png)
+![IMG_0147](IMG_0147.png)
 
 Chat is here to stay and I'm incredibly excited to see how far we can push this new medium.

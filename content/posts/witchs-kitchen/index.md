@@ -14,7 +14,7 @@ title: Witches Kitchen
 url: /dingen/2024/12/witchs-kitchen/
 
 ---
-{{< figure src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-27-at-21.16.15@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-12-27-at-21.16.15@2x.png" alt="" caption="" >}}
 
 From [the Grothendieck biography](https://www.ams.org/notices/200410/fea-grothendieck-part2.pdf), funny to see that the legend would express himself in German.
 

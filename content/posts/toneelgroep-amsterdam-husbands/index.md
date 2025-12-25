@@ -14,7 +14,7 @@ url: /dingen/2012/03/toneelgroep-amsterdam-husbands/
 ---
 Last weekend I saw [Husbands](http://www.tga.nl/default.asp?path=h8ql0lx8) by [Toneelgroep Amsterdam](http://www.tga.nl/) director Ivo van Hove in the Schaubühne in Berlin. I was not unequivocally enthusiastic about the play, though it has a boisterous quality that has stayed with me these past days.
 
-[![](/dingen/wp-content/uploads/2012/03/husbands-300x199.jpg)](/dingen/wp-content/uploads/2012/03/husbands.jpeg)
+[![](husbands-300x199.jpg)](husbands.jpeg)
 Picture © [Jan Versweyveld](http://www.tga.nl/default.asp?path=ql0lx8t48d)
 
 The Germans on the other hand have not deigned to give the play five minutes before deciding it is trash, see [Jule Löffler for Freitag](http://www.freitag.de/community/blogs/juloeffl/find-4--husbands) and [Sascha Krieger](http://stagescreen.wordpress.com/2012/03/10/manner-am-rande-des-nervenzusammenbruchs/). They stumble over each other and their poorly worded mischaracterizations to denounce the play, calling it boring, grotesque and poorly founded.

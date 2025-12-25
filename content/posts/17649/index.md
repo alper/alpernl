@@ -23,7 +23,7 @@ The way I fixed it was a bit more manual than I'd have liked but where I got is 
 
 Go to the phpMyAdmin and audit all the database tables.
 
-{{< figure src="/dingen/wp-content/uploads/2024/11/CleanShot-2024-11-03-at-16.05.26@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-11-03-at-16.05.26@2x.png" alt="" caption="" >}}
 
 My tables are in a mix of InnoDB and MyISAM which seems to be weird but not really problematic. I also had some [Yoast](https://yoast.com) tables that were lingering there which I dropped.
 

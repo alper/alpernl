@@ -11,7 +11,7 @@ categories:
   - politics
 date: "2025-01-21T17:47:31+00:00"
 enclosure: |-
-  https://alper.nl/dingen/wp-content/uploads/2025/01/op-ed.mp3
+  https://alper.nlop-ed.mp3
   351567
   audio/mpeg
 guid: https://alper.nl/dingen/?p=17961
@@ -27,16 +27,16 @@ https://youtu.be/pH2wWO\_OOjo?si=ZSv0jixACHlZ0k1K
 
 They want Sulla:
 
-{{< audio src="/dingen/wp-content/uploads/2025/01/they-want-sulla.mp3" >}}
+{{< audio src="they-want-sulla.mp3" >}}
 
 They have a hierarchical view of the world:
 
-{{< audio src="/dingen/wp-content/uploads/2025/01/hierarchical.mp3" >}}
+{{< audio src="hierarchical.mp3" >}}
 
 November saying that they really want Hitler:
 
-{{< audio src="/dingen/wp-content/uploads/2025/01/they-really-want-hitler.mp3" >}}
+{{< audio src="they-really-want-hitler.mp3" >}}
 
 The op-ed departments love this stuff:
 
-{{< audio src="/dingen/wp-content/uploads/2025/01/op-ed.mp3" >}}
+{{< audio src="op-ed.mp3" >}}

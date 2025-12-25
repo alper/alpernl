@@ -19,4 +19,4 @@ url: /dingen/2015/03/jumping-to-the-end-by-matt-jones/
 
 Matt Jones gives an overview of the kind of work he used to do at BERG and then talks about the process of his creative work at Google. It's refreshing to see that practice is shifting towards media that is readily consumable and deliverables that actually do something.
 
-[![Matt_Jones_Jumping_to_the_End_--_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01](/dingen/wp-content/uploads/2015/03/Matt_Jones_Jumping_to_the_End_-_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01.jpg)](/dingen/2015/03/jumping-to-the-end-by-matt-jones/matt_jones_jumping_to_the_end_-_practical_design_fiction_on_vimeo_2015-03-11_16-52-01/)
+[![Matt_Jones_Jumping_to_the_End_--_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01](Matt_Jones_Jumping_to_the_End_-_Practical_Design_Fiction_on_Vimeo_2015-03-11_16-52-01.jpg)](/dingen/2015/03/jumping-to-the-end-by-matt-jones/matt_jones_jumping_to_the_end_-_practical_design_fiction_on_vimeo_2015-03-11_16-52-01/)

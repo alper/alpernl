@@ -24,7 +24,7 @@ Everything with my body was going well last year, until suddenly it wasn’t any
 
 Cycling was one of the best things. This was the first season that I started out with the road bike and even though it was cut short, there were some great rides to be had.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IMG%5FC8E1F77BB4AD-1.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_C8E1F77BB4AD-1.jpeg" alt="" caption="" >}}
 
 Most notably I went on one gravel group ride with the local Gravel Club which was a lot of fun and I went for my first century with a couple of colleagues.
 
@@ -32,7 +32,7 @@ Most notably I went on one gravel group ride with the local Gravel Club which wa
 
 At the start of spring I felt I needed to lose weight and then figured out how to do it. I went down from over 85kg back to under 78kg over the course of six months.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IMG%5FAFC64242BCBA-1.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_AFC64242BCBA-1.jpeg" alt="" caption="" >}}
 
 I’m writing a piece summarizing how I figured out weight but in short:
 
@@ -50,7 +50,7 @@ A car turned right on Mehringdamm but then halted on the bike crossing because t
 
 Every cyclists first thought in such a situation: the bike. My cockpit was twisted a bit and my chain was jammed behind the frame but otherwise it was fine. The chain broke a couple of weeks later—probably because of this.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IMG%5F2625-copy.jpg" alt="" caption="" >}}
+{{< figure src="IMG_2625-copy.jpg" alt="" caption="" >}}
 
 The police wrote us up as being both at fault and I chose not to pursue the matter. In Germany, as a cyclist, you are pretty much always screwed so I’m counting my blessings and I paid the €170 fine to be done with this.
 
@@ -60,11 +60,11 @@ Then the big one. The past year I finally got back into bouldering in a serious 
 
 Unfortunately, this didn’t last very long because at the end of August I was doing a very moderate traverse on the wall and lost my footing. Normally this wouldn’t be an issue but this time my right foot got stuck on the volume and twisted my knee on the way down. I heard a tearing noise while in the air.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IMG%5F2890-copy.jpg" alt="" caption="" >}}
+{{< figure src="IMG_2890-copy.jpg" alt="" caption="" >}}
 
 A long story and a bunch of orthopedic visits later I find out that I have what is called [an unhappy triad](https://en.wikipedia.org/wiki/Unhappy_triad) of injuries also known as a ‘blown knee’. It’s relatively atypical for climbing but checks out with the exact thing that happened to my knee.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IM-0001-0001-0014.jpg" alt="" caption="" >}}
+{{< figure src="IM-0001-0001-0014.jpg" alt="" caption="" >}}
 
 The black tendon is my PCL. The grey cloud superimposed on it, is what remains of my Anterior Cruciate Ligament ( _voorste kruisband_).
 
@@ -78,7 +78,7 @@ Just as the end of the year approached we as a family finally caught COVID. Our 
 
 Despite going to the office daily and having had some close calls, it wasn’t me that brought it home.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IMG%5F3452-blurred.jpg" alt="" caption="" >}}
+{{< figure src="IMG_3452-blurred.jpg" alt="" caption="" >}}
 
 Being stuck at home with the kids for 10 days waiting to test ourselves free was a trial of everybody’s sanity. Also because it's relatively arbitrary and a bit of a voluntary act. People who don’t have themselves tested don’t face any restrictions. People who do get tested, get very few benefits out of it.
 
@@ -102,7 +102,7 @@ While I was cramming HSK3 vocabulary in 2021, I realized I had no real motivatio
 
 I finished the [â€ŽHuman Japanese iPhone app](https://apps.apple.com/us/app/human-japanese/id304090210) and then spent the rest of the year learning all the vocabulary in it. Below you can see 4500 cards in Anki spread over a full year of studying.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/IMG%5F788F18B84190-1.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_788F18B84190-1.jpeg" alt="" caption="" >}}
 
 Now it’s on to complete [Human Japanese Intermediate](https://apps.apple.com/us/app/human-japanese-intermediate/id673228380) and further material. Judging from a quick online test, it seems that what I've done so far brings me most of the way to JLPT N5 level. I may take that test in 2023 or go straight for N4.
 
@@ -114,7 +114,7 @@ After a slump when it came to my professional reading I organized my PDFs and se
 
 Then I stumbled upon the book [“An Invitation to Applied Category Theory: Seven Sketches in Compositionaliy”](https://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) and spent my evenings and weekends working through it, doing the exercises and watching [the lectures at MIT](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=1). They said it would require some mathematical maturity and it turns out I had _just_ enough of that.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/seven-sketches-cover.jpeg" alt="" caption="" >}}
+{{< figure src="seven-sketches-cover.jpeg" alt="" caption="" >}}
 
 I have no idea why this book stuck but I thoroughly enjoyed the experience. The focused time, clearing my brain and working on something very difficult without direct application. Watching the lectures—some nights at 0:30 with my eyes falling shut—I felt like I was back in a dusty university chalkboard room.
 
@@ -174,7 +174,7 @@ Then we got the Switch and now my holiday evenings are mostly consumed by [Hades
 
 One of the most atypical interests I picked up last year has been watches. I’m wearing a wrist watch again after having picked up an [Orient Kamasu](https://www.orientwatchusa.com/collections/sport/ra-aa0004e19a/) diver at a bargain. Not having to take out my phone to see the time has been great.
 
-{{< figure src="/dingen/wp-content/uploads/2023/01/412D1361-F1E5-4822-B523-CECEB79C5D08.jpeg" alt="" caption="" >}}
+{{< figure src="412D1361-F1E5-4822-B523-CECEB79C5D08.jpeg" alt="" caption="" >}}
 
 Not sure when or if I'll buy another watch.
 

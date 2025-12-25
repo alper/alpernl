@@ -14,7 +14,7 @@ url: /dingen/2009/03/held-in-bollywood/
 ---
 Net in de sneak de Nederlandse productie [Bollywood Hero](http://www.bollywoodhero.nl/) gezien. Dat er een hausse aan Bollywood films zou volgen op het succes van [Slumdog Millionaire](http://www.imdb.com/title/tt1010048/) stond vast, maar dit is wel erg rap.
 
-![bollywood-hero](/dingen/wp-content/uploads/2009/03/bollywood-hero.png)
+![bollywood-hero](bollywood-hero.png)
 
 Het verhaal gaat over een Nederlandse jongen die een rol krijgt (als Engelsman schijnbaar) in een Bollywood film. Hij is erg beschermd opgevoed. Geconfronteerd met de schrijnende ongelijkheid in Mumbai trekt hij het niet meer. Hij kan zich niet verzoenen met de andersheid van de cultuur en hij verliest zichzelf ((Een beetje vergelijkbaar met de situatie in [Vinyan](http://www.imdb.com/title/tt1029241/) een tijdje geleden ook in de sneak.)) waarna hij ten onder gaat.
 

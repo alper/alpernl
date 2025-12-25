@@ -29,4 +29,4 @@ https://twitter.com/aaronzlewis/status/1291889695102656513
 
 This graphic about Western vs. Eastern conceptions of playing from 'The Future of Ritual'
 
-{{< figure src="/dingen/wp-content/uploads/2020/08/Ee2wBT%5FXoAYlBrD.jpeg" alt="" caption="" >}}
+{{< figure src="Ee2wBT_XoAYlBrD.jpeg" alt="" caption="" >}}

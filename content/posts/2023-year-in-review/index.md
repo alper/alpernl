@@ -43,7 +43,7 @@ The chronology as far as I could piece it together:
 
 I got around mostly using ride shares during the first part which was fine. Turns out that I spent €474,55 on cab rides. A fair bit of that was thankfully reimbursed by my saved up mobility budget. I stopped taking cabs and started cycling on the electric Christiania on April 15th and then had my [first outing on the road bike](https://www.strava.com/activities/9288750265) on June 18th.
 
-{{< figure src="/dingen/wp-content/uploads/2024/01/CleanShot-2024-01-01-at-01.46.29@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-01-01-at-01.46.29@2x.png" alt="" caption="" >}}
 
 During one of my final check-ups I told my physician at the hospital that if I didn’t rationally knew I had knee surgery, a lot of the time I couldn't remember it. There was no noticeable difference anymore.
 
@@ -113,7 +113,7 @@ There are lots of good shows still that I would _like_ to watch (The Last of Us,
 
 I only read 15 books this year with Galian, Genki and the sheaf theory book—none of which are listed below—sucking up most of my reading time.
 
-{{< figure src="/dingen/wp-content/uploads/2024/01/CleanShot-2023-12-31-at-17.35.27@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2023-12-31-at-17.35.27@2x.png" alt="" caption="" >}}
 
 [Cold Enough for Snow](https://www.goodreads.com/book/show/58730649-cold-enough-for-snow?from_search=true&from_srp=true&qid=MifrTDuHgf&rank=1) was a nice book and it also happened to be the only piece of fiction I read this year. The rest of the books above are all highly situational and none of them are particularly interesting or made a lasting impact.
 

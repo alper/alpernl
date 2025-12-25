@@ -127,42 +127,42 @@ I&rsquo;ve been long overdue to open source my little side project Cuppings. Thi
 <h3 id="rewriting-history">Rewriting History<a hidden class="anchor" aria-hidden="true" href="#rewriting-history">#</a></h3>
 <p>I seem to have missed one occurrence on my last pass because when searching right now I find another occurrence.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.36.09@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.36.09@2x.png"/> 
 </figure>
 
 <p>Looking at the diff with <code>jj show rkq</code> shows me there&rsquo;s still an unredacted API key there.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.37.22@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.37.22@2x.png"/> 
 </figure>
 
 <p>So we might as well clear this as well.</p>
 <p>Trying to change this with <code>jj edit rkq</code> throws an error because the change is immutable. Anything that has a descendent in <code>immutable_heads()</code> is immutable. This is a safety setting to make sure you don&rsquo;t accidentally rewrite shared history.</p>
 <p>Our history is not shared because this is my private side project, so we can do whatever we want. With <code>jj edit rkq --ignore-immutable</code> it is possible to edit this history as well. I replace the API key with the word &ldquo;fake&rdquo;.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.43.32@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.43.32@2x.png"/> 
 </figure>
 
 <p>That works and propagates the change through history but it also creates conflicts.</p>
 <h3 id="fixing-conflicts">Fixing Conflicts<a hidden class="anchor" aria-hidden="true" href="#fixing-conflicts">#</a></h3>
 <p>My view in gg looks like this now:</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.44.09@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.44.09@2x.png"/> 
 </figure>
 
 <p>The command-line looks similar if you know what to look for (the red crosses).</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.45.16@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.45.16@2x.png"/> 
 </figure>
 
 <p>How I go through this is to scroll down in gg to find the first occurrence of the conflict. The change has propagated to that point where it conflicted again and needs to be fixed. That&rsquo;s here.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.47.06@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.47.06@2x.png"/> 
 </figure>
 
 <p>From there I edit the first conflicted change with <code>jj edit qtv</code> to fix it. The edit command helpfully immediately prints out which files are conflicted at this point.</p>
 <p>It&rsquo;s the .env file again and it looks like this.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.48.27@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2025-03-18-at-22.48.27@2x.png"/> 
 </figure>
 
 <p>This is pretty quick to fix with Helix. Delete all the lines which shouldn&rsquo;t be there, pick the ones you want to have and remove all conflict markers.</p>

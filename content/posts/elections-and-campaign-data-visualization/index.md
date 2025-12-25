@@ -25,7 +25,7 @@ The other day at [the Rotterdam Open Data meeting](/dingen/2010/04/obstakels-in-
 A lot can go wrong when using data visualization, just see this video of a presentation by [Alex Lundry](http://twitter.com/alexlundry) which is familiar territory, but is brought nice and quickly:
 
 Or this recent [example from a so called Dutch quality newspaper](http://sargasso.nl/archief/2010/05/02/lies-and-statistics-volkskrant-en-de-schuldencrisis/) about Greec and other European edging towards the brink of financial ruin spotted by [the great Sargasso](http://sargasso.nl/archief/2010/05/02/lies-and-statistics-volkskrant-en-de-schuldencrisis/) ((To which my snide commentary was that most people going into graphic design don't do so because they were especially good at maths or statistics in high school.)):
-[![](/dingen/wp-content/uploads/2010/05/vk_schuldencrisis_fout_46.png)](/dingen/wp-content/uploads/2010/05/vk_schuldencrisis_fout_46.png)
+[![](vk_schuldencrisis_fout_46.png)](vk_schuldencrisis_fout_46.png)
 This is guilty of the fiddling with origins and axis scales that is so common in juicing up statistics for presentation purposes. Other faults from the video: “sin of ommission”, [“correlation is not causation”](http://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc), “pie-charts suck”. Most of this is treated pretty well in Tufte's [Visual Design of Quantitative Information](http://www.amazon.com/gp/product/0961392142?ie=UTF8&tag=alpercugun-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0961392142) where he calculates the lie factor of faulty infographics.
 
 ### US Job Losses
@@ -33,7 +33,7 @@ This is guilty of the fiddling with origins and axis scales that is so common in
 Data visualizations —especially charts of statistics— in elections are also nothing new ((I'd love to see a comprehensive annotated overview or even pointers to material.)), but with the increase of open data and data processing tools, we are bound to see more of them coming out and I hope to see more [dynamic ones](http://blog.semanticfoundry.com/2010/04/27/dynamic-visualization-introduction-theory/) especially.
 
 The Obama Job Chart (below, taken from [Creekside Chat](http://soquelbythecreek.blogspot.com/2010/02/what-does-obama-job-chart-really-mean.html)) is a very static traditional chart which could have just as easily been punched out of Excel (though the extra visual touches are nice), but the most important part of this chart is **how it supports an overall narrative**:
-[![](/dingen/wp-content/uploads/2010/05/obama_administration_jobs_chart.gif)](/dingen/wp-content/uploads/2010/05/obama_administration_jobs_chart.gif)
+[![](obama_administration_jobs_chart.gif)](obama_administration_jobs_chart.gif)
 I take issue with the poster's critique ((In Dutch we would call it: ‘looking for nails in low tide’.)) because the chart clearly says that it shows “Job Loss”and not absolute unemployment. Any turnaround of the economical situation will be necessarily coupled by a trend as displayed in the chart (losses have to edge back to zero before they can become gains). Also the comparison to the amount of money in a wallet does not really work because money spent is an absolute loss, while the amount of people in the job market is a pool which is in flux.
 
 ### UK Job Losses
@@ -66,5 +66,5 @@ Issues such as education, technology, healthcare, immigration, urban and ex-urba
 **Update:**
 This seems to be the overarching theme of the elections for the PvdA.
 [![Iedereen telt mee](http://farm4.static.flickr.com/3395/4623355995_0e41946f3c_m.jpg)](http://www.flickr.com/photos/alper/4623355995/ "Iedereen telt mee by illustir, on Flickr")**Update:** [Alex Lundry notices](http://twitter.com/alexlundry/status/15431574239) that the Obama job loss chart is being updated by the [Washington Monthly](http://www.washingtonmonthly.com/). Here's the April version:
-[![](/dingen/wp-content/uploads/2010/05/apriljobs-300x203.jpg)](/dingen/wp-content/uploads/2010/05/apriljobs.jpeg) And here's the same chart for the Netherlands albeit a lot less granular (if anybody has that data, I'd greatly appreciate it):
+[![](apriljobs-300x203.jpg)](apriljobs.jpeg) And here's the same chart for the Netherlands albeit a lot less granular (if anybody has that data, I'd greatly appreciate it):
 [![Werkloosheid Nederland](http://farm5.static.flickr.com/4053/4664375444_5891b8cd31.jpg)](http://www.flickr.com/photos/alper/4664375444/ "Werkloosheid Nederland by illustir, on Flickr")

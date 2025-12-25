@@ -21,7 +21,7 @@ Then halfway through the year, a shift happened where the kids underwent sleep r
 
 I wanted to see how dramatic this shift was so I retrieved my year’s reading from Goodreads, filled in the page counts ((Goodreads API is no beauty and page counts are subject to redistribution licenses from the publishers and as such a lot are missing.)) and made a bar chart of pages racked up per month.
 
-[![](/dingen/wp-content/uploads/2017/12/pages_per_month.png)](/dingen/2017/12/reading-2017/pages_per_month/)
+[![](pages_per_month.png)](/dingen/2017/12/reading-2017/pages_per_month/)
 
 That is indeed more or less where the kids started to become difficult sleepers (month 4-5) where my first peak starts and from there on it's a steady pace until the end of the year bang.
 

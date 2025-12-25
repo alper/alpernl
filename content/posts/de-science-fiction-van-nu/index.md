@@ -20,7 +20,7 @@ Boeken zoals [‘Super Sad True Love Story’](http://en.wikipedia.org/wiki/Supe
 
 Die ‘edge’ science-fiction is de leukste en elk jaar is er wel een boek te vinden dat precies het nu vangt. Vorig jaar was dat Zero History (mijn [recensie op de Republiek](http://www.vn.nl/boeken/fictie/zero-history-william-gibson/), [fragmenten](/dingen/2010/12/zero-history-excerpts/)) en dit jaar is het dankzij de Londense rellen [The City & the City](http://en.wikipedia.org/wiki/The_City_%26_the_City) van China Miéville ((China is een man in tegenstelling tot wat een schrijver in de boeken van NRC afgelopen week ook dacht.)).
 
-[![](/dingen/wp-content/uploads/2011/09/Mieville_City_2009_UK.jpg)](/dingen/wp-content/uploads/2011/09/Mieville_City_2009_UK.jpg)
+[![](Mieville_City_2009_UK.jpg)](Mieville_City_2009_UK.jpg)
 
 Kars heeft er voor zijn [praatje op dConstruct](http://whatsthehubbub.nl/blog/2011/09/the-transformers-at-dconstruct-2011/) ook stevig uit geput. Ik moest het toen nog lezen maar heb hem vorige week in anderhalve dag (3 uur en 35 minuten [volgens Readmill](http://readmill.com/alper/reads/the-city-the-city)) doorgeknald.
 

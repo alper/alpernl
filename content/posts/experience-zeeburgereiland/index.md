@@ -30,7 +30,7 @@ It's going to be the site of some significant development in the near future. It
 The site points to a fantastic concept at the site of the current silo's to build an art house, playground, museum and [restaurant](http://www.praq.nl/aktie/silos.php) with a fabulous view and attractive position: [the Annie M.G. Schmidt house](http://www.anniemgschmidthuis.nl/).
 
 Looking forward to this, but curious if the exurbs of the city beyond where I live (Diemen + Bijlmer) will ever be (re)developed or if we've forsaken those to become multicultural ghettos:
-[![](/dingen/wp-content/uploads/2010/06/foto-3.jpeg)](/dingen/wp-content/uploads/2010/06/foto-3.jpeg)
+[![](foto-3.jpeg)](foto-3.jpeg)
 
 I biked on to IJburg and large swaths of that area still are empty and being built and filled in. Most people won't remember how long it took for tram 26 to be extended there or when the first supermarket opened (is there one now even?).
 

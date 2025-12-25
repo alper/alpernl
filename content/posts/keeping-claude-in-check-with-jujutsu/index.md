@@ -40,7 +40,7 @@ I've found it very useful to use [jj](https://github.com/jj-vcs/jj) to continuou
 
 Here's what my hackathon project looks like in the [gg](https://github.com/gulbanana/gg) client after several days of on and off development.
 
-{{< figure src="/dingen/wp-content/uploads/2025/07/CleanShot-2025-07-25-at-16.41.13@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-07-25-at-16.41.13@2x.png" alt="" caption="" >}}
 
 You can have Claude do these steps as well. It's pretty good at `jj describe` even if a bit verbose. And in most cases it could also do `jj new` before every change, something that I forget occasionally.
 

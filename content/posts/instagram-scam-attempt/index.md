@@ -21,4 +21,4 @@ I didn't reply and the next day the avatar has been reverted. The account contin
 
 I reported this chat and account to Instagram as a scam but nothing has happened.
 
-{{< figure src="/dingen/wp-content/uploads/2021/02/Screenshot-2021-02-19-at-10.21.29.jpg" alt="" caption="" >}}
+{{< figure src="Screenshot-2021-02-19-at-10.21.29.jpg" alt="" caption="" >}}

@@ -16,13 +16,13 @@ url: /dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/
 ---
 Snel een visualisatie in elkaar gedraaid op basis van mijn Europees Parlement visualisatie van [vorige week](http://www.flickr.com/photos/alper/4388299738/). De huidige verkiezingen voor de gemeenteraad 2010 (klik voor groot):
 
-[![](/dingen/wp-content/uploads/2010/03/GR20104.png)](/dingen/wp-content/uploads/2010/03/GR20104.png)
+[![](GR20104.png)](GR20104.png)
 
 Grootste landelijke partijen per gemeente genomen waar mogelijk ((Sommige gemeenten hebben niet eens een landelijke partij in het lijstje staan. Die blijven dan wit.)). Sommige [gemeenten doen nu niet mee](http://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2010#Gemeenten_die_niet_meededen), zie Wikipedia voor het lijstje en van 22 gemeenten [moet de uitslag nog komen](http://www.nu.nl/raadsverkiezingen/2198015/uitslagen-22-gemeenten-laten-zich-wachten.html).
 
 De kaart met de grootste partijen van de vorige verkiezingen (voor het Europees Parlement in 2009):
 
-[![](/dingen/wp-content/uploads/2010/03/EP20091.png)](/dingen/wp-content/uploads/2010/03/EP20091.png)
+[![](EP20091.png)](EP20091.png)
 
 Het is lastig vergelijken met de Europese verkiezingen omdat dat een heel ander soort verkiezingen is met een nog lagere opkomst (en zichtbaar meer winst voor het CDA). Wilders deed bij die verkiezingen op een stuk meer plaatsen mee en dat is duidelijk zichtbaar. Je ziet dat de PVV nu vervangen is door de VVD, maar als Wilders in al die gemeenten wel meedeed, had het heel heel anders af kunnen lopen.
 

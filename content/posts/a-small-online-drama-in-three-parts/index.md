@@ -18,15 +18,15 @@ url: /dingen/2023/12/a-small-online-drama-in-three-parts/
 ---
 Suppose you're a well-known journalists hosting a weekly rather left podcast around topics such as migration, the climate and criticism of right-wing frames in the media. And then suppose you let yourself get baited majorly by an American alt-right activist.
 
-{{< figure src="/dingen/wp-content/uploads/2023/12/Friedemann-baited.png" alt="" caption="" >}}
+{{< figure src="Friedemann-baited.png" alt="" caption="" >}}
 
 This particular video was going around on German twitter and all the usual suspects were letting themselves get baited by it including above mentioned Friedemann. I [wrote about their podcast previously](/dingen/?s=piratensender) and I couldn't resist so I confronted him on it.
 
-{{< figure src="/dingen/wp-content/uploads/2023/12/Friedeman-confronted.png" alt="" caption="" >}}
+{{< figure src="Friedeman-confronted.png" alt="" caption="" >}}
 
 So I got blocked.
 
-{{< figure src="/dingen/wp-content/uploads/2023/12/Friedemann-blocked.png" alt="" caption="" >}}
+{{< figure src="Friedemann-blocked.png" alt="" caption="" >}}
 
 I mean "obsessive", sure. Being a major league hypocrite is one of the best ways to bait me.
 

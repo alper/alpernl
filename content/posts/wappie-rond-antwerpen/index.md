@@ -18,12 +18,12 @@ Veel onbekende termen en rare Vlaamse namen. Interessant om eens rond te kijken 
 
 De brug ziet er mooi uit maar in de uiteindelijke uitwerking zouden er veel concessies gedaan worden volgens [dit bericht bij ArchiNed](http://www.archined.nl/en/forum/de-lange-wapper-een-aannemersbrug/).
 
-\[caption id="attachment\_1280" align="aligncenter" width="450" caption="Knooppunt en Lange Wapper brug"\]![Knooppunt en Lange Wapper brug](/dingen/wp-content/uploads/2009/10/6a00e55345009c883300e5534ad0808833-800wi.jpeg)\[/caption\]
+\[caption id="attachment\_1280" align="aligncenter" width="450" caption="Knooppunt en Lange Wapper brug"\]![Knooppunt en Lange Wapper brug](6a00e55345009c883300e5534ad0808833-800wi.jpeg)\[/caption\]
 
 En wie weleens op de ringen bij Antwerpen en Brussel gereden heeft, kan dit soort chaotische knooppunten wel voor de ogen halen. Het lijkt erop dat het er niet simpeler op gaat worden (het idee was eerst ook om er een dubbeldeksbrug van te maken):
 
-\[caption id="attachment\_1282" align="aligncenter" width="300" caption="Wirwar van wegen voor de brug"\] [![Wirwar van wegen voor de brug](/dingen/wp-content/uploads/2009/10/LangeWapper04-300x225.jpg)](/dingen/wp-content/uploads/2009/10/LangeWapper04.jpeg)\[/caption\]
+\[caption id="attachment\_1282" align="aligncenter" width="300" caption="Wirwar van wegen voor de brug"\] [![Wirwar van wegen voor de brug](LangeWapper04-300x225.jpg)](LangeWapper04.jpeg)\[/caption\]
 
 Het lijkt me in ieder geval onhandig om met een grote berg beton een grote stroom verkeer je stad in te halen en de boel te splitsen. De alternatieve tunnels zijn moeilijker maar lijken wel de voorkeur te hebben zeker ook omdat twee van die voorstellen de verbinding naar het Noorden trekken. De Standaard zet de [voor- en nadelen op een rijtje](http://www.standaard.be/Artikel/Detail.aspx?artikelId=nh2cg3ft) en heeft ook [een serie kaartjes met de alternatieven](http://www.standaard.be/Nieuws/Foto/FotoDetail.aspx?ShowId=1517).
 
-\[caption id="attachment\_1281" align="aligncenter" width="300" caption="De twee hoofdzakelijke tracés, brug en tunnel"\] [![De twee hoofdzakelijke tracés, brug en tunnel](/dingen/wp-content/uploads/2009/10/vflesh-300x187.jpg)](/dingen/wp-content/uploads/2009/10/vflesh.jpeg)\[/caption\]
+\[caption id="attachment\_1281" align="aligncenter" width="300" caption="De twee hoofdzakelijke tracés, brug en tunnel"\] [![De twee hoofdzakelijke tracés, brug en tunnel](vflesh-300x187.jpg)](vflesh.jpeg)\[/caption\]

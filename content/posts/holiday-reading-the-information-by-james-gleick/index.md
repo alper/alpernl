@@ -15,7 +15,7 @@ url: /dingen/2014/08/holiday-reading-the-information-by-james-gleick/
 ---
 > “The new technology was both the virus and the vector of transmission.”— Walter J. Ong
 
- [![Shannonmouse](/dingen/wp-content/uploads/2014/08/Shannonmouse.png)](/dingen/wp-content/uploads/2014/08/Shannonmouse.png)
+ [![Shannonmouse](Shannonmouse.png)](Shannonmouse.png)
 
 This was one of the three books I read during my holiday in a cabin on the Austrian Alps. To hedge against a lack of sun hours to charge my reading device with I brought some physical books that had been lingering on my moribund to-read pile.
 

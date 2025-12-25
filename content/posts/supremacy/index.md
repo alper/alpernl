@@ -24,6 +24,6 @@ Not much a fan of the inbetweenist fauvist works on display, though most of them
 
 Like [I tweeted](http://twitter.com/alper/status/24657058159), you have all this colour and style and visual artistry, and then you get: [Malevich](http://en.wikipedia.org/wiki/Suprematism). [Black Square](http://en.wikipedia.org/wiki/File:Malevich.black-square.jpg); game, set and match.
 
-[![](/dingen/wp-content/uploads/2010/09/FileMalevich.black-square.jpeg)](/dingen/wp-content/uploads/2010/09/FileMalevich.black-square.jpeg)
+[![](FileMalevich.black-square.jpeg)](FileMalevich.black-square.jpeg)
 
 Hard to imagine a bigger “Fuck you!”

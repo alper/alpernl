@@ -26,4 +26,4 @@ What makes her stand out as an artist are:
 
 Our tour guide didn't make the connection but I find it more than fitting that on May 1st we would be looking at for instance the Weavers cycle (one of which I have pasted below).
 
-[![Kollwitz_Riot_Best](/dingen/wp-content/uploads/2016/05/Kollwitz_Riot_Best.jpg)](/dingen/2016/05/kathe-kollwitz-museum-berlin/kollwitz_riot_best/)
+[![Kollwitz_Riot_Best](Kollwitz_Riot_Best.jpg)](/dingen/2016/05/kathe-kollwitz-museum-berlin/kollwitz_riot_best/)

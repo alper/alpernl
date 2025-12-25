@@ -18,7 +18,7 @@ url: /dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/
 ---
 De laatste dagen staan een beetje in het teken van gelekte e-mailtjes van, naar en door invloedrijke mensen in Nederland. Een van de recentere is die van de nieuwe hoofdredacteur van het [NRC](http://www.nrc.nl), [Peter Vandermeersch](http://nl.wikipedia.org/wiki/Peter_Vandermeersch), naar zijn redactie, hieronder ( [via](http://twitter.com/#!/LeviBottle/status/26646195262)):
 
-[![](/dingen/wp-content/uploads/2010/10/briefvandermeesch.jpg)](/dingen/wp-content/uploads/2010/10/briefvandermeesch.jpg)
+[![](briefvandermeesch.jpg)](briefvandermeesch.jpg)
 
 Klik voor groter. Vandermeersch benoemt een serie dingen die de krant zou kunnen en moeten verbeteren om ‘het centrum van het politieke en intellectuele debat’ in Nederland te worden. Ik denk dat weinig mensen echt problemen zouden hebben met deze punten, veel ervan zijn nogal voor de hand liggend: sneller, beter, harder nieuws, geen primeurs laten afpakken, geen dingen laten liggen.
 

@@ -28,4 +28,4 @@ Dit maakt dat het spel niet heel diepgaand is maar een paar uur plezier heb je e
 Windows / Mac / Linux  
 €7,99
 
-[NRC\_20120620\_1\_015\_article3-1](/dingen/wp-content/uploads/2020/07/NRC_20120620_1_015_article3-1.pdf) [Download](/dingen/wp-content/uploads/2020/07/NRC_20120620_1_015_article3-1.pdf)
+[NRC\_20120620\_1\_015\_article3-1](NRC_20120620_1_015_article3-1.pdf) [Download](NRC_20120620_1_015_article3-1.pdf)

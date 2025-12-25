@@ -12,7 +12,7 @@ title: KÄ±ÅŸ Uykusu (Winter Sleep) by Nuri Bilge Ceylan
 url: /dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/
 
 ---
-[![Kis-Uykusu-7](/dingen/wp-content/uploads/2015/01/Kis-Uykusu-7.jpg)](/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/kis-uykusu-7/)
+[![Kis-Uykusu-7](Kis-Uykusu-7.jpg)](/dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/kis-uykusu-7/)
 
 I watched Winter Sleep in the train back to Berlin and Ceylan is indulging himself with his movies becoming ever longer. [Winter Sleep](http://letterboxd.com/film/winter-sleep/) clocks in at three hours and fifteen minutes so by the time it was over I found myself well past Hannover.
 

@@ -15,7 +15,7 @@ title: XiR - Angela Merkel
 url: /dingen/2017/12/xir-angela-merkel/
 
 ---
-[![](/dingen/wp-content/uploads/2017/12/XiR-—-Angela-Merkel-—-alper.nl-2017-12-28-23-11-53-1024x618.jpg)](/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/)
+[![](XiR-—-Angela-Merkel-—-alper.nl-2017-12-28-23-11-53-1024x618.jpg)](/dingen/2017/12/xir-angela-merkel/xir-angela-merkel-alper-nl-2017-12-28-23-11-53/)
 
 Turkish MC [XiR](https://www.facebook.com/xirgokdeniz/) has a new trap song out with the noteworthy title Angela Merkel. There is even somebody with a Merkel mask in the video.
 

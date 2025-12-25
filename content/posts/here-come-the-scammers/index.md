@@ -16,10 +16,10 @@ After having been [locked out of my Instagram](/dingen/2020/08/losing-firstname-
 
 And how do I know that they're doing this? They are in my messages and telling me that they are doing it. This is extremely brazen.
 
-{{< figure src="/dingen/wp-content/uploads/2020/09/IMG%5F9505-2.png" alt="" caption="" >}}
+{{< figure src="IMG_9505-2.png" alt="" caption="" >}}
 
 I don't know what they are thinking but let's hope that Instagram has tweaked some of their abuse processes or that my additional protection will pay off.
 
 And that is definitely not the only one. Though the other attempt (below) to retrieve my handle is so delusional that it's almost cute.
 
-{{< figure src="/dingen/wp-content/uploads/2020/09/IMG%5F9502.png" alt="" caption="" >}}
+{{< figure src="IMG_9502.png" alt="" caption="" >}}

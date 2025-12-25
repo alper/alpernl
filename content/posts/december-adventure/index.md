@@ -52,7 +52,7 @@ Yes, I'm writing this website in Rust/WASM, why do you ask?
 
 That example required a bunch of fiddling with the configuration and a couple of false starts, but now I have a vanilla map view.
 
-{{< figure src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-02-at-23.03.35@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-12-02-at-23.03.35@2x.png" alt="" caption="" >}}
 
 I can say that I'm amazed that in this ecosystem 1. an example exists 2. that example works 3. it works in my project with a bit of diffing and 4. it seems to do what I need.
 
@@ -68,7 +68,7 @@ To do this I need to figure out how to pass information along to a [router](http
 
 A tip from the Discord said I need to put the data into a [context](https://docs.rs/dioxus-hooks/latest/dioxus_hooks/fn.use_context.html) from a parent and then get it out again in a child. It's a bit roundabout and required some refactoring, but it works.
 
-{{< figure src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-03-at-00.40.01.gif" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-12-03-at-00.40.01.gif" alt="" caption="" >}}
 
 Done on time even for a reasonable bed time.
 
@@ -139,7 +139,7 @@ Went on my [weekly long bike ride](https://www.strava.com/activities/13065783170
 
 Got in a ton of commits on Cuppin.gs today. After fixing the map, I wanted to see what would happen if I would add all 2000 markers to the map.
 
-{{< figure src="/dingen/wp-content/uploads/2024/12/393608699-a57c484d-e12f-4dc7-ade8-ea39df95d2cc.png" alt="" caption="" >}}
+{{< figure src="393608699-a57c484d-e12f-4dc7-ade8-ea39df95d2cc.png" alt="" caption="" >}}
 
 Performance seems to be doable but this is probably not ideal for a webpage. Dynamically rendering the venues is something for later. For now I can probably get away with filtering for the 100-200 nearest locations by distance and dumping those into the map view.
 
@@ -173,7 +173,7 @@ I've also automated building the iOS app to be done by Xcode Cloud which should 
 
 Upgraded the frontend to [Dioxus 0.6.0](https://dioxuslabs.com/blog/release-060/) which just came out and has lots of quality of life issues. For my case, I did not need to change a single line of code, just change some version numbers and build a new `dioxus-cli`.
 
-{{< figure src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-17-at-00.56.51@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-12-17-at-00.56.51@2x.png" alt="" caption="" >}}
 
 I hope that maybe solves the `wasm-bindgen` issues on the frontend deploy. The annoying part about the build is that it takes so long that it's very hard to iterate on.
 
@@ -192,7 +192,7 @@ That forced me to clarify the two name fields the `venues` table has.
 - `name` was the original name field and was pulled from the Foursquare metadata
 - `google_name` is the name field that's pulled from Google Maps and was effectively leading but not updated correctly yet when refreshing the data
 
-{{< figure src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-24-at-08.45.11@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2024-12-24-at-08.45.11@2x.png" alt="" caption="" >}}
 
 So to figure that out I did a bunch of auditing in the list to see venues where there was a large discrepancy between the names. Something that happens is that a place will change its name but keep the same location and Google Maps place.
 

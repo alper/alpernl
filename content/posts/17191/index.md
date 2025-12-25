@@ -17,4 +17,4 @@ I got nerd sniped pretty hard by somebody sharing a Django code challenge: "only
 
 Started it before going to bed just to see if I still had it and 0.3s and 38MB say that I do still have it. Django is also a king among frameworks.
 
-{{< figure src="/dingen/wp-content/uploads/2023/06/CleanShot-2023-06-02-at-01.36.26@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2023-06-02-at-01.36.26@2x.png" alt="" caption="" >}}

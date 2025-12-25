@@ -16,7 +16,7 @@ title: 1 Dag â€” 1000 Donateurs
 url: /dingen/2010/10/1-dag-1000-donateurs/
 
 ---
-Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: [https://www.bof.nl/1dag1000donateurs/](https://www.bof.nl/1dag1000donateurs/) [![](/dingen/wp-content/uploads/2010/10/1dag1000donateurs-banner-728px.png)](/dingen/wp-content/uploads/2010/10/1dag1000donateurs-banner-728px.png)
+Vandaag voert Bits of Freedom de actie om in één dag 1000 donateurs binnen te halen: [https://www.bof.nl/1dag1000donateurs/](https://www.bof.nl/1dag1000donateurs/) [![](1dag1000donateurs-banner-728px.png)](1dag1000donateurs-banner-728px.png)
 
 Bits of Freedom is de burgerrechten organisatie voor het internet die ervoor zorgt dat we allemaal kunnen internet zoals we dat willen zonder beperkingen en verboden opgelegd door machtswellustige politici of op geld azende bedrijven, dat we in niet teveel databases worden gestopt —die dan toch weer uitlekken— en dat de dingen waarvan je wilt dat ze privé zijn dat ook blijven in de toekomst.
 

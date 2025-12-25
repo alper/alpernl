@@ -16,6 +16,6 @@ url: /dingen/2009/11/reisadvies-ov-moet-beter/
 ---
 Ik zou zeggen “duh!”, maar je kunt net zo goed zeggen dat dit een revolutie inluidt:
 
-[![Reisadvies ov moet beter](/dingen/wp-content/uploads/2009/11/105-01.gif)](/dingen/wp-content/uploads/2009/11/105-01.gif)
+[![Reisadvies ov moet beter](105-01.gif)](105-01.gif)
 
 Heel vet. Laten we zien wat er gebeurt.

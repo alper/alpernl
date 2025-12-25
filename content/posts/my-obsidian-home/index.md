@@ -92,7 +92,7 @@ I don't use Calendar.app (preferring [Cron](https://cron.com) at the moment) but
 
 Putting everything together, when I double-click on a day, I get a document that looks a bit like this:
 
-{{< figure src="/dingen/wp-content/uploads/2023/12/293187517-57f87126-8e95-4d8f-9cc9-edcc460f04d4.png" alt="" caption="" >}}
+{{< figure src="293187517-57f87126-8e95-4d8f-9cc9-edcc460f04d4.png" alt="" caption="" >}}
 
 The fact that it's fully automated and that with a single action I can get a relatively complete informational dashboard for what I should be doing that day has been an immense load off. It allows me to hit the ground running and immediately start sifting tasks, go through my meetings and create a plan for the day.
 

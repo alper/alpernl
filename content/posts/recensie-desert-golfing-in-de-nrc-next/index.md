@@ -15,7 +15,7 @@ title: Recensie Desert Golfing in de nrc.next
 url: /dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/
 
 ---
-[![screen520x924](/dingen/wp-content/uploads/2014/09/screen520x924.jpeg)](/dingen/wp-content/uploads/2014/09/screen520x924.jpeg)
+[![screen520x924](screen520x924.jpeg)](screen520x924.jpeg)
 
 In de [nrc.next](http://www.nrc.nl/) van vandaag staat [de eerste helft](https://blendle.nl/i/nrcnext/golfen-in-de-woestijn/bnl-nn-20140903-1415978) van mijn recensie van de iOS sensatie [Desert Golfing](https://itunes.apple.com/us/app/desert-golfing/id902062673?mt=8). Hier is de rest:
 

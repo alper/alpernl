@@ -13,7 +13,7 @@ title: Kaiju No 8
 url: /dingen/2024/11/kaiju-no-8/
 
 ---
-{{< figure src="/dingen/wp-content/uploads/2024/11/bafkreifd42yeog54zrdxr5nlgdpmeq66ptq4mzbesxzsnjucn34zybcfgu-2.jpg" alt="" caption="" >}}
+{{< figure src="bafkreifd42yeog54zrdxr5nlgdpmeq66ptq4mzbesxzsnjucn34zybcfgu-2.jpg" alt="" caption="" >}}
 
 I was somewhat excited to watch this anime series. It's only 12 episodes for its first season so it was over pretty quickly.
 

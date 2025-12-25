@@ -22,7 +22,7 @@ Halsema's felste kritiek is dat de Winter en de zijnen graag gebruik maken van d
 
 Mijn kritiek van de Winter gaat verder. Doordat hij olie op het vuur gooit en de doelen van terroristen verkeerd voorstelt, frustreert hij doeltreffende maatregelen tegen terrorisme. Tegelijkertijd zaait hij angst waar hij maar kan en hiermee helpt hij terroristen in feite hun doel van terreur te bewerkstelligen.
 
-![Leon de Winter](/dingen/wp-content/uploads/2007/07/dewinter.jpg)
+![Leon de Winter](dewinter.jpg)
 
 Eerst de uitleg dat terrorisme geen effectief middel is voor de doelen die terroristen écht willen bereiken onder al die rhetoriek. Die doelen zijn vaak een stuk redelijker dan het met wortel en tak uitroeien van de Westerse beschaving. Daarna leg ik uit waarom bang zijn en dat laten zien wel het domste is wat je kunt doen tegen een terroristische dreiging.
 

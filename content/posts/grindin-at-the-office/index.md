@@ -14,4 +14,4 @@ url: /dingen/2013/02/grindin-at-the-office/
 
 ---
 Here in the Berlin office we grind by hand:
-[![Grindin Alper](/dingen/wp-content/uploads/2013/02/Grindin-Alper.gif)](/dingen/2013/02/grindin-at-the-office/grindin-alper/)
+[![Grindin Alper](Grindin-Alper.gif)](/dingen/2013/02/grindin-at-the-office/grindin-alper/)

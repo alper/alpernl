@@ -12,7 +12,7 @@ title: CachÃ© and French history
 url: /dingen/2015/01/cache-and-french-history/
 
 ---
-[![cache1](/dingen/wp-content/uploads/2015/01/cache1.jpg)](/dingen/wp-content/uploads/2015/01/cache1.jpg)
+[![cache1](cache1.jpg)](cache1.jpg)
 
 In my newly rekindled love for movies, this weekend I finally watched [Caché](http://letterboxd.com/film/cache/) ((I seem to be the only person I know who watches a lot of French movies.)). As expected the movie is excellent and I should watch more movies by Haneke. It plays out like a reverse and more refined version of the [Dinner](http://www.nytimes.com/2013/03/10/books/review/the-dinner-by-herman-koch.html?pagewanted=all&_r=0).
 

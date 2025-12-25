@@ -14,8 +14,8 @@ url: /dingen/2009/10/innocence/
 ---
 Interesting on the part of the sub-team adding extra information to clarify references, cultural differences and even tone of voice. There were enough of these notes to be distracting, which makes it a mixed blessing. I think a movie is experienced better without.
 
-[![[KAA] Ghost in the Shell_ Innocence](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence.png)](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence.png)
+[![[KAA] Ghost in the Shell_ Innocence](KAA-Ghost-in-the-Shell_-Innocence.png)](KAA-Ghost-in-the-Shell_-Innocence.png)
 
 And here another interesting image in a movie littered with them:
 
-[![[KAA] Ghost in the Shell_ Innocence-1](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence-1.png)](/dingen/wp-content/uploads/2009/10/KAA-Ghost-in-the-Shell_-Innocence-1.png)
+[![[KAA] Ghost in the Shell_ Innocence-1](KAA-Ghost-in-the-Shell_-Innocence-1.png)](KAA-Ghost-in-the-Shell_-Innocence-1.png)

@@ -32,7 +32,7 @@ Als je ervan overtuigd bent dat kranten een maatschappelijk belang dienen dan zo
 
 Wil je die maatschappelijke relevantie behouden dan zul je op het internet net zo een hoogwaardig, (her)bruikbaar, informatiedicht alternatief moeten aanbieden als een papieren krant in de offline wereld is. Niet alleen dat, daarnaast moet je ook nog eens gebruik maken van alle mogelijkheden van dat internet om daar op gelijke voet te kunnen concurreren. Dat is niet makkelijk maar zeker ook niet onmogelijk.
 
-\[caption id="attachment\_1294" align="alignright" width="300" caption="Microfiche"\] [![Microfiche](/dingen/wp-content/uploads/2009/10/GKD_mirofiche_1988_05_single-300x220.jpg)](/dingen/wp-content/uploads/2009/10/GKD_mirofiche_1988_05_single.jpeg)\[/caption\]
+\[caption id="attachment\_1294" align="alignright" width="300" caption="Microfiche"\] [![Microfiche](GKD_mirofiche_1988_05_single-300x220.jpg)](GKD_mirofiche_1988_05_single.jpeg)\[/caption\]
 
 Een Content API is het hedendaagse equivalent van het doorzoeken van krantenarchieven en hergebruiken van krantenknipsels (maar dan zoveel schaalbaarder). Het is niet genoeg, maar het is wel een begin.
 

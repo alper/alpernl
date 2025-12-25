@@ -46,7 +46,7 @@ https://twitter.com/karstenkneese/statuses/238701118513893376
 https://twitter.com/FrauLea/statuses/238700483097808896
 
 A picture by [Gulius Caesar](https://twitter.com/guliuscaesar):
-[![](/dingen/wp-content/uploads/2012/08/Alper-presenting-on-Campus-Party.jpg)](/dingen/wp-content/uploads/2012/08/Alper-presenting-on-Campus-Party.jpg)
+[![](Alper-presenting-on-Campus-Party.jpg)](Alper-presenting-on-Campus-Party.jpg)
 
 On Friday it was back to the Campus Party to see the presentation by [the Rails Girls Berlin](http://railsgirlsberlin.de/). On the whole Campus Party was a great event with so much interesting stuff happening (a bit too much at times), but with also a lot of odd kinks in the organization which are neatly [summarized over at Silicon Allee](http://siliconallee.com/editorial/2012/08/27/cp-vs-toa-considerable-efforts-on-missed-chances).
 

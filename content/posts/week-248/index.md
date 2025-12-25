@@ -22,7 +22,7 @@ Some remaindered weeknotes that have been the casualty of an international move.
 
 This week marked a strategic planning session for the coming year out of which a lot of opportunity flowed. I also finished [‘Where is my Heart?’](http://www.copenhagengamecollective.org/where-is-my-heart/) for an upcoming [nrc.next](http://www.nrcnext.nl/) review. It is a spectacular piece of work and a total mind altering experience. A well deserved five stars.
 
-[![](/dingen/wp-content/uploads/2012/01/rocks.png)](/dingen/wp-content/uploads/2012/01/rocks.png)
+[![](rocks.png)](rocks.png)
 
 Next we did some project planning for a fun little thing ( _saba_) we're going to build in 2012Q1. And then we played [Quarriors](http://boardgamegeek.com/boardgame/91536/quarriors) which I won against all odds ((Me writing this is still a bit of residual fiero.)).
 

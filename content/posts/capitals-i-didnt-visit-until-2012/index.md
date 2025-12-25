@@ -31,4 +31,4 @@ The funny thing is that I visited a lot of capitals of countries that I hadn't v
 **To Moscow in December:** A nice combination of business and personal visits and a welcome confrontation with the weirdness of Russia.
 
 Which makes my visited countries map look like this:
-[![](/dingen/wp-content/uploads/2012/11/visited_countries.png)](/dingen/wp-content/uploads/2012/11/visited_countries.png)
+[![](visited_countries.png)](visited_countries.png)

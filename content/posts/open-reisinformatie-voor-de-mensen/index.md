@@ -18,14 +18,14 @@ Ik zit al een tijdje na te denken over reisinformatie en het zou erg fijn zijn a
 Het is een redelijk triviale applicatie, maar eentje die voor veel mensen nuttig kan zijn. Als de gegevens makkelijk beschikbaar waren, konden we honderden van dit soort tools maken ((Elke weer gesitueerd aan de specifieke wensen en eisen van een groep gebruikers.)).
 
 **Idee 2:** De [OV-chipkaart](http://www.ov-chipkaart.nl/) gaat binnenkort al onze reisbewegingen vastleggen. Dit is [slecht](http://www.ov-chipklacht.nl/site/197/index.html) maar kan ook goed zijn. Die gegevens zijn van jezelf, privacy zegt dat ze niet met derden gedeeld mogen worden maar het is ook een fundamenteel recht om te kunnen beschikken over je eigen informatie. Wat zou je kunnen doen met deze informatie?
-![OV Chipklacht](/dingen/wp-content/uploads/2007/12/header.gif)
+![OV Chipklacht](header.gif)
 
 1. Het CO2 verbruik van je vervoersbewegingen in kaart brengen en het verschil tonen met als je de auto had genomen.
 1. Automatisch uitdraaien maken door een vertrouwde derde partij en die direct naar je werk laten sturen voor je reiskostenvergoeding.
 
 Hoe? Een Atom gebaseerd API waar je toegang tot kun verlenen via een [OAuth](http://oauth.net/) endpoint. Erg simpel maar waarschijnlijk niet op de radar van de partij die dit ontwikkelt.
 
-**Idee 3:**![Google Transit](/dingen/wp-content/uploads/2007/12/transit_labs_hp_logo.gif) [Google Transit](http://www.google.com/transit) is een uitbreiding op [Google Maps](http://maps.google.nl) die openbaar vervoersinformatie aanbiedt. Transit is nog experimenteel maar wordt [beter en beter](http://www.google.com/maps?f=d&hl=en&geocode=&time=5:15pm&date=12%2F7%2F07&ttype=dep&saddr=800+Bancroft+Way,+Berkeley,+CA+94710&daddr=5008+Telegraph+Ave,+Oakland,+CA+94609&sll=37.849239,-122.28384&sspn=0.062623,0.116386&dirflg=r&ie=UTF8&z=13&om=1&start=0) ((Let op de meerdere vervoersopties met kosten erbij en ook afgezet tegen de kosten van autorijden.)).
+**Idee 3:**![Google Transit](transit_labs_hp_logo.gif) [Google Transit](http://www.google.com/transit) is een uitbreiding op [Google Maps](http://maps.google.nl) die openbaar vervoersinformatie aanbiedt. Transit is nog experimenteel maar wordt [beter en beter](http://www.google.com/maps?f=d&hl=en&geocode=&time=5:15pm&date=12%2F7%2F07&ttype=dep&saddr=800+Bancroft+Way,+Berkeley,+CA+94710&daddr=5008+Telegraph+Ave,+Oakland,+CA+94609&sll=37.849239,-122.28384&sspn=0.062623,0.116386&dirflg=r&ie=UTF8&z=13&om=1&start=0) ((Let op de meerdere vervoersopties met kosten erbij en ook afgezet tegen de kosten van autorijden.)).
 Google vraagt geen geld voor deze dienst. Als we dit in Nederland ook willen (en dat willen we), hoeven de vervoerders alleen maar hun gegevens in een standaard formaat aan Google aan te bieden.
 Op dit moment piekeren vervoerders in Nederland hier niet over omdat ze de vervoersinformatie hebben ondergebracht bij [een monopolist](http://www.9292ov.nl). Het doel van OV9292 is om een minimale dienst aan te bieden en de gemaakte investering terug te verdienen.
 

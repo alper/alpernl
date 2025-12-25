@@ -19,6 +19,6 @@ I do this during extended work sessions away from my desk.
 
 The setup is really easy with Karabiner Elements and a new profile that disables the laptop built-in keyboard when my contra is plugged in.
 
-{{< figure src="/dingen/wp-content/uploads/2025/02/img%5F7796.jpg" alt="" caption="" >}}
+{{< figure src="img_7796.jpg" alt="" caption="" >}}
 
 [https://xn--gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/](https://xn--gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/)

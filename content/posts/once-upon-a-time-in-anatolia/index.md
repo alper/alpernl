@@ -13,7 +13,7 @@ title: Once Upon a Time in Anatolia
 url: /dingen/2015/01/once-upon-a-time-in-anatolia/
 
 ---
-[![anatoliablu00002](/dingen/wp-content/uploads/2015/01/anatoliablu00002.jpg)](/dingen/wp-content/uploads/2015/01/anatoliablu00002.jpg)
+[![anatoliablu00002](anatoliablu00002.jpg)](anatoliablu00002.jpg)
 
 I rewatched [Once Upon a Time in Anatolia](http://letterboxd.com/film/once-upon-a-time-in-anatolia/) last week with my parents and it was even better than the first time. I usually think that movies shouldn't be longer than two hours but here even a second viewing did not bore.
 

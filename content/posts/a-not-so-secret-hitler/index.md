@@ -22,7 +22,7 @@ I tried ignoring Secret Hitler but their design notes kept making their way into
 
 The problem is that the identity cards for fascist players in the game (shown below) display them als lizards where the liberal identities are shown as human. Fascists are **inhuman**, get it?
 
-[![fascists](/dingen/wp-content/uploads/2015/12/fascists.png)](/dingen/2015/12/a-not-so-secret-hitler/fascists/)
+[![fascists](fascists.png)](/dingen/2015/12/a-not-so-secret-hitler/fascists/)
 
 This is simplistic and immoral. If it's not obvious why, here are three reasons:
 

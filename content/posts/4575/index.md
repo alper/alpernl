@@ -12,7 +12,7 @@ title: Almost hit and run
 url: /dingen/2013/05/4575/
 
 ---
-[![Screen Shot 2013-05-18 at 5.33.27 PM](/dingen/wp-content/uploads/2013/05/Screen-Shot-2013-05-18-at-5.33.27-PM.png)](/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/)
+[![Screen Shot 2013-05-18 at 5.33.27 PM](Screen-Shot-2013-05-18-at-5.33.27-PM.png)](/dingen/2013/05/4575/screen-shot-2013-05-18-at-5-33-27-pm/)
 
 The turn above from Rosa-Luxemburg-Straße into Schönhauser Allee yesterday around 19:15 is where I almost got hit by a woman driving a black car with license plates **LDS HS 179**. Shaken but not too shaken I pursued them up the street to demonstrate my discontent and to write down the plate number.
 

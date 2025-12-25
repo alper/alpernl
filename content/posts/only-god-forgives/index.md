@@ -14,7 +14,7 @@ title: Only God Forgives
 url: /dingen/2013/07/only-god-forgives/
 
 ---
-[![only-god-forgives](/dingen/wp-content/uploads/2013/07/only-god-forgives.jpg)](/dingen/wp-content/uploads/2013/07/only-god-forgives.jpg)
+[![only-god-forgives](only-god-forgives.jpg)](only-god-forgives.jpg)
 
 After a rather hectic week and day last Friday I went to see [Only God Forgives](http://www.imdb.com/title/tt1602613/) in [Central](https://foursquare.com/v/central/4b0722d6f964a520f8f722e3) cinema ((Which honestly is a bit of a dump, but it was the best option given the circumstances.)). The movie is rather excellent if you like extreme violence or Ryan Gosling or both.
 

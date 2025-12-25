@@ -18,7 +18,7 @@ url: /dingen/2019/01/reading-2018/
 ---
 I grabbed [the code](https://github.com/alper/goodreadsgraph) I had lying around for [last year](/dingen/2017/12/reading-2017/) and without too much trouble ran the same analysis for the books. The graph is not that dramatic this time though for some reason I did not read much during summer.
 
-{{< figure src="/dingen/wp-content/uploads/2019/01/download.png" alt="" caption="" >}}
+{{< figure src="download.png" alt="" caption="" >}}
 
 Page-wise this year with 13398 pages was a bit weaker than last year (15049 pages).
 

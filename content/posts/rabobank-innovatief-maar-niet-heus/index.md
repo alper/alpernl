@@ -14,7 +14,7 @@ url: /dingen/2010/06/rabobank-innovatief-maar-niet-heus/
 
 ---
 Dit is de zogenaamde innovatie bij de [Rabobank](http://www.rabobank.nl):
-[![](/dingen/wp-content/uploads/2010/06/rabobank-innovatie2.png)](/dingen/wp-content/uploads/2010/06/rabobank-innovatie2.png)
+[![](rabobank-innovatie2.png)](rabobank-innovatie2.png)
 
 Ter verduidelijking, ik wil graag automatisch afschriften uit Rabobank naar applicaties kunnen sturen (en er [zijn](http://www.yunoo.nl) [meerderen](http://www.moneybird.nl) in Nederland die daar graag mooie dingen mee zouden bouwen).
 

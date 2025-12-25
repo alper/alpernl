@@ -17,6 +17,6 @@ The [construction site next](/dingen/2021/11/chasing-down-noise-complaints-for-t
 
 They have built a housing around the heater which has maybe reduced the noise by 5dB and we are still left with a value that is far above what is allowed here.
 
-{{< figure src="/dingen/wp-content/uploads/2021/12/IMG%5F1610-1-edited-1.png" alt="" caption="" >}}
+{{< figure src="IMG_1610-1-edited-1.png" alt="" caption="" >}}
 
 Picture of the housing forthcoming.

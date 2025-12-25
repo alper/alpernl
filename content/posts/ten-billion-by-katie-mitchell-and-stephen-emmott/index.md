@@ -23,7 +23,7 @@ Targeting this kind of broad audience, it turns out it is altogether too easy to
 
 I have been thinking about the possibilities of collapse and [thrivability](http://thrivable.net/) myself recently and I came upon [this model by Venkatesh Rao](http://www.ribbonfarm.com/2012/03/22/can-hydras-eat-unknown-unknowns-for-lunch/) that I think very effectively captures many of the things we are trying to do with society. Faced with uncertainty, the most rational outcome is to create social/economic structures that feed on that uncertainty to become more resilient. I agree with Emmott that many of the global systems currently are too fragile, but that is a solvable problem.
 
-[![](/dingen/wp-content/uploads/2012/07/rumsfeldNarrs.png)](http://www.ribbonfarm.com/2012/03/22/can-hydras-eat-unknown-unknowns-for-lunch/)
+[![](rumsfeldNarrs.png)](http://www.ribbonfarm.com/2012/03/22/can-hydras-eat-unknown-unknowns-for-lunch/)
 
 Emmott himself discussed the two solutions in the top quadrants: behaviour change (the Spore narrative) and technological progress (the Hydra narrative). He dismissed both rather summarily. So the play consists of presenting an audience somewhat convincingly with a well-known fact and then not giving them an actionable solution. All this in the hope that people will be so disconcerted that they will become wholesale activists when they get home.
 

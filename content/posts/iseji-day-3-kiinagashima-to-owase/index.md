@@ -16,29 +16,29 @@ Another day, another broken night because of jetlag. Getting up at all was not e
 
 My hostess kindly offered to refund me the money (a trifle) for dinner because of the misunderstanding. Which I of course did not accept. The food was tasty, plentiful and home cooked and she might have saved my legs. She made me the light breakfast with fish and rice that we know and love.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0147-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0147-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0152-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0152-Large.jpeg" alt="" caption="" >}}
 
 For my first bit I walked over a light pass with a view and circled around the harbour, the coast and some of the local beaches.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0177-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0177-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0185-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0185-Large.jpeg" alt="" caption="" >}}
 
 My barista in Berlin says he would come to Mie to surf back in the day which looks like it could be amazing. But probably not to this part of Mie for that.
 
 The passes themselves, [Ikkoku-toge, Hirakata-toge and Miura-toge](https://www.kodo.pref.mie.lg.jp/en/course/06.html) were short work but it is where I met the first other people I've seen on trail so far. Two old geezers who had driven here and did their walk ( _sanpo_) up and back down. The pass itself was short work with maybe 3-4 switchbacks. I remember having to make 1000 altimeters in the Alps where we would be doing hours of consecutive turns like this.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0165-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0165-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0168-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0168-Large.jpeg" alt="" caption="" >}}
 
 In [Craig Mod's account](https://walkkumano.com/iseji/#day4) it says the walking from Minose to Aiga is relatively miserable along the road, so that's a perfect excuse for me to skip it and take the 11:37 train. Catching that is essential because it lines me up nicely for Magose. Missing it would mean the rest of the day would be a loss because of the lunch sized hole in the train schedule.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0174-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0174-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0177-Large-1.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0177-Large-1.jpeg" alt="" caption="" >}}
 
 At the Minose train station a team was re-roofing the shack. Nice to see infrastructure investment like that even in the most rural of places. Something you would never see where I'm from.
 
@@ -48,9 +48,9 @@ During the train ride I saw some of my first fellow hikers. One Japanese woman i
 
 Aiga has quite some stuff going on for it in gastronomy. I wasn't very hungry so I stopped quickly behind the train station at \` [Cafe do Selecao](https://maps.app.goo.gl/k2mJFPubxJwdLdUi7) (!) for a strengthening coffee before the climb ahead. The coffee was good but unfortunately the owner was grabbed by bear frenzy. He kept trying to convince me that there are lots of bears around and I should be careful. I'm not a bear denialist, but there's no reason to be stressed about them in this part of Japan.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0196-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0196-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0203-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0203-Large.jpeg" alt="" caption="" >}}
 
 Then I walked up and the climb was strenuous to put it mildly. The stone path was an interesting innovation here and I guess it helps but I'm just glad that it wasn't raining. Even in the best conditions I would need about 15 minutes to go up 100m so the 330m here took the better part of an hour.
 
@@ -58,9 +58,9 @@ Then at the top I made the "fantastic" decision to go to the summit. Most of tha
 
 During the summit climb another Western couple were absolutely balling it down and to my amazement the guy had a baby in a front carrier. I admire the show of dominance here but one misstep and that baby is toast. In mountainous territory it is acceptable to carry kids in a [kraxe](https://www.alpenverein.de/artikel/kinderkraxen_c98fcd75-3e52-43e6-9cae-ac1c41512895), not an ergo baby.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0211-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0211-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0210-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0210-Large.jpeg" alt="" caption="" >}}
 
 The summit itself was sketchy as hell (as most summits are, really) but the views were definitely spectacular.
 
@@ -72,9 +72,9 @@ The walk down was uneventful and led me through a large and active cemetery.
 
 Then finally in Owase I tried to hunt down a bite and a coffee before checking in to my accommodation. It was hard to find something. Many stores were not up to date in either Google Maps or tabélog, which I find surprising since that is supposed to be the local restaurant app.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0225-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0225-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0226-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0226-Large.jpeg" alt="" caption="" >}}
 
 What did help me find a nice place, was just walking and looking around. I stumbled on a coffee and wine place (like all the fancy places these days are) with a proper espresso machine. The building used to house the pharmacy with an "Apotheke" sign on the building and the inside was modern and open. I got my cappuccino and saw the friendly young and creative people of Owase congregate there.
 
@@ -84,9 +84,9 @@ I checked in without seeing anybody into an empty family house up the hills in a
 
 Then for dinner I went to a place called [Inaka](https://maps.app.goo.gl/66DQ7zMBXf26izMp8) which has a well deserved reputation as a fantastic family-run [kappou](https://guide.michelin.com/en/article/dining-out/what-is-japanese-kappo-cuisine) restaurant. I had some trouble trying to figure out what to order, but their summary English menu delivered the goods. I didn't feel like figting with some wild monk-/pufferfish after a long day of hiking anyway.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0235-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0235-Large.jpeg" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/IMG%5F0236-Large.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_0236-Large.jpeg" alt="" caption="" >}}
 
 What they delivered was absolute art. Probably the best meal I've had so far. The variety, the care, the detail and the different platings were out of the world. It is also not one of the cheapest meals I've had but I'm happy to pay for something _this_ good delivered this casually.
 

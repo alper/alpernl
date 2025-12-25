@@ -41,7 +41,7 @@ Jetzt habe ich einen guten Job aber ich versuche meine Familie davon zu überzeu
 
 Ich meine was man hätte tun sollen ist einige von den Problemen die hier skizziert werden zu lösen:
 
-{{< figure src="/dingen/wp-content/uploads/2025/02/61LnmYbbtPL.%5FSL1500%5F.jpg" alt="" caption="" >}}
+{{< figure src="61LnmYbbtPL._SL1500_.jpg" alt="" caption="" >}}
 
 Nur:
 

@@ -16,4 +16,4 @@ url: /dingen/2021/08/16560/
 ---
 I need to keep track of how our bet on AWS AppSync is doing which is so small that it doesn't show up in Stack Overflow's official tags chart but [here's an off-label website](http://sotagtrends.com/?tags=aws-appsync+aws-api-gateway+aws-lambda) that will give it to us.
 
-{{< figure src="/dingen/wp-content/uploads/2021/08/Tag-Trends-2021-08-15-13-13-07.jpg" alt="" caption="" >}}
+{{< figure src="Tag-Trends-2021-08-15-13-13-07.jpg" alt="" caption="" >}}

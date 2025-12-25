@@ -12,7 +12,7 @@ categories:
   - politics
 date: "2023-07-26T20:38:46+00:00"
 enclosure: |-
-  https://alper.nl/dingen/wp-content/uploads/2023/07/Tooze-Clip.mp3
+  https://alper.nlTooze-Clip.mp3
   1857333
   audio/mpeg
 guid: https://alper.nl/dingen/?p=17239
@@ -22,7 +22,7 @@ title: 'Fragment Ones and Tooze: Tooze Unplugged'
 url: /dingen/2023/07/fragment-ones-and-tooze-tooze-unplugged/
 
 ---
-{{< audio src="/dingen/wp-content/uploads/2023/07/Tooze-Clip.mp3" >}}
+{{< audio src="Tooze-Clip.mp3" >}}
 
 Tooze talking for five minutes about the difference between European and American academic traditions. Excuse the low quality but my Wordpress has a 2MB file limit.
 

@@ -17,4 +17,4 @@ Mensen die mij kennen weten dat ik nooit echt dingen retweet en me bezig hou met
 
 Bits of Freedom komt op voor een open en vrij internet in Nederland en Europa en ze doen dat buitengewoon effectief. Als je je privacy wilt bewaren en een ongefilterde toegang tot het internet wilt houden ga je vandaag naar [“Do Your Bit!”](https://www.bof.nl/do-your-bit/) en doneer je €5 in vijf minuten. Je krijgt een t-shirt en een goed gevoel.
 
-[![](/dingen/wp-content/uploads/2011/10/DoYourBit.jpg)](https://www.bof.nl/do-your-bit/)
+[![](DoYourBit.jpg)](https://www.bof.nl/do-your-bit/)

@@ -87,11 +87,11 @@ It is possible to manipulate the repository using gg and when it works [it's pre
 
 I seem to have missed one occurrence on my last pass because when searching right now I find another occurrence.
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.36.09@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.36.09@2x.png" alt="" caption="" >}}
 
 Looking at the diff with `jj show rkq` shows me there's still an unredacted API key there.
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.37.22@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.37.22@2x.png" alt="" caption="" >}}
 
 So we might as well clear this as well.
 
@@ -99,7 +99,7 @@ Trying to change this with `jj edit rkq` throws an error because the change is i
 
 Our history is not shared because this is my private side project, so we can do whatever we want. With `jj edit rkq --ignore-immutable` it is possible to edit this history as well. I replace the API key with the word "fake".
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.43.32@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.43.32@2x.png" alt="" caption="" >}}
 
 That works and propagates the change through history but it also creates conflicts.
 
@@ -107,21 +107,21 @@ That works and propagates the change through history but it also creates conflic
 
 My view in gg looks like this now:
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.44.09@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.44.09@2x.png" alt="" caption="" >}}
 
 The command-line looks similar if you know what to look for (the red crosses).
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.45.16@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.45.16@2x.png" alt="" caption="" >}}
 
 How I go through this is to scroll down in gg to find the first occurrence of the conflict. The change has propagated to that point where it conflicted again and needs to be fixed. That's here.
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.47.06@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.47.06@2x.png" alt="" caption="" >}}
 
 From there I edit the first conflicted change with `jj edit qtv` to fix it. The edit command helpfully immediately prints out which files are conflicted at this point.
 
 It's the .env file again and it looks like this.
 
-{{< figure src="/dingen/wp-content/uploads/2025/03/CleanShot-2025-03-18-at-22.48.27@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-03-18-at-22.48.27@2x.png" alt="" caption="" >}}
 
 This is pretty quick to fix with Helix. Delete all the lines which shouldn't be there, pick the ones you want to have and remove all conflict markers.
 

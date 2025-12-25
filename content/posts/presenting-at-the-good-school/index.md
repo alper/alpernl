@@ -18,4 +18,4 @@ url: /dingen/2018/05/presenting-at-the-good-school/
 ---
 A couple of weeks ago I took the train to Hamburg and back to present at the Good School. Here's a picture of me in action courtesy of [The Good School](http://www.good-school.de/).
 
-[![](/dingen/wp-content/uploads/2018/05/DTC_T_3.-Tag_Alper.jpg)](/dingen/2018/05/presenting-at-the-good-school/dtc_t_3-tag_alper/)
+[![](DTC_T_3.-Tag_Alper.jpg)](/dingen/2018/05/presenting-at-the-good-school/dtc_t_3-tag_alper/)

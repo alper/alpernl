@@ -40,13 +40,13 @@ Thankfully other people did have the patience and we have several contenders now
 
 At the moment I'm still trying them out. Playing a bit with paneru I ran into this layout which is relatively common with sliding window managers:
 
-{{< figure src="/dingen/wp-content/uploads/2025/10/CleanShot-2025-10-24-at-20.29.49@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-10-24-at-20.29.49@2x.png" alt="" caption="" >}}
 
 What's the point of having a cut off window to your left? I don't see it. The cut-off window may be large or small but it remains entirely a waste of space.
 
 Another issue is that the active window sticks to the left or the right of the screen when swapping its position in the strip. This is a jarring jump back and forth.
 
-{{< figure src="/dingen/wp-content/uploads/2025/10/CleanShot-2025-10-24-at-20.32.47.gif" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-10-24-at-20.32.47.gif" alt="" caption="" >}}
 
 And finally the lack of animation negates everything that's naturally about a scrolling window manager. I think that may become a deal breaker in general.
 
@@ -64,11 +64,11 @@ Komorebi is promising but is also still pretty early stage.
 
 Thinking about how I use Aerospace the only truly useful layouts that I use are the following.
 
-{{< figure src="/dingen/wp-content/uploads/2025/10/CleanShot-2025-10-24-at-21.55.30@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-10-24-at-21.55.30@2x.png" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/10/CleanShot-2025-10-24-at-21.56.01@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-10-24-at-21.56.01@2x.png" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2025/10/CleanShot-2025-10-24-at-21.56.12@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-10-24-at-21.56.12@2x.png" alt="" caption="" >}}
 
 With the smaller windows either side could be a stack so that I can have multiple similarly sized windows behind each other that I can cycle through. I almost never use vertical tiling or any other type of division even on a larger display.
 

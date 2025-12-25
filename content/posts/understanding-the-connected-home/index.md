@@ -22,7 +22,7 @@ I hope to get around to reading it soon since right now I have no desire or oppo
 
 I think I would like to take the best of what these technologies can bring but they probably only make sense if you innovate in the other layers of a house as well as in what is built and the way it is built.
 
-[![6S](/dingen/wp-content/uploads/2015/09/6S.gif)](/dingen/2015/09/understanding-the-connected-home/6s/)
+[![6S](6S.gif)](/dingen/2015/09/understanding-the-connected-home/6s/)
 
 If you look at the six Ss, connectivity consists of things at the manufactured level of Stuff (cheap consumer grade electronics from China). It latches onto the Space Plan and I would guess it has considerable effects on that and would benefit from changes in that plan. More problematically it pierces these layers and as such deteriorates the structural integrity of the house further. Connected things need to either interface with the Services layer or call for new Services to be deployed throughout the house. These move from the inside out but also from the outside —Skin layer— in when it comes to things like solar power and geothermal connectivity.
 

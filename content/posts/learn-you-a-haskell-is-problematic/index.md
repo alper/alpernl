@@ -24,10 +24,10 @@ Judging from the reviews online not that many people (in this case almost only m
 
 I've screenshotted the examples below. There must be better books to learn Haskell with by now. I quickly switched to [Clojure](https://clojure.org/) quickly for a bunch of reasons and you might do well not to take the detour that I did.
 
-{{< figure src="/dingen/wp-content/uploads/2021/12/CleanShot-2021-09-07-at-16.43.40.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2021-09-07-at-16.43.40.png" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2021/12/CleanShot-2021-09-07-at-16.43.55.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2021-09-07-at-16.43.55.png" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2021/12/CleanShot-2021-09-07-at-16.46.04.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2021-09-07-at-16.46.04.png" alt="" caption="" >}}
 
 There could be more but I think you get the point.

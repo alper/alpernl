@@ -20,7 +20,7 @@ I heard about the session of the traffic commission of Berlin-Neukölln through 
 
 So I made my way over to Rathaus Neukölln during rush hour yesterday to listen in on the session. Even though these things are deadly boring, they are at the same time extremely revealing of the workings and attitudes of our governments and just for that fact worthwhile to occasionally visit. At the same time I think it is a civic duty to attend these sessions for the things that you are interested in. If you don't, others will.
 
-[![Berlin.de on an iPhone](/dingen/wp-content/uploads/2015/02/IMG_9449.png)](/dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/img_9449/)
+[![Berlin.de on an iPhone](IMG_9449.png)](/dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/img_9449/)
 
 The website Berlin.de lists the proceedings of the session but it is unfortunately totally unusable on a mobile device (see the screenshot above) so I went by ear and noted what I could understand of the proceedings. The meeting protocol was I may add a bit chaotic and unclear. Part of it may be because I was ten minutes late (thank [BVG](http://www.bvg.de/en/)) but I would expect local political sessions to at least have signs to show who's who ( [like they do in Amsterdam](https://www.flickr.com/photos/alper/5161572979)).
 

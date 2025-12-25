@@ -16,4 +16,4 @@ url: /dingen/2025/10/18414/
 ---
 When comedians say that Silicon Valley CEOs (and Mark Zuckerberg especially) are bitch coded, this is what they mean.
 
-{{< figure src="/dingen/wp-content/uploads/2025/10/bafkreigwp4qqltr7ydbo4soqhg4e6tpfzjyawtthz4ho32i2wtohjp5hym.jpg" alt="" caption="" >}}
+{{< figure src="bafkreigwp4qqltr7ydbo4soqhg4e6tpfzjyawtthz4ho32i2wtohjp5hym.jpg" alt="" caption="" >}}

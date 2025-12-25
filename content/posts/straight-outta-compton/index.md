@@ -16,7 +16,7 @@ title: Straight outta ComptonÂ 
 url: /dingen/2015/09/straight-outta-compton/
 
 ---
-[![LwoaE](/dingen/wp-content/uploads/2015/09/LwoaE.jpg)](/dingen/2015/09/straight-outta-compton/lwoae/)
+[![LwoaE](LwoaE.jpg)](/dingen/2015/09/straight-outta-compton/lwoae/)
 
 I would have preferred [Straight Outta Compton](http://letterboxd.com/film/straight-outta-compton/) to be a documentary cut together from real footage and narrated by the guys themselves. There is a lot of that available which you can see bits of during the credits of this movie. The biopic is well done but the dramatization does not add much and in many parts the movie devolves into melodrama.
 

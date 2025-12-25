@@ -12,7 +12,7 @@ title: Not their mothers and fathers
 url: /dingen/2013/03/not-their-mothers-and-fathers/
 
 ---
-[![Screen Shot 2013-03-20 at 22.49.53](/dingen/wp-content/uploads/2013/03/Screen-Shot-2013-03-20-at-22.49.53-.png)](/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/)
+[![Screen Shot 2013-03-20 at 22.49.53](Screen-Shot-2013-03-20-at-22.49.53-.png)](/dingen/2013/03/not-their-mothers-and-fathers/screen-shot-2013-03-20-at-22-49-53/)
 
 A new large scale German drama series has been making the rounds on Twitter this week called [‘Unsere Mütter, Unsere Väter’](http://de.wikipedia.org/wiki/Unsere_M%C3%BCtter,_unsere_V%C3%A4ter) and it is interesting though flawed. I haven't seen a production with these production values on German television before and I think we should see more of it ((Something properly historical could be interesting. Martin suggested a series on the life of Charlemagne.)).
 

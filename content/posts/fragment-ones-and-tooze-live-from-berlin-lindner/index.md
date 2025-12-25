@@ -14,7 +14,7 @@ categories:
   - politics
 date: "2023-11-24T12:06:31+00:00"
 enclosure: |-
-  https://alper.nl/dingen/wp-content/uploads/2023/11/volkskorper.mp3
+  https://alper.nlvolkskorper.mp3
   1891920
   audio/mpeg
 guid: https://alper.nl/dingen/?p=17325
@@ -28,7 +28,7 @@ Given the current developments around the German debt brake, I think it's good t
 
 Fragment from around 45:00 clipped below:
 
-{{< audio src="/dingen/wp-content/uploads/2023/11/volkskorper.mp3" >}}
+{{< audio src="volkskorper.mp3" >}}
 
 > "We got quite a lot of shit for doing that actually. Not entirely popular with my German colleagues. ‘Nicht zum Volkskörper zugehörig’ is a phrase that was used. ‘Wie trauen sie sich ein solches Urteil zu.’  
 Not belonging to the body politic of Germany. How dare you make a judgement like that.  

@@ -104,7 +104,7 @@ I saw this thing called December Adventure though and that fits in nicely with m
 <p>Yes, I&rsquo;m writing this website in Rust/WASM, why do you ask?</p>
 <p>That example required a bunch of fiddling with the configuration and a couple of false starts, but now I have a vanilla map view.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-02-at-23.03.35@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2024-12-02-at-23.03.35@2x.png"/> 
 </figure>
 
 <p>I can say that I&rsquo;m amazed that in this ecosystem 1. an example exists 2. that example works 3. it works in my project with a bit of diffing and 4. it seems to do what I need.</p>
@@ -115,7 +115,7 @@ I saw this thing called December Adventure though and that fits in nicely with m
 <p>To do this I need to figure out how to pass information along to a <a href="https://dioxuslabs.com/learn/0.5/reference/router/">router</a> when we tap a venue. That should be easy enough but the Dioxus documentation is between 0.5 and 0.6 now and a lot of it is broken.</p>
 <p>A tip from the Discord said I need to put the data into a <a href="https://docs.rs/dioxus-hooks/latest/dioxus_hooks/fn.use_context.html">context</a> from a parent and then get it out again in a child. It&rsquo;s a bit roundabout and required some refactoring, but it works.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-03-at-00.40.01.gif"/> 
+    <img loading="lazy" src="CleanShot-2024-12-03-at-00.40.01.gif"/> 
 </figure>
 
 <p>Done on time even for a reasonable bed time.</p>
@@ -153,7 +153,7 @@ I saw this thing called December Adventure though and that fits in nicely with m
 <h3 id="812">8/12<a hidden class="anchor" aria-hidden="true" href="#812">#</a></h3>
 <p>Got in a ton of commits on Cuppin.gs today. After fixing the map, I wanted to see what would happen if I would add all 2000 markers to the map.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2024/12/393608699-a57c484d-e12f-4dc7-ade8-ea39df95d2cc.png"/> 
+    <img loading="lazy" src="393608699-a57c484d-e12f-4dc7-ade8-ea39df95d2cc.png"/> 
 </figure>
 
 <p>Performance seems to be doable but this is probably not ideal for a webpage. Dynamically rendering the venues is something for later. For now I can probably get away with filtering for the 100-200 nearest locations by distance and dumping those into the map view.</p>
@@ -173,7 +173,7 @@ I saw this thing called December Adventure though and that fits in nicely with m
 <h3 id="1612">16/12<a hidden class="anchor" aria-hidden="true" href="#1612">#</a></h3>
 <p>Upgraded the frontend to <a href="https://dioxuslabs.com/blog/release-060/">Dioxus 0.6.0</a> which just came out and has lots of quality of life issues. For my case, I did not need to change a single line of code, just change some version numbers and build a new <code>dioxus-cli</code>.</p>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-17-at-00.56.51@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2024-12-17-at-00.56.51@2x.png"/> 
 </figure>
 
 <p>I hope that maybe solves the <code>wasm-bindgen</code> issues on the frontend deploy. The annoying part about the build is that it takes so long that it&rsquo;s very hard to iterate on.</p>
@@ -188,7 +188,7 @@ I saw this thing called December Adventure though and that fits in nicely with m
 <li><code>google_name</code> is the name field that&rsquo;s pulled from Google Maps and was effectively leading but not updated correctly yet when refreshing the data</li>
 </ul>
 <figure>
-    <img loading="lazy" src="/dingen/wp-content/uploads/2024/12/CleanShot-2024-12-24-at-08.45.11@2x.png"/> 
+    <img loading="lazy" src="CleanShot-2024-12-24-at-08.45.11@2x.png"/> 
 </figure>
 
 <p>So to figure that out I did a bunch of auditing in the list to see venues where there was a large discrepancy between the names. Something that happens is that a place will change its name but keep the same location and Google Maps place.</p>

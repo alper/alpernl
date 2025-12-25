@@ -26,4 +26,4 @@ Bat King en Antler Ancestor hebben aardige speciale vaardigheden (dubbel springe
 €5  
 PS3 en PSP minis
 
-{{< figure src="/dingen/wp-content/uploads/2020/07/Where-is-my-heart.jpg" alt="" caption="" >}}
+{{< figure src="Where-is-my-heart.jpg" alt="" caption="" >}}

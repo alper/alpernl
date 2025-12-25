@@ -14,4 +14,4 @@ title: 'nrc.next game-recensie: Prison Architect'
 url: /dingen/2020/07/nrc-next-game-recensie-prison-architect/
 
 ---
-{{< figure src="/dingen/wp-content/uploads/2020/07/image.png" alt="" caption="" >}}
+{{< figure src="image.png" alt="" caption="" >}}

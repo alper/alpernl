@@ -14,7 +14,7 @@ title: Bir BaÅŸkadÄ±r (Ethos) Character Network Chart
 url: /dingen/2021/06/bir-baskadir-ethos-character-network-chart/
 
 ---
-{{< figure src="/dingen/wp-content/uploads/2021/06/Bir-Baskadir-Frame-1.jpg" alt="" caption="" >}}
+{{< figure src="Bir-Baskadir-Frame-1.jpg" alt="" caption="" >}}
 
 The character relations turned into a bit of a tangle so I fired up Miro and [quickly charted them out](https://miro.com/app/board/o9J_lBPW5CU=/). In the end it wasn't that complicated but the worlds of Meryem and Peri are very clearly separate.
 

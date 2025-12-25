@@ -17,4 +17,4 @@ Attitudes towards part-time employment of men are a good proxy indicator of how 
 
 From my own experience Germany and the Netherlands are markedly different on this front and the statistics prove it with a 2x difference in part-time men.
 
-![](/dingen/wp-content/uploads/2025/09/img_9581.png)
+![](img_9581.png)

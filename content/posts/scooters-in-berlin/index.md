@@ -14,7 +14,7 @@ title: Scooters in Berlin
 url: /dingen/2019/03/scooters-in-berlin/
 
 ---
-{{< figure src="/dingen/wp-content/uploads/2019/03/JPEG-image-33A58FAF2AC2-1-1.jpeg" alt="" caption="" >}}
+{{< figure src="JPEG-image-33A58FAF2AC2-1-1.jpeg" alt="" caption="" >}}
 
 Scooters are not legal in Germany yet but in select locations like here in Berlin you can try them out on private land.
 

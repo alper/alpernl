@@ -18,6 +18,6 @@ Wanted to show the kids some chiaroscuro for their art class about light and dar
 
 Always stunning to see how good these paintings are and a bit sad for how long it's been since I saw one for real. But [Sanssouci](https://www.spsg.de/en/palaces-gardens/object/picture-gallery-of-sanssouci) has the picture of Doubting Thomas so that can be fixed.
 
-{{< figure src="/dingen/wp-content/uploads/2024/10/image.png" alt="" caption="" >}}
+{{< figure src="image.png" alt="" caption="" >}}
 
 [https://www.artrenewal.org/artists/caravaggio/589](https://www.artrenewal.org/artists/caravaggio/589)

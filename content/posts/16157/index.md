@@ -21,6 +21,6 @@ Edge C2 is a nice ideal position to move towards in this article about military 
 
 https://thearmyleader.co.uk/future-of-command-and-control/
 
-{{< figure src="/dingen/wp-content/uploads/2020/07/Interlinked-OODA.png" alt="" caption="" >}}
+{{< figure src="Interlinked-OODA.png" alt="" caption="" >}}
 
-{{< figure src="/dingen/wp-content/uploads/2020/07/Trust-Equation.png" alt="" caption="" >}}
+{{< figure src="Trust-Equation.png" alt="" caption="" >}}

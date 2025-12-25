@@ -21,7 +21,7 @@ Het toverwoord daar is "gebruiken". Volgens een brede definitie "gebruiken" mijn
 
 Lees je het onderzoek in plaats van de selectieve en misleidende fragmenten eruit, dan zie je deze grafiek.
 
-{{< figure src="/dingen/wp-content/uploads/2025/11/CleanShot-2025-11-11-at-08.24.36@2x.png" alt="" caption="" >}}
+{{< figure src="CleanShot-2025-11-11-at-08.24.36@2x.png" alt="" caption="" >}}
 
 Van de kinderen in de leeftijdsgroep 7-8 heeft dus maar 12% een smartphone in de slaapkamer. Dat lijkt me dichter in de buurt komen hoeveel kinderen in die leeftijdsgroep een smartphone _bezitten_. Je kunt veronderstellen dat de telefoon van de ouders meegenomen kan worden of ook dat hier nog handhaving kan zijn dat ze hun telefoon niet naar de slaapkamer mee mogen nemen. Het blijft gissen.
 

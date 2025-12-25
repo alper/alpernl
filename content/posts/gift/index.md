@@ -16,7 +16,7 @@ url: /dingen/2024/11/gift/
 ---
 Watched “Evil Does Not Exist” as GIFT, the recut and rescored (silent) version performed live by [Eiko Ishibashi](https://en.wikipedia.org/wiki/Eiko_Ishibashi) at HAU1.
 
-{{< figure src="/dingen/wp-content/uploads/2024/11/IMG%5F7406.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_7406.jpeg" alt="" caption="" >}}
 
 This has a shorter runtime than the movie because a lot of fluff is cut out and we are only left with a very summary story. That is a good choice and I can't say the movie suffers from it very much even though this is version is very much its own thing (i.e. not a narrative movie).
 

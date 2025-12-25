@@ -17,7 +17,7 @@ I've stopped using [Instapaper](https://www.instapaper.com/) for a long time now
 
 I go through my links in Chrome on my desktop. I close and read whatever I can and anything that's too long stays in an open tab and floats slowly to the left.
 
-{{< figure src="/dingen/wp-content/uploads/2019/06/IMG%5FCAACFBBBB194-1-1.jpeg" alt="" caption="" >}}
+{{< figure src="IMG_CAACFBBBB194-1-1.jpeg" alt="" caption="" >}}
 
 On Chrome on my phone whenever I'm in transit or when I want to read something longer that isn't a book, I go to the “Recent tabs”screen. Besides those you can also find synced open tabs from all your other Chrome browsers. I then pick something that I want to read.
 

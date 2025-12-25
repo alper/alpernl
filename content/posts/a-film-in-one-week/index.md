@@ -13,7 +13,7 @@ title: A Film in one Week
 url: /dingen/2010/01/a-film-in-one-week/
 
 ---
-[![tumblr_kvxdj0mg7C1qafgwqo1_1280](/dingen/wp-content/uploads/2010/01/tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg)](/dingen/wp-content/uploads/2010/01/tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg)[![tumblr_kwfwr3Xtpe1qafgwqo1_1280](/dingen/wp-content/uploads/2010/01/tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg)](/dingen/wp-content/uploads/2010/01/tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg)
+[![tumblr_kvxdj0mg7C1qafgwqo1_1280](tumblr_kvxdj0mg7C1qafgwqo1_1280-225x300.jpg)](tumblr_kvxdj0mg7C1qafgwqo1_1280.jpeg)[![tumblr_kwfwr3Xtpe1qafgwqo1_1280](tumblr_kwfwr3Xtpe1qafgwqo1_1280-208x300.jpg)](tumblr_kwfwr3Xtpe1qafgwqo1_1280.jpeg)
 
 Friends of motion studio [Eelke Dekker](http://www.eelkedekker.nl/) and design agency [Booreiland](http://www.booreiland.nl) have gone into seclusion for a week in the East of the Netherlands to concept, shoot and produce a movie within that week, **[project .mov](http://dotmov.tumblr.com/)**. No ulterior motives, just making a movie for the love of making a movie (and having made that movie).
 

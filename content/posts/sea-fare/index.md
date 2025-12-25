@@ -20,10 +20,10 @@ Just saw this picture of the Wellington RFID farecard system at [Adam Greenfield
 It's called a [Snapper card](http://en.wikipedia.org/wiki/Snapper_card).
 
 Compare this to the London based [Oyster card](http://en.wikipedia.org/wiki/Oyster_card):
-[![](/dingen/wp-content/uploads/2010/03/Oystercardsandwallets.jpg)](/dingen/wp-content/uploads/2010/03/Oystercardsandwallets.jpg)
+[![](Oystercardsandwallets.jpg)](Oystercardsandwallets.jpg)
 
 And the Hong Kong [Octopus card](http://en.wikipedia.org/wiki/Octopus_card):
-[![](/dingen/wp-content/uploads/2010/03/AdultOctopusCard.jpg)](/dingen/wp-content/uploads/2010/03/AdultOctopusCard.jpg)
+[![](AdultOctopusCard.jpg)](AdultOctopusCard.jpg)
 
 This international sea food theme makes me think that we have definitely missed a branding opportunity here (and this for a country of fishermen). Our entire [OV-chipkaart system](http://en.wikipedia.org/wiki/OV-chipkaart) ((How stupid is it to put the implementation detail of the ‘chip’ in the name?)) has been grossly underdesigned on all fronts, so no surprises there ((You currently have the messages in the tram: “Don't forget to check out with your public transport chip card.”These are a bit awkward.)).
 
