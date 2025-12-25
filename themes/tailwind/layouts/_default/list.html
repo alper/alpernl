@@ -25,7 +25,7 @@
             </div>
             <div class="flex flex-col gap-y-3 p-6">
               <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
-                <a href="{{ .RelPermalink }}">{{ or .Title .File.ContentBaseName | .RenderString }}</a>
+                <a href="{{ .RelPermalink }}">{{ .Title | .RenderString }}</a>
               </h2>
 
               {{ partial "block/desc.html" . }}

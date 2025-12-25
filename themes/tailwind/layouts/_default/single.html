@@ -13,7 +13,7 @@
     </div>
     <div class="flex flex-col gap-y-3 p-6">
       <h1 class="text-4xl font-semibold text-slate-800 dark:text-slate-100">
-        <a href="{{ .RelPermalink }}">{{ or .Title .File.ContentBaseName | .RenderString }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title | .RenderString }}</a>
       </h1>
 
       {{ with .Description }}
