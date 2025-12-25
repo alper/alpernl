@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on alper.nl</title>
+    <link>http://localhost:62818/dingen/tags/blog/</link>
+    <description>Recent content in Blog on alper.nl</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Apr 2007 00:01:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:62818/dingen/tags/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test nieuw bericht</title>
+      <link>http://localhost:62818/dingen/dingen/2007/04/test-nieuw-bericht/</link>
+      <pubDate>Thu, 19 Apr 2007 00:01:17 +0000</pubDate>
+       <guid isPermaLink="false">http://alper.nl/dingen/2007/04/test-nieuw-bericht/</guid> 
+      <description>&lt;p&gt;Dit is een nieuw bericht.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nieuw blog</title>
+      <link>http://localhost:62818/dingen/dingen/2007/04/hello-world/</link>
+      <pubDate>Thu, 12 Apr 2007 13:06:06 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:62818/dingen/dingen/2007/04/hello-world/</guid> 
+      <description>&lt;p&gt;Dit is mijn nieuwe Wordpress blog.&lt;/p&gt;
+&lt;p&gt;Als je dit ziet, ben je mee gekomen met de verhuizing. Op wat browser en DNS cache probleempjes na lijkt alles goed te zijn gekomen.&lt;/p&gt;
+&lt;p&gt;Nu slapen en morgen de puntjes op de i zetten.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portuguese on alper.nl</title>
+    <link>http://localhost:62818/dingen/categories/portuguese/</link>
+    <description>Recent content in Portuguese on alper.nl</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Sep 2019 12:15:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:62818/dingen/categories/portuguese/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:62818/dingen/dingen/2019/09/15649/</link>
+      <pubDate>Sun, 01 Sep 2019 12:15:16 +0000</pubDate>
+       <guid isPermaLink="false">http://alper.nl/dingen/?p=15649</guid> 
+      <description>&lt;p&gt;I can&amp;rsquo;t get enough of these literary exposés, this one about how Benjamin Moser treats female collaborators and appropriates their work.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lareviewofbooks.org/article/benjamin-moser-and-the-smallest-woman-in-the-world/&#34;&gt;https://lareviewofbooks.org/article/benjamin-moser-and-the-smallest-woman-in-the-world/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

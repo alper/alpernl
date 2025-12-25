@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gis on alper.nl</title>
+    <link>http://localhost:62818/dingen/tags/gis/</link>
+    <description>Recent content in Gis on alper.nl</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Jun 2008 01:12:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:62818/dingen/tags/gis/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop session on geodata visualization</title>
+      <link>http://localhost:62818/dingen/dingen/2008/06/workshop-session-on-geodata-visualization/</link>
+      <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
+       <guid isPermaLink="false">http://alper.nl/dingen/?p=314</guid> 
+      <description>&lt;p&gt;Yesterday we had an &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshop-13-juni/&#34;&gt;afternoon of workshops&lt;/a&gt; in an unconference style event at &lt;a href=&#34;http://studio4stagioni.nl/&#34;&gt;the office&lt;/a&gt;. A full registration of the event with video and slides will be published during the course of this weekend, but unfortunately most of it will be &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshops-kickoff/&#34;&gt;in Dutch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I did a hands on workshop of a small datavisualization project I did this week and I registered myself on video using &lt;a href=&#34;http://www.varasoftware.com/products/screenflow/&#34;&gt;Screenflow&lt;/a&gt;. The video (in Dutch) is below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/1167786?pg=embed&amp;amp;sec=1167786&#34;&gt;Geografische Datavisualisatie&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/illustir?pg=embed&amp;amp;sec=1167786&#34;&gt;Alper Çugun&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com?pg=embed&amp;amp;sec=1167786&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

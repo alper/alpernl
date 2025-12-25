@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Copenhagen on alper.nl</title>
+    <link>http://localhost:62818/dingen/categories/copenhagen/</link>
+    <description>Recent content in Copenhagen on alper.nl</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Jun 2012 11:39:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:62818/dingen/categories/copenhagen/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copenhagen Bikes</title>
+      <link>http://localhost:62818/dingen/dingen/2012/06/copenhagen-bikes/</link>
+      <pubDate>Thu, 21 Jun 2012 11:39:06 +0000</pubDate>
+       <guid isPermaLink="false">http://alper.nl/dingen/?p=3602</guid> 
+      <description>&lt;p&gt;During my visit to Copenhagen I tried to make use of the &lt;a href=&#34;http://www.bycyklen.dk/&#34;&gt;Copenhagen City Bike&lt;/a&gt; system. Although eventually successful, it turns out bicycle sharing systems without a digital component can lead to frustrations.&lt;/p&gt;
+&lt;p&gt;Where &lt;a href=&#34;http://localhost:62818/dingen/2010/09/boris-bikes-are-made-of-epic-win/&#34;&gt;London&amp;rsquo;s Boris Bikes&lt;/a&gt; provide a digital readout of station occupancy in Copenhagen you need to walk around and see which (if any) station still has a bike in it. Late afternoon this turns up empty most of the time because it seems many tourists get one and then camp on their bike for the rest of the day or their stay.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
