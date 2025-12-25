@@ -1,6 +1,4 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
 author: alper
 categories:
   - games

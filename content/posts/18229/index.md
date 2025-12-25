@@ -1,5 +1,4 @@
 ---
-_g_feedback_shortcode_atts_da40d26077b7842eb07f296b2ca86c92bc48a0a2:
   block_template: null
   block_template_part: null
   className: null
@@ -17,7 +16,6 @@ _g_feedback_shortcode_atts_da40d26077b7842eb07f296b2ca86c92bc48a0a2:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_g_feedback_shortcode_da40d26077b7842eb07f296b2ca86c92bc48a0a2: |-
   [contact-field label="Name" type="name"  required="true" /]
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]

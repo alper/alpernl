@@ -1,7 +1,5 @@
 ---
-_edit_last: "2"
 _wp_old_date: "2014-08-25"
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

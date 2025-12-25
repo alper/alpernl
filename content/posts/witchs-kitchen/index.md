@@ -1,5 +1,4 @@
 ---
-_wpas_done_all: "1"
 author: alper
 categories:
   - deutsch

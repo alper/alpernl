@@ -1,7 +1,4 @@
 ---
-_edit_last: "2"
-_wp_old_slug: doctrines-in-german
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

@@ -1,10 +1,8 @@
 ---
-_g_feedback_shortcode_8f6f73bc58f0cd7a5fe1fde1c49c37cd805d10ce: |-
   [contact-field label="Name" type="name"  required="true" /]
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]
   				[contact-field label="Message" type="textarea" /]
-_g_feedback_shortcode_atts_8f6f73bc58f0cd7a5fe1fde1c49c37cd805d10ce:
   block_template: null
   block_template_part: null
   className: null

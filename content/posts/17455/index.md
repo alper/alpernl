@@ -1,8 +1,5 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
 _share_on_mastodon_url: https://rls.social/@alper/112023161997355119
-_wpas_done_all: "1"
 author: alper
 categories:
   - berlin

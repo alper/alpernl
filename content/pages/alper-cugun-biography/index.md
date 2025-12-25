@@ -1,13 +1,5 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
 _wp_page_template: default
-_yoast_wpseo_content_score: "30"
-_yoast_wpseo_focuskw: Alper
-_yoast_wpseo_focuskw_text_input: Alper
-_yoast_wpseo_is_cornerstone: "1"
-_yoast_wpseo_linkdex: "31"
-_yoast_wpseo_metadesc: Alper Çuğun-Gscheidel M.Sc. is an engineer, designer and author active on the intersection of technology and society.
 author: admin
 date: "2018-12-21T02:12:34+00:00"
 guid: ""

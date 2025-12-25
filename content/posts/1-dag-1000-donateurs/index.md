@@ -1,6 +1,4 @@
 ---
-_edit_last: "2"
-_wp_old_slug: 1-dag-%e2%80%94-1000-donateurs
 author: alper
 categories:
   - internet

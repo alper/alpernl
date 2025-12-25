@@ -1,5 +1,4 @@
 ---
-_edit_last: "2"
 _tweet-246181714177695744: ""
 author: alper
 categories:

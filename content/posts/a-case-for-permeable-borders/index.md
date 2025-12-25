@@ -1,6 +1,5 @@
 ---
 _wp_old_date: "2018-08-10"
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

@@ -1,7 +1,5 @@
 ---
-_last_editor_used_jetpack: block-editor
 _wp_old_date: "2022-09-24"
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

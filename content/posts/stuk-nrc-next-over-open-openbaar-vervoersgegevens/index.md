@@ -1,7 +1,4 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_wp_old_slug: ""
 author: alper
 categories:
   - internet

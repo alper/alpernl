@@ -1,6 +1,4 @@
 ---
-_edit_last: "2"
-_wp_old_slug: eben-moglen-%e2%80%94-%e2%80%9cwill-the-net-empower-the-center-or-the-ends%e2%80%9d
 author: alper
 categories:
   - amsterdam

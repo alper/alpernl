@@ -1,5 +1,4 @@
 ---
-_last_editor_used_jetpack: block-editor
 author: alper
 date: "2024-02-03T16:15:45+00:00"
 draft: "true"

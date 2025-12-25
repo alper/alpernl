@@ -1,10 +1,8 @@
 ---
-_g_feedback_shortcode_894a41e25c36f648c248face2fbcd3e80fe2c33f: |-
   [contact-field label="Name" type="name"  required="true" /]
   				[contact-field label="Email" type="email" required="true" /]
   				[contact-field label="Website" type="url" /]
   				[contact-field label="Message" type="textarea" /]
-_g_feedback_shortcode_atts_894a41e25c36f648c248face2fbcd3e80fe2c33f:
   block_template: null
   block_template_part: null
   className: null
@@ -22,7 +20,6 @@ _g_feedback_shortcode_atts_894a41e25c36f648c248face2fbcd3e80fe2c33f:
   submit_button_text: Submit
   to: alper@alper.nl
   widget: 0
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

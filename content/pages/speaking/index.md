@@ -1,5 +1,4 @@
 ---
-_edit_last: "2"
 _wp_page_template: default
 author: alper
 date: "2008-08-01T08:07:54+00:00"

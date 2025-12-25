@@ -1,5 +1,4 @@
 ---
-_edit_last: "2"
 author: alper
 categories:
   - london

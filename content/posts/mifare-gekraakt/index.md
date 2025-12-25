@@ -1,5 +1,4 @@
 ---
-_edit_last: "2"
 author: alper
 date: "2008-01-09T08:53:30+00:00"
 guid: http://alper.nl/dingen/2008/01/mifare-gekraakt/

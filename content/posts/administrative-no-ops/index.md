@@ -1,6 +1,4 @@
 ---
-_edit_last: "2"
-_wp_old_slug: "3365"
 author: alper
 categories:
   - berlin

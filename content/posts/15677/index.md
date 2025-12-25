@@ -1,6 +1,4 @@
 ---
-_last_editor_used_jetpack: block-editor
-_wpas_done_all: "1"
 author: alper
 categories:
   - agile

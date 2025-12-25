@@ -1,8 +1,6 @@
 ---
 _jetpack_memberships_contains_paid_content: ""
 _jetpack_memberships_contains_paywalled_content: ""
-_last_editor_used_jetpack: block-editor
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

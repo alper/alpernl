@@ -1,7 +1,5 @@
 ---
-_last_editor_used_jetpack: block-editor
 _share_on_mastodon_url: https://rls.social/@alper/112034178211051486
-_wpas_done_all: "1"
 author: alper
 categories:
   - english

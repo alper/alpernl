@@ -1,7 +1,4 @@
 ---
-_edit_last: "2"
-_wpas_done_all: "1"
-_yoast_wpseo_content_score: "90"
 author: alper
 categories:
   - deutsch
