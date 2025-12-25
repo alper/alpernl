@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2012-01-18T14:28:52+00:00"
-guid: http://alper.nl/dingen/?p=3257
-parent_post_id: null
-post_id: "3257"
 title: Starting up self-employed in Germany
 aliases:
   - /dingen/2012/01/starting-up-self-employed-in-germany/

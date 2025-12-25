@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2014-12-25T14:21:15+00:00"
-guid: http://alper.nl/dingen/?p=5093
-parent_post_id: null
-post_id: "5093"
 title: 'Console gaming after the fact: Killzone 2'
 aliases:
   - /dingen/2014/12/console-gaming-after-the-fact-killzone-2/

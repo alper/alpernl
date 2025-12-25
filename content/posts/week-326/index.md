@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2013-07-16T15:01:47+00:00"
-guid: http://alper.nl/dingen/?p=4683
-parent_post_id: null
-post_id: "4683"
 title: Week 326
 aliases:
   - /dingen/2013/07/week-326/

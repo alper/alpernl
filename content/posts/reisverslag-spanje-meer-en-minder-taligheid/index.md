@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-04-26T16:40:31+00:00"
-guid: http://alper.nl/dingen/2007/04/reisverslag-spanje-meer-en-minder-taligheid/
-parent_post_id: null
-post_id: "3"
 tags:
   - reizen
   - spanje

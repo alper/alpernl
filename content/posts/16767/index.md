@@ -4,9 +4,6 @@ categories:
   - english
   - science
 date: "2022-04-09T22:33:22+00:00"
-guid: https://alper.nl/dingen/?p=16767
-parent_post_id: null
-post_id: "16767"
 title: ""
 aliases:
   - /dingen/2022/04/16767/

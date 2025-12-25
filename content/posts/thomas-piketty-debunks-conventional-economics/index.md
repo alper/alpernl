@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2014-08-31T16:02:46+00:00"
-guid: http://alper.nl/dingen/?p=5034
-parent_post_id: null
-post_id: "5034"
 title: Thomas Piketty Debunks Conventional Economics
 aliases:
   - /dingen/2014/08/thomas-piketty-debunks-conventional-economics/

@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2019-09-28T08:47:26+00:00"
-guid: http://alper.nl/dingen/?p=15745
-parent_post_id: null
-post_id: "15745"
 title: ""
 aliases:
   - /dingen/2019/09/15745/

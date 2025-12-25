@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2008-10-11T03:41:39+00:00"
-guid: http://alper.nl/dingen/?p=548
-parent_post_id: null
-post_id: "548"
 title: Uprising tomorrow
 aliases:
   - /dingen/2008/10/uprising-tomorrow/

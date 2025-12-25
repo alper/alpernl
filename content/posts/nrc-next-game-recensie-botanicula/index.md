@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2020-07-20T22:30:30+00:00"
-guid: http://alper.nl/dingen/?p=16176
-parent_post_id: null
-post_id: "16176"
 title: 'nrc.next game-recensie: Botanicula'
 aliases:
   - /dingen/2020/07/nrc-next-game-recensie-botanicula/

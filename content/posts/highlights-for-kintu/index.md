@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-01-05T20:51:37+00:00"
-guid: http://alper.nl/dingen/?p=5933
-parent_post_id: null
-post_id: "5933"
 title: Highlights for Kintu
 aliases:
   - /dingen/2018/01/highlights-for-kintu/

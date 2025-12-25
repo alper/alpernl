@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-30T00:54:21+00:00"
-guid: http://alper.nl/dingen/2008/01/leeslijsten/
-parent_post_id: null
-post_id: "238"
 tags:
   - reading
 title: Leeslijsten

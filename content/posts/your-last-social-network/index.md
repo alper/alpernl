@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-09-15T07:15:16+00:00"
-guid: http://alper.nl/dingen/?p=510
-parent_post_id: null
-post_id: "510"
 title: Your last social network
 aliases:
   - /dingen/2008/09/your-last-social-network/

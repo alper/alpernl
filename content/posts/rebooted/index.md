@@ -6,9 +6,6 @@ categories:
   - music
   - travel
 date: "2009-07-03T09:35:50+00:00"
-guid: http://alper.nl/dingen/?p=1090
-parent_post_id: null
-post_id: "1090"
 title: Rebooted
 aliases:
   - /dingen/2009/07/rebooted/

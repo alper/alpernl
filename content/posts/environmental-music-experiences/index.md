@@ -5,9 +5,6 @@ categories:
   - internet
   - music
 date: "2008-12-07T00:10:30+00:00"
-guid: http://alper.nl/dingen/?p=628
-parent_post_id: null
-post_id: "628"
 title: Environmental music experiences
 aliases:
   - /dingen/2008/12/environmental-music-experiences/

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2020-07-20T22:31:59+00:00"
-guid: http://alper.nl/dingen/?p=16178
-parent_post_id: null
-post_id: "16178"
 title: 'nrc.next game-recensie: Proteus'
 aliases:
   - /dingen/2020/07/nrc-next-game-recensie-proteus/

@@ -5,9 +5,6 @@ categories:
   - reading
   - software-engineering
 date: "2022-09-15T22:17:30+00:00"
-guid: https://alper.nl/dingen/?p=16850
-parent_post_id: null
-post_id: "16850"
 title: Highlights for Domain Driven Design
 aliases:
   - /dingen/2022/09/highlights-for-domain-driven-design/

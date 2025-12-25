@@ -5,9 +5,6 @@ categories:
   - food
   - science
 date: "2019-09-22T20:58:39+00:00"
-guid: http://alper.nl/dingen/?p=15724
-parent_post_id: null
-post_id: "15724"
 title: ""
 aliases:
   - /dingen/2019/09/15724/

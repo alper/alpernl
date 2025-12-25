@@ -4,9 +4,6 @@ categories:
   - english
   - photography
 date: "2019-03-03T14:01:42+00:00"
-guid: http://alper.nl/dingen/?p=15202
-parent_post_id: null
-post_id: "15202"
 title: ""
 aliases:
   - /dingen/2019/03/15202/

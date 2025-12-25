@@ -5,9 +5,6 @@ categories:
   - internet
   - photography
 date: "2025-01-15T09:52:00+00:00"
-guid: https://alper.nl/dingen/?p=17931
-parent_post_id: null
-post_id: "17931"
 title: ""
 aliases:
   - /dingen/2025/01/17931/

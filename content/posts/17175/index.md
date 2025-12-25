@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2023-04-29T13:23:52+00:00"
-guid: https://alper.nl/dingen/?p=17175
-parent_post_id: null
-post_id: "17175"
 title: ""
 aliases:
   - /dingen/2023/04/17175/

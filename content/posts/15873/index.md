@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2019-11-27T11:31:38+00:00"
-guid: http://alper.nl/dingen/?p=15873
-parent_post_id: null
-post_id: "15873"
 title: ""
 aliases:
   - /dingen/2019/11/15873/

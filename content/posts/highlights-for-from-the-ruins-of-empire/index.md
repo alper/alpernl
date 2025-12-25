@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2018-01-17T21:39:32+00:00"
-guid: http://alper.nl/dingen/?p=5936
-parent_post_id: null
-post_id: "5936"
 title: Highlights for From the Ruins of Empire
 aliases:
   - /dingen/2018/01/highlights-for-from-the-ruins-of-empire/

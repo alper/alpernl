@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2010-08-09T06:27:09+00:00"
-guid: http://alper.nl/dingen/?p=2017
-parent_post_id: null
-post_id: "2017"
 tags:
   - column
   - design-directie

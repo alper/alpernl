@@ -6,9 +6,6 @@ categories:
   - turkish
   - video
 date: "2021-12-21T20:22:34+00:00"
-guid: https://alper.nl/dingen/?p=16648
-parent_post_id: null
-post_id: "16648"
 title: As If
 aliases:
   - /dingen/2021/12/as-if/

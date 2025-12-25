@@ -7,9 +7,6 @@ categories:
   - the-city
   - video
 date: "2009-06-12T17:12:10+00:00"
-guid: http://alper.nl/dingen/?p=1033
-parent_post_id: null
-post_id: "1033"
 title: The City Is Here For You To Get Fined By
 aliases:
   - /dingen/2009/06/the-city-is-here-for-you-to-get-fined-by/

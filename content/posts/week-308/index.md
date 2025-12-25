@@ -5,9 +5,6 @@ categories:
   - internet
   - monster-swell
 date: "2013-02-14T19:16:36+00:00"
-guid: http://alper.nl/dingen/?p=4310
-parent_post_id: null
-post_id: "4310"
 tags:
   - weeknotes
 title: Week 308

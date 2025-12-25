@@ -4,9 +4,6 @@ categories:
   - english
   - open-state
 date: "2013-04-06T19:15:29+00:00"
-guid: http://alper.nl/dingen/?p=4483
-parent_post_id: null
-post_id: "4483"
 tags:
   - weeknotes
 title: Week 315

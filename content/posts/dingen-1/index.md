@@ -4,9 +4,6 @@ categories:
   - english
 date: "2025-12-22T01:30:11+00:00"
 draft: "true"
-guid: https://alper.nl/dingen/?p=18446
-parent_post_id: null
-post_id: "18446"
 title: 7- en 8-jarigen met een smartphone
 aliases:
   - /dingen/

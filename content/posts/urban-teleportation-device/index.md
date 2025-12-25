@@ -6,9 +6,6 @@ categories:
   - sports
   - the-city
 date: "2009-08-06T13:21:49+00:00"
-guid: http://alper.nl/dingen/?p=1147
-parent_post_id: null
-post_id: "1147"
 title: Urban Teleportation Device
 aliases:
   - /dingen/2009/08/urban-teleportation-device/

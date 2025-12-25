@@ -5,9 +5,6 @@ categories:
   - berlin
   - english
 date: "2019-08-10T12:31:33+00:00"
-guid: http://alper.nl/dingen/?p=15557
-parent_post_id: null
-post_id: "15557"
 title: Answer GKV Spitzenverband
 aliases:
   - /dingen/2019/08/answer-gkv-spitzenverband/

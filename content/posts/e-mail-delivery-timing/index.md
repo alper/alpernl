@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-09-13T15:53:33+00:00"
-guid: http://alper.nl/dingen/?p=519
-parent_post_id: null
-post_id: "519"
 title: E-mail delivery timing
 aliases:
   - /dingen/2008/09/e-mail-delivery-timing/

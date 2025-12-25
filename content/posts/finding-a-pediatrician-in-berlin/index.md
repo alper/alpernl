@@ -6,9 +6,6 @@ categories:
   - english
   - kids
 date: "2019-06-21T11:34:26+00:00"
-guid: http://alper.nl/dingen/?p=15529
-parent_post_id: null
-post_id: "15529"
 title: Figuring out why there is a shortage of pediatricians
 aliases:
   - /dingen/2019/06/finding-a-pediatrician-in-berlin/

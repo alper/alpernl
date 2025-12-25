@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-04-21T14:37:54+00:00"
-guid: http://alper.nl/dingen/2007/04/batterij-macook-rap-leeg/
-parent_post_id: null
-post_id: "14"
 tags:
   - apple
   - macbook

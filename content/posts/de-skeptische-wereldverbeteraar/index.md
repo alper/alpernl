@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-25T20:54:18+00:00"
-guid: http://alper.nl/dingen/2007/10/de-skeptische-wereldverbeteraar/
-parent_post_id: null
-post_id: "173"
 tags:
   - milieu
   - politiek

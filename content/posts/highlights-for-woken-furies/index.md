@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-08-15T20:39:20+00:00"
-guid: http://alper.nl/dingen/?p=6047
-parent_post_id: null
-post_id: "6047"
 title: Highlights for Woken Furies
 aliases:
   - /dingen/2018/08/highlights-for-woken-furies/

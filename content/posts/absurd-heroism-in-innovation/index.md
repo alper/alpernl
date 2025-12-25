@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2010-01-08T14:54:35+00:00"
-guid: http://alper.nl/dingen/?p=1475
-parent_post_id: null
-post_id: "1475"
 title: Absurd heroism in innovation
 aliases:
   - /dingen/2010/01/absurd-heroism-in-innovation/

@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2013-06-18T20:52:40+00:00"
-guid: http://alper.nl/dingen/?p=4669
-parent_post_id: null
-post_id: "4669"
 title: 'Autofreies Kreuzberg: ManteuffelstraÃŸe'
 aliases:
   - /dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/

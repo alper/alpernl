@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-09-22T21:15:00+00:00"
-guid: http://alper.nl/dingen/?p=5836
-parent_post_id: null
-post_id: "5836"
 title: Name of the Game
 aliases:
   - /dingen/2017/09/name-of-the-game/

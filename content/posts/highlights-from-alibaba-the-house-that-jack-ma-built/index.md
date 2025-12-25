@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2017-11-27T14:41:58+00:00"
-guid: http://alper.nl/dingen/?p=5880
-parent_post_id: null
-post_id: "5880"
 title: 'Highlights from Alibaba: The House That Jack Ma Built'
 aliases:
   - /dingen/2017/11/highlights-from-alibaba-the-house-that-jack-ma-built/

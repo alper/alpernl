@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-11-28T11:55:26+00:00"
-guid: http://alper.nl/dingen/?p=15886
-parent_post_id: null
-post_id: "15886"
 title: German history reading list
 aliases:
   - /dingen/2019/11/german-history-reading-list/

@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2013-01-09T07:32:38+00:00"
-guid: http://alper.nl/dingen/?p=4172
-parent_post_id: null
-post_id: "4172"
 title: 'Week 303: starting everything back up again'
 aliases:
   - /dingen/2013/01/week-303-starting-everything-back-up-again/

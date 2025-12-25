@@ -7,9 +7,6 @@ categories:
   - software-engineering
   - strategy
 date: "2024-03-16T11:36:15+00:00"
-guid: https://alper.nl/dingen/?p=17515
-parent_post_id: null
-post_id: "17515"
 title: ""
 aliases:
   - /dingen/2024/03/17515/

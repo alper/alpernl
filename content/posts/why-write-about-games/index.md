@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2011-05-17T00:49:39+00:00"
-guid: http://alper.nl/dingen/?p=2611
-parent_post_id: null
-post_id: "2611"
 title: Why write about games?
 aliases:
   - /dingen/2011/05/why-write-about-games/

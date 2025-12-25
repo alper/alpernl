@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-04-23T11:33:27+00:00"
-guid: http://alper.nl/dingen/?p=3519
-parent_post_id: null
-post_id: "3519"
 tags:
   - weeknotes
 title: 'Week 265: Tatort debate, presentations, writing about theater, reading'

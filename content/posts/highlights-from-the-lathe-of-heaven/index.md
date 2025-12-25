@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-01-22T15:03:33+00:00"
-guid: http://alper.nl/dingen/?p=5701
-parent_post_id: null
-post_id: "5701"
 title: Highlights from The Lathe of Heaven
 aliases:
   - /dingen/2017/01/highlights-from-the-lathe-of-heaven/

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - the-city
 date: "2009-08-03T11:10:06+00:00"
-guid: http://alper.nl/dingen/?p=1142
-parent_post_id: null
-post_id: "1142"
 title: Back where I began
 aliases:
   - /dingen/2009/08/back-where-i-began/

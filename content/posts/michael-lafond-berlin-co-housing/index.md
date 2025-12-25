@@ -6,9 +6,6 @@ categories:
   - english
   - product-/-design
 date: "2011-10-24T22:21:34+00:00"
-guid: http://alper.nl/dingen/?p=3034
-parent_post_id: null
-post_id: "3034"
 title: Michael LaFond - Berlin Co-Housing
 aliases:
   - /dingen/2011/10/michael-lafond-berlin-co-housing/

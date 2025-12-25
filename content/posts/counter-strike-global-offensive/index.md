@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2015-02-15T12:04:07+00:00"
-guid: http://alper.nl/dingen/?p=5151
-parent_post_id: null
-post_id: "5151"
 title: 'Counter Strike: Global Offensive'
 aliases:
   - /dingen/2015/02/counter-strike-global-offensive/

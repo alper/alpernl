@@ -5,9 +5,6 @@ categories:
   - english
   - photography
 date: "2010-02-04T18:23:32+00:00"
-guid: http://alper.nl/dingen/?p=1554
-parent_post_id: null
-post_id: "1554"
 title: Interactive Environments
 aliases:
   - /dingen/2010/02/interactive-environments/

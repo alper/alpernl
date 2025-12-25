@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-08-01T14:37:28+00:00"
-guid: http://alper.nl/dingen/2007/08/de-profeet/
-parent_post_id: null
-post_id: "108"
 tags:
   - filosofie
   - reading

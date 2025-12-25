@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-08T11:39:02+00:00"
-guid: http://alper.nl/dingen/2008/01/boekenlijst/
-parent_post_id: null
-post_id: "219"
 tags:
   - leren
   - leven

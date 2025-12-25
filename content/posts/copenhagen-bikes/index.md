@@ -5,9 +5,6 @@ categories:
   - english
   - travel
 date: "2012-06-21T11:39:06+00:00"
-guid: http://alper.nl/dingen/?p=3602
-parent_post_id: null
-post_id: "3602"
 title: Copenhagen Bikes
 aliases:
   - /dingen/2012/06/copenhagen-bikes/

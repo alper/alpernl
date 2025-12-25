@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2020-03-08T21:03:47+00:00"
-guid: http://alper.nl/dingen/?p=16035
-parent_post_id: null
-post_id: "16035"
 title: Highlights for Crucial Conversations
 aliases:
   - /dingen/2020/03/highlights-for-crucial-conversations/

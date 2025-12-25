@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2010-05-13T15:59:33+00:00"
-guid: http://alper.nl/dingen/?p=1791
-parent_post_id: null
-post_id: "1791"
 title: 'This Happened Utrecht #6 Soundbytes'
 aliases:
   - /dingen/2010/05/this-happened-utrecht-6-soundbytes/

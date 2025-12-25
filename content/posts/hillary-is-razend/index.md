@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-02-24T13:59:17+00:00"
-guid: http://alper.nl/dingen/2008/02/hillary-is-razend/
-parent_post_id: null
-post_id: "264"
 tags:
   - amerika
   - televisie

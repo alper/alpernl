@@ -5,9 +5,6 @@ categories:
   - leadership
   - philosophy
 date: "2023-03-05T13:31:48+00:00"
-guid: https://alper.nl/dingen/?p=17104
-parent_post_id: null
-post_id: "17104"
 title: ""
 aliases:
   - /dingen/2023/03/17104/

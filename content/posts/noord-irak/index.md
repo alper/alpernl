@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-23T23:13:15+00:00"
-guid: http://alper.nl/dingen/2007/10/noord-irak/
-parent_post_id: null
-post_id: "169"
 tags:
   - politiek
   - televisie

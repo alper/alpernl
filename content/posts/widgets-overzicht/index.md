@@ -6,9 +6,6 @@ categories:
   - nederlands
   - work
 date: "2009-09-21T12:04:35+00:00"
-guid: http://alper.nl/dingen/?p=969
-parent_post_id: null
-post_id: "969"
 title: Widgets overzicht
 aliases:
   - /dingen/2009/05/widgets-overzicht/

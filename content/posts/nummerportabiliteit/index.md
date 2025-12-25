@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-04-19T15:17:05+00:00"
-guid: http://alper.nl/dingen/2007/04/nummerportabiliteit/
-parent_post_id: null
-post_id: "12"
 tags:
   - klantenervaring
   - mobiel

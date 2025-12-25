@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - politics
 date: "2010-08-02T10:21:06+00:00"
-guid: http://alper.nl/dingen/?p=2001
-parent_post_id: null
-post_id: "2001"
 title: Uruzgan in the Netherlands
 aliases:
   - /dingen/2010/08/uruzgan-in-the-netherlands/

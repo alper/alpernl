@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-07-09T14:40:38+00:00"
-guid: http://alper.nl/dingen/2007/07/drie-werelden-over-waarheid-en-menselijkheid/
-parent_post_id: null
-post_id: "88"
 tags:
   - filosofie
   - karl-popper

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-02-14T16:00:11+00:00"
-guid: http://alper.nl/dingen/?p=1557
-parent_post_id: null
-post_id: "1557"
 title: Stemwijzers en verschillen tussen partijen, punt voor punt
 aliases:
   - /dingen/2010/02/stemwijzers-en-verschillen-tussen-partijen-punt-voor-punt/

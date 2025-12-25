@@ -5,9 +5,6 @@ categories:
   - photography
   - travel
 date: "2008-10-29T23:10:22+00:00"
-guid: http://alper.nl/dingen/?p=564
-parent_post_id: null
-post_id: "564"
 title: Twin Peaks
 aliases:
   - /dingen/2008/10/twin-peaks/

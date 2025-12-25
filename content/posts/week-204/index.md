@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-02-18T00:17:44+00:00"
-guid: http://alper.nl/dingen/?p=2418
-parent_post_id: null
-post_id: "2418"
 tags:
   - weeknotes
 title: Week 204

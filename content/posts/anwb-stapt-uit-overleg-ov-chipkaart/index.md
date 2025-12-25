@@ -5,9 +5,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2010-10-05T06:49:45+00:00"
-guid: http://alper.nl/dingen/?p=2158
-parent_post_id: null
-post_id: "2158"
 title: ANWB stapt uit overleg ov-chipkaart
 aliases:
   - /dingen/2010/10/anwb-stapt-uit-overleg-ov-chipkaart/

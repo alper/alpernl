@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - san-francisco
 date: "2025-09-07T10:26:03+00:00"
-guid: https://alper.nl/dingen/?p=18305
-parent_post_id: null
-post_id: "18305"
 title: ""
 aliases:
   - /dingen/2025/09/18305/

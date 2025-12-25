@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-05-23T23:25:14+00:00"
-guid: http://alper.nl/dingen/2007/05/second-life-wat-moeten-we-ermee/
-parent_post_id: null
-post_id: "52"
 tags:
   - computers
   - fotografie

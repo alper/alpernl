@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2015-01-14T15:00:44+00:00"
-guid: http://alper.nl/dingen/?p=5060
-parent_post_id: null
-post_id: "5060"
 title: Give Da Vinci's Demons a shot
 aliases:
   - /dingen/2014/09/give-da-vincis-demons-a-shot/

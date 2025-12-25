@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - video
 date: "2023-01-29T23:09:42+00:00"
-guid: https://alper.nl/dingen/?p=16989
-parent_post_id: null
-post_id: "16989"
 title: ""
 aliases:
   - /dingen/2023/01/16989/

@@ -4,9 +4,6 @@ categories:
   - english
   - photography
 date: "2009-07-27T22:09:22+00:00"
-guid: http://alper.nl/dingen/?p=1097
-parent_post_id: null
-post_id: "1097"
 title: "120"
 aliases:
   - /dingen/2009/07/120/

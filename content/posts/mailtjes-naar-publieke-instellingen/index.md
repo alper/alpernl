@@ -5,9 +5,6 @@ categories:
   - nederlands
   - the-city
 date: "2008-09-12T09:06:32+00:00"
-guid: http://alper.nl/dingen/?p=502
-parent_post_id: null
-post_id: "502"
 title: Mailtjes naar publieke instellingen
 aliases:
   - /dingen/2008/09/mailtjes-naar-publieke-instellingen/

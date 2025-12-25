@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2009-10-13T11:15:10+00:00"
-guid: http://alper.nl/dingen/?p=1297
-parent_post_id: null
-post_id: "1297"
 title: Content Syndicatie Workshop
 aliases:
   - /dingen/2009/10/content-syndicatie-workshop/

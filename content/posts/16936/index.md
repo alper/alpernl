@@ -4,9 +4,6 @@ categories:
   - english
   - theater
 date: "2023-01-02T09:16:35+00:00"
-guid: https://alper.nl/dingen/?p=16936
-parent_post_id: null
-post_id: "16936"
 title: ""
 aliases:
   - /dingen/2023/01/16936/

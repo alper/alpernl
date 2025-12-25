@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-20T18:33:57+00:00"
-guid: http://alper.nl/dingen/2008/01/leesboeken/
-parent_post_id: null
-post_id: "232"
 tags:
   - reading
 title: Leesboeken

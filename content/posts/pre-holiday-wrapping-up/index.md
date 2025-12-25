@@ -5,9 +5,6 @@ categories:
   - english
   - photography
 date: "2008-07-11T10:51:46+00:00"
-guid: http://alper.nl/dingen/?p=320
-parent_post_id: null
-post_id: "320"
 tags:
   - france
   - holiday

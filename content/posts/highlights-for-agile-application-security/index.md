@@ -6,9 +6,6 @@ categories:
   - reading
   - software-engineering
 date: "2019-08-21T20:54:37+00:00"
-guid: http://alper.nl/dingen/?p=15635
-parent_post_id: null
-post_id: "15635"
 title: Highlights for Agile Application Security
 aliases:
   - /dingen/2019/08/highlights-for-agile-application-security/

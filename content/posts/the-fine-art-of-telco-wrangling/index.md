@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2009-09-27T23:48:17+00:00"
-guid: http://alper.nl/dingen/?p=1238
-parent_post_id: null
-post_id: "1238"
 title: The fine art of telco wrangling
 aliases:
   - /dingen/2009/09/the-fine-art-of-telco-wrangling/

@@ -6,9 +6,6 @@ categories:
   - photography
   - travel
 date: "2008-10-22T06:29:32+00:00"
-guid: http://alper.nl/dingen/?p=557
-parent_post_id: null
-post_id: "557"
 title: Current affairs
 aliases:
   - /dingen/2008/10/current-affairs/

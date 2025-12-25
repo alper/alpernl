@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2011-10-13T16:07:34+00:00"
-guid: http://alper.nl/dingen/?p=2995
-parent_post_id: null
-post_id: "2995"
 title: Cameratoezicht op mijn fiets
 aliases:
   - /dingen/2011/10/cameratoezicht-op-mijn-fiets/

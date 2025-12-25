@@ -6,9 +6,6 @@ categories:
   - tokyo
   - travel
 date: "2025-11-25T13:16:25+00:00"
-guid: https://alper.nl/dingen/?p=18480
-parent_post_id: null
-post_id: "18480"
 title: Iseji - Day 1 - Tamura to Misedani
 aliases:
   - /dingen/2025/11/iseji-day-1-tamura-to-misedani/

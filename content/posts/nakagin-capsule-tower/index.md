@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - video
 date: "2015-09-16T10:17:30+00:00"
-guid: http://alper.nl/dingen/?p=5266
-parent_post_id: null
-post_id: "5266"
 title: Nakagin Capsule Tower
 aliases:
   - /dingen/2015/09/nakagin-capsule-tower/

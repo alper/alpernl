@@ -7,9 +7,6 @@ categories:
   - video
   - work
 date: "2009-12-26T01:16:43+00:00"
-guid: http://alper.nl/dingen/?p=1434
-parent_post_id: null
-post_id: "1434"
 title: Onrealistische en onwenselijke maatregelen
 aliases:
   - /dingen/2009/12/onrealistische-en-onwenselijke-maatregelen/

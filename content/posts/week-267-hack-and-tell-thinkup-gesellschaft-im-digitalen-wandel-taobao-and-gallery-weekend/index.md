@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-04T07:46:51+00:00"
-guid: http://alper.nl/dingen/?p=3531
-parent_post_id: null
-post_id: "3531"
 tags:
   - weeknotes
 title: 'Week 267: Hack and Tell, Thinkup, Gesellschaft im digitalen Wandel, Taobao and Gallery Weekend'

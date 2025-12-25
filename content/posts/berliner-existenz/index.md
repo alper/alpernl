@@ -3,9 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2007-11-13T01:57:08+00:00"
-guid: http://alper.nl/dingen/2007/11/berliner-existenz/
-parent_post_id: null
-post_id: "180"
 tags:
   - berlijn
   - fotografie

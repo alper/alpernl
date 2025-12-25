@@ -7,9 +7,6 @@ categories:
   - travel
   - video
 date: "2025-01-05T17:05:45+00:00"
-guid: https://alper.nl/dingen/?p=17872
-parent_post_id: null
-post_id: "17872"
 title: Year in Review 2024
 aliases:
   - /dingen/2025/01/year-in-review-2024/

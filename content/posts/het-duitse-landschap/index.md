@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-20T18:32:00+00:00"
-guid: http://alper.nl/dingen/2008/01/het-duitse-landschap/
-parent_post_id: null
-post_id: "226"
 tags:
   - fotografie
   - reizen

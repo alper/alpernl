@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2017-11-18T10:08:42+00:00"
-guid: http://alper.nl/dingen/?p=5870
-parent_post_id: null
-post_id: "5870"
 title: The Good, the Bad and the Interesting
 aliases:
   - /dingen/2017/11/the-good-the-bad-and-the-interesting/

@@ -5,9 +5,6 @@ categories:
   - kids
   - reading
 date: "2018-12-31T12:48:04+00:00"
-guid: http://alper.nl/dingen/?p=6085
-parent_post_id: null
-post_id: "6085"
 title: Highlights for Oh Crap
 aliases:
   - /dingen/2018/12/highlights-for-oh-crap/

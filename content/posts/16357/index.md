@@ -7,9 +7,6 @@ categories:
   - philosophy
   - politics
 date: "2020-10-25T09:41:38+00:00"
-guid: http://www.alper.nl/dingen/?p=16357
-parent_post_id: null
-post_id: "16357"
 title: ""
 aliases:
   - /dingen/2020/10/16357/

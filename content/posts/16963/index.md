@@ -6,9 +6,6 @@ categories:
   - politics
   - work
 date: "2023-01-13T19:11:04+00:00"
-guid: https://alper.nl/dingen/?p=16963
-parent_post_id: null
-post_id: "16963"
 title: ""
 aliases:
   - /dingen/2023/01/16963/

@@ -5,9 +5,6 @@ categories:
   - politics
   - work
 date: "2009-12-30T21:13:04+00:00"
-guid: http://alper.nl/dingen/?p=1468
-parent_post_id: null
-post_id: "1468"
 title: Principles, solutions, measures, recommendations from Taleb for our money
 aliases:
   - /dingen/2009/12/principles-solutions-measures-recommendations-from-taleb-for-our-money/

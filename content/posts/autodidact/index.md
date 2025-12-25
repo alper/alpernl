@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2008-01-28T23:30:53+00:00"
-guid: http://alper.nl/dingen/2008/01/autodidact/
-parent_post_id: null
-post_id: "237"
 tags:
   - leven
   - reading

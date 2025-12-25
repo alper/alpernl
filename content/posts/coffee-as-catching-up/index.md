@@ -6,9 +6,6 @@ categories:
   - food
   - work
 date: "2010-07-08T11:53:00+00:00"
-guid: http://alper.nl/dingen/?p=1937
-parent_post_id: null
-post_id: "1937"
 title: Coffee as catching up
 aliases:
   - /dingen/2010/07/coffee-as-catching-up/

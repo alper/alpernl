@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-07-15T17:08:50+00:00"
-guid: http://alper.nl/dingen/2007/07/internetcultuur-dringt-het-gewone-leven-binnen/
-parent_post_id: null
-post_id: "94"
 tags:
   - cultuur
   - humor

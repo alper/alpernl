@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-12-28T21:22:29+00:00"
-guid: http://alper.nl/dingen/?p=5908
-parent_post_id: null
-post_id: "5908"
 title: Highlights for Metaphors We Live By
 aliases:
   - /dingen/2017/12/highlights-for-metaphors-we-live-by/

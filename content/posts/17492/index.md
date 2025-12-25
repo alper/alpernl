@@ -7,9 +7,6 @@ categories:
   - podcast
   - video
 date: "2024-03-10T12:40:41+00:00"
-guid: https://alper.nl/dingen/?p=17492
-parent_post_id: null
-post_id: "17492"
 title: ""
 aliases:
   - /dingen/2024/03/17492/

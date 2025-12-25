@@ -6,9 +6,6 @@ categories:
   - english
   - photography
 date: "2008-06-09T07:20:17+00:00"
-guid: http://alper.nl/dingen/?p=306
-parent_post_id: null
-post_id: "306"
 tags:
   - capoeira
   - liberdade

@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-06-09T14:14:07+00:00"
-guid: http://alper.nl/dingen/2007/06/rustig/
-parent_post_id: null
-post_id: "61"
 tags:
   - fotografie
   - tu-delft

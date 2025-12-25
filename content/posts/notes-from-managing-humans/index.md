@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2017-08-06T21:26:38+00:00"
-guid: http://alper.nl/dingen/?p=5822
-parent_post_id: null
-post_id: "5822"
 title: Highlights from Managing Humans
 aliases:
   - /dingen/2017/08/notes-from-managing-humans/

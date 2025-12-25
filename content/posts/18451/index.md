@@ -5,9 +5,6 @@ categories:
   - london
   - travel
 date: "2025-11-19T21:56:37+00:00"
-guid: https://alper.nl/dingen/?p=18451
-parent_post_id: null
-post_id: "18451"
 title: ""
 aliases:
   - /dingen/2025/11/18451/

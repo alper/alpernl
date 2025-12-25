@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-07-29T20:23:15+00:00"
-guid: http://alper.nl/dingen/2007/07/het-was-weer-zon-weekend/
-parent_post_id: null
-post_id: "106"
 tags:
   - amsterdam
   - feest

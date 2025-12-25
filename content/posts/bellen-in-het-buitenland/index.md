@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-15T14:55:30+00:00"
-guid: http://alper.nl/dingen/2007/10/bellen-in-het-buitenland/
-parent_post_id: null
-post_id: "155"
 tags:
   - klantenervaring
   - zomerreis-2007

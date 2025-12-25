@@ -5,9 +5,6 @@ categories:
   - kids
   - work
 date: "2019-05-26T20:23:46+00:00"
-guid: http://alper.nl/dingen/?p=15454
-parent_post_id: null
-post_id: "15454"
 title: ""
 aliases:
   - /dingen/2019/05/15454/

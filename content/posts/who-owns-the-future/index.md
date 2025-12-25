@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2013-03-18T13:52:26+00:00"
-guid: http://alper.nl/dingen/?p=4418
-parent_post_id: null
-post_id: "4418"
 title: Who owns the future?
 aliases:
   - /dingen/2013/03/who-owns-the-future/

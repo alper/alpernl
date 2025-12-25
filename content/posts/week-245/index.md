@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2011-11-30T15:24:38+00:00"
-guid: http://alper.nl/dingen/?p=3112
-parent_post_id: null
-post_id: "3112"
 tags:
   - weeknotes
 title: Week 245

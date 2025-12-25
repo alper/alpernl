@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2020-07-20T22:27:36+00:00"
-guid: http://alper.nl/dingen/?p=16170
-parent_post_id: null
-post_id: "16170"
 title: 'nrc.next game-recensie: Phone Story'
 aliases:
   - /dingen/2020/07/nrc-next-game-recensie-phone-story/

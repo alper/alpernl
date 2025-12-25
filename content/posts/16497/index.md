@@ -4,9 +4,6 @@ categories:
   - english
   - turkish
 date: "2021-04-18T10:36:58+00:00"
-guid: https://alper.nl/dingen/?p=16497
-parent_post_id: null
-post_id: "16497"
 title: Advanced Turkish Anki Deck
 aliases:
   - /dingen/2021/04/16497/

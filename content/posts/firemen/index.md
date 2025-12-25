@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-03-12T13:57:27+00:00"
-guid: http://alper.nl/dingen/2008/03/firemen/
-parent_post_id: null
-post_id: "272"
 title: Als de brandweer
 aliases:
   - /dingen/2008/03/firemen/

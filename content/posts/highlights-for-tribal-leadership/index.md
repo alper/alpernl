@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2019-01-27T21:50:24+00:00"
-guid: http://alper.nl/dingen/?p=6101
-parent_post_id: null
-post_id: "6101"
 title: Highlights for Tribal Leadership
 aliases:
   - /dingen/2019/01/highlights-for-tribal-leadership/

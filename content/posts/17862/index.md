@@ -5,9 +5,6 @@ categories:
   - food
   - travel
 date: "2025-01-04T17:23:32+00:00"
-guid: https://alper.nl/dingen/?p=17862
-parent_post_id: null
-post_id: "17862"
 title: ""
 aliases:
   - /dingen/2025/01/17862/

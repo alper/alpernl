@@ -6,9 +6,6 @@ categories:
   - politics
   - product-/-design
 date: "2011-06-14T10:28:01+00:00"
-guid: http://alper.nl/dingen/?p=2660
-parent_post_id: null
-post_id: "2660"
 title: A new vision of the public domain
 aliases:
   - /dingen/2011/06/a-new-vision-of-the-public-domain/

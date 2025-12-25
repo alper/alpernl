@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-11-02T19:13:36+00:00"
-guid: http://alper.nl/dingen/?p=4812
-parent_post_id: null
-post_id: "4812"
 title: Notes from Aramis by Bruno Latour
 aliases:
   - /dingen/2013/11/notes-from-aramis-by-bruno-latour/

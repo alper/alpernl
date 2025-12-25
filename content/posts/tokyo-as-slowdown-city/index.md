@@ -6,9 +6,6 @@ categories:
   - the-city
   - tokyo
 date: "2020-07-27T20:55:21+00:00"
-guid: http://alper.nl/dingen/?p=16192
-parent_post_id: null
-post_id: "16192"
 title: Tokyo as slowdown city
 aliases:
   - /dingen/2020/07/tokyo-as-slowdown-city/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-23T00:35:37+00:00"
-guid: http://alper.nl/dingen/2008/01/stop-amendement-op-auteursrechten-in-het-europese-parlement/
-parent_post_id: null
-post_id: "235"
 tags:
   - burgerrechten
   - computers

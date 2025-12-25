@@ -6,9 +6,6 @@ categories:
   - english
   - photography
 date: "2008-06-11T06:53:52+00:00"
-guid: http://alper.nl/dingen/?p=308
-parent_post_id: null
-post_id: "308"
 tags:
   - barbecue
   - group

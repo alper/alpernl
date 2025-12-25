@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2013-09-05T13:23:05+00:00"
-guid: http://alper.nl/dingen/?p=4724
-parent_post_id: null
-post_id: "4724"
 tags:
   - weeknotes
 title: Week 333

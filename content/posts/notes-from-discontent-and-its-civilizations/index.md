@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-10-29T10:25:47+00:00"
-guid: http://alper.nl/dingen/?p=5856
-parent_post_id: null
-post_id: "5856"
 title: Highlights from Discontent and its Civilizations
 aliases:
   - /dingen/2017/10/notes-from-discontent-and-its-civilizations/

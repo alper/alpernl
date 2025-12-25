@@ -6,9 +6,6 @@ categories:
   - internet
   - product-/-design
 date: "2025-12-21T09:41:07+00:00"
-guid: http://alper.nl/dingen/?p=1416
-parent_post_id: null
-post_id: "1416"
 title: UX Book Club Amsterdam First Meeting
 aliases:
   - /dingen/2025/12/ux-book-club-amsterdam-first-meeting/

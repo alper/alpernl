@@ -5,9 +5,6 @@ categories:
   - delft
   - nederlands
 date: "2008-05-21T12:39:19+00:00"
-guid: http://alper.nl/dingen/?p=298
-parent_post_id: null
-post_id: "298"
 tags:
   - uncategorized
 title: Fiesta Brasileira!

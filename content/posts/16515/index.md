@@ -5,9 +5,6 @@ categories:
   - kids
   - turkish
 date: "2021-05-01T13:51:24+00:00"
-guid: https://alper.nl/dingen/?p=16515
-parent_post_id: null
-post_id: "16515"
 title: ""
 aliases:
   - /dingen/2021/05/16515/

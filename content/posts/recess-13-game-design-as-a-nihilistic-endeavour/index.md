@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2013-05-24T20:15:48+00:00"
-guid: http://alper.nl/dingen/?p=4585
-parent_post_id: null
-post_id: "4585"
 tags:
   - recess!
 title: Recess! 13 - Game Design as a Nihilistic Endeavour

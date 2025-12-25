@@ -5,9 +5,6 @@ categories:
   - politics
   - video
 date: "2009-01-27T01:39:55+00:00"
-guid: http://alper.nl/dingen/?p=737
-parent_post_id: null
-post_id: "737"
 title: Rita kan ook niet meer doen
 aliases:
   - /dingen/2009/01/rita-kan-ook-niet-meer-doen/

@@ -6,9 +6,6 @@ categories:
   - politics
   - work
 date: "2012-02-27T11:33:38+00:00"
-guid: http://alper.nl/dingen/?p=3365
-parent_post_id: null
-post_id: "3365"
 title: Administrative No-ops
 aliases:
   - /dingen/2012/02/administrative-no-ops/

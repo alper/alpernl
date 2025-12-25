@@ -5,9 +5,6 @@ categories:
   - new-york
   - science
 date: "2019-11-27T09:54:17+00:00"
-guid: http://alper.nl/dingen/?p=15871
-parent_post_id: null
-post_id: "15871"
 title: ""
 aliases:
   - /dingen/2019/11/15871/

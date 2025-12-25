@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-02-05T14:06:18+00:00"
-guid: http://alper.nl/dingen/?p=3300
-parent_post_id: null
-post_id: "3300"
 title: 'Week 254: game designing, data journalism, django, Praxis and game jam'
 aliases:
   - /dingen/2012/02/week-254-game-designing-data-journalism-django-praxis-and-game-jam/

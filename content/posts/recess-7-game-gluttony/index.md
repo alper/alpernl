@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2013-03-23T20:35:19+00:00"
-guid: http://alper.nl/dingen/?p=4400
-parent_post_id: null
-post_id: "4400"
 tags:
   - recess!
 title: Recess! 7 - Game Gluttony

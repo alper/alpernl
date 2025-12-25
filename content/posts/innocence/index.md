@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2009-10-13T11:23:17+00:00"
-guid: http://alper.nl/dingen/?p=1300
-parent_post_id: null
-post_id: "1300"
 title: Innocence
 aliases:
   - /dingen/2009/10/innocence/

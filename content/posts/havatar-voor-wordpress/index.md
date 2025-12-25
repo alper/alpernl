@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-08-17T16:23:07+00:00"
-guid: http://alper.nl/dingen/2007/08/havatar-voor-wordpress/
-parent_post_id: null
-post_id: "113"
 tags:
   - computers
   - internet

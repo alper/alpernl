@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2018-08-11T09:23:51+00:00"
-guid: https://alper.nl/dingen/?p=6040
-parent_post_id: null
-post_id: "6040"
 title: A Case for Permeable Borders
 aliases:
   - /dingen/2018/08/a-case-for-permeable-borders/

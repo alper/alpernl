@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2008-12-12T11:02:50+00:00"
-guid: http://alper.nl/dingen/?p=653
-parent_post_id: null
-post_id: "653"
 title: Parlement Transparant
 aliases:
   - /dingen/2008/12/parlement-transparant/

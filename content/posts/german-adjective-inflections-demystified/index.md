@@ -5,9 +5,6 @@ categories:
   - english
   - science
 date: "2021-03-25T10:08:16+00:00"
-guid: https://alper.nl/dingen/?p=16472
-parent_post_id: null
-post_id: "16472"
 title: German adjective inflections demystified
 aliases:
   - /dingen/2021/03/german-adjective-inflections-demystified/

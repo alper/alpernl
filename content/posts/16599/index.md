@@ -5,9 +5,6 @@ categories:
   - internet
   - travel
 date: "2021-10-17T22:45:06+00:00"
-guid: https://alper.nl/dingen/?p=16599
-parent_post_id: null
-post_id: "16599"
 title: ""
 aliases:
   - /dingen/2021/10/16599/

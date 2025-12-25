@@ -5,9 +5,6 @@ categories:
   - politics
   - travel
 date: "2025-01-11T14:16:10+00:00"
-guid: https://alper.nl/dingen/?p=17904
-parent_post_id: null
-post_id: "17904"
 title: ""
 aliases:
   - /dingen/2025/01/17904/

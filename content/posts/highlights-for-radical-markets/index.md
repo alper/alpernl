@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2021-08-22T22:05:53+00:00"
-guid: https://alper.nl/dingen/?p=16579
-parent_post_id: null
-post_id: "16579"
 title: Highlights for Radical Markets
 aliases:
   - /dingen/2021/08/highlights-for-radical-markets/

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2011-10-06T08:59:19+00:00"
-guid: http://alper.nl/dingen/?p=2967
-parent_post_id: null
-post_id: "2967"
 title: Do your bit!
 aliases:
   - /dingen/2011/10/do-your-bit/

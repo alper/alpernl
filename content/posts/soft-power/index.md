@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-20T13:22:17+00:00"
-guid: http://alper.nl/dingen/2008/02/soft-power/
-parent_post_id: null
-post_id: "261"
 tags:
   - amerika
   - midden-oosten

@@ -4,9 +4,6 @@ categories:
   - capoeira
   - delft
 date: "2007-10-21T19:36:49+00:00"
-guid: http://alper.nl/dingen/2007/10/fotos-skatejam/
-parent_post_id: null
-post_id: "167"
 tags:
   - evenement
   - fotografie

@@ -5,9 +5,6 @@ categories:
   - internet
   - video
 date: "2009-01-24T14:18:55+00:00"
-guid: http://alper.nl/dingen/?p=734
-parent_post_id: null
-post_id: "734"
 title: Nomadz and Androids
 aliases:
   - /dingen/2009/01/nomadz-and-androids/

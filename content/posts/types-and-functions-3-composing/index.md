@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2019-11-25T21:23:05+00:00"
-guid: http://alper.nl/dingen/?p=15857
-parent_post_id: null
-post_id: "15857"
 title: 'Types and Functions 3: Composing'
 aliases:
   - /dingen/2019/11/types-and-functions-3-composing/

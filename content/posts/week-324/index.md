@@ -5,9 +5,6 @@ categories:
   - english
   - travel
 date: "2013-06-18T07:36:36+00:00"
-guid: http://alper.nl/dingen/?p=4652
-parent_post_id: null
-post_id: "4652"
 tags:
   - weeknotes
 title: Week 324

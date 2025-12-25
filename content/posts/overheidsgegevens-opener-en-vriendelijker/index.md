@@ -6,9 +6,6 @@ categories:
   - nederlands
   - work
 date: "2009-06-23T12:49:20+00:00"
-guid: http://alper.nl/dingen/?p=1074
-parent_post_id: null
-post_id: "1074"
 title: Overheidsgegevens opener en vriendelijker
 aliases:
   - /dingen/2009/06/overheidsgegevens-opener-en-vriendelijker/

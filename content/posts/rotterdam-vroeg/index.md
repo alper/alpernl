@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-17T06:56:08+00:00"
-guid: http://alper.nl/dingen/2007/12/rotterdam-vroeg/
-parent_post_id: null
-post_id: "201"
 tags:
   - trein
 title: Rotterdam vroeg

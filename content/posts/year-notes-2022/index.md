@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2023-01-01T22:00:46+00:00"
-guid: https://alper.nl/dingen/?p=16916
-parent_post_id: null
-post_id: "16916"
 title: 'Year Notes: 2022'
 aliases:
   - /dingen/2023/01/year-notes-2022/

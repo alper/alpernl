@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2020-09-01T19:51:34+00:00"
-guid: http://alper.nl/dingen/?p=16265
-parent_post_id: null
-post_id: "16265"
 title: Highlights for Progress and Poverty
 aliases:
   - /dingen/2020/09/highlights-for-progress-and-poverty/

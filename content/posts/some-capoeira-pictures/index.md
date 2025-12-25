@@ -6,9 +6,6 @@ categories:
   - english
   - photography
 date: "2008-06-12T07:02:47+00:00"
-guid: http://alper.nl/dingen/?p=309
-parent_post_id: null
-post_id: "309"
 tags:
   - capoeira
   - photography

@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - the-city
 date: "2009-11-30T13:21:09+00:00"
-guid: http://alper.nl/dingen/?p=1380
-parent_post_id: null
-post_id: "1380"
 title: Vergeet niet het inchecken
 aliases:
   - /dingen/2009/11/vergeet-niet-het-inchecken/

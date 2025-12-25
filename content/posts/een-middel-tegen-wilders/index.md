@@ -4,9 +4,6 @@ categories:
   - nederlands
   - politics
 date: "2009-06-20T01:22:20+00:00"
-guid: http://alper.nl/dingen/?p=1046
-parent_post_id: null
-post_id: "1046"
 title: Een middel tegen Wilders
 aliases:
   - /dingen/2009/06/een-middel-tegen-wilders/

@@ -4,9 +4,6 @@ categories:
   - english
   - monster-swell
 date: "2008-09-08T14:50:15+00:00"
-guid: http://alper.nl/dingen/?p=381
-parent_post_id: null
-post_id: "381"
 tags:
   - json
   - open-data

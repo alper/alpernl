@@ -6,9 +6,6 @@ categories:
   - reading
   - work
 date: "2019-08-04T10:58:19+00:00"
-guid: http://alper.nl/dingen/?p=15610
-parent_post_id: null
-post_id: "15610"
 title: ""
 aliases:
   - /dingen/2019/08/15610/

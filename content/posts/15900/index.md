@@ -6,9 +6,6 @@ categories:
   - new-york
   - product-/-design
 date: "2019-11-29T13:48:38+00:00"
-guid: http://alper.nl/dingen/?p=15900
-parent_post_id: null
-post_id: "15900"
 title: ""
 aliases:
   - /dingen/2019/11/15900/

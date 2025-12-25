@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-02-28T19:38:49+00:00"
-guid: http://alper.nl/dingen/?p=1589
-parent_post_id: null
-post_id: "1589"
 title: Red Amsterdam van de kortzichtigheid
 aliases:
   - /dingen/2010/02/red-amsterdam-van-de-kortzichtigheid/

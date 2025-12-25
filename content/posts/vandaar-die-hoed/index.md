@@ -4,9 +4,6 @@ categories:
   - berlin
   - internet
 date: "2007-11-05T01:03:23+00:00"
-guid: http://alper.nl/dingen/2007/11/vandaar-die-hoed/
-parent_post_id: null
-post_id: "179"
 tags:
   - internet
   - movies

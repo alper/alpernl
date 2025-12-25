@@ -3,9 +3,6 @@ author: alper
 categories:
   - video
 date: "2007-10-17T21:31:41+00:00"
-guid: http://alper.nl/dingen/2007/10/poptech/
-parent_post_id: null
-post_id: "162"
 tags:
   - evenement
 title: Pop!Tech

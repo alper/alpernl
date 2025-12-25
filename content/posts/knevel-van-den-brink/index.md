@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-10T03:13:57+00:00"
-guid: http://alper.nl/dingen/2007/04/knevel-van-den-brink/
-parent_post_id: null
-post_id: "13"
 tags:
   - televisie
 title: Knevel & van den Brink

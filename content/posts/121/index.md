@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-03T20:02:10+00:00"
-guid: http://alper.nl/dingen/2007/09/121/
-parent_post_id: null
-post_id: "121"
 tags:
   - humor
   - politiek

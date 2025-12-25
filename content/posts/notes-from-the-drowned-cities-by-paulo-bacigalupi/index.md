@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2014-01-05T00:10:51+00:00"
-guid: http://alper.nl/dingen/?p=4861
-parent_post_id: null
-post_id: "4861"
 title: Notes from The Drowned Cities by Paulo Bacigalupi
 aliases:
   - /dingen/2014/01/notes-from-the-drowned-cities-by-paulo-bacigalupi/

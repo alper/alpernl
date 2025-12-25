@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2018-11-09T11:57:34+00:00"
-guid: http://alper.nl/dingen/?p=6072
-parent_post_id: null
-post_id: "6072"
 title: Highlights for Surveillance Valley
 aliases:
   - /dingen/2018/11/highlights-for-surveillance-valley/

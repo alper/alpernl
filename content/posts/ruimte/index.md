@@ -3,9 +3,6 @@ author: alper
 categories:
   - nederlands
 date: "2008-02-24T16:03:41+00:00"
-guid: http://alper.nl/dingen/2008/02/ruimte/
-parent_post_id: null
-post_id: "263"
 tags:
   - huis
   - werken

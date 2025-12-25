@@ -6,9 +6,6 @@ categories:
   - sports
   - video
 date: "2009-07-18T20:33:44+00:00"
-guid: http://alper.nl/dingen/?p=1134
-parent_post_id: null
-post_id: "1134"
 title: Tour de France live online, of toch niet?
 aliases:
   - /dingen/2009/07/tour-de-france-live-online-of-toch-niet/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-23T23:53:59+00:00"
-guid: http://alper.nl/dingen/2007/09/kunst-van-vandaag/
-parent_post_id: null
-post_id: "137"
 tags:
   - evenement
   - fotografie

@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-12-26T17:30:07+00:00"
-guid: http://alper.nl/dingen/2007/12/2008-bioscoopjaar/
-parent_post_id: null
-post_id: "212"
 tags:
   - movies
 title: 2008 Bioscoopjaar

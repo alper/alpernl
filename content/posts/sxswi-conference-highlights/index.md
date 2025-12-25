@@ -5,9 +5,6 @@ categories:
   - internet
   - travel
 date: "2009-03-20T20:23:16+00:00"
-guid: http://alper.nl/dingen/?p=843
-parent_post_id: null
-post_id: "843"
 title: SxSWi Conference Highlights
 aliases:
   - /dingen/2009/03/sxswi-conference-highlights/

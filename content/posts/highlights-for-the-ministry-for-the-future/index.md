@@ -5,9 +5,6 @@ categories:
   - english
   - reading
 date: "2022-09-15T22:15:39+00:00"
-guid: https://alper.nl/dingen/?p=16846
-parent_post_id: null
-post_id: "16846"
 title: Highlights for The Ministry for the Future
 aliases:
   - /dingen/2022/09/highlights-for-the-ministry-for-the-future/

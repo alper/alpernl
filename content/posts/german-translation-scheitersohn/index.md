@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2018-08-16T20:37:02+00:00"
-guid: http://alper.nl/dingen/?p=6046
-parent_post_id: null
-post_id: "6046"
 title: 'German translation: Scheitersohn'
 aliases:
   - /dingen/2018/08/german-translation-scheitersohn/

@@ -6,9 +6,6 @@ categories:
   - politics
   - product-/-design
 date: "2010-03-03T23:29:18+00:00"
-guid: http://alper.nl/dingen/?p=1623
-parent_post_id: null
-post_id: "1623"
 title: Verkiezingsuitslagen Grootste Partijen Gevisualiseerd
 aliases:
   - /dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/

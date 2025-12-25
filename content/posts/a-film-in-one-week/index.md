@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - video
 date: "2010-01-18T12:59:16+00:00"
-guid: http://alper.nl/dingen/?p=1510
-parent_post_id: null
-post_id: "1510"
 title: A Film in one Week
 aliases:
   - /dingen/2010/01/a-film-in-one-week/

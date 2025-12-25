@@ -8,9 +8,6 @@ categories:
   - product-/-design
   - work
 date: "2010-10-05T11:41:41+00:00"
-guid: http://alper.nl/dingen/?p=2163
-parent_post_id: null
-post_id: "2163"
 tags:
   - weeknotes
 title: Weeknotes 185

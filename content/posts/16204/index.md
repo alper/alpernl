@@ -6,9 +6,6 @@ categories:
   - food
   - politics
 date: "2020-07-31T08:48:20+00:00"
-guid: http://alper.nl/dingen/?p=16204
-parent_post_id: null
-post_id: "16204"
 title: ""
 aliases:
   - /dingen/2020/07/16204/

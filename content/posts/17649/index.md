@@ -5,9 +5,6 @@ categories:
   - internet
   - software-engineering
 date: "2024-11-03T14:55:25+00:00"
-guid: https://alper.nl/dingen/?p=17649
-parent_post_id: null
-post_id: "17649"
 title: MySQL encoding mistakes corrupting data in this decade?!?
 aliases:
   - /dingen/2024/11/17649/

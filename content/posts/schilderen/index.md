@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-24T20:51:41+00:00"
-guid: http://alper.nl/dingen/2007/10/schilderen/
-parent_post_id: null
-post_id: "165"
 tags:
   - huis
   - movies

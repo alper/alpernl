@@ -5,9 +5,6 @@ categories:
   - english
   - open-state
 date: "2013-06-10T08:01:00+00:00"
-guid: http://alper.nl/dingen/?p=4629
-parent_post_id: null
-post_id: "4629"
 title: Week 323
 aliases:
   - /dingen/2013/06/week-323/

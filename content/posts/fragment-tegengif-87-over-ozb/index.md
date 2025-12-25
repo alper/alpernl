@@ -9,9 +9,6 @@ enclosure: |-
   https://alper.nl/dingen/wp-content/uploads/2023/07/tegengif_ozb.mov
   676820
   video/quicktime
-guid: https://alper.nl/dingen/?p=17229
-parent_post_id: null
-post_id: "17229"
 title: Fragment Tegengif 87 over OZB
 aliases:
   - /dingen/2023/07/fragment-tegengif-87-over-ozb/

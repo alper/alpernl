@@ -7,9 +7,6 @@ categories:
   - reading
   - work
 date: "2010-10-07T21:29:30+00:00"
-guid: http://alper.nl/dingen/?p=2177
-parent_post_id: null
-post_id: "2177"
 title: Ontwerp en complexiteit als journalistieke kansen
 aliases:
   - /dingen/2010/10/ontwerp-en-complexiteit-als-journalistieke-kansen/

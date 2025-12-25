@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-05-26T12:54:57+00:00"
-guid: http://alper.nl/dingen/?p=15439
-parent_post_id: null
-post_id: "15439"
 title: Highlights for How to Measure Anything in Cybersecurity Risk
 aliases:
   - /dingen/2019/05/highlights-for-how-to-measure-anything-in-cybersecurity-risk/

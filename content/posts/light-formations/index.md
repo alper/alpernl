@@ -6,9 +6,6 @@ categories:
   - travel
   - video
 date: "2008-12-30T00:05:15+00:00"
-guid: http://alper.nl/dingen/?p=714
-parent_post_id: null
-post_id: "714"
 title: Light formations
 aliases:
   - /dingen/2008/12/light-formations/

@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-05-26T12:56:19+00:00"
-guid: http://alper.nl/dingen/?p=15441
-parent_post_id: null
-post_id: "15441"
 title: Highlights for Interpreter of Maladies
 aliases:
   - /dingen/2019/05/highlights-for-interpreter-of-maladies/

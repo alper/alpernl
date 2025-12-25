@@ -4,9 +4,6 @@ categories:
   - music
   - nederlands
 date: "2009-06-19T07:16:30+00:00"
-guid: http://alper.nl/dingen/?p=1063
-parent_post_id: null
-post_id: "1063"
 title: Opera do Malandro
 aliases:
   - /dingen/2009/06/opera-do-malandro/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-22T19:56:09+00:00"
-guid: http://alper.nl/dingen/2007/07/geronimo/
-parent_post_id: null
-post_id: "101"
 tags:
   - sport
   - strand

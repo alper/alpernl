@@ -8,9 +8,6 @@ categories:
   - video
   - work
 date: "2010-06-20T17:18:19+00:00"
-guid: http://alper.nl/dingen/?p=1885
-parent_post_id: null
-post_id: "1885"
 title: An augment for my reality
 aliases:
   - /dingen/2010/06/an-augment-for-my-reality/

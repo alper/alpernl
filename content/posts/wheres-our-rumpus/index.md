@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2009-10-19T14:59:21+00:00"
-guid: http://alper.nl/dingen/?p=1309
-parent_post_id: null
-post_id: "1309"
 title: Where's our rumpus?
 aliases:
   - /dingen/2009/10/wheres-our-rumpus/

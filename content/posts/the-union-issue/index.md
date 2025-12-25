@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2014-04-10T07:40:09+00:00"
-guid: http://alper.nl/dingen/?p=4955
-parent_post_id: null
-post_id: "4955"
 title: The Union issue
 aliases:
   - /dingen/2014/04/the-union-issue/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-21T11:36:36+00:00"
-guid: http://alper.nl/dingen/2008/02/high-grade-structured-credit-enhanced-leverage-fund/
-parent_post_id: null
-post_id: "262"
 tags:
   - economie
   - televisie

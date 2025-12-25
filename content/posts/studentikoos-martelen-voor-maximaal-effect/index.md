@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-28T07:23:55+00:00"
-guid: http://alper.nl/dingen/2007/12/studentikoos-martelen-voor-maximaal-effect/
-parent_post_id: null
-post_id: "214"
 tags:
   - burgerrechten
   - universiteit

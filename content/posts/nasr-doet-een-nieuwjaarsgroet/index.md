@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2010-01-21T19:31:41+00:00"
-guid: http://alper.nl/dingen/?p=1537
-parent_post_id: null
-post_id: "1537"
 title: Nasr doet een nieuwjaarsgroet
 aliases:
   - /dingen/2010/01/nasr-doet-een-nieuwjaarsgroet/

@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-03-14T12:06:09+00:00"
-guid: http://alper.nl/dingen/2008/03/gasten-en-vis/
-parent_post_id: null
-post_id: "274"
 tags:
   - computers
   - fotografie

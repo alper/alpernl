@@ -4,9 +4,6 @@ categories:
   - english
   - poetry
 date: "2020-05-03T22:38:21+00:00"
-guid: http://alper.nl/dingen/?p=16072
-parent_post_id: null
-post_id: "16072"
 title: ""
 aliases:
   - /dingen/2020/05/16072/

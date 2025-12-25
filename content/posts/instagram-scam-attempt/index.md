@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2021-02-26T21:20:43+00:00"
-guid: https://alper.nl/dingen/?p=16436
-parent_post_id: null
-post_id: "16436"
 title: Instagram scam attempt
 aliases:
   - /dingen/2021/02/instagram-scam-attempt/

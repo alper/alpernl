@@ -6,9 +6,6 @@ categories:
   - the-city
   - travel
 date: "2009-09-27T22:16:32+00:00"
-guid: http://alper.nl/dingen/?p=1245
-parent_post_id: null
-post_id: "1245"
 title: Shared bicycle transit systems
 aliases:
   - /dingen/2009/09/shared-bicycle-transit-systems/

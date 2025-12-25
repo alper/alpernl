@@ -5,9 +5,6 @@ categories:
   - internet
   - new-york
 date: "2019-09-28T09:01:17+00:00"
-guid: http://alper.nl/dingen/?p=15754
-parent_post_id: null
-post_id: "15754"
 title: ""
 aliases:
   - /dingen/2019/09/15754/

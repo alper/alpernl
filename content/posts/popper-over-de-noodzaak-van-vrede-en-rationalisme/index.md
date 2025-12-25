@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-09-30T22:22:19+00:00"
-guid: http://alper.nl/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/
-parent_post_id: null
-post_id: "148"
 tags:
   - filosofie
   - karl-popper

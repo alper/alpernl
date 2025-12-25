@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2019-05-04T23:03:16+00:00"
-guid: http://alper.nl/dingen/?p=15390
-parent_post_id: null
-post_id: "15390"
 title: ""
 aliases:
   - /dingen/2019/05/15390/

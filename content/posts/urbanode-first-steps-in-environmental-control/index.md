@@ -9,9 +9,6 @@ categories:
   - the-city
   - work
 date: "2010-12-20T14:38:07+00:00"
-guid: http://alper.nl/dingen/?p=2341
-parent_post_id: null
-post_id: "2341"
 title: 'Urbanode: first steps in environmental control'
 aliases:
   - /dingen/2010/12/urbanode-first-steps-in-environmental-control/

@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-06T21:36:43+00:00"
-guid: http://alper.nl/dingen/?p=5617
-parent_post_id: null
-post_id: "5617"
 title: Highlights from Americanah by Chimamanda Ngozi Adichie
 aliases:
   - /dingen/2016/09/highlights-from-americanah-by-chimamanda-ngozi-adichie/

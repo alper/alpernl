@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-01-01T00:39:53+00:00"
-guid: http://alper.nl/dingen/?p=5676
-parent_post_id: null
-post_id: "5676"
 title: Highlights from The Dictator's Handbook
 aliases:
   - /dingen/2017/01/notes-from-the-dictators-handbook/

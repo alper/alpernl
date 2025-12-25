@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2011-10-18T06:46:36+00:00"
-guid: http://alper.nl/dingen/?p=3014
-parent_post_id: null
-post_id: "3014"
 title: Wat moet je doen met gamification?
 aliases:
   - /dingen/2011/10/wat-moet-je-doen-met-gamification/

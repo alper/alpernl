@@ -5,9 +5,6 @@ categories:
   - english
   - the-city
 date: "2012-04-02T07:42:15+00:00"
-guid: http://alper.nl/dingen/?p=3305
-parent_post_id: null
-post_id: "3305"
 title: '[unnamed] is the best kept secret of Berlin'
 aliases:
   - /dingen/2012/04/unnamed-is-the-best-kept-secret-of-berlin/

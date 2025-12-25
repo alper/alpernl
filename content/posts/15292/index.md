@@ -4,9 +4,6 @@ categories:
   - english
   - kids
 date: "2019-03-28T22:28:50+00:00"
-guid: http://alper.nl/dingen/?p=15292
-parent_post_id: null
-post_id: "15292"
 title: ""
 aliases:
   - /dingen/2019/03/15292/

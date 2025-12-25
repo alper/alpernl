@@ -5,9 +5,6 @@ categories:
   - internet
   - the-city
 date: "2019-09-14T19:31:54+00:00"
-guid: http://alper.nl/dingen/?p=15699
-parent_post_id: null
-post_id: "15699"
 title: Unsubscribing from Micromobility
 aliases:
   - /dingen/2019/09/unsubscribing-from-micromobility/

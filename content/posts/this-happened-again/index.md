@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2009-02-21T07:31:44+00:00"
-guid: http://alper.nl/dingen/?p=792
-parent_post_id: null
-post_id: "792"
 title: This Happened Again
 aliases:
   - /dingen/2009/02/this-happened-again/

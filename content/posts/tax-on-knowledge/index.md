@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2008-10-31T16:07:12+00:00"
-guid: http://alper.nl/dingen/?p=566
-parent_post_id: null
-post_id: "566"
 title: Tax on knowledge
 aliases:
   - /dingen/2008/10/tax-on-knowledge/

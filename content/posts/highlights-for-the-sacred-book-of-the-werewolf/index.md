@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-03-12T22:13:18+00:00"
-guid: http://alper.nl/dingen/?p=15247
-parent_post_id: null
-post_id: "15247"
 title: Highlights for The Sacred Book of the Werewolf
 aliases:
   - /dingen/2019/03/highlights-for-the-sacred-book-of-the-werewolf/

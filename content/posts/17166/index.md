@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - publicity
 date: "2023-04-12T14:33:46+00:00"
-guid: https://alper.nl/dingen/?p=17166
-parent_post_id: null
-post_id: "17166"
 title: ""
 aliases:
   - /dingen/2023/04/17166/

@@ -5,9 +5,6 @@ categories:
   - internet
   - philosophy
 date: "2024-08-26T20:34:18+00:00"
-guid: https://alper.nl/dingen/?p=17586
-parent_post_id: null
-post_id: "17586"
 title: ""
 aliases:
   - /dingen/2024/08/17586/

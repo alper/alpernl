@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-11-04T05:32:38+00:00"
-guid: http://alper.nl/dingen/2007/10/laminaat-leggen/
-parent_post_id: null
-post_id: "174"
 tags:
   - huis
 title: Laminaat leggen

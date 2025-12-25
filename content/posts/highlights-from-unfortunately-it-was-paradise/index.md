@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-06-23T21:36:38+00:00"
-guid: http://alper.nl/dingen/?p=5809
-parent_post_id: null
-post_id: "5809"
 title: Highlights from Unfortunately, It Was Paradise
 aliases:
   - /dingen/2017/06/highlights-from-unfortunately-it-was-paradise/

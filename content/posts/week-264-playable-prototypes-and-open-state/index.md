@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - work
 date: "2012-04-11T08:12:07+00:00"
-guid: http://alper.nl/dingen/?p=3476
-parent_post_id: null
-post_id: "3476"
 tags:
   - weeknotes
 title: 'Week 264: playable prototypes and Open State'

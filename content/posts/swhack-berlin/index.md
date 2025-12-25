@@ -6,9 +6,6 @@ categories:
   - open-state
   - politics
 date: "2013-02-04T10:07:31+00:00"
-guid: http://alper.nl/dingen/?p=4253
-parent_post_id: null
-post_id: "4253"
 title: Swhack Berlin
 aliases:
   - /dingen/2013/02/swhack-berlin/

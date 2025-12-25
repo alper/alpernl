@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-10-16T20:27:25+00:00"
-guid: http://alper.nl/dingen/2007/10/161/
-parent_post_id: null
-post_id: "161"
 tags:
   - fotografie
   - reizen

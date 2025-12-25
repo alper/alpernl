@@ -5,9 +5,6 @@ categories:
   - nederlands
   - work
 date: "2010-06-21T16:09:06+00:00"
-guid: http://alper.nl/dingen/?p=1894
-parent_post_id: null
-post_id: "1894"
 title: Rabobank innovatief maar niet heus
 aliases:
   - /dingen/2010/06/rabobank-innovatief-maar-niet-heus/

@@ -6,9 +6,6 @@ categories:
   - open-state
   - politics
 date: "2013-02-16T05:05:29+00:00"
-guid: http://alper.nl/dingen/?p=4315
-parent_post_id: null
-post_id: "4315"
 title: Watersnake, a simple voting app
 aliases:
   - /dingen/2013/02/watersnake-a-simple-voting-app/

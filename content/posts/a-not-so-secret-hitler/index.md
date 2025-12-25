@@ -5,9 +5,6 @@ categories:
   - games
   - product-/-design
 date: "2015-12-27T20:46:05+00:00"
-guid: http://alper.nl/dingen/?p=5425
-parent_post_id: null
-post_id: "5425"
 title: A not so secret Hitler
 aliases:
   - /dingen/2015/12/a-not-so-secret-hitler/

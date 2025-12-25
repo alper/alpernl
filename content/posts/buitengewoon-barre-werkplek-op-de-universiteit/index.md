@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-23T12:28:05+00:00"
-guid: http://alper.nl/dingen/2007/05/buitengewoon-barre-werkplek-op-de-universiteit/
-parent_post_id: null
-post_id: "51"
 tags:
   - koffie
   - tu-delft

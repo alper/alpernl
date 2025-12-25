@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-12-26T06:47:55+00:00"
-guid: http://alper.nl/dingen/?p=664
-parent_post_id: null
-post_id: "664"
 title: Quit your newspaper, euthanize a dead tree media dinosaur
 aliases:
   - /dingen/2008/12/quit-your-newspaper-euthanize-a-dead-tree-media-dinosaur/

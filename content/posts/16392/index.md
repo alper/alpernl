@@ -4,9 +4,6 @@ categories:
   - nederlands
   - politics
 date: "2021-01-25T21:16:42+00:00"
-guid: https://alper.nl/dingen/?p=16392
-parent_post_id: null
-post_id: "16392"
 title: ""
 aliases:
   - /dingen/2021/01/16392/

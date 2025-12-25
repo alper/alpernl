@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2012-06-29T16:32:51+00:00"
-guid: http://alper.nl/dingen/2008/02/flickr-op-ndsm/
-parent_post_id: null
-post_id: "259"
 tags:
   - amsterdam
   - fotografie

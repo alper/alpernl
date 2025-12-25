@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-15T14:47:43+00:00"
-guid: http://alper.nl/dingen/2007/10/sleuteloverdracht/
-parent_post_id: null
-post_id: "151"
 tags:
   - huis
 title: Sleuteloverdracht

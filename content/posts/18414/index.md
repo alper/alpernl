@@ -6,9 +6,6 @@ categories:
   - politics
   - san-francisco
 date: "2025-10-24T09:56:53+00:00"
-guid: https://alper.nl/dingen/?p=18414
-parent_post_id: null
-post_id: "18414"
 title: ""
 aliases:
   - /dingen/2025/10/18414/

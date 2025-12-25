@@ -4,9 +4,6 @@ categories:
   - english
   - leadership
 date: "2021-10-21T19:17:32+00:00"
-guid: https://alper.nl/dingen/?p=16608
-parent_post_id: null
-post_id: "16608"
 title: Barrels and Ammunition
 aliases:
   - /dingen/2021/10/barrels-and-ammunition/

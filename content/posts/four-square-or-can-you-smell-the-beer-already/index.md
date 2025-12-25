@@ -7,9 +7,6 @@ categories:
   - the-city
   - work
 date: "2009-07-23T13:44:46+00:00"
-guid: http://alper.nl/dingen/?p=1139
-parent_post_id: null
-post_id: "1139"
 title: Four Square or can you smell the beer already?
 aliases:
   - /dingen/2009/07/four-square-or-can-you-smell-the-beer-already/

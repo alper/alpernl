@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2013-03-04T15:59:42+00:00"
-guid: http://alper.nl/dingen/?p=4376
-parent_post_id: null
-post_id: "4376"
 title: Hosting on Heroku with functioning MX records
 aliases:
   - /dingen/2013/03/hosting-on-heroku-with-functioning-mx-records/

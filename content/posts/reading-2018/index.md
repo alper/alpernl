@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-01-03T20:58:30+00:00"
-guid: http://alper.nl/dingen/?p=6091
-parent_post_id: null
-post_id: "6091"
 title: Reading 2018
 aliases:
   - /dingen/2019/01/reading-2018/

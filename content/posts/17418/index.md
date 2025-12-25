@@ -6,9 +6,6 @@ categories:
   - the-city
   - tokyo
 date: "2024-01-17T17:44:07+00:00"
-guid: https://alper.nl/dingen/?p=17418
-parent_post_id: null
-post_id: "17418"
 title: ""
 aliases:
   - /dingen/2024/01/17418/

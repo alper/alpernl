@@ -4,9 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-05-25T21:06:58+00:00"
-guid: http://alper.nl/dingen/?p=302
-parent_post_id: null
-post_id: "302"
 tags:
   - drinken
 title: Terras

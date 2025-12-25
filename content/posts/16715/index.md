@@ -6,9 +6,6 @@ categories:
   - nederlands
   - reading
 date: "2022-03-06T11:45:38+00:00"
-guid: https://alper.nl/dingen/?p=16715
-parent_post_id: null
-post_id: "16715"
 title: ""
 aliases:
   - /dingen/2022/03/16715/

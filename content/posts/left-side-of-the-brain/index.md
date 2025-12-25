@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-20T20:08:42+00:00"
-guid: http://alper.nl/dingen/2007/12/left-side-of-the-brain/
-parent_post_id: null
-post_id: "203"
 tags:
   - muziek
 title: Left side of the brain

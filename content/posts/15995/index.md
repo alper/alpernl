@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2020-02-08T23:16:30+00:00"
-guid: http://alper.nl/dingen/?p=15995
-parent_post_id: null
-post_id: "15995"
 title: ""
 aliases:
   - /dingen/2020/02/15995/

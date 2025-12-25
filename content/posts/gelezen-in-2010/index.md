@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2011-01-02T21:32:34+00:00"
-guid: http://alper.nl/dingen/?p=2370
-parent_post_id: null
-post_id: "2370"
 title: Gelezen in 2010
 aliases:
   - /dingen/2011/01/gelezen-in-2010/

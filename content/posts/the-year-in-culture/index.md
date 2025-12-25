@@ -5,9 +5,6 @@ categories:
   - reading
   - video
 date: "2015-12-31T15:22:50+00:00"
-guid: http://alper.nl/dingen/?p=5450
-parent_post_id: null
-post_id: "5450"
 title: The year in culture
 aliases:
   - /dingen/2015/12/the-year-in-culture/

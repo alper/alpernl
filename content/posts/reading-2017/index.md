@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-12-31T20:38:00+00:00"
-guid: http://alper.nl/dingen/?p=5917
-parent_post_id: null
-post_id: "5917"
 title: Reading 2017
 aliases:
   - /dingen/2017/12/reading-2017/

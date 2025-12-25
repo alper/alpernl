@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-12-15T12:27:01+00:00"
-guid: http://alper.nl/dingen/?p=1409
-parent_post_id: null
-post_id: "1409"
 title: Noord-Zuid-Lijn hard doorzetten
 aliases:
   - /dingen/2009/12/noord-zuid-lijn-hard-doorzetten/

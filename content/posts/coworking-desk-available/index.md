@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2008-10-03T16:59:17+00:00"
-guid: http://alper.nl/dingen/?p=540
-parent_post_id: null
-post_id: "540"
 title: Coworking Desk Available
 aliases:
   - /dingen/2008/10/coworking-desk-available/

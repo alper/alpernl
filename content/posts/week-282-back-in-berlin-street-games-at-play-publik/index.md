@@ -8,9 +8,6 @@ categories:
   - travel
   - work
 date: "2012-08-18T08:00:20+00:00"
-guid: http://alper.nl/dingen/?p=3775
-parent_post_id: null
-post_id: "3775"
 tags:
   - weeknotes
 title: 'Week 282: back in Berlin, street games at Play Publik'

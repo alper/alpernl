@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-08-14T12:03:56+00:00"
-guid: http://alper.nl/dingen/?p=6031
-parent_post_id: null
-post_id: "6031"
 title: Highlights for Why We Sleep
 aliases:
   - /dingen/2018/07/highlights-for-why-we-sleep/

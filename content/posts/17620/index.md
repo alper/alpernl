@@ -6,9 +6,6 @@ categories:
   - politics
   - video
 date: "2024-10-03T01:07:17+00:00"
-guid: https://alper.nl/dingen/?p=17620
-parent_post_id: null
-post_id: "17620"
 title: ""
 aliases:
   - /dingen/2024/10/17620/

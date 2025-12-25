@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2015-05-28T13:18:43+00:00"
-guid: http://alper.nl/dingen/?p=5215
-parent_post_id: null
-post_id: "5215"
 title: Encounter Zone MaaÃŸenstraÃŸe
 aliases:
   - /dingen/2015/05/encounter-zone-maasenstrase/

@@ -5,9 +5,6 @@ categories:
   - podcast
   - politics
 date: "2025-09-27T11:54:47+00:00"
-guid: https://alper.nl/dingen/?p=18354
-parent_post_id: null
-post_id: "18354"
 title: ""
 aliases:
   - /dingen/2025/09/18354/

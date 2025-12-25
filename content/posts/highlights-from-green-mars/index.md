@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-01-01T11:58:24+00:00"
-guid: http://alper.nl/dingen/?p=5681
-parent_post_id: null
-post_id: "5681"
 title: Highlights from Green Mars
 aliases:
   - /dingen/2017/01/highlights-from-green-mars/

@@ -4,9 +4,6 @@ categories:
   - english
   - photography
 date: "2010-02-04T14:22:19+00:00"
-guid: http://alper.nl/dingen/?p=1551
-parent_post_id: null
-post_id: "1551"
 title: Let it rain
 aliases:
   - /dingen/2010/02/let-it-rain/

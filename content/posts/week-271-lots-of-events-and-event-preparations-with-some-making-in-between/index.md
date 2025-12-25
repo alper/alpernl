@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-27T21:44:01+00:00"
-guid: http://alper.nl/dingen/?p=3570
-parent_post_id: null
-post_id: "3570"
 tags:
   - weeknotes
 title: 'Week 271: lots of events and event preparations with some making in between'

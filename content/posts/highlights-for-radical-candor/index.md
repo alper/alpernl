@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2018-06-25T07:45:49+00:00"
-guid: http://alper.nl/dingen/?p=6024
-parent_post_id: null
-post_id: "6024"
 title: Highlights for Radical Candor
 aliases:
   - /dingen/2018/06/highlights-for-radical-candor/

@@ -4,9 +4,6 @@ categories:
   - amsterdam
   - nederlands
 date: "2023-02-04T09:54:32+00:00"
-guid: https://alper.nl/dingen/?p=17012
-parent_post_id: null
-post_id: "17012"
 title: ""
 aliases:
   - /dingen/2023/02/17012/

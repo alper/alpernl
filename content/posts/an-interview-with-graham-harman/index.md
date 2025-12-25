@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2012-06-02T12:34:43+00:00"
-guid: http://alper.nl/dingen/?p=3587
-parent_post_id: null
-post_id: "3587"
 title: An interview with Graham Harman
 aliases:
   - /dingen/2012/06/an-interview-with-graham-harman/

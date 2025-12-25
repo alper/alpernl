@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-11-07T15:50:34+00:00"
-guid: http://alper.nl/dingen/?p=4470
-parent_post_id: null
-post_id: "4470"
 title: Highlights from Infinite Jest by David Foster Wallace
 aliases:
   - /dingen/2013/11/highlights-from-infinite-jest-by-david-foster-wallace/

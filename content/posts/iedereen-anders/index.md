@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-12-16T13:24:46+00:00"
-guid: http://alper.nl/dingen/2007/12/iedereen-anders/
-parent_post_id: null
-post_id: "200"
 tags:
   - apple
   - computers

@@ -5,9 +5,6 @@ categories:
   - politics
   - product-/-design
 date: "2010-02-27T19:07:24+00:00"
-guid: http://alper.nl/dingen/?p=1597
-parent_post_id: null
-post_id: "1597"
 title: Verkiezingen
 aliases:
   - /dingen/2010/02/verkiezingen/

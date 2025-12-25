@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-02-08T06:59:27+00:00"
-guid: http://alper.nl/dingen/?p=3311
-parent_post_id: null
-post_id: "3311"
 title: 'Week 255: Games, hacks, art and coworking'
 aliases:
   - /dingen/2012/02/week-255/

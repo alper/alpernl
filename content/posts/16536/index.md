@@ -7,9 +7,6 @@ categories:
   - games
   - new-york
 date: "2021-07-03T15:47:26+00:00"
-guid: https://alper.nl/dingen/?p=16536
-parent_post_id: null
-post_id: "16536"
 title: ""
 aliases:
   - /dingen/2021/07/16536/

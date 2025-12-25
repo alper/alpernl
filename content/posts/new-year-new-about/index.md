@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2011-08-25T10:47:22+00:00"
-guid: http://alper.nl/dingen/?p=2760
-parent_post_id: null
-post_id: "2760"
 title: New year, new about
 aliases:
   - /dingen/2011/08/new-year-new-about/

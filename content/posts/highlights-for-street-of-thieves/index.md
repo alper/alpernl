@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-03-12T22:14:10+00:00"
-guid: http://alper.nl/dingen/?p=15249
-parent_post_id: null
-post_id: "15249"
 title: Highlights for Street of Thieves
 aliases:
   - /dingen/2019/03/highlights-for-street-of-thieves/

@@ -5,9 +5,6 @@ categories:
   - internet
   - product-/-design
 date: "2009-09-25T09:36:50+00:00"
-guid: http://alper.nl/dingen/?p=1227
-parent_post_id: null
-post_id: "1227"
 title: Locative privacy measures
 aliases:
   - /dingen/2009/09/locative-privacy-measures/

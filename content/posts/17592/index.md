@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2024-08-29T20:46:13+00:00"
-guid: https://alper.nl/dingen/?p=17592
-parent_post_id: null
-post_id: "17592"
 title: ""
 aliases:
   - /dingen/2024/08/17592/

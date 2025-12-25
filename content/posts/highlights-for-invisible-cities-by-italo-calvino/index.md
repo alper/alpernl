@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-06T15:39:13+00:00"
-guid: http://alper.nl/dingen/?p=5613
-parent_post_id: null
-post_id: "5613"
 title: Highlights for Invisible Cities by Italo Calvino
 aliases:
   - /dingen/2016/09/highlights-for-invisible-cities-by-italo-calvino/

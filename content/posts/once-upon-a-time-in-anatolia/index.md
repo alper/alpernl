@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2015-01-19T09:06:46+00:00"
-guid: http://alper.nl/dingen/?p=5112
-parent_post_id: null
-post_id: "5112"
 title: Once Upon a Time in Anatolia
 aliases:
   - /dingen/2015/01/once-upon-a-time-in-anatolia/

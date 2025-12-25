@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-07-25T07:30:33+00:00"
-guid: http://alper.nl/dingen/?p=3696
-parent_post_id: null
-post_id: "3696"
 tags:
   - weeknotes
 title: 'Week 278: talking, finishing and traveling'

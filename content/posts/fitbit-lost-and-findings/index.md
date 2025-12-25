@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - sports
 date: "2012-05-05T20:41:50+00:00"
-guid: http://alper.nl/dingen/?p=2625
-parent_post_id: null
-post_id: "2625"
 title: Fitbit lost and findings
 aliases:
   - /dingen/2011/05/fitbit-lost-and-findings/

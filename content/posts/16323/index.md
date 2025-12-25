@@ -4,9 +4,6 @@ categories:
   - english
   - sports
 date: "2020-10-04T10:35:45+00:00"
-guid: http://alper.nl/dingen/?p=16323
-parent_post_id: null
-post_id: "16323"
 title: ""
 aliases:
   - /dingen/2020/10/16323/

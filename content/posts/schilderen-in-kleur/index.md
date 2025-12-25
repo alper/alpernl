@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-22T21:14:27+00:00"
-guid: http://alper.nl/dingen/2007/10/schilderen-in-kleur/
-parent_post_id: null
-post_id: "168"
 tags:
   - huis
 title: Schilderen in kleur

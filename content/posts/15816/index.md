@@ -7,9 +7,6 @@ categories:
   - music
   - product-/-design
 date: "2019-11-10T09:21:34+00:00"
-guid: http://alper.nl/dingen/?p=15816
-parent_post_id: null
-post_id: "15816"
 title: ""
 aliases:
   - /dingen/2019/11/15816/

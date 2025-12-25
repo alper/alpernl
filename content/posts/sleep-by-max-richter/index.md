@@ -5,9 +5,6 @@ categories:
   - english
   - music
 date: "2016-03-18T07:33:51+00:00"
-guid: http://alper.nl/dingen/?p=5513
-parent_post_id: null
-post_id: "5513"
 title: Sleep by Max Richter
 aliases:
   - /dingen/2016/03/sleep-by-max-richter/

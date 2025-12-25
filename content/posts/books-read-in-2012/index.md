@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-01-29T08:06:43+00:00"
-guid: http://alper.nl/dingen/?p=4218
-parent_post_id: null
-post_id: "4218"
 title: Books read in 2012
 aliases:
   - /dingen/2013/01/books-read-in-2012/

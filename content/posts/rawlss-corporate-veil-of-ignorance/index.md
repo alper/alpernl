@@ -3,9 +3,6 @@ author: alper
 categories:
   - work
 date: "2018-05-03T06:55:21+00:00"
-guid: http://alper.nl/dingen/?p=5986
-parent_post_id: null
-post_id: "5986"
 title: Rawls's Corporate Veil of Ignorance
 aliases:
   - /dingen/2018/05/rawlss-corporate-veil-of-ignorance/

@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2015-08-14T09:14:54+00:00"
-guid: http://alper.nl/dingen/?p=5237
-parent_post_id: null
-post_id: "5237"
 title: The redesign of Moritzplatz roundabout
 aliases:
   - /dingen/2015/08/the-redesign-of-moritzplatz-roundabout/

@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - software-engineering
 date: "2019-05-02T21:33:17+00:00"
-guid: http://alper.nl/dingen/?p=15380
-parent_post_id: null
-post_id: "15380"
 title: ""
 aliases:
   - /dingen/2019/05/15380/

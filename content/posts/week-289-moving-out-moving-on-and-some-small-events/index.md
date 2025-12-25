@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - work
 date: "2012-10-02T09:36:24+00:00"
-guid: http://alper.nl/dingen/?p=3899
-parent_post_id: null
-post_id: "3899"
 tags:
   - weeknotes
 title: 'Week 289: moving out, moving on and some small events'

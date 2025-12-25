@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-06T21:32:08+00:00"
-guid: http://alper.nl/dingen/?p=5615
-parent_post_id: null
-post_id: "5615"
 title: Highlights from Ancillary Justice by Ann Leckie
 aliases:
   - /dingen/2016/09/highlights-from-ancillary-justice-by-ann-leckie/

@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2013-01-17T18:23:30+00:00"
-guid: http://alper.nl/dingen/?p=4194
-parent_post_id: null
-post_id: "4194"
 tags:
   - weeknotes
 title: Week 304

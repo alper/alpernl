@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2022-07-22T21:50:45+00:00"
-guid: https://alper.nl/dingen/?p=16827
-parent_post_id: null
-post_id: "16827"
 title: Highlights for Executive Presence
 aliases:
   - /dingen/2022/07/highlights-for-executive-presence/

@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2010-11-30T11:15:44+00:00"
-guid: http://alper.nl/dingen/?p=2303
-parent_post_id: null
-post_id: "2303"
 tags:
   - this-happened
   - utrecht

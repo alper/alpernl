@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2014-02-21T12:44:09+00:00"
-guid: http://alper.nl/dingen/?p=4897
-parent_post_id: null
-post_id: "4897"
 title: We don't need saddles nor do we need faster horses
 aliases:
   - /dingen/2014/02/we-dont-need-saddles-nor-do-we-need-faster-horses/

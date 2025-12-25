@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2013-05-20T09:40:28+00:00"
-guid: http://alper.nl/dingen/?p=4594
-parent_post_id: null
-post_id: "4594"
 tags:
   - weeknotes
 title: Week 321

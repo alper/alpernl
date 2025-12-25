@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-22T23:54:28+00:00"
-guid: http://alper.nl/dingen/2007/12/hocus-focus-filatus-tas/
-parent_post_id: null
-post_id: "209"
 tags:
   - eelke-dekker
   - fotografie

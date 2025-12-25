@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2022-10-06T18:29:36+00:00"
-guid: https://alper.nl/dingen/?p=16877
-parent_post_id: null
-post_id: "16877"
 title: ""
 aliases:
   - /dingen/2022/10/16877/

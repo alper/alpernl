@@ -5,9 +5,6 @@ categories:
   - nederlands
   - work
 date: "2010-10-27T13:48:50+00:00"
-guid: http://alper.nl/dingen/?p=2251
-parent_post_id: null
-post_id: "2251"
 title: TipiT
 aliases:
   - /dingen/2010/10/tipit/

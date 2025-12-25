@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-10-06T20:24:50+00:00"
-guid: http://alper.nl/dingen/?p=5846
-parent_post_id: null
-post_id: "5846"
 title: Highlights from Rules for Radicals
 aliases:
   - /dingen/2017/10/highlights-from-rules-for-radicals/

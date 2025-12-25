@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2009-02-05T10:12:02+00:00"
-guid: http://alper.nl/dingen/?p=751
-parent_post_id: null
-post_id: "751"
 title: Dichter des Vaderlands
 aliases:
   - /dingen/2009/02/dichter-des-vaderlands/

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2024-09-12T07:51:49+00:00"
-guid: https://alper.nl/dingen/?p=17600
-parent_post_id: null
-post_id: "17600"
 title: Waarom ik geen ID-Check kan gebruiken
 aliases:
   - /dingen/2024/09/waarom-ik-geen-id-check-kan-gebruiken/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2015-01-20T08:13:11+00:00"
-guid: http://alper.nl/dingen/?p=5114
-parent_post_id: null
-post_id: "5114"
 title: Caché and French history
 aliases:
   - /dingen/2015/01/cache-and-french-history/

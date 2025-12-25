@@ -5,9 +5,6 @@ categories:
   - english
   - games
 date: "2024-03-03T22:44:52+00:00"
-guid: https://alper.nl/dingen/?p=17468
-parent_post_id: null
-post_id: "17468"
 title: Death Stranding
 aliases:
   - /dingen/2024/03/death-stranding/

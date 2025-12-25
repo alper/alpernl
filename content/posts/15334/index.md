@@ -6,9 +6,6 @@ categories:
   - software-engineering
   - video
 date: "2019-04-19T20:49:11+00:00"
-guid: http://alper.nl/dingen/?p=15334
-parent_post_id: null
-post_id: "15334"
 title: ""
 aliases:
   - /dingen/2019/04/15334/

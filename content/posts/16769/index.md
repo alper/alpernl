@@ -5,9 +5,6 @@ categories:
   - food
   - tokyo
 date: "2022-04-09T22:38:35+00:00"
-guid: https://alper.nl/dingen/?p=16769
-parent_post_id: null
-post_id: "16769"
 title: ""
 aliases:
   - /dingen/2022/04/16769/

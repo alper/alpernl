@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2008-09-10T16:20:54+00:00"
-guid: http://alper.nl/dingen/?p=511
-parent_post_id: null
-post_id: "511"
 title: Note for English language readers
 aliases:
   - /dingen/2008/09/note-for-english-language-readers/

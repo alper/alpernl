@@ -5,9 +5,6 @@ categories:
   - leadership
   - reading
 date: "2021-02-17T15:26:24+00:00"
-guid: https://alper.nl/dingen/?p=16431
-parent_post_id: null
-post_id: "16431"
 title: Highlights for Nine Lies About Work
 aliases:
   - /dingen/2021/02/highlights-for-nine-lies-about-work/

@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2013-09-13T05:04:04+00:00"
-guid: http://alper.nl/dingen/?p=4751
-parent_post_id: null
-post_id: "4751"
 title: Week 334
 aliases:
   - /dingen/2013/09/week-334/

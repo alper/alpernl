@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-05-08T13:55:43+00:00"
-guid: http://alper.nl/dingen/?p=292
-parent_post_id: null
-post_id: "292"
 tags:
   - afghanistan
   - arnold-karskens

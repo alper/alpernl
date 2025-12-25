@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-06-18T21:39:21+00:00"
-guid: http://alper.nl/dingen/?p=1057
-parent_post_id: null
-post_id: "1057"
 title: Bewakers van de journalistiek
 aliases:
   - /dingen/2009/06/bewakers-van-de-journalistiek/

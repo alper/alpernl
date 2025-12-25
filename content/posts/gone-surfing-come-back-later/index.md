@@ -5,9 +5,6 @@ categories:
   - sports
   - travel
 date: "2009-10-31T17:04:41+00:00"
-guid: http://alper.nl/dingen/?p=1367
-parent_post_id: null
-post_id: "1367"
 title: Gone surfing, come back later
 aliases:
   - /dingen/2009/10/gone-surfing-come-back-later/

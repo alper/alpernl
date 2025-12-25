@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - video
 date: "2009-01-28T17:09:19+00:00"
-guid: http://alper.nl/dingen/?p=739
-parent_post_id: null
-post_id: "739"
 title: Film en beelden in de stad
 aliases:
   - /dingen/2009/01/film-en-beelden-in-de-stad/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - nederlands
 date: "2010-05-15T14:46:53+00:00"
-guid: http://alper.nl/dingen/?p=1796
-parent_post_id: null
-post_id: "1796"
 title: De zeer geringe nieuwswaarde van rampen
 aliases:
   - /dingen/2010/05/de-zeer-geringe-nieuwswaarde-van-rampen/

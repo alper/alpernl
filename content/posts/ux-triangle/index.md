@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2010-06-24T06:55:20+00:00"
-guid: http://alper.nl/dingen/?p=1909
-parent_post_id: null
-post_id: "1909"
 title: UX Triangle
 aliases:
   - /dingen/2010/06/ux-triangle/

@@ -5,9 +5,6 @@ categories:
   - kids
   - music
 date: "2019-05-26T18:19:37+00:00"
-guid: https://alper.nl/dingen/?p=15443
-parent_post_id: null
-post_id: "15443"
 title: To Christiania!
 aliases:
   - /dingen/2019/05/to-christiania/

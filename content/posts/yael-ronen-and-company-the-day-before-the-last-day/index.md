@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2012-03-08T08:20:03+00:00"
-guid: http://alper.nl/dingen/?p=3384
-parent_post_id: null
-post_id: "3384"
 title: Yael Ronen and Company - The Day Before the Last Day
 aliases:
   - /dingen/2012/03/yael-ronen-and-company-the-day-before-the-last-day/

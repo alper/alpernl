@@ -7,9 +7,6 @@ categories:
   - politics
   - product-/-design
 date: "2010-10-19T22:09:24+00:00"
-guid: http://alper.nl/dingen/?p=2190
-parent_post_id: null
-post_id: "2190"
 title: "Eben Moglen — “Will the net empower the center or the ends?â€\x9D"
 aliases:
   - /dingen/2010/10/eben-moglen/

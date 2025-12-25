@@ -5,9 +5,6 @@ categories:
   - english
   - photography
 date: "2009-08-25T23:35:04+00:00"
-guid: http://alper.nl/dingen/?p=1179
-parent_post_id: null
-post_id: "1179"
 title: Playing capoeira and eating lots of meat
 aliases:
   - /dingen/2009/08/playing-capoeira-and-eating-lots-of-meat/

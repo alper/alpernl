@@ -6,9 +6,6 @@ categories:
   - english
   - internet
 date: "2021-03-17T10:24:19+00:00"
-guid: https://alper.nl/dingen/?p=16443
-parent_post_id: null
-post_id: "16443"
 title: ""
 aliases:
   - /dingen/2021/03/16443/

@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-09T12:41:20+00:00"
-guid: http://alper.nl/dingen/?p=5624
-parent_post_id: null
-post_id: "5624"
 title: Highlights from Science, Strategy and War by Frans Osinga
 aliases:
   - /dingen/2016/09/highlights-from-science-strategy-and-war-by-frans-osinga/

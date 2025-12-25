@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - work
 date: "2012-01-14T07:01:06+00:00"
-guid: http://alper.nl/dingen/?p=3236
-parent_post_id: null
-post_id: "3236"
 title: Week 251
 aliases:
   - /dingen/2012/01/week-251/

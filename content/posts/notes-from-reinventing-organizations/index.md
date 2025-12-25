@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-10-29T09:02:05+00:00"
-guid: http://alper.nl/dingen/?p=5853
-parent_post_id: null
-post_id: "5853"
 title: Highlights from Reinventing Organizations
 aliases:
   - /dingen/2017/10/notes-from-reinventing-organizations/

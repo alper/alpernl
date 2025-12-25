@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-09T21:35:09+00:00"
-guid: http://alper.nl/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/
-parent_post_id: null
-post_id: "63"
 tags:
   - koken
   - recept

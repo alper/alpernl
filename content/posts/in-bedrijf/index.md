@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-11-20T18:01:15+00:00"
-guid: http://alper.nl/dingen/2007/11/in-bedrijf/
-parent_post_id: null
-post_id: "187"
 tags:
   - internet
   - werken

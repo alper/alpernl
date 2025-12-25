@@ -5,9 +5,6 @@ categories:
   - english
   - food
 date: "2008-07-31T21:18:45+00:00"
-guid: http://alper.nl/dingen/?p=339
-parent_post_id: null
-post_id: "339"
 tags:
   - baklava
   - environment

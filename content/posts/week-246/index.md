@@ -4,9 +4,6 @@ categories:
   - english
   - monster-swell
 date: "2011-12-14T14:02:28+00:00"
-guid: http://alper.nl/dingen/?p=3139
-parent_post_id: null
-post_id: "3139"
 tags:
   - weeknotes
 title: Week 246

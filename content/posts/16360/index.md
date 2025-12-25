@@ -4,9 +4,6 @@ categories:
   - english
   - leadership
 date: "2020-10-25T21:20:00+00:00"
-guid: http://www.alper.nl/dingen/?p=16360
-parent_post_id: null
-post_id: "16360"
 title: ""
 aliases:
   - /dingen/2020/10/16360/

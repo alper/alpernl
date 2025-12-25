@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-12T03:10:30+00:00"
-guid: http://alper.nl/dingen/2007/09/het-gras-is-altijd-groener/
-parent_post_id: null
-post_id: "125"
 tags:
   - reizen
   - zomerreis-2007

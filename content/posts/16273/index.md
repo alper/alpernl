@@ -6,9 +6,6 @@ categories:
   - photography
   - travel
 date: "2020-09-06T19:57:23+00:00"
-guid: http://alper.nl/dingen/?p=16273
-parent_post_id: null
-post_id: "16273"
 title: ""
 aliases:
   - /dingen/2020/09/16273/

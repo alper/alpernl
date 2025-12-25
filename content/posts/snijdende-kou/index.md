@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-20T07:25:13+00:00"
-guid: http://alper.nl/dingen/2007/12/snijdende-kou/
-parent_post_id: null
-post_id: "204"
 tags:
   - huis
   - milieu

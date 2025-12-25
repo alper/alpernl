@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2012-11-20T14:52:01+00:00"
-guid: http://alper.nl/dingen/?p=3982
-parent_post_id: null
-post_id: "3982"
 title: Monocle-isms
 aliases:
   - /dingen/2012/11/monocle-isms/

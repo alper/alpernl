@@ -5,9 +5,6 @@ categories:
   - leadership
   - reading
 date: "2020-05-10T08:59:14+00:00"
-guid: http://alper.nl/dingen/?p=16089
-parent_post_id: null
-post_id: "16089"
 title: ""
 aliases:
   - /dingen/2020/05/16089/

@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2023-02-17T15:18:29+00:00"
-guid: https://alper.nl/dingen/?p=17053
-parent_post_id: null
-post_id: "17053"
 title: ""
 aliases:
   - /dingen/2023/02/17053/

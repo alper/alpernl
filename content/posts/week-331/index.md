@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2013-08-19T07:28:03+00:00"
-guid: http://alper.nl/dingen/?p=4713
-parent_post_id: null
-post_id: "4713"
 tags:
   - weeknotes
 title: Week 331

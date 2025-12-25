@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-14T15:15:32+00:00"
-guid: http://alper.nl/dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/
-parent_post_id: null
-post_id: "234"
 tags:
   - ondernemen
   - openbaar-vervoer

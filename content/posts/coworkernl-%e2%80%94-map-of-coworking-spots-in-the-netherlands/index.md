@@ -5,9 +5,6 @@ categories:
   - internet
   - monster-swell
 date: "2010-03-30T15:37:44+00:00"
-guid: http://alper.nl/dingen/?p=333
-parent_post_id: null
-post_id: "333"
 tags:
   - coworker.nl
   - coworking

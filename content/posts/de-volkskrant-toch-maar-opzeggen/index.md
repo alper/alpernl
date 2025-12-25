@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-19T00:42:32+00:00"
-guid: http://alper.nl/dingen/2007/06/de-volkskrant-toch-maar-opzeggen/
-parent_post_id: null
-post_id: "72"
 tags:
   - computers
   - internet

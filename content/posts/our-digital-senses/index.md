@@ -5,9 +5,6 @@ categories:
   - internet
   - monster-swell
 date: "2008-11-05T21:16:51+00:00"
-guid: http://alper.nl/dingen/?p=570
-parent_post_id: null
-post_id: "570"
 title: Our digital senses
 aliases:
   - /dingen/2008/11/our-digital-senses/

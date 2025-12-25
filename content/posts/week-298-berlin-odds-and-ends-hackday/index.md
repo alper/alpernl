@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-12-07T23:21:59+00:00"
-guid: http://alper.nl/dingen/?p=4030
-parent_post_id: null
-post_id: "4030"
 tags:
   - weeknotes
 title: 'Week 298: Berlin odds and ends, hackday'

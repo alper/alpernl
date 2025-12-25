@@ -7,9 +7,6 @@ categories:
   - the-city
   - video
 date: "2010-01-14T01:31:40+00:00"
-guid: http://alper.nl/dingen/?p=1498
-parent_post_id: null
-post_id: "1498"
 title: Foursquare nu in beeld
 aliases:
   - /dingen/2010/01/foursquare-nu-in-beeld/

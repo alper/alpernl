@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-10-23T10:21:48+00:00"
-guid: http://alper.nl/dingen/?p=2227
-parent_post_id: null
-post_id: "2227"
 title: Design Mind Salon - The Quotable Buxton
 aliases:
   - /dingen/2010/10/design-mind-salon-the-quotable-buxton/

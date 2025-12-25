@@ -7,9 +7,6 @@ categories:
   - poetry
   - reading
 date: "2024-10-29T18:03:02+00:00"
-guid: https://alper.nl/dingen/?p=17639
-parent_post_id: null
-post_id: "17639"
 title: ""
 aliases:
   - /dingen/2024/10/17639/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-12T13:37:09+00:00"
-guid: http://alper.nl/dingen/2007/09/het-verkeer-in-syrie-is-gekkenwerk/
-parent_post_id: null
-post_id: "119"
 tags:
   - reizen
   - zomerreis-2007

@@ -5,9 +5,6 @@ categories:
   - english
   - video
 date: "2012-09-27T20:17:39+00:00"
-guid: http://alper.nl/dingen/?p=3890
-parent_post_id: null
-post_id: "3890"
 title: PIVOT over Berlin
 aliases:
   - /dingen/2012/09/pivot-over-berlin/

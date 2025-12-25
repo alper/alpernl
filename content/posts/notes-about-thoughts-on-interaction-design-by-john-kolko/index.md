@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - reading
 date: "2011-06-08T11:46:33+00:00"
-guid: http://alper.nl/dingen/?p=2647
-parent_post_id: null
-post_id: "2647"
 title: Notes about Thoughts on Interaction Design by John Kolko
 aliases:
   - /dingen/2011/06/notes-about-thoughts-on-interaction-design-by-john-kolko/

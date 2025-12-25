@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2008-09-03T08:25:36+00:00"
-guid: http://alper.nl/dingen/?p=376
-parent_post_id: null
-post_id: "376"
 tags:
   - reading
 title: Books read August 2008

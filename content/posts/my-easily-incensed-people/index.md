@@ -6,9 +6,6 @@ categories:
   - english
   - turkish
 date: "2019-11-16T13:52:21+00:00"
-guid: https://alper.nl/dingen/2019/11/my-easily-incensed-people/
-parent_post_id: null
-post_id: "15837"
 title: My easily incensed people
 aliases:
   - /dingen/2019/11/my-easily-incensed-people/

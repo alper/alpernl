@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - nederlands
 date: "2009-04-20T20:16:48+00:00"
-guid: http://alper.nl/dingen/?p=938
-parent_post_id: null
-post_id: "938"
 title: Inspiratie voor mobiele diensten
 aliases:
   - /dingen/2009/04/inspiratie-voor-mobiele-diensten/

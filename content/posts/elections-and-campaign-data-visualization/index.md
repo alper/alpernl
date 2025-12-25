@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - product-/-design
 date: "2010-05-05T02:50:57+00:00"
-guid: http://alper.nl/dingen/?p=1750
-parent_post_id: null
-post_id: "1750"
 title: Elections and Campaign Data Visualization
 aliases:
   - /dingen/2010/05/elections-and-campaign-data-visualization/

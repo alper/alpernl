@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-08-05T23:21:05+00:00"
-guid: http://alper.nl/dingen/2007/07/openid-een-robuuste-open-manier-van-single-sign-on/
-parent_post_id: null
-post_id: "97"
 tags:
   - computers
   - internet

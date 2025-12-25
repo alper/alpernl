@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-01-20T23:56:14+00:00"
-guid: http://alper.nl/dingen/?p=1532
-parent_post_id: null
-post_id: "1532"
 title: Een bar en boos klimaat voor privacy
 aliases:
   - /dingen/2010/01/een-bar-en-boos-klimaat-voor-privacy/

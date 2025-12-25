@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-05T22:34:44+00:00"
-guid: http://alper.nl/dingen/2007/08/nog-steeds-geneest-god/
-parent_post_id: null
-post_id: "112"
 tags:
   - filosofie
   - religie

@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-11-27T07:30:21+00:00"
-guid: http://alper.nl/dingen/?p=4013
-parent_post_id: null
-post_id: "4013"
 tags:
   - weeknotes
 title: 'Week 297: getting back into the groove'

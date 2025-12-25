@@ -5,9 +5,6 @@ categories:
   - kids
   - nederlands
 date: "2019-05-01T10:32:23+00:00"
-guid: http://alper.nl/dingen/?p=15372
-parent_post_id: null
-post_id: "15372"
 title: Toddler Counting 123
 aliases:
   - /dingen/2019/05/toddler-counting-123/

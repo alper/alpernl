@@ -3,9 +3,6 @@ author: alper
 categories:
   - nederlands
 date: "2008-05-04T01:54:31+00:00"
-guid: http://alper.nl/dingen/?p=287
-parent_post_id: null
-post_id: "287"
 tags:
   - uncategorized
 title: Wat je zaait

@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-10-12T18:33:28+00:00"
-guid: http://alper.nl/dingen/?p=554
-parent_post_id: null
-post_id: "554"
 title: hAvatar reprise on FOWA
 aliases:
   - /dingen/2008/10/havatar-reprise-on-fowa/

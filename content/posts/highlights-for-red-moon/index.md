@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2019-02-09T13:34:22+00:00"
-guid: http://alper.nl/dingen/?p=6104
-parent_post_id: null
-post_id: "6104"
 title: Highlights for Red Moon
 aliases:
   - /dingen/2019/02/highlights-for-red-moon/

@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2010-12-06T13:05:45+00:00"
-guid: http://alper.nl/dingen/?p=2315
-parent_post_id: null
-post_id: "2315"
 title: Spook Country
 aliases:
   - /dingen/2010/12/spook-country/

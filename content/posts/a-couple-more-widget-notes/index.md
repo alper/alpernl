@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2009-05-28T12:34:10+00:00"
-guid: http://alper.nl/dingen/?p=1010
-parent_post_id: null
-post_id: "1010"
 title: A couple more widget notes
 aliases:
   - /dingen/2009/05/a-couple-more-widget-notes/

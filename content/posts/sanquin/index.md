@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2010-05-04T18:17:34+00:00"
-guid: http://alper.nl/dingen/?p=1758
-parent_post_id: null
-post_id: "1758"
 title: Sanquin
 aliases:
   - /dingen/2010/05/sanquin/

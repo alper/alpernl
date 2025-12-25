@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2008-02-14T12:59:27+00:00"
-guid: http://alper.nl/dingen/2008/02/fooien-geven/
-parent_post_id: null
-post_id: "258"
 tags:
   - internet
   - ondernemen

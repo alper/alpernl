@@ -5,9 +5,6 @@ categories:
   - english
   - travel
 date: "2013-08-26T07:15:32+00:00"
-guid: http://alper.nl/dingen/?p=4719
-parent_post_id: null
-post_id: "4719"
 tags:
   - weeknotes
 title: Week 332

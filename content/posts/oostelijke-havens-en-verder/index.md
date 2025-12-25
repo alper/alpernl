@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2010-06-18T07:00:26+00:00"
-guid: http://alper.nl/dingen/?p=1865
-parent_post_id: null
-post_id: "1865"
 title: Oostelijke Havens en verder
 aliases:
   - /dingen/2010/06/oostelijke-havens-en-verder/

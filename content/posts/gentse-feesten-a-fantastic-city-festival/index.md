@@ -3,9 +3,6 @@ author: alper
 categories:
   - travel
 date: "2012-08-08T11:55:40+00:00"
-guid: http://alper.nl/dingen/?p=3697
-parent_post_id: null
-post_id: "3697"
 title: 'Gentse Feesten: a fantastic city festival'
 aliases:
   - /dingen/2012/08/gentse-feesten-a-fantastic-city-festival/

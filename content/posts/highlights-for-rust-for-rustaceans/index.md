@@ -5,9 +5,6 @@ categories:
   - reading
   - software-engineering
 date: "2022-03-11T21:40:53+00:00"
-guid: https://alper.nl/dingen/?p=16749
-parent_post_id: null
-post_id: "16749"
 title: Highlights for Rust for Rustaceans
 aliases:
   - /dingen/2022/03/highlights-for-rust-for-rustaceans/

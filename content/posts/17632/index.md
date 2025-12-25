@@ -5,9 +5,6 @@ categories:
   - berlin
   - english
 date: "2024-10-10T20:04:04+00:00"
-guid: https://alper.nl/dingen/?p=17632
-parent_post_id: null
-post_id: "17632"
 title: ""
 aliases:
   - /dingen/2024/10/17632/

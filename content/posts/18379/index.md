@@ -5,9 +5,6 @@ categories:
   - deutsch
   - english
 date: "2025-10-15T16:27:11+00:00"
-guid: https://alper.nl/dingen/2025/10/18379/
-parent_post_id: null
-post_id: "18379"
 title: ""
 aliases:
   - /dingen/2025/10/18379/

@@ -4,9 +4,6 @@ categories:
   - english
   - the-city
 date: "2010-09-24T23:18:14+00:00"
-guid: http://alper.nl/dingen/?p=2135
-parent_post_id: null
-post_id: "2135"
 title: Hard to be a God
 aliases:
   - /dingen/2010/09/hard-to-be-a-god/

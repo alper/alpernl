@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-01T13:32:19+00:00"
-guid: http://alper.nl/dingen/?p=3525
-parent_post_id: null
-post_id: "3525"
 tags:
   - weeknotes
 title: 'Week 266: Django, iPhone programming and Quentin Meillassoux'

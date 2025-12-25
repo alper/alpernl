@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-06-06T09:34:02+00:00"
-guid: http://alper.nl/dingen/?p=4562
-parent_post_id: null
-post_id: "4562"
 title: Highlights from The Quantum Thief by Hannu Rajaniemi
 aliases:
   - /dingen/2013/06/the-quantum-thief-highlights/

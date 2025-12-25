@@ -4,9 +4,6 @@ categories:
   - nederlands
   - politics
 date: "2017-04-19T11:58:38+00:00"
-guid: http://alper.nl/dingen/2007/07/leon-de-winter-landverrader/
-parent_post_id: null
-post_id: "23"
 tags:
   - krant
   - politiek

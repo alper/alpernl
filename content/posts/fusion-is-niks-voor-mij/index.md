@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-09-27T12:29:27+00:00"
-guid: http://alper.nl/dingen/2007/09/fusion-is-niks-voor-mij/
-parent_post_id: null
-post_id: "139"
 tags:
   - eten
 title: Fusion is niks voor mij

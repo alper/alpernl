@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-05-02T11:40:40+00:00"
-guid: http://alper.nl/dingen/2007/05/pc-magazine-over-openid/
-parent_post_id: null
-post_id: "32"
 tags:
   - computers
   - internet

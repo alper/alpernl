@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2014-02-24T08:22:14+00:00"
-guid: http://alper.nl/dingen/?p=4869
-parent_post_id: null
-post_id: "4869"
 title: Highlights from The Unwinding by George Packer
 aliases:
   - /dingen/2014/02/notes-from-the-unwinding-by-george-packer/

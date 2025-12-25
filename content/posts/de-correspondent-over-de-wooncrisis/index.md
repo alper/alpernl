@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2024-02-17T11:34:41+00:00"
-guid: https://alper.nl/dingen/?p=17427
-parent_post_id: null
-post_id: "17427"
 title: De Correspondent over de Wooncrisis
 aliases:
   - /dingen/2024/02/de-correspondent-over-de-wooncrisis/

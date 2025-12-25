@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-05T12:43:47+00:00"
-guid: http://alper.nl/dingen/2007/06/dodelijk-ongelukken/
-parent_post_id: null
-post_id: "59"
 tags:
   - politiek
 title: Dodelijke ongelukken

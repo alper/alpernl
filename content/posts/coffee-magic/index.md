@@ -5,9 +5,6 @@ categories:
   - food
   - video
 date: "2011-05-19T20:03:16+00:00"
-guid: http://alper.nl/dingen/?p=2629
-parent_post_id: null
-post_id: "2629"
 title: Coffee Magic
 aliases:
   - /dingen/2011/05/coffee-magic/

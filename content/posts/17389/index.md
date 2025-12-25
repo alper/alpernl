@@ -7,9 +7,6 @@ categories:
   - politics
   - software-engineering
 date: "2024-01-05T12:11:35+00:00"
-guid: https://alper.nl/dingen/?p=17389
-parent_post_id: null
-post_id: "17389"
 title: ""
 aliases:
   - /dingen/2024/01/17389/

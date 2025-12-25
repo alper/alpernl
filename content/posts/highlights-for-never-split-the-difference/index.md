@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-12-27T21:51:12+00:00"
-guid: http://alper.nl/dingen/?p=5898
-parent_post_id: null
-post_id: "5898"
 title: Highlights for Never Split the Difference
 aliases:
   - /dingen/2017/12/highlights-for-never-split-the-difference/

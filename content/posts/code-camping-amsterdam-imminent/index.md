@@ -7,9 +7,6 @@ categories:
   - politics
   - product-/-design
 date: "2011-11-18T14:23:54+00:00"
-guid: http://alper.nl/dingen/?p=3091
-parent_post_id: null
-post_id: "3091"
 title: Code Camping Amsterdam Imminent
 aliases:
   - /dingen/2011/11/code-camping-amsterdam-imminent/

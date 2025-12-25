@@ -4,9 +4,6 @@ categories:
   - capoeira
   - internet
 date: "2007-07-11T12:15:40+00:00"
-guid: http://alper.nl/dingen/2007/07/capoeira-sites/
-parent_post_id: null
-post_id: "89"
 tags:
   - fotografie
   - internet

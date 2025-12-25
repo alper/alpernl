@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-10T21:40:14+00:00"
-guid: http://alper.nl/dingen/2007/05/mike-en-thomas-show/
-parent_post_id: null
-post_id: "42"
 tags:
   - humor
   - muziek

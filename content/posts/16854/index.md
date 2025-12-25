@@ -6,9 +6,6 @@ categories:
   - english
   - the-city
 date: "2022-09-25T11:55:02+00:00"
-guid: https://alper.nl/dingen/?p=16854
-parent_post_id: null
-post_id: "16854"
 title: ""
 aliases:
   - /dingen/2022/09/16854/

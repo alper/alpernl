@@ -5,9 +5,6 @@ categories:
   - games
   - sports
 date: "2015-08-12T10:41:56+00:00"
-guid: http://alper.nl/dingen/?p=5233
-parent_post_id: null
-post_id: "5233"
 title: The International 2015
 aliases:
   - /dingen/2015/08/the-international-2015/

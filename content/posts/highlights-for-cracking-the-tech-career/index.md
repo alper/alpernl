@@ -6,9 +6,6 @@ categories:
   - reading
   - work
 date: "2018-08-19T12:16:55+00:00"
-guid: http://alper.nl/dingen/?p=6028
-parent_post_id: null
-post_id: "6028"
 title: Highlights for Cracking the Tech Career
 aliases:
   - /dingen/2018/08/highlights-for-cracking-the-tech-career/

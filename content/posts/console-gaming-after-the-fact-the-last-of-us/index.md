@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2014-12-25T14:14:32+00:00"
-guid: http://alper.nl/dingen/?p=5091
-parent_post_id: null
-post_id: "5091"
 title: 'Console gaming after the fact: The Last of Us'
 aliases:
   - /dingen/2014/12/console-gaming-after-the-fact-the-last-of-us/

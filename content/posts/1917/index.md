@@ -5,9 +5,6 @@ categories:
   - politics
   - travel
 date: "2010-06-29T17:44:56+00:00"
-guid: http://alper.nl/dingen/?p=1917
-parent_post_id: null
-post_id: "1917"
 title: Hangjongeren
 aliases:
   - /dingen/2010/06/1917/

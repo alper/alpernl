@@ -6,9 +6,6 @@ categories:
   - reading
   - science
 date: "2024-12-27T20:22:46+00:00"
-guid: https://alper.nl/dingen/?p=17819
-parent_post_id: null
-post_id: "17819"
 title: Witches Kitchen
 aliases:
   - /dingen/2024/12/witchs-kitchen/

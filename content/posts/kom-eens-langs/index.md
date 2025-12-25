@@ -5,9 +5,6 @@ categories:
   - reading
   - turkish
 date: "2020-05-06T20:46:01+00:00"
-guid: http://alper.nl/dingen/?p=16077
-parent_post_id: null
-post_id: "16077"
 title: (kom eens langs)
 aliases:
   - /dingen/2020/05/kom-eens-langs/

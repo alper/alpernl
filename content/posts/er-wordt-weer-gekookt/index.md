@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-09T20:02:50+00:00"
-guid: http://alper.nl/dingen/2007/06/er-wordt-weer-gekookt/
-parent_post_id: null
-post_id: "62"
 tags:
   - koken
 title: Er wordt weer gekookt

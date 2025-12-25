@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2011-12-24T13:29:50+00:00"
-guid: http://alper.nl/dingen/?p=3151
-parent_post_id: null
-post_id: "3151"
 title: Cameratoezicht conclusie
 aliases:
   - /dingen/2011/12/cameratoezicht-conclusie/

@@ -7,9 +7,6 @@ categories:
   - the-city
   - travel
 date: "2009-12-28T11:29:15+00:00"
-guid: http://alper.nl/dingen/?p=1451
-parent_post_id: null
-post_id: "1451"
 title: Het gebrek aan kaizen in het openbaar vervoer
 aliases:
   - /dingen/2009/12/het-gebrek-aan-kaizen-in-het-openbaar-vervoer/

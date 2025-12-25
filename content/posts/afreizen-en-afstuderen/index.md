@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-11T23:05:29+00:00"
-guid: http://alper.nl/dingen/2007/09/afreizen-en-afstuderen/
-parent_post_id: null
-post_id: "123"
 tags:
   - reizen
   - zomerreis-2007

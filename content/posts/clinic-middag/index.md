@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-06-06T15:16:28+00:00"
-guid: http://alper.nl/dingen/?p=303
-parent_post_id: null
-post_id: "303"
 tags:
   - uncategorized
 title: Clinic Middag

@@ -5,9 +5,6 @@ categories:
   - music
   - nederlands
 date: "2011-04-11T15:39:21+00:00"
-guid: http://alper.nl/dingen/?p=2551
-parent_post_id: null
-post_id: "2551"
 title: Downloadverbod op Radio 1
 aliases:
   - /dingen/2011/04/downloadverbod-op-radio-1/

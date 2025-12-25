@@ -6,9 +6,6 @@ categories:
   - science
   - work
 date: "2022-08-21T23:03:55+00:00"
-guid: https://alper.nl/dingen/?p=16842
-parent_post_id: null
-post_id: "16842"
 title: ""
 aliases:
   - /dingen/2022/08/16842/

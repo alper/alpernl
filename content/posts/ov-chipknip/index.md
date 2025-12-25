@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-02-22T18:09:46+00:00"
-guid: http://alper.nl/dingen/?p=782
-parent_post_id: null
-post_id: "782"
 title: OV-chipknip
 aliases:
   - /dingen/2009/02/ov-chipknip/

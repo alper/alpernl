@@ -5,9 +5,6 @@ categories:
   - kids
   - reading
 date: "2018-12-31T12:44:56+00:00"
-guid: http://alper.nl/dingen/?p=6083
-parent_post_id: null
-post_id: "6083"
 title: Highlights for No Bad Kids
 aliases:
   - /dingen/2018/12/highlights-for-no-bad-kids/

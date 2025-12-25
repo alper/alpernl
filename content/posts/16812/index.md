@@ -4,9 +4,6 @@ categories:
   - agile
   - english
 date: "2022-06-06T22:16:28+00:00"
-guid: https://alper.nl/dingen/?p=16812
-parent_post_id: null
-post_id: "16812"
 title: ""
 aliases:
   - /dingen/2022/06/16812/

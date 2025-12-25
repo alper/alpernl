@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2013-06-28T13:14:09+00:00"
-guid: http://alper.nl/dingen/?p=4677
-parent_post_id: null
-post_id: "4677"
 tags:
   - weeknotes
 title: Week 325

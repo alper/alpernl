@@ -7,9 +7,6 @@ categories:
   - the-city
   - travel
 date: "2009-12-07T18:21:36+00:00"
-guid: http://alper.nl/dingen/?p=1396
-parent_post_id: null
-post_id: "1396"
 title: 'OV-chipkaart: kansen voor verbetering'
 aliases:
   - /dingen/2009/12/ov-chipkaart-ellende/

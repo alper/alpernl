@@ -4,9 +4,6 @@ categories:
   - climate
   - english
 date: "2024-08-06T20:23:52+00:00"
-guid: https://alper.nl/dingen/?p=17576
-parent_post_id: null
-post_id: "17576"
 title: ""
 aliases:
   - /dingen/2024/08/17576/

@@ -5,9 +5,6 @@ categories:
   - photography
   - travel
 date: "2008-10-28T09:26:58+00:00"
-guid: http://alper.nl/dingen/?p=559
-parent_post_id: null
-post_id: "559"
 title: Adjustments
 aliases:
   - /dingen/2008/10/adjustments/

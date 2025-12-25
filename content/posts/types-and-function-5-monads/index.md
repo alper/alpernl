@@ -4,9 +4,6 @@ author: alper
 categories:
   - english
 date: "2019-11-27T12:23:46+00:00"
-guid: http://alper.nl/dingen/?p=15865
-parent_post_id: null
-post_id: "15865"
 title: 'Types and Function 5: Monads'
 aliases:
   - /dingen/2019/11/types-and-function-5-monads/

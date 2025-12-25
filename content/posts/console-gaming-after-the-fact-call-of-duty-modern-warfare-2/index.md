@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2015-01-08T11:42:42+00:00"
-guid: http://alper.nl/dingen/?p=5095
-parent_post_id: null
-post_id: "5095"
 title: 'Console gaming after the fact: Call of Duty Modern Warfare 2'
 aliases:
   - /dingen/2015/01/console-gaming-after-the-fact-call-of-duty-modern-warfare-2/

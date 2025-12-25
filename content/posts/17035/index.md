@@ -6,9 +6,6 @@ categories:
   - politics
   - reading
 date: "2023-02-15T21:48:17+00:00"
-guid: https://alper.nl/dingen/?p=17035
-parent_post_id: null
-post_id: "17035"
 title: Out with Bungacast and their tankie/nutter agenda
 aliases:
   - /dingen/2023/02/17035/

@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - software-engineering
 date: "2022-10-08T11:49:46+00:00"
-guid: https://alper.nl/dingen/?p=16881
-parent_post_id: null
-post_id: "16881"
 title: ""
 aliases:
   - /dingen/2022/10/16881/

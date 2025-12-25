@@ -5,9 +5,6 @@ categories:
   - leadership
   - work
 date: "2023-12-28T16:26:25+00:00"
-guid: https://alper.nl/dingen/?p=17361
-parent_post_id: null
-post_id: "17361"
 title: My Obsidian Daily Productivity System
 aliases:
   - /dingen/2023/12/my-obsidian-home/

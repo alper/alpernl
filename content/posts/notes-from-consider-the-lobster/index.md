@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2012-11-22T08:16:55+00:00"
-guid: http://alper.nl/dingen/?p=4004
-parent_post_id: null
-post_id: "4004"
 title: Notes from Consider the Lobster…
 aliases:
   - /dingen/2012/11/notes-from-consider-the-lobster/

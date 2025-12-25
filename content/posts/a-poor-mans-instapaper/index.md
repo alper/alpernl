@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2019-06-15T11:29:39+00:00"
-guid: http://alper.nl/dingen/?p=15516
-parent_post_id: null
-post_id: "15516"
 title: A poor man's instapaper
 aliases:
   - /dingen/2019/06/a-poor-mans-instapaper/

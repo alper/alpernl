@@ -5,9 +5,6 @@ categories:
   - san-francisco
   - work
 date: "2020-07-24T07:33:51+00:00"
-guid: http://alper.nl/dingen/?p=16194
-parent_post_id: null
-post_id: "16194"
 title: ""
 aliases:
   - /dingen/2020/07/16194/

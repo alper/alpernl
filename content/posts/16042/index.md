@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2020-03-19T22:40:32+00:00"
-guid: http://alper.nl/dingen/?p=16042
-parent_post_id: null
-post_id: "16042"
 title: ""
 aliases:
   - /dingen/2020/03/16042/

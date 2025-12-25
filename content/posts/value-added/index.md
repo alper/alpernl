@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2008-06-20T00:44:23+00:00"
-guid: http://alper.nl/dingen/?p=315
-parent_post_id: null
-post_id: "315"
 tags:
   - btw
   - death

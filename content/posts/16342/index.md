@@ -5,9 +5,6 @@ categories:
   - leadership
   - work
 date: "2020-10-23T21:06:50+00:00"
-guid: http://www.alper.nl/dingen/?p=16342
-parent_post_id: null
-post_id: "16342"
 title: ""
 aliases:
   - /dingen/2020/10/16342/

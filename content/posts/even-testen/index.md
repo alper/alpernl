@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-04-22T12:16:10+00:00"
-guid: http://alper.nl/dingen/2007/04/even-testen/
-parent_post_id: null
-post_id: "17"
 tags:
   - html
   - huishoudelijk

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - travel
 date: "2020-10-24T09:48:31+00:00"
-guid: http://www.alper.nl/dingen/?p=16353
-parent_post_id: null
-post_id: "16353"
 title: ""
 aliases:
   - /dingen/2020/10/16353/

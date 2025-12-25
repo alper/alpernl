@@ -8,9 +8,6 @@ categories:
   - monster-swell
   - work
 date: "2012-01-03T07:13:10+00:00"
-guid: http://alper.nl/dingen/?p=3191
-parent_post_id: null
-post_id: "3191"
 tags:
   - weeknotes
 title: Week 249

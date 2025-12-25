@@ -5,9 +5,6 @@ categories:
   - kids
   - reading
 date: "2020-01-29T22:06:43+00:00"
-guid: http://alper.nl/dingen/?p=15958
-parent_post_id: null
-post_id: "15958"
 title: ""
 aliases:
   - /dingen/2020/01/15958/

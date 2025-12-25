@@ -5,9 +5,6 @@ categories:
   - travel
   - work
 date: "2013-03-16T12:23:39+00:00"
-guid: http://alper.nl/dingen/?p=4401
-parent_post_id: null
-post_id: "4401"
 tags:
   - weeknotes
 title: Week 312

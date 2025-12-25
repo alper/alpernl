@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-05-20T11:10:59+00:00"
-guid: http://alper.nl/dingen/2007/05/weekend-met-veel-dingen/
-parent_post_id: null
-post_id: "43"
 tags:
   - evenement
   - feest

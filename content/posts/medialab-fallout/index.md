@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2019-09-01T12:00:25+00:00"
-guid: http://alper.nl/dingen/?p=15642
-parent_post_id: null
-post_id: "15642"
 title: Medialab fallout
 aliases:
   - /dingen/2019/09/medialab-fallout/

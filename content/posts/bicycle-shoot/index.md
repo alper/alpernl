@@ -6,9 +6,6 @@ categories:
   - photography
   - sports
 date: "2009-02-10T11:14:26+00:00"
-guid: http://alper.nl/dingen/?p=764
-parent_post_id: null
-post_id: "764"
 title: Bicycle shoot
 aliases:
   - /dingen/2009/02/bicycle-shoot/

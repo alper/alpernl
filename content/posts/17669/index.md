@@ -5,9 +5,6 @@ categories:
   - english
   - kids
 date: "2024-11-03T17:37:10+00:00"
-guid: https://alper.nl/dingen/?p=17669
-parent_post_id: null
-post_id: "17669"
 title: ""
 aliases:
   - /dingen/2024/11/17669/

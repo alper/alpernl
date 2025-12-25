@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-29T20:24:45+00:00"
-guid: http://alper.nl/dingen/2007/09/het-is-ook-mijn-fout-dat-ik-ernaar-kijk/
-parent_post_id: null
-post_id: "145"
 tags:
   - religie
   - televisie

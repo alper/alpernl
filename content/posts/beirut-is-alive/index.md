@@ -5,9 +5,6 @@ categories:
   - music
   - video
 date: "2009-01-19T02:34:59+00:00"
-guid: http://alper.nl/dingen/?p=732
-parent_post_id: null
-post_id: "732"
 title: Beirut is alive
 aliases:
   - /dingen/2009/01/beirut-is-alive/

@@ -5,9 +5,6 @@ categories:
   - games
   - sports
 date: "2019-09-28T08:51:23+00:00"
-guid: http://alper.nl/dingen/?p=15750
-parent_post_id: null
-post_id: "15750"
 title: ""
 aliases:
   - /dingen/2019/09/15750/

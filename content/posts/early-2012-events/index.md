@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2012-02-03T06:41:53+00:00"
-guid: http://alper.nl/dingen/?p=3293
-parent_post_id: null
-post_id: "3293"
 title: Early 2012 Events
 aliases:
   - /dingen/2012/02/early-2012-events/

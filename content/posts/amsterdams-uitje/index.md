@@ -6,9 +6,6 @@ categories:
   - photography
   - the-city
 date: "2010-12-21T12:30:16+00:00"
-guid: http://alper.nl/dingen/?p=2349
-parent_post_id: null
-post_id: "2349"
 title: Amsterdams Uitje
 aliases:
   - /dingen/2010/12/amsterdams-uitje/

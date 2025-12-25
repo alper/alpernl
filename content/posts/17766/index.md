@@ -6,9 +6,6 @@ categories:
   - internet
   - software-engineering
 date: "2024-12-06T10:38:43+00:00"
-guid: https://alper.nl/dingen/?p=17766
-parent_post_id: null
-post_id: "17766"
 title: ""
 aliases:
   - /dingen/2024/12/17766/

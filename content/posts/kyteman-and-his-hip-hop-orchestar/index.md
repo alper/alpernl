@@ -5,9 +5,6 @@ categories:
   - english
   - music
 date: "2009-06-06T13:03:30+00:00"
-guid: http://alper.nl/dingen/?p=1020
-parent_post_id: null
-post_id: "1020"
 title: Kyteman and his Hip Hop Orchestar
 aliases:
   - /dingen/2009/06/kyteman-and-his-hip-hop-orchestar/

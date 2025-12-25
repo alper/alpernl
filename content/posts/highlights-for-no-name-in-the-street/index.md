@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2018-06-07T18:55:27+00:00"
-guid: http://alper.nl/dingen/?p=6017
-parent_post_id: null
-post_id: "6017"
 title: Highlights for No Name in the Street
 aliases:
   - /dingen/2018/06/highlights-for-no-name-in-the-street/

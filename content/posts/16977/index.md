@@ -8,9 +8,6 @@ categories:
   - politics
   - product-/-design
 date: "2023-01-24T11:28:13+00:00"
-guid: https://alper.nl/dingen/?p=16977
-parent_post_id: null
-post_id: "16977"
 title: ""
 aliases:
   - /dingen/2023/01/16977/

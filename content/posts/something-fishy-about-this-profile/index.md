@@ -5,9 +5,6 @@ categories:
   - internet
   - video
 date: "2010-12-13T23:55:32+00:00"
-guid: http://alper.nl/dingen/?p=2318
-parent_post_id: null
-post_id: "2318"
 title: Something fishy about this profile
 aliases:
   - /dingen/2010/12/something-fishy-about-this-profile/

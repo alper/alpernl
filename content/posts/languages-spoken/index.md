@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2019-10-27T21:29:04+00:00"
-guid: http://alper.nl/dingen/?p=15798
-parent_post_id: null
-post_id: "15798"
 title: Languages spoken
 aliases:
   - /dingen/2019/10/languages-spoken/

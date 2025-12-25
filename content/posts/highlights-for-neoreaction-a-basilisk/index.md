@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2018-05-31T19:35:14+00:00"
-guid: http://alper.nl/dingen/?p=6013
-parent_post_id: null
-post_id: "6013"
 title: Highlights for Neoreaction a Basilisk
 aliases:
   - /dingen/2018/05/highlights-for-neoreaction-a-basilisk/

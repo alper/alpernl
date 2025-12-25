@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2008-09-23T11:53:23+00:00"
-guid: http://alper.nl/dingen/?p=536
-parent_post_id: null
-post_id: "536"
 title: Downsize and change
 aliases:
   - /dingen/2008/09/downsize-and-change/

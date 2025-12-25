@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-08-05T23:20:20+00:00"
-guid: http://alper.nl/dingen/2007/08/extreem-matige-score/
-parent_post_id: null
-post_id: "111"
 tags:
   - movies
 title: Extreem matige score

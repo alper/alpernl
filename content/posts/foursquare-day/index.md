@@ -5,9 +5,6 @@ categories:
   - english
   - photography
 date: "2010-06-19T07:00:47+00:00"
-guid: http://alper.nl/dingen/?p=1868
-parent_post_id: null
-post_id: "1868"
 title: Foursquare Day
 aliases:
   - /dingen/2010/06/foursquare-day/

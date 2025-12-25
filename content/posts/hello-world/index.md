@@ -1,9 +1,6 @@
 ---
 author: admin
 date: "2007-04-12T13:06:06+00:00"
-guid: ""
-parent_post_id: null
-post_id: "1"
 tags:
   - blog
   - huishoudelijk

@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-09-13T11:46:36+00:00"
-guid: http://alper.nl/dingen/?p=2864
-parent_post_id: null
-post_id: "2864"
 title: Week 234
 aliases:
   - /dingen/2011/09/week-234/

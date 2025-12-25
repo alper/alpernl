@@ -5,9 +5,6 @@ categories:
   - english
   - theater
 date: "2013-02-16T12:57:25+00:00"
-guid: http://alper.nl/dingen/?p=4327
-parent_post_id: null
-post_id: "4327"
 title: V. in Ballhaus Ost
 aliases:
   - /dingen/2013/02/v-in-ballhaus-ost/

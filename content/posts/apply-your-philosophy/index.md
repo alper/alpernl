@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2013-08-24T15:12:38+00:00"
-guid: http://alper.nl/dingen/?p=4738
-parent_post_id: null
-post_id: "4738"
 title: Apply your philosophy
 aliases:
   - /dingen/2013/08/apply-your-philosophy/

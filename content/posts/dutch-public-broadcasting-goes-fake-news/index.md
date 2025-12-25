@@ -9,9 +9,6 @@ enclosure: |-
   http://alper.nl/dingen/wp-content/uploads/2017/02/ongelofelijke-mensenmassa.mp4
   58243065
   video/mp4
-guid: http://alper.nl/dingen/?p=5724
-parent_post_id: null
-post_id: "5724"
 title: Dutch Public Broadcasting Goes Fake News
 aliases:
   - /dingen/2017/02/dutch-public-broadcasting-goes-fake-news/

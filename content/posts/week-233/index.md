@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2011-09-06T10:49:57+00:00"
-guid: http://alper.nl/dingen/?p=2834
-parent_post_id: null
-post_id: "2834"
 title: Week 233
 aliases:
   - /dingen/2011/09/week-233/

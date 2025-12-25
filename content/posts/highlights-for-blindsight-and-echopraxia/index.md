@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-12-27T21:51:15+00:00"
-guid: http://alper.nl/dingen/?p=5896
-parent_post_id: null
-post_id: "5896"
 title: Highlights for Blindsight and Echopraxia
 aliases:
   - /dingen/2017/12/highlights-for-blindsight-and-echopraxia/

@@ -6,9 +6,6 @@ categories:
   - nederlands
   - work
 date: "2010-11-16T15:37:55+00:00"
-guid: http://alper.nl/dingen/?p=2289
-parent_post_id: null
-post_id: "2289"
 title: Kantoorruimte beschikbaar
 aliases:
   - /dingen/2010/11/kantoorruimte-beschikbaar/

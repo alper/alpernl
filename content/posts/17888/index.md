@@ -5,9 +5,6 @@ categories:
   - science
   - software-engineering
 date: "2025-01-08T08:55:50+00:00"
-guid: https://alper.nl/dingen/?p=17888
-parent_post_id: null
-post_id: "17888"
 title: ""
 aliases:
   - /dingen/2025/01/17888/

@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2013-10-20T16:58:16+00:00"
-guid: http://alper.nl/dingen/?p=4774
-parent_post_id: null
-post_id: "4774"
 title: Tokyo Coffee Notes
 aliases:
   - /dingen/2013/10/tokyo-coffee-notes/

@@ -5,9 +5,6 @@ categories:
   - internet
   - san-francisco
 date: "2021-01-25T21:28:42+00:00"
-guid: https://alper.nl/dingen/?p=16399
-parent_post_id: null
-post_id: "16399"
 title: ""
 aliases:
   - /dingen/2021/01/16399/

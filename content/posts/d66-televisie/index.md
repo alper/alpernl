@@ -6,9 +6,6 @@ categories:
   - politics
   - video
 date: "2010-01-11T11:31:33+00:00"
-guid: http://alper.nl/dingen/?p=1491
-parent_post_id: null
-post_id: "1491"
 title: D66 Televisie
 aliases:
   - /dingen/2010/01/d66-televisie/

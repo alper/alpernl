@@ -6,9 +6,6 @@ categories:
   - philosophy
   - science
 date: "2022-12-27T14:02:17+00:00"
-guid: https://alper.nl/dingen/?p=16910
-parent_post_id: null
-post_id: "16910"
 title: ""
 aliases:
   - /dingen/2022/12/16910/

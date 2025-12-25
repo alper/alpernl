@@ -2,9 +2,6 @@
 author: alper
 date: "2024-02-03T16:15:45+00:00"
 draft: "true"
-guid: https://alper.nl/dingen/?page_id=17421
-parent_post_id: null
-post_id: "17421"
 title: Career Consulting
 aliases:
   - /dingen/

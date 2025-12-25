@@ -6,9 +6,6 @@ categories:
   - politics
   - the-city
 date: "2023-03-11T08:17:08+00:00"
-guid: https://alper.nl/dingen/?p=17116
-parent_post_id: null
-post_id: "17116"
 title: ""
 aliases:
   - /dingen/2023/03/17116/

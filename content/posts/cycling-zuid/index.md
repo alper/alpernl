@@ -5,9 +5,6 @@ categories:
   - photography
   - sports
 date: "2009-05-18T12:45:37+00:00"
-guid: http://alper.nl/dingen/?p=985
-parent_post_id: null
-post_id: "985"
 title: Cycling Zuid
 aliases:
   - /dingen/2009/05/cycling-zuid/

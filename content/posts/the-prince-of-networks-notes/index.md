@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2012-06-03T21:48:37+00:00"
-guid: http://alper.nl/dingen/?p=3592
-parent_post_id: null
-post_id: "3592"
 title: The Prince of Networks Notes
 aliases:
   - /dingen/2012/06/the-prince-of-networks-notes/

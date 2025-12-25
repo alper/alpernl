@@ -8,9 +8,6 @@ categories:
   - politics
   - software-engineering
 date: "2023-02-15T22:13:03+00:00"
-guid: https://alper.nl/dingen/?p=17043
-parent_post_id: null
-post_id: "17043"
 title: Hey Datenschutz, leave those kids alone
 aliases:
   - /dingen/2023/02/hey-datenschutz-leave-those-kids-alone/

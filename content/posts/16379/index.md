@@ -4,9 +4,6 @@ categories:
   - english
   - kids
 date: "2020-12-26T20:55:49+00:00"
-guid: https://alper.nl/dingen/?p=16379
-parent_post_id: null
-post_id: "16379"
 title: ""
 aliases:
   - /dingen/2020/12/16379/

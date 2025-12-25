@@ -6,9 +6,6 @@ categories:
   - software-engineering
   - work
 date: "2019-06-13T21:19:10+00:00"
-guid: http://alper.nl/dingen/?p=15514
-parent_post_id: null
-post_id: "15514"
 title: Highlights for Designing Data-Intensive Applications
 aliases:
   - /dingen/2019/06/highlights-for-designing-data-intensive-applications/

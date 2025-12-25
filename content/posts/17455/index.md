@@ -7,9 +7,6 @@ categories:
   - video
 date: "2024-03-02T00:03:13+00:00"
 footnotes: ""
-guid: https://alper.nl/dingen/?p=17455
-parent_post_id: null
-post_id: "17455"
 title: SPY x Family - Das Leben der Anderen
 aliases:
   - /dingen/2024/03/17455/

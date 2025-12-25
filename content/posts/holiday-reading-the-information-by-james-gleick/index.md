@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2014-08-25T11:15:59+00:00"
-guid: http://alper.nl/dingen/?p=5022
-parent_post_id: null
-post_id: "5022"
 title: 'Holiday Reading: The Information by James Gleick'
 aliases:
   - /dingen/2014/08/holiday-reading-the-information-by-james-gleick/

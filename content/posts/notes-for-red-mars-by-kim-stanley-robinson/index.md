@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-06T14:42:11+00:00"
-guid: http://alper.nl/dingen/?p=5606
-parent_post_id: null
-post_id: "5606"
 title: Highlights for Red Mars by Kim Stanley Robinson
 aliases:
   - /dingen/2016/09/notes-for-red-mars-by-kim-stanley-robinson/

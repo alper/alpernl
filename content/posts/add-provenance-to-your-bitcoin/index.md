@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2013-04-14T20:58:29+00:00"
-guid: http://alper.nl/dingen/?p=4397
-parent_post_id: null
-post_id: "4397"
 title: Add provenance to your bitcoin
 aliases:
   - /dingen/2013/04/add-provenance-to-your-bitcoin/

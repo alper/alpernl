@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2017-11-23T22:00:51+00:00"
-guid: http://alper.nl/dingen/?p=5874
-parent_post_id: null
-post_id: "5874"
 title: A small contribution to apple/swift
 aliases:
   - /dingen/2017/11/a-small-contribution-to-appleswift/

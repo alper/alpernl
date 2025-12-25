@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-14T07:09:22+00:00"
-guid: http://alper.nl/dingen/2007/12/betalen-voor-je-klantenservice/
-parent_post_id: null
-post_id: "199"
 tags:
   - klantenervaring
 title: Betalen voor je klantenservice

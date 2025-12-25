@@ -7,9 +7,6 @@ categories:
   - turkish
   - video
 date: "2022-08-21T22:30:20+00:00"
-guid: https://alper.nl/dingen/?p=16757
-parent_post_id: null
-post_id: "16757"
 title: 'Gibi: Comedy under Pressure'
 aliases:
   - /dingen/2022/08/gibi-comedy-under-pressure/

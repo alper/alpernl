@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2021-10-21T18:41:17+00:00"
-guid: https://alper.nl/dingen/?p=16604
-parent_post_id: null
-post_id: "16604"
 title: Lee Jae-myung
 aliases:
   - /dingen/2021/10/lee-jae-myung/

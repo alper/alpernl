@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-11-01T14:45:27+00:00"
-guid: http://alper.nl/dingen/?p=3051
-parent_post_id: null
-post_id: "3051"
 title: Awards and Power
 aliases:
   - /dingen/2011/11/awards-and-power/

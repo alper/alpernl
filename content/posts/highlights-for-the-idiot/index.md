@@ -5,9 +5,6 @@ categories:
   - istanbul
   - reading
 date: "2018-10-16T07:30:45+00:00"
-guid: http://alper.nl/dingen/?p=6065
-parent_post_id: null
-post_id: "6065"
 title: Highlights for The Idiot
 aliases:
   - /dingen/2018/10/highlights-for-the-idiot/

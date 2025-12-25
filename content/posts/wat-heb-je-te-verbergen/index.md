@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-11-22T07:57:44+00:00"
-guid: http://alper.nl/dingen/2007/11/wat-heb-je-te-verbergen/
-parent_post_id: null
-post_id: "189"
 tags:
   - burgerrechten
   - oorlog

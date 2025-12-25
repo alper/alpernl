@@ -6,9 +6,6 @@ categories:
   - nederlands
   - sports
 date: "2020-06-12T19:00:42+00:00"
-guid: http://alper.nl/dingen/?p=16104
-parent_post_id: null
-post_id: "16104"
 title: ""
 aliases:
   - /dingen/2020/06/16104/

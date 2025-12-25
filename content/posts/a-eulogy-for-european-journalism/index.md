@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2013-01-09T15:14:52+00:00"
-guid: http://alper.nl/dingen/?p=4139
-parent_post_id: null
-post_id: "4139"
 title: A eulogy for European journalism
 aliases:
   - /dingen/2013/01/a-eulogy-for-european-journalism/

@@ -6,9 +6,6 @@ categories:
   - nederlands
   - video
 date: "2012-04-12T17:03:52+00:00"
-guid: http://alper.nl/dingen/?p=3503
-parent_post_id: null
-post_id: "3503"
 title: Blind Sequence Trust
 aliases:
   - /dingen/2012/04/blind-sequence-trust/

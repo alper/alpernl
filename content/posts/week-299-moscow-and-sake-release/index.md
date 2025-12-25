@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-12-10T15:20:41+00:00"
-guid: http://alper.nl/dingen/?p=4042
-parent_post_id: null
-post_id: "4042"
 tags:
   - weeknotes
 title: 'Week 299: Moscow and sake release'

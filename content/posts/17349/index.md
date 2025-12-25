@@ -5,9 +5,6 @@ categories:
   - philosophy
   - software-engineering
 date: "2023-12-11T22:30:09+00:00"
-guid: https://alper.nl/dingen/?p=17349
-parent_post_id: null
-post_id: "17349"
 title: ""
 aliases:
   - /dingen/2023/12/17349/

@@ -5,9 +5,6 @@ categories:
   - english
   - music
 date: "2014-02-17T10:07:34+00:00"
-guid: http://alper.nl/dingen/?p=4879
-parent_post_id: null
-post_id: "4879"
 title: Unleash the panther
 aliases:
   - /dingen/2014/02/unleash-the-panther/

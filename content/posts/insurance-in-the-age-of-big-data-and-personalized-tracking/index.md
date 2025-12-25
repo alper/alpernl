@@ -5,9 +5,6 @@ categories:
   - politics
   - product-/-design
 date: "2015-10-08T09:17:59+00:00"
-guid: http://alper.nl/dingen/?p=5312
-parent_post_id: null
-post_id: "5312"
 title: Insurance in the age of big data and personalized tracking
 aliases:
   - /dingen/2015/10/insurance-in-the-age-of-big-data-and-personalized-tracking/

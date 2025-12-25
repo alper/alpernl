@@ -5,9 +5,6 @@ categories:
   - music
   - turkish
 date: "2019-09-01T12:05:55+00:00"
-guid: http://alper.nl/dingen/?p=15645
-parent_post_id: null
-post_id: "15645"
 title: ""
 aliases:
   - /dingen/2019/09/15645/

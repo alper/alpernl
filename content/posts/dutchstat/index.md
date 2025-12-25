@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - nederlands
 date: "2010-11-26T18:14:04+00:00"
-guid: http://alper.nl/dingen/?p=1811
-parent_post_id: null
-post_id: "1811"
 title: Dutchstats - Je persoonlijke atlas van Nederland
 aliases:
   - /dingen/2010/05/dutchstat/

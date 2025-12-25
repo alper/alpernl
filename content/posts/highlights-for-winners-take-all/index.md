@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2019-11-28T12:17:48+00:00"
-guid: http://alper.nl/dingen/?p=15889
-parent_post_id: null
-post_id: "15889"
 title: Highlights for Winners Take All
 aliases:
   - /dingen/2019/11/highlights-for-winners-take-all/

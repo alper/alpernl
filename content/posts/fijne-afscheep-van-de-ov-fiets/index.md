@@ -7,9 +7,6 @@ categories:
   - the-city
   - work
 date: "2010-10-19T17:32:36+00:00"
-guid: http://alper.nl/dingen/?p=2216
-parent_post_id: null
-post_id: "2216"
 title: Fijne afscheep van de OV-fiets
 aliases:
   - /dingen/2010/10/fijne-afscheep-van-de-ov-fiets/

@@ -5,9 +5,6 @@ categories:
   - internet
   - product-/-design
 date: "2009-03-30T00:14:50+00:00"
-guid: http://alper.nl/dingen/?p=881
-parent_post_id: null
-post_id: "881"
 title: Unraveling the Transit Fabric
 aliases:
   - /dingen/2009/03/unraveling-the-transit-fabric/

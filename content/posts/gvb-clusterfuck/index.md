@@ -7,9 +7,6 @@ categories:
   - travel
   - video
 date: "2010-07-25T11:20:35+00:00"
-guid: http://alper.nl/dingen/?p=1993
-parent_post_id: null
-post_id: "1993"
 title: GVB clusterfuck
 aliases:
   - /dingen/2010/07/gvb-clusterfuck/

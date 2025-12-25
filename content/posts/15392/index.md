@@ -6,9 +6,6 @@ categories:
   - video
   - work
 date: "2019-05-04T23:07:05+00:00"
-guid: http://alper.nl/dingen/?p=15392
-parent_post_id: null
-post_id: "15392"
 title: ""
 aliases:
   - /dingen/2019/05/15392/

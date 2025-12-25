@@ -6,9 +6,6 @@ categories:
   - leadership
   - product-/-design
 date: "2021-12-31T12:03:26+00:00"
-guid: https://alper.nl/dingen/?p=16679
-parent_post_id: null
-post_id: "16679"
 title: ""
 aliases:
   - /dingen/2021/12/16679/

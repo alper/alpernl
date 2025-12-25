@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2012-10-19T17:05:19+00:00"
-guid: http://alper.nl/dingen/?p=3943
-parent_post_id: null
-post_id: "3943"
 title: The Selim Varol Collection
 aliases:
   - /dingen/2012/10/the-selim-varol-collection/

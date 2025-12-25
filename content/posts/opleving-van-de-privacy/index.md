@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-12-26T00:17:32+00:00"
-guid: http://alper.nl/dingen/?p=1446
-parent_post_id: null
-post_id: "1446"
 title: Opleving van de privacy
 aliases:
   - /dingen/2009/12/opleving-van-de-privacy/

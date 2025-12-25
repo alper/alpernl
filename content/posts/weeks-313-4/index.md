@@ -6,9 +6,6 @@ categories:
   - open-state
   - travel
 date: "2013-03-25T12:27:03+00:00"
-guid: http://alper.nl/dingen/?p=4463
-parent_post_id: null
-post_id: "4463"
 tags:
   - weeknotes
 title: Weeks 313-4

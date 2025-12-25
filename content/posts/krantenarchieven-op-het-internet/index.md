@@ -10,9 +10,6 @@ enclosure: |-
   http://audio.sxsw.com/2009/podcasts/D3%20SXSW_PODCASTS/031509_PM2_APIsAndChangingFaceOfNews.mp3
   23436724
   audio/mpeg
-guid: http://alper.nl/dingen/?p=1293
-parent_post_id: null
-post_id: "1293"
 title: Krantenarchieven op het internet
 aliases:
   - /dingen/2009/10/krantenarchieven-op-het-internet/

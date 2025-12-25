@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2022-03-11T21:38:45+00:00"
-guid: https://alper.nl/dingen/?p=16746
-parent_post_id: null
-post_id: "16746"
 title: Highlights for It's Not About the Burqa
 aliases:
   - /dingen/2022/03/highlights-for-its-not-about-the-burqa/

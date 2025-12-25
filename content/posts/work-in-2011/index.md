@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-01-09T16:56:00+00:00"
-guid: http://alper.nl/dingen/?p=3221
-parent_post_id: null
-post_id: "3221"
 title: Work in 2011
 aliases:
   - /dingen/2012/01/work-in-2011/

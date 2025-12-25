@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2013-01-14T13:03:40+00:00"
-guid: http://alper.nl/dingen/?p=4185
-parent_post_id: null
-post_id: "4185"
 title: '29C3: Long live the protocoletariat'
 aliases:
   - /dingen/2013/01/29c3-long-live-the-protocoletariat/

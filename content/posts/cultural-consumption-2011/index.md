@@ -6,9 +6,6 @@ categories:
   - reading
   - video
 date: "2012-01-05T16:49:47+00:00"
-guid: http://alper.nl/dingen/?p=3205
-parent_post_id: null
-post_id: "3205"
 title: Cultural Consumption 2011
 aliases:
   - /dingen/2012/01/cultural-consumption-2011/

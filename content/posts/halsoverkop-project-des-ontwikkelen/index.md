@@ -5,9 +5,6 @@ categories:
   - politics
   - work
 date: "2009-02-17T12:41:32+00:00"
-guid: http://alper.nl/dingen/?p=766
-parent_post_id: null
-post_id: "766"
 title: Halsoverkop project-des-ontwikkelen
 aliases:
   - /dingen/2009/02/halsoverkop-project-des-ontwikkelen/

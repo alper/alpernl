@@ -5,9 +5,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2019-11-10T22:33:30+00:00"
-guid: http://alper.nl/dingen/?p=15832
-parent_post_id: null
-post_id: "15832"
 title: ""
 aliases:
   - /dingen/2019/11/15832/

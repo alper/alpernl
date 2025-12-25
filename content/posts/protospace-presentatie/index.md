@@ -5,9 +5,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2009-02-24T17:39:15+00:00"
-guid: http://alper.nl/dingen/?p=802
-parent_post_id: null
-post_id: "802"
 title: Maak wat je wil, Protospace College
 aliases:
   - /dingen/2009/02/protospace-presentatie/

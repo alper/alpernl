@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-23T22:22:23+00:00"
-guid: http://alper.nl/dingen/2007/07/alledaagse-innovatie/
-parent_post_id: null
-post_id: "103"
 tags:
   - ervaring
   - informatie

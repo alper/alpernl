@@ -6,9 +6,6 @@ categories:
   - politics
   - work
 date: "2010-01-21T09:59:29+00:00"
-guid: http://alper.nl/dingen/?p=1502
-parent_post_id: null
-post_id: "1502"
 title: ICTs for Europe
 aliases:
   - /dingen/2010/01/icts-for-europe/

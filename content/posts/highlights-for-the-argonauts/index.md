@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-11-27T14:53:59+00:00"
-guid: http://alper.nl/dingen/?p=5878
-parent_post_id: null
-post_id: "5878"
 title: Highlights for the Argonauts
 aliases:
   - /dingen/2017/11/highlights-for-the-argonauts/

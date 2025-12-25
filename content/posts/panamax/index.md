@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2015-02-08T23:20:33+00:00"
-guid: http://alper.nl/dingen/?p=5141
-parent_post_id: null
-post_id: "5141"
 title: Panamax
 aliases:
   - /dingen/2015/02/panamax/

@@ -6,9 +6,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2023-01-20T09:14:40+00:00"
-guid: https://alper.nl/dingen/?p=16972
-parent_post_id: null
-post_id: "16972"
 title: ""
 aliases:
   - /dingen/2023/01/16972/

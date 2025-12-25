@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-20T18:20:27+00:00"
-guid: http://alper.nl/dingen/2008/01/koele-spullen/
-parent_post_id: null
-post_id: "231"
 tags:
   - eten
   - huis

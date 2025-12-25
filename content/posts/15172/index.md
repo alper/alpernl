@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2019-03-25T23:01:14+00:00"
-guid: http://alper.nl/dingen/?p=15172
-parent_post_id: null
-post_id: "15172"
 tags:
   - jira
 title: ""

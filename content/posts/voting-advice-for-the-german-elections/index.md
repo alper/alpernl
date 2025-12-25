@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2013-09-20T20:50:58+00:00"
-guid: http://alper.nl/dingen/?p=4745
-parent_post_id: null
-post_id: "4745"
 title: Voting advice for the German elections
 aliases:
   - /dingen/2013/09/voting-advice-for-the-german-elections/

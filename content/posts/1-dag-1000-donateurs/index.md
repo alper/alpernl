@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-10-22T08:46:08+00:00"
-guid: http://alper.nl/dingen/?p=2229
-parent_post_id: null
-post_id: "2229"
 tags:
   - 1dag1000donateurs
 title: 1 Dag — 1000 Donateurs

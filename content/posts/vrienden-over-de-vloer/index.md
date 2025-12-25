@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-02T12:33:46+00:00"
-guid: http://alper.nl/dingen/2007/08/vrienden-over-de-vloer/
-parent_post_id: null
-post_id: "110"
 tags:
   - eten
   - fotografie

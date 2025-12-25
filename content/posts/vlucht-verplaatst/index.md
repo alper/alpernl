@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-15T20:32:25+00:00"
-guid: http://alper.nl/dingen/2007/08/vlucht-verplaatst/
-parent_post_id: null
-post_id: "116"
 tags:
   - reizen
   - zomerreis-2007

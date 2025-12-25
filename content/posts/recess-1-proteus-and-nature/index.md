@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2013-02-05T14:00:58+00:00"
-guid: http://alper.nl/dingen/?p=4255
-parent_post_id: null
-post_id: "4255"
 title: Recess! 1 - Proteus and nature
 aliases:
   - /dingen/2013/02/recess-1-proteus-and-nature/

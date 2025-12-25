@@ -5,9 +5,6 @@ categories:
   - nederlands
   - travel
 date: "2008-05-17T20:14:44+00:00"
-guid: http://alper.nl/dingen/?p=296
-parent_post_id: null
-post_id: "296"
 tags:
   - uncategorized
 title: De wereld is kapot

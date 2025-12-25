@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2011-01-05T18:21:39+00:00"
-guid: http://alper.nl/dingen/?p=2360
-parent_post_id: null
-post_id: "2360"
 title: Zero History excerpts
 aliases:
   - /dingen/2010/12/zero-history-excerpts/

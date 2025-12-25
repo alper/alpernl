@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-09-21T09:11:21+00:00"
-guid: http://alper.nl/dingen/?p=2127
-parent_post_id: null
-post_id: "2127"
 title: Dutch Data Drinks
 aliases:
   - /dingen/2010/09/dutch-data-drinks/

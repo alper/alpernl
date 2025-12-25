@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2023-02-20T17:35:06+00:00"
-guid: https://alper.nl/dingen/?p=17085
-parent_post_id: null
-post_id: "17085"
 title: Highlights for Thinking in Bets
 aliases:
   - /dingen/2023/02/highlights-for-thinking-in-bets/

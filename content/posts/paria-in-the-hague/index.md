@@ -5,9 +5,6 @@ categories:
   - photography
   - sports
 date: "2010-03-28T13:34:39+00:00"
-guid: http://alper.nl/dingen/?p=1695
-parent_post_id: null
-post_id: "1695"
 title: Paria in the Hague
 aliases:
   - /dingen/2010/03/paria-in-the-hague/

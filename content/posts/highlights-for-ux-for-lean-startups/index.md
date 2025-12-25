@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2017-11-27T14:47:14+00:00"
-guid: http://alper.nl/dingen/?p=5879
-parent_post_id: null
-post_id: "5879"
 title: Highlights for UX for Lean Startups
 aliases:
   - /dingen/2017/11/highlights-for-ux-for-lean-startups/

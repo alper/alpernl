@@ -4,9 +4,6 @@ categories:
   - english
 date: "2025-11-28T12:18:45+00:00"
 draft: "true"
-guid: https://alper.nl/dingen/?p=18501
-parent_post_id: null
-post_id: "18501"
 title: Iseji Recap
 aliases:
   - /dingen/

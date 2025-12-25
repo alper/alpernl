@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2010-09-16T12:58:54+00:00"
-guid: http://alper.nl/dingen/?p=2110
-parent_post_id: null
-post_id: "2110"
 title: Supremacy
 aliases:
   - /dingen/2010/09/supremacy/

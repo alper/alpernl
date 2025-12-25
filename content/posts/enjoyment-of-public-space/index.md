@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - the-city
 date: "2009-08-16T13:33:58+00:00"
-guid: http://alper.nl/dingen/?p=1170
-parent_post_id: null
-post_id: "1170"
 title: Enjoyment of Public Space
 aliases:
   - /dingen/2009/08/enjoyment-of-public-space/

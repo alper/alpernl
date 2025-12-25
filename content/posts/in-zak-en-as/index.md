@@ -4,9 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-05-19T09:27:37+00:00"
-guid: http://alper.nl/dingen/?p=297
-parent_post_id: null
-post_id: "297"
 tags:
   - brand
   - perceptie

@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2009-01-12T18:43:32+00:00"
-guid: http://alper.nl/dingen/?p=709
-parent_post_id: null
-post_id: "709"
 title: Corporate obstacles in the Netherlands
 aliases:
   - /dingen/2009/01/corporate-obstacles-in-the-netherlands/

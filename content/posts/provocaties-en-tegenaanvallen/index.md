@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-01T08:17:09+00:00"
-guid: http://alper.nl/dingen/2007/10/provocaties-en-tegenaanvallen/
-parent_post_id: null
-post_id: "149"
 tags:
   - oorlog
   - politiek

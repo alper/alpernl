@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2008-09-22T13:12:43+00:00"
-guid: http://alper.nl/dingen/?p=527
-parent_post_id: null
-post_id: "527"
 title: Camera Japan Festival
 aliases:
   - /dingen/2008/09/camera-japan-festival/

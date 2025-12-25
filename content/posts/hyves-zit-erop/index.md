@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-11-01T14:42:49+00:00"
-guid: http://alper.nl/dingen/2007/10/hyves-zit-erop/
-parent_post_id: null
-post_id: "176"
 tags:
   - internet
 title: Hyves zit erop

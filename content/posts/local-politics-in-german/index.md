@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2016-11-03T12:35:06+00:00"
-guid: http://alper.nl/dingen/?p=5633
-parent_post_id: null
-post_id: "5633"
 title: Local politics in Berlin
 aliases:
   - /dingen/2016/11/local-politics-in-german/

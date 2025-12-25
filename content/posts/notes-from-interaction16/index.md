@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2016-03-14T22:15:01+00:00"
-guid: http://alper.nl/dingen/?p=5501
-parent_post_id: null
-post_id: "5501"
 title: Notes from Interaction16
 aliases:
   - /dingen/2016/03/notes-from-interaction16/

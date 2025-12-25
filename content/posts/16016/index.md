@@ -4,9 +4,6 @@ categories:
   - english
   - turkish
 date: "2020-02-20T23:55:39+00:00"
-guid: http://alper.nl/dingen/?p=16016
-parent_post_id: null
-post_id: "16016"
 title: ""
 aliases:
   - /dingen/2020/02/16016/

@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2018-11-27T21:27:47+00:00"
-guid: http://alper.nl/dingen/?p=6075
-parent_post_id: null
-post_id: "6075"
 title: Highlights for How Democracy Ends
 aliases:
   - /dingen/2018/11/highlights-for-how-democracy-ends/

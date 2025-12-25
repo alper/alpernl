@@ -6,9 +6,6 @@ categories:
   - reading
   - strategy
 date: "2024-11-03T22:06:16+00:00"
-guid: https://alper.nl/dingen/?p=17683
-parent_post_id: null
-post_id: "17683"
 title: So long Ribbonfarm!
 aliases:
   - /dingen/2024/11/so-long-ribbonfarm/

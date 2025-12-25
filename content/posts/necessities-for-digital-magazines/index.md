@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - reading
 date: "2009-12-28T21:57:43+00:00"
-guid: http://alper.nl/dingen/?p=1417
-parent_post_id: null
-post_id: "1417"
 title: Necessities for digital magazines
 aliases:
   - /dingen/2009/12/necessities-for-digital-magazines/

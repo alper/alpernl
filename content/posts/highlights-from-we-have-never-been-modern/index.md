@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-04-27T09:36:50+00:00"
-guid: http://alper.nl/dingen/?p=5777
-parent_post_id: null
-post_id: "5777"
 title: Highlights from We Have Never Been Modern
 aliases:
   - /dingen/2017/04/highlights-from-we-have-never-been-modern/

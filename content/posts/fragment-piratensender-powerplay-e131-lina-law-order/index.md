@@ -10,9 +10,6 @@ enclosure: |-
   https://alper.nlFriedeman-Karig-about-militant-antifascism.mp3
   1615440
   audio/mpeg
-guid: https://alper.nl/dingen/?p=17236
-parent_post_id: null
-post_id: "17236"
 title: 'Fragment Piratensender Powerplay E131: Lina, Law &amp; Order'
 aliases:
   - /dingen/2023/07/fragment-piratensender-powerplay-e131-lina-law-order/

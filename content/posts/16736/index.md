@@ -9,9 +9,6 @@ categories:
   - science
   - turkish
 date: "2022-03-07T12:01:57+00:00"
-guid: https://alper.nl/dingen/?p=16736
-parent_post_id: null
-post_id: "16736"
 title: Property dealings in Berlin
 aliases:
   - /dingen/2022/03/16736/

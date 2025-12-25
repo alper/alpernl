@@ -4,9 +4,6 @@ categories:
   - delft
   - internet
 date: "2008-01-17T10:32:22+00:00"
-guid: http://alper.nl/dingen/2008/01/steel-mijn-internet/
-parent_post_id: null
-post_id: "223"
 tags:
   - internet
 title: Set my WiFi free

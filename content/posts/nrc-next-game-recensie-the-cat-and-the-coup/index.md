@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2020-07-20T22:26:38+00:00"
-guid: http://alper.nl/dingen/?p=16168
-parent_post_id: null
-post_id: "16168"
 title: 'nrc.next game-recensie: The Cat and the Coup'
 aliases:
   - /dingen/2020/07/nrc-next-game-recensie-the-cat-and-the-coup/

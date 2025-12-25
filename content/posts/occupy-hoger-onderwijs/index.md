@@ -4,9 +4,6 @@ categories:
   - nederlands
   - politics
 date: "2011-12-08T22:53:42+00:00"
-guid: http://alper.nl/dingen/?p=3127
-parent_post_id: null
-post_id: "3127"
 title: Occupy hoger onderwijs
 aliases:
   - /dingen/2011/12/occupy-hoger-onderwijs/

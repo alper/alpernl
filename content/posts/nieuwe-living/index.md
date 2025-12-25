@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-04-23T16:23:24+00:00"
-guid: http://alper.nl/dingen/2008/04/nieuwe-living/
-parent_post_id: null
-post_id: "286"
 tags:
   - huis
 title: Nieuwe Living

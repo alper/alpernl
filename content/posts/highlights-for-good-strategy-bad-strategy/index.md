@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2018-02-11T21:22:35+00:00"
-guid: http://alper.nl/dingen/?p=5947
-parent_post_id: null
-post_id: "5947"
 title: Highlights for Good Strategy Bad Strategy
 aliases:
   - /dingen/2018/02/highlights-for-good-strategy-bad-strategy/

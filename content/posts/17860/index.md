@@ -5,9 +5,6 @@ categories:
   - internet
   - kids
 date: "2025-01-03T13:46:00+00:00"
-guid: https://alper.nl/dingen/?p=17860
-parent_post_id: null
-post_id: "17860"
 title: ""
 aliases:
   - /dingen/2025/01/17860/

@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2013-11-22T16:05:24+00:00"
-guid: http://alper.nl/dingen/?p=4830
-parent_post_id: null
-post_id: "4830"
 title: Lazy intellectualism exposed (probably without consequences)
 aliases:
   - /dingen/2013/11/lazy-intellectualism-exposed-probably-without-consequences/

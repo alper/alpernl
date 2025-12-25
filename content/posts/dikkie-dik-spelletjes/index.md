@@ -5,9 +5,6 @@ categories:
   - kids
   - nederlands
 date: "2019-05-01T10:30:36+00:00"
-guid: http://alper.nl/dingen/?p=15373
-parent_post_id: null
-post_id: "15373"
 title: Dikkie Dik spelletjes
 aliases:
   - /dingen/2019/05/dikkie-dik-spelletjes/

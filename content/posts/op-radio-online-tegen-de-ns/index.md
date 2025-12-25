@@ -11,9 +11,6 @@ enclosure: |-
   http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20090321-17.wma?start=25:21
   183
   video/x-ms-wmv
-guid: http://alper.nl/dingen/?p=865
-parent_post_id: null
-post_id: "865"
 title: Op Radio Online tegen de NS
 aliases:
   - /dingen/2009/03/op-radio-online-tegen-de-ns/

@@ -6,9 +6,6 @@ categories:
   - london
   - work
 date: "2019-07-14T12:43:30+00:00"
-guid: http://alper.nl/dingen/?p=15577
-parent_post_id: null
-post_id: "15577"
 title: ""
 aliases:
   - /dingen/2019/07/15577/

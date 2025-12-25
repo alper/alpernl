@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2011-09-15T19:25:50+00:00"
-guid: http://alper.nl/dingen/?p=2891
-parent_post_id: null
-post_id: "2891"
 title: Apps voor Nederland
 aliases:
   - /dingen/2011/09/apps-voor-nederland/

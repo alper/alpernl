@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-01-22T15:15:10+00:00"
-guid: http://alper.nl/dingen/?p=5704
-parent_post_id: null
-post_id: "5704"
 title: 'Highlights from Extreme Ownership: How U.S. Navy SEALs Lead and Win'
 aliases:
   - /dingen/2017/01/highlights-from-extreme-ownership-how-u-s-navy-seals-lead-and-win/

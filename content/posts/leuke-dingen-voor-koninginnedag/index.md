@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-01T09:50:10+00:00"
-guid: http://alper.nl/dingen/2007/05/leuke-dingen-voor-koninginnedag/
-parent_post_id: null
-post_id: "30"
 tags:
   - drinken
   - feest

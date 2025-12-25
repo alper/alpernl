@@ -6,9 +6,6 @@ categories:
   - photography
   - science
 date: "2021-01-25T21:22:48+00:00"
-guid: https://alper.nl/dingen/?p=16397
-parent_post_id: null
-post_id: "16397"
 title: ""
 aliases:
   - /dingen/2021/01/16397/

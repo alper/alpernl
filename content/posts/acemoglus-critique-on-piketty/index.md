@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2014-08-31T15:09:02+00:00"
-guid: http://alper.nl/dingen/?p=5030
-parent_post_id: null
-post_id: "5030"
 title: Acemoglu's Critique on Piketty
 aliases:
   - /dingen/2014/08/acemoglus-critique-on-piketty/

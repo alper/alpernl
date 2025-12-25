@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-18T17:36:26+00:00"
-guid: http://alper.nl/dingen/?p=3411
-parent_post_id: null
-post_id: "3411"
 tags:
   - weeknotes
 title: 'Week 260: books, games, keynotes and Koolhaas'

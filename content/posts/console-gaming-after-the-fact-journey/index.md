@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2014-12-30T08:18:40+00:00"
-guid: http://alper.nl/dingen/?p=5092
-parent_post_id: null
-post_id: "5092"
 title: 'Console gaming after the fact: Journey'
 aliases:
   - /dingen/2014/12/console-gaming-after-the-fact-journey/

@@ -6,9 +6,6 @@ categories:
   - reading
   - work
 date: "2009-08-17T14:01:06+00:00"
-guid: http://alper.nl/dingen/?p=1161
-parent_post_id: null
-post_id: "1161"
 title: De krant is stuk. Wat nu?
 aliases:
   - /dingen/2009/08/de-krant-is-stuk-wat-nu/

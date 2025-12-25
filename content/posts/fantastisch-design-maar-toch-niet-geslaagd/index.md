@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2009-02-11T01:42:35+00:00"
-guid: http://alper.nl/dingen/2007/07/fantastisch-design-maar-toch-niet-geslaagd/
-parent_post_id: null
-post_id: "104"
 tags:
   - ervaring
   - interactie

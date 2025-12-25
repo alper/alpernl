@@ -6,9 +6,6 @@ categories:
   - politics
   - work
 date: "2013-07-16T16:03:13+00:00"
-guid: http://alper.nl/dingen/?p=4687
-parent_post_id: null
-post_id: "4687"
 title: 'Week 327: car-freeness, banging Q&A, the fabled Autobahn and the administrative organization of infrastructure'
 aliases:
   - /dingen/2013/07/week-327-car-freeness-banging-qa-the-fabled-autobahn-and-the-administrative-organization-of-infrastructure/

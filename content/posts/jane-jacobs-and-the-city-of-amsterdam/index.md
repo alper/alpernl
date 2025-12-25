@@ -5,9 +5,6 @@ categories:
   - english
   - the-city
 date: "2011-07-27T00:16:37+00:00"
-guid: http://alper.nl/dingen/?p=2721
-parent_post_id: null
-post_id: "2721"
 title: Jane Jacobs and the city of Amsterdam
 aliases:
   - /dingen/2011/07/jane-jacobs-and-the-city-of-amsterdam/

@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2025-11-28T21:43:39+00:00"
-guid: https://alper.nl/dingen/?p=18496
-parent_post_id: null
-post_id: "18496"
 title: Iseji - Day 2 - Misedani to Kiinagashima
 aliases:
   - /dingen/2025/11/iseji-day-2-misedani-to-kiinagashima/

@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2019-03-08T09:53:10+00:00"
-guid: http://alper.nl/dingen/?p=15228
-parent_post_id: null
-post_id: "15228"
 title: German podcast update
 aliases:
   - /dingen/2019/03/german-podcast-update/

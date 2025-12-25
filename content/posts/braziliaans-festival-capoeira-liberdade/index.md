@@ -4,9 +4,6 @@ categories:
   - capoeira
   - delft
 date: "2007-05-07T12:45:40+00:00"
-guid: http://alper.nl/dingen/2007/05/braziliaans-festival-capoeira-liberdade/
-parent_post_id: null
-post_id: "33"
 tags:
   - evenement
   - feest

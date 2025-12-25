@@ -6,9 +6,6 @@ categories:
   - music
   - video
 date: "2008-11-29T14:01:00+00:00"
-guid: http://alper.nl/dingen/?p=621
-parent_post_id: null
-post_id: "621"
 tags:
   - api
   - last.fm

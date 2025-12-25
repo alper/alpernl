@@ -4,9 +4,6 @@ categories:
   - english
   - the-city
 date: "2019-11-29T08:58:02+00:00"
-guid: http://alper.nl/dingen/?p=15898
-parent_post_id: null
-post_id: "15898"
 title: ""
 aliases:
   - /dingen/2019/11/15898/

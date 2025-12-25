@@ -6,9 +6,6 @@ categories:
   - software-engineering
   - travel
 date: "2024-11-20T08:28:52+00:00"
-guid: https://alper.nl/dingen/?p=17718
-parent_post_id: null
-post_id: "17718"
 title: ""
 aliases:
   - /dingen/2024/11/17718/

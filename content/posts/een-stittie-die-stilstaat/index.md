@@ -6,9 +6,6 @@ categories:
   - the-city
   - video
 date: "2009-10-05T10:21:35+00:00"
-guid: http://alper.nl/dingen/?p=1286
-parent_post_id: null
-post_id: "1286"
 title: een stittie die stilstaat
 aliases:
   - /dingen/2009/10/een-stittie-die-stilstaat/

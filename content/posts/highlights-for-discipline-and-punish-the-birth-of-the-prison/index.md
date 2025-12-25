@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2024-11-04T22:44:59+00:00"
-guid: https://alper.nl/dingen/?p=17697
-parent_post_id: null
-post_id: "17697"
 title: 'Highlights for Discipline and Punish: The Birth of the Prison'
 aliases:
   - /dingen/2024/11/highlights-for-discipline-and-punish-the-birth-of-the-prison/

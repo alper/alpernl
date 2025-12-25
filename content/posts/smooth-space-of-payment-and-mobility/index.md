@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-12-20T00:58:35+00:00"
-guid: http://alper.nl/dingen/?p=658
-parent_post_id: null
-post_id: "658"
 title: Smooth space of payment and mobility
 aliases:
   - /dingen/2008/12/smooth-space-of-payment-and-mobility/

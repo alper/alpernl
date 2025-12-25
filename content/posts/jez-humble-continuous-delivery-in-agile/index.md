@@ -5,9 +5,6 @@ categories:
   - english
   - software-engineering
 date: "2019-06-21T16:20:05+00:00"
-guid: http://alper.nl/dingen/?p=15538
-parent_post_id: null
-post_id: "15538"
 title: Jez Humble - Continuous Delivery in Agile
 aliases:
   - /dingen/2019/06/jez-humble-continuous-delivery-in-agile/

@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-03-13T14:51:51+00:00"
-guid: http://alper.nl/dingen/?p=5956
-parent_post_id: null
-post_id: "5956"
 title: Highlights for The Fifth Season
 aliases:
   - /dingen/2018/03/highlights-for-the-fifth-season/

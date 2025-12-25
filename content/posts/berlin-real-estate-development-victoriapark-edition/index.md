@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2014-05-27T12:27:46+00:00"
-guid: http://alper.nl/dingen/?p=4988
-parent_post_id: null
-post_id: "4988"
 title: Berlin real estate development Victoriapark edition
 aliases:
   - /dingen/2014/05/berlin-real-estate-development-victoriapark-edition/

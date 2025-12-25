@@ -7,9 +7,6 @@ categories:
   - podcast
   - politics
 date: "2023-12-09T18:36:31+00:00"
-guid: https://alper.nl/dingen/?p=17340
-parent_post_id: null
-post_id: "17340"
 title: A small online drama in three parts
 aliases:
   - /dingen/2023/12/a-small-online-drama-in-three-parts/

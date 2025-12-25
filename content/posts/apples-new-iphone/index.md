@@ -5,9 +5,6 @@ categories:
   - internet
   - product-/-design
 date: "2008-06-09T23:08:40+00:00"
-guid: http://alper.nl/dingen/?p=310
-parent_post_id: null
-post_id: "310"
 tags:
   - apple
   - ec

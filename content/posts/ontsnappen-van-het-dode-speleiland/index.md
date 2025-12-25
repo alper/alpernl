@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2011-02-22T00:02:44+00:00"
-guid: http://alper.nl/dingen/?p=2427
-parent_post_id: null
-post_id: "2427"
 title: Ontsnappen van het dode speleiland
 aliases:
   - /dingen/2011/02/ontsnappen-van-het-dode-speleiland/

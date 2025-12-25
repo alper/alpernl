@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2017-03-16T10:06:53+00:00"
-guid: http://alper.nl/dingen/?p=5740
-parent_post_id: null
-post_id: "5740"
 title: 'Europe Was Left #7 - Geert Wilders and PVV''s Decisive Moment'
 aliases:
   - /dingen/2017/03/europe-was-left-7-geert-wilders-and-pvvs-decisive-moment/

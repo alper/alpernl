@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2012-10-04T07:51:55+00:00"
-guid: http://alper.nl/dingen/?p=3893
-parent_post_id: null
-post_id: "3893"
 title: Highlights from Common Sense
 aliases:
   - /dingen/2012/10/highlights-from-common-sense/

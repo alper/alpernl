@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - video
 date: "2010-05-25T15:41:28+00:00"
-guid: http://alper.nl/dingen/?p=1802
-parent_post_id: null
-post_id: "1802"
 title: De val uitgelegd
 aliases:
   - /dingen/2010/05/de-val-uitgelegd/

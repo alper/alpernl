@@ -5,9 +5,6 @@ enclosure: |-
   http://s3.amazonaws.com/truth/4obama.mov
   56073506
   video/quicktime
-guid: http://alper.nl/dingen/2008/02/integriteit-in-politiek/
-parent_post_id: null
-post_id: "250"
 tags:
   - politiek
   - verkiezingen

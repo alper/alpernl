@@ -5,9 +5,6 @@ categories:
   - travel
   - video
 date: "2010-07-20T09:22:18+00:00"
-guid: http://alper.nl/dingen/?p=1982
-parent_post_id: null
-post_id: "1982"
 title: Turks-Syrische herontdekking
 aliases:
   - /dingen/2010/07/turks-syrische-herontdekking/

@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-04-03T07:23:31+00:00"
-guid: http://alper.nl/dingen/?p=3467
-parent_post_id: null
-post_id: "3467"
 tags:
   - weeknotes
 title: 'Week 263: short trip to the Netherlands'

@@ -5,9 +5,6 @@ categories:
   - portuguese
   - reading
 date: "2019-09-01T12:15:16+00:00"
-guid: http://alper.nl/dingen/?p=15649
-parent_post_id: null
-post_id: "15649"
 title: ""
 aliases:
   - /dingen/2019/09/15649/

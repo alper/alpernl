@@ -6,9 +6,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2009-06-09T16:01:48+00:00"
-guid: http://alper.nl/dingen/?p=1028
-parent_post_id: null
-post_id: "1028"
 title: NDOV uitkomst programmeerwedstrijd
 aliases:
   - /dingen/2009/06/ndov-uitkomst-programmeerwedstrijd/

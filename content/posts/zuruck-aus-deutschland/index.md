@@ -3,9 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2007-10-15T15:08:35+00:00"
-guid: http://alper.nl/dingen/2007/10/zuruck-aus-deutschland/
-parent_post_id: null
-post_id: "159"
 tags:
   - huis
   - leven

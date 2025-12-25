@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-07-08T10:34:39+00:00"
-guid: http://alper.nl/dingen/?p=1943
-parent_post_id: null
-post_id: "1943"
 title: Distilling meter, rhyme and verse from your database
 aliases:
   - /dingen/2010/07/distilling-meter-rhyme-and-verse-from-your-database/

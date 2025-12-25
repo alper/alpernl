@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2009-04-11T06:47:11+00:00"
-guid: http://alper.nl/dingen/?p=605
-parent_post_id: null
-post_id: "605"
 title: Zombama
 aliases:
   - /dingen/2008/11/zombama/

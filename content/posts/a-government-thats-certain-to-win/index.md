@@ -7,9 +7,6 @@ categories:
   - london
   - politics
 date: "2020-01-02T22:59:48+00:00"
-guid: http://alper.nl/dingen/?p=15922
-parent_post_id: null
-post_id: "15922"
 title: A government that's certain to win
 aliases:
   - /dingen/2020/01/a-government-thats-certain-to-win/

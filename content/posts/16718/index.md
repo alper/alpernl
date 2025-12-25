@@ -5,9 +5,6 @@ categories:
   - leadership
   - publicity
 date: "2022-03-06T21:45:43+00:00"
-guid: https://alper.nl/dingen/?p=16718
-parent_post_id: null
-post_id: "16718"
 title: ""
 aliases:
   - /dingen/2022/03/16718/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-21T23:56:53+00:00"
-guid: http://alper.nl/dingen/2007/05/oneindige-bescherming-van-auteursrecht-en-andere-misverstanden/
-parent_post_id: null
-post_id: "48"
 tags:
   - burgerrechten
   - copyright

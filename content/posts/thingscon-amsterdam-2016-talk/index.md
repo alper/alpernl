@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - publicity
 date: "2016-12-08T22:51:51+00:00"
-guid: http://alper.nl/dingen/?p=5668
-parent_post_id: null
-post_id: "5668"
 title: ThingsCon Amsterdam 2016 Talk
 aliases:
   - /dingen/2016/12/thingscon-amsterdam-2016-talk/

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-04-24T09:01:14+00:00"
-guid: http://alper.nl/dingen/2007/04/de-radio-achterhaald-al-voor-het-de-ether-in-geslingerd-wordt/
-parent_post_id: null
-post_id: "19"
 tags:
   - muziek
   - radio

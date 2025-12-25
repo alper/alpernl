@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-03-25T20:46:09+00:00"
-guid: http://alper.nl/dingen/?p=5962
-parent_post_id: null
-post_id: "5962"
 title: Highlights for The Stone Sky
 aliases:
   - /dingen/2018/03/highlights-for-the-stone-sky/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2011-01-24T15:18:07+00:00"
-guid: http://alper.nl/dingen/?p=2398
-parent_post_id: null
-post_id: "2398"
 tags:
   - weeknotes
 title: Week 201

@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-09-04T07:51:32+00:00"
-guid: http://alper.nl/dingen/?p=3837
-parent_post_id: null
-post_id: "3837"
 tags:
   - weeknotes
 title: 'Week 285: dots connected, games demoed, book proposals written, programming taught, apps prototyped'

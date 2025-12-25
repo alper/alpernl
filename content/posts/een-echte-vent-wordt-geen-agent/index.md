@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-07-14T14:51:49+00:00"
-guid: http://alper.nl/dingen/2007/07/een-echte-vent-wordt-geen-agent/
-parent_post_id: null
-post_id: "92"
 tags:
   - burgerrechten
   - movies

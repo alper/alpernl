@@ -5,9 +5,6 @@ categories:
   - food
   - nederlands
 date: "2009-10-04T15:03:35+00:00"
-guid: http://alper.nl/dingen/?p=1226
-parent_post_id: null
-post_id: "1226"
 title: Restauranten gevraagd
 aliases:
   - /dingen/2009/09/restauranten-gevraagd/

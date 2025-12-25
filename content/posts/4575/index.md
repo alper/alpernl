@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2013-05-18T15:41:00+00:00"
-guid: http://alper.nl/dingen/?p=4575
-parent_post_id: null
-post_id: "4575"
 title: Almost hit and run
 aliases:
   - /dingen/2013/05/4575/

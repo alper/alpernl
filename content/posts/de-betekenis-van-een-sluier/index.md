@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-27T02:21:56+00:00"
-guid: http://alper.nl/dingen/2007/09/de-betekenis-van-een-sluier/
-parent_post_id: null
-post_id: "120"
 tags:
   - reizen
   - zomerreis-2007

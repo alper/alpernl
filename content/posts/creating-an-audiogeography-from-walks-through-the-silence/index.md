@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2009-11-12T00:11:04+00:00"
-guid: http://alper.nl/dingen/?p=1331
-parent_post_id: null
-post_id: "1331"
 title: Creating an audiogeography from walks through the silence
 aliases:
   - /dingen/2009/10/creating-an-audiogeography-from-walks-through-the-silence/

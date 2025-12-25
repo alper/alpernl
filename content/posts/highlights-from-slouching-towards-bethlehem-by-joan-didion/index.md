@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-06T21:48:56+00:00"
-guid: http://alper.nl/dingen/?p=5620
-parent_post_id: null
-post_id: "5620"
 title: Highlights from Slouching Towards Bethlehem by Joan Didion
 aliases:
   - /dingen/2016/09/highlights-from-slouching-towards-bethlehem-by-joan-didion/

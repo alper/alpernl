@@ -5,9 +5,6 @@ categories:
   - new-york
   - photography
 date: "2019-08-03T22:37:58+00:00"
-guid: http://alper.nl/dingen/?p=15600
-parent_post_id: null
-post_id: "15600"
 title: ""
 aliases:
   - /dingen/2019/08/15600/

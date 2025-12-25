@@ -5,9 +5,6 @@ categories:
   - politics
   - san-francisco
 date: "2023-03-14T09:04:36+00:00"
-guid: https://alper.nl/dingen/?p=17133
-parent_post_id: null
-post_id: "17133"
 title: ""
 aliases:
   - /dingen/2023/03/17133/

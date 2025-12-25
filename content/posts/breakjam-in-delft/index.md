@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-09-23T17:37:07+00:00"
-guid: http://alper.nl/dingen/2007/09/breakjam-in-delft/
-parent_post_id: null
-post_id: "135"
 tags:
   - evenement
   - fotografie

@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2016-01-05T22:01:42+00:00"
-guid: http://alper.nl/dingen/?p=5465
-parent_post_id: null
-post_id: "5465"
 title: New beginnings
 aliases:
   - /dingen/2016/01/new-beginnings/

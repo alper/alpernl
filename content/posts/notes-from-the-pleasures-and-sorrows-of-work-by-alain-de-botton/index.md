@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2014-01-08T08:13:33+00:00"
-guid: http://alper.nl/dingen/?p=4864
-parent_post_id: null
-post_id: "4864"
 title: Notes from The Pleasures and Sorrows of Work by Alain de Botton
 aliases:
   - /dingen/2014/01/notes-from-the-pleasures-and-sorrows-of-work-by-alain-de-botton/

@@ -7,9 +7,6 @@ categories:
   - theater
   - turkish
 date: "2019-03-28T23:25:22+00:00"
-guid: https://alper.nl/dingen/?p=15270
-parent_post_id: null
-post_id: "15270"
 title: Late arrival to Verrücktes Blut
 aliases:
   - /dingen/2019/03/late-arrival-to-verrucktes-blut/

@@ -7,9 +7,6 @@ categories:
   - the-city
   - travel
 date: "2010-09-05T15:56:50+00:00"
-guid: http://alper.nl/dingen/?p=2069
-parent_post_id: null
-post_id: "2069"
 title: Boris Bikes are made of epic win
 aliases:
   - /dingen/2010/09/boris-bikes-are-made-of-epic-win/

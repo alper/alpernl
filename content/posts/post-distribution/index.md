@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2009-01-14T22:02:25+00:00"
-guid: http://alper.nl/dingen/?p=728
-parent_post_id: null
-post_id: "728"
 title: Post Distribution
 aliases:
   - /dingen/2009/01/post-distribution/

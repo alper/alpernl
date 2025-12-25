@@ -4,9 +4,6 @@ categories:
   - internet
   - nederlands
 date: "2008-12-25T13:54:21+00:00"
-guid: http://alper.nl/dingen/?p=695
-parent_post_id: null
-post_id: "695"
 title: Geldzaken op een rijtje
 aliases:
   - /dingen/2008/12/geldzaken-op-een-rijtje/

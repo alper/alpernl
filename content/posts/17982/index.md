@@ -4,9 +4,6 @@ categories:
   - english
   - podcast
 date: "2025-01-31T11:10:11+00:00"
-guid: https://alper.nl/dingen/?p=17982
-parent_post_id: null
-post_id: "17982"
 title: ""
 aliases:
   - /dingen/2025/01/17982/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2019-11-25T21:13:20+00:00"
-guid: http://alper.nl/dingen/?p=15854
-parent_post_id: null
-post_id: "15854"
 title: 'Types and Functions 2: Currying'
 aliases:
   - /dingen/2019/11/types-and-functions-2-currying/

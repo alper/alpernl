@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-11-18T10:11:36+00:00"
-guid: http://alper.nl/dingen/?p=5866
-parent_post_id: null
-post_id: "5866"
 title: Highlights from The Dispossessed
 aliases:
   - /dingen/2017/11/highlights-from-the-dispossessed/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2019-05-16T02:54:39+00:00"
-guid: http://alper.nl/dingen/?p=15413
-parent_post_id: null
-post_id: "15413"
 title: Personal Growth
 aliases:
   - /dingen/2019/05/personal-growth/

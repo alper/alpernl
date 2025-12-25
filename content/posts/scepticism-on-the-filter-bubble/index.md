@@ -5,9 +5,6 @@ categories:
   - english
   - internet
 date: "2012-01-01T09:54:48+00:00"
-guid: http://alper.nl/dingen/?p=3179
-parent_post_id: null
-post_id: "3179"
 title: Scepticism on the Filter Bubble
 aliases:
   - /dingen/2012/01/scepticism-on-the-filter-bubble/

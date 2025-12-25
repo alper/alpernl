@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2012-02-03T16:32:31+00:00"
-guid: http://alper.nl/dingen/?p=3277
-parent_post_id: null
-post_id: "3277"
 title: Working theory regarding bureaucracy
 aliases:
   - /dingen/2012/01/working-theory-regarding-bureaucracy/

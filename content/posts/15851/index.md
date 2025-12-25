@@ -5,9 +5,6 @@ categories:
   - english
   - music
 date: "2019-11-25T20:43:09+00:00"
-guid: http://alper.nl/dingen/?p=15851
-parent_post_id: null
-post_id: "15851"
 title: ""
 aliases:
   - /dingen/2019/11/15851/

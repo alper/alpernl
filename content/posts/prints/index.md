@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-25T22:27:26+00:00"
-guid: http://alper.nl/dingen/2007/06/prints/
-parent_post_id: null
-post_id: "78"
 tags:
   - fotografie
 title: Prints

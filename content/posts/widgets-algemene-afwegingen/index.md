@@ -5,9 +5,6 @@ categories:
   - nederlands
   - work
 date: "2009-05-19T15:02:15+00:00"
-guid: http://alper.nl/dingen/?p=964
-parent_post_id: null
-post_id: "964"
 title: Widgets algemene afwegingen
 aliases:
   - /dingen/2009/05/widgets-algemene-afwegingen/

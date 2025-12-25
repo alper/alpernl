@@ -3,9 +3,6 @@ author: alper
 categories:
   - reading
 date: "2007-05-13T20:20:53+00:00"
-guid: http://alper.nl/dingen/2007/05/macbook-ingeleverd/
-parent_post_id: null
-post_id: "41"
 tags:
   - apple
   - klantenervaring

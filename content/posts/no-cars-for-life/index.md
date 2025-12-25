@@ -4,9 +4,6 @@ categories:
   - english
   - the-city
 date: "2012-06-12T13:03:07+00:00"
-guid: http://alper.nl/dingen/?p=3623
-parent_post_id: null
-post_id: "3623"
 title: No cars for life
 aliases:
   - /dingen/2012/06/no-cars-for-life/

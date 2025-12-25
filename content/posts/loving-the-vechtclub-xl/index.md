@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2014-04-18T07:32:07+00:00"
-guid: http://alper.nl/dingen/?p=4962
-parent_post_id: null
-post_id: "4962"
 title: Loving the Vechtclub XL
 aliases:
   - /dingen/2014/04/loving-the-vechtclub-xl/

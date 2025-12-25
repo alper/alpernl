@@ -37,9 +37,11 @@
   * [ ] https://gohugo.io/configuration/all/
   * [x] Remove /dingen prefix
   * [x] Create new permalink setup and alias the old links
-  * [ ] https://gohugo.io/configuration/permalinks/
+    * https://gohugo.io/configuration/permalinks/
+  * [ ] Set correct homepage
 * Theme edits
   * [x] Fix display of titleless posts
+  * [ ] Fix display of titleless posts in search
   * [x] Remove time to read
   * [x] Show all categories
   * [ ] Remove dangling categories

@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - strategy
 date: "2023-02-04T09:59:51+00:00"
-guid: https://alper.nl/dingen/?p=17014
-parent_post_id: null
-post_id: "17014"
 title: ""
 aliases:
   - /dingen/2023/02/17014/

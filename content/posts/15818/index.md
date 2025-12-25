@@ -5,9 +5,6 @@ categories:
   - internet
   - nederlands
 date: "2019-11-10T09:24:08+00:00"
-guid: http://alper.nl/dingen/?p=15818
-parent_post_id: null
-post_id: "15818"
 title: ""
 aliases:
   - /dingen/2019/11/15818/

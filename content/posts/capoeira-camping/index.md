@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-08-13T09:23:43+00:00"
-guid: http://alper.nl/dingen/2007/08/capoeira-camping/
-parent_post_id: null
-post_id: "115"
 tags:
   - reizen
 title: Capoeira Camping

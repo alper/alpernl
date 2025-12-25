@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-16T10:22:27+00:00"
-guid: http://alper.nl/dingen/2008/01/schilderwerk/
-parent_post_id: null
-post_id: "224"
 tags:
   - huis
 title: Schilderwerk

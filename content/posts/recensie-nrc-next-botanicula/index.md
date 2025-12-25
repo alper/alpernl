@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-01-01T07:25:59+00:00"
-guid: http://alper.nl/dingen/?p=4091
-parent_post_id: null
-post_id: "4091"
 tags:
   - nrcnext
 title: 'Recensie nrc.next: Botanicula'

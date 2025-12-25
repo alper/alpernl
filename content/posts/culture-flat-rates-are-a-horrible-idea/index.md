@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2012-03-31T15:47:58+00:00"
-guid: http://alper.nl/dingen/?p=3462
-parent_post_id: null
-post_id: "3462"
 title: Culture flat rates are a horrible idea
 aliases:
   - /dingen/2012/03/culture-flat-rates-are-a-horrible-idea/

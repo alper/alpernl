@@ -5,9 +5,6 @@ categories:
   - climate
   - deutsch
 date: "2021-08-28T08:00:23+00:00"
-guid: https://alper.nl/dingen/?p=16583
-parent_post_id: null
-post_id: "16583"
 title: Tram lines
 aliases:
   - /dingen/2021/08/tram-lines/

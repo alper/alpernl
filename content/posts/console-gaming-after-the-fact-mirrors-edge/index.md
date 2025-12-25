@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2015-01-08T11:44:42+00:00"
-guid: http://alper.nl/dingen/?p=5094
-parent_post_id: null
-post_id: "5094"
 title: 'Console gaming after the fact: Mirror''s Edge'
 aliases:
   - /dingen/2015/01/console-gaming-after-the-fact-mirrors-edge/

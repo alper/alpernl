@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2009-06-24T23:21:25+00:00"
-guid: http://alper.nl/dingen/?p=1083
-parent_post_id: null
-post_id: "1083"
 title: Friendlier and more open government data
 aliases:
   - /dingen/2009/06/friendlier-and-more-open-government-data/

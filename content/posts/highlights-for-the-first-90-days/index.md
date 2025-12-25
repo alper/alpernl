@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2018-12-03T20:04:56+00:00"
-guid: http://alper.nl/dingen/?p=6078
-parent_post_id: null
-post_id: "6078"
 title: Highlights for The First 90 Days
 aliases:
   - /dingen/2018/12/highlights-for-the-first-90-days/

@@ -5,9 +5,6 @@ categories:
   - berlin
   - english
 date: "2012-01-17T07:27:06+00:00"
-guid: http://alper.nl/dingen/?p=3131
-parent_post_id: null
-post_id: "3131"
 title: Whither the theater?
 aliases:
   - /dingen/2012/01/whither-the-theater/

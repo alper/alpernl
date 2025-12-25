@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2015-03-18T08:31:13+00:00"
-guid: http://alper.nl/dingen/?p=5189
-parent_post_id: null
-post_id: "5189"
 title: Jumping to the end by Matt Jones
 aliases:
   - /dingen/2015/03/jumping-to-the-end-by-matt-jones/

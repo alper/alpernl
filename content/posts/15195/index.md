@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-02-28T22:25:45+00:00"
-guid: http://alper.nl/dingen/?p=15195
-parent_post_id: null
-post_id: "15195"
 title: Changing my media diet
 aliases:
   - /dingen/2019/02/15195/

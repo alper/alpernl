@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-09-25T08:42:49+00:00"
-guid: http://alper.nl/dingen/2007/09/immorele-gastjes/
-parent_post_id: null
-post_id: "138"
 tags:
   - burgerrechten
   - cultuur

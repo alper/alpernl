@@ -6,9 +6,6 @@ categories:
   - travel
   - work
 date: "2012-11-19T17:40:11+00:00"
-guid: http://alper.nl/dingen/?p=3989
-parent_post_id: null
-post_id: "3989"
 tags:
   - weeknotes
 title: 'Week 296: Back in Europe/business'

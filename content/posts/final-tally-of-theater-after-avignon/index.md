@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2012-07-27T14:04:33+00:00"
-guid: http://alper.nl/dingen/?p=3746
-parent_post_id: null
-post_id: "3746"
 title: Final tally of theater after Avignon
 aliases:
   - /dingen/2012/07/final-tally-of-theater-after-avignon/

@@ -5,9 +5,6 @@ categories:
   - science
   - work
 date: "2019-05-12T20:16:22+00:00"
-guid: http://alper.nl/dingen/?p=15408
-parent_post_id: null
-post_id: "15408"
 title: ""
 aliases:
   - /dingen/2019/05/15408/

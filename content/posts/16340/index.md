@@ -6,9 +6,6 @@ categories:
   - the-city
   - turkish
 date: "2020-10-23T21:00:53+00:00"
-guid: http://www.alper.nl/dingen/?p=16340
-parent_post_id: null
-post_id: "16340"
 title: ""
 aliases:
   - /dingen/2020/10/16340/

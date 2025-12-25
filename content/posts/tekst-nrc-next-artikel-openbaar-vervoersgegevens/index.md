@@ -8,9 +8,6 @@ categories:
   - travel
   - work
 date: "2010-11-05T05:16:37+00:00"
-guid: http://alper.nl/dingen/?p=2253
-parent_post_id: null
-post_id: "2253"
 title: Tekst NRC.next-artikel openbaar vervoersgegevens
 aliases:
   - /dingen/2010/10/tekst-nrc-next-artikel-openbaar-vervoersgegevens/

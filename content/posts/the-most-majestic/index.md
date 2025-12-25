@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-17T07:28:47+00:00"
-guid: http://alper.nl/dingen/2008/01/the-most-majestic/
-parent_post_id: null
-post_id: "225"
 tags:
   - fotografie
   - koffie

@@ -2,9 +2,6 @@
 _wp_page_template: default
 author: admin
 date: "2018-12-21T02:12:34+00:00"
-guid: ""
-parent_post_id: null
-post_id: "2"
 title: Biography
 aliases:
   - /dingen/alper-cugun-biography/

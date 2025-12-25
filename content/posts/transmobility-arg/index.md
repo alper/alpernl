@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - the-city
 date: "2011-02-17T11:04:22+00:00"
-guid: http://alper.nl/dingen/?p=2421
-parent_post_id: null
-post_id: "2421"
 title: Transmobility ARG
 aliases:
   - /dingen/2011/02/transmobility-arg/

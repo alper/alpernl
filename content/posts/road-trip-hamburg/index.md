@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2007-10-12T09:46:57+00:00"
-guid: http://alper.nl/dingen/2007/10/road-trip-hamburg/
-parent_post_id: null
-post_id: "158"
 tags:
   - reizen
 title: Road Trip Hamburg

@@ -5,9 +5,6 @@ categories:
   - internet
   - photography
 date: "2020-08-05T21:02:11+00:00"
-guid: http://alper.nl/dingen/?p=16213
-parent_post_id: null
-post_id: "16213"
 title: Losing @firstname on Instagram
 aliases:
   - /dingen/2020/08/losing-firstname-on-instagram/

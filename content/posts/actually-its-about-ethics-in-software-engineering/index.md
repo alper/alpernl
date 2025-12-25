@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2015-11-11T22:27:00+00:00"
-guid: http://alper.nl/dingen/?p=5329
-parent_post_id: null
-post_id: "5329"
 title: Actually it's about ethics in software engineering
 aliases:
   - /dingen/2015/10/actually-its-about-ethics-in-software-engineering/

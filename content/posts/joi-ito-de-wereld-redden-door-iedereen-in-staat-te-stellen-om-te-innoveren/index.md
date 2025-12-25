@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-03-14T07:43:51+00:00"
-guid: http://alper.nl/dingen/?p=1685
-parent_post_id: null
-post_id: "1685"
 title: Joi Ito - De wereld redden door iedereen in staat te stellen om te innoveren
 aliases:
   - /dingen/2010/03/joi-ito-de-wereld-redden-door-iedereen-in-staat-te-stellen-om-te-innoveren/

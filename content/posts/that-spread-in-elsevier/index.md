@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2016-04-05T07:35:17+00:00"
-guid: http://alper.nl/dingen/?p=5557
-parent_post_id: null
-post_id: "5557"
 title: That spread in Elsevier
 aliases:
   - /dingen/2016/04/that-spread-in-elsevier/

@@ -4,9 +4,6 @@ categories:
   - english
   - monster-swell
 date: "2013-01-21T22:32:54+00:00"
-guid: http://alper.nl/dingen/?p=4214
-parent_post_id: null
-post_id: "4214"
 tags:
   - weeknotes
 title: Week 305

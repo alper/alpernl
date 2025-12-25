@@ -5,9 +5,6 @@ categories:
   - politics
   - video
 date: "2008-12-07T17:45:41+00:00"
-guid: http://alper.nl/dingen/?p=631
-parent_post_id: null
-post_id: "631"
 title: Flattened Conflict
 aliases:
   - /dingen/2008/12/flattened-conflict/

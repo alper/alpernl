@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-09-03T09:54:57+00:00"
-guid: http://alper.nl/dingen/?p=330
-parent_post_id: null
-post_id: "330"
 tags:
   - uncategorized
 title: Evaluate

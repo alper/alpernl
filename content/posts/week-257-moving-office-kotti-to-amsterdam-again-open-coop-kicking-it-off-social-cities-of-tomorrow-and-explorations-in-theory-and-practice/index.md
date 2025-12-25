@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-02-19T21:04:07+00:00"
-guid: http://alper.nl/dingen/?p=3349
-parent_post_id: null
-post_id: "3349"
 tags:
   - weeknotes
 title: 'Week 257: moving office, Kotti, to Amsterdam again, Open Coop kicking it off, Social Cities of Tomorrow and explorations in theory and practice'

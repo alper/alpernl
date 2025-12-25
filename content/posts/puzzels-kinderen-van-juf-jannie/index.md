@@ -7,9 +7,6 @@ categories:
   - kids
   - nederlands
 date: "2019-05-05T09:31:09+00:00"
-guid: http://alper.nl/dingen/?p=15370
-parent_post_id: null
-post_id: "15370"
 title: Puzzels kinderen van Juf Jannie
 aliases:
   - /dingen/2019/05/puzzels-kinderen-van-juf-jannie/

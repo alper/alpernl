@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-14T21:47:52+00:00"
-guid: http://alper.nl/dingen/2007/06/de-open-samenleving-en-haar-vijanden/
-parent_post_id: null
-post_id: "66"
 tags:
   - filosofie
   - internet

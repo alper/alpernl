@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-04-06T21:05:51+00:00"
-guid: http://alper.nl/dingen/2008/04/slaapkamerraam/
-parent_post_id: null
-post_id: "280"
 tags:
   - fotografie
   - huis

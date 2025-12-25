@@ -5,9 +5,6 @@ categories:
   - istanbul
   - photography
 date: "2019-03-06T22:36:51+00:00"
-guid: http://alper.nl/dingen/?p=15217
-parent_post_id: null
-post_id: "15217"
 title: ""
 aliases:
   - /dingen/2019/03/15217/

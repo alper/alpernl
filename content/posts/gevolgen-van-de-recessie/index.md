@@ -4,9 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-11-01T07:15:40+00:00"
-guid: http://alper.nl/dingen/?p=568
-parent_post_id: null
-post_id: "568"
 title: Gevolgen van de recessie
 aliases:
   - /dingen/2008/11/gevolgen-van-de-recessie/

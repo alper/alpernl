@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2020-07-20T22:35:15+00:00"
-guid: http://alper.nl/dingen/?p=16183
-parent_post_id: null
-post_id: "16183"
 title: 'nrc.next game-recensie: Desert Golfing'
 aliases:
   - /dingen/2020/07/nrc-next-game-recensie-desert-golfing/

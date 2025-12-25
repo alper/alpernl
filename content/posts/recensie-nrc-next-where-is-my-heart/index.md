@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-01-08T07:45:12+00:00"
-guid: http://alper.nl/dingen/?p=4089
-parent_post_id: null
-post_id: "4089"
 tags:
   - nrcnext
 title: 'Recensie nrc.next: Where Is My Heart?'

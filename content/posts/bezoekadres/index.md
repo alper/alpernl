@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-19T16:20:15+00:00"
-guid: http://alper.nl/dingen/2007/12/bezoekadres/
-parent_post_id: null
-post_id: "202"
 tags:
   - huis
 title: Bezoekadres

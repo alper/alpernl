@@ -9,9 +9,6 @@ enclosure: |-
   http://mirror.fem-net.de/CCC/26C3/mp4/26c3-3567-en-wikileaks_release_10.mp4
   740535366
   video/mp4
-guid: http://alper.nl/dingen/?p=1481
-parent_post_id: null
-post_id: "1481"
 title: Een drakenschip voor informatievrijheid
 aliases:
   - /dingen/2010/02/een-drakenschip-voor-informatievrijheid/

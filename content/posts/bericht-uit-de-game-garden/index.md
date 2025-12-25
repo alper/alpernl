@@ -4,9 +4,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2011-11-08T06:42:04+00:00"
-guid: http://alper.nl/dingen/?p=3066
-parent_post_id: null
-post_id: "3066"
 title: Bericht uit de Game Garden
 aliases:
   - /dingen/2011/11/bericht-uit-de-game-garden/

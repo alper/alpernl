@@ -4,9 +4,6 @@ categories:
   - internet
   - uncategorized
 date: "2007-08-01T14:33:26+00:00"
-guid: http://alper.nl/dingen/2007/08/marktfalen-in-de-telecom/
-parent_post_id: null
-post_id: "107"
 tags:
   - computers
   - internet

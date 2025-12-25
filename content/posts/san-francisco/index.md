@@ -5,9 +5,6 @@ categories:
   - travel
   - uncategorized
 date: "2008-10-12T00:37:20+00:00"
-guid: http://alper.nl/dingen/?p=544
-parent_post_id: null
-post_id: "544"
 title: San Francisco
 aliases:
   - /dingen/2008/10/san-francisco/

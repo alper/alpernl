@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2012-09-11T08:15:11+00:00"
-guid: http://alper.nl/dingen/?p=3857
-parent_post_id: null
-post_id: "3857"
 title: dConstruct on the future, progress and play
 aliases:
   - /dingen/2012/09/dconstruct-on-the-future-progress-and-play/

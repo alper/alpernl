@@ -6,9 +6,6 @@ categories:
   - english
   - video
 date: "2016-06-27T08:41:39+00:00"
-guid: http://alper.nl/dingen/?p=5587
-parent_post_id: null
-post_id: "5587"
 title: Welt am Draht
 aliases:
   - /dingen/2016/06/welt-am-draht/

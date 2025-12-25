@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2025-11-30T11:18:06+00:00"
-guid: https://alper.nl/dingen/?p=18500
-parent_post_id: null
-post_id: "18500"
 title: Iseji - Day 3 - Kiinagashima to Owase
 aliases:
   - /dingen/2025/11/iseji-day-3-kiinagashima-to-owase/

@@ -5,9 +5,6 @@ categories:
   - english
   - internet
 date: "2008-11-11T14:27:45+00:00"
-guid: http://alper.nl/dingen/?p=612
-parent_post_id: null
-post_id: "612"
 title: Beers at Stagioni
 aliases:
   - /dingen/2008/11/beers-at-stagioni/

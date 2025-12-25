@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-11-20T19:21:31+00:00"
-guid: http://alper.nl/dingen/2007/11/de-essentie-van-hardlopen/
-parent_post_id: null
-post_id: "188"
 tags:
   - sport
 title: De essentie van hardlopen

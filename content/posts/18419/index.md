@@ -7,9 +7,6 @@ categories:
   - maths
   - software-engineering
 date: "2025-10-25T10:08:13+00:00"
-guid: https://alper.nl/dingen/?p=18419
-parent_post_id: null
-post_id: "18419"
 title: ""
 aliases:
   - /dingen/2025/10/18419/

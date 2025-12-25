@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2018-01-02T21:44:46+00:00"
-guid: http://alper.nl/dingen/?p=5927
-parent_post_id: null
-post_id: "5927"
 title: Highlights for The Coaching Habit
 aliases:
   - /dingen/2018/01/highlights-for-the-coaching-habit/

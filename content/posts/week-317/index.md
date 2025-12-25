@@ -6,9 +6,6 @@ categories:
   - travel
   - work
 date: "2013-04-21T19:25:38+00:00"
-guid: http://alper.nl/dingen/?p=4508
-parent_post_id: null
-post_id: "4508"
 tags:
   - weeknotes
 title: Week 317

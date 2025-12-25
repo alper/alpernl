@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2014-03-26T08:13:51+00:00"
-guid: http://alper.nl/dingen/?p=4928
-parent_post_id: null
-post_id: "4928"
 title: 'New Ways to Work: A Long Overdue Update to the Heist Model'
 aliases:
   - /dingen/2014/03/new-ways-to-work-a-long-overdue-update-to-the-heist-model/

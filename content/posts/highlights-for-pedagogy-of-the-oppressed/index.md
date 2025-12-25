@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-01-02T21:41:34+00:00"
-guid: http://alper.nl/dingen/?p=5926
-parent_post_id: null
-post_id: "5926"
 title: Highlights for Pedagogy of the Oppressed
 aliases:
   - /dingen/2018/01/highlights-for-pedagogy-of-the-oppressed/

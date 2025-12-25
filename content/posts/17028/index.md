@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2023-02-10T21:25:44+00:00"
-guid: https://alper.nl/dingen/?p=17028
-parent_post_id: null
-post_id: "17028"
 title: My functional journey
 aliases:
   - /dingen/2023/02/17028/

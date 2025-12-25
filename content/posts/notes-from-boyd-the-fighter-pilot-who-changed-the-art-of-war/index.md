@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-11-05T07:28:54+00:00"
-guid: http://alper.nl/dingen/?p=4814
-parent_post_id: null
-post_id: "4814"
 title: 'Notes from Boyd: The Fighter Pilot Who Changed the Art of War'
 aliases:
   - /dingen/2013/11/notes-from-boyd-the-fighter-pilot-who-changed-the-art-of-war/

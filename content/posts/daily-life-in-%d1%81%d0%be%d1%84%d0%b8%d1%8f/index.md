@@ -5,9 +5,6 @@ categories:
   - photography
   - travel
 date: "2008-08-19T21:19:17+00:00"
-guid: http://alper.nl/dingen/?p=365
-parent_post_id: null
-post_id: "365"
 tags:
   - "120"
   - bulgaria

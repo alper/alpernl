@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2008-02-04T06:10:03+00:00"
-guid: http://alper.nl/dingen/2008/02/vrij-weekend/
-parent_post_id: null
-post_id: "245"
 tags:
   - amsterdam
   - computers

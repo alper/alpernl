@@ -6,9 +6,6 @@ categories:
   - reading
   - work
 date: "2009-11-16T22:39:18+00:00"
-guid: http://alper.nl/dingen/?p=1329
-parent_post_id: null
-post_id: "1329"
 title: De anatomie van het nieuws
 aliases:
   - /dingen/2009/10/de-anatomie-van-het-nieuws/

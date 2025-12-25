@@ -5,9 +5,6 @@ categories:
   - internet
   - video
 date: "2009-07-16T13:27:09+00:00"
-guid: http://alper.nl/dingen/?p=1116
-parent_post_id: null
-post_id: "1116"
 title: Augmented reality in HTML5
 aliases:
   - /dingen/2009/07/augmented-reality-in-html5/

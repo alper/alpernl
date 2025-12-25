@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-29T01:37:00+00:00"
-guid: http://alper.nl/dingen/2007/05/surfs-up/
-parent_post_id: null
-post_id: "54"
 tags:
   - strand
   - surfen

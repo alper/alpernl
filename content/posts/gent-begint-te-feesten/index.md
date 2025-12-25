@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-14T20:13:19+00:00"
-guid: http://alper.nl/dingen/2007/07/gent-begint-te-feesten/
-parent_post_id: null
-post_id: "93"
 tags:
   - fotografie
   - gent

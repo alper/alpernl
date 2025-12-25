@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-02-15T13:48:30+00:00"
-guid: http://alper.nl/dingen/?p=3334
-parent_post_id: null
-post_id: "3334"
 title: 'Week 256: Agora, HIIG, Nederland van Boven and ice-skating'
 aliases:
   - /dingen/2012/02/week-256-agora-hiig-nederland-van-boven-and-ice-skating/

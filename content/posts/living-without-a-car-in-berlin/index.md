@@ -5,9 +5,6 @@ categories:
   - deutsch
   - english
 date: "2019-06-02T21:47:39+00:00"
-guid: http://alper.nl/dingen/?p=15480
-parent_post_id: null
-post_id: "15480"
 title: Living without a car in Berlin
 aliases:
   - /dingen/2019/06/living-without-a-car-in-berlin/

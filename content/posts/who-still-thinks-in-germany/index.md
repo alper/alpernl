@@ -5,9 +5,6 @@ categories:
   - english
   - reading
 date: "2013-01-26T10:50:37+00:00"
-guid: http://alper.nl/dingen/?p=4066
-parent_post_id: null
-post_id: "4066"
 title: Who still thinks in Germany?
 aliases:
   - /dingen/2013/01/who-still-thinks-in-germany/

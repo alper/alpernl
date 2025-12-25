@@ -7,9 +7,6 @@ categories:
   - travel
   - work
 date: "2012-07-30T07:35:58+00:00"
-guid: http://alper.nl/dingen/?p=3712
-parent_post_id: null
-post_id: "3712"
 tags:
   - weeknotes
 title: 'Week 279: Paris, Numerical Revolutions, Helsinki, Dutch eCulture Days'

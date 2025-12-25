@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - video
 date: "2010-09-29T13:40:09+00:00"
-guid: http://alper.nl/dingen/?p=2150
-parent_post_id: null
-post_id: "2150"
 title: Spiegel van Holland
 aliases:
   - /dingen/2010/09/spiegel-van-holland/

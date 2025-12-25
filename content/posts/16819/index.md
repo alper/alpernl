@@ -6,9 +6,6 @@ categories:
   - reading
   - science
 date: "2022-07-17T09:02:34+00:00"
-guid: https://alper.nl/dingen/?p=16819
-parent_post_id: null
-post_id: "16819"
 title: ""
 aliases:
   - /dingen/2022/07/16819/

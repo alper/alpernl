@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-01-01T12:00:35+00:00"
-guid: http://alper.nl/dingen/?p=5683
-parent_post_id: null
-post_id: "5683"
 title: Highlights from Lean UX
 aliases:
   - /dingen/2017/01/highlights-from-lean-ux/

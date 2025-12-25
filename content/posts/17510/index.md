@@ -5,9 +5,6 @@ categories:
   - software-engineering
   - video
 date: "2024-03-12T00:03:52+00:00"
-guid: https://alper.nl/dingen/?p=17510
-parent_post_id: null
-post_id: "17510"
 title: ""
 aliases:
   - /dingen/2024/03/17510/

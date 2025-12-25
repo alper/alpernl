@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2008-11-29T09:38:35+00:00"
-guid: http://alper.nl/dingen/?p=619
-parent_post_id: null
-post_id: "619"
 title: Service Design
 aliases:
   - /dingen/2008/11/service-design/

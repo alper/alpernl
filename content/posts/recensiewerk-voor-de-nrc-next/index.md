@@ -5,9 +5,6 @@ categories:
   - games
   - publicity
 date: "2012-12-27T07:51:15+00:00"
-guid: http://alper.nl/dingen/?p=4085
-parent_post_id: null
-post_id: "4085"
 tags:
   - nrcnext
 title: Recensiewerk voor de nrc.next

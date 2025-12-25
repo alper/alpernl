@@ -6,9 +6,6 @@ categories:
   - music
   - video
 date: "2024-11-10T08:39:01+00:00"
-guid: https://alper.nl/dingen/?p=17699
-parent_post_id: null
-post_id: "17699"
 title: GIFT
 aliases:
   - /dingen/2024/11/gift/

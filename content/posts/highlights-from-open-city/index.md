@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-02-19T18:51:58+00:00"
-guid: http://alper.nl/dingen/?p=5733
-parent_post_id: null
-post_id: "5733"
 title: Highlights from Open City
 aliases:
   - /dingen/2017/02/highlights-from-open-city/

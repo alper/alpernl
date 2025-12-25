@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2012-02-27T17:33:36+00:00"
-guid: http://alper.nl/dingen/?p=3372
-parent_post_id: null
-post_id: "3372"
 tags:
   - weeknotes
 title: 'Week 258: Madrid, RIO'

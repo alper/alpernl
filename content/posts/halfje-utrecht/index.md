@@ -4,9 +4,6 @@ categories:
   - nederlands
   - sports
 date: "2009-04-15T09:58:38+00:00"
-guid: http://alper.nl/dingen/?p=924
-parent_post_id: null
-post_id: "924"
 title: Halfje Utrecht
 aliases:
   - /dingen/2009/04/halfje-utrecht/

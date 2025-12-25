@@ -6,9 +6,6 @@ categories:
   - reading
   - video
 date: "2010-10-29T10:06:08+00:00"
-guid: http://alper.nl/dingen/?p=2257
-parent_post_id: null
-post_id: "2257"
 title: Een grijs-bruin vaderland
 aliases:
   - /dingen/2010/10/een-grijs-bruin-vaderland/

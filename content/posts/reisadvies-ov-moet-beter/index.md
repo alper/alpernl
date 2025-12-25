@@ -6,9 +6,6 @@ categories:
   - the-city
   - travel
 date: "2009-11-15T22:25:51+00:00"
-guid: http://alper.nl/dingen/?p=1372
-parent_post_id: null
-post_id: "1372"
 title: Reisadvies ov moet beter
 aliases:
   - /dingen/2009/11/reisadvies-ov-moet-beter/

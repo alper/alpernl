@@ -7,9 +7,6 @@ categories:
   - travel
   - uncategorized
 date: "2008-06-29T22:54:18+00:00"
-guid: http://alper.nl/dingen/?p=317
-parent_post_id: null
-post_id: "317"
 tags:
   - uncategorized
 title: 10th Reboot - day 1

@@ -4,9 +4,6 @@ author: alper
 categories:
   - english
 date: "2019-11-27T12:23:56+00:00"
-guid: http://alper.nl/dingen/?p=15868
-parent_post_id: null
-post_id: "15868"
 title: 'Types and Functions 6: Applicative'
 aliases:
   - /dingen/2019/11/types-and-functions-6-applicative/

@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-26T20:35:59+00:00"
-guid: http://alper.nl/dingen/?p=3433
-parent_post_id: null
-post_id: "3433"
 tags:
   - weeknotes
 title: 'Week 261: Phonegap, Gobsquad and Hohenschönhausen'

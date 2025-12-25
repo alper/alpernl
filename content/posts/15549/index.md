@@ -5,9 +5,6 @@ categories:
   - politics
   - video
 date: "2019-06-22T22:35:17+00:00"
-guid: http://alper.nl/dingen/?p=15549
-parent_post_id: null
-post_id: "15549"
 title: ""
 aliases:
   - /dingen/2019/06/15549/

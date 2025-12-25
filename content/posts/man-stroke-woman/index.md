@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-27T08:30:50+00:00"
-guid: http://alper.nl/dingen/2007/12/man-stroke-woman/
-parent_post_id: null
-post_id: "213"
 tags:
   - televisie
 title: Man stroke woman

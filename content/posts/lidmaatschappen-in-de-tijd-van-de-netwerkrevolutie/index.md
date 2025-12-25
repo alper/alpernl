@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-10-23T18:25:11+00:00"
-guid: http://alper.nl/dingen/?p=2223
-parent_post_id: null
-post_id: "2223"
 title: Lidmaatschappen in de tijd van de Netwerkrevolutie
 aliases:
   - /dingen/2010/10/lidmaatschappen-in-de-tijd-van-de-netwerkrevolutie/

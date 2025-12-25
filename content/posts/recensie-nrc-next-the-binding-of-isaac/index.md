@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-01-15T07:43:11+00:00"
-guid: http://alper.nl/dingen/?p=4086
-parent_post_id: null
-post_id: "4086"
 tags:
   - nrcnext
 title: 'Recensie nrc.next: The Binding of Isaac'

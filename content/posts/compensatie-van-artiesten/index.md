@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-12-20T11:28:02+00:00"
-guid: http://alper.nl/dingen/2007/12/compensatie-van-artiesten/
-parent_post_id: null
-post_id: "206"
 tags:
   - muziek
   - ondernemen

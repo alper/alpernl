@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2018-07-11T21:05:43+00:00"
-guid: http://alper.nl/dingen/?p=6035
-parent_post_id: null
-post_id: "6035"
 title: Highlights for Be Like the Fox
 aliases:
   - /dingen/2018/07/highlights-for-be-like-the-fox/

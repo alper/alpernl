@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-21T10:10:16+00:00"
-guid: http://alper.nl/dingen/?p=3559
-parent_post_id: null
-post_id: "3559"
 tags:
   - weeknotes
 title: 'Week 270: Amsterdam encounters, data visualization, foundational work'

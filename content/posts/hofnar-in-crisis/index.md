@@ -5,9 +5,6 @@ categories:
   - politics
   - video
 date: "2009-03-06T13:19:26+00:00"
-guid: http://alper.nl/dingen/?p=821
-parent_post_id: null
-post_id: "821"
 title: Hofnar in tijden van crisis
 aliases:
   - /dingen/2009/03/hofnar-in-crisis/

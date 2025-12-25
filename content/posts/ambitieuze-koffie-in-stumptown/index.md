@@ -5,9 +5,6 @@ categories:
   - food
   - nederlands
 date: "2010-05-09T15:53:54+00:00"
-guid: http://alper.nl/dingen/?p=1769
-parent_post_id: null
-post_id: "1769"
 title: Ambitieuze koffie in Stumptown
 aliases:
   - /dingen/2010/05/ambitieuze-koffie-in-stumptown/

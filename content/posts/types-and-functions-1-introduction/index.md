@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2019-11-25T21:07:57+00:00"
-guid: http://alper.nl/dingen/?p=15853
-parent_post_id: null
-post_id: "15853"
 title: 'Types and Functions 1: Introduction'
 aliases:
   - /dingen/2019/11/types-and-functions-1-introduction/

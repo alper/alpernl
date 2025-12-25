@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2020-09-30T21:48:47+00:00"
-guid: http://alper.nl/dingen/?p=16314
-parent_post_id: null
-post_id: "16314"
 title: Getting @firstname back
 aliases:
   - /dingen/2020/09/getting-firstname-back/

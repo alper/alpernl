@@ -7,9 +7,6 @@ categories:
   - reading
   - work
 date: "2011-12-11T17:49:26+00:00"
-guid: http://alper.nl/dingen/?p=3134
-parent_post_id: null
-post_id: "3134"
 tags:
   - weeknotes
 title: Week 247

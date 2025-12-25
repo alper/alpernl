@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-03-27T07:30:30+00:00"
-guid: http://alper.nl/dingen/?p=4467
-parent_post_id: null
-post_id: "4467"
 title: Highlights from the Elementary Particles by Michel Houellebecq
 aliases:
   - /dingen/2013/03/highlights-from-the-elementary-particles-by-michel-houellebecq/

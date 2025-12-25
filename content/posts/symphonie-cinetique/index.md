@@ -5,9 +5,6 @@ categories:
   - berlin
   - english
 date: "2013-09-23T07:29:05+00:00"
-guid: http://alper.nl/dingen/?p=4769
-parent_post_id: null
-post_id: "4769"
 title: Symphonie Cinétique
 aliases:
   - /dingen/2013/09/symphonie-cinetique/

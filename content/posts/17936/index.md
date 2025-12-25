@@ -6,9 +6,6 @@ categories:
   - music
   - product-/-design
 date: "2025-01-15T09:59:08+00:00"
-guid: https://alper.nl/dingen/?p=17936
-parent_post_id: null
-post_id: "17936"
 title: ""
 aliases:
   - /dingen/2025/01/17936/

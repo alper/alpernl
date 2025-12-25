@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-03-12T22:03:16+00:00"
-guid: http://alper.nl/dingen/2008/03/ticking-timebomb/
-parent_post_id: null
-post_id: "273"
 tags:
   - amerika
   - midden-oosten

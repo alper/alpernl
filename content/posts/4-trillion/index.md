@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2023-04-22T10:56:25+00:00"
-guid: https://alper.nl/dingen/?p=17172
-parent_post_id: null
-post_id: "17172"
 title: 4 trillion
 aliases:
   - /dingen/2023/04/4-trillion/

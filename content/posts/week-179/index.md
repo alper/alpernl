@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-08-24T06:57:14+00:00"
-guid: http://alper.nl/dingen/?p=2047
-parent_post_id: null
-post_id: "2047"
 tags:
   - weeknotes
 title: Week 179

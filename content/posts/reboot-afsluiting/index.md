@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-04T10:27:47+00:00"
-guid: http://alper.nl/dingen/2007/06/reboot-afsluiting/
-parent_post_id: null
-post_id: "57"
 tags:
   - computers
   - evenement

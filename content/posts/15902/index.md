@@ -4,9 +4,6 @@ categories:
   - english
   - philosophy
 date: "2019-11-29T21:40:01+00:00"
-guid: http://alper.nl/dingen/?p=15902
-parent_post_id: null
-post_id: "15902"
 title: ""
 aliases:
   - /dingen/2019/11/15902/

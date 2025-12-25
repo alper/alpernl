@@ -5,9 +5,6 @@ categories:
   - english
   - photography
 date: "2008-06-08T15:35:08+00:00"
-guid: http://alper.nl/dingen/?p=307
-parent_post_id: null
-post_id: "307"
 tags:
   - delft
   - photography

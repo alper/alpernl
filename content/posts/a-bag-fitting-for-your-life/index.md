@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-06-27T20:25:30+00:00"
-guid: http://alper.nl/dingen/2007/06/a-bag-fitting-for-your-life/
-parent_post_id: null
-post_id: "81"
 tags:
   - eelke-dekker
   - movies

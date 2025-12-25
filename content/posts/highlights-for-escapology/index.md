@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2020-04-08T19:48:58+00:00"
-guid: http://alper.nl/dingen/?p=16045
-parent_post_id: null
-post_id: "16045"
 title: Highlights for Escapology
 aliases:
   - /dingen/2020/04/highlights-for-escapology/

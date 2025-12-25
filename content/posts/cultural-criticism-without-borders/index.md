@@ -5,9 +5,6 @@ categories:
   - english
   - games
 date: "2012-01-15T23:28:37+00:00"
-guid: http://alper.nl/dingen/?p=3165
-parent_post_id: null
-post_id: "3165"
 title: Cultural Criticism Without Borders
 aliases:
   - /dingen/2011/12/cultural-criticism-without-borders/

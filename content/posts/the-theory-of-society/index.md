@@ -6,9 +6,6 @@ categories:
   - reading
   - science
 date: "2019-06-05T21:40:37+00:00"
-guid: http://alper.nl/dingen/?p=15487
-parent_post_id: null
-post_id: "15487"
 title: The Theory of Society
 aliases:
   - /dingen/2019/06/the-theory-of-society/

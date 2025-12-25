@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - product-/-design
 date: "2011-04-12T00:06:02+00:00"
-guid: http://alper.nl/dingen/?p=2562
-parent_post_id: null
-post_id: "2562"
 tags:
   - weeknotes
 title: Week 212

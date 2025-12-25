@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2012-10-21T17:39:47+00:00"
-guid: http://alper.nl/dingen/?p=3911
-parent_post_id: null
-post_id: "3911"
 title: 'Berlin Inefficiences: 1/2 Cents'
 aliases:
   - /dingen/2012/10/berlin-inefficiences-12-cents/

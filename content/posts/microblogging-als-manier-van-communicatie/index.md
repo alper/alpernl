@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-24T12:34:59+00:00"
-guid: http://alper.nl/dingen/2007/10/microblogging-als-manier-van-communicatie/
-parent_post_id: null
-post_id: "171"
 tags:
   - uncategorized
 title: Microblogging als manier van communicatie

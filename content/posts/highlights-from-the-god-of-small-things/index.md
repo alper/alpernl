@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-09-26T21:41:04+00:00"
-guid: http://alper.nl/dingen/?p=5839
-parent_post_id: null
-post_id: "5839"
 title: Highlights from the God of Small Things
 aliases:
   - /dingen/2017/09/highlights-from-the-god-of-small-things/

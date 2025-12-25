@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2008-02-07T19:28:08+00:00"
-guid: http://alper.nl/dingen/2008/02/ruimte-om-samen-te-werken/
-parent_post_id: null
-post_id: "249"
 tags:
   - werken
   - zelfstandig

@@ -5,9 +5,6 @@ categories:
   - nederlands
   - the-city
 date: "2011-03-24T12:32:47+00:00"
-guid: http://alper.nl/dingen/?p=2488
-parent_post_id: null
-post_id: "2488"
 title: Diefstal van gegevens en geld
 aliases:
   - /dingen/2011/03/diefstal-van-gegevens-en-geld/

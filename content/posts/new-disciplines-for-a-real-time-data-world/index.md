@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2010-04-04T12:30:05+00:00"
-guid: http://alper.nl/dingen/?p=1473
-parent_post_id: null
-post_id: "1473"
 title: New disciplines for a real-time data world
 aliases:
   - /dingen/2010/04/new-disciplines-for-a-real-time-data-world/

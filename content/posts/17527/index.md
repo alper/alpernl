@@ -9,9 +9,6 @@ categories:
   - politics
   - reading
 date: "2024-04-15T17:58:22+00:00"
-guid: https://alper.nl/dingen/?p=17527
-parent_post_id: null
-post_id: "17527"
 title: ""
 aliases:
   - /dingen/2024/04/17527/

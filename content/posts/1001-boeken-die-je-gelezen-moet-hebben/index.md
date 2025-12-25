@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2011-04-29T10:31:17+00:00"
-guid: http://alper.nl/dingen/?p=295
-parent_post_id: null
-post_id: "295"
 tags:
   - boeken
   - books

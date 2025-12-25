@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-09-22T21:18:31+00:00"
-guid: http://alper.nl/dingen/?p=15733
-parent_post_id: null
-post_id: "15733"
 title: Highlights for My Struggle
 aliases:
   - /dingen/2019/09/highlights-for-my-struggle/

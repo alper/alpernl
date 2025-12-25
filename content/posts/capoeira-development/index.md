@@ -4,9 +4,6 @@ categories:
   - capoeira
   - english
 date: "2008-08-20T21:17:05+00:00"
-guid: http://alper.nl/dingen/?p=368
-parent_post_id: null
-post_id: "368"
 tags:
   - camping
   - capoeira

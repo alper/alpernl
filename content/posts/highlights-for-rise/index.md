@@ -5,9 +5,6 @@ categories:
   - leadership
   - reading
 date: "2023-02-21T21:59:43+00:00"
-guid: https://alper.nl/dingen/?p=17090
-parent_post_id: null
-post_id: "17090"
 title: Highlights for Rise
 aliases:
   - /dingen/2023/02/highlights-for-rise/

@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - work
 date: "2012-12-17T11:54:07+00:00"
-guid: http://alper.nl/dingen/?p=4061
-parent_post_id: null
-post_id: "4061"
 tags:
   - weeknotes
 title: 'Week 300: odds and ends'

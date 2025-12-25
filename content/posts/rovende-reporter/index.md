@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-04-24T16:15:44+00:00"
-guid: http://alper.nl/dingen/2008/04/rovende-reporter/
-parent_post_id: null
-post_id: "279"
 tags:
   - internet
   - journalistiek

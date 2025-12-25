@@ -5,9 +5,6 @@ categories:
   - games
   - product-/-design
 date: "2015-08-25T07:34:58+00:00"
-guid: http://alper.nl/dingen/?p=5259
-parent_post_id: null
-post_id: "5259"
 title: Breaking into the English speaking world
 aliases:
   - /dingen/2015/08/breaking-into-the-english-speaking-world/

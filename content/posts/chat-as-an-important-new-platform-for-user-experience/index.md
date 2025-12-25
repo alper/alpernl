@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2015-09-17T17:05:22+00:00"
-guid: http://alper.nl/dingen/?p=5284
-parent_post_id: null
-post_id: "5284"
 title: Chat as an important new platform for user experience
 aliases:
   - /dingen/2015/09/chat-as-an-important-new-platform-for-user-experience/

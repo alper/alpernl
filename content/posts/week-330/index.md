@@ -5,9 +5,6 @@ categories:
   - food
   - travel
 date: "2013-08-12T10:36:47+00:00"
-guid: http://alper.nl/dingen/?p=4701
-parent_post_id: null
-post_id: "4701"
 title: Week 330
 aliases:
   - /dingen/2013/08/week-330/

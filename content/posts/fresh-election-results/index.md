@@ -7,9 +7,6 @@ categories:
   - politics
   - work
 date: "2010-06-10T14:07:26+00:00"
-guid: http://alper.nl/dingen/?p=1845
-parent_post_id: null
-post_id: "1845"
 title: Fresh election results
 aliases:
   - /dingen/2010/06/fresh-election-results/

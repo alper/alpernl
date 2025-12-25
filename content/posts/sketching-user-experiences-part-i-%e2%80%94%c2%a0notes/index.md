@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - reading
 date: "2009-08-18T12:09:04+00:00"
-guid: http://alper.nl/dingen/?p=1173
-parent_post_id: null
-post_id: "1173"
 title: Sketching User Experiences part I —Â notes
 aliases:
   - /dingen/2009/08/sketching-user-experiences-part-i-— notes/

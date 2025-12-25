@@ -6,9 +6,6 @@ categories:
   - turkish
   - video
 date: "2023-03-12T22:51:13+00:00"
-guid: https://alper.nl/dingen/?p=17131
-parent_post_id: null
-post_id: "17131"
 title: ""
 aliases:
   - /dingen/2023/03/17131/

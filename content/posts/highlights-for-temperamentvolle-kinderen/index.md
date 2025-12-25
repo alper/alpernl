@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2019-07-27T18:13:41+00:00"
-guid: http://alper.nl/dingen/?p=15586
-parent_post_id: null
-post_id: "15586"
 title: Highlights for Temperamentvolle Kinderen
 aliases:
   - /dingen/2019/07/highlights-for-temperamentvolle-kinderen/

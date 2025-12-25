@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-21T09:28:55+00:00"
-guid: http://alper.nl/dingen/2007/05/dagje-uitrusten-in-amsterdam/
-parent_post_id: null
-post_id: "47"
 tags:
   - amsterdam
   - fotografie

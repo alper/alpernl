@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2015-02-15T17:13:18+00:00"
-guid: http://alper.nl/dingen/?p=5154
-parent_post_id: null
-post_id: "5154"
 title: Esports spectating in the U-Bahn
 aliases:
   - /dingen/2015/02/esports-spectating-in-the-u-bahn/

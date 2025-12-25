@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-03-30T16:09:05+00:00"
-guid: http://alper.nl/dingen/2008/03/stemmen-op-ons-filmpje/
-parent_post_id: null
-post_id: "278"
 tags:
   - movies
   - ondernemen

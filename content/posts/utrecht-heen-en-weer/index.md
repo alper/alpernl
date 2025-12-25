@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-03T02:59:51+00:00"
-guid: http://alper.nl/dingen/2007/11/utrecht-heen-en-weer/
-parent_post_id: null
-post_id: "195"
 tags:
   - klantenervaring
   - trein

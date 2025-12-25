@@ -5,9 +5,6 @@ categories:
   - politics
   - video
 date: "2011-09-07T13:49:47+00:00"
-guid: http://alper.nl/dingen/?p=2847
-parent_post_id: null
-post_id: "2847"
 title: Democracy on a fortress
 aliases:
   - /dingen/2011/09/democracy-on-a-fortress/

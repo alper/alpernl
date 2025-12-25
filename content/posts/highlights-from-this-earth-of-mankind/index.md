@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-06-09T20:53:39+00:00"
-guid: http://alper.nl/dingen/?p=5797
-parent_post_id: null
-post_id: "5797"
 title: Highlights from This Earth of Mankind
 aliases:
   - /dingen/2017/06/highlights-from-this-earth-of-mankind/

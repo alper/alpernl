@@ -4,9 +4,6 @@ categories:
   - english
   - uncategorized
 date: "2008-08-22T00:53:20+00:00"
-guid: http://alper.nl/dingen/?p=371
-parent_post_id: null
-post_id: "371"
 tags:
   - civil-liberty
   - liberty

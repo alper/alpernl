@@ -6,9 +6,6 @@ categories:
   - kids
   - politics
 date: "2024-03-01T17:52:26+00:00"
-guid: https://alper.nl/dingen/?p=17448
-parent_post_id: null
-post_id: "17448"
 title: ""
 aliases:
   - /dingen/2024/03/17448/

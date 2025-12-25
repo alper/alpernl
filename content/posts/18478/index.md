@@ -6,9 +6,6 @@ categories:
   - london
   - politics
 date: "2025-11-20T21:34:47+00:00"
-guid: https://alper.nl/dingen/?p=18478
-parent_post_id: null
-post_id: "18478"
 title: ""
 aliases:
   - /dingen/2025/11/18478/

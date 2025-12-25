@@ -4,9 +4,6 @@ categories:
   - english
   - philosophy
 date: "2020-07-12T12:14:23+00:00"
-guid: http://alper.nl/dingen/?p=16147
-parent_post_id: null
-post_id: "16147"
 title: ""
 aliases:
   - /dingen/2020/07/16147/

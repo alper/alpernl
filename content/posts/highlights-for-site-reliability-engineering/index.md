@@ -5,9 +5,6 @@ categories:
   - reading
   - software-engineering
 date: "2021-08-22T22:06:47+00:00"
-guid: https://alper.nl/dingen/?p=16581
-parent_post_id: null
-post_id: "16581"
 title: Highlights for Site Reliability Engineering
 aliases:
   - /dingen/2021/08/highlights-for-site-reliability-engineering/

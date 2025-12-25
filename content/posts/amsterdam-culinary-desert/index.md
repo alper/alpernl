@@ -5,9 +5,6 @@ categories:
   - english
   - food
 date: "2012-02-09T16:53:15+00:00"
-guid: http://alper.nl/dingen/?p=3316
-parent_post_id: null
-post_id: "3316"
 title: Amsterdam Culinary Desert
 aliases:
   - /dingen/2012/02/amsterdam-culinary-desert/

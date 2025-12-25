@@ -7,9 +7,6 @@ enclosure: |-
   http://alper.nl/media/Palmyra.mov
   3760787
   video/quicktime
-guid: http://alper.nl/dingen/2007/09/zonsondergang-over-palmyra/
-parent_post_id: null
-post_id: "133"
 tags:
   - fotografie
   - geschiedenis

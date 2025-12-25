@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2012-10-11T07:58:18+00:00"
-guid: http://alper.nl/dingen/?p=3897
-parent_post_id: null
-post_id: "3897"
 title: Highlights from Harry Potter and the Methods of Rationality (until chapter 85)
 aliases:
   - /dingen/2012/10/highlights-from-harry-potter-and-the-methods-of-rationality-until-chapter-85/

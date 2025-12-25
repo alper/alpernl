@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2012-02-15T11:57:06+00:00"
-guid: http://alper.nl/dingen/?p=2145
-parent_post_id: null
-post_id: "2145"
 title: 'The Heist Model: Not hiring anybody'
 aliases:
   - /dingen/2010/09/not-hiring-anybody/

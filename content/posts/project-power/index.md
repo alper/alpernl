@@ -5,9 +5,6 @@ categories:
   - politics
   - strategy
 date: "2024-11-11T17:32:09+00:00"
-guid: https://alper.nl/dingen/?p=17705
-parent_post_id: null
-post_id: "17705"
 title: Project Power
 aliases:
   - /dingen/2024/11/project-power/

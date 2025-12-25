@@ -7,9 +7,6 @@ categories:
   - reading
   - video
 date: "2024-04-15T17:54:09+00:00"
-guid: https://alper.nl/dingen/?p=17525
-parent_post_id: null
-post_id: "17525"
 title: ""
 aliases:
   - /dingen/2024/04/17525/

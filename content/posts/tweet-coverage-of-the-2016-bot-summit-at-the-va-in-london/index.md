@@ -6,9 +6,6 @@ categories:
   - london
   - product-/-design
 date: "2016-04-24T13:09:42+00:00"
-guid: http://alper.nl/dingen/?p=5563
-parent_post_id: null
-post_id: "5563"
 title: Tweet coverage of the 2016 Bot Summit at the V&A in London
 aliases:
   - /dingen/2016/04/tweet-coverage-of-the-2016-bot-summit-at-the-va-in-london/

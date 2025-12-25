@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - travel
 date: "2009-04-01T22:11:21+00:00"
-guid: http://alper.nl/dingen/?p=899
-parent_post_id: null
-post_id: "899"
 title: Een soort van antwoord van de NS
 aliases:
   - /dingen/2009/04/een-soort-van-antwoord-van-de-ns/

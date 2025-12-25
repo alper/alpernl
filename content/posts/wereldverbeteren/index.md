@@ -4,9 +4,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2008-05-25T20:58:55+00:00"
-guid: http://alper.nl/dingen/?p=301
-parent_post_id: null
-post_id: "301"
 tags:
   - geekyoto
   - milieu

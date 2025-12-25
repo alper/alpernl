@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2019-05-26T19:42:49+00:00"
-guid: http://alper.nl/dingen/?p=15447
-parent_post_id: null
-post_id: "15447"
 title: The future of social democracy
 aliases:
   - /dingen/2019/05/15447/

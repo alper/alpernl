@@ -7,9 +7,6 @@ date: "2015-09-19T12:11:52+00:00"
 geo_latitude: "52.492723060706"
 geo_longitude: "13.354590679982"
 geo_public: "1"
-guid: http://alper.nl/dingen/?p=5297
-parent_post_id: null
-post_id: "5297"
 title: Straight outta ComptonÂ 
 aliases:
   - /dingen/2015/09/straight-outta-compton/

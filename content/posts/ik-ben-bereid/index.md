@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2011-09-05T18:36:35+00:00"
-guid: http://alper.nl/dingen/?p=2831
-parent_post_id: null
-post_id: "2831"
 title: Ik ben bereid
 aliases:
   - /dingen/2011/09/ik-ben-bereid/

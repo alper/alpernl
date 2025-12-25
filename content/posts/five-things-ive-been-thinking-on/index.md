@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2010-08-27T00:56:49+00:00"
-guid: http://alper.nl/dingen/?p=2051
-parent_post_id: null
-post_id: "2051"
 title: Five things I've been thinking on
 aliases:
   - /dingen/2010/08/five-things-ive-been-thinking-on/

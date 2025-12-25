@@ -6,9 +6,6 @@ categories:
   - travel
   - turkish
 date: "2023-01-06T19:45:18+00:00"
-guid: https://alper.nl/dingen/?p=16946
-parent_post_id: null
-post_id: "16946"
 title: ""
 aliases:
   - /dingen/2023/01/16946/

@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-07-17T19:02:54+00:00"
-guid: http://alper.nl/dingen/?p=3688
-parent_post_id: null
-post_id: "3688"
 tags:
   - weeknotes
 title: 'Week 277: remaindered connections'

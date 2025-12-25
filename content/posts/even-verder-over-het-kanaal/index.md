@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-12-04T19:19:37+00:00"
-guid: http://alper.nl/dingen/?p=1375
-parent_post_id: null
-post_id: "1375"
 title: Even verder over het kanaal
 aliases:
   - /dingen/2009/11/even-verder-over-het-kanaal/

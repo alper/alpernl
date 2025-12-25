@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2010-06-18T11:06:33+00:00"
-guid: http://alper.nl/dingen/?p=1883
-parent_post_id: null
-post_id: "1883"
 title: Have your Surface
 aliases:
   - /dingen/2010/06/have-your-surface/

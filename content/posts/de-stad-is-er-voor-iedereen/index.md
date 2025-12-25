@@ -6,9 +6,6 @@ categories:
   - politics
   - the-city
 date: "2010-11-04T13:17:22+00:00"
-guid: http://alper.nl/dingen/?p=2263
-parent_post_id: null
-post_id: "2263"
 title: De stad is er voor iedereen
 aliases:
   - /dingen/2010/11/de-stad-is-er-voor-iedereen/

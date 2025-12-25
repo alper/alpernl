@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-04-22T08:48:08+00:00"
-guid: http://alper.nl/dingen/2007/04/brug-gesloopt/
-parent_post_id: null
-post_id: "16"
 tags:
   - fotografie
 title: Brug gesloopt

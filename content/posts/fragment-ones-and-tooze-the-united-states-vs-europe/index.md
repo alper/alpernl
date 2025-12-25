@@ -9,9 +9,6 @@ enclosure: |-
   https://alper.nlGermany-debt-unconstrained.mp3
   1691612
   audio/mpeg
-guid: https://alper.nl/dingen/?p=17243
-parent_post_id: null
-post_id: "17243"
 title: 'Fragment Ones and Tooze: The United States vs. Europe'
 aliases:
   - /dingen/2023/07/fragment-ones-and-tooze-the-united-states-vs-europe/

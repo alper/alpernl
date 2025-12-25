@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - nederlands
 date: "2010-01-12T14:03:20+00:00"
-guid: http://alper.nl/dingen/?p=1484
-parent_post_id: null
-post_id: "1484"
 title: Foursquare spelen op de radio
 aliases:
   - /dingen/2010/01/foursquare-spelen-op-de-radio/

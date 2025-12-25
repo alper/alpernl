@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2009-01-03T13:21:06+00:00"
-guid: http://alper.nl/dingen/?p=722
-parent_post_id: null
-post_id: "722"
 title: My year in cities, 2008
 aliases:
   - /dingen/2009/01/my-year-in-cities-2008/

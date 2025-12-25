@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - politics
 date: "2013-03-17T16:30:05+00:00"
-guid: http://alper.nl/dingen/?p=4273
-parent_post_id: null
-post_id: "4273"
 title: Taxing data is not crazy
 aliases:
   - /dingen/2013/03/taxing-data-is-not-crazy/

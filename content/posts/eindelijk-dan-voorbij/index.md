@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-18T22:03:31+00:00"
-guid: http://alper.nl/dingen/2007/07/eindelijk-dan-voorbij/
-parent_post_id: null
-post_id: "96"
 tags:
   - afstuderen
   - reizen

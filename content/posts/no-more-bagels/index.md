@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2009-05-19T13:36:14+00:00"
-guid: http://alper.nl/dingen/2007/12/no-more-bagels/
-parent_post_id: null
-post_id: "205"
 tags:
   - drinken
   - eten

@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - product-/-design
 date: "2010-05-13T12:35:54+00:00"
-guid: http://alper.nl/dingen/?p=1786
-parent_post_id: null
-post_id: "1786"
 title: Ranking our schools for better effect
 aliases:
   - /dingen/2010/05/ranking-our-schools-for-better-effect/

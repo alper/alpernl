@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-03T16:33:04+00:00"
-guid: http://alper.nl/dingen/2007/06/tacos-een-verslag/
-parent_post_id: null
-post_id: "69"
 tags:
   - fotografie
   - koken

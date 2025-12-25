@@ -6,9 +6,6 @@ categories:
   - istanbul
   - music
 date: "2017-12-28T22:06:05+00:00"
-guid: http://alper.nl/dingen/?p=5903
-parent_post_id: null
-post_id: "5903"
 title: XiR - Angela Merkel
 aliases:
   - /dingen/2017/12/xir-angela-merkel/

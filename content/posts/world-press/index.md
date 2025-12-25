@@ -4,9 +4,6 @@ categories:
   - english
   - photography
 date: "2008-07-29T13:52:22+00:00"
-guid: http://alper.nl/dingen/?p=326
-parent_post_id: null
-post_id: "326"
 tags:
   - uncategorized
 title: World Press

@@ -5,9 +5,6 @@ categories:
   - leadership
   - san-francisco
 date: "2020-02-21T10:07:44+00:00"
-guid: http://alper.nl/dingen/?p=16022
-parent_post_id: null
-post_id: "16022"
 title: ""
 aliases:
   - /dingen/2020/02/16022/

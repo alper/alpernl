@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-10-30T21:04:13+00:00"
-guid: http://alper.nl/dingen/2007/10/verhuizen-en-verkassen/
-parent_post_id: null
-post_id: "177"
 tags:
   - uncategorized
 title: Verhuizen en verkassen

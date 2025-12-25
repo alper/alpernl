@@ -6,9 +6,6 @@ categories:
   - open-state
   - work
 date: "2013-03-05T10:04:01+00:00"
-guid: http://alper.nl/dingen/?p=4385
-parent_post_id: null
-post_id: "4385"
 tags:
   - weeknotes
 title: Week 311

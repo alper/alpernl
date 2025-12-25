@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - the-city
 date: "2009-12-02T12:14:24+00:00"
-guid: http://alper.nl/dingen/?p=1391
-parent_post_id: null
-post_id: "1391"
 title: Fake subway of Amsterdam
 aliases:
   - /dingen/2009/12/fake-subway-of-amsterdam/

@@ -5,9 +5,6 @@ categories:
   - kids
   - reading
 date: "2019-09-01T18:34:22+00:00"
-guid: http://alper.nl/dingen/?p=15651
-parent_post_id: null
-post_id: "15651"
 title: Highlights for How not to hate your husband after kids
 aliases:
   - /dingen/2019/09/highlights-for-how-not-to-hate-your-husband-after-kids/

@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2013-09-30T09:09:06+00:00"
-guid: http://alper.nl/dingen/?p=4782
-parent_post_id: null
-post_id: "4782"
 title: Week 335
 aliases:
   - /dingen/2013/09/week-335/

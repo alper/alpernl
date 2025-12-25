@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2022-02-19T20:07:00+00:00"
-guid: https://alper.nl/dingen/?p=16709
-parent_post_id: null
-post_id: "16709"
 title: Learning about Rust types and dynamic dispatch
 aliases:
   - /dingen/2022/02/learning-about-rust-types-and-dynamic-dispatch/

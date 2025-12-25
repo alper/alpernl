@@ -6,9 +6,6 @@ categories:
   - science
   - software-engineering
 date: "2024-12-31T10:17:34+00:00"
-guid: https://alper.nl/dingen/?p=17829
-parent_post_id: null
-post_id: "17829"
 title: ""
 aliases:
   - /dingen/2024/12/17829/

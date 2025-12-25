@@ -5,10 +5,7 @@ categories:
   - politics
   - travel
 date: "2012-03-30T15:22:28+00:00"
-guid: http://alper.nl/dingen/?p=3450
 outtake: We could protest this. Maybe if we organized large groups of foreign (looking) people to travel into Germany ((I don't know if Zwarte Piet (blackface) counts, but it could work.)). For the purpose of the protest maybe we should show ostentatiously that we have a common purpose. We could all pin on a badge, a yellow star might do the trick.
-parent_post_id: null
-post_id: "3450"
 title: Racism at the border, or not so Schengen after all
 aliases:
   - /dingen/2012/03/racism-at-the-border-or-not-so-schengen-after-all/

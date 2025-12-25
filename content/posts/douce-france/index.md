@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-05-08T15:26:34+00:00"
-guid: http://alper.nl/dingen/?p=289
-parent_post_id: null
-post_id: "289"
 tags:
   - cultuur
   - france

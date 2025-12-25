@@ -6,9 +6,6 @@ categories:
   - politics
   - video
 date: "2019-05-25T12:13:41+00:00"
-guid: http://alper.nl/dingen/?p=15426
-parent_post_id: null
-post_id: "15426"
 title: YouTube hatchet job on the CDU
 aliases:
   - /dingen/2019/05/youtube-hatchet-job-on-the-cdu/

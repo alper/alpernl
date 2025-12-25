@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - travel
 date: "2020-05-10T08:57:07+00:00"
-guid: http://alper.nl/dingen/?p=16087
-parent_post_id: null
-post_id: "16087"
 title: ""
 aliases:
   - /dingen/2020/05/16087/

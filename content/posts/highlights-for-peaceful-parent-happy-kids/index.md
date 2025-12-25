@@ -5,9 +5,6 @@ categories:
   - kids
   - reading
 date: "2020-07-07T22:32:58+00:00"
-guid: http://alper.nl/dingen/?p=16139
-parent_post_id: null
-post_id: "16139"
 title: Highlights for Peaceful Parent Happy Kids
 aliases:
   - /dingen/2020/07/highlights-for-peaceful-parent-happy-kids/

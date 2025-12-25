@@ -6,9 +6,6 @@ categories:
   - internet
   - politics
 date: "2012-01-19T10:45:36+00:00"
-guid: http://alper.nl/dingen/?p=3231
-parent_post_id: null
-post_id: "3231"
 title: Regain your privacy through bureaucracy
 aliases:
   - /dingen/2012/01/regain-your-privacy/

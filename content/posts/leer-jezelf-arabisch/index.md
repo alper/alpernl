@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2012-08-24T13:36:26+00:00"
-guid: http://alper.nl/dingen/2007/05/leer-jezelf-arabisch/
-parent_post_id: null
-post_id: "44"
 tags:
   - arabisch
   - taal

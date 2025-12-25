@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-03-31T22:02:18+00:00"
-guid: http://alper.nl/dingen/?p=5964
-parent_post_id: null
-post_id: "5964"
 title: Highlights for Sapiens
 aliases:
   - /dingen/2018/03/highlights-for-sapiens/

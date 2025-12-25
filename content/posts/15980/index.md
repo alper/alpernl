@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2020-02-02T20:17:02+00:00"
-guid: http://alper.nl/dingen/?p=15980
-parent_post_id: null
-post_id: "15980"
 title: ""
 aliases:
   - /dingen/2020/02/15980/

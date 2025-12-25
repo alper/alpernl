@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-04T15:44:31+00:00"
-guid: http://alper.nl/dingen/2008/01/american-rhetoric/
-parent_post_id: null
-post_id: "216"
 tags:
   - amerika
   - politiek

@@ -5,9 +5,6 @@ categories:
   - english
   - video
 date: "2008-12-10T21:53:08+00:00"
-guid: http://alper.nl/dingen/?p=647
-parent_post_id: null
-post_id: "647"
 title: Breaking the berimbau
 aliases:
   - /dingen/2008/12/breaking-the-berimbau/

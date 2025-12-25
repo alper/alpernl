@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-09-16T21:12:13+00:00"
-guid: http://alper.nl/dingen/?p=6056
-parent_post_id: null
-post_id: "6056"
 title: Highlights for The Parent's Tao Te Ching
 aliases:
   - /dingen/2018/09/highlights-for-the-parents-tao-te-ching/

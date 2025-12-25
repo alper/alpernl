@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-09-12T11:30:46+00:00"
-guid: http://alper.nl/dingen/?p=1220
-parent_post_id: null
-post_id: "1220"
 title: Een stukje vrijheid in onze tijd
 aliases:
   - /dingen/2009/09/een-stukje-vrijheid-in-onze-tijd/

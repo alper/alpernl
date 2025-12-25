@@ -5,9 +5,6 @@ categories:
   - nederlands
   - reading
 date: "2009-12-18T14:15:12+00:00"
-guid: http://alper.nl/dingen/?p=1418
-parent_post_id: null
-post_id: "1418"
 title: Kansen in de journalistiek
 aliases:
   - /dingen/2009/12/kansen-in-de-journalistiek/

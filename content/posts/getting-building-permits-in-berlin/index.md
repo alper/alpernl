@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2013-06-15T13:34:43+00:00"
-guid: http://alper.nl/dingen/?p=4660
-parent_post_id: null
-post_id: "4660"
 title: Getting building permits in Berlin
 aliases:
   - /dingen/2013/06/getting-building-permits-in-berlin/

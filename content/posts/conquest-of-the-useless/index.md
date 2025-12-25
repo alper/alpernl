@@ -5,9 +5,6 @@ categories:
   - english
   - video
 date: "2012-10-20T11:04:28+00:00"
-guid: http://alper.nl/dingen/?p=3951
-parent_post_id: null
-post_id: "3951"
 title: Conquest of the Useless
 aliases:
   - /dingen/2012/10/conquest-of-the-useless/

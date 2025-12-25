@@ -7,9 +7,6 @@ categories:
   - the-city
   - work
 date: "2011-09-03T07:30:35+00:00"
-guid: http://alper.nl/dingen/?p=2816
-parent_post_id: null
-post_id: "2816"
 tags:
   - weeknotes
 title: Week 232 - extended

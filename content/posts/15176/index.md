@@ -4,9 +4,6 @@ categories:
   - english
   - product-/-design
 date: "2019-02-27T21:47:13+00:00"
-guid: http://alper.nl/dingen/?p=15176
-parent_post_id: null
-post_id: "15176"
 title: ""
 aliases:
   - /dingen/2019/02/15176/

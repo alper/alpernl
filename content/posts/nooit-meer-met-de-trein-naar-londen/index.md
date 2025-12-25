@@ -5,9 +5,6 @@ categories:
   - nederlands
   - travel
 date: "2009-09-14T11:00:22+00:00"
-guid: http://alper.nl/dingen/?p=1206
-parent_post_id: null
-post_id: "1206"
 title: Nooit meer met de trein naar Londen
 aliases:
   - /dingen/2009/09/nooit-meer-met-de-trein-naar-londen/

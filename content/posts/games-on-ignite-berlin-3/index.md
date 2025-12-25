@@ -6,9 +6,6 @@ categories:
   - games
   - video
 date: "2012-10-25T11:41:45+00:00"
-guid: http://alper.nl/dingen/?p=3965
-parent_post_id: null
-post_id: "3965"
 title: 'Games on Ignite Berlin #3'
 aliases:
   - /dingen/2012/10/games-on-ignite-berlin-3/

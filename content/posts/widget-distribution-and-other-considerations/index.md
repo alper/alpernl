@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2009-01-05T15:11:24+00:00"
-guid: http://alper.nl/dingen/?p=640
-parent_post_id: null
-post_id: "640"
 title: Widget distribution and other considerations
 aliases:
   - /dingen/2008/12/widget-distribution-and-other-considerations/

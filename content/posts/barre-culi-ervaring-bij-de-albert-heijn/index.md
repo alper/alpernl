@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2010-05-08T17:05:04+00:00"
-guid: http://alper.nl/dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/
-parent_post_id: null
-post_id: "65"
 tags:
   - koken
   - winkelen

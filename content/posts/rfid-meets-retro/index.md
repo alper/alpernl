@@ -6,9 +6,6 @@ categories:
   - music
   - product-/-design
 date: "2010-11-11T16:14:59+00:00"
-guid: http://alper.nl/dingen/?p=2278
-parent_post_id: null
-post_id: "2278"
 title: RFID Meets Retro
 aliases:
   - /dingen/2010/11/rfid-meets-retro/

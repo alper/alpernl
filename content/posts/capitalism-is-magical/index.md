@@ -5,9 +5,6 @@ categories:
   - english
   - music
 date: "2014-11-27T22:34:36+00:00"
-guid: http://alper.nl/dingen/?p=5061
-parent_post_id: null
-post_id: "5061"
 title: Capitalism is magical
 aliases:
   - /dingen/2014/11/capitalism-is-magical/

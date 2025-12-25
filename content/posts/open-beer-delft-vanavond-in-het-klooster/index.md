@@ -4,9 +4,6 @@ categories:
   - delft
   - internet
 date: "2007-04-27T10:36:49+00:00"
-guid: http://alper.nl/dingen/2007/04/open-beer-delft-vanavond-in-het-klooster/
-parent_post_id: null
-post_id: "27"
 tags:
   - evenement
   - internet

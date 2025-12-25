@@ -5,9 +5,6 @@ categories:
   - photography
   - politics
 date: "2019-03-17T00:21:27+00:00"
-guid: http://alper.nl/dingen/?p=15262
-parent_post_id: null
-post_id: "15262"
 title: Fridays for Future
 aliases:
   - /dingen/2019/03/fridays-for-future/

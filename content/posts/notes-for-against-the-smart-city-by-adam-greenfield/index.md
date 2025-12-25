@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-11-25T08:23:06+00:00"
-guid: http://alper.nl/dingen/?p=4839
-parent_post_id: null
-post_id: "4839"
 title: Notes for Against the Smart City by Adam Greenfield
 aliases:
   - /dingen/2013/11/notes-for-against-the-smart-city-by-adam-greenfield/

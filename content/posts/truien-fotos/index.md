@@ -3,9 +3,6 @@ author: alper
 categories:
   - capoeira
 date: "2008-02-09T12:38:06+00:00"
-guid: http://alper.nl/dingen/2008/02/truien-fotos/
-parent_post_id: null
-post_id: "252"
 tags:
   - fotografie
 title: Truien foto's

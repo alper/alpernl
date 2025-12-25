@@ -5,9 +5,6 @@ categories:
   - reading
   - software-engineering
 date: "2021-12-28T12:53:52+00:00"
-guid: https://alper.nl/dingen/?p=16661
-parent_post_id: null
-post_id: "16661"
 title: Learn You a Haskell is Problematic
 aliases:
   - /dingen/2021/12/learn-you-a-haskell-is-problematic/

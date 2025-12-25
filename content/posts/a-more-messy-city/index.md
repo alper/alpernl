@@ -7,9 +7,6 @@ categories:
   - the-city
   - travel
 date: "2011-03-04T16:07:02+00:00"
-guid: http://alper.nl/dingen/?p=2464
-parent_post_id: null
-post_id: "2464"
 title: A more messy city
 aliases:
   - /dingen/2011/03/a-more-messy-city/

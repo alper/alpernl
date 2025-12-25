@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2015-01-23T19:10:28+00:00"
-guid: http://alper.nl/dingen/?p=5129
-parent_post_id: null
-post_id: "5129"
 title: KıÅŸ Uykusu (Winter Sleep) by Nuri Bilge Ceylan
 aliases:
   - /dingen/2015/01/kis-uykusu-winter-sleep-by-nuri-bilge-ceylan/

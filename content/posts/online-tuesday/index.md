@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - video
 date: "2010-06-21T23:58:20+00:00"
-guid: http://alper.nl/dingen/?p=1849
-parent_post_id: null
-post_id: "1849"
 title: Online Tuesday - Data is the new Quicksilver
 aliases:
   - /dingen/2010/06/online-tuesday/

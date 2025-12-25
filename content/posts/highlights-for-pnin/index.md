@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2019-03-28T22:15:46+00:00"
-guid: http://alper.nl/dingen/?p=15289
-parent_post_id: null
-post_id: "15289"
 title: Highlights for Pnin
 aliases:
   - /dingen/2019/03/highlights-for-pnin/

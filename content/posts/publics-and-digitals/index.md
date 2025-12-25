@@ -6,9 +6,6 @@ categories:
   - politics
   - the-city
 date: "2011-05-14T20:41:46+00:00"
-guid: http://alper.nl/dingen/?p=2463
-parent_post_id: null
-post_id: "2463"
 title: Publics and Digitals
 aliases:
   - /dingen/2011/05/publics-and-digitals/

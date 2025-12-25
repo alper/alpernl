@@ -6,9 +6,6 @@ categories:
   - the-city
   - travel
 date: "2019-04-28T14:31:57+00:00"
-guid: http://alper.nl/dingen/?p=15363
-parent_post_id: null
-post_id: "15363"
 title: ""
 aliases:
   - /dingen/2019/04/15363/

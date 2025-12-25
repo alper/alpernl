@@ -7,9 +7,6 @@ date: "2011-11-11T22:25:24+00:00"
 geo_latitude: "52.378098"
 geo_longitude: "4.878150"
 geo_public: "1"
-guid: http://alper.nl/dingen/2011/11/a-blue-button/
-parent_post_id: null
-post_id: "3078"
 title: A blue button
 aliases:
   - /dingen/2011/11/a-blue-button/

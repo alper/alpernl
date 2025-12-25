@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-31T15:27:19+00:00"
-guid: http://alper.nl/dingen/2007/05/weer-terug-in-kopenhagen/
-parent_post_id: null
-post_id: "56"
 tags:
   - computers
   - evenement

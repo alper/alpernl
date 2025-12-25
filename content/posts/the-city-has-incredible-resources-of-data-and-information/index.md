@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - the-city
 date: "2009-08-26T15:34:15+00:00"
-guid: http://alper.nl/dingen/?p=1178
-parent_post_id: null
-post_id: "1178"
 title: '[the City] has incredible resources of data and information'
 aliases:
   - /dingen/2009/08/the-city-has-incredible-resources-of-data-and-information/

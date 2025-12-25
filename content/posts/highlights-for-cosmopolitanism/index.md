@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2022-07-22T21:49:57+00:00"
-guid: https://alper.nl/dingen/?p=16825
-parent_post_id: null
-post_id: "16825"
 title: Highlights for Cosmopolitanism
 aliases:
   - /dingen/2022/07/highlights-for-cosmopolitanism/

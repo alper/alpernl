@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2013-04-14T21:20:04+00:00"
-guid: http://alper.nl/dingen/?p=4496
-parent_post_id: null
-post_id: "4496"
 title: Graham Harman at the Universität der Kunste
 aliases:
   - /dingen/2013/04/graham-harman-at-the-universitat-der-kunste/

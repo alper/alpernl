@@ -8,9 +8,6 @@ categories:
   - philosophy
   - politics
 date: "2024-10-03T10:39:40+00:00"
-guid: https://alper.nl/dingen/?p=17624
-parent_post_id: null
-post_id: "17624"
 title: ""
 aliases:
   - /dingen/2024/10/17624/

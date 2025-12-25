@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2012-07-26T19:13:04+00:00"
-guid: http://alper.nl/dingen/?p=3734
-parent_post_id: null
-post_id: "3734"
 title: Die Kontrakte des Kaufmanns by Nicolas Stemann & Thalia
 aliases:
   - /dingen/2012/07/die-kontrakte-des-kaufmanns-by-nicolas-stemann-thalia/

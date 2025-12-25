@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-03-28T14:53:57+00:00"
-guid: http://alper.nl/dingen/?p=5743
-parent_post_id: null
-post_id: "5743"
 title: Highlights from The Name of the Rose
 aliases:
   - /dingen/2017/03/highlights-from-the-name-of-the-rose/

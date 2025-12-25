@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-09-23T20:37:55+00:00"
-guid: http://alper.nl/dingen/?p=6059
-parent_post_id: null
-post_id: "6059"
 title: Highlights for The Chapo Guide to Revolution
 aliases:
   - /dingen/2018/09/highlights-for-the-chapo-guide-to-revolution/

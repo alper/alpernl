@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2013-03-04T07:54:35+00:00"
-guid: http://alper.nl/dingen/?p=4357
-parent_post_id: null
-post_id: "4357"
 title: Proteus Recensie voor de nrc.next
 aliases:
   - /dingen/2013/03/proteus-recensie-voor-de-nrc-next/

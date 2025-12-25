@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2008-03-26T15:00:21+00:00"
-guid: http://alper.nl/dingen/2008/03/een-perfectere-samenleving/
-parent_post_id: null
-post_id: "277"
 tags:
   - amerika
   - obama

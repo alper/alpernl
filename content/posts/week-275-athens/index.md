@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - travel
 date: "2012-07-02T15:51:28+00:00"
-guid: http://alper.nl/dingen/?p=3682
-parent_post_id: null
-post_id: "3682"
 tags:
   - weeknotes
 title: 'Week 275: Athens'

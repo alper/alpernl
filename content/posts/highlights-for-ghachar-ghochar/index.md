@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-08-27T21:26:06+00:00"
-guid: http://alper.nl/dingen/?p=6052
-parent_post_id: null
-post_id: "6052"
 title: Highlights for Ghachar Ghochar
 aliases:
   - /dingen/2018/08/highlights-for-ghachar-ghochar/

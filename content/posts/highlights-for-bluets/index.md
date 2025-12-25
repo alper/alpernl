@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-05-12T20:02:34+00:00"
-guid: http://alper.nl/dingen/?p=5995
-parent_post_id: null
-post_id: "5995"
 title: Highlights for Bluets
 aliases:
   - /dingen/2018/05/highlights-for-bluets/

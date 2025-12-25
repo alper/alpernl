@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-03-04T21:25:18+00:00"
-guid: http://alper.nl/dingen/?p=5951
-parent_post_id: null
-post_id: "5951"
 title: Highlights for Journey to the End of the Night
 aliases:
   - /dingen/2018/03/highlights-for-journey-to-the-end-of-the-night/

@@ -4,9 +4,6 @@ categories:
   - english
   - language
 date: "2013-04-28T06:51:47+00:00"
-guid: http://alper.nl/dingen/?p=4511
-parent_post_id: null
-post_id: "4511"
 title: The Flexibility of the Dutch Language
 aliases:
   - /dingen/2013/04/the-flexibility-of-the-dutch-language/

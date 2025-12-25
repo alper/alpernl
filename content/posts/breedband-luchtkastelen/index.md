@@ -4,9 +4,6 @@ categories:
   - internet
   - nederlands
 date: "2008-05-09T06:47:28+00:00"
-guid: http://alper.nl/dingen/?p=290
-parent_post_id: null
-post_id: "290"
 tags:
   - broadband
   - internet

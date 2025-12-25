@@ -7,9 +7,6 @@ categories:
   - reading
   - the-city
 date: "2010-07-24T17:43:00+00:00"
-guid: http://alper.nl/dingen/?p=1985
-parent_post_id: null
-post_id: "1985"
 title: "Check in / Check Out, Case by Case — Case 0010, “Straatbeeldenâ€\x9D"
 aliases:
   - /dingen/2010/07/check-in-check-out-case-by-case-—-case-0010-“straatbeelden”/

@@ -5,9 +5,6 @@ categories:
   - istanbul
   - politics
 date: "2014-04-02T08:36:25+00:00"
-guid: http://alper.nl/dingen/?p=4946
-parent_post_id: null
-post_id: "4946"
 title: Turkey's stolen elections
 aliases:
   - /dingen/2014/04/turkeys-stolen-elections/

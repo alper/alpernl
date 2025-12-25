@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2013-05-24T19:00:57+00:00"
-guid: http://alper.nl/dingen/?p=4600
-parent_post_id: null
-post_id: "4600"
 title: Don't release anonymized datasets
 aliases:
   - /dingen/2013/05/dont-release-anonymized-datasets/

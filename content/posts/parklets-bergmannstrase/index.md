@@ -5,9 +5,6 @@ categories:
   - english
   - product-/-design
 date: "2018-05-24T18:17:14+00:00"
-guid: http://alper.nl/dingen/?p=6007
-parent_post_id: null
-post_id: "6007"
 title: Parklets BergmannstraÃŸe
 aliases:
   - /dingen/2018/05/parklets-bergmannstrase/

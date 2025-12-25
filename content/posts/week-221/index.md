@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2011-06-20T12:37:22+00:00"
-guid: http://alper.nl/dingen/?p=2666
-parent_post_id: null
-post_id: "2666"
 tags:
   - weeknotes
 title: Week 221

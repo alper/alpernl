@@ -4,9 +4,6 @@ categories:
   - games
   - nederlands
 date: "2013-07-05T16:53:02+00:00"
-guid: http://alper.nl/dingen/?p=4680
-parent_post_id: null
-post_id: "4680"
 title: 'Recensie: Prison Architect'
 aliases:
   - /dingen/2013/07/recensie-prison-architect/

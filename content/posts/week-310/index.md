@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - open-state
 date: "2013-02-25T15:19:11+00:00"
-guid: http://alper.nl/dingen/?p=4346
-parent_post_id: null
-post_id: "4346"
 tags:
   - weeknotes
 title: Week 310

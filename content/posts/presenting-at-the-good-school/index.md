@@ -5,9 +5,6 @@ categories:
   - travel
   - work
 date: "2018-05-18T08:04:49+00:00"
-guid: http://alper.nl/dingen/?p=6001
-parent_post_id: null
-post_id: "6001"
 title: Presenting at the Good School
 aliases:
   - /dingen/2018/05/presenting-at-the-good-school/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-11-24T15:54:53+00:00"
-guid: http://alper.nl/dingen/2007/11/nieuwe-kerk/
-parent_post_id: null
-post_id: "193"
 tags:
   - fotografie
   - huis

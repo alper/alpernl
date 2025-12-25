@@ -5,9 +5,6 @@ categories:
   - reading
   - software-engineering
 date: "2023-03-04T08:34:40+00:00"
-guid: https://alper.nl/dingen/?p=17101
-parent_post_id: null
-post_id: "17101"
 title: ""
 aliases:
   - /dingen/2023/03/17101/

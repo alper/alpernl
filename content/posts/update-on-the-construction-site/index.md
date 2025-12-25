@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2021-12-21T22:03:35+00:00"
-guid: https://alper.nl/dingen/?p=16655
-parent_post_id: null
-post_id: "16655"
 title: Update on the construction site
 aliases:
   - /dingen/2021/12/update-on-the-construction-site/

@@ -5,9 +5,6 @@ categories:
   - english
   - games
 date: "2013-03-01T19:37:09+00:00"
-guid: http://alper.nl/dingen/?p=4352
-parent_post_id: null
-post_id: "4352"
 title: Recess! 4 — Glass
 aliases:
   - /dingen/2013/03/recess-4-glass/

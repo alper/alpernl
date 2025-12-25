@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2023-11-16T08:32:17+00:00"
-guid: https://alper.nl/dingen/?p=17310
-parent_post_id: null
-post_id: "17310"
 title: ""
 aliases:
   - /dingen/2023/11/17310/

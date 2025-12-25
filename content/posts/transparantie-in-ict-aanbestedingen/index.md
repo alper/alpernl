@@ -5,9 +5,6 @@ categories:
   - politics
   - work
 date: "2011-01-24T16:12:49+00:00"
-guid: http://alper.nl/dingen/?p=2395
-parent_post_id: null
-post_id: "2395"
 title: Transparantie in ICT-aanbestedingen
 aliases:
   - /dingen/2011/01/transparantie-in-ict-aanbestedingen/

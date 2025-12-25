@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2010-06-15T10:44:55+00:00"
-guid: http://alper.nl/dingen/?p=1853
-parent_post_id: null
-post_id: "1853"
 title: Het Manifest van Terschelling
 aliases:
   - /dingen/2010/06/het-manifest-van-terschelling/

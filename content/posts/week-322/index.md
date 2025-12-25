@@ -5,9 +5,6 @@ categories:
   - internet
   - open-state
 date: "2013-06-05T15:51:16+00:00"
-guid: http://alper.nl/dingen/?p=4627
-parent_post_id: null
-post_id: "4627"
 tags:
   - weeknotes
 title: Week 322

@@ -4,9 +4,6 @@ categories:
   - english
   - photography
 date: "2010-03-27T20:00:54+00:00"
-guid: http://alper.nl/dingen/?p=1693
-parent_post_id: null
-post_id: "1693"
 title: Austin
 aliases:
   - /dingen/2010/03/austin/

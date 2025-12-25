@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-10-06T09:48:26+00:00"
-guid: http://alper.nl/dingen/?p=2165
-parent_post_id: null
-post_id: "2165"
 title: Innovatie door innovators
 aliases:
   - /dingen/2010/10/innovatie-door-innovators/

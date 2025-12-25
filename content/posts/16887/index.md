@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2022-10-08T13:44:12+00:00"
-guid: https://alper.nl/dingen/?p=16887
-parent_post_id: null
-post_id: "16887"
 title: ""
 aliases:
   - /dingen/2022/10/16887/

@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2017-03-30T10:32:25+00:00"
-guid: http://alper.nl/dingen/?p=5746
-parent_post_id: null
-post_id: "5746"
 title: A possible agenda for a tech workers solidarity movement
 aliases:
   - /dingen/2017/03/a-possible-agenda-for-a-tech-workers-solidarity-movement/

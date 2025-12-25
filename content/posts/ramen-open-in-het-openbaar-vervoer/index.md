@@ -5,9 +5,6 @@ categories:
   - nederlands
   - travel
 date: "2009-05-20T15:35:09+00:00"
-guid: http://alper.nl/dingen/?p=989
-parent_post_id: null
-post_id: "989"
 title: Ramen open in het openbaar vervoer
 aliases:
   - /dingen/2009/05/ramen-open-in-het-openbaar-vervoer/

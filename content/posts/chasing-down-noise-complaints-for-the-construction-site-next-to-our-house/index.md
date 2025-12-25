@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2021-11-14T21:35:14+00:00"
-guid: https://alper.nl/dingen/?p=16630
-parent_post_id: null
-post_id: "16630"
 title: Chasing down noise complaints for the construction site next to our house
 aliases:
   - /dingen/2021/11/chasing-down-noise-complaints-for-the-construction-site-next-to-our-house/

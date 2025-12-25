@@ -4,9 +4,6 @@ categories:
   - delft
   - english
 date: "2008-07-27T11:57:04+00:00"
-guid: http://alper.nl/dingen/?p=324
-parent_post_id: null
-post_id: "324"
 tags:
   - uncategorized
 title: Wireless typing

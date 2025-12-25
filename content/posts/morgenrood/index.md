@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-01-21T06:43:39+00:00"
-guid: http://alper.nl/dingen/2008/01/morgenrood/
-parent_post_id: null
-post_id: "233"
 tags:
   - berlijn
   - koffie

@@ -7,9 +7,6 @@ categories:
   - internet
   - work
 date: "2012-09-17T16:21:58+00:00"
-guid: http://alper.nl/dingen/?p=3872
-parent_post_id: null
-post_id: "3872"
 tags:
   - weeknotes
 title: 'Week 287: kohi, praxis'

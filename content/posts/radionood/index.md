@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-14T13:02:58+00:00"
-guid: http://alper.nl/dingen/2008/02/radionood/
-parent_post_id: null
-post_id: "257"
 tags:
   - radio
   - werken

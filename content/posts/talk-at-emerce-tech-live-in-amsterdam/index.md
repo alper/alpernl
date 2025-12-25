@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - publicity
 date: "2017-06-05T20:01:40+00:00"
-guid: http://alper.nl/dingen/?p=5792
-parent_post_id: null
-post_id: "5792"
 title: Talk at Emerce Tech Live in Amsterdam
 aliases:
   - /dingen/2017/06/talk-at-emerce-tech-live-in-amsterdam/

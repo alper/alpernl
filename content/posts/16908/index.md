@@ -6,9 +6,6 @@ categories:
   - leadership
   - politics
 date: "2022-12-27T13:55:54+00:00"
-guid: https://alper.nl/dingen/?p=16908
-parent_post_id: null
-post_id: "16908"
 title: ""
 aliases:
   - /dingen/2022/12/16908/

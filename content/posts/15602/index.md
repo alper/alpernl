@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2019-08-03T22:39:59+00:00"
-guid: http://alper.nl/dingen/?p=15602
-parent_post_id: null
-post_id: "15602"
 title: ""
 aliases:
   - /dingen/2019/08/15602/

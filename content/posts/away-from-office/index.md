@@ -5,9 +5,6 @@ categories:
   - nederlands
   - travel
 date: "2009-03-12T08:00:01+00:00"
-guid: http://alper.nl/dingen/?p=830
-parent_post_id: null
-post_id: "830"
 title: Away from office
 aliases:
   - /dingen/2009/03/away-from-office/

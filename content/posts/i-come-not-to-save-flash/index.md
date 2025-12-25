@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2009-06-19T14:38:58+00:00"
-guid: http://alper.nl/dingen/?p=1052
-parent_post_id: null
-post_id: "1052"
 title: I come not to save Flash
 aliases:
   - /dingen/2009/06/i-come-not-to-save-flash/

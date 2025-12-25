@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-07T14:54:29+00:00"
-guid: http://alper.nl/dingen/?p=3376
-parent_post_id: null
-post_id: "3376"
 tags:
   - weeknotes
 title: 'Week 259: office work, publicity, copyright and liquid feedback'

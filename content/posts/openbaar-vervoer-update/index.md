@@ -4,9 +4,6 @@ categories:
   - internet
   - nederlands
 date: "2009-04-15T11:10:51+00:00"
-guid: http://alper.nl/dingen/?p=929
-parent_post_id: null
-post_id: "929"
 title: Openbaar Vervoer update
 aliases:
   - /dingen/2009/04/openbaar-vervoer-update/

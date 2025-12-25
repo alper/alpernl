@@ -5,9 +5,6 @@ categories:
   - nederlands
   - publicity
 date: "2014-09-03T10:07:10+00:00"
-guid: http://alper.nl/dingen/?p=5052
-parent_post_id: null
-post_id: "5052"
 title: Recensie Desert Golfing in de nrc.next
 aliases:
   - /dingen/2014/09/recensie-desert-golfing-in-de-nrc-next/

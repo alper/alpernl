@@ -6,9 +6,6 @@ categories:
   - nederlands
   - politics
 date: "2010-03-19T07:35:31+00:00"
-guid: http://alper.nl/dingen/?p=1675
-parent_post_id: null
-post_id: "1675"
 title: In code we trust — Vertrouwen in de overheid, bureaucratie en technologie
 aliases:
   - /dingen/2010/03/in-code-we-trust-—-vertrouwen-in-de-overheid-bureaucratie-en-technologie/

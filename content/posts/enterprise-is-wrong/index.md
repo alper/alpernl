@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2010-01-08T11:14:42+00:00"
-guid: http://alper.nl/dingen/?p=1479
-parent_post_id: null
-post_id: "1479"
 title: Enterprise is wrong
 aliases:
   - /dingen/2010/01/enterprise-is-wrong/

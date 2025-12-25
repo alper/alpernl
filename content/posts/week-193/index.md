@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2010-11-30T22:17:53+00:00"
-guid: http://alper.nl/dingen/?p=2300
-parent_post_id: null
-post_id: "2300"
 tags:
   - weeknotes
 title: Week 193

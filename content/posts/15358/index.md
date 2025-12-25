@@ -5,9 +5,6 @@ categories:
   - reading
   - science
 date: "2019-04-28T13:59:00+00:00"
-guid: http://alper.nl/dingen/?p=15358
-parent_post_id: null
-post_id: "15358"
 title: ""
 aliases:
   - /dingen/2019/04/15358/

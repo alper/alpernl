@@ -5,9 +5,6 @@ categories:
   - english
   - travel
 date: "2019-05-27T22:07:41+00:00"
-guid: http://alper.nl/dingen/?p=15466
-parent_post_id: null
-post_id: "15466"
 title: ""
 aliases:
   - /dingen/2019/05/15466/

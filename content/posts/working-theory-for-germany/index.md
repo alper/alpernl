@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2011-12-24T14:46:14+00:00"
-guid: http://alper.nl/dingen/?p=3167
-parent_post_id: null
-post_id: "3167"
 title: Working theory for Germany
 aliases:
   - /dingen/2011/12/working-theory-for-germany/

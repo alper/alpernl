@@ -2,9 +2,6 @@
 _wp_page_template: default
 author: alper
 date: "2008-08-01T08:07:54+00:00"
-guid: http://alper.nl/dingen/?page_id=350
-parent_post_id: null
-post_id: "350"
 title: Speaking
 aliases:
   - /dingen/speaking/

@@ -5,9 +5,6 @@ categories:
   - english
   - london
 date: "2019-07-14T13:01:22+00:00"
-guid: http://alper.nl/dingen/?p=15582
-parent_post_id: null
-post_id: "15582"
 title: ""
 aliases:
   - /dingen/2019/07/15582/

@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-03-22T20:31:40+00:00"
-guid: http://alper.nl/dingen/2008/03/idiote-week/
-parent_post_id: null
-post_id: "275"
 tags:
   - fotografie
 title: Idiote week

@@ -4,9 +4,6 @@ categories:
   - nederlands
   - photography
 date: "2008-04-17T12:25:23+00:00"
-guid: http://alper.nl/dingen/2008/04/tempo/
-parent_post_id: null
-post_id: "283"
 tags:
   - leven
   - werken

@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-24T14:08:30+00:00"
-guid: http://alper.nl/dingen/2007/12/open-reisinformatie-voor-de-mensen/
-parent_post_id: null
-post_id: "197"
 tags:
   - openbaar-vervoer
   - overheid

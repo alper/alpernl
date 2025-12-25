@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - work
 date: "2012-09-28T08:07:02+00:00"
-guid: http://alper.nl/dingen/?p=3885
-parent_post_id: null
-post_id: "3885"
 tags:
   - weeknotes
 title: 'Week 288: settling in and Munich'

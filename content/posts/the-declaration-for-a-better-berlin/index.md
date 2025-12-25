@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2013-08-23T14:29:28+00:00"
-guid: http://alper.nl/dingen/?p=4726
-parent_post_id: null
-post_id: "4726"
 title: The Declaration for a Better Berlin
 aliases:
   - /dingen/2013/08/the-declaration-for-a-better-berlin/

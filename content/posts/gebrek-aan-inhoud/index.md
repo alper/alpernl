@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-24T16:59:40+00:00"
-guid: http://alper.nl/dingen/2007/08/gebrek-aan-inhoud/
-parent_post_id: null
-post_id: "117"
 tags:
   - zomerreis-2007
 title: Gebrek aan inhoud

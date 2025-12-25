@@ -11,9 +11,6 @@ enclosure: |-
   https://alper.nlvolkskorper.mp3
   1891920
   audio/mpeg
-guid: https://alper.nl/dingen/?p=17325
-parent_post_id: null
-post_id: "17325"
 title: 'Fragment Ones and Tooze: Live from Berlin - Lindner'
 aliases:
   - /dingen/2023/11/fragment-ones-and-tooze-live-from-berlin-lindner/

@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2023-03-11T11:22:41+00:00"
-guid: https://alper.nl/dingen/?p=17118
-parent_post_id: null
-post_id: "17118"
 title: ""
 aliases:
   - /dingen/2023/03/17118/

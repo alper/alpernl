@@ -9,9 +9,6 @@ enclosure: |-
   https://alper.nlTooze-Clip.mp3
   1857333
   audio/mpeg
-guid: https://alper.nl/dingen/?p=17239
-parent_post_id: null
-post_id: "17239"
 title: 'Fragment Ones and Tooze: Tooze Unplugged'
 aliases:
   - /dingen/2023/07/fragment-ones-and-tooze-tooze-unplugged/

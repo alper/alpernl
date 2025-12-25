@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2017-10-06T20:26:54+00:00"
-guid: http://alper.nl/dingen/?p=5845
-parent_post_id: null
-post_id: "5845"
 title: Highlights from Homage to Catalonia
 aliases:
   - /dingen/2017/10/highlights-from-homage-to-catalonia/

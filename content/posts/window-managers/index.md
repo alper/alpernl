@@ -4,9 +4,6 @@ categories:
   - english
   - software-engineering
 date: "2025-11-01T18:49:50+00:00"
-guid: https://alper.nl/dingen/?p=18420
-parent_post_id: null
-post_id: "18420"
 title: Window Managers
 aliases:
   - /dingen/2025/10/window-managers/

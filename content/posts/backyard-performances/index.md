@@ -6,9 +6,6 @@ categories:
   - music
   - photography
 date: "2009-06-06T20:35:48+00:00"
-guid: http://alper.nl/dingen/?p=1025
-parent_post_id: null
-post_id: "1025"
 title: Backyard performances
 aliases:
   - /dingen/2009/06/backyard-performances/

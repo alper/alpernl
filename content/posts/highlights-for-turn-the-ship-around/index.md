@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2018-03-04T21:28:04+00:00"
-guid: http://alper.nl/dingen/?p=5952
-parent_post_id: null
-post_id: "5952"
 title: Highlights for Turn the Ship Around
 aliases:
   - /dingen/2018/03/highlights-for-turn-the-ship-around/

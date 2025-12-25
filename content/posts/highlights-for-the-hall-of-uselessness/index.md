@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-10-15T07:22:02+00:00"
-guid: http://alper.nl/dingen/?p=6063
-parent_post_id: null
-post_id: "6063"
 title: Highlights for The Hall of Uselessness
 aliases:
   - /dingen/2018/10/highlights-for-the-hall-of-uselessness/

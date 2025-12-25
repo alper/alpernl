@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2017-04-10T12:45:31+00:00"
-guid: http://alper.nl/dingen/?p=5767
-parent_post_id: null
-post_id: "5767"
 title: Applying selectorate theory to current Dutch and German governments
 aliases:
   - /dingen/2017/04/applying-selectorate-theory-to-current-dutch-and-german-governments/

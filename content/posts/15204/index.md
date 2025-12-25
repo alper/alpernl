@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - the-city
 date: "2019-03-03T14:17:33+00:00"
-guid: http://alper.nl/dingen/?p=15204
-parent_post_id: null
-post_id: "15204"
 title: ""
 aliases:
   - /dingen/2019/03/15204/

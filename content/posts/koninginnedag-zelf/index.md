@@ -4,9 +4,6 @@ categories:
   - capoeira
   - video
 date: "2007-05-01T09:51:46+00:00"
-guid: http://alper.nl/dingen/2007/05/koninginnedag-zelf/
-parent_post_id: null
-post_id: "31"
 tags:
   - drinken
   - feest

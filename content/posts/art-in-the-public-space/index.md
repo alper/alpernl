@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - video
 date: "2009-02-19T11:23:09+00:00"
-guid: http://alper.nl/dingen/?p=779
-parent_post_id: null
-post_id: "779"
 title: Art in the public space
 aliases:
   - /dingen/2009/02/art-in-the-public-space/

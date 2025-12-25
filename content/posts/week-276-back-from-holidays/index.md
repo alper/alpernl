@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-07-11T16:07:42+00:00"
-guid: http://alper.nl/dingen/?p=3685
-parent_post_id: null
-post_id: "3685"
 tags:
   - weeknotes
 title: 'Week 276: back from holidays'

@@ -4,9 +4,6 @@ author: alper
 categories:
   - english
 date: "2019-11-27T12:23:50+00:00"
-guid: http://alper.nl/dingen/?p=15863
-parent_post_id: null
-post_id: "15863"
 title: 'Types and Functions 4: Containers'
 aliases:
   - /dingen/2019/11/types-and-functions-4-containers/

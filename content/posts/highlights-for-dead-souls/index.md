@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2020-03-19T21:42:44+00:00"
-guid: http://alper.nl/dingen/?p=16040
-parent_post_id: null
-post_id: "16040"
 title: Highlights for Dead Souls
 aliases:
   - /dingen/2020/03/highlights-for-dead-souls/

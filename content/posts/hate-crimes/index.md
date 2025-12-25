@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-07T10:20:01+00:00"
-guid: http://alper.nl/dingen/2007/08/hate-crimes/
-parent_post_id: null
-post_id: "114"
 tags:
   - amsterdam
   - burgerrechten

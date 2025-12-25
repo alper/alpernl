@@ -7,9 +7,6 @@ categories:
   - the-city
   - travel
 date: "2009-07-22T11:32:58+00:00"
-guid: http://alper.nl/dingen/?p=1112
-parent_post_id: null
-post_id: "1112"
 title: Nationale Databank Wegverkeersgegevens
 aliases:
   - /dingen/2009/07/nationaal-databank-wegverkeersgegevens/

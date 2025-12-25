@@ -4,9 +4,6 @@ categories:
   - delft
   - nederlands
 date: "2008-11-10T11:26:13+00:00"
-guid: http://alper.nl/dingen/?p=602
-parent_post_id: null
-post_id: "602"
 tags:
   - auto
   - binnenstad

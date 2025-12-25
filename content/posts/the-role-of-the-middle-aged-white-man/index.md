@@ -4,9 +4,6 @@ categories:
   - english
   - poetry
 date: "2019-09-01T19:14:27+00:00"
-guid: http://alper.nl/dingen/?p=15657
-parent_post_id: null
-post_id: "15657"
 title: The Role of the Middle-Aged White Man
 aliases:
   - /dingen/2019/09/the-role-of-the-middle-aged-white-man/

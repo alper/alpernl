@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2013-11-23T18:22:24+00:00"
-guid: http://alper.nl/dingen/?p=4836
-parent_post_id: null
-post_id: "4836"
 title: Notes from the Rum Diary by Hunter S. Thompson
 aliases:
   - /dingen/2013/11/notes-from-the-rum-diary-by-hunter-s-thompson/

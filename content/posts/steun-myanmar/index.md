@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-28T10:27:13+00:00"
-guid: http://alper.nl/dingen/2007/09/steun-myanmar/
-parent_post_id: null
-post_id: "141"
 tags:
   - burgerrechten
   - corruptie

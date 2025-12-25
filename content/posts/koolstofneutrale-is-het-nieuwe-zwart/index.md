@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-05-11T04:12:17+00:00"
-guid: http://alper.nl/dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/
-parent_post_id: null
-post_id: "38"
 tags:
   - internet
   - milieu

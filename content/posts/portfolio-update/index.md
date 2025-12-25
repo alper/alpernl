@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-15T17:59:04+00:00"
-guid: http://alper.nl/dingen/2007/10/portfolio-update/
-parent_post_id: null
-post_id: "157"
 tags:
   - fotografie
   - reizen

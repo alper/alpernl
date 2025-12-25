@@ -6,9 +6,6 @@ categories:
   - reading
   - the-city
 date: "2011-09-28T06:29:06+00:00"
-guid: http://alper.nl/dingen/?p=2951
-parent_post_id: null
-post_id: "2951"
 title: De science-fiction van nu
 aliases:
   - /dingen/2011/09/de-science-fiction-van-nu/

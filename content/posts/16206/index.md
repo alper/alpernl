@@ -5,9 +5,6 @@ categories:
   - food
   - product-/-design
 date: "2020-08-02T10:48:55+00:00"
-guid: http://alper.nl/dingen/?p=16206
-parent_post_id: null
-post_id: "16206"
 title: ""
 aliases:
   - /dingen/2020/08/16206/

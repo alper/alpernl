@@ -5,9 +5,6 @@ categories:
   - nederlands
   - work
 date: "2010-01-12T14:03:33+00:00"
-guid: http://alper.nl/dingen/?p=1495
-parent_post_id: null
-post_id: "1495"
 title: TipiT in het Nederlands
 aliases:
   - /dingen/2010/01/tipit-in-het-nederlands/

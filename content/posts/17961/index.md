@@ -9,9 +9,6 @@ enclosure: |-
   https://alper.nlop-ed.mp3
   351567
   audio/mpeg
-guid: https://alper.nl/dingen/?p=17961
-parent_post_id: null
-post_id: "17961"
 title: ""
 aliases:
   - /dingen/2025/01/17961/

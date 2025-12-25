@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-08T11:52:40+00:00"
-guid: http://alper.nl/dingen/2008/02/star-spangled/
-parent_post_id: null
-post_id: "247"
 tags:
   - amerika
   - muziek

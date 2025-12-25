@@ -5,9 +5,6 @@ categories:
   - photography
   - politics
 date: "2025-01-02T14:19:47+00:00"
-guid: https://alper.nl/dingen/?p=17836
-parent_post_id: null
-post_id: "17836"
 title: ""
 aliases:
   - /dingen/2025/01/17836/

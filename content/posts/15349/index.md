@@ -4,9 +4,6 @@ categories:
   - english
   - new-york
 date: "2019-04-26T21:02:01+00:00"
-guid: http://alper.nl/dingen/?p=15349
-parent_post_id: null
-post_id: "15349"
 title: ""
 aliases:
   - /dingen/2019/04/15349/

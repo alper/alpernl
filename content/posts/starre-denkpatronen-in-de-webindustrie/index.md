@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-08T14:02:00+00:00"
-guid: http://alper.nl/dingen/2007/06/starre-denkpatronen-in-de-webindustrie/
-parent_post_id: null
-post_id: "60"
 tags:
   - computers
   - html

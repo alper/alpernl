@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2011-05-09T15:44:34+00:00"
-guid: http://alper.nl/dingen/?p=2603
-parent_post_id: null
-post_id: "2603"
 title: Week 216
 aliases:
   - /dingen/2011/05/week-216/

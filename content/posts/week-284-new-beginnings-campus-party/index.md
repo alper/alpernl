@@ -7,9 +7,6 @@ categories:
   - nederlands
   - work
 date: "2012-08-28T07:52:13+00:00"
-guid: http://alper.nl/dingen/?p=3818
-parent_post_id: null
-post_id: "3818"
 tags:
   - weeknotes
 title: 'Week 284: New beginnings, Campus Party'

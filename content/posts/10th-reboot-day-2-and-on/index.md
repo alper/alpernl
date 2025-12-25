@@ -7,9 +7,6 @@ categories:
   - travel
   - uncategorized
 date: "2008-07-01T14:40:33+00:00"
-guid: http://alper.nl/dingen/?p=319
-parent_post_id: null
-post_id: "319"
 tags:
   - conference
   - copenhagen

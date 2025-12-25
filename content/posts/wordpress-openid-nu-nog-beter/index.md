@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-12-12T20:17:08+00:00"
-guid: http://alper.nl/dingen/2007/11/wordpress-openid-nu-nog-beter/
-parent_post_id: null
-post_id: "190"
 tags:
   - huishoudelijk
   - informatie

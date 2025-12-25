@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-19T13:13:05+00:00"
-guid: http://alper.nl/dingen/2007/06/livestro-rot-eindelijk-op/
-parent_post_id: null
-post_id: "74"
 tags:
   - politiek
   - televisie

@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2024-11-03T01:16:20+00:00"
-guid: https://alper.nl/dingen/?p=17645
-parent_post_id: null
-post_id: "17645"
 title: ""
 aliases:
   - /dingen/2024/11/17645/

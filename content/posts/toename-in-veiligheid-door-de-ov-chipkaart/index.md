@@ -7,9 +7,6 @@ categories:
   - the-city
   - travel
 date: "2010-03-01T15:37:47+00:00"
-guid: http://alper.nl/dingen/?p=1606
-parent_post_id: null
-post_id: "1606"
 title: Toename in veiligheid door de ov-chipkaart
 aliases:
   - /dingen/2010/03/toename-in-veiligheid-door-de-ov-chipkaart/

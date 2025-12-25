@@ -5,9 +5,6 @@ categories:
   - english
   - reading
 date: "2013-01-04T15:25:30+00:00"
-guid: http://alper.nl/dingen/?p=4022
-parent_post_id: null
-post_id: "4022"
 title: Mailing books within Germany
 aliases:
   - /dingen/2013/01/mailing-books-within-germany/

@@ -4,9 +4,6 @@ categories:
   - english
   - food
 date: "2019-06-15T20:51:44+00:00"
-guid: http://alper.nl/dingen/?p=15524
-parent_post_id: null
-post_id: "15524"
 title: ""
 aliases:
   - /dingen/2019/06/15524/

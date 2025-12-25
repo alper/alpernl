@@ -4,9 +4,6 @@ categories:
   - english
 date: "2025-11-28T15:11:44+00:00"
 draft: "true"
-guid: https://alper.nl/dingen/?p=18522
-parent_post_id: null
-post_id: "18522"
 title: Iseji - Day 4 - Owase to Atashika
 aliases:
   - /dingen/

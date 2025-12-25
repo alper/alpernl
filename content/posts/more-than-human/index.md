@@ -4,9 +4,6 @@ categories:
   - climate
   - english
 date: "2020-08-25T19:23:36+00:00"
-guid: http://alper.nl/dingen/?p=16250
-parent_post_id: null
-post_id: "16250"
 title: More-Than-Human
 aliases:
   - /dingen/2020/08/more-than-human/

@@ -6,9 +6,6 @@ categories:
   - politics
   - the-city
 date: "2012-05-30T17:18:28+00:00"
-guid: http://alper.nl/dingen/?p=3573
-parent_post_id: null
-post_id: "3573"
 title: Protests on Kotti against rent rises
 aliases:
   - /dingen/2012/05/protests-on-kotti-against-rent-rises/

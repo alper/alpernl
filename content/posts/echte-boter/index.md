@@ -5,9 +5,6 @@ categories:
   - music
   - nederlands
 date: "2008-03-03T16:43:20+00:00"
-guid: http://alper.nl/dingen/2008/02/echte-boter/
-parent_post_id: null
-post_id: "265"
 tags:
   - feest
   - muziek

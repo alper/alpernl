@@ -4,9 +4,6 @@ categories:
   - internet
   - nederlands
 date: "2010-04-19T10:51:00+00:00"
-guid: http://alper.nl/dingen/?p=1708
-parent_post_id: null
-post_id: "1708"
 title: Foursquare en locaties bij Willem de Kooning
 aliases:
   - /dingen/2010/04/foursquare-en-locaties-bij-willem-de-kooning/

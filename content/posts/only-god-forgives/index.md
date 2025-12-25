@@ -5,9 +5,6 @@ categories:
   - theater
   - video
 date: "2013-07-29T11:07:05+00:00"
-guid: http://alper.nl/dingen/?p=4704
-parent_post_id: null
-post_id: "4704"
 title: Only God Forgives
 aliases:
   - /dingen/2013/07/only-god-forgives/

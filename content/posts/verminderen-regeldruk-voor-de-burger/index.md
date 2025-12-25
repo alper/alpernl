@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-08-02T08:21:36+00:00"
-guid: http://alper.nl/dingen/2007/08/verminderen-regeldruk-voor-de-burger/
-parent_post_id: null
-post_id: "109"
 tags:
   - ondernemen
   - overheid

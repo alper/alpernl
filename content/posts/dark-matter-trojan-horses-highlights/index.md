@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2013-08-26T07:09:41+00:00"
-guid: http://alper.nl/dingen/?p=4244
-parent_post_id: null
-post_id: "4244"
 title: Dark Matter & Trojan Horses Highlights
 aliases:
   - /dingen/2013/08/dark-matter-trojan-horses-highlights/

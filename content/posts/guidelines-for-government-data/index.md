@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - politics
 date: "2009-02-04T20:23:38+00:00"
-guid: http://alper.nl/dingen/?p=743
-parent_post_id: null
-post_id: "743"
 tags:
   - ukgc09
 title: Guidelines for government data

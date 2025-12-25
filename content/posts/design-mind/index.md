@@ -7,9 +7,6 @@ categories:
   - travel
   - work
 date: "2010-08-12T15:18:54+00:00"
-guid: http://alper.nl/dingen/?p=2030
-parent_post_id: null
-post_id: "2030"
 title: Design Mind
 aliases:
   - /dingen/2010/08/design-mind/

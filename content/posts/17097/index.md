@@ -5,9 +5,6 @@ categories:
   - english
   - games
 date: "2023-03-04T07:59:46+00:00"
-guid: https://alper.nl/dingen/?p=17097
-parent_post_id: null
-post_id: "17097"
 title: ""
 aliases:
   - /dingen/2023/03/17097/

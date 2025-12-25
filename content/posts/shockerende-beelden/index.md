@@ -7,9 +7,6 @@ enclosure: |-
   http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.wmv
   222896333
   video/x-ms-wmv
-guid: http://alper.nl/dingen/2007/09/shockerende-beelden/
-parent_post_id: null
-post_id: "124"
 tags:
   - filosofie
   - movies

@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2012-08-14T13:01:19+00:00"
-guid: http://alper.nl/dingen/?p=3719
-parent_post_id: null
-post_id: "3719"
 title: Ten Billion by Katie Mitchell and Stephen Emmott
 aliases:
   - /dingen/2012/07/ten-billion-by-katie-mitchell-and-stephen-emmott/

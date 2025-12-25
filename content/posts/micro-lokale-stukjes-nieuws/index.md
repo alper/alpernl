@@ -6,9 +6,6 @@ categories:
   - nederlands
   - the-city
 date: "2009-09-01T18:18:21+00:00"
-guid: http://alper.nl/dingen/?p=1198
-parent_post_id: null
-post_id: "1198"
 title: micro-Lokale stukjes nieuws
 aliases:
   - /dingen/2009/09/micro-lokale-stukjes-nieuws/

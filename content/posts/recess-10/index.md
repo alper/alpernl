@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2013-04-20T10:34:06+00:00"
-guid: http://alper.nl/dingen/?p=4503
-parent_post_id: null
-post_id: "4503"
 title: Recess! 10
 aliases:
   - /dingen/2013/04/recess-10/

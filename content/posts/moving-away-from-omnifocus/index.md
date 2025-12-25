@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2021-04-29T19:14:06+00:00"
-guid: https://alper.nl/dingen/?p=16502
-parent_post_id: null
-post_id: "16502"
 title: Moving away from Omnifocus
 aliases:
   - /dingen/2021/04/moving-away-from-omnifocus/

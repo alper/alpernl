@@ -5,9 +5,6 @@ categories:
   - travel
   - work
 date: "2013-05-12T22:29:35+00:00"
-guid: http://alper.nl/dingen/?p=4528
-parent_post_id: null
-post_id: "4528"
 title: Week 319
 aliases:
   - /dingen/2013/05/week-319/

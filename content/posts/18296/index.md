@@ -7,9 +7,6 @@ categories:
   - san-francisco
   - software-engineering
 date: "2025-08-13T21:32:24+00:00"
-guid: https://alper.nl/dingen/2025/08/18296/
-parent_post_id: null
-post_id: "18296"
 title: ""
 aliases:
   - /dingen/2025/08/18296/

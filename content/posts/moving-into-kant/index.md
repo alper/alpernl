@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2013-05-13T19:59:10+00:00"
-guid: http://alper.nl/dingen/?p=4557
-parent_post_id: null
-post_id: "4557"
 title: Moving into KANT
 aliases:
   - /dingen/2013/05/moving-into-kant/

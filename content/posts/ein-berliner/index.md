@@ -3,9 +3,6 @@ author: alper
 categories:
   - berlin
 date: "2008-01-15T16:38:32+00:00"
-guid: http://alper.nl/dingen/2008/01/ein-berliner/
-parent_post_id: null
-post_id: "222"
 tags:
   - berlijn
   - computers

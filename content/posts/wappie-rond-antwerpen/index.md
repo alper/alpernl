@@ -4,9 +4,6 @@ categories:
   - nederlands
   - the-city
 date: "2009-10-02T15:25:17+00:00"
-guid: http://alper.nl/dingen/?p=1279
-parent_post_id: null
-post_id: "1279"
 title: Wappie rond Antwerpen
 aliases:
   - /dingen/2009/10/wappie-rond-antwerpen/

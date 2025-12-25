@@ -9,9 +9,6 @@ enclosure: |-
   http://www.jessgibson.com/videos/Draplin_America_is_fucked_newFINAL.mov
   47332717
   video/quicktime
-guid: http://alper.nl/dingen/?p=328
-parent_post_id: null
-post_id: "328"
 tags:
   - design
   - draplin

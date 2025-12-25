@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2022-01-30T01:13:50+00:00"
-guid: https://alper.nl/dingen/?p=16691
-parent_post_id: null
-post_id: "16691"
 title: Anthroposophy and Ecofascism
 aliases:
   - /dingen/2022/01/anthroposophy-and-ecofascism/

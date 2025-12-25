@@ -6,9 +6,6 @@ categories:
   - photography
   - sports
 date: "2019-09-22T20:54:56+00:00"
-guid: http://alper.nl/dingen/?p=15720
-parent_post_id: null
-post_id: "15720"
 title: ""
 aliases:
   - /dingen/2019/09/15720/

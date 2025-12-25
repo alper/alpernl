@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - work
 date: "2012-04-22T15:18:33+00:00"
-guid: http://alper.nl/dingen/?p=3509
-parent_post_id: null
-post_id: "3509"
 title: Designing in the Face of Defeat
 aliases:
   - /dingen/2012/04/designing-in-the-face-of-defeat/

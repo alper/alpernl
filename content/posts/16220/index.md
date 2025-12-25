@@ -4,9 +4,6 @@ categories:
   - english
   - leadership
 date: "2020-08-14T13:39:38+00:00"
-guid: http://alper.nl/dingen/?p=16220
-parent_post_id: null
-post_id: "16220"
 title: Risk appetites of different leaders
 aliases:
   - /dingen/2020/08/16220/

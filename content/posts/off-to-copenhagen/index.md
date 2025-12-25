@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2008-06-26T00:48:04+00:00"
-guid: http://alper.nl/dingen/?p=316
-parent_post_id: null
-post_id: "316"
 tags:
   - uncategorized
 title: Off to Copenhagen

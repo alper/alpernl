@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-22T22:55:37+00:00"
-guid: http://alper.nl/dingen/2007/07/turkije-kiest-jij-komt-toch-ook/
-parent_post_id: null
-post_id: "100"
 tags:
   - journalistiek
   - politiek

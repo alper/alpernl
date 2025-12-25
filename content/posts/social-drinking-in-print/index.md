@@ -7,9 +7,6 @@ categories:
   - monster-swell
   - the-city
 date: "2009-08-05T15:35:59+00:00"
-guid: http://alper.nl/dingen/?p=1154
-parent_post_id: null
-post_id: "1154"
 title: Social Drinking in Print
 aliases:
   - /dingen/2009/08/social-drinking-in-print/

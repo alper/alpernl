@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2016-09-06T14:54:58+00:00"
-guid: http://alper.nl/dingen/?p=5608
-parent_post_id: null
-post_id: "5608"
 title: Highlights for Certain to Win by Chet Richards
 aliases:
   - /dingen/2016/09/notes-for-certain-to-win-by-chet-richards/

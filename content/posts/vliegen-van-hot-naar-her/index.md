@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-07-24T21:29:02+00:00"
-guid: http://alper.nl/dingen/2007/07/vliegen-van-hot-naar-her/
-parent_post_id: null
-post_id: "105"
 tags:
   - reizen
   - zomerreis-2007

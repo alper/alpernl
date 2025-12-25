@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - the-city
 date: "2010-03-08T00:38:42+00:00"
-guid: http://alper.nl/dingen/?p=1662
-parent_post_id: null
-post_id: "1662"
 title: Sea fare
 aliases:
   - /dingen/2010/03/sea-fare/

@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-10-25T07:08:02+00:00"
-guid: http://alper.nl/dingen/2007/10/ad-koffietest/
-parent_post_id: null
-post_id: "170"
 tags:
   - klantenervaring
   - koffie

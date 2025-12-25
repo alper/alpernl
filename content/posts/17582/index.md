@@ -5,9 +5,6 @@ categories:
   - english
   - video
 date: "2024-08-13T21:16:15+00:00"
-guid: https://alper.nl/dingen/?p=17582
-parent_post_id: null
-post_id: "17582"
 title: ""
 aliases:
   - /dingen/2024/08/17582/

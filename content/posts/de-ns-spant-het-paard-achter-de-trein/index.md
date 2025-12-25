@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - travel
 date: "2009-03-19T16:08:16+00:00"
-guid: http://alper.nl/dingen/?p=835
-parent_post_id: null
-post_id: "835"
 title: De NS spant het paard achter de trein
 aliases:
   - /dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/

@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-06-07T17:57:24+00:00"
-guid: http://alper.nl/dingen/?p=3591
-parent_post_id: null
-post_id: "3591"
 tags:
   - weeknotes
 title: 'Week 272: speculative realism, iPhone development, event visiting and preparation'

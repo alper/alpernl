@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2011-06-16T21:59:45+00:00"
-guid: http://alper.nl/dingen/2007/06/portfolio/
-parent_post_id: null
-post_id: "70"
 tags:
   - fotografie
   - html

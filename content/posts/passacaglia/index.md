@@ -6,9 +6,6 @@ categories:
   - reading
   - video
 date: "2010-04-02T08:32:25+00:00"
-guid: http://alper.nl/dingen/?p=1698
-parent_post_id: null
-post_id: "1698"
 title: Passacaglia
 aliases:
   - /dingen/2010/04/passacaglia/

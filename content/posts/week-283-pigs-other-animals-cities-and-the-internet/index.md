@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2012-08-22T08:00:28+00:00"
-guid: http://alper.nl/dingen/?p=3795
-parent_post_id: null
-post_id: "3795"
 tags:
   - weeknotes
 title: 'Week 283: Pigs, other animals, cities and the internet'

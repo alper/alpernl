@@ -5,9 +5,6 @@ categories:
   - language
   - turkish
 date: "2021-11-29T08:37:26+00:00"
-guid: https://alper.nl/dingen/?p=16644
-parent_post_id: null
-post_id: "16644"
 title: ""
 aliases:
   - /dingen/2021/11/16644/

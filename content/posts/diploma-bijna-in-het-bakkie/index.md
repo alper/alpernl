@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-17T11:29:47+00:00"
-guid: http://alper.nl/dingen/2007/09/diploma-bijna-in-het-bakkie/
-parent_post_id: null
-post_id: "129"
 tags:
   - afstuderen
   - evenement

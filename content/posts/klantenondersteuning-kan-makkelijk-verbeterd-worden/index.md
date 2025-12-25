@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-08T16:11:54+00:00"
-guid: http://alper.nl/dingen/2007/10/klantenondersteuning-kan-makkelijk-verbeterd-worden/
-parent_post_id: null
-post_id: "152"
 tags:
   - klantenervaring
 title: Klantenondersteuning kan makkelijk verbeterd worden

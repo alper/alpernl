@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2008-07-11T11:00:28+00:00"
-guid: http://alper.nl/dingen/?p=321
-parent_post_id: null
-post_id: "321"
 tags:
   - uncategorized
 title: Linguistic Waves

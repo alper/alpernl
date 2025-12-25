@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-03-29T16:59:40+00:00"
-guid: http://alper.nl/dingen/?p=3443
-parent_post_id: null
-post_id: "3443"
 tags:
   - weeknotes
 title: 'Week 262: native iPhone development, gentrification clashes, Fraunhofer, Deutsches Theater and fixie riding'

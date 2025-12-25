@@ -4,9 +4,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2008-05-27T12:34:55+00:00"
-guid: http://alper.nl/dingen/?p=300
-parent_post_id: null
-post_id: "300"
 tags:
   - uncategorized
 title: Arduino Diecimila projectje

@@ -5,9 +5,6 @@ categories:
   - deutsch
   - english
 date: "2018-04-10T18:44:13+00:00"
-guid: http://alper.nl/dingen/?p=5971
-parent_post_id: null
-post_id: "5971"
 title: Komplischwierig
 aliases:
   - /dingen/2018/04/komplischwierig/

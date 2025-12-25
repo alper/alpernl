@@ -6,9 +6,6 @@ categories:
   - travel
 date: "2025-11-29T11:14:02+00:00"
 draft: "true"
-guid: https://alper.nl/dingen/?p=18525
-parent_post_id: null
-post_id: "18525"
 title: Iseji - Day 5 - Atashika to Shingu
 aliases:
   - /dingen/

@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2019-09-22T20:57:01+00:00"
-guid: http://alper.nl/dingen/?p=15722
-parent_post_id: null
-post_id: "15722"
 title: ""
 aliases:
   - /dingen/2019/09/15722/

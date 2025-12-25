@@ -5,9 +5,6 @@ categories:
   - nederlands
   - the-city
 date: "2010-11-09T23:44:42+00:00"
-guid: http://alper.nl/dingen/?p=2268
-parent_post_id: null
-post_id: "2268"
 title: Real Time Bushalte
 aliases:
   - /dingen/2010/11/real-time-bushalte/

@@ -6,9 +6,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2010-04-21T13:05:23+00:00"
-guid: http://alper.nl/dingen/?p=1742
-parent_post_id: null
-post_id: "1742"
 title: Obstakels in het werken met open data
 aliases:
   - /dingen/2010/04/obstakels-in-het-werken-met-open-data/

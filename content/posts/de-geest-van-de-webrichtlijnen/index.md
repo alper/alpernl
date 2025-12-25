@@ -5,9 +5,6 @@ categories:
   - nederlands
   - work
 date: "2009-07-08T11:32:23+00:00"
-guid: http://alper.nl/dingen/?p=1105
-parent_post_id: null
-post_id: "1105"
 title: De Geest van de Webrichtlijnen
 aliases:
   - /dingen/2009/07/de-geest-van-de-webrichtlijnen/

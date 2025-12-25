@@ -5,9 +5,6 @@ categories:
   - internet
   - product-/-design
 date: "2019-03-07T20:53:04+00:00"
-guid: http://alper.nl/dingen/?p=15226
-parent_post_id: null
-post_id: "15226"
 title: ""
 aliases:
   - /dingen/2019/03/15226/

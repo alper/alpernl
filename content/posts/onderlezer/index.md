@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2008-05-10T06:49:55+00:00"
-guid: http://alper.nl/dingen/?p=291
-parent_post_id: null
-post_id: "291"
 tags:
   - culture
   - curiousity

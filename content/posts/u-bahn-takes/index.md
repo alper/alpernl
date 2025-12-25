@@ -6,9 +6,6 @@ categories:
   - internet
   - new-york
 date: "2025-09-10T21:22:41+00:00"
-guid: https://alper.nl/dingen/?p=18324
-parent_post_id: null
-post_id: "18324"
 title: U-Bahn Takes
 aliases:
   - /dingen/2025/09/u-bahn-takes/

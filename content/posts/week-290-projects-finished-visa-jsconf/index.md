@@ -9,9 +9,6 @@ categories:
   - monster-swell
   - work
 date: "2012-10-14T09:39:09+00:00"
-guid: http://alper.nl/dingen/?p=3932
-parent_post_id: null
-post_id: "3932"
 tags:
   - weeknotes
 title: 'Week 290: projects finished, visa, JSconf'

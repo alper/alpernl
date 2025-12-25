@@ -7,9 +7,6 @@ enclosure: |-
   http://harpercoln.vo.llnwd.net/o16/StudyInEmerald_full.mp3
   71515642
   audio/mpeg
-guid: http://alper.nl/dingen/2008/01/een-studie-in-smaragd/
-parent_post_id: null
-post_id: "236"
 tags:
   - reading
 title: Een studie in smaragd

@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-06-27T23:36:53+00:00"
-guid: http://alper.nl/dingen/2007/06/javaone-afterglow-desktop-java/
-parent_post_id: null
-post_id: "80"
 tags:
   - internet
   - reizen

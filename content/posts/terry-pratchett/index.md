@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2015-03-13T17:19:06+00:00"
-guid: http://alper.nl/dingen/?p=5192
-parent_post_id: null
-post_id: "5192"
 title: Terry Pratchett
 aliases:
   - /dingen/2015/03/terry-pratchett/

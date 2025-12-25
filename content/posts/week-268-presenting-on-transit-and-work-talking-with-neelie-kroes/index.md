@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-05-12T16:44:26+00:00"
-guid: http://alper.nl/dingen/?p=3544
-parent_post_id: null
-post_id: "3544"
 tags:
   - weeknotes
 title: 'Week 268: presenting on transit and work, talking with Neelie Kroes'

@@ -4,9 +4,6 @@ categories:
   - english
   - science
 date: "2019-09-02T23:12:03+00:00"
-guid: http://alper.nl/dingen/?p=15672
-parent_post_id: null
-post_id: "15672"
 title: ""
 aliases:
   - /dingen/2019/09/15672/

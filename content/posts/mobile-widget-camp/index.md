@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2009-05-02T22:37:14+00:00"
-guid: http://alper.nl/dingen/?p=956
-parent_post_id: null
-post_id: "956"
 title: Mobile Widget Camp
 aliases:
   - /dingen/2009/05/mobile-widget-camp/

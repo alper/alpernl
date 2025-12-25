@@ -6,9 +6,6 @@ categories:
   - politics
   - reading
 date: "2025-12-21T23:47:05+00:00"
-guid: http://alper.nl/dingen/?p=5029
-parent_post_id: null
-post_id: "5029"
 title: The Acemoglu & Robinson Critique on Piketty
 aliases:
   - /dingen/2025/12/the-acemoglu-robinson-critique-on-piketty/

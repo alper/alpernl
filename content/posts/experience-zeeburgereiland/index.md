@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - the-city
 date: "2010-06-21T11:59:06+00:00"
-guid: http://alper.nl/dingen/?p=1870
-parent_post_id: null
-post_id: "1870"
 title: Experience Zeeburgereiland
 aliases:
   - /dingen/2010/06/experience-zeeburgereiland/

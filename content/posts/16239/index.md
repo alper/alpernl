@@ -5,9 +5,6 @@ categories:
   - games
   - politics
 date: "2020-08-23T20:48:40+00:00"
-guid: http://alper.nl/dingen/?p=16239
-parent_post_id: null
-post_id: "16239"
 title: ""
 aliases:
   - /dingen/2020/08/16239/

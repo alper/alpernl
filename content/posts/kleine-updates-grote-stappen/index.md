@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-27T21:05:26+00:00"
-guid: http://alper.nl/dingen/2007/09/kleine-updates-grote-stappen/
-parent_post_id: null
-post_id: "140"
 tags:
   - afstuderen
   - leven

@@ -5,9 +5,6 @@ categories:
   - internet
   - work
 date: "2009-02-21T12:55:33+00:00"
-guid: http://alper.nl/dingen/?p=799
-parent_post_id: null
-post_id: "799"
 tags:
   - media
   - mobile

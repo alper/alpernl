@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-10-24T21:28:33+00:00"
-guid: http://alper.nl/dingen/2007/10/een-corrupt-brein-zorgt-voor-stilstand/
-parent_post_id: null
-post_id: "172"
 tags:
   - burgerrechten
   - internet

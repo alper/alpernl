@@ -9,9 +9,6 @@ categories:
   - product-/-design
   - video
 date: "2010-04-27T09:39:46+00:00"
-guid: http://alper.nl/dingen/?p=1744
-parent_post_id: null
-post_id: "1744"
 title: Table Viewer for Music Hackday
 aliases:
   - /dingen/2010/04/table-viewer-for-music-hackday/

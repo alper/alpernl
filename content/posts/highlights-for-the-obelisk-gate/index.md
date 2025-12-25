@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-03-20T20:11:58+00:00"
-guid: http://alper.nl/dingen/?p=5959
-parent_post_id: null
-post_id: "5959"
 title: Highlights for The Obelisk Gate
 aliases:
   - /dingen/2018/03/highlights-for-the-obelisk-gate/

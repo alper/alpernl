@@ -4,9 +4,6 @@ categories:
   - english
   - politics
 date: "2015-03-31T22:50:17+00:00"
-guid: http://alper.nl/dingen/?p=5199
-parent_post_id: null
-post_id: "5199"
 title: Evgeny Morozov discovers actor-network theory
 aliases:
   - /dingen/2015/03/evgeny-morozov-discovers-actor-network-theory/

@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2012-07-03T11:40:46+00:00"
-guid: http://alper.nl/dingen/?p=3676
-parent_post_id: null
-post_id: "3676"
 title: Computational Literacy in the European Commission
 aliases:
   - /dingen/2012/07/computational-literacy-in-the-european-commission/

@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2015-12-02T16:20:44+00:00"
-guid: http://alper.nl/dingen/?p=5397
-parent_post_id: null
-post_id: "5397"
 title: OSM Live Edit Screensaver
 aliases:
   - /dingen/2015/12/osm-live-edit-screensaver/

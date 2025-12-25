@@ -6,9 +6,6 @@ categories:
   - photography
   - product-/-design
 date: "2011-03-28T20:55:14+00:00"
-guid: http://alper.nl/dingen/?p=2514
-parent_post_id: null
-post_id: "2514"
 title: Colour
 aliases:
   - /dingen/2011/03/colour/

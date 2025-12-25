@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2011-03-25T15:58:04+00:00"
-guid: http://alper.nl/dingen/?p=2505
-parent_post_id: null
-post_id: "2505"
 title: Carr's self-interest
 aliases:
   - /dingen/2011/03/carrs-self-interest/

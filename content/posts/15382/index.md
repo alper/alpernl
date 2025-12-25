@@ -5,9 +5,6 @@ categories:
   - new-york
   - reading
 date: "2019-05-02T21:56:30+00:00"
-guid: http://alper.nl/dingen/?p=15382
-parent_post_id: null
-post_id: "15382"
 title: ""
 aliases:
   - /dingen/2019/05/15382/

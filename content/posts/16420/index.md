@@ -5,9 +5,6 @@ categories:
   - leadership
   - software-engineering
 date: "2021-02-04T20:48:35+00:00"
-guid: https://alper.nl/dingen/?p=16420
-parent_post_id: null
-post_id: "16420"
 title: ""
 aliases:
   - /dingen/2021/02/16420/

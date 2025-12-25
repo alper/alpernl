@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-12-03T23:14:01+00:00"
-guid: http://alper.nl/dingen/2007/12/buitenhof-is-weer-begonnen/
-parent_post_id: null
-post_id: "196"
 tags:
   - politiek
   - televisie

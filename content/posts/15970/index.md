@@ -5,9 +5,6 @@ categories:
   - london
   - video
 date: "2020-02-02T19:54:17+00:00"
-guid: http://alper.nl/dingen/?p=15970
-parent_post_id: null
-post_id: "15970"
 title: ""
 aliases:
   - /dingen/2020/02/15970/

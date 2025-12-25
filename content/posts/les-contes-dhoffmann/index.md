@@ -5,9 +5,6 @@ categories:
   - english
   - music
 date: "2015-10-12T16:01:08+00:00"
-guid: http://alper.nl/dingen/?p=5336
-parent_post_id: null
-post_id: "5336"
 title: Les Contes d'Hoffmann
 aliases:
   - /dingen/2015/10/les-contes-dhoffmann/

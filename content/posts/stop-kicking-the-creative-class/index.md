@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2011-10-12T11:44:08+00:00"
-guid: http://alper.nl/dingen/?p=2976
-parent_post_id: null
-post_id: "2976"
 title: Stop Kicking the Creative Class
 aliases:
   - /dingen/2011/10/stop-kicking-the-creative-class/

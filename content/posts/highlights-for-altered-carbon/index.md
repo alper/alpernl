@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-01-28T20:37:32+00:00"
-guid: http://alper.nl/dingen/?p=5941
-parent_post_id: null
-post_id: "5941"
 title: Highlights for Altered Carbon
 aliases:
   - /dingen/2018/01/highlights-for-altered-carbon/

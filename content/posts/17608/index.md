@@ -5,9 +5,6 @@ categories:
   - internet
   - strategy
 date: "2024-10-03T00:42:06+00:00"
-guid: https://alper.nl/dingen/?p=17608
-parent_post_id: null
-post_id: "17608"
 title: ""
 aliases:
   - /dingen/2024/10/17608/

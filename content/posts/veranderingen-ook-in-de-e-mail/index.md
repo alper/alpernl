@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-09-11T13:36:40+00:00"
-guid: http://alper.nl/dingen/2007/09/veranderingen-ook-in-de-e-mail/
-parent_post_id: null
-post_id: "126"
 tags:
   - computers
   - internet

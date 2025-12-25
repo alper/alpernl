@@ -6,9 +6,6 @@ categories:
   - english
   - photography
 date: "2009-10-22T23:57:31+00:00"
-guid: http://alper.nl/dingen/?p=1319
-parent_post_id: null
-post_id: "1319"
 title: Transitioning
 aliases:
   - /dingen/2009/10/transitioning/

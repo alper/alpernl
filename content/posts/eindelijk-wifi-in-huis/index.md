@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-08-04T10:50:05+00:00"
-guid: http://alper.nl/dingen/2007/05/eindelijk-wifi-in-huis/
-parent_post_id: null
-post_id: "39"
 tags:
   - computers
   - huishoudelijk

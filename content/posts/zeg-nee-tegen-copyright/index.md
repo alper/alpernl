@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2009-04-28T10:10:32+00:00"
-guid: http://alper.nl/dingen/?p=947
-parent_post_id: null
-post_id: "947"
 title: Zeg Nee! tegen copyright
 aliases:
   - /dingen/2009/04/zeg-nee-tegen-copyright/

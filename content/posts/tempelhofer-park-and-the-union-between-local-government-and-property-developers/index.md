@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2014-04-11T07:59:35+00:00"
-guid: http://alper.nl/dingen/?p=4965
-parent_post_id: null
-post_id: "4965"
 title: Tempelhofer Park and the union between local government and property developers
 aliases:
   - /dingen/2014/04/tempelhofer-park-and-the-union-between-local-government-and-property-developers/

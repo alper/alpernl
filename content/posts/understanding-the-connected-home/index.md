@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - the-city
 date: "2015-09-17T10:33:35+00:00"
-guid: http://alper.nl/dingen/?p=5278
-parent_post_id: null
-post_id: "5278"
 title: Understanding the Connected Home
 aliases:
   - /dingen/2015/09/understanding-the-connected-home/

@@ -6,9 +6,6 @@ categories:
   - reading
   - work
 date: "2011-10-03T14:03:32+00:00"
-guid: http://alper.nl/dingen/?p=2960
-parent_post_id: null
-post_id: "2960"
 title: Victims of Extremistan
 aliases:
   - /dingen/2011/10/victims-of-extremistan/

@@ -4,9 +4,6 @@ categories:
   - english
   - the-city
 date: "2020-02-18T23:29:23+00:00"
-guid: http://alper.nl/dingen/?p=16012
-parent_post_id: null
-post_id: "16012"
 title: ""
 aliases:
   - /dingen/2020/02/16012/

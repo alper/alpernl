@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-09-10T18:38:30+00:00"
-guid: http://alper.nl/dingen/2007/09/brighton-uk/
-parent_post_id: null
-post_id: "122"
 tags:
   - computers
   - cultuur

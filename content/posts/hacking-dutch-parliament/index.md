@@ -7,9 +7,6 @@ categories:
   - internet
   - politics
 date: "2012-09-11T13:26:46+00:00"
-guid: http://alper.nl/dingen/?p=3864
-parent_post_id: null
-post_id: "3864"
 title: Hacking Dutch Parliament
 aliases:
   - /dingen/2012/09/hacking-dutch-parliament/

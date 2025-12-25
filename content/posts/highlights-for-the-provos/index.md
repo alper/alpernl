@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2021-02-17T15:27:08+00:00"
-guid: https://alper.nl/dingen/?p=16433
-parent_post_id: null
-post_id: "16433"
 title: Highlights for The Provos
 aliases:
   - /dingen/2021/02/highlights-for-the-provos/

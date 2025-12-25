@@ -4,9 +4,6 @@ categories:
   - english
   - food
 date: "2015-11-20T12:04:44+00:00"
-guid: http://alper.nl/dingen/?p=5333
-parent_post_id: null
-post_id: "5333"
 title: Trying out the McB.
 aliases:
   - /dingen/2015/10/trying-out-the-mcb/

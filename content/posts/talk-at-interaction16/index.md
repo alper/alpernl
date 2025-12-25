@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - publicity
 date: "2016-03-06T22:21:19+00:00"
-guid: http://alper.nl/dingen/?p=5494
-parent_post_id: null
-post_id: "5494"
 title: Talk at Interaction16
 aliases:
   - /dingen/2016/03/talk-at-interaction16/

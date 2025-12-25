@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2012-07-26T18:41:09+00:00"
-guid: http://alper.nl/dingen/?p=3738
-parent_post_id: null
-post_id: "3738"
 title: The Coming Storm by Tim Etchells
 aliases:
   - /dingen/2012/07/the-coming-storm-by-tim-etchells/

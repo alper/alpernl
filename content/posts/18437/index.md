@@ -5,9 +5,6 @@ categories:
   - food
   - software-engineering
 date: "2025-10-25T10:04:46+00:00"
-guid: https://alper.nl/dingen/?p=18437
-parent_post_id: null
-post_id: "18437"
 title: ""
 aliases:
   - /dingen/2025/10/18437/

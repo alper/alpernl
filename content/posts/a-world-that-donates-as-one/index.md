@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2008-07-31T15:10:56+00:00"
-guid: http://alper.nl/dingen/?p=325
-parent_post_id: null
-post_id: "325"
 tags:
   - campaign
   - donations

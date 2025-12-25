@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2011-11-04T16:40:35+00:00"
-guid: http://alper.nl/dingen/?p=3062
-parent_post_id: null
-post_id: "3062"
 tags:
   - weeknotes
 title: Week 241

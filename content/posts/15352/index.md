@@ -5,9 +5,6 @@ categories:
   - internet
   - video
 date: "2019-04-28T12:28:16+00:00"
-guid: http://alper.nl/dingen/?p=15352
-parent_post_id: null
-post_id: "15352"
 title: ""
 aliases:
   - /dingen/2019/04/15352/

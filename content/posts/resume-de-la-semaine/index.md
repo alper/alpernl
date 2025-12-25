@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-04-11T20:02:02+00:00"
-guid: http://alper.nl/dingen/2008/04/resume-de-la-semaine/
-parent_post_id: null
-post_id: "281"
 tags:
   - leven
   - werken

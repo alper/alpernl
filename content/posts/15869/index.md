@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2019-11-27T09:36:52+00:00"
-guid: http://alper.nl/dingen/?p=15869
-parent_post_id: null
-post_id: "15869"
 title: ""
 aliases:
   - /dingen/2019/11/15869/

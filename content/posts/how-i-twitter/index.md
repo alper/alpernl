@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2010-10-07T20:17:09+00:00"
-guid: http://alper.nl/dingen/?p=2176
-parent_post_id: null
-post_id: "2176"
 title: How I Twitter
 aliases:
   - /dingen/2010/10/how-i-twitter/

@@ -4,9 +4,6 @@ categories:
   - nederlands
   - video
 date: "2009-03-09T17:57:50+00:00"
-guid: http://alper.nl/dingen/?p=825
-parent_post_id: null
-post_id: "825"
 title: Held in Bollywood
 aliases:
   - /dingen/2009/03/held-in-bollywood/

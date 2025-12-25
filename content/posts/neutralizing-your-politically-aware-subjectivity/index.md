@@ -5,9 +5,6 @@ categories:
   - internet
   - politics
 date: "2012-07-24T23:12:14+00:00"
-guid: http://alper.nl/dingen/?p=3708
-parent_post_id: null
-post_id: "3708"
 title: Neutralizing your politically aware subjectivity
 aliases:
   - /dingen/2012/07/neutralizing-your-politically-aware-subjectivity/

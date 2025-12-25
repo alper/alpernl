@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-04-01T19:46:19+00:00"
-guid: http://alper.nl/dingen/?p=5968
-parent_post_id: null
-post_id: "5968"
 title: Highlights for Exit West
 aliases:
   - /dingen/2018/04/highlights-for-exit-west/

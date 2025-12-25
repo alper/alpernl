@@ -3,9 +3,6 @@ author: alper
 categories:
   - nederlands
 date: "2008-06-08T15:11:54+00:00"
-guid: http://alper.nl/dingen/?p=304
-parent_post_id: null
-post_id: "304"
 tags:
   - uncategorized
 title: Code Switching

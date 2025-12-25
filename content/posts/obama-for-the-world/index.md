@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2008-11-06T19:24:54+00:00"
-guid: http://alper.nl/dingen/?p=578
-parent_post_id: null
-post_id: "578"
 title: Obama for the World
 aliases:
   - /dingen/2008/11/obama-for-the-world/

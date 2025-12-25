@@ -4,9 +4,6 @@ categories:
   - english
   - travel
 date: "2025-11-30T11:38:30+00:00"
-guid: https://alper.nl/dingen/?p=18528
-parent_post_id: null
-post_id: "18528"
 title: Iseji - Day 0 - Getting to Ise
 aliases:
   - /dingen/2025/11/iseji-day-0-getting-to-ise/

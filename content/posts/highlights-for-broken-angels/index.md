@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-04-16T20:03:46+00:00"
-guid: http://alper.nl/dingen/?p=5974
-parent_post_id: null
-post_id: "5974"
 title: Highlights for Broken Angels
 aliases:
   - /dingen/2018/04/highlights-for-broken-angels/

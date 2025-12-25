@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2017-10-27T08:56:53+00:00"
-guid: http://alper.nl/dingen/?p=5823
-parent_post_id: null
-post_id: "5823"
 title: Highlights from The Principles of Product Development Flow
 aliases:
   - /dingen/2017/10/notes-from-the-principles-of-product-development-flow/

@@ -5,9 +5,6 @@ categories:
   - english
   - theater
 date: "2013-05-09T21:02:10+00:00"
-guid: http://alper.nl/dingen/?p=4533
-parent_post_id: null
-post_id: "4533"
 title: War and Peace under the shadow of the Apparat
 aliases:
   - /dingen/2013/05/war-and-peace-under-the-shadow-of-the-apparat/

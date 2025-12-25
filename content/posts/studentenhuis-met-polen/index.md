@@ -5,9 +5,6 @@ categories:
   - nederlands
   - video
 date: "2008-04-21T13:31:41+00:00"
-guid: http://alper.nl/dingen/2008/04/studentenhuis-met-polen/
-parent_post_id: null
-post_id: "284"
 title: Studentenhuis met Polen
 aliases:
   - /dingen/2008/04/studentenhuis-met-polen/

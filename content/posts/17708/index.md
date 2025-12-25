@@ -6,9 +6,6 @@ categories:
   - english
   - politics
 date: "2024-11-12T18:00:57+00:00"
-guid: https://alper.nl/dingen/?p=17708
-parent_post_id: null
-post_id: "17708"
 title: Renaming half a street
 aliases:
   - /dingen/2024/11/17708/

@@ -7,9 +7,6 @@ categories:
   - reading
   - the-city
 date: "2010-07-26T08:20:43+00:00"
-guid: http://alper.nl/dingen/?p=1989
-parent_post_id: null
-post_id: "1989"
 title: Check in / Check Out - Design Principles for Camera Surveillance
 aliases:
   - /dingen/2010/07/check-in-check-out-design-principles-for-camera-surveillance/

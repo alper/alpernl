@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - work
 date: "2009-12-31T11:20:52+00:00"
-guid: http://alper.nl/dingen/?p=1449
-parent_post_id: null
-post_id: "1449"
 title: Developers are so important
 aliases:
   - /dingen/2009/12/developers-are-so-important/

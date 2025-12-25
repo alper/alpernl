@@ -4,9 +4,6 @@ categories:
   - english
   - games
 date: "2014-12-29T11:58:30+00:00"
-guid: http://alper.nl/dingen/?p=5088
-parent_post_id: null
-post_id: "5088"
 title: Console gaming after the fact
 aliases:
   - /dingen/2014/12/console-gaming-after-the-fact/

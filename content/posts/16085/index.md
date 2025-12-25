@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2020-05-10T08:55:11+00:00"
-guid: http://alper.nl/dingen/?p=16085
-parent_post_id: null
-post_id: "16085"
 title: ""
 aliases:
   - /dingen/2020/05/16085/

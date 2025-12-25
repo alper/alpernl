@@ -5,9 +5,6 @@ categories:
   - english
   - philosophy
 date: "2023-02-06T22:24:15+00:00"
-guid: https://alper.nl/dingen/?p=17024
-parent_post_id: null
-post_id: "17024"
 title: ""
 aliases:
   - /dingen/2023/02/17024/

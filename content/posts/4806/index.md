@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2013-10-28T16:34:38+00:00"
-guid: http://alper.nl/dingen/?p=4806
-parent_post_id: null
-post_id: "4806"
 title: Germany still isn't really a democracy
 aliases:
   - /dingen/2013/10/4806/

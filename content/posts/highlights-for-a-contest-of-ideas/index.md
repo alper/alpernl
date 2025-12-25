@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2018-05-12T14:35:15+00:00"
-guid: http://alper.nl/dingen/?p=5993
-parent_post_id: null
-post_id: "5993"
 title: Highlights for A Contest of Ideas
 aliases:
   - /dingen/2018/05/highlights-for-a-contest-of-ideas/

@@ -5,9 +5,6 @@ categories:
   - english
   - games
 date: "2015-02-23T17:56:03+00:00"
-guid: http://alper.nl/dingen/?p=5164
-parent_post_id: null
-post_id: "5164"
 title: DOTA night at Meltdown Esports Bar
 aliases:
   - /dingen/2015/02/dota-night-at-meltdown-esports-bar/

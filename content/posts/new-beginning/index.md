@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-04T20:20:54+00:00"
-guid: http://alper.nl/dingen/2007/05/new-beginning/
-parent_post_id: null
-post_id: "37"
 tags:
   - fotografie
   - werken

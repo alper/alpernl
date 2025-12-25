@@ -5,9 +5,6 @@ categories:
   - english
   - photography
 date: "2011-10-30T10:11:15+00:00"
-guid: http://alper.nl/dingen/?p=3044
-parent_post_id: null
-post_id: "3044"
 title: Geeks of @ouroffice
 aliases:
   - /dingen/2011/10/geeks-of-ouroffice/

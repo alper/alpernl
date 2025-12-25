@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-10-20T11:12:41+00:00"
-guid: http://alper.nl/dingen/2007/10/163/
-parent_post_id: null
-post_id: "163"
 tags:
   - fotografie
   - politiek

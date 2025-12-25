@@ -7,9 +7,6 @@ categories:
   - open-state
   - work
 date: "2013-02-06T08:09:15+00:00"
-guid: http://alper.nl/dingen/?p=4254
-parent_post_id: null
-post_id: "4254"
 tags:
   - weeknotes
 title: Week 307

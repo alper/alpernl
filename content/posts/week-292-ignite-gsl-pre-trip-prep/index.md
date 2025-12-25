@@ -6,9 +6,6 @@ categories:
   - travel
   - work
 date: "2012-10-26T03:46:09+00:00"
-guid: http://alper.nl/dingen/?p=3971
-parent_post_id: null
-post_id: "3971"
 tags:
   - weeknotes
 title: 'Week 292: Ignite, GSL, pre-trip prep'

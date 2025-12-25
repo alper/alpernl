@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2010-06-27T14:16:28+00:00"
-guid: http://alper.nl/dingen/?p=1912
-parent_post_id: null
-post_id: "1912"
 tags:
   - weeknotes
 title: Weeknotes 25

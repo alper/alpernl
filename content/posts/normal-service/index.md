@@ -6,9 +6,6 @@ categories:
   - photography
   - travel
 date: "2008-07-27T11:15:40+00:00"
-guid: http://alper.nl/dingen/?p=322
-parent_post_id: null
-post_id: "322"
 tags:
   - uncategorized
 title: Normal service

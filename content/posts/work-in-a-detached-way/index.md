@@ -4,9 +4,6 @@ categories:
   - english
   - work
 date: "2019-10-31T22:38:57+00:00"
-guid: http://alper.nl/dingen/?p=15804
-parent_post_id: null
-post_id: "15804"
 title: Work in a detached way
 aliases:
   - /dingen/2019/10/work-in-a-detached-way/

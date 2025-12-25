@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-12-31T13:17:12+00:00"
-guid: http://alper.nl/dingen/?p=6087
-parent_post_id: null
-post_id: "6087"
 title: Highlights for Shambhala
 aliases:
   - /dingen/2018/12/highlights-for-shambhala/

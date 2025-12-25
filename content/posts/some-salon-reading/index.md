@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2009-12-08T11:30:03+00:00"
-guid: http://alper.nl/dingen/?p=1400
-parent_post_id: null
-post_id: "1400"
 title: Some salon reading
 aliases:
   - /dingen/2009/12/some-salon-reading/

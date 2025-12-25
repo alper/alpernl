@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2008-01-20T06:54:51+00:00"
-guid: http://alper.nl/dingen/2008/01/wakker-worden/
-parent_post_id: null
-post_id: "227"
 tags:
   - uncategorized
 title: Wakker worden

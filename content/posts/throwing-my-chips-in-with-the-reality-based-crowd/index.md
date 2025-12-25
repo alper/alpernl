@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - video
 date: "2011-06-10T09:41:56+00:00"
-guid: http://alper.nl/dingen/?p=2653
-parent_post_id: null
-post_id: "2653"
 title: Throwing my chips in with the reality based crowd
 aliases:
   - /dingen/2011/06/throwing-my-chips-in-with-the-reality-based-crowd/

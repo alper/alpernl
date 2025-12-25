@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - travel
 date: "2008-07-27T11:26:42+00:00"
-guid: http://alper.nl/dingen/?p=323
-parent_post_id: null
-post_id: "323"
 tags:
   - uncategorized
 title: Socio-locational disconnection

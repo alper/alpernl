@@ -6,9 +6,6 @@ categories:
   - kids
   - work
 date: "2020-07-12T10:30:25+00:00"
-guid: http://alper.nl/dingen/?p=16145
-parent_post_id: null
-post_id: "16145"
 title: ""
 aliases:
   - /dingen/2020/07/16145/

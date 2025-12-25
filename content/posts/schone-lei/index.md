@@ -5,9 +5,6 @@ categories:
   - nederlands
   - photography
 date: "2008-05-14T11:23:24+00:00"
-guid: http://alper.nl/dingen/?p=294
-parent_post_id: null
-post_id: "294"
 tags:
   - architecture
   - delft

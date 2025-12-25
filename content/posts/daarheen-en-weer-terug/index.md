@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-06-03T20:12:39+00:00"
-guid: http://alper.nl/dingen/2007/06/daarheen-en-weer-terug/
-parent_post_id: null
-post_id: "58"
 tags:
   - fotografie
   - reizen

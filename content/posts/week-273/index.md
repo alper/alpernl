@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - work
 date: "2012-06-10T21:56:13+00:00"
-guid: http://alper.nl/dingen/?p=3599
-parent_post_id: null
-post_id: "3599"
 tags:
   - weeknotes
 title: 'Week 273: Objects, Hack de Overheid, Copenhagen, European Data Forum, Linked Data, Metropolis Lab, all new Foursquare'

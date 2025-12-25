@@ -5,9 +5,6 @@ categories:
   - photography
   - travel
 date: "2009-10-23T05:58:51+00:00"
-guid: http://alper.nl/dingen/?p=1321
-parent_post_id: null
-post_id: "1321"
 title: City Hopping
 aliases:
   - /dingen/2009/10/city-hopping/

@@ -5,9 +5,6 @@ categories:
   - politics
   - travel
 date: "2012-06-27T12:57:55+00:00"
-guid: http://alper.nl/dingen/?p=3641
-parent_post_id: null
-post_id: "3641"
 title: Greece, a society undergoing Stockholm syndrome
 aliases:
   - /dingen/2012/06/greece-a-society-undergoing-stockholm-syndrome/

@@ -6,9 +6,6 @@ categories:
   - podcast
   - politics
 date: "2024-03-09T23:47:08+00:00"
-guid: https://alper.nl/dingen/?p=17475
-parent_post_id: null
-post_id: "17475"
 title: ""
 aliases:
   - /dingen/2024/03/17475/

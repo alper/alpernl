@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2019-03-03T16:52:49+00:00"
-guid: http://alper.nl/dingen/?p=15206
-parent_post_id: null
-post_id: "15206"
 title: ""
 aliases:
   - /dingen/2019/03/15206/

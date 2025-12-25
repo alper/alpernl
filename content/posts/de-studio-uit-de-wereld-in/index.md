@@ -4,9 +4,6 @@ categories:
   - nederlands
   - reading
 date: "2011-10-27T07:08:28+00:00"
-guid: http://alper.nl/dingen/?p=2843
-parent_post_id: null
-post_id: "2843"
 title: De studio uit, de wereld in
 aliases:
   - /dingen/2011/10/de-studio-uit-de-wereld-in/

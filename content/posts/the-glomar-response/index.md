@@ -5,9 +5,6 @@ categories:
   - english
   - politics
 date: "2015-08-13T08:03:35+00:00"
-guid: http://alper.nl/dingen/?p=5235
-parent_post_id: null
-post_id: "5235"
 title: The Glomar Response
 aliases:
   - /dingen/2015/08/the-glomar-response/

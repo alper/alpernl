@@ -5,9 +5,6 @@ categories:
   - product-/-design
   - reading
 date: "2010-05-26T09:22:01+00:00"
-guid: http://alper.nl/dingen/?p=1808
-parent_post_id: null
-post_id: "1808"
 title: Dead trees
 aliases:
   - /dingen/2010/05/dead-trees/

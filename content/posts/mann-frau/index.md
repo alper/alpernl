@@ -5,9 +5,6 @@ categories:
   - english
   - video
 date: "2015-11-12T08:29:09+00:00"
-guid: http://alper.nl/dingen/?p=5368
-parent_post_id: null
-post_id: "5368"
 title: Mann/Frau
 aliases:
   - /dingen/2015/11/mann-frau/

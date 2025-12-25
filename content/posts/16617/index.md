@@ -5,9 +5,6 @@ categories:
   - english
   - reading
 date: "2021-10-24T07:49:26+00:00"
-guid: https://alper.nl/dingen/?p=16617
-parent_post_id: null
-post_id: "16617"
 title: ""
 aliases:
   - /dingen/2021/10/16617/

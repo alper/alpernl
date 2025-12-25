@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2024-11-03T19:36:41+00:00"
-guid: https://alper.nl/dingen/?p=17681
-parent_post_id: null
-post_id: "17681"
 title: ""
 aliases:
   - /dingen/2024/11/17681/

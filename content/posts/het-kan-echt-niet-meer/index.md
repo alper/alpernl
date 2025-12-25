@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-05-23T00:28:28+00:00"
-guid: http://alper.nl/dingen/2007/05/het-kan-echt-niet-meer/
-parent_post_id: null
-post_id: "49"
 tags:
   - fotografie
 title: Het kan echt niet meer

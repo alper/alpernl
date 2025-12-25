@@ -3,9 +3,6 @@ author: alper
 categories:
   - english
 date: "2019-06-21T16:40:55+00:00"
-guid: http://alper.nl/dingen/?p=15542
-parent_post_id: null
-post_id: "15542"
 title: Patterns failed
 aliases:
   - /dingen/2019/06/patterns-failed/

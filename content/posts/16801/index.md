@@ -5,9 +5,6 @@ categories:
   - leadership
   - work
 date: "2022-05-14T10:55:34+00:00"
-guid: https://alper.nl/dingen/?p=16801
-parent_post_id: null
-post_id: "16801"
 title: ""
 aliases:
   - /dingen/2022/05/16801/

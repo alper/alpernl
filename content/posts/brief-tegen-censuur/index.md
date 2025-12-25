@@ -5,9 +5,6 @@ categories:
   - nederlands
   - politics
 date: "2010-09-15T09:19:32+00:00"
-guid: http://alper.nl/dingen/?p=2107
-parent_post_id: null
-post_id: "2107"
 title: Brief tegen censuur
 aliases:
   - /dingen/2010/09/brief-tegen-censuur/

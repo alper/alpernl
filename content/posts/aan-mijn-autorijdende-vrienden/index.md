@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2008-01-09T09:56:20+00:00"
-guid: http://alper.nl/dingen/2008/01/aan-mijn-autorijdende-vrienden/
-parent_post_id: null
-post_id: "221"
 title: Aan mijn autorijdende vrienden
 aliases:
   - /dingen/2008/01/aan-mijn-autorijdende-vrienden/

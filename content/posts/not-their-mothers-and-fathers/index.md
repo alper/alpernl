@@ -4,9 +4,6 @@ categories:
   - english
   - video
 date: "2013-03-22T10:33:39+00:00"
-guid: http://alper.nl/dingen/?p=4429
-parent_post_id: null
-post_id: "4429"
 title: Not their mothers and fathers
 aliases:
   - /dingen/2013/03/not-their-mothers-and-fathers/

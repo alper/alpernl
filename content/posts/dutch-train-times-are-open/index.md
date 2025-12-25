@@ -6,9 +6,6 @@ categories:
   - the-city
   - travel
 date: "2011-04-22T14:19:33+00:00"
-guid: http://alper.nl/dingen/?p=2548
-parent_post_id: null
-post_id: "2548"
 title: Dutch Train Times are open
 aliases:
   - /dingen/2011/04/dutch-train-times-are-open/

@@ -4,9 +4,6 @@ categories:
   - english
   - reading
 date: "2018-05-06T20:37:52+00:00"
-guid: http://alper.nl/dingen/?p=5989
-parent_post_id: null
-post_id: "5989"
 title: Highlights for Ecology Without Nature
 aliases:
   - /dingen/2018/05/highlights-for-ecology-without-nature/

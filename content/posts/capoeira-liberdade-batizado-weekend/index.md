@@ -4,9 +4,6 @@ categories:
   - capoeira
   - delft
 date: "2007-06-05T22:49:46+00:00"
-guid: http://alper.nl/dingen/2007/05/capoeira-liberdade-batizado-weekend/
-parent_post_id: null
-post_id: "55"
 tags:
   - evenement
   - feest

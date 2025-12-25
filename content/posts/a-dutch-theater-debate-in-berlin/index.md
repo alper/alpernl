@@ -5,9 +5,6 @@ categories:
   - english
   - games
 date: "2012-04-11T17:45:12+00:00"
-guid: http://alper.nl/dingen/?p=3424
-parent_post_id: null
-post_id: "3424"
 title: A Dutch theater debate in Berlin
 aliases:
   - /dingen/2012/04/a-dutch-theater-debate-in-berlin/

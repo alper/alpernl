@@ -5,9 +5,6 @@ categories:
   - nederlands
   - product-/-design
 date: "2009-02-27T12:56:19+00:00"
-guid: http://alper.nl/dingen/?p=810
-parent_post_id: null
-post_id: "810"
 tags:
   - thishappened-utrecht-0209
   - thishappened-utrecht-2

@@ -6,9 +6,6 @@ categories:
   - nederlands
   - the-city
 date: "2010-07-07T22:23:00+00:00"
-guid: http://alper.nl/dingen/?p=1923
-parent_post_id: null
-post_id: "1923"
 title: Eindrapport Adviescommissie Verkeersinformatie
 aliases:
   - /dingen/2010/07/eindrapport-adviescommissie-verkeersinformatie/

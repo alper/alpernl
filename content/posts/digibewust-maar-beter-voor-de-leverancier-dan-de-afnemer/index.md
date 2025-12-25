@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-07-03T20:39:02+00:00"
-guid: http://alper.nl/dingen/2007/07/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/
-parent_post_id: null
-post_id: "83"
 tags:
   - apple
   - computers

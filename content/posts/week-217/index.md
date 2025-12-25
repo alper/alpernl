@@ -7,9 +7,6 @@ categories:
   - the-city
   - work
 date: "2011-05-17T15:57:21+00:00"
-guid: http://alper.nl/dingen/?p=2623
-parent_post_id: null
-post_id: "2623"
 tags:
   - weeknotes
 title: Week 217

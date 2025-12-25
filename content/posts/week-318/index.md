@@ -7,9 +7,6 @@ categories:
   - open-state
   - travel
 date: "2013-05-08T13:26:34+00:00"
-guid: http://alper.nl/dingen/?p=4524
-parent_post_id: null
-post_id: "4524"
 tags:
   - weeknotes
 title: Week 318

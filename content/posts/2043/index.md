@@ -9,9 +9,6 @@ enclosure: |-
   http://tools.ncrv.nl/download/podcast_tool/casaluna_2010_08_21_1282352652_Zomernachten_Ramsey__-_.MP3
   0
   audio/mpeg
-guid: http://alper.nl/dingen/?p=2043
-parent_post_id: null
-post_id: "2043"
 title: Zuiverheid
 aliases:
   - /dingen/2010/08/2043/

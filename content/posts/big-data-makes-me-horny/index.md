@@ -7,9 +7,6 @@ categories:
   - product-/-design
   - work
 date: "2010-01-27T15:55:18+00:00"
-guid: http://alper.nl/dingen/?p=1543
-parent_post_id: null
-post_id: "1543"
 title: Big Data makes me horny
 aliases:
   - /dingen/2010/01/big-data-makes-me-horny/

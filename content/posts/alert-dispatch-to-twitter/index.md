@@ -5,9 +5,6 @@ categories:
   - internet
   - product-/-design
 date: "2009-04-09T14:12:27+00:00"
-guid: http://alper.nl/dingen/?p=912
-parent_post_id: null
-post_id: "912"
 title: Alert Dispatch to Twitter
 aliases:
   - /dingen/2009/04/alert-dispatch-to-twitter/

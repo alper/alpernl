@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-05-02T16:53:48+00:00"
-guid: http://alper.nl/dingen/2007/04/naar-oud-wijf-met-haar-hond/
-parent_post_id: null
-post_id: "28"
 tags:
   - fotografie
   - werken

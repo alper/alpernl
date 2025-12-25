@@ -5,9 +5,6 @@ categories:
   - leadership
   - reading
 date: "2022-03-11T21:36:45+00:00"
-guid: https://alper.nl/dingen/?p=16742
-parent_post_id: null
-post_id: "16742"
 title: Highlights for Becoming Trader Joe
 aliases:
   - /dingen/2022/03/highlights-for-becoming-trader-joe/

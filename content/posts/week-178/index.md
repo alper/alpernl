@@ -6,9 +6,6 @@ categories:
   - monster-swell
   - work
 date: "2010-08-15T16:15:02+00:00"
-guid: http://alper.nl/dingen/?p=2036
-parent_post_id: null
-post_id: "2036"
 title: Week 178
 aliases:
   - /dingen/2010/08/week-178/

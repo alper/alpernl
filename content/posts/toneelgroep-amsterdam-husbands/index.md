@@ -4,9 +4,6 @@ categories:
   - berlin
   - english
 date: "2012-03-13T13:20:18+00:00"
-guid: http://alper.nl/dingen/?p=3389
-parent_post_id: null
-post_id: "3389"
 title: Toneelgroep Amsterdam - Husbands
 aliases:
   - /dingen/2012/03/toneelgroep-amsterdam-husbands/

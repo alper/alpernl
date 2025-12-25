@@ -4,9 +4,6 @@ categories:
   - english
   - photography
 date: "2009-05-17T12:13:19+00:00"
-guid: http://alper.nl/dingen/?p=980
-parent_post_id: null
-post_id: "980"
 title: The week in pictures
 aliases:
   - /dingen/2009/05/the-week-in-pictures/

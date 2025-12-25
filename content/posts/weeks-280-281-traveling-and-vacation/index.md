@@ -5,9 +5,6 @@ categories:
   - monster-swell
   - travel
 date: "2012-08-10T16:38:57+00:00"
-guid: http://alper.nl/dingen/?p=3768
-parent_post_id: null
-post_id: "3768"
 tags:
   - weeknotes
 title: 'Weeks 280-281: Traveling and vacation'

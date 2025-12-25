@@ -5,9 +5,6 @@ categories:
   - internet
   - reading
 date: "2014-02-24T10:08:58+00:00"
-guid: http://alper.nl/dingen/?p=4911
-parent_post_id: null
-post_id: "4911"
 title: Reading more about the social
 aliases:
   - /dingen/2014/02/reading-more-about-the-social/

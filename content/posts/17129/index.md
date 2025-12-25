@@ -5,9 +5,6 @@ categories:
   - internet
   - video
 date: "2023-03-12T10:13:10+00:00"
-guid: https://alper.nl/dingen/?p=17129
-parent_post_id: null
-post_id: "17129"
 title: ""
 aliases:
   - /dingen/2023/03/17129/

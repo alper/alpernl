@@ -5,9 +5,6 @@ categories:
   - english
   - work
 date: "2013-04-15T08:01:43+00:00"
-guid: http://alper.nl/dingen/?p=4494
-parent_post_id: null
-post_id: "4494"
 tags:
   - weeknotes
 title: Week 316

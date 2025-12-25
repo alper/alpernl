@@ -5,9 +5,6 @@ categories:
   - english
   - sports
 date: "2019-03-15T22:22:38+00:00"
-guid: http://alper.nl/dingen/?p=15255
-parent_post_id: null
-post_id: "15255"
 title: Scooters in Berlin
 aliases:
   - /dingen/2019/03/scooters-in-berlin/

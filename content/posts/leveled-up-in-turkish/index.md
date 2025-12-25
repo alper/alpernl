@@ -6,9 +6,6 @@ categories:
   - reading
   - turkish
 date: "2021-09-12T20:43:24+00:00"
-guid: https://alper.nl/dingen/?p=16586
-parent_post_id: null
-post_id: "16586"
 title: Leveled up in Turkish
 aliases:
   - /dingen/2021/09/leveled-up-in-turkish/

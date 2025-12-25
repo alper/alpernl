@@ -3,9 +3,6 @@ author: alper
 categories:
   - internet
 date: "2007-04-26T08:39:40+00:00"
-guid: http://alper.nl/dingen/2007/04/heldere-standpunten-over-copyright-in-noorwegen/
-parent_post_id: null
-post_id: "4"
 tags:
   - burgerrechten
   - copyright

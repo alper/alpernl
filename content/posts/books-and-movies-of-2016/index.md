@@ -5,9 +5,6 @@ categories:
   - reading
   - video
 date: "2017-01-01T13:16:08+00:00"
-guid: http://alper.nl/dingen/?p=5691
-parent_post_id: null
-post_id: "5691"
 title: Books and movies of 2016
 aliases:
   - /dingen/2017/01/books-and-movies-of-2016/

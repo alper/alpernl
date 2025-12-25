@@ -4,9 +4,6 @@ categories:
   - english
   - internet
 date: "2012-12-23T19:52:52+00:00"
-guid: http://alper.nl/dingen/?p=4073
-parent_post_id: null
-post_id: "4073"
 title: 'SZ: Echoes of chatter'
 aliases:
   - /dingen/2012/12/sz-echoes-of-chatter/

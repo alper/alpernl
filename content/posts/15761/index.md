@@ -5,9 +5,6 @@ categories:
   - reading
   - work
 date: "2019-10-13T20:01:46+00:00"
-guid: http://alper.nl/dingen/?p=15761
-parent_post_id: null
-post_id: "15761"
 title: ""
 aliases:
   - /dingen/2019/10/15761/

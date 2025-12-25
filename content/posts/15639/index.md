@@ -7,9 +7,6 @@ categories:
   - travel
   - work
 date: "2019-08-21T21:12:53+00:00"
-guid: http://alper.nl/dingen/?p=15639
-parent_post_id: null
-post_id: "15639"
 title: ""
 aliases:
   - /dingen/2019/08/15639/

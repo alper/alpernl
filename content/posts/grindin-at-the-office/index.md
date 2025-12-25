@@ -5,9 +5,6 @@ categories:
   - english
   - video
 date: "2013-02-05T09:28:57+00:00"
-guid: http://alper.nl/dingen/?p=4277
-parent_post_id: null
-post_id: "4277"
 title: Grindin’ at the office
 aliases:
   - /dingen/2013/02/grindin-at-the-office/

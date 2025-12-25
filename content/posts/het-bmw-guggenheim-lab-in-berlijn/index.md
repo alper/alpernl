@@ -5,9 +5,6 @@ categories:
   - nederlands
   - the-city
 date: "2012-08-17T12:43:23+00:00"
-guid: http://alper.nl/dingen/?p=3781
-parent_post_id: null
-post_id: "3781"
 tags:
   - cityjerk
 title: Het BMW Guggenheim Lab in Berlijn

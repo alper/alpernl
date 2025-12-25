@@ -3,9 +3,6 @@ author: alper
 categories:
   - uncategorized
 date: "2007-05-19T20:44:18+00:00"
-guid: http://alper.nl/dingen/2007/05/nieuwe-batterij/
-parent_post_id: null
-post_id: "45"
 tags:
   - apple
   - klantenervaring

@@ -6,9 +6,6 @@ categories:
   - photography
   - the-city
 date: "2011-08-21T23:49:53+00:00"
-guid: http://alper.nl/dingen/?p=2740
-parent_post_id: null
-post_id: "2740"
 title: Sidewalks on the new Marnixstraat
 aliases:
   - /dingen/2011/08/sidewalks-on-the-new-marnixstraat/

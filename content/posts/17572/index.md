@@ -5,9 +5,6 @@ categories:
   - games
   - software-engineering
 date: "2024-08-06T17:18:25+00:00"
-guid: https://alper.nl/dingen/?p=17572
-parent_post_id: null
-post_id: "17572"
 title: ""
 aliases:
   - /dingen/2024/08/17572/

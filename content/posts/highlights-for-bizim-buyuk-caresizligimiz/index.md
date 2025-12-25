@@ -4,9 +4,6 @@ categories:
   - reading
   - turkish
 date: "2022-09-15T22:16:43+00:00"
-guid: https://alper.nl/dingen/?p=16848
-parent_post_id: null
-post_id: "16848"
 title: Highlights for Bizim Büyük Çaresizliğimiz
 aliases:
   - /dingen/2022/09/highlights-for-bizim-buyuk-caresizligimiz/

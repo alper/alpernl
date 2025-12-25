@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2008-02-03T21:46:48+00:00"
-guid: http://alper.nl/dingen/2008/02/amerikaanse-analyse/
-parent_post_id: null
-post_id: "244"
 tags:
   - informatie
   - politiek

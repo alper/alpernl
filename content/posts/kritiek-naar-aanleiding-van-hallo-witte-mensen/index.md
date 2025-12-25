@@ -5,9 +5,6 @@ categories:
   - politics
   - reading
 date: "2017-05-05T14:42:48+00:00"
-guid: http://alper.nl/dingen/?p=5780
-parent_post_id: null
-post_id: "5780"
 title: Kritiek naar aanleiding van Hallo Witte Mensen
 aliases:
   - /dingen/2017/05/kritiek-naar-aanleiding-van-hallo-witte-mensen/

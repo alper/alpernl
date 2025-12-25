@@ -1,9 +1,6 @@
 ---
 author: alper
 date: "2007-11-04T13:58:19+00:00"
-guid: http://alper.nl/dingen/2007/10/muziekverveling/
-parent_post_id: null
-post_id: "175"
 tags:
   - muziek
 title: Muziekverveling

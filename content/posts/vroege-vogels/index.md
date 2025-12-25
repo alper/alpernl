@@ -3,9 +3,6 @@ author: alper
 categories:
   - delft
 date: "2007-11-15T12:22:05+00:00"
-guid: http://alper.nl/dingen/2007/11/vroege-vogels/
-parent_post_id: null
-post_id: "185"
 tags:
   - huis
 title: Vroege vogels

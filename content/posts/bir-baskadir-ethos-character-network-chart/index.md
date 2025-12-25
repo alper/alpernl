@@ -5,9 +5,6 @@ categories:
   - turkish
   - video
 date: "2021-06-13T09:33:20+00:00"
-guid: https://alper.nl/dingen/?p=16531
-parent_post_id: null
-post_id: "16531"
 title: Bir BaÅŸkadır (Ethos) Character Network Chart
 aliases:
   - /dingen/2021/06/bir-baskadir-ethos-character-network-chart/

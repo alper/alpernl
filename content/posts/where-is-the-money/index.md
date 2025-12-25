@@ -5,9 +5,6 @@ categories:
   - internet
   - photography
 date: "2009-12-16T11:00:47+00:00"
-guid: http://alper.nl/dingen/?p=1414
-parent_post_id: null
-post_id: "1414"
 title: Where is the money?
 aliases:
   - /dingen/2009/12/where-is-the-money/

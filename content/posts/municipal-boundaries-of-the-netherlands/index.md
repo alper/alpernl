@@ -6,9 +6,6 @@ categories:
   - product-/-design
   - the-city
 date: "2010-09-29T02:20:14+00:00"
-guid: http://alper.nl/dingen/?p=1442
-parent_post_id: null
-post_id: "1442"
 title: Municipal boundaries of the Netherlands
 aliases:
   - /dingen/2010/03/municipal-boundaries-of-the-netherlands/

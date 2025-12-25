@@ -5,9 +5,6 @@ categories:
   - politics
   - video
 date: "2015-12-10T11:25:43+00:00"
-guid: http://alper.nl/dingen/?p=5387
-parent_post_id: null
-post_id: "5387"
 title: Deutschland '83
 aliases:
   - /dingen/2015/12/deutschland-83/

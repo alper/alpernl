@@ -5,9 +5,6 @@ categories:
   - politics
   - product-/-design
 date: "2019-05-12T20:09:50+00:00"
-guid: http://alper.nl/dingen/?p=15406
-parent_post_id: null
-post_id: "15406"
 title: ""
 aliases:
   - /dingen/2019/05/15406/
