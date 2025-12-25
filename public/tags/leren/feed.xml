@@ -6,12 +6,14 @@
     <description>Recent content in Leren on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Tue, 08 Jan 2008 11:39:02 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/leren/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boekenlijst</title>
       <link>http://localhost:1313/blog/boekenlijst/</link>
-      <pubDate>Tue, 08 Jan 2008 11:39:02 +0000</pubDate>
+      <pubDate>Tue, 08 Jan 2008 11:39:02 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/boekenlijst/</guid> 
       <description>&lt;p&gt;Ik zat het einde van het jaar mijn lijstjes door te kijken en ik zag dat ik in 2007 maar vier (!) boeken heb gelezen. Dan zie je iemand als Aaronsw die er 70 consumeert en dat weinig vindt.&lt;/p&gt;
 &lt;p&gt;Afstuderen slokt je leven op en met vier boeken scoor ik nog steeds hoger dan mijn meeste vrienden maar dit jaar ga ik meer lezen ((Minder kan haast niet.)). Ik heb gisternacht Der Prozess van Kafka uitgelezen ((En me de volgende dag half verslapen.)) dus dit jaar op schema: één week, één boek.&lt;/p&gt;</description>
@@ -19,9 +21,10 @@
     <item>
       <title>HOSC - Alan McCluskey - Opening education to the future</title>
       <link>http://localhost:1313/blog/hosc-alan-mccluskey-opening-education-to-the-future/</link>
-      <pubDate>Mon, 11 Jun 2007 13:10:46 +0000</pubDate>
+      <pubDate>Mon, 11 Jun 2007 13:10:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/hosc-alan-mccluskey-opening-education-to-the-future/</guid> 
-      <description>&lt;p&gt;Ik zit vandaag en morgen op de &lt;a href=&#34;http://www.hosc.nl&#34;&gt;Holland Open Software Conference&lt;/a&gt; en hier wat snel getikte notities van presentaties die ik interessant vind.&lt;/p&gt;
+      <description>&lt;p&gt;Ik zit vandaag en morgen op de &lt;a href=&#34;http://www.hosc.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holland Open Software Conference&lt;/a&gt;
+ en hier wat snel getikte notities van presentaties die ik interessant vind.&lt;/p&gt;
 &lt;p&gt;Dit was een erg leuke presentatie vooral ook omdat de spreker het vaag hield, niet bang was om af te drijven en grapjes te maken. Ondanks de bijzonder vage opzet van het onderwerp kreeg je wel de indruk dat de spreker goed op de hoogte was van waar hij het over had.&lt;/p&gt;</description>
     </item>
   </channel>

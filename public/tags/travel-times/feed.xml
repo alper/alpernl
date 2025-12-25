@@ -6,15 +6,21 @@
     <description>Recent content in Travel-Times on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Mon, 08 Sep 2008 14:50:15 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/travel-times/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playing with Public (Transportation) Data</title>
       <link>http://localhost:1313/blog/playing-with-public-transportation-data/</link>
-      <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2008 14:50:15 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=381</guid> 
-      <description>&lt;p&gt;As &lt;a href=&#34;http://localhost:1313/dingen/2008/06/workshop-session-on-geodata-visualization/&#34;&gt;promised a while back&lt;/a&gt; after we got our fill playing with the data I would release it to the public to see if you could come up with something interesting. I&amp;rsquo;d leaked the JSON file to &lt;a href=&#34;http://www.leapfrog.nl&#34;&gt;Kars&lt;/a&gt; and he applied his skills in visualizing things in processing ((With some help from &lt;a href=&#34;http://benfry.com/&#34;&gt;Ben Fry&lt;/a&gt;.)) to the dataset.&lt;/p&gt;
-&lt;p&gt;Then after some more back and forth I retrieved a similar dataset from the &lt;a href=&#34;http://www.anwb.nl&#34;&gt;ANWB&lt;/a&gt; site ((These site operators are so friendly and accomodating.)): the time to travel a similar distance at a similar time but this time by car ((With historical traffic congestion information added, but because the sampled time was around noon the effect should be negligible.)).&lt;/p&gt;</description>
+      <description>&lt;p&gt;As &lt;a href=&#34;http://localhost:1313/dingen/2008/06/workshop-session-on-geodata-visualization/&#34;&gt;promised a while back&lt;/a&gt;
+ after we got our fill playing with the data I would release it to the public to see if you could come up with something interesting. I&amp;rsquo;d leaked the JSON file to &lt;a href=&#34;http://www.leapfrog.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kars&lt;/a&gt;
+ and he applied his skills in visualizing things in processing ((With some help from &lt;a href=&#34;http://benfry.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Fry&lt;/a&gt;
+.)) to the dataset.&lt;/p&gt;
+&lt;p&gt;Then after some more back and forth I retrieved a similar dataset from the &lt;a href=&#34;http://www.anwb.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANWB&lt;/a&gt;
+ site ((These site operators are so friendly and accomodating.)): the time to travel a similar distance at a similar time but this time by car ((With historical traffic congestion information added, but because the sampled time was around noon the effect should be negligible.)).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

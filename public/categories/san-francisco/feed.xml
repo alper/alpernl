@@ -6,12 +6,14 @@
     <description>Recent content in San-Francisco on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sun, 14 Dec 2025 23:47:46 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/san-francisco/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18570/</link>
-      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18570</guid> 
       <description>&lt;p&gt;Refreshing to see Brian Cantrill talk about &amp;rsquo;trust&amp;rsquo; and &amp;lsquo;accountability&amp;rsquo; in the tech industry. These days it almost seems as if both of those have become dirty words.&lt;/p&gt;
 &lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -22,90 +24,98 @@
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18463/</link>
-      <pubDate>Thu, 20 Nov 2025 20:45:22 +0000</pubDate>
+      <pubDate>Thu, 20 Nov 2025 20:45:22 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18463</guid> 
       <description>&lt;p&gt;Both placing these ads and serving them should be illegal in any reasonable market/democracy.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06&#34;&gt;https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18414/</link>
-      <pubDate>Fri, 24 Oct 2025 09:56:53 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 09:56:53 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18414</guid> 
       <description>&lt;p&gt;When comedians say that Silicon Valley CEOs (and Mark Zuckerberg especially) are bitch coded, this is what they mean.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;bafkreigwp4qqltr7ydbo4soqhg4e6tpfzjyawtthz4ho32i2wtohjp5hym.jpg&#34;/&gt; 
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/18414/bafkreigwp4qqltr7ydbo4soqhg4e6tpfzjyawtthz4ho32i2wtohjp5hym.jpg&#34;&gt;
 &lt;/figure&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18406/</link>
-      <pubDate>Fri, 24 Oct 2025 09:43:33 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 09:43:33 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18406</guid> 
       <description>&lt;p&gt;I still haven&amp;rsquo;t upgraded to the new iOS and seeing these reports, I&amp;rsquo;m not sure whether I should.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nngroup.com/articles/liquid-glass&#34;&gt;https://www.nngroup.com/articles/liquid-glass&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.nngroup.com/articles/liquid-glass&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/liquid-glass&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18349/</link>
-      <pubDate>Sat, 20 Sep 2025 23:07:32 +0000</pubDate>
+      <pubDate>Sat, 20 Sep 2025 23:07:32 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18349</guid> 
       <description>&lt;p&gt;At some point you have to ask yourself how many predators work at Meta. They seem hell bent on targeting children. You don&amp;rsquo;t have to be a predator to work at Meta but it helps.&lt;/p&gt;
 &lt;p&gt;Remind me again what happens to a pizzeria that is suspected of doing something like this.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man&#34;&gt;https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18305/</link>
-      <pubDate>Sun, 07 Sep 2025 10:26:03 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 10:26:03 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18305</guid> 
       <description>&lt;p&gt;How much time for an innovative/edgy/creative agency to copy this (poorly) in Berlin?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco&#34;&gt;https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18296/</link>
-      <pubDate>Wed, 13 Aug 2025 21:32:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 21:32:24 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/2025/08/18296/</guid> 
       <description>&lt;p&gt;This may sound harsh, but it’s a lot fairer than they deserve: “But since the product is no longer jumping exponentially in capabilities, they will need to fall back on proper product development if they want to be competitive. They need to accept that they are software—plain old software—and that means people need to be able to use it.”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://aboard.com/desperately-seeking-software/&#34;&gt;https://aboard.com/desperately-seeking-software/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://aboard.com/desperately-seeking-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aboard.com/desperately-seeking-software/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18172/</link>
-      <pubDate>Sat, 22 Mar 2025 08:51:19 +0000</pubDate>
+      <pubDate>Sat, 22 Mar 2025 08:51:19 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18172</guid> 
       <description>&lt;p&gt;Wasn&amp;rsquo;t it the CEO of META going around telling everybody that free speech was the most important thing at the moment?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/legal/meta-wins-halt-promotion-careless-people-tell-all-book-by-former-employee-2025-03-13&#34;&gt;https://www.reuters.com/legal/meta-wins-halt-promotion-careless-people-tell-all-book-by-former-employee-2025-03-13&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/legal/meta-wins-halt-promotion-careless-people-tell-all-book-by-former-employee-2025-03-13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.reuters.com/legal/meta-wins-halt-promotion-careless-people-tell-all-book-by-former-employee-2025-03-13&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/18107/</link>
-      <pubDate>Thu, 20 Feb 2025 21:39:02 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2025 21:39:02 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=18107</guid> 
       <description>&lt;p&gt;Not a major surprise that minorities would be treated poorly at a nazi charity like the Chan Zuckerberg Initiative.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/chan-zuckerberg-initiative-racial-discrimination-claim-ray-holgado-facebook-2020-11?international=true&amp;amp;r=US&amp;amp;IR=T&#34;&gt;https://www.businessinsider.com/chan-zuckerberg-initiative-racial-discrimination-claim-ray-holgado-facebook-2020-11?international=true&amp;amp;r=US&amp;amp;IR=T&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/chan-zuckerberg-initiative-racial-discrimination-claim-ray-holgado-facebook-2020-11?international=true&amp;amp;r=US&amp;amp;IR=T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.businessinsider.com/chan-zuckerberg-initiative-racial-discrimination-claim-ray-holgado-facebook-2020-11?international=true&amp;amp;r=US&amp;amp;IR=T&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17976/</link>
-      <pubDate>Mon, 27 Jan 2025 08:25:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jan 2025 08:25:31 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17976</guid> 
       <description>&lt;p&gt;Sam Altman and OpenAI are consistently unreliable. One more example that by this point should not surprise anybody.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3&#34;&gt;https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17974/</link>
-      <pubDate>Mon, 27 Jan 2025 08:18:22 +0000</pubDate>
+      <pubDate>Mon, 27 Jan 2025 08:18:22 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17974</guid> 
       <description>&lt;p&gt;Let&amp;rsquo;s hope for a quick ending to Twitter.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth&#34;&gt;https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17588/</link>
-      <pubDate>Thu, 29 Aug 2024 20:30:15 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 20:30:15 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17588</guid> 
       <description>&lt;p&gt;A quick look to what&amp;rsquo;s awaiting Germany-which has bet heavily on hydrogen cars-several decades in the future. California has a hydrogen highway which looks like it is on its way out.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -115,61 +125,67 @@
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17562/</link>
-      <pubDate>Sat, 20 Jul 2024 08:57:40 +0000</pubDate>
+      <pubDate>Sat, 20 Jul 2024 08:57:40 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17562</guid> 
       <description>&lt;p&gt;The people in the Silicon Valley Trump cult, here represented by Balaji Srinivasan and all the people around a16z, are depraved and dangerous.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat&#34;&gt;https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17558/</link>
-      <pubDate>Sat, 20 Jul 2024 08:37:50 +0000</pubDate>
+      <pubDate>Sat, 20 Jul 2024 08:37:50 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17558</guid> 
       <description>&lt;p&gt;As always, the people most intent on having children should be the ones having the least:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;For someone dedicated to helping people have as many babies as possible, Malcolm doesn’t seem to like children very much.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;These people are obviously either fascist or fascist-adjacent.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/article/2024/may/25/american-pronatalists-malcolm-and-simone-collins?CMP=Share_iOSApp_Other&#34;&gt;https://www.theguardian.com/lifeandstyle/article/2024/may/25/american-pronatalists-malcolm-and-simone-collins&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/article/2024/may/25/american-pronatalists-malcolm-and-simone-collins?CMP=Share_iOSApp_Other&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/lifeandstyle/article/2024/may/25/american-pronatalists-malcolm-and-simone-collins&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17136/</link>
-      <pubDate>Tue, 14 Mar 2023 14:53:34 +0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 14:53:34 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17136</guid> 
       <description>&lt;p&gt;&amp;ldquo;Meta is building the future of human connection.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Does acquiring Instagram and WhatsApp qualify as building? Pretty much all feature development in Instagram has been photo copier work which feels like building the past instead of the future.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/&#34;&gt;https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17133/</link>
-      <pubDate>Tue, 14 Mar 2023 09:04:36 +0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 09:04:36 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17133</guid> 
       <description>&lt;p&gt;After the hysteria a bunch of VCs whipped up over the weekend around the SVB collapse, questioning whether they actually do what they claim is more than justified.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html&#34;&gt;https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slate.com/technology/2023/03/silicon-valley-bank-rescue-venture-capital-calacanis-sacks-ackman-tantrum.html&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16948/</link>
-      <pubDate>Fri, 06 Jan 2023 19:49:39 +0000</pubDate>
+      <pubDate>Fri, 06 Jan 2023 19:49:39 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16948</guid> 
       <description>&lt;p&gt;Why am I not surprised that somebody like Marc Andreessen would be a NIMBY while at the same time being a hypocrite?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/&#34;&gt;https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16626/</link>
-      <pubDate>Thu, 28 Oct 2021 18:58:15 +0000</pubDate>
+      <pubDate>Thu, 28 Oct 2021 18:58:15 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16626</guid> 
       <description>&lt;p&gt;I was amazed at how closely this article about product development at Facebook tracks with how I approach it: &amp;ldquo;PMs are 100% accountable for the results of your team.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m doubling as EM/PM for a bit and engineers in my team fully own some of our projects. This is a combination of high demand and high trust that I think is working out well.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://productlife.to/p/-execution-at-facebook&#34;&gt;https://productlife.to/p/-execution-at-facebook&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://productlife.to/p/-execution-at-facebook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://productlife.to/p/-execution-at-facebook&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16410/</link>
-      <pubDate>Tue, 02 Feb 2021 00:37:08 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:37:08 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16410</guid> 
       <description>&lt;blockquote&gt;
 &lt;p&gt;but I like working with PMs who went into it through channels other than the official ones, and are motivated out of their passion for building things and solving problems. Not because they feel it’s something they’re supposed to do, or because they think it’s prestigious, or because it is the default path from whatever elite school they went to.&lt;/p&gt;
@@ -179,72 +195,80 @@
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16399/</link>
-      <pubDate>Mon, 25 Jan 2021 21:28:42 +0000</pubDate>
+      <pubDate>Mon, 25 Jan 2021 21:28:42 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16399</guid> 
       <description>&lt;p&gt;It&amp;rsquo;s nice that these startups guys take a public schooling so well. It would be nice if we could see more of that on Clubhouse instead of the endless rows of bad panels.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.newcomer.co/p/founders-fund-duo-outmatched-by-sf&#34;&gt;https://www.newcomer.co/p/founders-fund-duo-outmatched-by-sf&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.newcomer.co/p/founders-fund-duo-outmatched-by-sf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newcomer.co/p/founders-fund-duo-outmatched-by-sf&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16388/</link>
-      <pubDate>Sat, 23 Jan 2021 21:21:20 +0000</pubDate>
+      <pubDate>Sat, 23 Jan 2021 21:21:20 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=16388</guid> 
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;This is all to say that Paul Graham is an effective marketer and practitioner, but a profoundly unserious public intellectual. His attempts to grapple with the major issues of the present, especially as they intersect with his personal legacy, are so mired in intuition and incuriosity that they’re at best a distraction, and worst a real obstacle to understanding our paths forward.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html&#34;&gt;https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;An utter and total indictment of Paul Graham who of course is impervious to such things.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16230/</link>
-      <pubDate>Sun, 16 Aug 2020 13:27:38 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2020 13:27:38 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16230</guid> 
       <description>&lt;p&gt;Reading this account by the former COO Francoise Brougher, I&amp;rsquo;m disappointed to learn how badly Pinterest failed at Diversity and Inclusion.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@francoise&#34;&gt;https://medium.com/@francoise&lt;/a&gt;_93266/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@francoise&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.com/@francoise&lt;/a&gt;
+_93266/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16194/</link>
-      <pubDate>Fri, 24 Jul 2020 07:33:51 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:33:51 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16194</guid> 
       <description>&lt;p&gt;The Zendesk story of how they built a globally distributed company is quite amazing, but there are many more like this by now.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://medium.com/zendesk-engineering/10-tips-for-growing-a-globally-distributed-engineering-team-21d5435b732a&#34;&gt;https://medium.com/zendesk-engineering/10-tips-for-growing-a-globally-distributed-engineering-team-21d5435b732a&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://medium.com/zendesk-engineering/10-tips-for-growing-a-globally-distributed-engineering-team-21d5435b732a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.com/zendesk-engineering/10-tips-for-growing-a-globally-distributed-engineering-team-21d5435b732a&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Slate Star Codex and Silicon Valleyâ€™s War Against the Media</title>
       <link>http://localhost:1313/blog/slate-star-codex-and-silicon-valleys-war-against-the-media/</link>
-      <pubDate>Mon, 13 Jul 2020 23:05:30 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2020 23:05:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16153</guid> 
       <description>&lt;p&gt;An excellent overview of the issues around Slate Star Codex without having to read a single word of the blog yourself. That&amp;rsquo;s an excellent service.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media&#34;&gt;https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/16022/</link>
-      <pubDate>Fri, 21 Feb 2020 10:07:44 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 10:07:44 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=16022</guid> 
       <description>&lt;blockquote&gt;
 &lt;p&gt;“The best engineers can toggle back and forth between manager and IC roles. Make sure your technical foundation and fundamental skills are solid enough to pull that off.”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Raylene Yung drops a massive list of career trips for engineers and engineering managers.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/&#34;&gt;https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/15909/</link>
-      <pubDate>Tue, 17 Dec 2019 23:55:45 +0000</pubDate>
+      <pubDate>Tue, 17 Dec 2019 23:55:45 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15909</guid> 
       <description>&lt;p&gt;A bunch of very relevant guidelines of how to setup a product team at various stages of a company from the CPO of Credit Karma.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/&#34;&gt;https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/15664/</link>
-      <pubDate>Mon, 02 Sep 2019 22:54:41 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 22:54:41 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15664</guid> 
       <description>&lt;p&gt;This lament on SF does not sound that far off from where Berlin is. The city is a lot bigger and less boring, but without measures, it could go the same way when it comes to property prices and hollowing out of public services.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/cities/2019/jul/01/san-francisco-big-tech-workers-industry&#34;&gt;https://www.theguardian.com/cities/2019/jul/01/san-francisco-big-tech-workers-industry&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/cities/2019/jul/01/san-francisco-big-tech-workers-industry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/cities/2019/jul/01/san-francisco-big-tech-workers-industry&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

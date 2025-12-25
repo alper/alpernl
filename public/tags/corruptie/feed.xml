@@ -6,21 +6,26 @@
     <description>Recent content in Corruptie on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Fri, 28 Sep 2007 10:27:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/corruptie/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steun Myanmar</title>
       <link>http://localhost:1313/blog/steun-myanmar/</link>
-      <pubDate>Fri, 28 Sep 2007 10:27:13 +0000</pubDate>
+      <pubDate>Fri, 28 Sep 2007 10:27:13 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/steun-myanmar/</guid> 
-      <description>&lt;p&gt;Goed idee trouwens van &lt;a href=&#34;http://www.picnicnetwork.org&#34;&gt;PICNIC af&lt;/a&gt;, doe morgen rood aan als teken van solidariteit met de monniken en de mensen van Myanmar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Goed idee trouwens van &lt;a href=&#34;http://www.picnicnetwork.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PICNIC af&lt;/a&gt;
+, doe morgen rood aan als teken van solidariteit met de monniken en de mensen van Myanmar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digibewust maar beter voor de leverancier dan de afnemer</title>
       <link>http://localhost:1313/blog/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/</link>
-      <pubDate>Tue, 03 Jul 2007 20:39:02 +0000</pubDate>
+      <pubDate>Tue, 03 Jul 2007 20:39:02 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/</guid> 
-      <description>&lt;p&gt;Ik zag net op het nieuws (!) een reclame voor de campagne &lt;a href=&#34;http://www.digibewust.nl/&#34;&gt;Digibewust&lt;/a&gt; van de overheid. Toen heb ik voor de grap de test &lt;a href=&#34;http://www.digibarometer.nl/&#34;&gt;Digibarometer&lt;/a&gt; maar ingevuld.&lt;/p&gt;
+      <description>&lt;p&gt;Ik zag net op het nieuws (!) een reclame voor de campagne &lt;a href=&#34;http://www.digibewust.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digibewust&lt;/a&gt;
+ van de overheid. Toen heb ik voor de grap de test &lt;a href=&#34;http://www.digibarometer.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digibarometer&lt;/a&gt;
+ maar ingevuld.&lt;/p&gt;
 &lt;p&gt;De test staat boordevol domme en buitengewoon gekleurde vragen waaraan afgemeten wordt hoe braaf je wel niet bent geweest. Met als klap op de vuurpijl “Gebruikt u bedrijf software zonder licentie ((Elk bedrijf gebruikt wel software zonder licentie. Het gaat erom of illegale software geen gemeengoed is en er degelijk beleid omtrent wordt gevoerd.)) en slaan medewerkers auteursrechtelijk beschermde informatie (muziek e.d.) op op bedrijfs-pc&amp;rsquo;s ((Ja, natuurlijk als je op je werk muziek wilt luisteren. Het mag vast niet maar als je een CD gekocht hebt, is hij van jou.)).”
 Verder is de acteur die de test afneemt ontzettend irritant, kneuterig en eigenlijk precies hoe ik me de gemiddelde Nederlandse ICT-adviseur voorstel.&lt;/p&gt;</description>
     </item>

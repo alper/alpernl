@@ -6,24 +6,38 @@
     <description>Recent content in Eelke-Dekker on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sat, 22 Dec 2007 23:54:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/eelke-dekker/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hocus Focus Filatus Tas</title>
       <link>http://localhost:1313/blog/hocus-focus-filatus-tas/</link>
-      <pubDate>Sat, 22 Dec 2007 23:54:28 +0000</pubDate>
+      <pubDate>Sat, 22 Dec 2007 23:54:28 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/hocus-focus-filatus-tas/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.eelkedekker.nl&#34;&gt;Eelke&lt;/a&gt; heeft een nieuwe site &lt;a href=&#34;http://www.hocus-focus.com/&#34;&gt;&amp;ldquo;Hocus Focus&amp;rdquo;&lt;/a&gt; (met bijbehorende &lt;a href=&#34;http://www.flickr.com/groups/hocusf/&#34;&gt;Flickr-groep&lt;/a&gt;) waar elke week een foto-opdracht staat om je erop uit te sturen, je oog te verscherpen en je geest te verruimen.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2120886595/&#34; title=&#34;Hugo de Groot by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Hugo de Groot&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2185/2120886595_1dfa649271.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.eelkedekker.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eelke&lt;/a&gt;
+ heeft een nieuwe site &lt;a href=&#34;http://www.hocus-focus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Hocus Focus&amp;rdquo;&lt;/a&gt;
+ (met bijbehorende &lt;a href=&#34;http://www.flickr.com/groups/hocusf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flickr-groep&lt;/a&gt;
+) waar elke week een foto-opdracht staat om je erop uit te sturen, je oog te verscherpen en je geest te verruimen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2120886595/&#34; title=&#34;Hugo de Groot by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm3.static.flickr.com/2185/2120886595_1dfa649271.jpg&#34;
+      alt=&#34;Hugo de Groot&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;Ik ben er eergisteren op uit geweest om een paar opdrachten te schieten en die foto&amp;rsquo;s komen nu langzaam op Flickr. Het helpt erg en ik schoot de laatste tijd toch al te weinig ((Eigenlijk vrijwel niks meer.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>A bag fitting for your life</title>
       <link>http://localhost:1313/blog/a-bag-fitting-for-your-life/</link>
-      <pubDate>Wed, 27 Jun 2007 20:25:30 +0000</pubDate>
+      <pubDate>Wed, 27 Jun 2007 20:25:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/a-bag-fitting-for-your-life/</guid> 
       <description>&lt;p&gt;Treffende one liners, spectaculaire actie en wat gebeurt er toch rond tijdsindex 0:24?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.eelkedekker.nl/?p=510&#34;&gt;Eelke studeert af&lt;/a&gt; en het belooft een spetterend half uur te worden. Het gaat komende vrijdag 13.45 &lt;em&gt;down&lt;/em&gt; in de van Grintenzaal op de faculteit IO.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://blog.eelkedekker.nl/?p=510&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eelke studeert af&lt;/a&gt;
+ en het belooft een spetterend half uur te worden. Het gaat komende vrijdag 13.45 &lt;em&gt;down&lt;/em&gt; in de van Grintenzaal op de faculteit IO.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

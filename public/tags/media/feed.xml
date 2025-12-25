@@ -6,14 +6,17 @@
     <description>Recent content in Media on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sat, 21 Feb 2009 12:55:33 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/media/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nimble hulks collaborate</title>
       <link>http://localhost:1313/blog/nimble-hulks-collaborate/</link>
-      <pubDate>Sat, 21 Feb 2009 12:55:33 +0000</pubDate>
+      <pubDate>Sat, 21 Feb 2009 12:55:33 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=799</guid> 
-      <description>&lt;p&gt;It&amp;rsquo;s good to see not all newspapers are caught in a stupor &lt;a href=&#34;http://www.readwriteweb.com/archives/how_japanese_newspapers_are_trying_to_save_themselves.php&#34;&gt;the Japanese ones&lt;/a&gt; seem to actually be seeing their common interest and making something sort of useful to their readers.&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s good to see not all newspapers are caught in a stupor &lt;a href=&#34;http://www.readwriteweb.com/archives/how_japanese_newspapers_are_trying_to_save_themselves.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Japanese ones&lt;/a&gt;
+ seem to actually be seeing their common interest and making something sort of useful to their readers.&lt;/p&gt;
 &lt;p&gt;First, it&amp;rsquo;s nice to see newspapers do stuff which is innovative instead of being stuck in the headlights and waiting to die.&lt;/p&gt;
 &lt;p&gt;Secondly, this adresses a real problem. On any commute I make with my iPhone, I theoretically can read all the news from the world&amp;rsquo;s best newspapers instead of grabbing a free newspaper from the box on the station. I&amp;rsquo;ve done so for a while, but lately I don&amp;rsquo;t bother anymore.
 The reason I don&amp;rsquo;t bother is that it is too much hassle to lead the newspaper&amp;rsquo;s awful bloated websites over what passes for 3G in this part of the world, then select what I want to read and then read that. There are too many actions involved and the cognitive load is too great.&lt;/p&gt;</description>

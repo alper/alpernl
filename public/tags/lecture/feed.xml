@@ -6,15 +6,27 @@
     <description>Recent content in Lecture on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Thu, 08 May 2008 13:55:43 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/lecture/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>â€œI am not in the business of being liked.â€</title>
       <link>http://localhost:1313/blog/i-am-not-in-the-business-of-being-liked/</link>
-      <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate>
+      <pubDate>Thu, 08 May 2008 13:55:43 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=292</guid> 
-      <description>&lt;p&gt;Gisteren een &lt;a href=&#34;http://www.dok.info/index.php?cat=actief&amp;amp;pagina_id=50&amp;amp;agenda_id=271&#34;&gt;lezing bijgewoond van Arnold Karskens&lt;/a&gt; in DOK Delft. Interessant omdat Karskens grote thema&amp;rsquo;s aanhaalt, bijna samenzweringen aan de kaak stelt en een beroep doet op de morele verantwoordelijkheid van het Nederlandse volk en journaille ( &lt;a href=&#34;http://www.denieuwereporter.nl/?p=1574&#34;&gt;‘Halve journalistiek bestaat niet’&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2474782762/&#34; title=&#34;Arnold Karskens by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Arnold Karskens&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3191/2474782762_d0c8aed06d.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Gisteren een &lt;a href=&#34;http://www.dok.info/index.php?cat=actief&amp;amp;pagina_id=50&amp;amp;agenda_id=271&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lezing bijgewoond van Arnold Karskens&lt;/a&gt;
+ in DOK Delft. Interessant omdat Karskens grote thema&amp;rsquo;s aanhaalt, bijna samenzweringen aan de kaak stelt en een beroep doet op de morele verantwoordelijkheid van het Nederlandse volk en journaille ( &lt;a href=&#34;http://www.denieuwereporter.nl/?p=1574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘Halve journalistiek bestaat niet’&lt;/a&gt;
+).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2474782762/&#34; title=&#34;Arnold Karskens by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm4.static.flickr.com/3191/2474782762_d0c8aed06d.jpg&#34;
+      alt=&#34;Arnold Karskens&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;Karskens begon met uit te vallen tegen de laksheid van de regering in het vervolgen van oorlogsmisdadigers terwijl tegelijkertijd op de 4 mei herdenkingen mensen de mond vol hebben van ‘nooit meer’.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -6,12 +6,14 @@
     <description>Recent content in Column on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Mon, 09 Aug 2010 06:27:09 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/column/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Directie #1</title>
       <link>http://localhost:1313/blog/design-directie-1/</link>
-      <pubDate>Mon, 09 Aug 2010 06:27:09 +0000</pubDate>
+      <pubDate>Mon, 09 Aug 2010 06:27:09 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2017</guid> 
       <description>&lt;p&gt;&lt;em&gt;‘Design Directie’ is een periodiek stukje van Alper over het raakvlak van design en technologie met de maatschappij ((En boven alles een experiment.)).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Op dit moment worden we niet bestuurd en moeten we wachten op een formatie die lang duurt, niet transparant is en een resultaat gaat opleveren waar de helft van het land niet op zit te wachten. Dit proces voelt sub-optimaal en achterhaald aan.&lt;/p&gt;

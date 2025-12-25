@@ -6,23 +6,37 @@
     <description>Recent content in Uncategorized on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Mon, 24 Jan 2011 15:18:07 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/uncategorized/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 201</title>
       <link>http://localhost:1313/blog/week-201/</link>
-      <pubDate>Mon, 24 Jan 2011 15:18:07 +0000</pubDate>
+      <pubDate>Mon, 24 Jan 2011 15:18:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2398</guid> 
-      <description>&lt;p&gt;Solid progress on Maguro in Utrecht. Spent a large amount of time over there also to evaluate the &lt;a href=&#34;http://playpilots.nl/&#34;&gt;PLAY Pilots&lt;/a&gt; project&amp;rsquo;s succes. Started building a prototype that runs more in real-time and on timed events (and all that in a traditional web framework).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5375162137/&#34; title=&#34;Marcus McBride Liberation Fest by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Marcus McBride Liberation Fest&#34; loading=&#34;lazy&#34; src=&#34;http://farm6.static.flickr.com/5047/5375162137_62c4665b3d.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Progress on the design framework of &lt;a href=&#34;http://statlas.nl&#34;&gt;Statlas&lt;/a&gt;. This week we should see that coming together and look at the progress on the renderer, but I&amp;rsquo;m getting ahead of ourselves here. I rounded up the &lt;a href=&#34;http://monsterswell.com/blog/2011/01/personal-mapping-platforms/&#34;&gt;research I did on personal mapping platforms&lt;/a&gt; that are online now.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Solid progress on Maguro in Utrecht. Spent a large amount of time over there also to evaluate the &lt;a href=&#34;http://playpilots.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLAY Pilots&lt;/a&gt;
+ project&amp;rsquo;s succes. Started building a prototype that runs more in real-time and on timed events (and all that in a traditional web framework).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/5375162137/&#34; title=&#34;Marcus McBride Liberation Fest by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm6.static.flickr.com/5047/5375162137_62c4665b3d.jpg&#34;
+      alt=&#34;Marcus McBride Liberation Fest&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Progress on the design framework of &lt;a href=&#34;http://statlas.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statlas&lt;/a&gt;
+. This week we should see that coming together and look at the progress on the renderer, but I&amp;rsquo;m getting ahead of ourselves here. I rounded up the &lt;a href=&#34;http://monsterswell.com/blog/2011/01/personal-mapping-platforms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research I did on personal mapping platforms&lt;/a&gt;
+ that are online now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zero History excerpts</title>
       <link>http://localhost:1313/blog/zero-history-excerpts/</link>
-      <pubDate>Wed, 05 Jan 2011 18:21:39 +0000</pubDate>
+      <pubDate>Wed, 05 Jan 2011 18:21:39 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=2360</guid> 
-      <description>&lt;p&gt;Some Bigend-centric excerpts from &lt;a href=&#34;http://en.wikipedia.org/wiki/Zero_History&#34;&gt;Zero History&lt;/a&gt;:&lt;/p&gt;
+      <description>&lt;p&gt;Some Bigend-centric excerpts from &lt;a href=&#34;http://en.wikipedia.org/wiki/Zero_History&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zero History&lt;/a&gt;
+:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There were cameras literally everywhere […] they were a symptom of autoimmune disease, the state&amp;rsquo;s protective mechanisms &amp;lsquo;roiding up into something actively destructive, chronic; watchful eyes, eroding the healthy function of that which they ostensibly protected.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -32,7 +46,7 @@
     <item>
       <title>This Happened Utrecht #6 Soundbytes</title>
       <link>http://localhost:1313/blog/this-happened-utrecht-6-soundbytes/</link>
-      <pubDate>Thu, 13 May 2010 15:59:33 +0000</pubDate>
+      <pubDate>Thu, 13 May 2010 15:59:33 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=1791</guid> 
       <description>&lt;p&gt;Last Monday we saw the sixth edition of This Happened taking place and —I haven&amp;rsquo;t seen all, but I&amp;rsquo;ve seen more than most— I think this was one of the best ones yet.&lt;/p&gt;
 &lt;p&gt;So thinking what would be an easy way to journal ((My note taking of the first session was thwarted by OS X&amp;rsquo;s evil semi-modal WiFi dialog. Apologies for that.)) this edition both for me as a writer and for you as a reader I came up with this format. Session division is left as an exercise for the reader.&lt;/p&gt;</description>
@@ -40,7 +54,7 @@
     <item>
       <title>Obama for the World</title>
       <link>http://localhost:1313/blog/obama-for-the-world/</link>
-      <pubDate>Thu, 06 Nov 2008 19:24:54 +0000</pubDate>
+      <pubDate>Thu, 06 Nov 2008 19:24:54 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=578</guid> 
       <description>&lt;p&gt;Staying up all night to watch the elections we finally saw Barack Obama&amp;rsquo;s victory speech somewhere after 5AM. Though at that moment I couldn&amp;rsquo;t fully appreciate it, it was one of his best speeches and one ending a period.&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re only at the beginning and the things he does from now on are those that really matter. Everything until now a prelude of some sorts. It will be interesting to see how his transition goes and who he appoints to be in his staff and cabinet.&lt;/p&gt;</description>
@@ -48,127 +62,260 @@
     <item>
       <title>San Francisco</title>
       <link>http://localhost:1313/blog/san-francisco/</link>
-      <pubDate>Sun, 12 Oct 2008 00:37:20 +0000</pubDate>
+      <pubDate>Sun, 12 Oct 2008 00:37:20 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=544</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve always wanted to go there and tomorrow I&amp;rsquo;m finally going. Some vague plans, tads of serendipity and friends pushing me over the edge were enough to have me book the ticket, I think, only three weeks ago. Tomorrow Lufthansa will take me over an ocean for the first time of my life ((Pretty lame for somebody who likes to travel.)).&lt;/p&gt;
-&lt;p&gt;Halfway during the trip there&amp;rsquo;s a &lt;a href=&#34;http://www.capoeiraarts.com/batizado/index.html&#34;&gt;four day capoeira event&lt;/a&gt; celebrating &lt;a href=&#34;http://en.wikipedia.org/wiki/Mestre_Acordeon&#34;&gt;Mestre Acordeon&lt;/a&gt;&amp;rsquo;s fiftieth year of teaching capoeira with &lt;a href=&#34;http://www.capoeiraarts.com/brazilfest/index.html&#34;&gt;a Brazilian festival in Berkeley&lt;/a&gt; on Saturday. I&amp;rsquo;ll also try to get some surfing in and see if I can visit the local tech hubs and meet some people, so it&amp;rsquo;s not purely a holiday.&lt;/p&gt;</description>
+&lt;p&gt;Halfway during the trip there&amp;rsquo;s a &lt;a href=&#34;http://www.capoeiraarts.com/batizado/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;four day capoeira event&lt;/a&gt;
+ celebrating &lt;a href=&#34;http://en.wikipedia.org/wiki/Mestre_Acordeon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mestre Acordeon&lt;/a&gt;
+&amp;rsquo;s fiftieth year of teaching capoeira with &lt;a href=&#34;http://www.capoeiraarts.com/brazilfest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a Brazilian festival in Berkeley&lt;/a&gt;
+ on Saturday. I&amp;rsquo;ll also try to get some surfing in and see if I can visit the local tech hubs and meet some people, so it&amp;rsquo;s not purely a holiday.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coworking Desk Available</title>
       <link>http://localhost:1313/blog/coworking-desk-available/</link>
-      <pubDate>Fri, 03 Oct 2008 16:59:17 +0000</pubDate>
+      <pubDate>Fri, 03 Oct 2008 16:59:17 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=540</guid> 
-      <description>&lt;p&gt;At our nice coworking spot &lt;a href=&#34;http://studio4stagioni.nl/&#34;&gt;Studio 4 Stagioni&lt;/a&gt; we have one or two desks available effective immediately. This poster has been hanging on some select locations around town:
-&lt;a href=&#34;http://www.flickr.com/photos/alper/2910253782/&#34; title=&#34;Office Space Advert by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Office Space Advert&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3084/2910253782_81908ec19a.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;At our nice coworking spot &lt;a href=&#34;http://studio4stagioni.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studio 4 Stagioni&lt;/a&gt;
+ we have one or two desks available effective immediately. This poster has been hanging on some select locations around town:
+&lt;a href=&#34;http://www.flickr.com/photos/alper/2910253782/&#34; title=&#34;Office Space Advert by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm4.static.flickr.com/3084/2910253782_81908ec19a.jpg&#34;
+      alt=&#34;Office Space Advert&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;The ad is in Dutch, but it says you can get a desk in a creative environment next to the Delft central train station for €85 a month (cost). If you&amp;rsquo;re interested or know somebody who is, get in touch either here or using the phone number on the ad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some legitimate fear</title>
       <link>http://localhost:1313/blog/some-legitimate-fear/</link>
-      <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2008 00:53:20 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=371</guid> 
-      <description>&lt;p&gt;This &lt;a href=&#34;http://www.boingboing.net/2008/08/19/visitor-to-london-vi.html&#34;&gt;video on BoingBoing&lt;/a&gt; is shocking in its absurdity but hardly unexpected given the current climate. If you pay any attention around you in metropolitan areas in the UK, it is rife with ostentatious surveillance.&lt;/p&gt;
-&lt;p&gt;What I&amp;rsquo;m most afraid of is that if we get a significant bombing in the Netherlands, that will be the only excuse necessary to implement these random searches and violations of our civil liberties on Dutch soil. And the populace will swallow it wholesale supported by our &lt;a href=&#34;http://www.telegraaf.nl/&#34;&gt;MSM&lt;/a&gt; ((Formerly a fascist collaborating publication, currently the most popular and most populist newspaper in the Netherlands.)).&lt;/p&gt;</description>
+      <description>&lt;p&gt;This &lt;a href=&#34;http://www.boingboing.net/2008/08/19/visitor-to-london-vi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video on BoingBoing&lt;/a&gt;
+ is shocking in its absurdity but hardly unexpected given the current climate. If you pay any attention around you in metropolitan areas in the UK, it is rife with ostentatious surveillance.&lt;/p&gt;
+&lt;p&gt;What I&amp;rsquo;m most afraid of is that if we get a significant bombing in the Netherlands, that will be the only excuse necessary to implement these random searches and violations of our civil liberties on Dutch soil. And the populace will swallow it wholesale supported by our &lt;a href=&#34;http://www.telegraaf.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSM&lt;/a&gt;
+ ((Formerly a fascist collaborating publication, currently the most popular and most populist newspaper in the Netherlands.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>10th Reboot - day 2 and on</title>
       <link>http://localhost:1313/blog/10th-reboot-day-2-and-on/</link>
-      <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2008 14:40:33 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=319</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2627216575/&#34; title=&#34;Jerry by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Jerry&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3063/2627216575_d14945bbc7.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The second day started off with a talk about &lt;a href=&#34;http://www.reboot.dk/artefact-5420-en.html&#34;&gt;Free by Jerry Michalski&lt;/a&gt; which reminded me a lot of the topics that I had covered the previous day in my talk. Jerry&amp;rsquo;s talk being in the main hall made this turn out a lot differently than my talk.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2627217363/&#34; title=&#34;David by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;David&#34; loading=&#34;lazy&#34; src=&#34;http://farm4.static.flickr.com/3020/2627217363_dcde3d1340.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;David Recordon followed with a talk &lt;a href=&#34;http://www.reboot.dk/artefact-5417-en.html&#34;&gt;about the open web&lt;/a&gt; and reminded us that not that much has changed in the last six months since I saw him on the same topic in Berlin. The big social conglomerates that have each other in a chokehold make for glacial progress.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2627216575/&#34; title=&#34;Jerry by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm4.static.flickr.com/3063/2627216575_d14945bbc7.jpg&#34;
+      alt=&#34;Jerry&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;The second day started off with a talk about &lt;a href=&#34;http://www.reboot.dk/artefact-5420-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free by Jerry Michalski&lt;/a&gt;
+ which reminded me a lot of the topics that I had covered the previous day in my talk. Jerry&amp;rsquo;s talk being in the main hall made this turn out a lot differently than my talk.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2627217363/&#34; title=&#34;David by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm4.static.flickr.com/3020/2627217363_dcde3d1340.jpg&#34;
+      alt=&#34;David&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;David Recordon followed with a talk &lt;a href=&#34;http://www.reboot.dk/artefact-5417-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;about the open web&lt;/a&gt;
+ and reminded us that not that much has changed in the last six months since I saw him on the same topic in Berlin. The big social conglomerates that have each other in a chokehold make for glacial progress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>10th Reboot - day 1</title>
       <link>http://localhost:1313/blog/10th-reboot-day-1/</link>
-      <pubDate>Sun, 29 Jun 2008 22:54:18 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2008 22:54:18 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=317</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://reboot.dk&#34;&gt;Reboot 10&lt;/a&gt; is over and in my experience they simply get better every year.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d signed up for a session and got slotted on Thursday morning so I spent a good part of Wednesday preparing and running through the story. Of course after having gotten over &lt;a href=&#34;http://localhost:1313/dingen/2008/06/off-to-copenhagen/&#34;&gt;my early flight&lt;/a&gt; and having eaten something at the &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34;&gt;Laundromat&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My session on &lt;a href=&#34;http://www.reboot.dk/artefact-5148-en.html&#34;&gt;Free Economics&lt;/a&gt; was filled over capacity while it was meant to be a cosy conversational session. Fortunately that also meant more than enough people willing to participate and add information, so I think it went well and it proved a good starting point for the rest of the conference. My stress relieved could follow the rest of the sessions.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://reboot.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reboot 10&lt;/a&gt;
+ is over and in my experience they simply get better every year.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d signed up for a session and got slotted on Thursday morning so I spent a good part of Wednesday preparing and running through the story. Of course after having gotten over &lt;a href=&#34;http://localhost:1313/dingen/2008/06/off-to-copenhagen/&#34;&gt;my early flight&lt;/a&gt;
+ and having eaten something at the &lt;a href=&#34;http://www.thelaundromatcafe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laundromat&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;My session on &lt;a href=&#34;http://www.reboot.dk/artefact-5148-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Free Economics&lt;/a&gt;
+ was filled over capacity while it was meant to be a cosy conversational session. Fortunately that also meant more than enough people willing to participate and add information, so I think it went well and it proved a good starting point for the rest of the conference. My stress relieved could follow the rest of the sessions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Surfing Summer</title>
       <link>http://localhost:1313/blog/surfing-summer/</link>
-      <pubDate>Tue, 10 Jun 2008 07:12:04 +0000</pubDate>
+      <pubDate>Tue, 10 Jun 2008 07:12:04 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=305</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2531535776/&#34; title=&#34;Mr. Zog&#39;s Sex Wax by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Mr. Zog&amp;rsquo;s Sex Wax&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2390/2531535776_95a2aa66fe.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2531535776/&#34; title=&#34;Mr. Zog&amp;#39;s Sex Wax by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm3.static.flickr.com/2390/2531535776_95a2aa66fe.jpg&#34;
+      alt=&#34;Mr. Zog&amp;rsquo;s Sex Wax&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;We had an excellent summer last year surfing on and off on Scheveningen as the waves allowed. This year has been mostly flat, but we had some waves a week ago and end of this week promises some nice swell, so surf is up.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s nice to have a surf spot this easily accessible, but I&amp;rsquo;m curious how surfing in real waves is ((I started out on the North coast of Spain.)). So this July we&amp;rsquo;ll be headed off to Aquitaine or Basque country for a week to check the waves over there.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wakker worden</title>
       <link>http://localhost:1313/blog/wakker-worden/</link>
-      <pubDate>Sun, 20 Jan 2008 06:54:51 +0000</pubDate>
+      <pubDate>Sun, 20 Jan 2008 06:54:51 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/wakker-worden/</guid> 
       <description>&lt;p&gt;Het is in Prenzlauerberg altijd fijn wakker worden met goede koffie, broodjes en kranten binnen handbereik.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2195578355/&#34; title=&#34;Breakfast by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Breakfast&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2069/2195578355_e82cbc2ec0.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/2195578355/&#34; title=&#34;Breakfast by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm3.static.flickr.com/2069/2195578355_e82cbc2ec0.jpg&#34;
+      alt=&#34;Breakfast&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>2008 Bioscoopjaar</title>
       <link>http://localhost:1313/blog/2008-bioscoopjaar/</link>
-      <pubDate>Wed, 26 Dec 2007 17:30:07 +0000</pubDate>
+      <pubDate>Wed, 26 Dec 2007 17:30:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/2008-bioscoopjaar/</guid> 
-      <description>&lt;p&gt;Ik lees de afgelopen week wat &lt;a href=&#34;http://www.firstshowing.net/2007/12/18/why-2008-will-be-an-awesome-year-for-movies/&#34;&gt;verlekkerde lijstjes&lt;/a&gt; &lt;a href=&#34;http://blog.zog.org/2007/12/film-2008.html&#34;&gt;van films&lt;/a&gt; die verwacht worden in 2008. Nu heb ik nog niet eens de boeiendste films van 2007 gezien ((Flinke achterstand opgelopen met afstuderen.)).&lt;/p&gt;
+      <description>&lt;p&gt;Ik lees de afgelopen week wat &lt;a href=&#34;http://www.firstshowing.net/2007/12/18/why-2008-will-be-an-awesome-year-for-movies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;verlekkerde lijstjes&lt;/a&gt;
+ &lt;a href=&#34;http://blog.zog.org/2007/12/film-2008.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;van films&lt;/a&gt;
+ die verwacht worden in 2008. Nu heb ik nog niet eens de boeiendste films van 2007 gezien ((Flinke achterstand opgelopen met afstuderen.)).&lt;/p&gt;
 &lt;p&gt;Het lijkt erop dat komend jaar een bijna wekelijks bezoek aan de bioscoop nodig is. En dan hebben we het nog niet eens over het filmhuis. Heel veel leuke films. Een kleine doorloop:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://imdb.com/title/tt0478087/&#34;&gt;21&lt;/a&gt; — Studententeam van blackjack hustlers met &lt;a href=&#34;http://www.imdb.com/name/nm0000228/&#34;&gt;Kevin Spacey&lt;/a&gt; als de baas ( &lt;a href=&#34;http://www.apple.com/trailers/sony_pictures/21/&#34;&gt;trailer&lt;/a&gt;). Jammer dat kaarten tellen in Nederland niet haalbaar is ((Dat heb ik niet gezegd&amp;hellip;)).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0455824/&#34;&gt;Australia&lt;/a&gt; — &lt;a href=&#34;http://www.imdb.com/name/nm0525303/&#34;&gt;Baz Luhrmann&lt;/a&gt; met een film over Australië in de Tweede Wereldoorlog.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0364970/&#34;&gt;Babylon A.D.&lt;/a&gt; — &lt;a href=&#34;http://www.imdb.com/name/nm0004874/&#34;&gt;Vin Diesel&lt;/a&gt; in een film met een of ander debiel vergezocht verhaal kan alleen maar leuk zijn.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://imdb.com/title/tt0799934/&#34;&gt;Be kind rewind&lt;/a&gt; — &lt;a href=&#34;http://www.imdb.com/name/nm0085312/&#34;&gt;Jack Black&lt;/a&gt; in een film over low-budget remakes van klassieke films. Tof concept, toffe &lt;a href=&#34;http://www.firstshowing.net/2007/08/08/must-watch-michel-gondrys-be-kind-rewind-trailer/&#34;&gt;trailer&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0861689/&#34;&gt;Blindness&lt;/a&gt; — &lt;a href=&#34;http://www.imdb.com/name/nm0576987/&#34;&gt;Fernando Meirelles&lt;/a&gt; met een boeiende premisse. Ik moet de &lt;a href=&#34;http://www.imdb.com/title/tt0387131/&#34;&gt;Constant Gardener&lt;/a&gt; ook nog zien.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0362478/&#34;&gt;The Box&lt;/a&gt; — Twisted verhaal van de maker van &lt;a href=&#34;http://www.imdb.com/title/tt0246578/&#34;&gt;Donnie Darko&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0887883/&#34;&gt;Burn after reading&lt;/a&gt; — &lt;a href=&#34;http://www.imdb.com/name/nm0001053/&#34;&gt;Coen&lt;/a&gt; brothers&amp;rsquo; volgende met Clooney, Malkovich én Pitt.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0824747/&#34;&gt;The Changeling&lt;/a&gt; — Clint Eastwood en &lt;a href=&#34;http://www.imdb.com/name/nm0833089/&#34;&gt;J.Michael Straczynski&lt;/a&gt; ((van &lt;a href=&#34;http://en.wikipedia.org/wiki/Babylon_5&#34;&gt;Babylon 5&lt;/a&gt;)) met een creepy verhaal.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.firstshowing.net/2007/12/18/why-2008-will-be-an-awesome-year-for-movies/&#34;&gt;Choke&lt;/a&gt; — Boek van &lt;a href=&#34;http://en.wikipedia.org/wiki/Chuck_Palahniuk&#34;&gt;Chuck Palahniuk&lt;/a&gt; waar ik nog steeds iets van moet lezen.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0970411/&#34;&gt;City of Ember&lt;/a&gt; — Bil Murray.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1060277/&#34;&gt;Cloverfield&lt;/a&gt; — &lt;a href=&#34;http://imdb.com/title/tt0185937/&#34;&gt;Blair Witch&lt;/a&gt;-achtig geschoten monsterfilm Ã  la Lost en &lt;a href=&#34;http://www.imdb.com/title/tt0120804/&#34;&gt;Resident Evil&lt;/a&gt;. Met website &lt;a href=&#34;http://tagruato.jp/&#34;&gt;tie&lt;/a&gt;- &lt;a href=&#34;http://www.slusho.jp/&#34;&gt;ins&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0421715/&#34;&gt;The Curious Case of Benjamin Button&lt;/a&gt; — Intrigerend concept en films van &lt;a href=&#34;http://www.imdb.com/name/nm0000399/&#34;&gt;Fincher&lt;/a&gt; moeten gezien worden. In 2009 komt Fincher ook nog met een verfilming van &lt;a href=&#34;http://en.wikipedia.org/wiki/Rendezvous_with_Rama&#34;&gt;Rendezvous with Rama&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0468569/&#34;&gt;The Dark Knight&lt;/a&gt; — Absoluut geen twijfels over deze film. Dit wordt genadeloos vet (zie &lt;a href=&#34;http://www.firstshowing.net/2007/12/17/the-dark-knight-full-theatrical-trailer-debuts/&#34;&gt;trailer&lt;/a&gt;). Oh ja weer van &lt;a href=&#34;http://uk.imdb.com/name/nm0634240/&#34;&gt;Nolan&lt;/a&gt;, dus goed.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0043456/&#34;&gt;The Day the Earth Stood Still&lt;/a&gt; — Sci-fi klassieker remake.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0489049/&#34;&gt;Fanboys&lt;/a&gt; — Sci-fi fan flick. Waarschijnlijk cheezy, maar vast amusant.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0964517/&#34;&gt;The Fighter&lt;/a&gt; — &lt;a href=&#34;http://www.imdb.com/name/nm0004716/&#34;&gt;Aronofsky&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0865556/&#34;&gt;The Forbidden Kingdom&lt;/a&gt; — Jet Li kung-fu epos.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0870111/&#34;&gt;Frost/Nixon&lt;/a&gt; — Leer ik eindelijk wat over &lt;a href=&#34;http://nl.wikipedia.org/wiki/Richard_Nixon&#34;&gt;Nixon&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0448157/&#34;&gt;Hancock&lt;/a&gt; — De &lt;a href=&#34;http://www.apple.com/trailers/sony_pictures/hancock/&#34;&gt;trailer van deze Will Smith&lt;/a&gt; anti-superheldfilm was erg grappig. Film zelf is misschien wat flauw.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0949731/&#34;&gt;The Happening&lt;/a&gt; — Shyamalan, goed of niet het is vast spannend.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0417741/&#34;&gt;Harry Potter and the Half-Blood Prince&lt;/a&gt; — Ik heb nog geen enkel Harry Potter boek gelezen. Ik moet het hebben van de films.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0411477/&#34;&gt;Hellboy 2&lt;/a&gt; — De vorige was amusant genoeg, en ik ben een beetje dwangmatig op superheldenfilms.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0800080/&#34;&gt;The Incredible Hulk&lt;/a&gt; — (Groene) superheld.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0367882/&#34;&gt;Indiana Jones and the Kingdom of the Crystal Skull&lt;/a&gt; — Indiana Jones, wie is er niet groot mee geworden.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0963178/&#34;&gt;The International&lt;/a&gt; — Films van &lt;a href=&#34;http://www.imdb.com/name/nm0878756/&#34;&gt;Tykwer&lt;/a&gt; zijn verplicht.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0371746/&#34;&gt;Iron Man&lt;/a&gt; — Leuke &lt;a href=&#34;http://www.firstshowing.net/2007/09/10/iron-man-cometh-new-full-trailer/&#34;&gt;trailer&lt;/a&gt; over een renaissance man, wapenhandelaar turned superhero.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0830515/&#34;&gt;James Bond 22&lt;/a&gt; — James Bond is verplicht al heb ik &lt;a href=&#34;http://www.imdb.com/title/tt0381061/&#34;&gt;de vorige&lt;/a&gt; nog niet eens gezien ((Dat ga ik snel verhelpen.)).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0489099/&#34;&gt;Jumper&lt;/a&gt; — Snelle en spannende sci-fi met één strak goed uitgewerkt concept. Vette &lt;a href=&#34;http://www.firstshowing.net/2007/12/08/second-jumper-trailer-launches/&#34;&gt;trailer&lt;/a&gt; ook.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0811138/&#34;&gt;The Love Guru&lt;/a&gt; — Nieuw Mike Myers karakter.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0467200/&#34;&gt;The Other Boleyn Girl&lt;/a&gt; — De &lt;a href=&#34;http://www.firstshowing.net/2007/11/15/natalie-portman-vs-scarlett-johansson-in-the-other-boleyn-girl-trailer/&#34;&gt;trailer&lt;/a&gt; ziet er goed uit, maar titelrollen voor Scarlett Johansson en Natalie Portman doen dat denk ik voor elke trailer.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0462499/&#34;&gt;Rambo&lt;/a&gt; — De nieuwste Rambo waar eerder al een &lt;a href=&#34;http://www.firstshowing.net/2007/09/08/another-bloody-john-rambo-trailer-they-just-dont-stop/&#34;&gt;bizar gewelddadige trailer&lt;/a&gt; van uit was. &amp;lsquo;Bizar gewelddadig&amp;rsquo; is voor mij reden genoeg om iets te willen zien.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0963194/&#34;&gt;Repo! The Genetic Opera!&lt;/a&gt; — Biotech is cool in films, gecombineerd met een musical wordt dit vast een giller.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1032755/&#34;&gt;RocknRolla&lt;/a&gt; — Nieuwe Guy Ritchie, altijd zien.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0811080/&#34;&gt;Speed Racer&lt;/a&gt; — Lang verwacht net &lt;a href=&#34;http://movies.aol.com/movie/speed-racer-2008/28066/main&#34;&gt;de trailer&lt;/a&gt; gezien en dit ziet er meer dan aardig uit.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0796366/&#34;&gt;Star Trek XI&lt;/a&gt; — Een compleet frisse nieuwe Star Trek.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0985699/&#34;&gt;Valkyrie&lt;/a&gt; — Misschien wel één van de bruutste Tweede Wereldoorlog films tot nu toe. Zie &lt;a href=&#34;http://www.firstshowing.net/2007/11/09/debut-of-bryan-singers-valkyrie-trailer/&#34;&gt;de trailer&lt;/a&gt; voor een voorproefje.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://imdb.com/title/tt0443274/&#34;&gt;Vantage Point&lt;/a&gt; — Net &lt;a href=&#34;http://www.firstshowing.net/2007/06/08/first-trailer-for-vantage-point-with-dennis-quaid/&#34;&gt;de trailer&lt;/a&gt; hiervan gezien en ziet eruit als een strakke actiefilm met een boeiende manier van vertellen door allemaal verschillende gezichtspunten.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0910970/&#34;&gt;Wall-E&lt;/a&gt; — Schattige Pixar robots.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0386117/&#34;&gt;Where the Wild Things Are&lt;/a&gt; — Spike Jonze met een mooi kinderverhaal.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0443701/&#34;&gt;The X-Files 2&lt;/a&gt; — De &lt;a href=&#34;http://www.imdb.com/title/tt0120902/&#34;&gt;vorige X-Files film&lt;/a&gt; ((Fight the Future, lang lang geleden)) was best aardig. Dit zou best wat kunnen zijn, en anders is het een trip down memory lane.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1007028/&#34;&gt;Zack and Miri make a porno&lt;/a&gt; — Een film over porno van de maker van &lt;a href=&#34;http://www.imdb.com/title/tt0261392/&#34;&gt;Jay and Silent Bob Strike Back&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imdb.com/title/tt0478087/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21&lt;/a&gt;
+ — Studententeam van blackjack hustlers met &lt;a href=&#34;http://www.imdb.com/name/nm0000228/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Spacey&lt;/a&gt;
+ als de baas ( &lt;a href=&#34;http://www.apple.com/trailers/sony_pictures/21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer&lt;/a&gt;
+). Jammer dat kaarten tellen in Nederland niet haalbaar is ((Dat heb ik niet gezegd&amp;hellip;)).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0455824/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Australia&lt;/a&gt;
+ — &lt;a href=&#34;http://www.imdb.com/name/nm0525303/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baz Luhrmann&lt;/a&gt;
+ met een film over Australië in de Tweede Wereldoorlog.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0364970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Babylon A.D.&lt;/a&gt;
+ — &lt;a href=&#34;http://www.imdb.com/name/nm0004874/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vin Diesel&lt;/a&gt;
+ in een film met een of ander debiel vergezocht verhaal kan alleen maar leuk zijn.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imdb.com/title/tt0799934/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Be kind rewind&lt;/a&gt;
+ — &lt;a href=&#34;http://www.imdb.com/name/nm0085312/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jack Black&lt;/a&gt;
+ in een film over low-budget remakes van klassieke films. Tof concept, toffe &lt;a href=&#34;http://www.firstshowing.net/2007/08/08/must-watch-michel-gondrys-be-kind-rewind-trailer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0861689/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blindness&lt;/a&gt;
+ — &lt;a href=&#34;http://www.imdb.com/name/nm0576987/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernando Meirelles&lt;/a&gt;
+ met een boeiende premisse. Ik moet de &lt;a href=&#34;http://www.imdb.com/title/tt0387131/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Constant Gardener&lt;/a&gt;
+ ook nog zien.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0362478/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Box&lt;/a&gt;
+ — Twisted verhaal van de maker van &lt;a href=&#34;http://www.imdb.com/title/tt0246578/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Donnie Darko&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0887883/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Burn after reading&lt;/a&gt;
+ — &lt;a href=&#34;http://www.imdb.com/name/nm0001053/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coen&lt;/a&gt;
+ brothers&amp;rsquo; volgende met Clooney, Malkovich én Pitt.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0824747/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Changeling&lt;/a&gt;
+ — Clint Eastwood en &lt;a href=&#34;http://www.imdb.com/name/nm0833089/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J.Michael Straczynski&lt;/a&gt;
+ ((van &lt;a href=&#34;http://en.wikipedia.org/wiki/Babylon_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Babylon 5&lt;/a&gt;
+)) met een creepy verhaal.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.firstshowing.net/2007/12/18/why-2008-will-be-an-awesome-year-for-movies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choke&lt;/a&gt;
+ — Boek van &lt;a href=&#34;http://en.wikipedia.org/wiki/Chuck_Palahniuk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Palahniuk&lt;/a&gt;
+ waar ik nog steeds iets van moet lezen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0970411/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City of Ember&lt;/a&gt;
+ — Bil Murray.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1060277/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloverfield&lt;/a&gt;
+ — &lt;a href=&#34;http://imdb.com/title/tt0185937/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blair Witch&lt;/a&gt;
+-achtig geschoten monsterfilm Ã  la Lost en &lt;a href=&#34;http://www.imdb.com/title/tt0120804/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Resident Evil&lt;/a&gt;
+. Met website &lt;a href=&#34;http://tagruato.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tie&lt;/a&gt;
+- &lt;a href=&#34;http://www.slusho.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ins&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0421715/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Curious Case of Benjamin Button&lt;/a&gt;
+ — Intrigerend concept en films van &lt;a href=&#34;http://www.imdb.com/name/nm0000399/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fincher&lt;/a&gt;
+ moeten gezien worden. In 2009 komt Fincher ook nog met een verfilming van &lt;a href=&#34;http://en.wikipedia.org/wiki/Rendezvous_with_Rama&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rendezvous with Rama&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0468569/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Dark Knight&lt;/a&gt;
+ — Absoluut geen twijfels over deze film. Dit wordt genadeloos vet (zie &lt;a href=&#34;http://www.firstshowing.net/2007/12/17/the-dark-knight-full-theatrical-trailer-debuts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer&lt;/a&gt;
+). Oh ja weer van &lt;a href=&#34;http://uk.imdb.com/name/nm0634240/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nolan&lt;/a&gt;
+, dus goed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0043456/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Day the Earth Stood Still&lt;/a&gt;
+ — Sci-fi klassieker remake.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0489049/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fanboys&lt;/a&gt;
+ — Sci-fi fan flick. Waarschijnlijk cheezy, maar vast amusant.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0964517/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Fighter&lt;/a&gt;
+ — &lt;a href=&#34;http://www.imdb.com/name/nm0004716/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aronofsky&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0865556/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Forbidden Kingdom&lt;/a&gt;
+ — Jet Li kung-fu epos.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0870111/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frost/Nixon&lt;/a&gt;
+ — Leer ik eindelijk wat over &lt;a href=&#34;http://nl.wikipedia.org/wiki/Richard_Nixon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nixon&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0448157/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hancock&lt;/a&gt;
+ — De &lt;a href=&#34;http://www.apple.com/trailers/sony_pictures/hancock/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer van deze Will Smith&lt;/a&gt;
+ anti-superheldfilm was erg grappig. Film zelf is misschien wat flauw.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0949731/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Happening&lt;/a&gt;
+ — Shyamalan, goed of niet het is vast spannend.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0417741/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harry Potter and the Half-Blood Prince&lt;/a&gt;
+ — Ik heb nog geen enkel Harry Potter boek gelezen. Ik moet het hebben van de films.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0411477/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hellboy 2&lt;/a&gt;
+ — De vorige was amusant genoeg, en ik ben een beetje dwangmatig op superheldenfilms.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0800080/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Incredible Hulk&lt;/a&gt;
+ — (Groene) superheld.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0367882/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indiana Jones and the Kingdom of the Crystal Skull&lt;/a&gt;
+ — Indiana Jones, wie is er niet groot mee geworden.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0963178/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International&lt;/a&gt;
+ — Films van &lt;a href=&#34;http://www.imdb.com/name/nm0878756/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tykwer&lt;/a&gt;
+ zijn verplicht.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0371746/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iron Man&lt;/a&gt;
+ — Leuke &lt;a href=&#34;http://www.firstshowing.net/2007/09/10/iron-man-cometh-new-full-trailer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer&lt;/a&gt;
+ over een renaissance man, wapenhandelaar turned superhero.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0830515/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Bond 22&lt;/a&gt;
+ — James Bond is verplicht al heb ik &lt;a href=&#34;http://www.imdb.com/title/tt0381061/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de vorige&lt;/a&gt;
+ nog niet eens gezien ((Dat ga ik snel verhelpen.)).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0489099/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jumper&lt;/a&gt;
+ — Snelle en spannende sci-fi met één strak goed uitgewerkt concept. Vette &lt;a href=&#34;http://www.firstshowing.net/2007/12/08/second-jumper-trailer-launches/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer&lt;/a&gt;
+ ook.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0811138/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Love Guru&lt;/a&gt;
+ — Nieuw Mike Myers karakter.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0467200/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Other Boleyn Girl&lt;/a&gt;
+ — De &lt;a href=&#34;http://www.firstshowing.net/2007/11/15/natalie-portman-vs-scarlett-johansson-in-the-other-boleyn-girl-trailer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trailer&lt;/a&gt;
+ ziet er goed uit, maar titelrollen voor Scarlett Johansson en Natalie Portman doen dat denk ik voor elke trailer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0462499/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rambo&lt;/a&gt;
+ — De nieuwste Rambo waar eerder al een &lt;a href=&#34;http://www.firstshowing.net/2007/09/08/another-bloody-john-rambo-trailer-they-just-dont-stop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bizar gewelddadige trailer&lt;/a&gt;
+ van uit was. &amp;lsquo;Bizar gewelddadig&amp;rsquo; is voor mij reden genoeg om iets te willen zien.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0963194/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repo! The Genetic Opera!&lt;/a&gt;
+ — Biotech is cool in films, gecombineerd met een musical wordt dit vast een giller.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1032755/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RocknRolla&lt;/a&gt;
+ — Nieuwe Guy Ritchie, altijd zien.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0811080/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speed Racer&lt;/a&gt;
+ — Lang verwacht net &lt;a href=&#34;http://movies.aol.com/movie/speed-racer-2008/28066/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de trailer&lt;/a&gt;
+ gezien en dit ziet er meer dan aardig uit.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0796366/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Star Trek XI&lt;/a&gt;
+ — Een compleet frisse nieuwe Star Trek.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0985699/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valkyrie&lt;/a&gt;
+ — Misschien wel één van de bruutste Tweede Wereldoorlog films tot nu toe. Zie &lt;a href=&#34;http://www.firstshowing.net/2007/11/09/debut-of-bryan-singers-valkyrie-trailer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de trailer&lt;/a&gt;
+ voor een voorproefje.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imdb.com/title/tt0443274/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vantage Point&lt;/a&gt;
+ — Net &lt;a href=&#34;http://www.firstshowing.net/2007/06/08/first-trailer-for-vantage-point-with-dennis-quaid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de trailer&lt;/a&gt;
+ hiervan gezien en ziet eruit als een strakke actiefilm met een boeiende manier van vertellen door allemaal verschillende gezichtspunten.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0910970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wall-E&lt;/a&gt;
+ — Schattige Pixar robots.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0386117/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Where the Wild Things Are&lt;/a&gt;
+ — Spike Jonze met een mooi kinderverhaal.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0443701/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The X-Files 2&lt;/a&gt;
+ — De &lt;a href=&#34;http://www.imdb.com/title/tt0120902/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vorige X-Files film&lt;/a&gt;
+ ((Fight the Future, lang lang geleden)) was best aardig. Dit zou best wat kunnen zijn, en anders is het een trip down memory lane.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1007028/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zack and Miri make a porno&lt;/a&gt;
+ — Een film over porno van de maker van &lt;a href=&#34;http://www.imdb.com/title/tt0261392/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jay and Silent Bob Strike Back&lt;/a&gt;
+.&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>Iedereen anders</title>
       <link>http://localhost:1313/blog/iedereen-anders/</link>
-      <pubDate>Sun, 16 Dec 2007 13:24:46 +0000</pubDate>
+      <pubDate>Sun, 16 Dec 2007 13:24:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/iedereen-anders/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2007/12/apples-next-pro.html&#34;&gt;Seth Godin schrijft&lt;/a&gt; over het luxe-probleem waar Apple binnenkort mee te kampen heeft wanneer de meeste mensen een computer van Apple hebben. &lt;a href=&#34;http://en.wikipedia.org/wiki/Think_Different&#34;&gt;Think Different&lt;/a&gt; ( &lt;a href=&#34;http://massanti.com/2007/09/25/think-different-you-wont-see-a-better-version-than-this-one/&#34;&gt;video&lt;/a&gt;) gaat per definitie niet meer op als iedereen ‘different’ is.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2007/12/apples-next-pro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seth Godin schrijft&lt;/a&gt;
+ over het luxe-probleem waar Apple binnenkort mee te kampen heeft wanneer de meeste mensen een computer van Apple hebben. &lt;a href=&#34;http://en.wikipedia.org/wiki/Think_Different&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Think Different&lt;/a&gt;
+ ( &lt;a href=&#34;http://massanti.com/2007/09/25/think-different-you-wont-see-a-better-version-than-this-one/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;
+) gaat per definitie niet meer op als iedereen ‘different’ is.&lt;/p&gt;
 &lt;p&gt;Ik heb al wel gezegd dat Apple computers minder appeal zouden hebben als ze bij de Aldi zouden liggen. Dit heeft te maken met het nerd-elite principe ‘niets is tof als andere mensen dat ook vinden’.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Verhuizen en verkassen</title>
       <link>http://localhost:1313/blog/verhuizen-en-verkassen/</link>
-      <pubDate>Tue, 30 Oct 2007 21:04:13 +0000</pubDate>
+      <pubDate>Tue, 30 Oct 2007 21:04:13 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/verhuizen-en-verkassen/</guid> 
       <description>&lt;p&gt;Ik ga donderdagmiddag verhuizen heb ik besloten. Er is al hulp, maar meer is welkom. Voor bier en versnaperingen wordt gezorgd.&lt;/p&gt;
 &lt;p&gt;En de volgende dag rijden we naar Berlijn!&lt;/p&gt;</description>
@@ -176,67 +323,86 @@
     <item>
       <title>De skeptische wereldverbeteraar</title>
       <link>http://localhost:1313/blog/de-skeptische-wereldverbeteraar/</link>
-      <pubDate>Thu, 25 Oct 2007 20:54:18 +0000</pubDate>
+      <pubDate>Thu, 25 Oct 2007 20:54:18 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/de-skeptische-wereldverbeteraar/</guid> 
-      <description>&lt;p&gt;Volgens mij zitten er aardig wat &lt;a href=&#34;http://www.ted.com&#34;&gt;TED&lt;/a&gt;-kijkers onder mijn lezers hier. In de zoektocht om alle presentaties gezien te hebben, raad ik aan om &lt;a href=&#34;http://www.ted.com/index.php/talks/view/id/62&#34;&gt;de presentatie van Bjorn Lomborg&lt;/a&gt; naar voren te schuiven in de rij van te kjiken afleveringen.&lt;/p&gt;
+      <description>&lt;p&gt;Volgens mij zitten er aardig wat &lt;a href=&#34;http://www.ted.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED&lt;/a&gt;
+-kijkers onder mijn lezers hier. In de zoektocht om alle presentaties gezien te hebben, raad ik aan om &lt;a href=&#34;http://www.ted.com/index.php/talks/view/id/62&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de presentatie van Bjorn Lomborg&lt;/a&gt;
+ naar voren te schuiven in de rij van te kjiken afleveringen.&lt;/p&gt;
 &lt;p&gt;Lomborg is bekend van de controverse die hij ontketende met zijn boek The Skeptical Environmentalist ((Ik heb het hier nog liggen, bijna uitgelezen.)). In dat boek gebruikte hij statistische analyse om vrijwel alle standpunten die door de milieubeweging worden aangedragen onderuit te halen. En toen werden zijn analyses weer onderuit gehaald, maar dat is weer een ander verhaal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schilderen</title>
       <link>http://localhost:1313/blog/schilderen/</link>
-      <pubDate>Wed, 24 Oct 2007 20:51:41 +0000</pubDate>
+      <pubDate>Wed, 24 Oct 2007 20:51:41 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/schilderen/</guid> 
       <description>&lt;p&gt;Vandaag het grootste deel van de dag besteed aan verfen in mijn nieuwe huis. Alles is nu gewit inclusief de imposante grote muur waarvan hieronder een filmpje:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/349706/l:embed_349706&#34;&gt;Painting Wall&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user260708/l:embed_349706&#34;&gt;Alper Çugun&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/l:embed_349706&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/349706/l:embed_349706&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Painting Wall&lt;/a&gt;
+ from &lt;a href=&#34;http://vimeo.com/user260708/l:embed_349706&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alper Çugun&lt;/a&gt;
+ on &lt;a href=&#34;http://vimeo.com/l:embed_349706&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Morgen maar eens kijken waar er tweede lagen overheen kunnen en wat we met kleur moeten doen. Dan kan volgende week de vloer gedaan en kan ik erin!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microblogging als manier van communicatie</title>
       <link>http://localhost:1313/blog/microblogging-als-manier-van-communicatie/</link>
-      <pubDate>Wed, 24 Oct 2007 12:34:59 +0000</pubDate>
+      <pubDate>Wed, 24 Oct 2007 12:34:59 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/microblogging-als-manier-van-communicatie/</guid> 
-      <description>&lt;p&gt;Vandaag op Frankwatching een artikel gepubliceerd waar ik al een tijdje aan aan het werk was: &lt;a href=&#34;http://www.frankwatching.com/archive/2007/10/24/microbloggen-als-communicatiemedium/&#34;&gt;Microblogging als communicatiemedium&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hier nog even de tekst integraal voor mijn eigen archief. Maar lezen en reageren doe je bij &lt;a href=&#34;http://www.frankwatching.com&#34;&gt;Frank&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Vandaag op Frankwatching een artikel gepubliceerd waar ik al een tijdje aan aan het werk was: &lt;a href=&#34;http://www.frankwatching.com/archive/2007/10/24/microbloggen-als-communicatiemedium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microblogging als communicatiemedium&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Hier nog even de tekst integraal voor mijn eigen archief. Maar lezen en reageren doe je bij &lt;a href=&#34;http://www.frankwatching.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank&lt;/a&gt;
+.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Bijna iedereen heeft ondertussen wel van &lt;a href=&#34;http://twitter.com&#34;&gt;Twitter&lt;/a&gt; gehoord. Onlangs is Jaiku, een tegenhanger van Twitter, &lt;a href=&#34;http://googleblog.blogspot.com/2007/10/reach-out-and-message-someone.html&#34;&gt;overgenomen door Google&lt;/a&gt;. De manie, de verslaving en de behoefte van mensen om te uiten wat ze aan het doen zijn, zijn uitingen van het fenomeen microblogging waar mobiel en presence bij elkaar komen.&lt;/p&gt;</description>
+&lt;p&gt;Bijna iedereen heeft ondertussen wel van &lt;a href=&#34;http://twitter.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;
+ gehoord. Onlangs is Jaiku, een tegenhanger van Twitter, &lt;a href=&#34;http://googleblog.blogspot.com/2007/10/reach-out-and-message-someone.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;overgenomen door Google&lt;/a&gt;
+. De manie, de verslaving en de behoefte van mensen om te uiten wat ze aan het doen zijn, zijn uitingen van het fenomeen microblogging waar mobiel en presence bij elkaar komen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shockerende beelden</title>
       <link>http://localhost:1313/blog/shockerende-beelden/</link>
-      <pubDate>Tue, 11 Sep 2007 11:27:39 +0000</pubDate>
+      <pubDate>Tue, 11 Sep 2007 11:27:39 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/shockerende-beelden/</guid> 
-      <description>&lt;p&gt;Via &lt;a href=&#34;http://tirania.org/blog/archive/2007/Sep-08.html&#34;&gt;Miguel de Icaza&lt;/a&gt; ((Die niet alleen een goed programmeur, maar ook erg politiek ge-engageerd is.)) een kort filmpje naar een boek van Naomi Klein gemaakt door &lt;a href=&#34;http://www.imdb.com/name/nm0190859/&#34;&gt;Alfonso Cuarón&lt;/a&gt; over de Shock Doctrine. Hij staat op YouTube maar neem geen genoegen met die kwaliteit, op &lt;a href=&#34;http://www.naomiklein.org/shock-doctrine/short-film&#34;&gt;de site van Naomi Klein&lt;/a&gt; staan links naar hoge kwaliteit versies in &lt;a href=&#34;http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.mov&#34;&gt;Quicktime&lt;/a&gt; en &lt;a href=&#34;http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.wmv&#34;&gt;Windows Media&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Via &lt;a href=&#34;http://tirania.org/blog/archive/2007/Sep-08.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel de Icaza&lt;/a&gt;
+ ((Die niet alleen een goed programmeur, maar ook erg politiek ge-engageerd is.)) een kort filmpje naar een boek van Naomi Klein gemaakt door &lt;a href=&#34;http://www.imdb.com/name/nm0190859/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alfonso Cuarón&lt;/a&gt;
+ over de Shock Doctrine. Hij staat op YouTube maar neem geen genoegen met die kwaliteit, op &lt;a href=&#34;http://www.naomiklein.org/shock-doctrine/short-film&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de site van Naomi Klein&lt;/a&gt;
+ staan links naar hoge kwaliteit versies in &lt;a href=&#34;http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.mov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quicktime&lt;/a&gt;
+ en &lt;a href=&#34;http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.wmv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Windows Media&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Downloaden die film (6&#39;45&amp;rsquo;&amp;rsquo;) en kijken. Mooie beelden en visuals, strak gemaakt en met een boodschap die raakt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Extreem matige score</title>
       <link>http://localhost:1313/blog/extreem-matige-score/</link>
-      <pubDate>Sun, 05 Aug 2007 23:20:20 +0000</pubDate>
+      <pubDate>Sun, 05 Aug 2007 23:20:20 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/extreem-matige-score/</guid> 
       <description>&lt;p&gt;Maar wel voldoende:
-&lt;a href=&#34;http://www.filmcritic.com/movie-quiz/index.html&#34;&gt;&lt;strong&gt;61%&lt;/strong&gt; The Movie Quiz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;FilmCritic.com - &lt;a href=&#34;http://www.filmcritic.com&#34;&gt;Movie Reviews&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;http://www.filmcritic.com/movie-quiz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;61%&lt;/strong&gt; The Movie Quiz&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;FilmCritic.com - &lt;a href=&#34;http://www.filmcritic.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movie Reviews&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marktfalen in de telecom</title>
       <link>http://localhost:1313/blog/marktfalen-in-de-telecom/</link>
-      <pubDate>Wed, 01 Aug 2007 14:33:26 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2007 14:33:26 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/marktfalen-in-de-telecom/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.parool.nl/nieuws/2007/AUG/01/eco2.html&#34;&gt;Berichtje in de Parool&lt;/a&gt; van iets wat natuurlijk al veel langer bekend is. Als je dataverkeer verbruikt in het buitenland dan betaal je je compleet scheel aan roaming mobiele data rates. En je hoeft er &lt;a href=&#34;http://www.marketingfacts.nl/berichten/20070215_vodafone_hsdpa_niet_doen/&#34;&gt;niet eens voor&lt;/a&gt; naar het buitenland ((Dat bericht over Vodafone leidde toen geloof ik nog tot een aardig staaltje belangenverstrengeling.)).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.parool.nl/nieuws/2007/AUG/01/eco2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berichtje in de Parool&lt;/a&gt;
+ van iets wat natuurlijk al veel langer bekend is. Als je dataverkeer verbruikt in het buitenland dan betaal je je compleet scheel aan roaming mobiele data rates. En je hoeft er &lt;a href=&#34;http://www.marketingfacts.nl/berichten/20070215_vodafone_hsdpa_niet_doen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;niet eens voor&lt;/a&gt;
+ naar het buitenland ((Dat bericht over Vodafone leidde toen geloof ik nog tot een aardig staaltje belangenverstrengeling.)).&lt;/p&gt;
 &lt;p&gt;Dit is een duidelijk geval van marktfalen, maar wat te doen? Een maximumprijs instellen op deze diensten werkt niet, omdat er dan wordt onder-geïnvesteerd zoals op de energiemarkt van Californië. Nutsificeren zou tof zijn maar de animo daarvoor ((De animo voor betrouwbare en goedkope diensten.)) is ontzettend laag.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Een echte vent wordt geen agent</title>
       <link>http://localhost:1313/blog/een-echte-vent-wordt-geen-agent/</link>
-      <pubDate>Sat, 14 Jul 2007 14:51:49 +0000</pubDate>
+      <pubDate>Sat, 14 Jul 2007 14:51:49 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/een-echte-vent-wordt-geen-agent/</guid> 
       <description>&lt;p&gt;De politie gebruikt bij inperkingen van de privacy altijd het argument ‘Als u niets te verbergen heeft, heeft u ook niets te vrezen.’&lt;/p&gt;
-&lt;p&gt;Volgens diezelfde logika laat &lt;a href=&#34;http://www.geenstijl.tv/2007/07/pliesie_dreigt_rutger_met_geva.html&#34;&gt;dit filmpje&lt;/a&gt; op Geen Stijl ((Één van de weinige keren dat Geen Stijl iets goeds doet.)) zien dat de politie zelf blijkbaar heel veel te verbergen heeft.&lt;/p&gt;</description>
+&lt;p&gt;Volgens diezelfde logika laat &lt;a href=&#34;http://www.geenstijl.tv/2007/07/pliesie_dreigt_rutger_met_geva.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dit filmpje&lt;/a&gt;
+ op Geen Stijl ((Één van de weinige keren dat Geen Stijl iets goeds doet.)) zien dat de politie zelf blijkbaar heel veel te verbergen heeft.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plannen van de zomer</title>
       <link>http://localhost:1313/blog/plannen-van-de-zomer/</link>
-      <pubDate>Thu, 05 Jul 2007 14:38:22 +0000</pubDate>
+      <pubDate>Thu, 05 Jul 2007 14:38:22 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/plannen-van-de-zomer/</guid> 
       <description>&lt;p&gt;Ik moest afgelopen week studeren voor mijn laatste tentamen deze woensdag ((in4012 Real Time AI and Speech Recognition wat ik gruwelijk hard heb ingekopt.)) dus toen ging ik als vanzelf andere dingen doen.&lt;/p&gt;
 &lt;p&gt;Plannen maken voor van de zomer is bijvoorbeeld een leuk tijdverdrijf, bijvoorbeeld alle dingen die ik wil doen op een rijtje. zetten en zien waar er gaten vallen om veel te werken of op vakantie te gaan. Toen een beetje gezocht op low-cost airlines om te zien wat er mogelijk is in die gaten.&lt;/p&gt;</description>
@@ -244,24 +410,27 @@
     <item>
       <title>Digibewust maar beter voor de leverancier dan de afnemer</title>
       <link>http://localhost:1313/blog/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/</link>
-      <pubDate>Tue, 03 Jul 2007 20:39:02 +0000</pubDate>
+      <pubDate>Tue, 03 Jul 2007 20:39:02 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/digibewust-maar-beter-voor-de-leverancier-dan-de-afnemer/</guid> 
-      <description>&lt;p&gt;Ik zag net op het nieuws (!) een reclame voor de campagne &lt;a href=&#34;http://www.digibewust.nl/&#34;&gt;Digibewust&lt;/a&gt; van de overheid. Toen heb ik voor de grap de test &lt;a href=&#34;http://www.digibarometer.nl/&#34;&gt;Digibarometer&lt;/a&gt; maar ingevuld.&lt;/p&gt;
+      <description>&lt;p&gt;Ik zag net op het nieuws (!) een reclame voor de campagne &lt;a href=&#34;http://www.digibewust.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digibewust&lt;/a&gt;
+ van de overheid. Toen heb ik voor de grap de test &lt;a href=&#34;http://www.digibarometer.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digibarometer&lt;/a&gt;
+ maar ingevuld.&lt;/p&gt;
 &lt;p&gt;De test staat boordevol domme en buitengewoon gekleurde vragen waaraan afgemeten wordt hoe braaf je wel niet bent geweest. Met als klap op de vuurpijl “Gebruikt u bedrijf software zonder licentie ((Elk bedrijf gebruikt wel software zonder licentie. Het gaat erom of illegale software geen gemeengoed is en er degelijk beleid omtrent wordt gevoerd.)) en slaan medewerkers auteursrechtelijk beschermde informatie (muziek e.d.) op op bedrijfs-pc&amp;rsquo;s ((Ja, natuurlijk als je op je werk muziek wilt luisteren. Het mag vast niet maar als je een CD gekocht hebt, is hij van jou.)).”
 Verder is de acteur die de test afneemt ontzettend irritant, kneuterig en eigenlijk precies hoe ik me de gemiddelde Nederlandse ICT-adviseur voorstel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A bag fitting for your life</title>
       <link>http://localhost:1313/blog/a-bag-fitting-for-your-life/</link>
-      <pubDate>Wed, 27 Jun 2007 20:25:30 +0000</pubDate>
+      <pubDate>Wed, 27 Jun 2007 20:25:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/a-bag-fitting-for-your-life/</guid> 
       <description>&lt;p&gt;Treffende one liners, spectaculaire actie en wat gebeurt er toch rond tijdsindex 0:24?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.eelkedekker.nl/?p=510&#34;&gt;Eelke studeert af&lt;/a&gt; en het belooft een spetterend half uur te worden. Het gaat komende vrijdag 13.45 &lt;em&gt;down&lt;/em&gt; in de van Grintenzaal op de faculteit IO.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://blog.eelkedekker.nl/?p=510&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eelke studeert af&lt;/a&gt;
+ en het belooft een spetterend half uur te worden. Het gaat komende vrijdag 13.45 &lt;em&gt;down&lt;/em&gt; in de van Grintenzaal op de faculteit IO.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Actievoerders zijn niet de intelligentste mensen</title>
       <link>http://localhost:1313/blog/actievoerder-zijn-niet-de-intelligentste-mensen/</link>
-      <pubDate>Sun, 24 Jun 2007 21:43:06 +0000</pubDate>
+      <pubDate>Sun, 24 Jun 2007 21:43:06 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/actievoerder-zijn-niet-de-intelligentste-mensen/</guid> 
       <description>&lt;p&gt;Je kunt praten wat je wilt over het gebrek aan engagement in de samenleving en dat niemand meer bereid is tot actie maar misschien is dat wel een goed teken.&lt;/p&gt;
 &lt;p&gt;Je moet wel heel veel tijd en heel weinig intelligentie hebben om alles wat je hebt te laten vallen, ergens heen te gaan met een grote groep andere mensen en je te scharen achter een gepolariseerd standpunt en ongenuanceerde slogans.&lt;/p&gt;</description>
@@ -269,21 +438,32 @@ Verder is de acteur die de test afneemt ontzettend irritant, kneuterig en eigenl
     <item>
       <title>Nieuwe batterij</title>
       <link>http://localhost:1313/blog/nieuwe-batterij/</link>
-      <pubDate>Sat, 19 May 2007 20:44:18 +0000</pubDate>
+      <pubDate>Sat, 19 May 2007 20:44:18 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/nieuwe-batterij/</guid> 
-      <description>&lt;p&gt;Vandaag terug uit Amsterdam langs Den Haag geweest om mijn nieuwe batterij op te halen die klaar lag bij &lt;a href=&#34;http://www.ljs.nl&#34;&gt;LJS&lt;/a&gt;. Een week later dan beloofd, maar weinig stress.&lt;/p&gt;
+      <description>&lt;p&gt;Vandaag terug uit Amsterdam langs Den Haag geweest om mijn nieuwe batterij op te halen die klaar lag bij &lt;a href=&#34;http://www.ljs.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LJS&lt;/a&gt;
+. Een week later dan beloofd, maar weinig stress.&lt;/p&gt;
 &lt;p&gt;Ik ben nu bijna klaar met de eerste laad/laat leeglopen/laad weer op cyclus. Kijken hoe deze batterij het morgen in het park doet. Zes uur hoeft van mij niet, maar alles langer dan twee-en-een-half uur zou mooi meegenomen zijn.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Niet zo tof:&lt;/strong&gt; Hij valt nog steeds uit als de batterij leeg is. Dus toch de heatsink weer vervangen ofzo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Macbook ondersteuning in Den Haag</title>
       <link>http://localhost:1313/blog/macbook-ondersteuning-in-den-haag/</link>
-      <pubDate>Sat, 28 Apr 2007 14:08:52 +0000</pubDate>
+      <pubDate>Sat, 28 Apr 2007 14:08:52 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/macbook-ondersteuning-in-den-haag/</guid> 
-      <description>&lt;p&gt;Ik heb net mijn Macbook in Den Haag laten inboeken vanwege een smerige topcase ((Hij was al vervangen, maar de nieuwe nog sneller smerig.)) en &lt;a href=&#34;http://localhost:1313/dingen/2007/04/batterij-macook-rap-leeg/&#34;&gt;een batterij die het niet goed doet&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;De gast achter de balie bij &lt;a href=&#34;http://www.ljs.nl&#34;&gt;LJS&lt;/a&gt; noteerde mijn klachten en wilde toen meteen mijn Macbook inboeken voor een week om de problemen met de batterij te onderzoeken. Dat ging dus mooi niet door.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://images.apple.com/macbook/gallery/images/macbook1white20061108.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Apple adverteert hun computers als lifestyle computers en zo gebruik ik ze ook. Als ik een week zonder Macbook zit, dan kan ik weinig (nuttigs) doen. De afspraak is nu om het onderzoek plaats te laten vinden tegelijkertijd met de vervanging van de topcase wat alles bij elkaar hoogstens een dag duurt. Een dag waarop ik best in het park &lt;a href=&#34;http://www.cs.colorado.edu/~martin/slp.html&#34;&gt;een boek&lt;/a&gt; kan liggen lezen.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ik heb net mijn Macbook in Den Haag laten inboeken vanwege een smerige topcase ((Hij was al vervangen, maar de nieuwe nog sneller smerig.)) en &lt;a href=&#34;http://localhost:1313/dingen/2007/04/batterij-macook-rap-leeg/&#34;&gt;een batterij die het niet goed doet&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;De gast achter de balie bij &lt;a href=&#34;http://www.ljs.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LJS&lt;/a&gt;
+ noteerde mijn klachten en wilde toen meteen mijn Macbook inboeken voor een week om de problemen met de batterij te onderzoeken. Dat ging dus mooi niet door.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://images.apple.com/macbook/gallery/images/macbook1white20061108.jpg&#34;
+      alt=&#34;&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Apple adverteert hun computers als lifestyle computers en zo gebruik ik ze ook. Als ik een week zonder Macbook zit, dan kan ik weinig (nuttigs) doen. De afspraak is nu om het onderzoek plaats te laten vinden tegelijkertijd met de vervanging van de topcase wat alles bij elkaar hoogstens een dag duurt. Een dag waarop ik best in het park &lt;a href=&#34;http://www.cs.colorado.edu/~martin/slp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;een boek&lt;/a&gt;
+ kan liggen lezen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

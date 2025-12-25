@@ -6,40 +6,46 @@
     <description>Recent content in Barcelona on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Wed, 09 Aug 2023 10:11:51 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/barcelona/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/blog/17251/</link>
-      <pubDate>Wed, 09 Aug 2023 10:11:51 +0000</pubDate>
+      <pubDate>Wed, 09 Aug 2023 10:11:51 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">https://alper.nl/dingen/?p=17251</guid> 
       <description>&lt;p&gt;A comparison of the sustainability of different kinds of bikes and how progress in cycling has often come at the price of sustainability. Still however you spin it, electric cycling is much more efficient and sustainable than driving.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again&#34;&gt;https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/15466/</link>
-      <pubDate>Mon, 27 May 2019 22:07:41 +0000</pubDate>
+      <pubDate>Mon, 27 May 2019 22:07:41 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15466</guid> 
       <description>&lt;p&gt;Cities like Barcelona are starting to fight back against AirBnB and tourism.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.newyorker.com/magazine/2019/04/29/the-airbnb-invasion-of-barcelona&#34;&gt;https://www.newyorker.com/magazine/2019/04/29/the-airbnb-invasion-of-barcelona&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newyorker.com/magazine/2019/04/29/the-airbnb-invasion-of-barcelona&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newyorker.com/magazine/2019/04/29/the-airbnb-invasion-of-barcelona&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;I recently refused to help some local tourists to call the bike share hotline in German. We were legitimately in a hurry but my flat out refusal was not appreciated. Next time I&amp;rsquo;ll tell them I won&amp;rsquo;t be helping them because I do not support tourism.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/15321/</link>
-      <pubDate>Mon, 15 Apr 2019 21:50:39 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 21:50:39 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15321</guid> 
       <description>&lt;p&gt;Barcelona is implementing a traffic transition we here in Berlin can only dream of.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.vox.com/energy-and-environment/2019/4/11/18273896/barcelona-spain-politics-superblocks&#34;&gt;https://www.vox.com/energy-and-environment/2019/4/11/18273896/barcelona-spain-politics-superblocks&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.vox.com/energy-and-environment/2019/4/11/18273896/barcelona-spain-politics-superblocks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.vox.com/energy-and-environment/2019/4/11/18273896/barcelona-spain-politics-superblocks&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/15266/</link>
-      <pubDate>Mon, 18 Mar 2019 20:42:29 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2019 20:42:29 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15266</guid> 
       <description>&lt;p&gt;Confiscatory fines for people who abuse the housing market like here in Barcelona are the way to go.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.citylab.com/equity/2019/03/barcelona-affordable-housing-spain-apartment-rental-fines/584902/&#34;&gt;https://www.citylab.com/equity/2019/03/barcelona-affordable-housing-spain-apartment-rental-fines/584902/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.citylab.com/equity/2019/03/barcelona-affordable-housing-spain-apartment-rental-fines/584902/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.citylab.com/equity/2019/03/barcelona-affordable-housing-spain-apartment-rental-fines/584902/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

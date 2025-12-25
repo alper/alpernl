@@ -6,22 +6,29 @@
     <description>Recent content in Radio on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Wed, 04 Jan 2012 16:32:35 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/radio/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eindelijk Radio 1 luisteren op de Mac</title>
       <link>http://localhost:1313/blog/eindelijk-radio-1-luisteren-op-de-mac/</link>
-      <pubDate>Wed, 04 Jan 2012 16:32:35 +0000</pubDate>
+      <pubDate>Wed, 04 Jan 2012 16:32:35 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/eindelijk-radio-1-luisteren-op-de-mac/</guid> 
-      <description>&lt;p&gt;Ik heb hier &lt;a href=&#34;http://localhost:1313/blog/alper/623&#34;&gt;wel&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/blog/alper/637&#34;&gt;vaker&lt;/a&gt; geschreven over de beroerde webstreams beschikbaar voor &lt;a href=&#34;http://www.radio1.nl&#34;&gt;Radio 1&lt;/a&gt; bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.&lt;/p&gt;
-&lt;p&gt;Reden tot blijdschap dus, maar nog steeds vreemd waarom ze niet gewoon één MP3-stream (( &lt;a href=&#34;http://en.wikipedia.org/wiki/Shoutcast&#34;&gt;SHOUTcast&lt;/a&gt; ofzo ook al heb ik geen idee hoe dat schaalt.)) hebben opgezet die volgens mij door alle drie die players ((En eigenlijk door bijna elke fatsoenlijke MP3-speler.)) probleemloos kan worden afgespeeld.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ik heb hier &lt;a href=&#34;http://localhost:1313/blog/alper/623&#34;&gt;wel&lt;/a&gt;
+ &lt;a href=&#34;http://localhost:1313/blog/alper/637&#34;&gt;vaker&lt;/a&gt;
+ geschreven over de beroerde webstreams beschikbaar voor &lt;a href=&#34;http://www.radio1.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio 1&lt;/a&gt;
+ bij de omroep. Daar is nu verandering in gekomen en het is nu af te spelen in Windows Media, Quicktime of Real.&lt;/p&gt;
+&lt;p&gt;Reden tot blijdschap dus, maar nog steeds vreemd waarom ze niet gewoon één MP3-stream (( &lt;a href=&#34;http://en.wikipedia.org/wiki/Shoutcast&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SHOUTcast&lt;/a&gt;
+ ofzo ook al heb ik geen idee hoe dat schaalt.)) hebben opgezet die volgens mij door alle drie die players ((En eigenlijk door bijna elke fatsoenlijke MP3-speler.)) probleemloos kan worden afgespeeld.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Radionood</title>
       <link>http://localhost:1313/blog/radionood/</link>
-      <pubDate>Thu, 14 Feb 2008 13:02:58 +0000</pubDate>
+      <pubDate>Thu, 14 Feb 2008 13:02:58 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/02/radionood/</guid> 
-      <description>&lt;p&gt;Mail naar &lt;a href=&#34;http://www.stubru.be/&#34;&gt;Studio Brussel&lt;/a&gt;:&lt;/p&gt;
+      <description>&lt;p&gt;Mail naar &lt;a href=&#34;http://www.stubru.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studio Brussel&lt;/a&gt;
+:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hoi!&lt;/p&gt;
 &lt;p&gt;Ik ben een Hollander die met veel plezier StuBru luistert (Nederlandse radio -op Giel Beelen na- is echt bagger). De laatste tijd hapert de stream in mijn iTunes alleen regelmatig. Dat is kritiek, zonder Studio Brussel zou mijn werkdag hele andere vormen aannemen.
@@ -33,19 +40,24 @@ Alper&lt;/p&gt;
     <item>
       <title>Lon Gisland</title>
       <link>http://localhost:1313/blog/lon-gisland/</link>
-      <pubDate>Sun, 20 Jan 2008 15:38:50 +0000</pubDate>
+      <pubDate>Sun, 20 Jan 2008 15:38:50 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/lon-gisland/</guid> 
-      <description>&lt;p&gt;Volgens mij had ik op dit blog nog niet gezegd hoe goed ik het orkestar &lt;a href=&#34;http://en.wikipedia.org/wiki/Beirut_%28band%29&#34;&gt;Beirut&lt;/a&gt; vind.&lt;/p&gt;
-&lt;p&gt;Kijk hun tracks live op YouTube of bekijk alle filmpjes van hun &lt;a href=&#34;http://flyingclubcup.com/spip.php?rubrique1&#34;&gt;DVD “The Flying Club Cup”&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;De Nederlandse radio wil ze geloof ik niet echt draaien maar dat ben ik ondertussen gewend: &lt;a href=&#34;http://www.stubru.be&#34;&gt;StuBru&lt;/a&gt; FTW.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Volgens mij had ik op dit blog nog niet gezegd hoe goed ik het orkestar &lt;a href=&#34;http://en.wikipedia.org/wiki/Beirut_%28band%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beirut&lt;/a&gt;
+ vind.&lt;/p&gt;
+&lt;p&gt;Kijk hun tracks live op YouTube of bekijk alle filmpjes van hun &lt;a href=&#34;http://flyingclubcup.com/spip.php?rubrique1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DVD “The Flying Club Cup”&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;De Nederlandse radio wil ze geloof ik niet echt draaien maar dat ben ik ondertussen gewend: &lt;a href=&#34;http://www.stubru.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StuBru&lt;/a&gt;
+ FTW.&lt;/p&gt;</description>
     </item>
     <item>
       <title>De radio, achterhaald al voor het de ether in geslingerd wordt</title>
       <link>http://localhost:1313/blog/de-radio-achterhaald-al-voor-het-de-ether-in-geslingerd-wordt/</link>
-      <pubDate>Tue, 24 Apr 2007 09:01:14 +0000</pubDate>
+      <pubDate>Tue, 24 Apr 2007 09:01:14 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/de-radio-achterhaald-al-voor-het-de-ether-in-geslingerd-wordt/</guid> 
-      <description>&lt;p&gt;Het viel me al een tijdje op maar nu net op Radio 3 ((Ze willen zelf liever &lt;a href=&#34;http://www.3fm.nl/&#34;&gt;3FM&lt;/a&gt; genoemd worden.)) wordt het redelijk acuut. Vanochtend de megahit aangehoord: &lt;strong&gt;The Fray - How to save a life&lt;/strong&gt; en nu net &lt;strong&gt;Nicole Willis and the Soul Investigators&lt;/strong&gt;. Leuke spul maar royaal te laat en nu ze het hebben ontdekt gaan ze het natuurlijk helemaal stuk draaien.&lt;/p&gt;
-&lt;p&gt;Ik zet &lt;a href=&#34;http://www.stubru.be/&#34;&gt;Studio Brussel&lt;/a&gt; wel weer op.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Het viel me al een tijdje op maar nu net op Radio 3 ((Ze willen zelf liever &lt;a href=&#34;http://www.3fm.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3FM&lt;/a&gt;
+ genoemd worden.)) wordt het redelijk acuut. Vanochtend de megahit aangehoord: &lt;strong&gt;The Fray - How to save a life&lt;/strong&gt; en nu net &lt;strong&gt;Nicole Willis and the Soul Investigators&lt;/strong&gt;. Leuke spul maar royaal te laat en nu ze het hebben ontdekt gaan ze het natuurlijk helemaal stuk draaien.&lt;/p&gt;
+&lt;p&gt;Ik zet &lt;a href=&#34;http://www.stubru.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studio Brussel&lt;/a&gt;
+ wel weer op.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

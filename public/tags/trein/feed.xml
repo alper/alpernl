@@ -6,12 +6,14 @@
     <description>Recent content in Trein on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Mon, 24 Dec 2007 14:08:30 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/trein/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open reisinformatie voor de mensen</title>
       <link>http://localhost:1313/blog/open-reisinformatie-voor-de-mensen/</link>
-      <pubDate>Mon, 24 Dec 2007 14:08:30 +0000</pubDate>
+      <pubDate>Mon, 24 Dec 2007 14:08:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/open-reisinformatie-voor-de-mensen/</guid> 
       <description>&lt;p&gt;Ik zit al een tijdje na te denken over reisinformatie en het zou erg fijn zijn als die informatie makkelijk publiek beschikbaar zou zijn. Het is in het huidige klimaat kansloos en dat maakt het zo jammer want je zou er ontzettend veel handige dingen mee kunnen doen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Idee 1:&lt;/strong&gt; Een widget op je bureaublad met daarin altijd de volgende trein/bus/tram naar drie locaties waar je vaak heengaat. Een soort snelkoppelingen maar dan beter.
@@ -20,25 +22,36 @@ Het is een redelijk triviale applicatie, maar eentje die voor veel mensen nuttig
     <item>
       <title>Rotterdam vroeg</title>
       <link>http://localhost:1313/blog/rotterdam-vroeg/</link>
-      <pubDate>Mon, 17 Dec 2007 06:56:08 +0000</pubDate>
+      <pubDate>Mon, 17 Dec 2007 06:56:08 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/rotterdam-vroeg/</guid> 
       <description>&lt;p&gt;En zo stond ik zondagochtend op een bizar vroeg tijdstip op Rotterdam Centraal:
-&lt;a href=&#34;http://www.flickr.com/photos/alper/2116272258/&#34; title=&#34;Rotterdam Centraal by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Rotterdam Centraal&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2398/2116272258_3465a09b57.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;http://www.flickr.com/photos/alper/2116272258/&#34; title=&#34;Rotterdam Centraal by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm3.static.flickr.com/2398/2116272258_3465a09b57.jpg&#34;
+      alt=&#34;Rotterdam Centraal&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Utrecht heen en weer</title>
       <link>http://localhost:1313/blog/utrecht-heen-en-weer/</link>
-      <pubDate>Mon, 03 Dec 2007 02:59:51 +0000</pubDate>
+      <pubDate>Mon, 03 Dec 2007 02:59:51 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/utrecht-heen-en-weer/</guid> 
-      <description>&lt;p&gt;Vandaag even naar Utrecht geweest voor het &lt;a href=&#34;http://www.marketing3.nl&#34;&gt;Marketing3&lt;/a&gt; congres.&lt;/p&gt;
+      <description>&lt;p&gt;Vandaag even naar Utrecht geweest voor het &lt;a href=&#34;http://www.marketing3.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marketing3&lt;/a&gt;
+ congres.&lt;/p&gt;
 &lt;p&gt;Wat observaties:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ik mag dan naast &lt;a href=&#34;http://www.yelloyello.com/nl/delft/de-diamanten-ring-brood-banketbakkerij/bXsdWIhDOrSPSLadbiDtP6&#34;&gt;de beste bakker van Delft&lt;/a&gt; wonen; ik kan er &amp;rsquo;s ochtends om 07:50 geen croissants halen ((Volgens mij kan dat ongeveer nergens in Delft.)). Ik dacht dat bakkers vroeg opstonden enzo.&lt;/li&gt;
+&lt;li&gt;Ik mag dan naast &lt;a href=&#34;http://www.yelloyello.com/nl/delft/de-diamanten-ring-brood-banketbakkerij/bXsdWIhDOrSPSLadbiDtP6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de beste bakker van Delft&lt;/a&gt;
+ wonen; ik kan er &amp;rsquo;s ochtends om 07:50 geen croissants halen ((Volgens mij kan dat ongeveer nergens in Delft.)). Ik dacht dat bakkers vroeg opstonden enzo.&lt;/li&gt;
 &lt;li&gt;NS-automaten bedienen is geen goed idee, slaapdronken al helemaal niet. Ik kwam er direct nadat ik een kaartje met korting gekocht had achter dat ik het niet kon gebruiken.
 Ik gok dat 90% van de mensen die bij een automaat een kaartje koopt het koopt met het doel om het binnen een kwartier te gebruiken. Een flitsende waarschuwing dat je voor 09:00 niet met het gekozen kaartje mag reizen zou niet weg zijn.&lt;/li&gt;
 &lt;li&gt;Zo&amp;rsquo;n kaartje met korting kan dan geruild worden aan de balie (die wél open is) maar dan moet je je naam en adres opgeven en iets tekenen. Wat de NS met die gegevens doet, weet ik niet en kon me op dat moment erg weinig schelen.&lt;/li&gt;
 &lt;li&gt;Over die automaten gesproken ((De huidige interfaces zijn natuurlijk &lt;em&gt;end-of-life&lt;/em&gt; omdat de OV-chipkaart als die eindelijk komt alle problemen gaat oplossen (of ons zo ver terug het stenen tijdperk in slingert dat we blij zouden zijn met de huidige problemen).)), waarom leveren die dingen geen reisinformatie voor het traject dat je koopt? Ofwel live op het scherm, ofwel geprint op je kaartje.&lt;/li&gt;
-&lt;li&gt;Zowel de treinrit Den Haag CS — Utrecht als de treinrit Utrecht — Rotterdam zijn lang genoeg ((Dankzij microvertragingen.)) om een aflevering van &lt;a href=&#34;http://www.fox.com/house/&#34;&gt;House M.D.&lt;/a&gt; in te kijken.&lt;/li&gt;
+&lt;li&gt;Zowel de treinrit Den Haag CS — Utrecht als de treinrit Utrecht — Rotterdam zijn lang genoeg ((Dankzij microvertragingen.)) om een aflevering van &lt;a href=&#34;http://www.fox.com/house/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;House M.D.&lt;/a&gt;
+ in te kijken.&lt;/li&gt;
 &lt;li&gt;In de file staan schijnt niet leuk te zijn, maar hebben de mensen die daarover klagen weleens de trein genomen in de spits? Juist.&lt;/li&gt;
 &lt;li&gt;Het congres was gemengd maar interessant. Het ging over wat marketingmensen moeten doen in deze turbulente tijden. Goed dat deze professie zich ook bewust wordt van het bestaan van het internet.&lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -46,10 +59,13 @@ Ik gok dat 90% van de mensen die bij een automaat een kaartje koopt het koopt me
     <item>
       <title>NS Internationaal</title>
       <link>http://localhost:1313/blog/ns-internationaal/</link>
-      <pubDate>Mon, 08 Oct 2007 04:33:05 +0000</pubDate>
+      <pubDate>Mon, 08 Oct 2007 04:33:05 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/ns-internationaal/</guid> 
-      <description>&lt;p&gt;Ik ga eind deze maand naar Berlijn om &lt;a href=&#34;http://www.eelkedekker.nl/&#34;&gt;Eelke&lt;/a&gt; te bezoeken en acte de présence te geven op de &lt;a href=&#34;http://www.web2expo.com/&#34;&gt;Web 2.0 Expo&lt;/a&gt; en Barcamp Berlin. Nu dacht ik dat het wel leuk zou zijn om met de trein te gaan. Ik heb pas ook een Railplus Kaart bij mijn kortingskaart gekocht. Daar zou ik iets aan moeten hebben.&lt;/p&gt;
-&lt;p&gt;Voor Berlijn staan overal advertenties van de NS dat retourkaartjes €58 kosten. Als je op de site zo&amp;rsquo;n kaartje probeert te boeken, lijkt het erop dat ze beschikbaar zijn. Ga je alleen een stap verder dan krijg je &lt;a href=&#34;http://www.flickr.com/photos/alper/1479158734/&#34;&gt;een ontzettend vage foutmelding&lt;/a&gt;. Het lijkt erop dat alle kaartjes van €29 via de site niet te boeken te zijn.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ik ga eind deze maand naar Berlijn om &lt;a href=&#34;http://www.eelkedekker.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eelke&lt;/a&gt;
+ te bezoeken en acte de présence te geven op de &lt;a href=&#34;http://www.web2expo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web 2.0 Expo&lt;/a&gt;
+ en Barcamp Berlin. Nu dacht ik dat het wel leuk zou zijn om met de trein te gaan. Ik heb pas ook een Railplus Kaart bij mijn kortingskaart gekocht. Daar zou ik iets aan moeten hebben.&lt;/p&gt;
+&lt;p&gt;Voor Berlijn staan overal advertenties van de NS dat retourkaartjes €58 kosten. Als je op de site zo&amp;rsquo;n kaartje probeert te boeken, lijkt het erop dat ze beschikbaar zijn. Ga je alleen een stap verder dan krijg je &lt;a href=&#34;http://www.flickr.com/photos/alper/1479158734/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;een ontzettend vage foutmelding&lt;/a&gt;
+. Het lijkt erop dat alle kaartjes van €29 via de site niet te boeken te zijn.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

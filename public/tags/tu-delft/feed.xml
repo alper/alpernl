@@ -6,21 +6,31 @@
     <description>Recent content in Tu-Delft on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sun, 30 Sep 2007 03:27:04 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tu-delft/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buluitreiking</title>
       <link>http://localhost:1313/blog/buluitreiking/</link>
-      <pubDate>Sun, 30 Sep 2007 03:27:04 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2007 03:27:04 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/buluitreiking/</guid> 
       <description>&lt;p&gt;Gisteren had ik mijn buluitreiking. Geen spannende event, wel mooi voor de familie. Ik dus tot een uur of drie gewerkt, toen snel mijn pak aangetrokken.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/1459110420/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Stern&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1206/1459110420_640afef764.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/1459110420/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1206/1459110420_640afef764.jpg&#34;
+      alt=&#34;Stern&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;En naar de uitreiking gefietst. De zaal was uiteraard veel te klein ((Ik snap niet dat dit soort dingen niet in de Aula gebeurt.)) en mijn familie zat vast in de file uit Amsterdam. Voor de rest &lt;em&gt;good times&lt;/em&gt;. Deelnemen aan de cerenomie geeft je ook ongeveer de beste plek om foto&amp;rsquo;s te schieten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diploma bijna in het bakkie</title>
       <link>http://localhost:1313/blog/diploma-bijna-in-het-bakkie/</link>
-      <pubDate>Mon, 17 Sep 2007 11:29:47 +0000</pubDate>
+      <pubDate>Mon, 17 Sep 2007 11:29:47 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/diploma-bijna-in-het-bakkie/</guid> 
       <description>&lt;p&gt;Ik was net voor de één na laatste keer op de TU om bij de administratie te controleren of alles nu in orde was. Naar blijkt was dat het.&lt;/p&gt;
 &lt;p&gt;Er staat me niks meer in de weg om mijn diploma op te halen. 28 september om 16:00 ergens op de faculteit EWI krijg ik ((En Oliver en Melle ook.)) mijn bul en mag ik me echt M.Sc. noemen.&lt;/p&gt;
@@ -29,52 +39,117 @@
     <item>
       <title>Veranderingen ook in de e-mail</title>
       <link>http://localhost:1313/blog/veranderingen-ook-in-de-e-mail/</link>
-      <pubDate>Tue, 11 Sep 2007 13:36:40 +0000</pubDate>
+      <pubDate>Tue, 11 Sep 2007 13:36:40 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/09/veranderingen-ook-in-de-e-mail/</guid> 
-      <description>&lt;p&gt;Ik heb geen idee wanneer maar het lijkt me niet meer dan logisch dat mijn TU Delft e-mailadres binnenkort ophoudt met werken. Dus voor de duidelijkheid nooit meer dingen sturen naar &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@student.tudelft.nl&#34;&gt;a.cugun@student.tudelft.nl&lt;/a&gt;&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@student.twi.tudelft.nl&#34;&gt;a.cugun@student.twi.tudelft.nl&lt;/a&gt;&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@ewi.tudelft.nl&#34;&gt;a.cugun@ewi.tudelft.nl&lt;/a&gt;&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@elektron.its.tudelft.nl&#34;&gt;a.cugun@elektron.its.tudelft.nl&lt;/a&gt;&lt;/strong&gt; en noem nog maar een boel aliassen voor hetzelfde adres op.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb geen idee wanneer maar het lijkt me niet meer dan logisch dat mijn TU Delft e-mailadres binnenkort ophoudt met werken. Dus voor de duidelijkheid nooit meer dingen sturen naar &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@student.tudelft.nl&#34;&gt;a.cugun@student.tudelft.nl&lt;/a&gt;
+&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@student.twi.tudelft.nl&#34;&gt;a.cugun@student.twi.tudelft.nl&lt;/a&gt;
+&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@ewi.tudelft.nl&#34;&gt;a.cugun@ewi.tudelft.nl&lt;/a&gt;
+&lt;/strong&gt; of &lt;strong&gt;&lt;a href=&#34;mailto:a.cugun@elektron.its.tudelft.nl&#34;&gt;a.cugun@elektron.its.tudelft.nl&lt;/a&gt;
+&lt;/strong&gt; en noem nog maar een boel aliassen voor hetzelfde adres op.&lt;/p&gt;
 &lt;p&gt;Nu nog even de forward uitzetten en kijken of er nuttige e-mail op binnenkomt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eindelijk dan voorbij?</title>
       <link>http://localhost:1313/blog/eindelijk-dan-voorbij/</link>
-      <pubDate>Wed, 18 Jul 2007 22:03:31 +0000</pubDate>
+      <pubDate>Wed, 18 Jul 2007 22:03:31 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/eindelijk-dan-voorbij/</guid> 
-      <description>&lt;p&gt;Maandag al een poging gewaagd om mijn allerlaatste practicum af te laten tekenen en er toen niet in geslaagd. Met mijn uitgestelde afstuderen heb ik wat vrienden de kans gegeven om toch nog eerder dan ik af te studeren. Daarnaast heb ik voor mezelf wat tijd uitgespaard om op adem te komen, te surfen en &lt;a href=&#34;http://www.flickr.com/photos/alper/843852209/&#34;&gt;de andere dingen&lt;/a&gt; te doen die gedaan moeten.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/840629880/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Another surfin&amp;rsquo; trip&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1370/840629880_e208ee5f45.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Maandag al een poging gewaagd om mijn allerlaatste practicum af te laten tekenen en er toen niet in geslaagd. Met mijn uitgestelde afstuderen heb ik wat vrienden de kans gegeven om toch nog eerder dan ik af te studeren. Daarnaast heb ik voor mezelf wat tijd uitgespaard om op adem te komen, te surfen en &lt;a href=&#34;http://www.flickr.com/photos/alper/843852209/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de andere dingen&lt;/a&gt;
+ te doen die gedaan moeten.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/840629880/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1370/840629880_e208ee5f45.jpg&#34;
+      alt=&#34;Another surfin&amp;rsquo; trip&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;Het practicum schoot maandag niet op en niet een klein beetje niet op maar het zat echt muurvast. Na nog een poging vandaag hebben we de handdoek maar in de ring gegooid en het toch afgetekend. Storend dat je na zoveel werk, zo dichtbij het antwoord blijft steken, maar op dit moment kan het me niet zo heel veel meer schelen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A bag fitting for your life</title>
       <link>http://localhost:1313/blog/a-bag-fitting-for-your-life/</link>
-      <pubDate>Wed, 27 Jun 2007 20:25:30 +0000</pubDate>
+      <pubDate>Wed, 27 Jun 2007 20:25:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/a-bag-fitting-for-your-life/</guid> 
       <description>&lt;p&gt;Treffende one liners, spectaculaire actie en wat gebeurt er toch rond tijdsindex 0:24?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.eelkedekker.nl/?p=510&#34;&gt;Eelke studeert af&lt;/a&gt; en het belooft een spetterend half uur te worden. Het gaat komende vrijdag 13.45 &lt;em&gt;down&lt;/em&gt; in de van Grintenzaal op de faculteit IO.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://blog.eelkedekker.nl/?p=510&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eelke studeert af&lt;/a&gt;
+ en het belooft een spetterend half uur te worden. Het gaat komende vrijdag 13.45 &lt;em&gt;down&lt;/em&gt; in de van Grintenzaal op de faculteit IO.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rustig</title>
       <link>http://localhost:1313/blog/rustig/</link>
-      <pubDate>Sat, 09 Jun 2007 14:14:07 +0000</pubDate>
+      <pubDate>Sat, 09 Jun 2007 14:14:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/rustig/</guid> 
       <description>&lt;p&gt;Een zware week. Vier keer per week capoeira gerelateerde dingen ((Of eigenlijk vijf… Maandag trainen, dinsdag hardlopen en een beetje oefenen in het park, woensdag oefenen, donderdag trainen en vrijdag optreden.)), hard werken en studeren en leuke dingen doen is misschien wat veel van het goede.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/eelkedekker/537159533/in/set-72157600330679632&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1282/537159533_bb7523b598.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/537073639/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1371/537073639_499d81d480.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/537072031/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Kus&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1366/537072031_70a2f98007.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/537085349/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;IMG_3641.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1303/537085349_fcd03613d3.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/536977500/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;IMG_3827.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1335/536977500_f8b8905283.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/eelkedekker/537159533/in/set-72157600330679632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1282/537159533_bb7523b598.jpg&#34;
+      alt=&#34;&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/537073639/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1371/537073639_499d81d480.jpg&#34;
+      alt=&#34;&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/537072031/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1366/537072031_70a2f98007.jpg&#34;
+      alt=&#34;Kus&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/537085349/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1303/537085349_fcd03613d3.jpg&#34;
+      alt=&#34;IMG_3641.jpg&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/536977500/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1335/536977500_f8b8905283.jpg&#34;
+      alt=&#34;IMG_3827.jpg&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;Dit weekend rust en studie. Veel dingen afmaken die af moeten en veel lezen en schrijven. Steekwoorden: cappuccino en zaterdagkrant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Life: Wat moeten we ermee?</title>
       <link>http://localhost:1313/blog/second-life-wat-moeten-we-ermee/</link>
-      <pubDate>Wed, 23 May 2007 23:25:14 +0000</pubDate>
+      <pubDate>Wed, 23 May 2007 23:25:14 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/second-life-wat-moeten-we-ermee/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/510724346/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Second Life; Abort, Retry, Ignore?&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/224/510724346_e40cb94907_m.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Net tijdens de lunch de tweede helft gevolgd van een lunchdebat georganiseerd door &lt;a href=&#34;http://www.platformet.tudelft.nl/&#34;&gt;the Platform for Ethics and Technology&lt;/a&gt; hier in de Aula. Aparte timing voor zo&amp;rsquo;n discussie maanden nadat de publiciteitshype rondom SL voorbij is.&lt;/p&gt;
-&lt;p&gt;Het ging ruwweg over wat we nu precies aanmoeten met Second Life. Helaas werd de discussie volledig gekaapt door een vent van het CDA: &lt;a href=&#34;http://www.harryvandermolen.nl/&#34;&gt;Harry van der Molen&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/510724346/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm1.static.flickr.com/224/510724346_e40cb94907_m.jpg&#34;
+      alt=&#34;Second Life; Abort, Retry, Ignore?&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Net tijdens de lunch de tweede helft gevolgd van een lunchdebat georganiseerd door &lt;a href=&#34;http://www.platformet.tudelft.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Platform for Ethics and Technology&lt;/a&gt;
+ hier in de Aula. Aparte timing voor zo&amp;rsquo;n discussie maanden nadat de publiciteitshype rondom SL voorbij is.&lt;/p&gt;
+&lt;p&gt;Het ging ruwweg over wat we nu precies aanmoeten met Second Life. Helaas werd de discussie volledig gekaapt door een vent van het CDA: &lt;a href=&#34;http://www.harryvandermolen.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harry van der Molen&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Er vallen veel dingen voor en veel dingen tegen Second Life te zeggen. De manier waarop het platform gebruikt wordt door louche marketeers en webontwikkelaars om tijdens de hype de meest vage concepten te lanceren verdient inderdaad geen schoonheidsprijs.
-Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapingthoughts.com/2007/02/15/first-real-city-in-second-life-zoetermeer&#34;&gt;de investering van de gemeente Zoetermeer&lt;/a&gt; in een virtueel stadhuis. Een slecht doordacht concept, weinig bezoekers en als enige resultaat de publiciteit na het aanvankelijke persbericht.&lt;/p&gt;</description>
+Een van de voorbeelden die genoemd werden, was &lt;a href=&#34;http://www.shapingthoughts.com/2007/02/15/first-real-city-in-second-life-zoetermeer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de investering van de gemeente Zoetermeer&lt;/a&gt;
+ in een virtueel stadhuis. Een slecht doordacht concept, weinig bezoekers en als enige resultaat de publiciteit na het aanvankelijke persbericht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Buitengewoon barre werkplek op de universiteit</title>
       <link>http://localhost:1313/blog/buitengewoon-barre-werkplek-op-de-universiteit/</link>
-      <pubDate>Wed, 23 May 2007 12:28:05 +0000</pubDate>
+      <pubDate>Wed, 23 May 2007 12:28:05 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/buitengewoon-barre-werkplek-op-de-universiteit/</guid> 
       <description>&lt;p&gt;Het internet op de TU Delft is nog steeds om te huilen. Hier in de Aula ligt het er elke tien minuten uit.&lt;/p&gt;
 &lt;p&gt;Daarnaast is de koffie hier zo ontzettend slecht dat ik neig de ‘barista’ over de toonbank te trekken en hem er met zijn neus in te drukken.&lt;/p&gt;

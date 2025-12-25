@@ -6,16 +6,21 @@
     <description>Recent content in Workshop on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Mon, 16 Jun 2008 01:12:46 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/workshop/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop session on geodata visualization</title>
       <link>http://localhost:1313/blog/workshop-session-on-geodata-visualization/</link>
-      <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2008 01:12:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=314</guid> 
-      <description>&lt;p&gt;Yesterday we had an &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshop-13-juni/&#34;&gt;afternoon of workshops&lt;/a&gt; in an unconference style event at &lt;a href=&#34;http://studio4stagioni.nl/&#34;&gt;the office&lt;/a&gt;. A full registration of the event with video and slides will be published during the course of this weekend, but unfortunately most of it will be &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshops-kickoff/&#34;&gt;in Dutch&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I did a hands on workshop of a small datavisualization project I did this week and I registered myself on video using &lt;a href=&#34;http://www.varasoftware.com/products/screenflow/&#34;&gt;Screenflow&lt;/a&gt;. The video (in Dutch) is below:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/1167786?pg=embed&amp;amp;sec=1167786&#34;&gt;Geografische Datavisualisatie&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/illustir?pg=embed&amp;amp;sec=1167786&#34;&gt;Alper Çugun&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com?pg=embed&amp;amp;sec=1167786&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Yesterday we had an &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshop-13-juni/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afternoon of workshops&lt;/a&gt;
+ in an unconference style event at &lt;a href=&#34;http://studio4stagioni.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the office&lt;/a&gt;
+. A full registration of the event with video and slides will be published during the course of this weekend, but unfortunately most of it will be &lt;a href=&#34;http://studio4stagioni.nl/2008/06/workshops-kickoff/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in Dutch&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;I did a hands on workshop of a small datavisualization project I did this week and I registered myself on video using &lt;a href=&#34;http://www.varasoftware.com/products/screenflow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Screenflow&lt;/a&gt;
+. The video (in Dutch) is below:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

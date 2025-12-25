@@ -6,34 +6,55 @@
     <description>Recent content in Ervaring on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Wed, 11 Feb 2009 01:42:35 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ervaring/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fantastisch design maar toch niet geslaagd</title>
       <link>http://localhost:1313/blog/fantastisch-design-maar-toch-niet-geslaagd/</link>
-      <pubDate>Wed, 11 Feb 2009 01:42:35 +0000</pubDate>
+      <pubDate>Wed, 11 Feb 2009 01:42:35 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/fantastisch-design-maar-toch-niet-geslaagd/</guid> 
-      <description>&lt;p&gt;Veelgemaakte fout in het ervaringsontwerp en gevoelsmatig goed passend bij &lt;a href=&#34;http://www.google.nl/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.bk.tudelft.nl%2F&amp;amp;ei=hZCkRtOVC6DoQO757f8N&amp;amp;usg=AFQjCNEMcK-rSgjDr5m8N9sYIJTZyOX7xQ&amp;amp;sig2=yfQeD0KQw9RK9URCz6ljNA&#34;&gt;de faculteit bouwkunde&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Veelgemaakte fout in het ervaringsontwerp en gevoelsmatig goed passend bij &lt;a href=&#34;http://www.google.nl/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.bk.tudelft.nl%2F&amp;amp;ei=hZCkRtOVC6DoQO757f8N&amp;amp;usg=AFQjCNEMcK-rSgjDr5m8N9sYIJTZyOX7xQ&amp;amp;sig2=yfQeD0KQw9RK9URCz6ljNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de faculteit bouwkunde&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Op hun faculteit hebben ze een bijzonder hippe koffietent neergezet ((Courtesy of Sodexho)) die lijkt op een soort ruimtestation. Koffietreats, smoothies en andere versnaperingen zijn er verkrijgbaar tegen een schappelijke prijs.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/877897551/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Espressobar Sterk&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1016/877897551_bc1e36e2a1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/877897551/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1016/877897551_bc1e36e2a1.jpg&#34;
+      alt=&#34;Espressobar Sterk&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;Ik bestelde er een caffè machiato en ging zitten in één van de opgestelde vliegtuigstoelen. Alles lijkt perfect. Tot ik de eerste slok van de koffie nam. Deze was absoluut walgelijk ((Ik heb weleens slechtere koffie gedronken, maar door de goede ervaringen die hieraan voorafging was ik er niet op voorbereid.)).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Treingenoten</title>
       <link>http://localhost:1313/blog/treingenoten/</link>
-      <pubDate>Thu, 31 Jan 2008 00:58:18 +0000</pubDate>
+      <pubDate>Thu, 31 Jan 2008 00:58:18 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/treingenoten/</guid> 
-      <description>&lt;p&gt;Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die &lt;a href=&#34;http://localhost:1313/dingen/2008/01/leeslijsten/#footnote-link-2-238&#34;&gt;boeken leest&lt;/a&gt;.)) naast me zat.&lt;/p&gt;
+      <description>&lt;p&gt;Ik stapte vanochtend in in de stampvolle sneltrein op Den Haag HS richting Amsterdam. Ik had niet door tot ik ging zitten, dat Everdien ((Zij is één van de paar mensen die ik ken die &lt;a href=&#34;http://localhost:1313/dingen/2008/01/leeslijsten/#footnote-link-2-238&#34;&gt;boeken leest&lt;/a&gt;
+.)) naast me zat.&lt;/p&gt;
 &lt;p&gt;Een grappig toeval en leuk om wat te praten maar als ik ingestapt was via een andere deur dan hadden we elkaar niet gesproken.&lt;/p&gt;
 &lt;p&gt;Reken maar even uit: Een ontmoeting als deze gebeurt eens per weken/maanden. Je kent honderden mensen waar je wel een gesprek mee zou willen/kunnen hebben. Dus als je meer informatie had wanneer kennissen van je in een trein zitten en waar, zouden dit soort ontmoetingen veel vaker voor kunnen komen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alledaagse innovatie</title>
       <link>http://localhost:1313/blog/alledaagse-innovatie/</link>
-      <pubDate>Mon, 23 Jul 2007 22:22:23 +0000</pubDate>
+      <pubDate>Mon, 23 Jul 2007 22:22:23 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/alledaagse-innovatie/</guid> 
       <description>&lt;p&gt;Fijn om gebruiksvriendelijke innovatie te zien in alledaagse producten waarvan je dacht dat het eigenlijk af was. In dit geval in het &amp;ldquo;Verse volle melk&amp;rdquo; pak van het huismerk van Albert Heijn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/870950297/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Usability Feature&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1238/870950297_263dd52a00.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/870950297/&#34;&gt;Zie Flickr&lt;/a&gt; voor de commentaren in het Engels.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/870950297/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1238/870950297_263dd52a00.jpg&#34;
+      alt=&#34;Usability Feature&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/870950297/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zie Flickr&lt;/a&gt;
+ voor de commentaren in het Engels.&lt;/p&gt;
 &lt;p&gt;Wat het compleet af gemaakt had in mijn ogen en iets wat een stuk moeilijker in te schatten is dan hoe vol een pak is ((Dit is goed te doen door een pak melk op te pakken. Ik kan me vergissen, maar volgens mij is dat voor de mensen van alle leeftijden en mogelijkheden makkelijker dan de juiste kant van een pak vinden en de vloeistofmaat aflezen.)), is of een pak melk nog goed is. Dit is zeker voor mensen met een ondergemiddelde reukzin ((Of compleet afwezige reukzin wat weleens wil gebeuren.)) ((Of die gewoon vroeg zijn opgestaan en nog geen koffie hebben gehad. Het is flink afknappen als je een cappuccino probeert te maken met bedorven melk.)) nogal eens een uitdaging.
 Een simpele indicator ((Misschien een vergelijkbare cirkelvormige uitsparing onderin het pak)), die vel of vies groen wordt als het pak bedorven is, zou perfect geweest zijn. En ik weet ook wel waarom dat er niet in zit. De stansvorm van die pakken aanpassen is simpel en weinig ingrijpend; een indicator verwerken in het binnenwerk lijkt me een stuk moeilijker.&lt;/p&gt;</description>
     </item>

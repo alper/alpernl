@@ -1,297 +1,1394 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
-
+<html lang="en-US" dir="ltr">
 <head>
-	<meta name="generator" content="Hugo 0.152.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
-<title>alper.nl</title>
+	<meta name="generator" content="Hugo 0.152.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>alper.nl - Example site for hugo-theme-tailwind</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="Example site for hugo-theme-tailwind"
+/>
+<meta
+  name="keywords"
+  content="hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
+/>
+<meta name="robots" content="noodp" /><link rel="manifest" href="/manifest.json" /><meta property="og:url" content="http://localhost:1313/">
+  <meta property="og:site_name" content="alper.nl">
+  <meta property="og:title" content="alper.nl">
+  <meta property="og:description" content="The homepage of Alper Cugun">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
 
-<meta name="description" content="The homepage of Alper Cugun">
-<meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.750d80287e8b9c47d64b8b202e3f7bd7dee113abcf707ae5cf903fbd2c6fb086.css" integrity="sha256-dQ2AKH6LnEfWS4sgLj97197hE6vPcHrlz5A/vSxvsIY=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/feed.xml" title="rss">
-<link rel="alternate" type="application/json" href="http://localhost:1313/index.json" title="json">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
 
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-                color-scheme: dark;
-            }
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="alper.nl">
+  <meta name="twitter:description" content="The homepage of Alper Cugun">
 
-            .list {
-                background: var(--theme);
-            }
 
-            .toc {
-                background: var(--entry);
-            }
-        }
+<link rel="canonical" href="http://localhost:1313/" />
 
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
-            }
-        }
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="/css/index.c3a5d1586276a68cf55558ab67f2c726fee27f4aea3add1802872f471c5f233d.css">
 
-    </style>
-</noscript>
-<script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else {
-        document.querySelector("html").dataset.theme = 'light';
-    }
 
-</script><link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
 
+
+
+
+
+
+
+  
 </head>
-<body class="list" id="top">
-    <header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="alper.nl (Alt + H)">alper.nl</a>
-            <div class="logo-switches">
+<body class="flex flex-col min-h-screen w-full bg-slate-50 dark:bg-gray-800">
+    
+<div class="fixed right-0 top-0 z-50 flex items-center justify-center bg-gray-200 p-2 text-sm uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
+
+  <header class="flex flex-none justify-center z-10">
+    <div class="flex flex-row gap justify-between w-full max-w-4xl lg:max-w-5xl h-12 mt-3">
+  <div class="flex-none ml-2 md:ml-0">
+    <a href="/" class="">
+      <img class="h-12 w-12 rounded-full object-cover bg-gray-100" src="https://placehold.co/512/webp" alt="logo">
+    </a>
+  </div>
+  
+  <div class="flex-1"></div>
+  <div class="flex-none">
+    
+
+
+
+
+  </div>
+  
+  <div class="flex-none mx-1"></div>
+  
+  <div class="flex-none md:hidden">
+    <a href=/search/ class="inline-flex items-center p-2 text-sm text-slate-800 dark:text-slate-200 rounded-lg" aria-controls="navbar-menu" aria-expanded="false">
+      <span class="sr-only">Search</span>
+      <i class="w-8 h-8">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+    <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+</svg>
+
+      </i>
+    </a>
+  </div>
+  <div class="darkmode-toggle flex flex-none mr-2 md:mr-0">
+    <label for="darkmode-toggle" class="relative flex items-center gap-1 px-3 cursor-pointer rounded-full bg-gray-100 dark:bg-gray-600" title="Toggle dark mode">
+      <input name="darkmode-toggle" id="darkmode-toggle" type="checkbox" class="sr-only peer" aria-label="Toggle dark mode">
+      <div class="absolute z-10 w-15 h-8 rounded-full bg-white dark:bg-gray-700"></div>
+      <i class="h-6 w-6 z-20 ml-1 flex-none rounded-full bg-yellow-400 place-self-center peer-checked:invisible">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brightness-down" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
+   <path d="M12 5l0 .01"></path>
+   <path d="M17 7l0 .01"></path>
+   <path d="M19 12l0 .01"></path>
+   <path d="M17 17l0 .01"></path>
+   <path d="M12 19l0 .01"></path>
+   <path d="M7 17l0 .01"></path>
+   <path d="M5 12l0 .01"></path>
+   <path d="M7 7l0 .01"></path>
+</svg>
+
+      </i>
+      <i class="h-6 w-6 z-20 mr-1 flex-none rounded-full place-self-center invisible peer-checked:visible">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon-stars" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
+   <path d="M17 4a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2"></path>
+   <path d="M19 11h2m-1 -1v2"></path>
+</svg>
+
+      </i>
+    </label>
+  </div>
+</div>
+
+  </header>
+  <main class="flex flex-auto justify-center">
+    
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+  
+
+  <div class="flex flex-col w-full max-w-4xl lg:max-w-5xl relative">
+    <div class="flex flex-row">
+      <section class="flex flex-col w-full md:w-2/3">
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/the-week-in-pictures/">
+                
+              </a>
             </div>
-        </div>
-        <ul id="menu">
-        </ul>
-    </nav>
-</header>
-<main class="main"> 
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/the-week-in-pictures/">The week in pictures</a>
+              </h2>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">The week in pictures
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>
-Tuesday morning I went to foam to see the last couple of days of the Avedon exhibit and I’m glad I did. Spectacular work! The exhibit is done in Amsterdam, but maybe you can catch it somewhere else ( tweet) (( At the SF MOMA from July 11th until November 29th.))? It is very much worth it.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-05-17 12:13:19 +0000 +0000'>May 17, 2009</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to The week in pictures" href="http://localhost:1313/blog/the-week-in-pictures/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Mobile Widget Camp
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>In spite of the nice weather, I spent today at Mobile Widget Devcamp in Pakhuis de Zwijger. Having done some projects on widgets recently, I was curious to see what the state of mobile widgets was.
-Vodafone presented their app manager which will be rolled out to Vodafone mobile users. The app manager makes it easier to find and install widgets/apps to the mobile phone. Widgets can be submitted to the app manager in an App Store like proces and in due time —I think the word was come September ((Though it will be interesting to see how far Apple will have advanced the signposts by then.))— you can even charge money for your widget in a 70/30 split.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-05-02 22:37:14 +0000 +0000'>May 2, 2009</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Mobile Widget Camp" href="http://localhost:1313/blog/mobile-widget-camp/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Zeg Nee! tegen copyright
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Even een kleine copyright roundup na de farce van het proces tegen the Pirate Bay en Brein die daar weer in springt. Gebruik in de tussentijd the Pirate Google totdat Brein die ook weet te blokkeren.
-Ik zou willen dat er meer van dat soort verdedigers van onze collectieve cultuur bestonden. Recent is de copyright termijn in Europa weer opgerekt en onze cultuur weer een stukje verder uitgehold voor de zelfverrijking van bemiddelende instanties (zie het videofragment hieronder).
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-04-28 10:10:32 +0000 +0000'>April 28, 2009</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Zeg Nee! tegen copyright" href="http://localhost:1313/blog/zeg-nee-tegen-copyright/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Inspiratie voor mobiele diensten
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Ik schreef een paar dagen geleden in een roundup over de wedstrijd van 9292 voor een nieuwe reisplanner. Marie-José Klaver heeft er ook een stukje over waarin ze nog wat minder mals is dan ik.
-Mark de Bruin, marketingmanager bij 9292, heeft een twitter account en is bereid om tekst en uitleg te geven. Dat is tof en ik denk een essentiele eerste stap om verder te komen in de verstarde eenrichtingsverkeerkanalen waar deze hele sector zich in bevindt.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-04-20 20:16:48 +0000 +0000'>April 20, 2009</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Inspiratie voor mobiele diensten" href="http://localhost:1313/blog/inspiratie-voor-mobiele-diensten/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Openbaar Vervoer update
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Het is een tijdje wat stiller geweest rond openbaar vervoer. Hoog tijd voor een update.
-James Governor is het met me eens dat de gegevens voor reisinformatie op het spoor (en in hun geval ook de applicatie) gratis zouden moeten zijn en dat de vervoersaanbieders buitengewoon waardevolle gebruiksstatistieken krijgen van deze applicaties.
-SenterNovem SenterNovem publiceerde een tijdje geleden dit item over Trein.app van Dennis Stevense. Misschien dat ze daar eindelijk een keertje de ogen openen voor innovatie van kleinere spelers in deze branche. Ook dit bericht over reisinformatie bij de haltes. De meeste dynamische reisinformatie op haltes is in mijn ervaring of ronduit stuk of niet accuraat. Één quick win zou zijn om in Rotterdam op de metrohaltes borden ((Niks dynamisch, gewoon borden met informatie. Die staan er nu niet.)) op te hangen waar je bent en waar je heen kunt gaan.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-04-15 11:10:51 +0000 +0000'>April 15, 2009</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Openbaar Vervoer update" href="http://localhost:1313/blog/openbaar-vervoer-update/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Halfje Utrecht
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Afgelopen maandag niet naar de meubelboulevard geweest maar wel een andere traditionele Paasbezigheid volbracht. Net zoals Jesus stierf aan het kruis en weer opstond, ben ik tijdens de halve marathon van Utrecht figuurlijk gestorven waarna ik door een wonderbaarlijke opleving toch de finish wist te behalen op 2:22:36.
-Stephan (van ons geliefde Sargasso) wist me onderweg nog op de foto te zetten. Hier zie ik er nog redelijk fris uit, dat was aan de andere kant van de vaart wel anders: ...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-04-15 09:58:38 +0000 +0000'>April 15, 2009</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Halfje Utrecht" href="http://localhost:1313/blog/halfje-utrecht/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Zombama
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Sorry people. The Onion made me realize what I’ve subjected you guys to all this time:
-Obama Win Causes Obsessive Supporters To Realize How Empty Their Lives Are
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p><a href="http://www.flickr.com/photos/alper/3524365247/" title="Richard Avedon - FOAM by illustir, on Flickr" target="_blank" rel="noopener"><div class="not-prose">
+<figure>
+    <img src="http://farm4.static.flickr.com/3402/3524365247_e2ba4b4c9f.jpg"
+      alt="Richard Avedon - FOAM" 
+      loading="lazy"
+    >
+  </figure></div>
+</a>
+</p>
+<p>Tuesday morning I went to <a href="http://www.foam.nl/" target="_blank" rel="noopener">foam</a>
+ to see the last couple of days of the <a href="http://www.foam.nl/index.php?pageId=11&amp;tentoonId=153" target="_blank" rel="noopener">Avedon exhibit</a>
+ and I&rsquo;m glad I did. Spectacular work! The exhibit is done in Amsterdam, but maybe you can catch it somewhere else ( <a href="http://twitter.com/alper/status/1772542875" target="_blank" rel="noopener">tweet</a>
+) (( <a href="http://www.sfmoma.org/exhibitions/384" target="_blank" rel="noopener">At the SF MOMA</a>
+ from July 11th until November 29th.))? It is very much worth it.</p>
+<p><a href="http://www.flickr.com/photos/alper/3528645500/" title="OpenID in de praktijk by illustir, on Flickr" target="_blank" rel="noopener"><div class="not-prose">
+<figure>
+    <img src="http://farm3.static.flickr.com/2266/3528645500_17a29ab280.jpg"
+      alt="OpenID in de praktijk" 
+      loading="lazy"
+    >
+  </figure></div>
+</a>
 </p>
   </div>
-  <footer class="entry-footer"><span title='2009-04-11 06:47:11 +0000 +0000'>April 11, 2009</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Zombama" href="http://localhost:1313/blog/zombama/"></a>
-</article>
+  
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Alert Dispatch to Twitter
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>I did a small survey with James of publicly available government data to see what the obvious targets would be for an interesting mashup. It’s an interesting but very limited landscape.
-One set we found was the incident reports of Dutch first aid services which are published at P2000 and parsed by the site Alarmeringen.nl into nicely Google Mapped displays with RSS feeds and SMS alerts.
-What it didn’t have yet was a decent output to Twitter. So to prod things a bit I made twitter feeds for the four major cities in the Netherlands. Meet:
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-04-09 14:12:27 +0000 +0000'>April 9, 2009</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Alert Dispatch to Twitter" href="http://localhost:1313/blog/alert-dispatch-to-twitter/"></a>
-</article>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Een soort van antwoord van de NS
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Ik vernam al dat de NS op de afgelopen Mobile Monday probeerde hun nieuwe reisplanner te pitchen. Dat was afgaand op de reacties via Twitter geen doorslaand succes.
-Zojuist op de gvenkdaily ( 1, 2, 3, 4) wat referenties naar verslaggeving over dit onderwerp en fragmentarisch de argumenten waarom de NS weigert hun gegevens open te gooien.
-Ik schreef hier eerder al over en mensen vragen steeds aan mÃ­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-04-01 22:11:21 +0000 +0000'>April 1, 2009</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Een soort van antwoord van de NS" href="http://localhost:1313/blog/een-soort-van-antwoord-van-de-ns/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Unraveling the Transit Fabric
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Previous efforts of privatizing Dutch rail failed miserably. In 1999 Lovers Rail ran competing trains along a couple of Dutch tracks ((Among which Amsterdam — Haarlem, also the oldest Dutch railway connection.)). I was just starting my studies in Delft and did a daily commute from Amsterdam where I was living back then ((And where I will be living again in the near future if things work out.)), so I remember their service, though I never actually used it.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2009-03-30 00:14:50 +0000 +0000'>March 30, 2009</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>alper</span></footer>
-  <a class="entry-link" aria-label="post link to Unraveling the Transit Fabric" href="http://localhost:1313/blog/unraveling-the-transit-fabric/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/page/187/">
-      «&nbsp;Prev&nbsp;
-    </a>
-    <a class="next" href="http://localhost:1313/page/189/">Next&nbsp;&nbsp;»
-    </a>
-  </nav>
-</footer>
-    </main>
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
     
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
+      
+      <li>
+        <a href="/categories/english/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          English
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/photography/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Photography
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-05-17T12:13:19&#43;00:00">
+      2009-05-17
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      2 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/mobile-widget-camp/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/mobile-widget-camp/">Mobile Widget Camp</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>In spite of the nice weather, I spent today at <a href="http://www.mobilewidgetcamp.nl/" target="_blank" rel="noopener">Mobile Widget Devcamp</a>
+ in Pakhuis de Zwijger. Having done some projects on widgets recently, I was curious to see what the state of mobile widgets was.</p>
+<p><a href="http://www.vodafone.com/" target="_blank" rel="noopener">Vodafone</a>
+ presented their app manager which will be rolled out to Vodafone mobile users. The app manager makes it easier to find and install widgets/apps to the mobile phone. Widgets can be submitted to the app manager in an App Store like proces and in due time —I think the word was come September ((Though it will be interesting to see how far Apple will have advanced the signposts by then.))— you can even charge money for your widget in a 70/30 split.</p>
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/english/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          English
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/internet/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Internet
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/work/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Work
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-05-02T22:37:14&#43;00:00">
+      2009-05-02
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      5 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/zeg-nee-tegen-copyright/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/zeg-nee-tegen-copyright/">Zeg Nee! tegen copyright</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>Even een kleine copyright roundup na de farce van het proces tegen <a href="http://thepiratebay.org/" target="_blank" rel="noopener">the Pirate Bay</a>
+ en <a href="http://tweakers.net/nieuws/59677/brein-wil-na-vonnis-the-pirate-bay-in-nederland-laten-blokkeren.html" target="_blank" rel="noopener">Brein die daar weer in springt</a>
+. Gebruik in de tussentijd <a href="http://www.thepirategoogle.com/" target="_blank" rel="noopener">the Pirate Google</a>
+ totdat Brein die ook weet te blokkeren.</p>
+<p>Ik zou willen dat er meer van dat soort verdedigers van onze collectieve cultuur bestonden. Recent is de <a href="http://www.openrightsgroup.org/2009/04/23/parliament-buckles-copyright-extension-goes-through-to-council-of-ministers/" target="_blank" rel="noopener">copyright termijn in Europa weer opgerekt</a>
+ en onze cultuur weer een stukje verder uitgehold voor de zelfverrijking van bemiddelende instanties (zie het videofragment hieronder).</p>
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/music/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Music
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/nederlands/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Nederlands
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/politics/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Politics
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-28T10:10:32&#43;00:00">
+      2009-04-28
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      3 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/inspiratie-voor-mobiele-diensten/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/inspiratie-voor-mobiele-diensten/">Inspiratie voor mobiele diensten</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>Ik schreef een paar dagen geleden in <a href="/dingen/2009/04/openbaar-vervoer-update/">een roundup</a>
+ over de wedstrijd van 9292 voor een nieuwe reisplanner. Marie-José Klaver heeft er ook <a href="http://weblogs3.nrc.nl/klaver/2009/04/10/ov-reiswijzer-crowdsourcet-mobiele-navigator-en-claimt-rechten/#comment-66887" target="_blank" rel="noopener">een stukje</a>
+ over waarin ze nog wat minder mals is dan ik.</p>
+<p>Mark de Bruin, marketingmanager bij 9292, heeft een <a href="http://twitter.com/mdebruin" target="_blank" rel="noopener">twitter account</a>
+ en is bereid om tekst en uitleg te geven. Dat is tof en ik denk een essentiele eerste stap om verder te komen in de verstarde eenrichtingsverkeerkanalen waar deze hele sector zich in bevindt.</p>
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/internet/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Internet
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/monster-swell/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Monster-Swell
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/nederlands/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Nederlands
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-20T20:16:48&#43;00:00">
+      2009-04-20
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      4 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/openbaar-vervoer-update/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/openbaar-vervoer-update/">Openbaar Vervoer update</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>Het is een tijdje wat stiller geweest rond openbaar vervoer. Hoog tijd voor een update.</p>
+<p><a href="http://www.redmonk.com/jgovernor/2009/03/24/why-rail-info-and-the-new-york-times-should-indeed-be-free/" target="_blank" rel="noopener">James Governor is het met me eens</a>
+ dat de gegevens voor reisinformatie op het spoor (en in hun geval ook de applicatie) gratis zouden moeten zijn en dat de vervoersaanbieders buitengewoon waardevolle gebruiksstatistieken krijgen van deze applicaties.</p>
+<h3 id="senternovem">SenterNovem</h3>
+<p>SenterNovem publiceerde een tijdje geleden <a href="http://www.senternovem.nl/mobiliteitsmanagement/nieuws/reisinformatie_op_de_iphone.asp" target="_blank" rel="noopener">dit item</a>
+ over Trein.app van Dennis Stevense. Misschien dat ze daar eindelijk een keertje de ogen openen voor innovatie van kleinere spelers in deze branche.
+Ook <a href="http://www.senternovem.nl/mobiliteitsmanagement/nieuws/uw_reisinformatie_op_straat.asp" target="_blank" rel="noopener">dit bericht</a>
+ over reisinformatie bij de haltes. De meeste dynamische reisinformatie op haltes is in mijn ervaring of ronduit stuk of niet accuraat. Één quick win zou zijn om in Rotterdam op de metrohaltes borden ((Niks dynamisch, gewoon borden met informatie. Die staan er nu niet.)) op te hangen waar je bent en waar je heen kunt gaan.</p>
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/internet/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Internet
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/nederlands/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Nederlands
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-15T11:10:51&#43;00:00">
+      2009-04-15
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      3 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/halfje-utrecht/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/halfje-utrecht/">Halfje Utrecht</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>Afgelopen maandag niet naar de meubelboulevard geweest maar wel een andere traditionele Paasbezigheid volbracht. Net zoals Jesus stierf aan het kruis en weer opstond, ben ik tijdens de halve marathon van Utrecht figuurlijk gestorven waarna ik door een wonderbaarlijke opleving toch de finish wist te behalen op <a href="http://services.ad.nl/hardloopuitslagen/cache/details/100407.html" target="_blank" rel="noopener">2:22:36</a>
+.</p>
+<p><a href="http://www.flickr.com/photos/steepho/" target="_blank" rel="noopener">Stephan</a>
+ (van ons geliefde <a href="http://www.sargasso.nl" target="_blank" rel="noopener">Sargasso</a>
+) wist me onderweg nog op de foto te zetten. Hier zie ik er nog redelijk fris uit, dat was aan de andere kant van de vaart wel anders:
+<a href="http://www.flickr.com/photos/steepho/3438271219/" target="_blank" rel="noopener"><div class="not-prose">
+<figure>
+    <img src="http://farm4.static.flickr.com/3656/3438271219_80e872b561.jpg"
+      alt="" 
+      loading="lazy"
+    >
+  </figure></div>
 </a>
+</p>
+  </div>
+  
 
-<script>
-    let menu = document.getElementById('menu');
-    if (menu) {
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/nederlands/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Nederlands
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/sports/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Sports
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-15T09:58:38&#43;00:00">
+      2009-04-15
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      One minute to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
         
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
-        if (scrollPosition) {
-            menu.scrollLeft = parseInt(scrollPosition, 10);
-        }
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/zombama/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/zombama/">Zombama</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>Sorry people. The Onion made me realize what I&rsquo;ve subjected you guys to all this time:</p>
+<p><a href="http://www.theonion.com/content/video/obama_win_causes_obsessive?utm_source=embedded_video" target="_blank" rel="noopener">Obama Win Causes Obsessive Supporters To Realize How Empty Their Lives Are</a>
+</p>
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/english/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          English
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/politics/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Politics
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-11T06:47:11&#43;00:00">
+      2009-04-11
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      One minute to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
         
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/alert-dispatch-to-twitter/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/alert-dispatch-to-twitter/">Alert Dispatch to Twitter</a>
+              </h2>
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>I did a small survey with <a href="http://www.lifesized.net/" target="_blank" rel="noopener">James</a>
+ of publicly available government data to see what the obvious targets would be for an interesting mashup. It&rsquo;s an interesting but very limited landscape.</p>
+<p>One set we found was the incident reports of Dutch first aid services which are published at <a href="http://www.online-p2000.nl/" target="_blank" rel="noopener">P2000</a>
+ and parsed by the site <a href="http://www.alarmeringen.nl/" target="_blank" rel="noopener">Alarmeringen.nl</a>
+ into nicely Google Mapped displays with RSS feeds and SMS alerts.</p>
+<p>What it didn&rsquo;t have yet was a decent output to Twitter. So to prod things a bit I made twitter feeds for the four major cities in the Netherlands. Meet:</p>
+  </div>
+  
 
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
 
-</script>
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/english/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          English
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/internet/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Internet
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/product-/-design/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Product-/-Design
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-09T14:12:27&#43;00:00">
+      2009-04-09
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      2 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/een-soort-van-antwoord-van-de-ns/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/een-soort-van-antwoord-van-de-ns/">Een soort van antwoord van de NS</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    <p>Ik vernam al dat de NS op de afgelopen Mobile Monday probeerde hun nieuwe reisplanner te pitchen. Dat was afgaand op <a href="http://search.twitter.com/search?q=momo&#43;ns" target="_blank" rel="noopener">de reacties via Twitter</a>
+ geen doorslaand succes.</p>
+<p>Zojuist op de <a href="http://gvenkdaily.nl/" target="_blank" rel="noopener">gvenkdaily</a>
+ ( <a href="http://twitter.com/gvenkdaily/status/1430051480" target="_blank" rel="noopener">1</a>
+, <a href="http://twitter.com/gvenkdaily/status/1430057131" target="_blank" rel="noopener">2</a>
+, <a href="http://twitter.com/gvenkdaily/status/1430062685" target="_blank" rel="noopener">3</a>
+, <a href="http://twitter.com/gvenkdaily/status/1430067592" target="_blank" rel="noopener">4</a>
+) wat referenties naar verslaggeving over dit onderwerp en fragmentarisch de argumenten waarom de NS weigert hun gegevens open te gooien.</p>
+<p>Ik <a href="/dingen/2009/03/op-radio-online-tegen-de-ns/">schreef hier eerder al over</a>
+ en mensen vragen steeds aan mÃ­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.</p>
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/internet/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Internet
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/nederlands/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Nederlands
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/product-/-design/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Product-/-Design
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/travel/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Travel
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-04-01T22:11:21&#43;00:00">
+      2009-04-01
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      5 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+          <article class="flex flex-col mt-6 mx-2 md:mx-0 rounded-lg overflow-hidden shadow-md bg-white dark:bg-gray-700">
+            <div>
+              <a href="/blog/unraveling-the-transit-fabric/">
+                
+              </a>
+            </div>
+            <div class="flex flex-col gap-y-3 p-6">
+              <h2 class="text-4xl font-semibold text-slate-800 dark:text-slate-200">
+                <a href="/blog/unraveling-the-transit-fabric/">Unraveling the Transit Fabric</a>
+              </h2>
+
+              
+  
+  <div class="my-4 text-large text-slate-600 dark:text-slate-300">
+    Previous efforts of privatizing Dutch rail failed miserably. In 1999 <a href="http://nl.wikipedia.org/wiki/Lovers_Rail" target="_blank" rel="noopener">Lovers Rail</a>
+ ran competing trains along a couple of Dutch tracks ((Among which Amsterdam — Haarlem, also the oldest Dutch railway connection.)). I was just starting my studies in Delft and did a daily commute from Amsterdam where I was living back then ((And where I will be living again in the near future if things work out.)), so I remember their service, though I never actually used it.
+  </div>
+  
+
+
+              
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+      
+      <li>
+        <a href="/categories/english/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          English
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/internet/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Internet
+        </a>
+      </li>
+      
+      <li>
+        <a href="/categories/product-/-design/"
+          class="text-sm mr-2 px-2 py-1 rounded-sm border border-emerald-800 bg-emerald-800 text-slate-50">
+          Product-/-Design
+        </a>
+      </li>
+      
+    
+    
+  </ul>
+
+
+
+              <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2009-03-30T00:14:50&#43;00:00">
+      2009-03-30
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      6 minutes to read
+    </span>
+  </div>
+</div>
+
+              
+            </div>
+          </article>
+        
+      </section>
+      <aside class="hidden md:flex flex-col md:w-1/3 ml-3 top-0 sticky self-start">
+        <section class="pl-6 mt-6 w-full max-w-4xl lg:max-w-5xl">
+  <form class="" action=/search/ method="get">
+    <div class="flex">
+      <input type="text" name="search" id="search-input" required placeholder="Search..." class="rounded-none rounded-s-lg border border-gray-300 text-slate-800 focus:outline-hidden focus:ring-blue-500 focus:border-blue-500 block flex-1 min-w-0 w-full text-sm p-3  dark:bg-slate-700 dark:border-slate-600 dark:placeholder-slate-400 dark:text-slate-200 dark:focus:ring-blue-500 dark:focus:border-blue-500">
+      <button class="inline-flex items-center px-3 text-sm text-slate-900 bg-slate-200 border border-e-0 border-gray-300 rounded-e-lg dark:bg-slate-600 dark:text-slate-400 dark:border-slate-600">
+        <i class="h-6 w-6 flex-none">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+    <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+</svg>
+
+        </i>
+      </button>
+    </div>
+  </form>
+</section>
+
+
+  
+
+<section class="flex flex-col w-full gap-y-3 pl-6 py-3 mt-6 text-slate-800 dark:text-slate-200">
+  <div class="flex flex-row">
+    <a class="flex flex-row" href='/categories/'>
+      <i class="h-6 w-6 flex-none">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-category-2" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M14 4h6v6h-6z"></path>
+   <path d="M4 14h6v6h-6z"></path>
+   <path d="M17 17m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
+   <path d="M7 7m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
+</svg>
+
+      </i>
+      <h2 class="pl-1 uppercase">
+        Categories
+      </h2>
+    </a>
+  </div>
+
+  <ul class="flex flex-row flex-wrap">
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/english/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        English
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/internet/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Internet
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/software-engineering/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Software-Engineering
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/politics/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Politics
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/work/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Work
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/reading/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Reading
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/product-/-design/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Product-/-Design
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/nederlands/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Nederlands
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/berlin/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Berlin
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/categories/monster-swell/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Monster-Swell
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+  
+
+  
+
+<section class="flex flex-col w-full gap-y-3 pl-6 py-3 mt-6 text-slate-800 dark:text-slate-200">
+  <div class="flex flex-row">
+    <a class="flex flex-row" href='/tags/'>
+      <i class="h-6 w-6 flex-none">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M5 9l14 0"></path>
+   <path d="M5 15l14 0"></path>
+   <path d="M11 4l-4 16"></path>
+   <path d="M17 4l-4 16"></path>
+</svg>
+
+      </i>
+      <h2 class="pl-1 uppercase">
+        Tags
+      </h2>
+    </a>
+  </div>
+
+  <ul class="flex flex-row flex-wrap">
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/weeknotes/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Weeknotes
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/fotografie/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Fotografie
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/uncategorized/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Uncategorized
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/politiek/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Politiek
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/internet/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Internet
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/reizen/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Reizen
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/computers/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Computers
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/huis/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Huis
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/evenement/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Evenement
+      </a>
+    </li>
+    
+    <li class="mt-2 mr-2">
+      <a href="/tags/burgerrechten/"
+        class="rounded-sm px-2 py-1 text-sm text-slate-800 dark:text-slate-300 ring-1 ring-slate-900/5 dark:ring-slate-50/5 backdrop-blur-sm bg-slate-50 dark:bg-gray-700">
+        Burgerrechten
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+  
+
+
+      </aside>
+    </div>
+
+    
+<div class="flex flex-row justify-center mt-6 gap-2">
+  
+    <a href="/page/187/"
+      class="flex flex-row text-base font-semibold rounded-md text-slate-700 dark:text-slate-300 bg-slate-200 dark:bg-gray-700 p-2 pr-3">
+      <i class="h-6 w-6 flex-none mr-1"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-left" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M14 6l-6 6l6 6v-12"></path>
+</svg>
+</i>
+      <span>Newer posts</span>
+    </a>
+  
+  
+    <a href="/page/189/"
+      class="flex flex-row text-base font-semibold rounded-md text-slate-700 dark:text-slate-300 bg-slate-200 dark:bg-gray-700 p-2 pl-3">
+      <span>Older posts</span>
+      <i class="h-6 w-6 flex-none ml-1"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-right" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M10 18l6 -6l-6 -6v12"></path>
+</svg>
+</i>
+    </a>
+  
+</div>
+
+
+  </div>
+
+  </main>
+  <footer class="flex flex-none justify-center">
+    <section class="flex flex-col md:flex-row mx-2 md:mx-0 gap-2 md:gap-0 justify-between w-full max-w-4xl lg:max-w-5xl py-6 text-slate-500 dark:text-slate-300">
+  <div class="flex flex-row">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  </div>
+  <div class="grow"></div>
+  <div class="flex flex-row">
+    <i class="h-6 w-6 flex-none"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+   <path d="M14 9.75a3.016 3.016 0 0 0 -4.163 .173a2.993 2.993 0 0 0 0 4.154a3.016 3.016 0 0 0 4.163 .173"></path>
+</svg>
+</i> 2023 - 2025 
+    
+  </div>
+  
+  <div class="flex flex-row">
+    <span class="ml-0 pl-0 md:ml-2 md:pl-2 border-l-0 md:border-l border-slate-300 dark:border-slate-400">
+      Powered by <a href="https://gohugo.io" target="_blank" rel="noopener" class="underline">Hugo</a> <span class="text-red-600">&hearts;</span> <a href="https://github.com/tomowang/hugo-theme-tailwind" target="_blank" rel="noopener" class="underline">Tailwind</a>
+    </span>
+  </div>
+  
+</section>
+
+  </footer>
+  <script src="/main.js"></script>
+
+
+
+
 </body>
-
 </html>

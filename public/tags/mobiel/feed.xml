@@ -6,22 +6,28 @@
     <description>Recent content in Mobiel on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Wed, 01 Aug 2007 14:33:26 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/mobiel/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marktfalen in de telecom</title>
       <link>http://localhost:1313/blog/marktfalen-in-de-telecom/</link>
-      <pubDate>Wed, 01 Aug 2007 14:33:26 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2007 14:33:26 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/08/marktfalen-in-de-telecom/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.parool.nl/nieuws/2007/AUG/01/eco2.html&#34;&gt;Berichtje in de Parool&lt;/a&gt; van iets wat natuurlijk al veel langer bekend is. Als je dataverkeer verbruikt in het buitenland dan betaal je je compleet scheel aan roaming mobiele data rates. En je hoeft er &lt;a href=&#34;http://www.marketingfacts.nl/berichten/20070215_vodafone_hsdpa_niet_doen/&#34;&gt;niet eens voor&lt;/a&gt; naar het buitenland ((Dat bericht over Vodafone leidde toen geloof ik nog tot een aardig staaltje belangenverstrengeling.)).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.parool.nl/nieuws/2007/AUG/01/eco2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berichtje in de Parool&lt;/a&gt;
+ van iets wat natuurlijk al veel langer bekend is. Als je dataverkeer verbruikt in het buitenland dan betaal je je compleet scheel aan roaming mobiele data rates. En je hoeft er &lt;a href=&#34;http://www.marketingfacts.nl/berichten/20070215_vodafone_hsdpa_niet_doen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;niet eens voor&lt;/a&gt;
+ naar het buitenland ((Dat bericht over Vodafone leidde toen geloof ik nog tot een aardig staaltje belangenverstrengeling.)).&lt;/p&gt;
 &lt;p&gt;Dit is een duidelijk geval van marktfalen, maar wat te doen? Een maximumprijs instellen op deze diensten werkt niet, omdat er dan wordt onder-geïnvesteerd zoals op de energiemarkt van Californië. Nutsificeren zou tof zijn maar de animo daarvoor ((De animo voor betrouwbare en goedkope diensten.)) is ontzettend laag.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nummerportabiliteit</title>
       <link>http://localhost:1313/blog/nummerportabiliteit/</link>
-      <pubDate>Thu, 19 Apr 2007 15:17:05 +0000</pubDate>
+      <pubDate>Thu, 19 Apr 2007 15:17:05 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/nummerportabiliteit/</guid> 
-      <description>&lt;p&gt;Mijn nummer is vandaag zonder enige problemen geporteerd van T-mobile ( &lt;a href=&#34;http://localhost:1313/blog/alper/552&#34;&gt;klootzakken&lt;/a&gt;) naar &lt;a href=&#34;http://www.orange.nl&#34;&gt;Orange&lt;/a&gt;. En dat terwijl ik het pas tien dagen geleden had aangevraagd en iedereen zei dat dat onmogelijk was etc. etc.&lt;/p&gt;
+      <description>&lt;p&gt;Mijn nummer is vandaag zonder enige problemen geporteerd van T-mobile ( &lt;a href=&#34;http://localhost:1313/blog/alper/552&#34;&gt;klootzakken&lt;/a&gt;
+) naar &lt;a href=&#34;http://www.orange.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orange&lt;/a&gt;
+. En dat terwijl ik het pas tien dagen geleden had aangevraagd en iedereen zei dat dat onmogelijk was etc. etc.&lt;/p&gt;
 &lt;p&gt;Dus ik ben nog steeds bereikbaar onder: +31 - 6 24 55 33 06. Probeer het gerust even uit.&lt;/p&gt;</description>
     </item>
   </channel>

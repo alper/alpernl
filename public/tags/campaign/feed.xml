@@ -6,15 +6,22 @@
     <description>Recent content in Campaign on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Thu, 31 Jul 2008 15:10:56 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/campaign/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A World That Donates As One</title>
       <link>http://localhost:1313/blog/a-world-that-donates-as-one/</link>
-      <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2008 15:10:56 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=325</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://my.barackobama.com/page/content/berlinvideo/&#34;&gt;Barack&amp;rsquo;s visit to Europe&lt;/a&gt; again makes clear how important it is to people over here who exactly is the &lt;a href=&#34;http://en.wikipedia.org/wiki/POTUS&#34;&gt;POTUS&lt;/a&gt;. A lot of people in Europe are interested and invested in American politics and for good reason if you see the effect the American&amp;rsquo;s actions can have on the rest of the world.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.focus.de/politik/diverses/umfrage-obama-erhaelt-positive-resonanz_aid_320391.html&#34;&gt;Polls show&lt;/a&gt; that Europeans overwhelmingly support Barack Obama and would like to see him in office as opposed to McCain. This makes it extra annoying that our power to influence the process is severely limited. American elections are in a large part dominated by money and &lt;a href=&#34;https://donate.barackobama.com/&#34;&gt;the raising of it&lt;/a&gt;. Unfortunately &lt;a href=&#34;http://my.barackobama.com/page/community/post/harryroes/gGCSfZ/commentary&#34;&gt;non-Americans are excluded&lt;/a&gt; from making donations. Something about foreigners not being allowed to elect the American President.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://my.barackobama.com/page/content/berlinvideo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barack&amp;rsquo;s visit to Europe&lt;/a&gt;
+ again makes clear how important it is to people over here who exactly is the &lt;a href=&#34;http://en.wikipedia.org/wiki/POTUS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POTUS&lt;/a&gt;
+. A lot of people in Europe are interested and invested in American politics and for good reason if you see the effect the American&amp;rsquo;s actions can have on the rest of the world.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.focus.de/politik/diverses/umfrage-obama-erhaelt-positive-resonanz_aid_320391.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polls show&lt;/a&gt;
+ that Europeans overwhelmingly support Barack Obama and would like to see him in office as opposed to McCain. This makes it extra annoying that our power to influence the process is severely limited. American elections are in a large part dominated by money and &lt;a href=&#34;https://donate.barackobama.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the raising of it&lt;/a&gt;
+. Unfortunately &lt;a href=&#34;http://my.barackobama.com/page/community/post/harryroes/gGCSfZ/commentary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-Americans are excluded&lt;/a&gt;
+ from making donations. Something about foreigners not being allowed to elect the American President.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

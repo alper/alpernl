@@ -6,12 +6,14 @@
     <description>Recent content in France on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Fri, 11 Jul 2008 10:51:46 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/france/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pre holiday wrapping up</title>
       <link>http://localhost:1313/blog/pre-holiday-wrapping-up/</link>
-      <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
+      <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=320</guid> 
       <description>&lt;p&gt;The summer may not have brought the best weather but still good times are around. This week finishing off some work before we&amp;rsquo;ll be going on an ill-prepared week long surftrip somewhere along the French Atlantic coast.&lt;/p&gt;
 &lt;p&gt;Seasoned travellers as we deem ourselves and busy as we are, we have dispensed with most of the preparation one would think would be necessary. We have some camping equipment, surfboards and roof carriers and lots of good humour to go around. That should be enough for any holiday.&lt;/p&gt;</description>
@@ -19,9 +21,12 @@
     <item>
       <title>Douce France</title>
       <link>http://localhost:1313/blog/douce-france/</link>
-      <pubDate>Thu, 08 May 2008 15:26:34 +0000</pubDate>
+      <pubDate>Thu, 08 May 2008 15:26:34 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=289</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/962735?pg=embed&amp;amp;sec=962735&#34;&gt;Justice - Stress&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/netsabes?pg=embed&amp;amp;sec=962735&#34;&gt;Sébastien Delahaye&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com?pg=embed&amp;amp;sec=962735&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/962735?pg=embed&amp;amp;sec=962735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Justice - Stress&lt;/a&gt;
+ from &lt;a href=&#34;http://www.vimeo.com/netsabes?pg=embed&amp;amp;sec=962735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sébastien Delahaye&lt;/a&gt;
+ on &lt;a href=&#34;http://vimeo.com?pg=embed&amp;amp;sec=962735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Veel plezier met GTAIV.&lt;/p&gt;</description>
     </item>
   </channel>

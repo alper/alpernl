@@ -1,7 +1,7 @@
 baseURL: https://alper.nl
 languageCode: en-US
 title: alper.nl
-theme: PaperMod
+theme: tailwind
 taxonomies:
   category: categories
   tag: tags
@@ -11,7 +11,7 @@ params:
   disableThemeToggle: true
   showShareButtons: true
   showReadingTime: true
-  showToc: false
+  Toc: false
   showBreadCrumbs: true
   showCodeCopyButtons: true
   comments: true

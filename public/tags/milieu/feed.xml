@@ -6,37 +6,50 @@
     <description>Recent content in Milieu on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sun, 25 May 2008 20:58:55 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/milieu/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wereldverbeteren</title>
       <link>http://localhost:1313/blog/wereldverbeteren/</link>
-      <pubDate>Sun, 25 May 2008 20:58:55 +0000</pubDate>
+      <pubDate>Sun, 25 May 2008 20:58:55 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=301</guid> 
-      <description>&lt;p&gt;Ik heb van mijn tripje naar Londen vorige week &lt;a href=&#34;http://fourstarters.com/2008/05/25/geekyoto-fixing-the-broken-world/&#34;&gt;de aantekeningen over de eendaagse Geekyoto conferentie&lt;/a&gt; geplaatst op Four Starters. Geen vervanging voor de dag zelf, maar veel interessante weetjes en referenties.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb van mijn tripje naar Londen vorige week &lt;a href=&#34;http://fourstarters.com/2008/05/25/geekyoto-fixing-the-broken-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de aantekeningen over de eendaagse Geekyoto conferentie&lt;/a&gt;
+ geplaatst op Four Starters. Geen vervanging voor de dag zelf, maar veel interessante weetjes en referenties.&lt;/p&gt;
 &lt;p&gt;Het is in het Engels en ik denk dat ik meer in het Engels ga schrijven, misschien ook op dit blog. Nederland is een te kleine vijver.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Snijdende kou</title>
       <link>http://localhost:1313/blog/snijdende-kou/</link>
-      <pubDate>Thu, 20 Dec 2007 07:25:13 +0000</pubDate>
+      <pubDate>Thu, 20 Dec 2007 07:25:13 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/snijdende-kou/</guid> 
       <description>&lt;p&gt;De laatste dagen is mijn huis niet warm te stoken. De verwarming loeit de hele dag op zijn hardst om het een beetje te harden te houden.
-&lt;a href=&#34;http://www.flickr.com/photos/alper/2123820476/&#34; title=&#34;Roofs by illustir, on Flickr&#34;&gt;&lt;img alt=&#34;Roofs&#34; loading=&#34;lazy&#34; src=&#34;http://farm3.static.flickr.com/2408/2123820476_9c5114d334.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/2123820476/&#34; title=&#34;Roofs by illustir, on Flickr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm3.static.flickr.com/2408/2123820476_9c5114d334.jpg&#34;
+      alt=&#34;Roofs&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+
 Verklaring hiervoor zichtbaar op de foto boven: mijn huis steekt uit het gebouw en de wind heeft vrij spel op vier zijden. Daarnaast is er geen noemenswaardige isolatie te vinden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>De skeptische wereldverbeteraar</title>
       <link>http://localhost:1313/blog/de-skeptische-wereldverbeteraar/</link>
-      <pubDate>Thu, 25 Oct 2007 20:54:18 +0000</pubDate>
+      <pubDate>Thu, 25 Oct 2007 20:54:18 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/de-skeptische-wereldverbeteraar/</guid> 
-      <description>&lt;p&gt;Volgens mij zitten er aardig wat &lt;a href=&#34;http://www.ted.com&#34;&gt;TED&lt;/a&gt;-kijkers onder mijn lezers hier. In de zoektocht om alle presentaties gezien te hebben, raad ik aan om &lt;a href=&#34;http://www.ted.com/index.php/talks/view/id/62&#34;&gt;de presentatie van Bjorn Lomborg&lt;/a&gt; naar voren te schuiven in de rij van te kjiken afleveringen.&lt;/p&gt;
+      <description>&lt;p&gt;Volgens mij zitten er aardig wat &lt;a href=&#34;http://www.ted.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED&lt;/a&gt;
+-kijkers onder mijn lezers hier. In de zoektocht om alle presentaties gezien te hebben, raad ik aan om &lt;a href=&#34;http://www.ted.com/index.php/talks/view/id/62&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de presentatie van Bjorn Lomborg&lt;/a&gt;
+ naar voren te schuiven in de rij van te kjiken afleveringen.&lt;/p&gt;
 &lt;p&gt;Lomborg is bekend van de controverse die hij ontketende met zijn boek The Skeptical Environmentalist ((Ik heb het hier nog liggen, bijna uitgelezen.)). In dat boek gebruikte hij statistische analyse om vrijwel alle standpunten die door de milieubeweging worden aangedragen onderuit te halen. En toen werden zijn analyses weer onderuit gehaald, maar dat is weer een ander verhaal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Popper over de noodzaak van vrede en rationalisme</title>
       <link>http://localhost:1313/blog/popper-over-de-noodzaak-van-vrede-en-rationalisme/</link>
-      <pubDate>Sun, 30 Sep 2007 22:22:19 +0000</pubDate>
+      <pubDate>Sun, 30 Sep 2007 22:22:19 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/10/popper-over-de-noodzaak-van-vrede-en-rationalisme/</guid> 
       <description>&lt;p&gt;In het hoofdstuk &amp;lsquo;Waging Wars for Peace&amp;rsquo; ((Een interview van Popper voor Der Spiegel in 1992)) legt Popper uit dat het ons gerechtvaardigd is om desnoods geweld te gebruiken en oorlog te voeren als we de verspreiding en het gebruik van kernwapens maar kunnen tegengaan.&lt;/p&gt;
 &lt;p&gt;Over de milieubeweging:&lt;/p&gt;
@@ -47,7 +60,7 @@ Environmental disasters are largely due to the population explosion, which we mu
     <item>
       <title>Actievoerders zijn niet de intelligentste mensen</title>
       <link>http://localhost:1313/blog/actievoerder-zijn-niet-de-intelligentste-mensen/</link>
-      <pubDate>Sun, 24 Jun 2007 21:43:06 +0000</pubDate>
+      <pubDate>Sun, 24 Jun 2007 21:43:06 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/actievoerder-zijn-niet-de-intelligentste-mensen/</guid> 
       <description>&lt;p&gt;Je kunt praten wat je wilt over het gebrek aan engagement in de samenleving en dat niemand meer bereid is tot actie maar misschien is dat wel een goed teken.&lt;/p&gt;
 &lt;p&gt;Je moet wel heel veel tijd en heel weinig intelligentie hebben om alles wat je hebt te laten vallen, ergens heen te gaan met een grote groep andere mensen en je te scharen achter een gepolariseerd standpunt en ongenuanceerde slogans.&lt;/p&gt;</description>
@@ -55,11 +68,24 @@ Environmental disasters are largely due to the population explosion, which we mu
     <item>
       <title>Koolstofneutraal is het nieuwe zwart</title>
       <link>http://localhost:1313/blog/koolstofneutrale-is-het-nieuwe-zwart/</link>
-      <pubDate>Fri, 11 May 2007 04:12:17 +0000</pubDate>
+      <pubDate>Fri, 11 May 2007 04:12:17 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/koolstofneutrale-is-het-nieuwe-zwart/</guid> 
-      <description>&lt;p&gt;Op &lt;a href=&#34;http://www.topdesk.com&#34;&gt;TOPdesk&lt;/a&gt; vandaag het nieuws dat al ons drukwerk ((Ja, ik weet het. Zó vorige eeuw.)) milieuvriendelijk gedrukt wordt ((Voor zover dat mogelijk is met een &lt;em&gt;dode-bomen-medium&lt;/em&gt;.))&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.dreamhost.com/green.cgi&#34;&gt;&lt;img alt=&#34;Green Web Hosting! This site hosted by DreamHost.&#34; loading=&#34;lazy&#34; src=&#34;https://secure.newdream.net/green1.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nu vraag je je af hoe wij moderne mensen ons steentje bij kunnen dragen tegen de klimaatcrisis. Ik krijg net de &lt;a href=&#34;http://dreamhost.com&#34;&gt;Dreamhost&lt;/a&gt; nieuwsbrief binnen waarin staat dat alle hosting bij hen nu koolstofneutraal is. Dus &lt;a href=&#34;http://alper.nl&#34;&gt;alper.nl&lt;/a&gt; is nu koolstofneutraal net zoals &lt;a href=&#34;http://fourstarters.com&#34;&gt;fourstarters.com&lt;/a&gt;, &lt;a href=&#34;http://tipit.to&#34;&gt;tipit.to&lt;/a&gt; en verschillende andere sites.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Op &lt;a href=&#34;http://www.topdesk.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOPdesk&lt;/a&gt;
+ vandaag het nieuws dat al ons drukwerk ((Ja, ik weet het. Zó vorige eeuw.)) milieuvriendelijk gedrukt wordt ((Voor zover dat mogelijk is met een &lt;em&gt;dode-bomen-medium&lt;/em&gt;.))&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dreamhost.com/green.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://secure.newdream.net/green1.gif&#34;
+      alt=&#34;Green Web Hosting! This site hosted by DreamHost.&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Nu vraag je je af hoe wij moderne mensen ons steentje bij kunnen dragen tegen de klimaatcrisis. Ik krijg net de &lt;a href=&#34;http://dreamhost.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamhost&lt;/a&gt;
+ nieuwsbrief binnen waarin staat dat alle hosting bij hen nu koolstofneutraal is. Dus &lt;a href=&#34;http://alper.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alper.nl&lt;/a&gt;
+ is nu koolstofneutraal net zoals &lt;a href=&#34;http://fourstarters.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fourstarters.com&lt;/a&gt;
+, &lt;a href=&#34;http://tipit.to&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tipit.to&lt;/a&gt;
+ en verschillende andere sites.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

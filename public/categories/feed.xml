@@ -6,355 +6,357 @@
     <description>Recent content in Categories on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Mon, 22 Dec 2025 08:14:48 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English</title>
       <link>http://localhost:1313/categories/english/</link>
-      <pubDate>Mon, 22 Dec 2025 08:14:48 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 08:14:48 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/english/</guid> 
       <description></description>
     </item>
     <item>
       <title>Nederlands</title>
       <link>http://localhost:1313/categories/nederlands/</link>
-      <pubDate>Mon, 22 Dec 2025 08:14:48 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 08:14:48 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/nederlands/</guid> 
       <description></description>
     </item>
     <item>
       <title>Politics</title>
       <link>http://localhost:1313/categories/politics/</link>
-      <pubDate>Mon, 22 Dec 2025 08:14:48 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 08:14:48 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/politics/</guid> 
       <description></description>
     </item>
     <item>
       <title>Software-Engineering</title>
       <link>http://localhost:1313/categories/software-engineering/</link>
-      <pubDate>Mon, 22 Dec 2025 00:29:20 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:29:20 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/software-engineering/</guid> 
       <description></description>
     </item>
     <item>
       <title>Deutsch</title>
       <link>http://localhost:1313/categories/deutsch/</link>
-      <pubDate>Mon, 22 Dec 2025 00:23:12 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:23:12 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/deutsch/</guid> 
       <description></description>
     </item>
     <item>
       <title>Maths</title>
       <link>http://localhost:1313/categories/maths/</link>
-      <pubDate>Mon, 22 Dec 2025 00:08:37 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:08:37 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/maths/</guid> 
       <description></description>
     </item>
     <item>
       <title>Climate</title>
       <link>http://localhost:1313/categories/climate/</link>
-      <pubDate>Mon, 22 Dec 2025 00:03:08 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:03:08 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/climate/</guid> 
       <description></description>
     </item>
     <item>
       <title>Strategy</title>
       <link>http://localhost:1313/categories/strategy/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:10 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:10 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/strategy/</guid> 
       <description></description>
     </item>
     <item>
       <title>Games</title>
       <link>http://localhost:1313/categories/games/</link>
-      <pubDate>Sun, 21 Dec 2025 23:51:01 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 23:51:01 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/games/</guid> 
       <description></description>
     </item>
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/categories/reading/</link>
-      <pubDate>Sun, 21 Dec 2025 23:47:05 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 23:47:05 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/reading/</guid> 
       <description></description>
     </item>
     <item>
       <title>Amsterdam</title>
       <link>http://localhost:1313/categories/amsterdam/</link>
-      <pubDate>Sun, 21 Dec 2025 09:41:07 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 09:41:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/amsterdam/</guid> 
       <description></description>
     </item>
     <item>
       <title>Internet</title>
       <link>http://localhost:1313/categories/internet/</link>
-      <pubDate>Sun, 21 Dec 2025 09:41:07 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 09:41:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/internet/</guid> 
       <description></description>
     </item>
     <item>
       <title>Product-/-Design</title>
       <link>http://localhost:1313/categories/product-/-design/</link>
-      <pubDate>Sun, 21 Dec 2025 09:41:07 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 09:41:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/product-/-design/</guid> 
       <description></description>
     </item>
     <item>
       <title>Leadership</title>
       <link>http://localhost:1313/categories/leadership/</link>
-      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/leadership/</guid> 
       <description></description>
     </item>
     <item>
       <title>San-Francisco</title>
       <link>http://localhost:1313/categories/san-francisco/</link>
-      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/san-francisco/</guid> 
       <description></description>
     </item>
     <item>
       <title>Video</title>
       <link>http://localhost:1313/categories/video/</link>
-      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 23:47:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/video/</guid> 
       <description></description>
     </item>
     <item>
       <title>Travel</title>
       <link>http://localhost:1313/categories/travel/</link>
-      <pubDate>Sun, 30 Nov 2025 11:38:30 +0000</pubDate>
+      <pubDate>Sun, 30 Nov 2025 11:38:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/travel/</guid> 
       <description></description>
     </item>
     <item>
       <title>Food</title>
       <link>http://localhost:1313/categories/food/</link>
-      <pubDate>Tue, 25 Nov 2025 13:16:25 +0000</pubDate>
+      <pubDate>Tue, 25 Nov 2025 13:16:25 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/food/</guid> 
       <description></description>
     </item>
     <item>
       <title>Tokyo</title>
       <link>http://localhost:1313/categories/tokyo/</link>
-      <pubDate>Tue, 25 Nov 2025 13:16:25 +0000</pubDate>
+      <pubDate>Tue, 25 Nov 2025 13:16:25 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/tokyo/</guid> 
       <description></description>
     </item>
     <item>
       <title>London</title>
       <link>http://localhost:1313/categories/london/</link>
-      <pubDate>Thu, 20 Nov 2025 21:34:47 +0000</pubDate>
+      <pubDate>Thu, 20 Nov 2025 21:34:47 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/london/</guid> 
       <description></description>
     </item>
     <item>
       <title>The-City</title>
       <link>http://localhost:1313/categories/the-city/</link>
-      <pubDate>Wed, 19 Nov 2025 21:54:39 +0000</pubDate>
+      <pubDate>Wed, 19 Nov 2025 21:54:39 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/the-city/</guid> 
       <description></description>
     </item>
     <item>
       <title>Kids</title>
       <link>http://localhost:1313/categories/kids/</link>
-      <pubDate>Fri, 24 Oct 2025 13:57:55 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 13:57:55 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/kids/</guid> 
       <description></description>
     </item>
     <item>
       <title>Work</title>
       <link>http://localhost:1313/categories/work/</link>
-      <pubDate>Tue, 21 Oct 2025 17:12:02 +0000</pubDate>
+      <pubDate>Tue, 21 Oct 2025 17:12:02 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/work/</guid> 
       <description></description>
     </item>
     <item>
       <title>Berlin</title>
       <link>http://localhost:1313/categories/berlin/</link>
-      <pubDate>Wed, 15 Oct 2025 16:27:11 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 16:27:11 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/berlin/</guid> 
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
       <link>http://localhost:1313/categories/philosophy/</link>
-      <pubDate>Mon, 29 Sep 2025 20:40:33 +0000</pubDate>
+      <pubDate>Mon, 29 Sep 2025 20:40:33 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/philosophy/</guid> 
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
       <link>http://localhost:1313/categories/podcast/</link>
-      <pubDate>Sat, 27 Sep 2025 11:54:47 +0000</pubDate>
+      <pubDate>Sat, 27 Sep 2025 11:54:47 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/podcast/</guid> 
       <description></description>
     </item>
     <item>
       <title>Agile</title>
       <link>http://localhost:1313/categories/agile/</link>
-      <pubDate>Fri, 12 Sep 2025 08:00:29 +0000</pubDate>
+      <pubDate>Fri, 12 Sep 2025 08:00:29 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/agile/</guid> 
       <description></description>
     </item>
     <item>
       <title>New-York</title>
       <link>http://localhost:1313/categories/new-york/</link>
-      <pubDate>Wed, 10 Sep 2025 21:22:41 +0000</pubDate>
+      <pubDate>Wed, 10 Sep 2025 21:22:41 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/new-york/</guid> 
       <description></description>
     </item>
     <item>
       <title>Cycling</title>
       <link>http://localhost:1313/categories/cycling/</link>
-      <pubDate>Tue, 26 Aug 2025 08:19:24 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 08:19:24 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/cycling/</guid> 
       <description></description>
     </item>
     <item>
       <title>Science</title>
       <link>http://localhost:1313/categories/science/</link>
-      <pubDate>Thu, 05 Jun 2025 22:22:58 +0000</pubDate>
+      <pubDate>Thu, 05 Jun 2025 22:22:58 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/science/</guid> 
       <description></description>
     </item>
     <item>
       <title>Sports</title>
       <link>http://localhost:1313/categories/sports/</link>
-      <pubDate>Sat, 22 Mar 2025 08:43:13 +0000</pubDate>
+      <pubDate>Sat, 22 Mar 2025 08:43:13 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/sports/</guid> 
       <description></description>
     </item>
     <item>
       <title>Photography</title>
       <link>http://localhost:1313/categories/photography/</link>
-      <pubDate>Tue, 25 Feb 2025 22:44:37 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2025 22:44:37 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/photography/</guid> 
       <description></description>
     </item>
     <item>
       <title>Turkish</title>
       <link>http://localhost:1313/categories/turkish/</link>
-      <pubDate>Tue, 18 Feb 2025 08:47:30 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2025 08:47:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/turkish/</guid> 
       <description></description>
     </item>
     <item>
       <title>Music</title>
       <link>http://localhost:1313/categories/music/</link>
-      <pubDate>Wed, 15 Jan 2025 09:59:08 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 09:59:08 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/music/</guid> 
       <description></description>
     </item>
     <item>
       <title>Theater</title>
       <link>http://localhost:1313/categories/theater/</link>
-      <pubDate>Sun, 05 Jan 2025 17:05:45 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2025 17:05:45 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/theater/</guid> 
       <description></description>
     </item>
     <item>
       <title>Japanese</title>
       <link>http://localhost:1313/categories/japanese/</link>
-      <pubDate>Sun, 03 Nov 2024 17:22:18 +0000</pubDate>
+      <pubDate>Sun, 03 Nov 2024 17:22:18 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/japanese/</guid> 
       <description></description>
     </item>
     <item>
       <title>Poetry</title>
       <link>http://localhost:1313/categories/poetry/</link>
-      <pubDate>Tue, 29 Oct 2024 18:03:02 +0000</pubDate>
+      <pubDate>Tue, 29 Oct 2024 18:03:02 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/poetry/</guid> 
       <description></description>
     </item>
     <item>
       <title>Art</title>
       <link>http://localhost:1313/categories/art/</link>
-      <pubDate>Thu, 10 Oct 2024 20:04:04 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2024 20:04:04 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/art/</guid> 
       <description></description>
     </item>
     <item>
       <title>Barcelona</title>
       <link>http://localhost:1313/categories/barcelona/</link>
-      <pubDate>Wed, 09 Aug 2023 10:11:51 +0000</pubDate>
+      <pubDate>Wed, 09 Aug 2023 10:11:51 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/barcelona/</guid> 
       <description></description>
     </item>
     <item>
       <title>Publicity</title>
       <link>http://localhost:1313/categories/publicity/</link>
-      <pubDate>Wed, 12 Apr 2023 14:33:46 +0000</pubDate>
+      <pubDate>Wed, 12 Apr 2023 14:33:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/publicity/</guid> 
       <description></description>
     </item>
     <item>
       <title>Istanbul</title>
       <link>http://localhost:1313/categories/istanbul/</link>
-      <pubDate>Sun, 12 Mar 2023 22:51:13 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 22:51:13 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/istanbul/</guid> 
       <description></description>
     </item>
     <item>
       <title>Climbing</title>
       <link>http://localhost:1313/categories/climbing/</link>
-      <pubDate>Sat, 04 Mar 2023 07:59:46 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2023 07:59:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/climbing/</guid> 
       <description></description>
     </item>
     <item>
       <title>Language</title>
       <link>http://localhost:1313/categories/language/</link>
-      <pubDate>Mon, 29 Nov 2021 08:37:26 +0000</pubDate>
+      <pubDate>Mon, 29 Nov 2021 08:37:26 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/language/</guid> 
       <description></description>
     </item>
     <item>
       <title>Delft</title>
       <link>http://localhost:1313/categories/delft/</link>
-      <pubDate>Wed, 29 Jan 2020 21:45:33 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2020 21:45:33 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/delft/</guid> 
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
       <link>http://localhost:1313/categories/portuguese/</link>
-      <pubDate>Sun, 01 Sep 2019 12:15:16 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 12:15:16 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/portuguese/</guid> 
       <description></description>
     </item>
     <item>
       <title>Open-State</title>
       <link>http://localhost:1313/categories/open-state/</link>
-      <pubDate>Mon, 10 Jun 2013 08:01:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2013 08:01:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/open-state/</guid> 
       <description></description>
     </item>
     <item>
       <title>Monster-Swell</title>
       <link>http://localhost:1313/categories/monster-swell/</link>
-      <pubDate>Sun, 17 Mar 2013 16:30:05 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2013 16:30:05 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/monster-swell/</guid> 
       <description></description>
     </item>
     <item>
       <title>Copenhagen</title>
       <link>http://localhost:1313/categories/copenhagen/</link>
-      <pubDate>Thu, 21 Jun 2012 11:39:06 +0000</pubDate>
+      <pubDate>Thu, 21 Jun 2012 11:39:06 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/copenhagen/</guid> 
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
       <link>http://localhost:1313/categories/uncategorized/</link>
-      <pubDate>Mon, 24 Jan 2011 15:18:07 +0000</pubDate>
+      <pubDate>Mon, 24 Jan 2011 15:18:07 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/uncategorized/</guid> 
       <description></description>
     </item>
     <item>
       <title>Capoeira</title>
       <link>http://localhost:1313/categories/capoeira/</link>
-      <pubDate>Thu, 22 Oct 2009 23:57:31 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2009 23:57:31 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/categories/capoeira/</guid> 
       <description></description>
     </item>

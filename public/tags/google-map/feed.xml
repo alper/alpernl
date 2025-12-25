@@ -6,14 +6,17 @@
     <description>Recent content in Google-Map on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Tue, 30 Mar 2010 15:37:44 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/google-map/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coworker.nl â€” Map of coworking spots in the Netherlands</title>
       <link>http://localhost:1313/blog/coworkernl--map-of-coworking-spots-in-the-netherlands/</link>
-      <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2010 15:37:44 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=333</guid> 
-      <description>&lt;p&gt;Some ideas start out small and then grow larger than you thought imaginable. &lt;a href=&#34;http://coworker.nl&#34;&gt;Coworker.nl&lt;/a&gt; is one such idea. This is a write up about how it came to be and how you can build your own.&lt;/p&gt;
+      <description>&lt;p&gt;Some ideas start out small and then grow larger than you thought imaginable. &lt;a href=&#34;http://coworker.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coworker.nl&lt;/a&gt;
+ is one such idea. This is a write up about how it came to be and how you can build your own.&lt;/p&gt;
 &lt;p&gt;As a wandering free agent, you end up in strange places and if you&amp;rsquo;re stuck somewhere, it could be useful to get some work done in the neighborhood. I was not the only person with this problem and I couldn&amp;rsquo;t find a good WiFi map either, so I thought we could start something up.&lt;/p&gt;</description>
     </item>
   </channel>

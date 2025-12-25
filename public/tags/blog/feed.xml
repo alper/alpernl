@@ -6,19 +6,21 @@
     <description>Recent content in Blog on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Thu, 19 Apr 2007 00:01:17 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/blog/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test nieuw bericht</title>
       <link>http://localhost:1313/blog/test-nieuw-bericht/</link>
-      <pubDate>Thu, 19 Apr 2007 00:01:17 +0000</pubDate>
+      <pubDate>Thu, 19 Apr 2007 00:01:17 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/test-nieuw-bericht/</guid> 
       <description>&lt;p&gt;Dit is een nieuw bericht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nieuw blog</title>
       <link>http://localhost:1313/blog/hello-world/</link>
-      <pubDate>Thu, 12 Apr 2007 13:06:06 +0000</pubDate>
+      <pubDate>Thu, 12 Apr 2007 13:06:06 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/blog/hello-world/</guid> 
       <description>&lt;p&gt;Dit is mijn nieuwe Wordpress blog.&lt;/p&gt;
 &lt;p&gt;Als je dit ziet, ben je mee gekomen met de verhuizing. Op wat browser en DNS cache probleempjes na lijkt alles goed te zijn gekomen.&lt;/p&gt;

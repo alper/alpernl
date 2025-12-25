@@ -6,12 +6,14 @@
     <description>Recent content in Openbaar-Vervoer on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Thu, 14 Feb 2008 15:15:32 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/openbaar-vervoer/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bijeenkomst SenterNovem Mobiliteitsmanagement</title>
       <link>http://localhost:1313/blog/bijeenkomst-senternovem-mobiliteitsmanagement/</link>
-      <pubDate>Thu, 14 Feb 2008 15:15:32 +0000</pubDate>
+      <pubDate>Thu, 14 Feb 2008 15:15:32 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/bijeenkomst-senternovem-mobiliteitsmanagement/</guid> 
       <description>&lt;p&gt;Voor wie het nog niet weet, ik ben bezig met een initiatief rondom mobiliteit, internet en sociale netwerken. Met het oog daarop volg ik het nieuws en de verschillende overheidsprogramma&amp;rsquo;s hierover in Nederland.&lt;/p&gt;
 &lt;p&gt;Ik denk dat mijn initiatief gebaat is met een grote hoeveelheid openheid en ik denk zeker ook niet dat ik het in mijn eentje zal kunnen doen. Daarom zal ik binnenkort op dit weblog uitleggen wat ik wil hebben (en wat ik bereid ben te bouwen).&lt;/p&gt;</description>
@@ -19,16 +21,18 @@
     <item>
       <title>Mifare gekraakt</title>
       <link>http://localhost:1313/blog/mifare-gekraakt/</link>
-      <pubDate>Wed, 09 Jan 2008 08:53:30 +0000</pubDate>
+      <pubDate>Wed, 09 Jan 2008 08:53:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2008/01/mifare-gekraakt/</guid> 
-      <description>&lt;p&gt;Een &lt;a href=&#34;http://www.volkskrant.nl/economie/article492709.ece/Geheime_code_van_ov-kaart_ligt_op_straat&#34;&gt;artikel in de Volkskrant&lt;/a&gt; vandaag over hoe het algemene systeem van de OV-chipkaarten is gekraakt. Dit is aangekondigd door een groep hackers op de CCC in Berlijn tijdens hun presentatie: &lt;a href=&#34;http://events.ccc.de/congress/2007/Fahrplan/track/Hacking/2378.en.html&#34;&gt;Mifare: Little Security, Despite Obscurity&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Een &lt;a href=&#34;http://www.volkskrant.nl/economie/article492709.ece/Geheime_code_van_ov-kaart_ligt_op_straat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artikel in de Volkskrant&lt;/a&gt;
+ vandaag over hoe het algemene systeem van de OV-chipkaarten is gekraakt. Dit is aangekondigd door een groep hackers op de CCC in Berlijn tijdens hun presentatie: &lt;a href=&#34;http://events.ccc.de/congress/2007/Fahrplan/track/Hacking/2378.en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mifare: Little Security, Despite Obscurity&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Het artikel in de VK laat niets doorschemeren van de techniek en het falen daarvan dus ik ga vanavond de presentatie bekijken om te zien wat er nu precies aan de hand is. Dan dus meer hierover.
 Als dit inderdaad is wat het lijkt en wat Rop Gonggrijp gelijk heet met: ‘Deze chipkaarttechnologie is weg, stuk, niet meer te gebruiken.’ dan is het een belachelijke schande.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open reisinformatie voor de mensen</title>
       <link>http://localhost:1313/blog/open-reisinformatie-voor-de-mensen/</link>
-      <pubDate>Mon, 24 Dec 2007 14:08:30 +0000</pubDate>
+      <pubDate>Mon, 24 Dec 2007 14:08:30 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/12/open-reisinformatie-voor-de-mensen/</guid> 
       <description>&lt;p&gt;Ik zit al een tijdje na te denken over reisinformatie en het zou erg fijn zijn als die informatie makkelijk publiek beschikbaar zou zijn. Het is in het huidige klimaat kansloos en dat maakt het zo jammer want je zou er ontzettend veel handige dingen mee kunnen doen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Idee 1:&lt;/strong&gt; Een widget op je bureaublad met daarin altijd de volgende trein/bus/tram naar drie locaties waar je vaak heengaat. Een soort snelkoppelingen maar dan beter.

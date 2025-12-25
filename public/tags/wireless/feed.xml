@@ -6,16 +6,20 @@
     <description>Recent content in Wireless on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Fri, 09 May 2008 06:47:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/wireless/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breedband luchtkastelen</title>
       <link>http://localhost:1313/blog/breedband-luchtkastelen/</link>
-      <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate>
+      <pubDate>Fri, 09 May 2008 06:47:28 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=290</guid> 
       <description>&lt;p&gt;Ik zat gisteren op station Leiden verlegen om een klein beetje internet om iets op te zoeken. Voor die paar minuten had ik geen zin om aan KPN €5,95 te betalen voor een uur toegang, dus ik &lt;em&gt;war walkte&lt;/em&gt; een beetje om me heen.&lt;/p&gt;
-&lt;p&gt;Nu zijn er rond Leiden genoeg draadloze netwerken, maar ze zitten vrijwel allemaal dicht wat wel enigzins begrijpelijk is als je in de buurt van het station woont. Ik ben ondertussen gewend om als ik langs Den Haag HS kom bij het gebouw van de globe in de trein te kunnen internetten met het &lt;a href=&#34;http://www.q42.nl&#34;&gt;groetjes van Q42.nl netwerk&lt;/a&gt;. Hoe erg is het om die gastvrijheid aan te bieden? Kleine kans dat mensen uren op het station rondhangen om van jouw internet gebruik te maken ((Zeker niet gezien hoe slecht Nederlandse stations zijn ingericht.))
-&lt;a href=&#34;http://coworker.nl&#34;&gt;Coworker.nl&lt;/a&gt; heeft ook nog geen enkel café of kantoor met draadloos internet op de kaart staan voor Leiden.&lt;/p&gt;</description>
+&lt;p&gt;Nu zijn er rond Leiden genoeg draadloze netwerken, maar ze zitten vrijwel allemaal dicht wat wel enigzins begrijpelijk is als je in de buurt van het station woont. Ik ben ondertussen gewend om als ik langs Den Haag HS kom bij het gebouw van de globe in de trein te kunnen internetten met het &lt;a href=&#34;http://www.q42.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;groetjes van Q42.nl netwerk&lt;/a&gt;
+. Hoe erg is het om die gastvrijheid aan te bieden? Kleine kans dat mensen uren op het station rondhangen om van jouw internet gebruik te maken ((Zeker niet gezien hoe slecht Nederlandse stations zijn ingericht.))
+&lt;a href=&#34;http://coworker.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coworker.nl&lt;/a&gt;
+ heeft ook nog geen enkel café of kantoor met draadloos internet op de kaart staan voor Leiden.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

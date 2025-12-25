@@ -6,12 +6,14 @@
     <description>Recent content in Iphone on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Fri, 11 Jul 2008 10:51:46 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/iphone/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pre holiday wrapping up</title>
       <link>http://localhost:1313/blog/pre-holiday-wrapping-up/</link>
-      <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate>
+      <pubDate>Fri, 11 Jul 2008 10:51:46 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=320</guid> 
       <description>&lt;p&gt;The summer may not have brought the best weather but still good times are around. This week finishing off some work before we&amp;rsquo;ll be going on an ill-prepared week long surftrip somewhere along the French Atlantic coast.&lt;/p&gt;
 &lt;p&gt;Seasoned travellers as we deem ourselves and busy as we are, we have dispensed with most of the preparation one would think would be necessary. We have some camping equipment, surfboards and roof carriers and lots of good humour to go around. That should be enough for any holiday.&lt;/p&gt;</description>
@@ -19,11 +21,23 @@
     <item>
       <title>Apple&#39;s new iPhone</title>
       <link>http://localhost:1313/blog/apples-new-iphone/</link>
-      <pubDate>Mon, 09 Jun 2008 23:08:40 +0000</pubDate>
+      <pubDate>Mon, 09 Jun 2008 23:08:40 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=310</guid> 
-      <description>&lt;p&gt;Today was a day of many happy occasions. The Dutch national soccer team &lt;a href=&#34;http://ek2008.nos.nl/nieuws/artikel/ID/tcm:45-384948/titel/oranje-speelt-wereldkampioen-zoek&#34;&gt;utterly crushed&lt;/a&gt; the reigning world champion 3-0. And Steve Jobs held his annual WWDC address announcing a 3G iPhone for the masses.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://skitch.com/alper/pj2r/apple&#34;&gt;&lt;img alt=&#34;Apple&#34; loading=&#34;lazy&#34; src=&#34;http://img.skitch.com/20080609-p6scjakg2b8c57bj3jkcqfkd7w.preview.jpg&#34;&gt;&lt;/a&gt; Uploaded with &lt;a href=&#34;http://plasq.com/&#34;&gt;plasq&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://skitch.com&#34;&gt;Skitch&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;“Twice as fast. Half the price.”Hell yeah. I will be getting me one. It&amp;rsquo;s been some &lt;a href=&#34;http://localhost:1313/blog/alper/552&#34;&gt;two years&lt;/a&gt; since T-Mobile shafted me and I can&amp;rsquo;t exactly say that the other telcos in the Netherlands are worth a damn. Might as well go back for 2 years of servitude.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today was a day of many happy occasions. The Dutch national soccer team &lt;a href=&#34;http://ek2008.nos.nl/nieuws/artikel/ID/tcm:45-384948/titel/oranje-speelt-wereldkampioen-zoek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;utterly crushed&lt;/a&gt;
+ the reigning world champion 3-0. And Steve Jobs held his annual WWDC address announcing a 3G iPhone for the masses.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://skitch.com/alper/pj2r/apple&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://img.skitch.com/20080609-p6scjakg2b8c57bj3jkcqfkd7w.preview.jpg&#34;
+      alt=&#34;Apple&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+ Uploaded with &lt;a href=&#34;http://plasq.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plasq&lt;/a&gt;
+&amp;rsquo;s &lt;a href=&#34;http://skitch.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skitch&lt;/a&gt;
+!&lt;/p&gt;
+&lt;p&gt;“Twice as fast. Half the price.”Hell yeah. I will be getting me one. It&amp;rsquo;s been some &lt;a href=&#34;http://localhost:1313/blog/alper/552&#34;&gt;two years&lt;/a&gt;
+ since T-Mobile shafted me and I can&amp;rsquo;t exactly say that the other telcos in the Netherlands are worth a damn. Might as well go back for 2 years of servitude.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

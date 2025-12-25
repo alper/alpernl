@@ -6,47 +6,75 @@
     <description>Recent content in Huishoudelijk on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Wed, 12 Dec 2007 20:17:08 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/huishoudelijk/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wordpress openid nu nog beter</title>
       <link>http://localhost:1313/blog/wordpress-openid-nu-nog-beter/</link>
-      <pubDate>Wed, 12 Dec 2007 20:17:08 +0000</pubDate>
+      <pubDate>Wed, 12 Dec 2007 20:17:08 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/11/wordpress-openid-nu-nog-beter/</guid> 
-      <description>&lt;p&gt;Met de vorige versie van de wpopenid+ plugin werden commentaren op dit blog van OpenID-gebruikers anoniem geplaatst. Nu is &lt;a href=&#34;http://openid.net&#34;&gt;OpenID&lt;/a&gt; een identity systeem, en meestal is anonimiteit wel mogelijk maar niet direct de bedoeling.&lt;/p&gt;
-&lt;p&gt;Nu met de update heb ik even &lt;a href=&#34;http://wordpress.org/extend/plugins/openid/&#34;&gt;de nieuwste versie van die plugin&lt;/a&gt; geïnstalleerd en het lijkt erop dat alles veel soepeler werkt. Ik kan nu in ieder geval met mijn OpenID correct inloggen als admin. En jullie?&lt;/p&gt;</description>
+      <description>&lt;p&gt;Met de vorige versie van de wpopenid+ plugin werden commentaren op dit blog van OpenID-gebruikers anoniem geplaatst. Nu is &lt;a href=&#34;http://openid.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenID&lt;/a&gt;
+ een identity systeem, en meestal is anonimiteit wel mogelijk maar niet direct de bedoeling.&lt;/p&gt;
+&lt;p&gt;Nu met de update heb ik even &lt;a href=&#34;http://wordpress.org/extend/plugins/openid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de nieuwste versie van die plugin&lt;/a&gt;
+ geïnstalleerd en het lijkt erop dat alles veel soepeler werkt. Ik kan nu in ieder geval met mijn OpenID correct inloggen als admin. En jullie?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eindelijk WiFi in huis</title>
       <link>http://localhost:1313/blog/eindelijk-wifi-in-huis/</link>
-      <pubDate>Sat, 04 Aug 2007 10:50:05 +0000</pubDate>
+      <pubDate>Sat, 04 Aug 2007 10:50:05 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/05/eindelijk-wifi-in-huis/</guid> 
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/486973408/&#34; title=&#34;photo sharing&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.flickr.com/photos/alper/486973408/&#34;&gt;linksys&lt;/a&gt;, originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/alper/&#34;&gt;illustir&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/486973408/&#34; title=&#34;photo sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg&#34;
+      alt=&#34;&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/486973408/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linksys&lt;/a&gt;
+, originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/alper/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;illustir&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Sinds ik een Mac heb maak ik gebruik van het bestaande draadnetwerk in huis. Het is een beetje primitief maar met de twee kabels die er zijn kon ik op de meeste plekken wel internetten.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/487004211/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Mess of cables&#34; loading=&#34;lazy&#34; src=&#34;http://farm1.static.flickr.com/223/487004211_69d9698c1c_m.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;De drang naar WiFi was er wel maar het was nog niet zo makkelijk te realiseren. In de eerste plaats was onze internet router een oude Linux-bak ((Die ook begon te piepen en te kraken. Ik weet niet meer hoeveel foute sectoren er op die harde schijf stonden maar blijkbaar markeert Linux die dan en gaat gewoon verder. Hij heeft prima als web-/fileserver gefunctioneerd met als enige manco dat de /-partitie minder dan 40Mb vrij had.)) waar tegelijkertijd de webserver ((Dit waren zowel een Apache frontend webserver alswel een complete geproxyde &lt;a href=&#34;http://www.zope.org&#34;&gt;Zope&lt;/a&gt; installatie waar het blog onder draaide. Het feit dat Zope zo bijzonder exotisch is, zorgde ervoor dat migratie naar een standaard PHP/MySQL hosting provider niet één-twee-drie geklaard was.)) van &lt;a href=&#34;http://alper.nl&#34;&gt;alper.nl&lt;/a&gt; op draaide. Dat moest dus blijven draaien. Met &lt;a href=&#34;http://localhost:1313/blog/alper/830&#34;&gt;de recente migratie&lt;/a&gt; van alles van alper.nl naar &lt;a href=&#34;http://www.dreamhost.com&#34;&gt;Dreamhost&lt;/a&gt; is de weg dus vrij gemaakt voor het opheffen van die bak en het installeren van een echte draadloze router.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/487004211/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm1.static.flickr.com/223/487004211_69d9698c1c_m.jpg&#34;
+      alt=&#34;Mess of cables&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;De drang naar WiFi was er wel maar het was nog niet zo makkelijk te realiseren. In de eerste plaats was onze internet router een oude Linux-bak ((Die ook begon te piepen en te kraken. Ik weet niet meer hoeveel foute sectoren er op die harde schijf stonden maar blijkbaar markeert Linux die dan en gaat gewoon verder. Hij heeft prima als web-/fileserver gefunctioneerd met als enige manco dat de /-partitie minder dan 40Mb vrij had.)) waar tegelijkertijd de webserver ((Dit waren zowel een Apache frontend webserver alswel een complete geproxyde &lt;a href=&#34;http://www.zope.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zope&lt;/a&gt;
+ installatie waar het blog onder draaide. Het feit dat Zope zo bijzonder exotisch is, zorgde ervoor dat migratie naar een standaard PHP/MySQL hosting provider niet één-twee-drie geklaard was.)) van &lt;a href=&#34;http://alper.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alper.nl&lt;/a&gt;
+ op draaide. Dat moest dus blijven draaien. Met &lt;a href=&#34;http://localhost:1313/blog/alper/830&#34;&gt;de recente migratie&lt;/a&gt;
+ van alles van alper.nl naar &lt;a href=&#34;http://www.dreamhost.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamhost&lt;/a&gt;
+ is de weg dus vrij gemaakt voor het opheffen van die bak en het installeren van een echte draadloze router.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Even testen</title>
       <link>http://localhost:1313/blog/even-testen/</link>
-      <pubDate>Sun, 22 Apr 2007 12:16:10 +0000</pubDate>
+      <pubDate>Sun, 22 Apr 2007 12:16:10 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/even-testen/</guid> 
-      <description>&lt;p&gt;Ik heb net de onnavolgbare voetnoten plugin gedownload en geïnstalleerd op dit blog ((En wel &lt;a href=&#34;http://www.elvery.net/drzax/more-things/wordpress-footnotes-plugin/&#34;&gt;hiervandaan&lt;/a&gt;.)).&lt;/p&gt;
-&lt;p&gt;Voetnoten en voetnoten in voetnoten en daartussen heen en weer kunnen springen zijn fijne dingen. Online nog het bekendste van onze fijnste Mac-fanboy site &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;. De opmaak is niet aller-semantischt maar het werkt wel, hoop ik.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb net de onnavolgbare voetnoten plugin gedownload en geïnstalleerd op dit blog ((En wel &lt;a href=&#34;http://www.elvery.net/drzax/more-things/wordpress-footnotes-plugin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hiervandaan&lt;/a&gt;
+.)).&lt;/p&gt;
+&lt;p&gt;Voetnoten en voetnoten in voetnoten en daartussen heen en weer kunnen springen zijn fijne dingen. Online nog het bekendste van onze fijnste Mac-fanboy site &lt;a href=&#34;http://daringfireball.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daring Fireball&lt;/a&gt;
+. De opmaak is niet aller-semantischt maar het werkt wel, hoop ik.&lt;/p&gt;
 &lt;p&gt;Dus hierbij even getest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test nieuw bericht</title>
       <link>http://localhost:1313/blog/test-nieuw-bericht/</link>
-      <pubDate>Thu, 19 Apr 2007 00:01:17 +0000</pubDate>
+      <pubDate>Thu, 19 Apr 2007 00:01:17 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/04/test-nieuw-bericht/</guid> 
       <description>&lt;p&gt;Dit is een nieuw bericht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nieuw blog</title>
       <link>http://localhost:1313/blog/hello-world/</link>
-      <pubDate>Thu, 12 Apr 2007 13:06:06 +0000</pubDate>
+      <pubDate>Thu, 12 Apr 2007 13:06:06 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://localhost:1313/blog/hello-world/</guid> 
       <description>&lt;p&gt;Dit is mijn nieuwe Wordpress blog.&lt;/p&gt;
 &lt;p&gt;Als je dit ziet, ben je mee gekomen met de verhuizing. Op wat browser en DNS cache probleempjes na lijkt alles goed te zijn gekomen.&lt;/p&gt;

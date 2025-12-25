@@ -6,15 +6,18 @@
     <description>Recent content in Portuguese on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sun, 01 Sep 2019 12:15:16 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/portuguese/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/blog/15649/</link>
-      <pubDate>Sun, 01 Sep 2019 12:15:16 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 12:15:16 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/?p=15649</guid> 
       <description>&lt;p&gt;I can&amp;rsquo;t get enough of these literary exposés, this one about how Benjamin Moser treats female collaborators and appropriates their work.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lareviewofbooks.org/article/benjamin-moser-and-the-smallest-woman-in-the-world/&#34;&gt;https://lareviewofbooks.org/article/benjamin-moser-and-the-smallest-woman-in-the-world/&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://lareviewofbooks.org/article/benjamin-moser-and-the-smallest-woman-in-the-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lareviewofbooks.org/article/benjamin-moser-and-the-smallest-woman-in-the-world/&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

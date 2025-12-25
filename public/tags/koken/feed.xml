@@ -6,14 +6,18 @@
     <description>Recent content in Koken on alper.nl</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-US</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
     <lastBuildDate>Sat, 08 May 2010 17:05:04 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/koken/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Barre culi-ervaring bij de Albert Heijn</title>
       <link>http://localhost:1313/blog/barre-culi-ervaring-bij-de-albert-heijn/</link>
-      <pubDate>Sat, 08 May 2010 17:05:04 +0000</pubDate>
+      <pubDate>Sat, 08 May 2010 17:05:04 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/</guid> 
-      <description>&lt;p&gt;Net bij &lt;a href=&#34;http://www.ah.nl/&#34;&gt;de supermarkt&lt;/a&gt; geweest voor ingrediënten om &lt;a href=&#34;http://localhost:1313/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/&#34;&gt;Robby Rodriguez&amp;rsquo;s&lt;/a&gt; recept te maken.&lt;/p&gt;
+      <description>&lt;p&gt;Net bij &lt;a href=&#34;http://www.ah.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;de supermarkt&lt;/a&gt;
+ geweest voor ingrediënten om &lt;a href=&#34;http://localhost:1313/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/&#34;&gt;Robby Rodriguez&amp;rsquo;s&lt;/a&gt;
+ recept te maken.&lt;/p&gt;
 &lt;p&gt;Zoals normaal bij de Albert Heijn hebben ze bijna niks.&lt;/p&gt;
 &lt;p&gt;Bakpoeder bestaat in Nederland geloof ik niet als concept. Ik daarvoor in de plaats maar zelfrijzend bakmeel genomen.&lt;/p&gt;
 &lt;p&gt;Maïsolie was er niet maar wel maïskiemolie, dat zal dan wel bijna hetzelfde zijn.&lt;/p&gt;
@@ -22,26 +26,60 @@
     <item>
       <title>Het was weer zo&#39;n weekend</title>
       <link>http://localhost:1313/blog/het-was-weer-zon-weekend/</link>
-      <pubDate>Sun, 29 Jul 2007 20:23:15 +0000</pubDate>
+      <pubDate>Sun, 29 Jul 2007 20:23:15 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/07/het-was-weer-zon-weekend/</guid> 
       <description>&lt;p&gt;Barbecue in Uilenstede, goede vrienden en capoeira:
-&lt;a href=&#34;http://www.flickr.com/photos/alper/939873408/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Cabeça&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1189/939873408_dbbff1b740.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/939891882/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Sea of Green&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1317/939891882_f1826fb512.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/photos/alper/939862114/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Barbecue Ratinha&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1397/939862114_ffae0a60d7.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/939873408/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1189/939873408_dbbff1b740.jpg&#34;
+      alt=&#34;Cabeça&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/939891882/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1317/939891882_f1826fb512.jpg&#34;
+      alt=&#34;Sea of Green&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/alper/939862114/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1397/939862114_ffae0a60d7.jpg&#34;
+      alt=&#34;Barbecue Ratinha&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;En de hilarische:
-&lt;a href=&#34;http://www.flickr.com/photos/alper/940319144/&#34; title=&#34;Photo Sharing&#34;&gt;&lt;img alt=&#34;Psycho Killer, qu&amp;rsquo;est-ce que c&amp;rsquo;est?&#34; loading=&#34;lazy&#34; src=&#34;http://farm2.static.flickr.com/1200/940319144_bd2006be1d.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;http://www.flickr.com/photos/alper/940319144/&#34; title=&#34;Photo Sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://farm2.static.flickr.com/1200/940319144_bd2006be1d.jpg&#34;
+      alt=&#34;Psycho Killer, qu&amp;rsquo;est-ce que c&amp;rsquo;est?&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tacos, een verslag</title>
       <link>http://localhost:1313/blog/tacos-een-verslag/</link>
-      <pubDate>Tue, 03 Jul 2007 16:33:04 +0000</pubDate>
+      <pubDate>Tue, 03 Jul 2007 16:33:04 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/tacos-een-verslag/</guid> 
-      <description>&lt;p&gt;Hier nog even de foto&amp;rsquo;s van &lt;a href=&#34;http://localhost:1313/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/&#34;&gt;de tacos van laatst&lt;/a&gt;. Het was erg lekker maar het kan nog verbeterd. Foto&amp;rsquo;s maken terwijl je aan het koken bent is niet handig.&lt;/p&gt;
+      <description>&lt;p&gt;Hier nog even de foto&amp;rsquo;s van &lt;a href=&#34;http://localhost:1313/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/&#34;&gt;de tacos van laatst&lt;/a&gt;
+. Het was erg lekker maar het kan nog verbeterd. Foto&amp;rsquo;s maken terwijl je aan het koken bent is niet handig.&lt;/p&gt;
 &lt;p&gt;Fijn om nu te weten hoe je tortillas met ei en aardappel maakt. In Spanje overal te krijgen, een eenvoudige maar erg lekkere snack.&lt;/p&gt;
-&lt;p&gt;De tortillakoeken zijn niet heel goed gelukt ((Waarschijnlijk door &lt;a href=&#34;http://localhost:1313/dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/&#34;&gt;het gebrek&lt;/a&gt; aan bakpoeder.)) maar ze waren nog steeds stukken lekkerder —en minder rubberachtig— dan de dingen die je in de supermarkt koopt. Het maken van je eigen brood geeft ook een goed gevoel.&lt;/p&gt;</description>
+&lt;p&gt;De tortillakoeken zijn niet heel goed gelukt ((Waarschijnlijk door &lt;a href=&#34;http://localhost:1313/dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/&#34;&gt;het gebrek&lt;/a&gt;
+ aan bakpoeder.)) maar ze waren nog steeds stukken lekkerder —en minder rubberachtig— dan de dingen die je in de supermarkt koopt. Het maken van je eigen brood geeft ook een goed gevoel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recept: &#34;Sin City&#34; Ontbijttaco&#39;s door Robert Rodriguez</title>
       <link>http://localhost:1313/blog/recept-sin-city-ontbijttacos-door-robert-rodriguez/</link>
-      <pubDate>Sat, 09 Jun 2007 21:35:09 +0000</pubDate>
+      <pubDate>Sat, 09 Jun 2007 21:35:09 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/</guid> 
       <description>&lt;p&gt;Hier het recept uit de video. Ik heb een Engelse transcriptie gevonden die ik gebruikt heb. Mijn recept met meer Detail in het Nederlands en met metrieke maten.&lt;/p&gt;
 &lt;p&gt;Toevoegingen welkom. Woensdag mijn bevindingen en foto&amp;rsquo;s.&lt;/p&gt;
@@ -52,12 +90,13 @@ Robert Rodriguez&amp;rsquo;s video: &lt;div style=&#34;position: relative; paddi
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Z27W-JZHjC8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-Engelse transcriptie: &lt;a href=&#34;http://goodeats.dyns.net/viewtopic.php?p=274440&amp;amp;sid=83a923022c7a1944028a0023a47b71f3&#34;&gt;http://goodeats.dyns.net/viewtopic.php?p=274440&amp;amp;sid=83a923022c7a1944028a0023a47b71f3&lt;/a&gt;&lt;/p&gt;</description>
+Engelse transcriptie: &lt;a href=&#34;http://goodeats.dyns.net/viewtopic.php?p=274440&amp;amp;sid=83a923022c7a1944028a0023a47b71f3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://goodeats.dyns.net/viewtopic.php?p=274440&amp;sid=83a923022c7a1944028a0023a47b71f3&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Er wordt weer gekookt</title>
       <link>http://localhost:1313/blog/er-wordt-weer-gekookt/</link>
-      <pubDate>Sat, 09 Jun 2007 20:02:50 +0000</pubDate>
+      <pubDate>Sat, 09 Jun 2007 20:02:50 +0000</pubDate><author>user@example.com (Hugo Author)</author>
        <guid isPermaLink="false">http://alper.nl/dingen/2007/06/er-wordt-weer-gekookt/</guid> 
       <description>&lt;p&gt;Vandaag de geest gekregen om voor het eerst in tijden weer te koken. In de stress met afstuderen, kwam het er niet echt meer van. Doordeweeks is eten in combinatie met capoeira ook niet echt te doen. Dat komt meestal neer op een snel broodje vooraf en een stoommaaltijd erna tegen elven.&lt;/p&gt;
 &lt;p&gt;Half experimenteel, half pakje. Een pak lasagnetta gekocht in de supermarkt maar ik vond de variatiesuggesties wat tam. Dus er een groene paprika, prei, zwarte olijven en halve radijsen ((Gaargekookte radijs is wat bijzonder maar niet storend.)) doorheen gegooid. De melk was opgegaan in de cappuccino vanmiddag ((Je moet nu eenmaal prioriteiten stellen.)), dus die vervangen met een flink toet Philadelphia.&lt;/p&gt;</description>
