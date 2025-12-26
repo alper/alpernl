@@ -8,22 +8,29 @@ taxonomies:
   category: categories
 params:
   contentTypeName: "content/posts"
-  description: The homepage of Alper Cugun
-  defaultTheme: auto
-  disableThemeToggle: true
-  showShareButtons: true
+  description: Alper.nl
   showReadingTime: false
   Toc: false
-  showBreadCrumbs: true
-  showCodeCopyButtons: true
   comments: true
   showAuthor: true
+  author:
+    name: "Alper Cugun"
   search:
-    summaryInclude: 0
-  hideFooter: true
-  assets:
-    favicon: /favicon.ico
-    disableHLJS: true
+    summaryInclude: 500
+  social_media:
+    items:
+      - title: "Bluesky"
+        icon: "brand-bluesky"
+        enabled: true
+        link: "https://bsky.app/profile/alper.nl"
+      - title: "Instagram"
+        icon: "brand-instagram"
+        enabled: true
+        link: "https://www.instagram.com/alper/"
+      - title: "Linkedin"
+        icon: "brand-linkedin"
+        enabled: true
+        link: "https://www.linkedin.com/in/alper/"
 markup:
   highlight:
     codeFences: true
