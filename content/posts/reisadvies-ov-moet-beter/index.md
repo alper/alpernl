@@ -13,6 +13,6 @@ aliases:
 ---
 Ik zou zeggen “duh!”, maar je kunt net zo goed zeggen dat dit een revolutie inluidt:
 
-[![Reisadvies ov moet beter](105-01.gif)](105-01.gif)
+[![Reisadvies ov moet beter](105-01.png)](105-01.png)
 
 Heel vet. Laten we zien wat er gebeurt.

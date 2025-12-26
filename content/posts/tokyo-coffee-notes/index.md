@@ -91,7 +91,7 @@ What Streamer does do really well is to be a nice place to hangout. There were l
 
  [![On the Corner](http://farm3.staticflickr.com/2841/9724062436_0e2cbccabc_z.jpg)](http://www.flickr.com/photos/alper/9724062436/ "On the Corner by illustir, on Flickr")
 
-The last stop this day was the Shibuya On the Corner Bear Pond No. 8 ( [checkin](>https://foursquare.com/alper/checkin/5229a575498e4ba40dd33173), [tip](https://foursquare.com/item/523f360f11d2626ef8372b35)) take-out bar which is a beautiful store front with attached coffee bar where you can sit on a handful of stools and recharge your phone or as it seems to be the intention: take out your coffee. You get an expertly drawn coffee with milk in it and a no photo policy is in effect here as well, so I can show you the cup I drank it from:
+The last stop this day was the Shibuya On the Corner Bear Pond No. 8 ( [checkin](https://foursquare.com/alper/checkin/5229a575498e4ba40dd33173), [tip](https://foursquare.com/item/523f360f11d2626ef8372b35)) take-out bar which is a beautiful store front with attached coffee bar where you can sit on a handful of stools and recharge your phone or as it seems to be the intention: take out your coffee. You get an expertly drawn coffee with milk in it and a no photo policy is in effect here as well, so I can show you the cup I drank it from:
 
 [![Bear Pond No. 8](http://farm3.staticflickr.com/2828/9724085178_f1247a2345_z.jpg)](http://www.flickr.com/photos/alper/9724085178/ "Bear Pond No. 8 by illustir, on Flickr")
 

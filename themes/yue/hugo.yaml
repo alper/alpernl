@@ -1,0 +1,20 @@
+# Default config
+module:
+  hugoVersion:
+    extended: true
+    min: 0.147.1
+
+params:
+  toc: true # Table of Contents
+  tocFolded: true
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+  highlight:
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    noClasses: false

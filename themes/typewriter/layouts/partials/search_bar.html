@@ -1,0 +1,14 @@
+<form onsubmit="searchBarSubmit(event)">
+  <div class="search-bar">
+    {{- partial "svg/search.svg" -}}
+      <input id="searchInput" type="text" placeholder="{{- i18n "search_placeholder" -}}"/>
+  </div>
+</form>
+
+<script>
+  function searchBarSubmit(event) {
+    event.preventDefault();
+    const relativeUrl = `{{- absURL site.Params.rtwt.searchPath -}}/?q=${encodeURIComponent(event.target.elements['searchInput'].value)}`;
+    window.location.href = relativeUrl;
+  }
+</script>

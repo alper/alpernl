@@ -1,0 +1,20 @@
+{
+  "name": "hugo-bearneo",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A feature-rich [Hugo](https://gohugo.io/) theme ported from [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog), originally based on ʕ•ᴥ•ʔ [Bear Blog](https://bearblog.dev), offering upvote buttons, elegant TOC, and UX refinements.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokcso/hugo-bearneo.git"
+  },
+  "author": {
+    "name": "Rokcso",
+    "email": "rokcsox@gmail.com",
+    "url": "https://rokcso.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rokcso/hugo-bearneo/issues"
+  },
+  "homepage": "https://github.com/rokcso/hugo-bearneo#readme"
+}

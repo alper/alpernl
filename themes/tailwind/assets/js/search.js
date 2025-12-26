@@ -1,4 +1,4 @@
-(function() {
+(function () {
   const searchParams = new URLSearchParams(window.location.search);
   const keywords = searchParams.get('search').trim();
   const searchInput = document.getElementById('search-input');
@@ -20,10 +20,10 @@
     threshold: searchOptions.threshold,
     // refer layouts/search/search.json
     keys: [
-      {name: "title", weight: 0.8},
-      {name: "content", weight: 0.5},
-      {name: "tags", weight: 0.2},
-      {name: "categories", weight: 0.2},
+      { name: "title", weight: 0.8 },
+      { name: "content", weight: 0.5 },
+      { name: "tags", weight: 0.2 },
+      { name: "categories", weight: 0.2 },
     ],
   };
 
@@ -47,7 +47,7 @@
       <a href="{{= it.permalink }}">{{! it.title }}</a>
     </h2>
     <h3 class="my-4 text-large text-slate-600 dark:text-slate-300">
-      {{! it.snippet }}
+      {{! it.snippet }} <a class="underline" href="{{= it.permalink }}">(read more)</a>
     </h3>
     <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
       {{~ it.categories :v }}

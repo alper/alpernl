@@ -1,0 +1,23 @@
+{
+  "name": "Yue",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "hugo server --navigateToChanged --source exampleSite/ --themesDir ../..",
+    "server:shared": "hugo server --navigateToChanged --bind 0.0.0.0 --source exampleSite/ --themesDir ../..",
+    "server:production": "hugo server --navigateToChanged --environment production --source exampleSite/ --themesDir ../..",
+    "build": "hugo --source exampleSite/ --themesDir ../..",
+    "build:minify": "hugo --minify --source exampleSite/ --themesDir ../..",
+    "clean": "rm -r exampleSite/public/",
+    "clean:server": "npm run clean; npm run server",
+    "clean:server:shared": "npm run clean; npm run server:shared",
+    "clean:server:production": "npm run clean; npm run server:production",
+    "clean:build": "npm run clean; npm run build"
+  },
+  "hugo-bin": {
+    "buildTags": "extended",
+    "version": "0.147.1"
+  },
+  "devDependencies": {
+    "hugo-bin": "^0.144.1"
+  }
+}

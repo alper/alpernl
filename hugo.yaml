@@ -1,37 +1,117 @@
 baseURL: https://alper.nl
 languageCode: en-US
 title: alper.nl
-theme: tailwind
+theme: blowfish
 pagination:
   pagerSize: 50
+summaryLength: 1
 taxonomies:
-  category: categories
+  category: "categories"
+  tag: "tags"
+  author: "authors"
+  series: "series"
+sitemap:
+  changeFreq: "daily"
+related:
+  threshold: 0
+  toLower: true
+  indices:
+  - name: "tags"
+    weight: 100
+  - name: "categories"
+    weight: 100
+  - name: "series"
+    weight: 50
+  - name: "authors"
+    weight: 20
+  - name: "date"
+    weight: 10
+  - name: "fragmentrefs"
+    type: "fragments"
+    weight: 10
+    applyFilter: false
 params:
-  contentTypeName: "content/posts"
   mainSections: ['posts']
   description: Alper.nl
   showReadingTime: false
-  Toc: false
-  comments: true
-  showAuthor: true
   author:
     name: "Alper Cugun"
+    image: "alper.jpg"
+    links:
+      - mastodon: "https://rls.social/@alper"
+      - instagram: "https://www.instagram.com/alper/"
+      - bluesky: "https://bsky.app/profile/alper.nl"
+      - linkedin: "https://linkedin.com/in/alper"
+      - github: "https://github.com/alper"
+  enableSearch: true
   search:
     summaryInclude: 500
-  social_media:
-    items:
-      - title: "Bluesky"
-        icon: "brand-bluesky"
-        enabled: true
-        link: "https://bsky.app/profile/alper.nl"
-      - title: "Instagram"
-        icon: "brand-instagram"
-        enabled: true
-        link: "https://www.instagram.com/alper/"
-      - title: "Linkedin"
-        icon: "brand-linkedin"
-        enabled: true
-        link: "https://www.linkedin.com/in/alper/"
+  sidebar:
+    enable: true
+    widgets: ['categories', 'social']
+    showCounts: true
+    social:
+      linkedin: alper
+      instagram: alper
+  # rtwt:
+  #   home:
+  #     showRecent: false
+  #   sidePane: true
+  #   countPageItems: 25
+  #   side:
+  #     home:
+  #       sidePaneSticky: true
+  #       taxonomies:
+  #         - 'categories'
+  #       countTaxonomy: 25
+
+  # Blowfish
+  colorScheme: "slate"
+  homepage:
+    layout: "page"
+    showRecent: true
+    showRecentItems: 10
+    showMoreLink: true
+    cardView: true
+  article:
+    showAuthorBottom: true
+    showReadingTime: false
+    showTableOfContents: true
+    showTaxonomies: true
+    sharingLinks: ["bluesky", "mastodon", "reddit", "linkedin"]
+    showRelatedContent: true
+    relatedContentLimit: 3
+  list:
+    showSummary: true
+  term:
+    groupByYear: true
+
+  # Tailwind
+  # showAuthor: false
+  # contentTypeName: "posts"
+
+  # Octopress
+  # generateTaxonomyList: true
+  # sidebarMenuEnabled: true
+  # sidebarHeader: "Sidebar"
+  # sidebarMenuHeader: "Sidebar menu"
+
+  # truncate: false
+  # disableReadingTime: true
+  # social_media:
+  #   items:
+  #     - title: "Bluesky"
+  #       icon: "brand-bluesky"
+  #       enabled: true
+  #       link: "https://bsky.app/profile/alper.nl"
+  #     - title: "Instagram"
+  #       icon: "brand-instagram"
+  #       enabled: true
+  #       link: "https://www.instagram.com/alper/"
+  #     - title: "Linkedin"
+  #       icon: "brand-linkedin"
+  #       enabled: true
+  #       link: "https://www.linkedin.com/in/alper/"
 markup:
   highlight:
     codeFences: true
@@ -51,14 +131,33 @@ outputFormats:
     baseName: feed
 menus:
   main:
-    - name: Post
-      identifier: post
-      pageRef: /posts
-      weight: 10
+  - name: "Posts"
+    pageRef: "posts"
+  - name: "Categories"
+    pageRef: "categories"
+  # - name: "Tags"
+  #   pageRef: "tags"
 permalinks:
   page:
     posts: /blog/:contentbasename/
     pages: /:slug/
   section:
-    posts: /blog/
-    pages: /
+    posts: /posts/
+    pages: /pages/
+
+# For Tailroad
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: assets/notwatching/hugo_stats\.json
+    target: css
+  - source: (postcss|tailwind)\.config\.js
+    target: css
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - disableWatch: true
+    source: hugo_stats.json
+    target: assets/notwatching/hugo_stats.json

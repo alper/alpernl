@@ -1,21 +1,28 @@
 {{ define "content" }}
-{{ $posts := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-{{ $pinned := sort (where $posts "Params.pinned" true) "Date" "desc" }}
-{{ $unpinned := sort (where $posts "Params.pinned" "ne" true) "Date" "desc" }}
+  {{ $posts := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+  {{ $pinned := sort (where $posts "Params.pinned" true) "Date" "desc" }}
+  {{ $unpinned := sort (where $posts "Params.pinned" "ne" true) "Date" "desc" }}
 
-{{ $ordered := slice }}
+  {{ $ordered := slice }}
+
   {{ range $pinned }}
     {{ $ordered = $ordered | append . }}
   {{ end }}
+
   {{ range $unpinned }}
     {{ $ordered = $ordered | append . }}
   {{ end }}
-{{ $paginator := .Paginate $ordered }}
-<div class="text-sm text-gray-700 dark:text-gray-300">
-  {{ .Content }}
-</div>
-{{ range $paginator.Pages }}
-{{ partial "card.html" . }}
-{{ end }}
-{{ partial "pagination.html" . }}
+
+  {{ $paginator := .Paginate $ordered }}
+
+  <div class="text-sm text-gray-700 dark:text-gray-300">
+    {{ .Content }}
+  </div>
+
+
+  {{ range $paginator.Pages }}
+    {{ partial "card.html" . }}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
 {{ end }}
