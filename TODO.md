@@ -57,6 +57,8 @@
   * [x] Remove the _edit_last, parent_post_id and _wpas_done_all fields
   * [x] Check for other superfluous fields to be removed
 * [ ] Backport old blog content into markdown
+* [ ] Download statick.flickr images and put them into the bundles
+* [ ] Fix footnotes that are of the (()) format
 
 
 Ask Claude:

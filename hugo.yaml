@@ -7,6 +7,7 @@ pagination:
 taxonomies:
   category: categories
 params:
+  contentTypeName: "content/posts"
   description: The homepage of Alper Cugun
   defaultTheme: auto
   disableThemeToggle: true
@@ -16,6 +17,9 @@ params:
   showBreadCrumbs: true
   showCodeCopyButtons: true
   comments: true
+  showAuthor: true
+  search:
+    summaryInclude: 0
   hideFooter: true
   assets:
     favicon: /favicon.ico
@@ -37,8 +41,12 @@ outputFormats:
   RSS:
     mediaType: application/rss+xml
     baseName: feed
-menu:
-  main: []
+menus:
+  main:
+    - name: Post
+      identifier: post
+      pageRef: /posts
+      weight: 10
 permalinks:
   page:
     posts: /blog/:contentbasename/
