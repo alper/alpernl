@@ -1,0 +1,26 @@
+{{- define "content" -}}
+  {{- with .Title -}}
+      <h2 class="text-base font-semibold text-gray-900 dark:text-white">
+        {{- . -}}
+      </h2>
+  {{- end -}}
+  <div class="text-sm text-gray-700 dark:text-gray-300">
+      {{- .Content -}}
+  </div>
+  <section class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">      
+    <div class="flex flex-wrap gap-4">
+    {{- range .Pages -}}
+        <a href="{{- .RelPermalink -}}"
+              class="block w-64 p-4 bg-gray-100 dark:bg-gray-800 rounded shadow hover:bg-gray-200 dark:hover:bg-gray-700 transition">
+      <h2 class="text-base font-semibold text-gray-900 dark:text-white mb-2 truncate">
+        {{- .LinkTitle | truncate 50 -}}
+      </h2>
+      {{- with .Summary -}}
+      <p class="text-sm text-gray-700 dark:text-gray-300 line-clamp-2">{{- . -}}</p>
+      {{- end -}}
+    </a>
+  {{- end -}}
+  </div>
+
+  </section>
+{{- end -}}

@@ -1,0 +1,19 @@
+{{- if and .Site.Params.giscus.repo (index .Params "comments" | default "true") }}
+<div class="giscus mt-8">
+<script src="https://giscus.app/client.js"
+        data-repo="{{ .Site.Params.giscus.repo }}"
+        data-repo-id="{{ .Site.Params.giscus.repoid }}" 
+        data-category="{{ .Site.Params.giscus.category }}"
+        data-category-id="{{ .Site.Params.giscus.categoryid }}"
+        data-mapping="{{ .Site.Params.giscus.mapping }}"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="{{ .Site.Params.giscus.theme }}"
+        data-lang="{{ .Site.Params.giscus.lang }}"
+        crossorigin="anonymous"
+        async>
+</script>
+</div>
+{{- end }}

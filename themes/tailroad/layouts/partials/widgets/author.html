@@ -1,0 +1,17 @@
+{{ $author := or .Site.Params.author .Params.author }}
+{{ $email := lower (trim $author.email " ") }}
+{{ $hash := md5 $email }}
+{{ $gravatar := printf "https://www.gravatar.com/avatar/%s?s=200&d=retro" $hash }}
+{{ $avatar := cond (ne $author.avatar "") $author.avatar $gravatar }}
+
+<div class="bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-4 shadow-md text-center">    
+  <img src="{{ $avatar }}" alt="{{ $author.name }}" class="inline-block w-12 h-12 rounded-full overflow-hidden ring-2 ring-white dark:ring-gray-700 object-cover">     
+  <h3 class="text-lg font-semibold text-gray-800 dark:text-white">{{ $author.name }}</h3>
+  <p class="text-sm text-gray-600 dark:text-gray-300 mt-1">{{ $author.bio }}</p>
+  {{ if $author.website }}
+  <a href="{{ $author.website }}" class="text-blue-600 dark:text-blue-400 text-sm inline-block mt-2 hover:underline" target="_blank" rel="noopener noreferrer">
+    Visit Website
+  </a>
+  {{ end }}
+</div>
+

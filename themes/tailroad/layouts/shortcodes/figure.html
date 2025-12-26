@@ -1,0 +1,20 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $link := .Get "link" -}}
+{{- $caption := .Get "caption" -}}
+{{- $align := .Get "align" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+
+<figure class="{{ $class }} {{ if eq $align "center" }} mx-auto text-center{{ end }}">
+  {{ if $link }}
+    <a href="{{ $link }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ $src }}" alt="{{ $alt }}" class="{{ if eq $align "center" }} mx-auto{{ end }}">
+    </a>
+  {{ else }}
+    <img src="{{ $src }}" alt="{{ $alt }}" class="{{ if eq $align "center" }} mx-auto{{ end }}">
+  {{ end }}
+
+  {{ with $caption }}
+    <figcaption class="text-sm text-gray-500 mt-0.5">{{ . }}</figcaption>
+  {{ end }}
+</figure>

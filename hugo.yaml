@@ -8,6 +8,7 @@ taxonomies:
   category: categories
 params:
   contentTypeName: "content/posts"
+  mainSections: ['posts']
   description: Alper.nl
   showReadingTime: false
   Toc: false

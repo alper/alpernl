@@ -1,0 +1,66 @@
+baseURL: "/"
+title: TailRoad
+languageCode: en-US
+theme: tailroad
+
+params:  
+  logo:
+    image: images/logo.svg #LOGO takes precedence over title
+    title: MySite
+  copyright: example.org.  Some rights reserved.
+  mainSections: ['posts']
+  author:
+    name: "Author"
+    bio: "Self Hosting Enthusiast."
+    email: "admin@example.org"
+    avatar: ""
+    website: "https://example.org"
+
+  sidebar:
+    enable: true # Default is false
+    showCounts: false
+    recentsCount: 6 # Default is 5
+    widgets: ['recent', 'categories', 'tags', 'social']
+    social:
+      email: admin@example.com
+      linkedin: example-2b0a8b140
+      github: example
+      facebook: example
+      twitter: example
+      instagram: example
+      telegram: example
+      custom:
+        gitlab:
+          name: GitLab 
+          icon: images/gitlab.svg
+          url: https://gitlab.com/example
+        bitbucket: 
+          name: BitBucket
+          icon: images/bitbucket.svg
+          url: https://gitlab.com/example
+
+pagination:
+  pagerSize: 8
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: ['html', 'rss', 'json']
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: -100
+    - identifier: about
+      name: About
+      url: /about/
+      weight: -90 
+  footer:
+    - identifier: contact
+      name: Coffee
+      url: /hugo/coffee/

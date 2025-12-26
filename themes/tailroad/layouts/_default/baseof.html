@@ -1,0 +1,55 @@
+{{- $showSideBar := (site.Params.sidebar.enable | default false) -}}
+{{- if .IsPage -}}
+  {{- if .Params.toc -}}
+    {{- $showSideBar = true -}}
+  {{- else -}}
+    {{- $showSideBar = false -}}
+  {{- end -}}
+{{- end -}}
+
+<!DOCTYPE html>
+<html class=""
+id="theme-root" 
+lang="{{- site.Language.LanguageCode -}}" 
+dir="{{- or site.Language.LanguageDirection `ltr` -}}">
+
+<head>
+  {{- partial "head.html" . -}}  
+</head>
+
+<body class="flex flex-col text-gray-900 dark:text-white bg-white dark:bg-gray-900">
+  {{- partial "header.html" . -}}  
+  
+  <main id="main-content" class="w-full" role="main">
+    <div class="mx-auto max-w-5xl w-full py-6 px-4 sm:px-6 lg:px-8">
+
+      {{- if $showSideBar -}} 
+        <div class="grid grid-cols-1 lg:grid-cols-[1fr_30%] gap-6">
+      {{- else -}}
+          <div class="grid grid-cols-1 lg:grid-cols-[1fr]">
+      {{- end -}}
+
+      <section id="posts" class="space-y-2">
+        {{- block "content" . -}}
+          {{- .Content -}}
+        {{- end -}}
+      </section>
+      
+      {{- if $showSideBar -}}
+        <aside id="sidebar-right" aria-label="Sidebar"
+        class="hidden lg:block sticky  rounded shadow   
+              {{ if .IsPage }} top-16 max-h-[calc(100vh-6rem)] {{ end }}">
+          {{- partial "sidebar-right.html" . -}}
+        </aside>
+      {{- end -}}
+      
+      </div>
+    </div> 
+</main>
+  <footer class="border-t border-gray-200 dark:border-gray-700">
+      {{- partial "footer.html" . -}}
+  </footer>
+  {{- partial "scroll.html" . -}}
+  {{- partial "scripts.html" . -}}
+</body>
+</html>

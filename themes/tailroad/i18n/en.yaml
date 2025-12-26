@@ -1,0 +1,16 @@
+# - id: 
+#   translation: ""
+- id: social
+  translation: "Social"
+- id: tags
+  translation: "Tags"
+- id: categories
+  translation: "Categories"
+- id: recent_posts
+  translation: "Recent Posts"
+- id: contents
+  translation: "Contents"
+- id: search
+  translation: "Search"
+- id: footer_credits
+  translation: "Generated with <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\" class=\"hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700\">Hugo</a> and <a href=\"https://github.com/Sathishbs/Tailroad/\" class=\"hover:border-transparent hover:bg-purple-600 hover:text-white active:bg-purple-700\" rel=\"nofollow noopener\" target=\"_blank\">Tailroad</a> theme."

@@ -1,0 +1,12 @@
+{{ define "content" }}
+{{ $taxonomy := .Title | lower }}
+<h1 class="text-2xl mb-6">{{ $taxonomy | upper }}</h1>
+ <div class="flex flex-wrap gap-3">
+  {{ range $term, $val := index site.Taxonomies $taxonomy }}
+          <a href="{{ (path.Join "/" $taxonomy (urlize $term)) | relLangURL }}" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 text-sm rounded-full hover:bg-gray-300 dark:hover:bg-gray-600 transition">
+          {{ $term | title }}{{ if site.Params.sidebar.showCounts }} ({{ len $val }}) {{ end }}
+        </a>
+  {{ end }}
+ </div>     
+{{ end }}
+ 

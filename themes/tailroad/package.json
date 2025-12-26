@@ -1,0 +1,15 @@
+{
+  "name": "tailroad",
+  "description": "hugo tailwindcss boilerplate",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "hugo server --source exampleSite --themesDir ../.. -D --cleanDestinationDir --disableFastRender",
+    "build": "hugo --source exampleSite --themesDir ../.. --environment production --forceSyncStatic --gc --minify --templateMetrics --templateMetricsHints",
+    "preview": "hugo server --source exampleSite --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.7",
+    "@tailwindcss/typography": "^0.5.16",
+    "tailwindcss": "^4.1.7"
+  }
+}

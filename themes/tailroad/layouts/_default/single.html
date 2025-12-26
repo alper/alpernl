@@ -1,0 +1,13 @@
+{{- define "content" -}}
+<h1 class="text-3xl font-bold mb-2">{{- .Title -}}</h1>
+{{- partial "pagedetails.html" (dict "taxonomy" "categories"  "page" .) -}}
+
+<article class="prose dark:prose-invert max-w-none">
+  {{- .Content -}}
+</article>
+<br>
+
+{{- partial "terms.html" (dict "taxonomy" "tags" "icon" "fa-tags" "page" .) -}}
+<br>
+{{- partial "comments.html" . -}}
+{{- end -}}

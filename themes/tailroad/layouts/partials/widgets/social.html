@@ -1,0 +1,63 @@
+{{- if site.Params.sidebar.social }}
+<div class="bg-gray-100 dark:bg-gray-800 rounded-lg p-4 shadow mb-4">
+    <span class="flex items-center gap-2">
+      <i class="fas fa-globe"></i>
+    <p class="text-md mb-0">{{ T "social" | upper }}</p>
+    </span>
+    <hr class="border-t border-2 border-blue-500 dark:border-blue-400">
+    <div class="mt-1.5 flex space-x-4 justify-center border-b border-gray-300 dark:border-gray-700 pb-2">
+        {{- with site.Params.sidebar.social.email -}}
+        <a href="mailto:{{ . }}" aria-label="Email"
+            class="text-gray-500 hover:text-blue-500 dark:hover:text-blue-400 transition">
+            <i data-lucide="mail" class="w-5 h-5"></i>
+        </a>
+        {{- end -}}
+        {{- with site.Params.sidebar.social.linkedin -}}
+        <a href="https://linkedin.com/in/{{ . }}/" target="_blank" aria-label="LinkedIn"
+            class="text-gray-500 hover:text-blue-500 dark:hover:text-blue-400 transition">
+            <i data-lucide="linkedin" class="w-5 h-5"></i>
+        </a>
+        {{- end -}}
+        {{- with site.Params.sidebar.social.github -}}
+        <a href="https://github.com/{{ . }}" target="_blank" aria-label="GitHub"
+            class="text-gray-500 hover:text-blue-500 dark:hover:text-blue-400 transition">
+            <i data-lucide="github" class="w-5 h-5"></i>
+        </a>
+        {{- end -}}
+        {{- with site.Params.sidebar.social.facebook -}}
+        <a href="https://facebook.com/{{ . }}" target="_blank" aria-label="Facebook"
+            class="text-gray-500 hover:text-blue-500 dark:hover:text-blue-400 transition">
+            <i data-lucide="facebook" class="w-5 h-5"></i>
+        </a>
+        {{- end -}}
+        {{- with site.Params.sidebar.social.twitter -}}
+        <a href="https://twitter.com/{{ . }}" target="_blank" aria-label="Twitter"
+            class="text-gray-500 hover:text-blue-500 dark:hover:text-blue-400 transition">
+            <i data-lucide="twitter" class="w-5 h-5"></i>
+        </a>
+        {{- end -}}
+        {{- with site.Params.sidebar.social.instagram -}}
+        <a href="https://instagram.com/{{ . }}" target="_blank" aria-label="Instagram"
+            class="text-gray-500 hover:text-blue-500 dark:hover:text-blue-400 transition">
+            <i data-lucide="instagram" class="w-5 h-5"></i>
+        </a>
+        {{- end -}}
+    </div>
+
+    <div class="mt-2 space-y-1">
+        {{- range $platform, $data := site.Params.sidebar.social.custom -}}
+        <a href="{{ $data.url }}" target="_blank"
+            class="flex items-center w-full p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 border border-gray-300 dark:border-gray-600  active:scale-[0.98] transform transition">
+            <div class="flex items-center justify-end">
+                {{- if $data.icon -}}
+                <img src="{{ $data.icon | relURL }}" alt="" class="w-5 h-5 mr-2">
+                {{- else -}}
+                <i data-lucide="{{ lower $platform }}" class="w-5 h-5 mr-2"></i>
+                {{- end -}}
+                <span class="text-gray-700 dark:text-gray-300">{{ $data.name }}</span>
+            </div>
+        </a>
+        {{- end -}}
+    </div>
+</div>
+{{- end -}}
