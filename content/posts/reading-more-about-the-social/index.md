@@ -4,6 +4,7 @@ categories:
   - english
   - internet
   - reading
+  - philosophy
 date: "2014-02-24T10:08:58+00:00"
 title: Reading more about the social
 aliases:

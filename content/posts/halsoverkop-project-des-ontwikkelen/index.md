@@ -4,6 +4,7 @@ categories:
   - nederlands
   - politics
   - work
+  - climate
 date: "2009-02-17T12:41:32+00:00"
 title: Halsoverkop project-des-ontwikkelen
 aliases:

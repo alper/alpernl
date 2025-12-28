@@ -10,7 +10,7 @@ aliases:
   - /dingen/2011/11/week-242/
 
 ---
-Going on with [Apps voor Nederland](http://appsvoornederland.nl/) and _culiacan_ (which is almost done by now). Also did a brief intermediate scripting and renedring moving text for a [TA](http://www.toneelgroepamsterdam.nl/) theater piece.
+Going on with [Apps voor Nederland](http://appsvoornederland.nl/) and _culiacan_ (which is almost done by now). Also did a brief intermediate scripting and rendering moving text for a [TA](http://www.toneelgroepamsterdam.nl/) theater piece.
 
 [![Rennend naar de borrel zoals vanouds - Vice vertelt iets over porno en verticaal bewegen](6309344353_669b8b1f05.jpg)](http://www.flickr.com/photos/alper/6309344353/ "Rennend naar de borrel zoals vanouds - Vice vertelt iets over porno en verticaal bewegen by illustir, on Flickr")
 

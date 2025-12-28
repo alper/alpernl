@@ -4,6 +4,7 @@ categories:
   - berlin
   - english
   - games
+  - theater
 date: "2012-04-11T17:45:12+00:00"
 title: A Dutch theater debate in Berlin
 aliases:

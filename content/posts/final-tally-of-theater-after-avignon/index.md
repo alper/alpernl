@@ -2,6 +2,8 @@
 author: alper
 categories:
   - english
+  - theater
+  - travel
 date: "2012-07-27T14:04:33+00:00"
 title: Final tally of theater after Avignon
 aliases:

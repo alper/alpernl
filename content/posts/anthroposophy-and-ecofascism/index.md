@@ -3,6 +3,9 @@ author: alper
 categories:
   - english
   - politics
+  - climate
+  - philosophy
+  - german
 date: "2022-01-30T01:13:50+00:00"
 title: Anthroposophy and Ecofascism
 aliases:

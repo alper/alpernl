@@ -4,6 +4,7 @@ categories:
   - berlin
   - english
   - music
+  - theater
 date: "2015-10-12T16:01:08+00:00"
 title: Les Contes d'Hoffmann
 aliases:

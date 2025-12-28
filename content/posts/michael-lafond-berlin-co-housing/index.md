@@ -5,6 +5,7 @@ categories:
   - berlin
   - english
   - product-design
+  - the-city
 date: "2011-10-24T22:21:34+00:00"
 title: Michael LaFond - Berlin Co-Housing
 aliases:

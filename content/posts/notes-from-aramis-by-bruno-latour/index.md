@@ -3,6 +3,7 @@ author: alper
 categories:
   - english
   - reading
+  - philosophy
 date: "2013-11-02T19:13:36+00:00"
 title: Notes from Aramis by Bruno Latour
 aliases:

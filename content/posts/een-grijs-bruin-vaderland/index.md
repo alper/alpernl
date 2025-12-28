@@ -3,7 +3,7 @@ author: alper
 categories:
   - nederlands
   - politics
-  - reading
+  - poetry
   - video
 date: "2010-10-29T10:06:08+00:00"
 title: Een grijs-bruin vaderland

@@ -95,7 +95,7 @@
   * [x] Remove the _edit_last, parent_post_id and _wpas_done_all fields
   * [x] Check for other superfluous fields to be removed
 * [ ] Backport old blog content into markdown
-* [ ] Download static.flickr images and put them into the bundles
+* [x] Download static.flickr images and put them into the bundles
 * [x] Fix footnotes that are of the (()) format
 
 * [x] More charset issues
@@ -114,20 +114,12 @@
 * [x] What happened with the image in this post? http://localhost:1313/blog/17632/
 * [x] More encoding issues: (15ź centigrade), taquerÃ­as, 30-35Ëš C., mÃ­jn
 
-* [ ] Pick a better theme
-  * Triple Hyde is good
 * [ ] Get rid of all GIFs
 * [ ] Create impressum page?
 
 
-Ask Claude:
 
-* Turn each post into a hugo page bundle
-* Go through the static folder and copy it to any post that references it while updating the links to it in all posts to be relative
-* Remove all URL fields?
-* Fix all the double encoding issues
-
-
+* [ ] Fix mp3s and other assets that didn't make it over
   Broken links (files don't exist):
 
   These references remain but point to non-existent files:

@@ -4,6 +4,7 @@ categories:
   - english
   - travel
   - food
+  - tokyo
 date: "2013-10-20T16:58:16+00:00"
 title: Tokyo Coffee Notes
 aliases:

@@ -7,6 +7,7 @@ categories:
   - travel
 date: "2025-11-25T13:16:25+00:00"
 title: Iseji - Day 1 - Tamura to Misedani
+series: ["Iseji"]
 aliases:
   - /dingen/2025/11/iseji-day-1-tamura-to-misedani/
 

@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - nederlands
-  - reading
+  - poetry
   - video
 date: "2010-04-02T08:32:25+00:00"
 title: Passacaglia

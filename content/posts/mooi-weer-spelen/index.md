@@ -4,6 +4,7 @@ categories:
   - delft
   - english
   - photography
+  - theater
 date: "2008-06-08T15:35:08+00:00"
 title: Mooi Weer Spelen
 aliases:

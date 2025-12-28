@@ -2,6 +2,8 @@
 author: alper
 categories:
   - english
+  - theater
+  - climate
 date: "2012-08-14T13:01:19+00:00"
 title: Ten Billion by Katie Mitchell and Stephen Emmott
 aliases:

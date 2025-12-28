@@ -5,6 +5,7 @@ categories:
   - travel
 date: "2025-11-30T11:38:30+00:00"
 title: Iseji - Day 0 - Getting to Ise
+series: ["Iseji"]
 aliases:
   - /dingen/2025/11/iseji-day-0-getting-to-ise/
 

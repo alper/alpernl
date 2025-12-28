@@ -5,6 +5,7 @@ categories:
   - travel
 date: "2025-11-30T11:18:06+00:00"
 title: Iseji - Day 3 - Kiinagashima to Owase
+series: ["Iseji"]
 aliases:
   - /dingen/2025/11/iseji-day-3-kiinagashima-to-owase/
 

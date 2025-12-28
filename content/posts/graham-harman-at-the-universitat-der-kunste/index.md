@@ -3,6 +3,7 @@ author: alper
 categories:
   - berlin
   - english
+  - philosophy
 date: "2013-04-14T21:20:04+00:00"
 title: Graham Harman at the Universität der Kunste
 aliases:

@@ -3,7 +3,7 @@ author: alper
 categories:
   - music
   - nederlands
-  - reading
+  - poetry
 date: "2010-08-22T10:45:13+00:00"
 enclosure: |-
   http://tools.ncrv.nl/download/podcast_tool/casaluna_2010_08_21_1282352652_Zomernachten_Ramsey__-_.MP3

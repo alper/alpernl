@@ -3,6 +3,8 @@ author: alper
 categories:
   - english
   - reading
+  - philosophy
+  - climate
 date: "2018-05-06T20:37:52+00:00"
 title: Highlights for Ecology Without Nature
 aliases:

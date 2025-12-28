@@ -3,7 +3,7 @@ author: alper
 categories:
   - nederlands
   - politics
-  - reading
+  - poetry
 date: "2010-01-21T19:31:41+00:00"
 title: Nasr doet een nieuwjaarsgroet
 aliases:

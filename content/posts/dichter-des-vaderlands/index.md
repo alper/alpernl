@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - reading
+  - poetry
 date: "2009-02-05T10:12:02+00:00"
 title: Dichter des Vaderlands
 aliases:
@@ -23,7 +23,7 @@ Maar dan [zí­jn poëzie](http://www.ramseynasr.nl/boekboek/show/id=104291). Na
 Nasr zei op de radio dat hij de poëzie uit wil dragen (of woorden van die strekking). Nederland kan dat wel gebruiken. Hoera voor Nasr en hoera voor de poëzie. Ik verheug me.
 
 [^1]: Één van de weinige nadelige gevolgen van het je onttrekken aan massamedia.
-[^2]: Én blijkbaar ga ik met niemand om die zich bezig houdt met poëzie (dat kan wel kloppen). 
+[^2]: Én blijkbaar ga ik met niemand om die zich bezig houdt met poëzie (dat kan wel kloppen).
 [^3]: Erg goed portret, trouwens.
 [^4]: Het was niet ondenkbaar geweest dat ik een bundel van hem bij me had gehad door die verkiezing.
 [^5]: ‘die rijmpjes zat te pissen…’ Sorry, maar het is echt van dat niveau.

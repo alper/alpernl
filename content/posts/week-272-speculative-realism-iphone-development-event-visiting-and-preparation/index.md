@@ -5,6 +5,7 @@ categories:
   - monster-swell
   - work
   - copenhagen
+  - philosophy
 date: "2012-06-07T17:57:24+00:00"
 title: 'Week 272: speculative realism, iPhone development, event visiting and preparation'
 aliases:

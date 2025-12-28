@@ -11,6 +11,7 @@ categories:
   - video
   - japanese
   - climbing
+  - philosophy
 date: "2024-01-01T01:49:13+00:00"
 title: 2023 Year in Review
 aliases:

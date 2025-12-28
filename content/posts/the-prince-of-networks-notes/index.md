@@ -3,6 +3,7 @@ author: alper
 categories:
   - english
   - reading
+  - philosophy
 date: "2012-06-03T21:48:37+00:00"
 title: The Prince of Networks Notes
 aliases:

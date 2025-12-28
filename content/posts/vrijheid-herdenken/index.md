@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - nederlands
-  - reading
+  - poetry
   - video
 date: "2010-05-06T15:37:39+00:00"
 title: Vrijheid herdenken

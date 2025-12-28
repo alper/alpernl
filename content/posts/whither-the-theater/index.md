@@ -4,6 +4,7 @@ categories:
   - amsterdam
   - berlin
   - english
+  - theater
 date: "2012-01-17T07:27:06+00:00"
 title: Whither the theater?
 aliases:

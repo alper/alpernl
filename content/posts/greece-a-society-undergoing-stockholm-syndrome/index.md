@@ -4,6 +4,7 @@ categories:
   - english
   - politics
   - travel
+  - theater
 date: "2012-06-27T12:57:55+00:00"
 title: Greece, a society undergoing Stockholm syndrome
 aliases:

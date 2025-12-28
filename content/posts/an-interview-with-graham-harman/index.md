@@ -3,6 +3,7 @@ author: alper
 categories:
   - english
   - reading
+  - philosophy
 date: "2012-06-02T12:34:43+00:00"
 title: An interview with Graham Harman
 aliases:

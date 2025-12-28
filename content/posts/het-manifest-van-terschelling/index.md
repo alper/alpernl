@@ -9,7 +9,7 @@ aliases:
   - /dingen/2010/06/het-manifest-van-terschelling/
 
 ---
-Lees het gedicht van Nasr (Ù†Ø³Ø± ) op [het Manifest van Terschelling](http://www.manifestvanterschelling.nl/het_manifest.html) en [onderteken](http://www.manifestvanterschelling.nl/onderteken_het_manifest.html).
+Lees het gedicht van Nasr (نصر) op [het Manifest van Terschelling](http://www.manifestvanterschelling.nl/het_manifest.html) en [onderteken](http://www.manifestvanterschelling.nl/onderteken_het_manifest.html).
 
 > uit nutteloze noodzaak
 > schiep kunst de mens

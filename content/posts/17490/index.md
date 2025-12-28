@@ -4,6 +4,7 @@ categories:
   - deutsch
   - english
   - politics
+  - climate
 date: "2024-03-10T11:06:27+00:00"
 title: ""
 aliases:

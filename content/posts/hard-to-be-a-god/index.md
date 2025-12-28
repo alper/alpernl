@@ -3,6 +3,7 @@ author: alper
 categories:
   - english
   - the-city
+  - theater
 date: "2010-09-24T23:18:14+00:00"
 title: Hard to be a God
 aliases:

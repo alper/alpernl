@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - reading
+  - poetry
   - the-city
   - video
 date: "2009-10-05T10:21:35+00:00"

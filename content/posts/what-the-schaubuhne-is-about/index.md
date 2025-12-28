@@ -3,6 +3,7 @@ author: alper
 categories:
   - berlin
   - english
+  - theater
 date: "2012-04-12T08:10:43+00:00"
 title: What the Schaubühne is about
 aliases:

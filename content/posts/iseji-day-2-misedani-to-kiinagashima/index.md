@@ -5,6 +5,7 @@ categories:
   - travel
 date: "2025-11-28T21:43:39+00:00"
 title: Iseji - Day 2 - Misedani to Kiinagashima
+series: ["Iseji"]
 aliases:
   - /dingen/2025/11/iseji-day-2-misedani-to-kiinagashima/
 

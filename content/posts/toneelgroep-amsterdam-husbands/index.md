@@ -3,6 +3,8 @@ author: alper
 categories:
   - berlin
   - english
+  - theater
+  - amsterdam
 date: "2012-03-13T13:20:18+00:00"
 title: Toneelgroep Amsterdam - Husbands
 aliases:

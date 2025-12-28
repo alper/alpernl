@@ -2,6 +2,8 @@
 author: alper
 categories:
   - english
+  - theater
+  - german
 date: "2012-07-26T19:13:04+00:00"
 title: Die Kontrakte des Kaufmanns by Nicolas Stemann & Thalia
 aliases:
