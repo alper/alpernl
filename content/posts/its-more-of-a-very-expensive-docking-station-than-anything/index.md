@@ -5,7 +5,7 @@ categories:
   - internet
   - reading
 date: "2010-06-23T13:36:06+00:00"
-title: "“it's more of a very expensive docking station than anythingâ€\x9D"
+title: "'it's more of a very expensive docking station than anything'"
 aliases:
   - /dingen/2010/06/“-its-more-of-a-very-expensive-docking-station-than-anything”/
 

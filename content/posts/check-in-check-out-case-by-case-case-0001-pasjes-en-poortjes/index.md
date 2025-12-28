@@ -7,7 +7,7 @@ categories:
   - reading
   - the-city
 date: "2010-06-22T07:04:24+00:00"
-title: "Check in / Check Out, Case by Case — Case 0001, “Pasjes en poortjesâ€\x9D"
+title: "Check in / Check Out, Case by Case — Case 0001, 'Pasjes en poortjes'"
 aliases:
   - /dingen/2010/06/check-in-check-out-case-by-case-—-case-0001-“pasjes-en-poortjes”/
 

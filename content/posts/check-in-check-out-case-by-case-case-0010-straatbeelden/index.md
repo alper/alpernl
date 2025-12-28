@@ -7,7 +7,7 @@ categories:
   - reading
   - the-city
 date: "2010-07-24T17:43:00+00:00"
-title: "Check in / Check Out, Case by Case — Case 0010, "Straatbeelden""
+title: "Check in / Check Out, Case by Case — Case 0010, 'Straatbeelden'"
 aliases:
   - /dingen/2010/07/check-in-check-out-case-by-case-—-case-0010-“straatbeelden”/
 
