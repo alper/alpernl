@@ -115,6 +115,7 @@
 * [x] More encoding issues: (15ź centigrade), taquerÃ­as, 30-35Ëš C., mÃ­jn
 
 * [ ] Get rid of all GIFs
+* [ ] Redirect RSS of old blog to new RSS location
 * [ ] Create impressum page?
 
 
