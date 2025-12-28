@@ -4,7 +4,7 @@ categories:
   - art
   - english
   - new-york
-  - product-/-design
+  - product-design
 date: "2019-11-29T13:48:38+00:00"
 title: ""
 aliases:

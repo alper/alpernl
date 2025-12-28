@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
   - reading
   - the-city
 date: "2010-07-24T17:43:00+00:00"

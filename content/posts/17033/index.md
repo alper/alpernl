@@ -5,7 +5,7 @@ categories:
   - deutsch
   - english
   - politics
-  - product-/-design
+  - product-design
   - software-engineering
 date: "2023-02-11T09:42:51+00:00"
 title: ""

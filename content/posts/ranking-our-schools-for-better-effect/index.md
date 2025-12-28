@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
 date: "2010-05-13T12:35:54+00:00"
 title: Ranking our schools for better effect
 aliases:

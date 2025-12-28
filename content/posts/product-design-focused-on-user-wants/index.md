@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2014-07-09T15:19:08+00:00"
 title: Product design focused on user wants

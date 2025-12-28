@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - work
 date: "2011-11-01T14:45:27+00:00"
 title: Awards and Power

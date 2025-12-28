@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2009-04-09T14:12:27+00:00"
 title: Alert Dispatch to Twitter
 aliases:

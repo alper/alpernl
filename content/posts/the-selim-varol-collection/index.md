@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
 date: "2012-10-19T17:05:19+00:00"
 title: The Selim Varol Collection
 aliases:

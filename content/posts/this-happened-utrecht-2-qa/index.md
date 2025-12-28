@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
 date: "2009-02-27T12:56:19+00:00"
 title: 'This Happened Utrecht #2 - Q&A'
 aliases:

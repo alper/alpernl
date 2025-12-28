@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2011-02-08T20:07:03+00:00"
 title: Week 203

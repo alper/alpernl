@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2010-06-18T11:06:33+00:00"
 title: Have your Surface

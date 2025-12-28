@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2011-11-01T15:30:20+00:00"
 title: Week 240

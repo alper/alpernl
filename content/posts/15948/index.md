@@ -4,7 +4,7 @@ categories:
   - english
   - games
   - new-york
-  - product-/-design
+  - product-design
 date: "2020-01-29T21:48:14+00:00"
 title: ""
 aliases:

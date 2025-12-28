@@ -5,7 +5,7 @@ categories:
   - leadership
   - london
   - politics
-  - product-/-design
+  - product-design
 date: "2023-02-01T22:27:25+00:00"
 title: ""
 aliases:

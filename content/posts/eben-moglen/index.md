@@ -5,7 +5,7 @@ categories:
   - english
   - internet
   - politics
-  - product-/-design
+  - product-design
 date: "2010-10-19T22:09:24+00:00"
 title: "Eben Moglen — 'Will the net empower the center or the ends?'"
 aliases:

@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - work
 date: "2009-12-31T11:20:52+00:00"
 title: Developers are so important

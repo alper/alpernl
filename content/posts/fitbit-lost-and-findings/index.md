@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - sports
 date: "2012-05-05T20:41:50+00:00"
 title: Fitbit lost and findings

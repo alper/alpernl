@@ -4,7 +4,7 @@ categories:
   - amsterdam
   - english
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-10-23T10:21:48+00:00"
 title: Design Mind Salon - The Quotable Buxton

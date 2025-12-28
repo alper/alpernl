@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-08-04T14:47:39+00:00"
 title: Weeknotes 176

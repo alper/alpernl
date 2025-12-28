@@ -5,7 +5,7 @@ categories:
   - english
   - internet
   - music
-  - product-/-design
+  - product-design
   - the-city
   - work
 date: "2010-12-20T14:38:07+00:00"

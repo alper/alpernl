@@ -3,7 +3,7 @@ author: alper
 categories:
   - delft
   - english
-  - product-/-design
+  - product-design
   - video
 date: "2009-02-19T11:23:09+00:00"
 title: Art in the public space

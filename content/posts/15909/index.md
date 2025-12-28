@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - leadership
-  - product-/-design
+  - product-design
   - san-francisco
 date: "2019-12-17T23:55:45+00:00"
 title: ""

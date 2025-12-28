@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-10-19T10:35:52+00:00"
 title: Week 187

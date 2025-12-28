@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - video
 date: "2008-06-16T01:12:46+00:00"
 title: Workshop session on geodata visualization

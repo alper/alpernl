@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - the-city
   - work
 date: "2011-05-17T15:57:21+00:00"

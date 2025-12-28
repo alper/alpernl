@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - the-city
   - travel
 date: "2009-09-27T22:16:32+00:00"

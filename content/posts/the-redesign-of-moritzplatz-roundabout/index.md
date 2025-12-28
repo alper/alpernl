@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
 date: "2015-08-14T09:14:54+00:00"
 title: The redesign of Moritzplatz roundabout
 aliases:

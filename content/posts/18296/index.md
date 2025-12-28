@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - new-york
-  - product-/-design
+  - product-design
   - san-francisco
   - software-engineering
 date: "2025-08-13T21:32:24+00:00"

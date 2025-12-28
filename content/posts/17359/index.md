@@ -4,7 +4,7 @@ categories:
   - english
   - leadership
   - podcast
-  - product-/-design
+  - product-design
   - software-engineering
 date: "2023-12-26T14:43:29+00:00"
 title: ""

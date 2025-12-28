@@ -3,7 +3,7 @@ author: alper
 categories:
   - nederlands
   - politics
-  - product-/-design
+  - product-design
   - video
 date: "2010-05-25T15:41:28+00:00"
 title: De val uitgelegd

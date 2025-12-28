@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - games
-  - product-/-design
+  - product-design
   - software-engineering
 date: "2025-03-14T15:55:06+00:00"
 title: ""

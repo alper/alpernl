@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
 date: "2010-06-10T13:58:06+00:00"
 title: Dutchstats — Your personal Atlas of the Netherlands
 aliases:

@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - politics
-  - product-/-design
+  - product-design
 date: "2022-09-25T20:34:04+00:00"
 title: ""
 aliases:

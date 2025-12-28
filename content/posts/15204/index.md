@@ -3,7 +3,7 @@ author: alper
 categories:
   - deutsch
   - english
-  - product-/-design
+  - product-design
   - the-city
 date: "2019-03-03T14:17:33+00:00"
 title: ""

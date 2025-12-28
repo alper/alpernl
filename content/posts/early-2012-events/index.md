@@ -4,7 +4,7 @@ categories:
   - amsterdam
   - berlin
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2012-02-03T06:41:53+00:00"
 title: Early 2012 Events

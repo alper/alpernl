@@ -6,7 +6,7 @@ categories:
   - monster-swell
   - music
   - photography
-  - product-/-design
+  - product-design
   - video
 date: "2010-04-27T09:39:46+00:00"
 title: Table Viewer for Music Hackday

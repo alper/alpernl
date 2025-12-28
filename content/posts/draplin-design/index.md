@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - video
 date: "2008-07-30T11:32:37+00:00"
 enclosure: |-

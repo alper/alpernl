@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - reading
 date: "2011-06-08T11:46:33+00:00"
 title: Notes about Thoughts on Interaction Design by John Kolko

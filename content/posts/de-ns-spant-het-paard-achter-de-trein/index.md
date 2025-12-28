@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - travel
 date: "2009-03-19T16:08:16+00:00"
 title: De NS spant het paard achter de trein

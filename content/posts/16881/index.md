@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - leadership
-  - product-/-design
+  - product-design
   - software-engineering
 date: "2022-10-08T11:49:46+00:00"
 title: ""

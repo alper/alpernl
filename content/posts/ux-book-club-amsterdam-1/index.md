@@ -4,7 +4,7 @@ categories:
   - amsterdam
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2010-01-18T12:29:06+00:00"
 title: 'UX Book Club Amsterdam #1'
 aliases:

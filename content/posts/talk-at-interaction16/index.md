@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - games
-  - product-/-design
+  - product-design
   - publicity
 date: "2016-03-06T22:21:19+00:00"
 title: Talk at Interaction16

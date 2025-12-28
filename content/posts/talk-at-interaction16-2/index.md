@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - publicity
 date: "2016-04-18T20:17:04+00:00"
 title: Talk at Interaction16

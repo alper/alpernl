@@ -3,7 +3,7 @@ author: alper
 categories:
   - agile
   - english
-  - product-/-design
+  - product-design
   - strategy
 date: "2023-02-04T11:06:40+00:00"
 title: ""

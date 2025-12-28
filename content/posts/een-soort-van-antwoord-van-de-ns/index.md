@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
   - travel
 date: "2009-04-01T22:11:21+00:00"
 title: Een soort van antwoord van de NS

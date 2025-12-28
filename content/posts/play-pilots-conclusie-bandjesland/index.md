@@ -4,7 +4,7 @@ categories:
   - internet
   - music
   - nederlands
-  - product-/-design
+  - product-design
   - work
 date: "2010-12-11T14:50:08+00:00"
 title: 'PLAY Pilots conclusie: Bandjesland'

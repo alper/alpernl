@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2012-09-11T08:15:11+00:00"
 title: dConstruct on the future, progress and play
 aliases:

@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - publicity
 date: "2023-04-12T14:33:46+00:00"
 title: ""

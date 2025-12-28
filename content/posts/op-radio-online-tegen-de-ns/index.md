@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
   - publicity
   - travel
 date: "2009-03-28T16:54:07+00:00"

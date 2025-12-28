@@ -4,7 +4,7 @@ categories:
   - climate
   - english
   - london
-  - product-/-design
+  - product-design
   - work
 date: "2019-09-28T08:47:26+00:00"
 title: ""

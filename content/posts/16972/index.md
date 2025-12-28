@@ -4,7 +4,7 @@ categories:
   - amsterdam
   - leadership
   - nederlands
-  - product-/-design
+  - product-design
 date: "2023-01-20T09:14:40+00:00"
 title: ""
 aliases:

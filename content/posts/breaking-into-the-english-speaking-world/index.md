@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - games
-  - product-/-design
+  - product-design
 date: "2015-08-25T07:34:58+00:00"
 title: Breaking into the English speaking world
 aliases:

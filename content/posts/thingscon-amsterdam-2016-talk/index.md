@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
   - publicity
 date: "2016-12-08T22:51:51+00:00"
 title: ThingsCon Amsterdam 2016 Talk

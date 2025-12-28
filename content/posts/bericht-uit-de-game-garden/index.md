@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - product-/-design
+  - product-design
 date: "2011-11-08T06:42:04+00:00"
 title: Bericht uit de Game Garden
 aliases:

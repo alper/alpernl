@@ -5,7 +5,7 @@ categories:
   - games
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2011-07-18T19:12:14+00:00"
 title: Week 226

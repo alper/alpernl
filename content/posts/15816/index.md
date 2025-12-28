@@ -5,7 +5,7 @@ categories:
   - english
   - games
   - music
-  - product-/-design
+  - product-design
 date: "2019-11-10T09:21:34+00:00"
 title: ""
 aliases:

@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - the-city
 date: "2015-09-17T10:33:35+00:00"
 title: Understanding the Connected Home

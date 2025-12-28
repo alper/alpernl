@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-07-08T10:34:39+00:00"
 title: Distilling meter, rhyme and verse from your database

@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-09-27T14:18:57+00:00"
 title: Week 184
@@ -26,7 +26,7 @@ The second half of this week was taken up mostly by [PICNIC](http://www.picnicne
 
 Friday [the Stereoscoop](http://playpilots.nl/games/de-stereoscoop/) was launched oficially at [the Dutch Film Festival](http://filmfestival.nl). I unfortunately could not attend this because I was organizing [the first Dutch Data Drinks](http://monsterswell.com/blog/2010/09/dutch-data-drinks-1/) for [Monster Swell](http://monsterswell.com). A resounding succes and the first of many events focused on the coming Big Data trend.
 
-[![P1050479.JPG.scaled1000.jpg (1000Ã—750)](http://img.skitch.com/20100927-rd3as1dqas7sysuydgubptgcte.preview.jpg)](http://skitch.com/alper/d2e9j/p1050479.jpg.scaled1000.jpg-1000x750)  
+[![P1050479.JPG.scaled1000.jpg (1000Ã—750)](http://img.skitch.com/20100927-rd3as1dqas7sysuydgubptgcte.preview.jpg)](http://skitch.com/alper/d2e9j/p1050479.jpg.scaled1000.jpg-1000x750)
 Uploaded with [Skitch](http://skitch.com)!
 
 Friday our friends from the Utrechts Uitburo also launched their [integration with Foursquare](http://foursquare.com/utrechtsuitburo) (the first in the Netherlands), something which has been a long time in the making. Writeup: [Foursquare Page for Utrechts Uitburo](http://monsterswell.com/blog/2010/09/foursquare-page-for-utrechts-uitburo/)

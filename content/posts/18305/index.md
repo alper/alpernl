@@ -4,7 +4,7 @@ categories:
   - berlin
   - english
   - games
-  - product-/-design
+  - product-design
   - san-francisco
 date: "2025-09-07T10:26:03+00:00"
 title: ""

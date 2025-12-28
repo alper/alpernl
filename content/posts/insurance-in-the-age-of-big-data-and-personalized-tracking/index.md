@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - politics
-  - product-/-design
+  - product-design
 date: "2015-10-08T09:17:59+00:00"
 title: Insurance in the age of big data and personalized tracking
 aliases:

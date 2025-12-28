@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2016-03-14T22:15:01+00:00"
 title: Notes from Interaction16
 aliases:

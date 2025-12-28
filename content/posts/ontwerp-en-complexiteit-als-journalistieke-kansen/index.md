@@ -3,7 +3,7 @@ author: alper
 categories:
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
   - reading
   - work
 date: "2010-10-07T21:29:30+00:00"

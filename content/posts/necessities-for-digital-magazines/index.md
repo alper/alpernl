@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - reading
 date: "2009-12-28T21:57:43+00:00"
 title: Necessities for digital magazines

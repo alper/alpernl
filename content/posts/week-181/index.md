@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - work
 date: "2010-09-06T15:52:32+00:00"
 title: Week 181

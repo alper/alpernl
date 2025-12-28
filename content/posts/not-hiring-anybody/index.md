@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2012-02-15T11:57:06+00:00"
 title: 'The Heist Model: Not hiring anybody'

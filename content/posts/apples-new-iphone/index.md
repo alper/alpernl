@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2008-06-09T23:08:40+00:00"
 title: Apple's new iPhone
 aliases:

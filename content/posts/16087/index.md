@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - travel
 date: "2020-05-10T08:57:07+00:00"
 title: ""

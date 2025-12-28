@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
   - the-city
 date: "2010-03-08T00:38:42+00:00"
 title: Sea fare

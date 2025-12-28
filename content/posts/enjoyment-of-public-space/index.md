@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
   - the-city
 date: "2009-08-16T13:33:58+00:00"
 title: Enjoyment of Public Space

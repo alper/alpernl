@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2019-09-02T22:58:57+00:00"
 title: ""
 aliases:

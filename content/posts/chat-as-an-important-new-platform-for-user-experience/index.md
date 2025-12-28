@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2015-09-17T17:05:22+00:00"
 title: Chat as an important new platform for user experience
 aliases:

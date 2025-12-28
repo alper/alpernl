@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
   - work
 date: "2011-10-18T06:46:36+00:00"
 title: Wat moet je doen met gamification?

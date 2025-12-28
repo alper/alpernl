@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2011-11-11T22:25:24+00:00"
 title: A blue button
 aliases:

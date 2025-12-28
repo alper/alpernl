@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - leadership
-  - product-/-design
+  - product-design
 date: "2021-12-31T12:03:26+00:00"
 title: ""
 aliases:

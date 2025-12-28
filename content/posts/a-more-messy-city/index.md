@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
   - the-city
   - travel
 date: "2011-03-04T16:07:02+00:00"

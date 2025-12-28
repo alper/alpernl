@@ -6,7 +6,7 @@ categories:
   - deutsch
   - english
   - politics
-  - product-/-design
+  - product-design
 date: "2023-01-24T11:28:13+00:00"
 title: ""
 aliases:

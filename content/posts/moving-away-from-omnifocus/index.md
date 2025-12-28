@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2021-04-29T19:14:06+00:00"
 title: Moving away from Omnifocus

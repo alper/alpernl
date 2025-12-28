@@ -4,7 +4,7 @@ categories:
   - amsterdam
   - english
   - politics
-  - product-/-design
+  - product-design
   - work
 date: "2011-10-12T11:44:08+00:00"
 title: Stop Kicking the Creative Class

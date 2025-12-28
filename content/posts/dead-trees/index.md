@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - reading
 date: "2010-05-26T09:22:01+00:00"
 title: Dead trees

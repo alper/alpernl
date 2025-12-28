@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
 date: "2010-09-16T12:58:54+00:00"
 title: Supremacy
 aliases:

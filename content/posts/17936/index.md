@@ -4,7 +4,7 @@ categories:
   - english
   - leadership
   - music
-  - product-/-design
+  - product-design
 date: "2025-01-15T09:59:08+00:00"
 title: ""
 aliases:

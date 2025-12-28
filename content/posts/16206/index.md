@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - food
-  - product-/-design
+  - product-design
 date: "2020-08-02T10:48:55+00:00"
 title: ""
 aliases:

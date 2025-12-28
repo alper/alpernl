@@ -5,7 +5,7 @@ categories:
   - english
   - internet
   - politics
-  - product-/-design
+  - product-design
 date: "2011-11-18T14:23:54+00:00"
 title: Code Camping Amsterdam Imminent
 aliases:

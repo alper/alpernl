@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-12-06T16:10:05+00:00"
 title: Weeknotes 194

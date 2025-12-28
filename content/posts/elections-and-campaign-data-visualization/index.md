@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
 date: "2010-05-05T02:50:57+00:00"
 title: Elections and Campaign Data Visualization
 aliases:

@@ -3,7 +3,7 @@ author: alper
 categories:
   - cycling
   - english
-  - product-/-design
+  - product-design
 date: "2025-06-05T22:08:09+00:00"
 title: ""
 aliases:

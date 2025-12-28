@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2016-04-05T07:35:17+00:00"
 title: That spread in Elsevier

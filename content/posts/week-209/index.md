@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2011-03-22T12:46:32+00:00"
 title: Week 209

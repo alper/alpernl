@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - london
-  - product-/-design
+  - product-design
 date: "2016-04-24T13:09:42+00:00"
 title: Tweet coverage of the 2016 Bot Summit at the V&A in London
 aliases:

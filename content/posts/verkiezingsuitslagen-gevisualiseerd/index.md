@@ -4,7 +4,7 @@ categories:
   - monster-swell
   - nederlands
   - politics
-  - product-/-design
+  - product-design
 date: "2010-03-03T23:29:18+00:00"
 title: Verkiezingsuitslagen Grootste Partijen Gevisualiseerd
 aliases:

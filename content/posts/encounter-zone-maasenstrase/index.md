@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
 date: "2015-05-28T13:18:43+00:00"
 title: Encounter Zone Maaßenstraße
 aliases:

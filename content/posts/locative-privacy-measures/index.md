@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2009-09-25T09:36:50+00:00"
 title: Locative privacy measures
 aliases:

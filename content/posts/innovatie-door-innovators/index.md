@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
   - work
 date: "2010-10-06T09:48:26+00:00"
 title: Innovatie door innovators

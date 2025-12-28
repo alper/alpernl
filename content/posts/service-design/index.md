@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2008-11-29T09:38:35+00:00"
 title: Service Design
 aliases:

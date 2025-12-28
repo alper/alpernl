@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - politics
-  - product-/-design
+  - product-design
 date: "2011-06-14T10:28:01+00:00"
 title: A new vision of the public domain
 aliases:

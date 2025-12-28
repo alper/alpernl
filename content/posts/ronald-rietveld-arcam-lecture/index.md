@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - the-city
 date: "2010-09-11T22:18:28+00:00"
 title: "Ronald Rietveld ARCAM lecture - 'People go to Berlin because they think there's all that free space there, while there is more than plenty here in Amsterdam.'"

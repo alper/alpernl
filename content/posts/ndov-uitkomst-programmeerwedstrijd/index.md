@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
 date: "2009-06-09T16:01:48+00:00"
 title: NDOV uitkomst programmeerwedstrijd
 aliases:

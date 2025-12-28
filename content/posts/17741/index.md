@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - software-engineering
 date: "2024-12-02T22:42:42+00:00"
 title: ""

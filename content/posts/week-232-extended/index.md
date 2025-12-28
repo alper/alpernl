@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - the-city
   - work
 date: "2011-09-03T07:30:35+00:00"

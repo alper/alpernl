@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
   - work
 date: "2009-10-13T11:15:10+00:00"
 title: Content Syndicatie Workshop

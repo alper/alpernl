@@ -3,7 +3,7 @@ author: alper
 categories:
   - nederlands
   - politics
-  - product-/-design
+  - product-design
 date: "2010-02-27T19:07:24+00:00"
 title: Verkiezingen
 aliases:

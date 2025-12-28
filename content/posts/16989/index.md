@@ -3,7 +3,7 @@ author: alper
 categories:
   - agile
   - english
-  - product-/-design
+  - product-design
   - video
 date: "2023-01-29T23:09:42+00:00"
 title: ""

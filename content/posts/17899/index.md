@@ -3,7 +3,7 @@ author: alper
 categories:
   - deutsch
   - english
-  - product-/-design
+  - product-design
   - reading
 date: "2025-01-11T13:57:52+00:00"
 title: ""

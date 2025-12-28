@@ -4,7 +4,7 @@ categories:
   - climate
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2024-12-16T23:41:25+00:00"
 title: ""
 aliases:

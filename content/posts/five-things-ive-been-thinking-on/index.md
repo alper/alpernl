@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
 date: "2010-08-27T00:56:49+00:00"
 title: Five things I've been thinking on
 aliases:

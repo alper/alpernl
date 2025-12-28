@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - reading
 date: "2009-08-18T12:09:04+00:00"
 title: Sketching User Experiences part I — notes

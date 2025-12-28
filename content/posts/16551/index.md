@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - video
 date: "2021-08-08T08:16:58+00:00"
 title: ""

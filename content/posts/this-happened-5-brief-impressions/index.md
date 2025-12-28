@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
 date: "2010-02-25T00:14:24+00:00"
 title: 'This Happened #5 — Brief Impressions'
 aliases:

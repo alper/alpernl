@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - podcast
-  - product-/-design
+  - product-design
 date: "2025-02-26T23:10:33+00:00"
 title: ""
 aliases:

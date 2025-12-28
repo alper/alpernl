@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - product-/-design
+  - product-design
   - work
 date: "2010-08-09T06:27:09+00:00"
 title: 'Design Directie #1'

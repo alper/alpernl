@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
 date: "2010-04-21T13:05:23+00:00"
 title: Obstakels in het werken met open data
 aliases:

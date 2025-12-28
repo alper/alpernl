@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
   - work
 date: "2010-07-18T18:32:16+00:00"
 title: Weeknotes 174

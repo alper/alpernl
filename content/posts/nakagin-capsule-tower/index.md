@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - video
 date: "2015-09-16T10:17:30+00:00"
 title: Nakagin Capsule Tower

@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
 date: "2011-06-28T21:45:06+00:00"
 title: Statlas, bèta versie
 aliases:

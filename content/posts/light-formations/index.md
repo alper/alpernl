@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - travel
   - video
 date: "2008-12-30T00:05:15+00:00"

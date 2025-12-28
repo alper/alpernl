@@ -5,7 +5,7 @@ categories:
   - games
   - internet
   - podcast
-  - product-/-design
+  - product-design
   - video
 date: "2024-03-10T09:55:59+00:00"
 title: ""

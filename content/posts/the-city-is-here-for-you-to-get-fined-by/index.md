@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - monster-swell
-  - product-/-design
+  - product-design
   - the-city
   - video
 date: "2009-06-12T17:12:10+00:00"

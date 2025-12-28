@@ -5,7 +5,7 @@ categories:
   - internet
   - monster-swell
   - photography
-  - product-/-design
+  - product-design
   - work
 date: "2010-10-05T11:41:41+00:00"
 title: Weeknotes 185

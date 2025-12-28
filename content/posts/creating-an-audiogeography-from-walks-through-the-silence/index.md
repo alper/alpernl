@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2009-11-12T00:11:04+00:00"
 title: Creating an audiogeography from walks through the silence

@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
 date: "2010-10-05T06:49:45+00:00"
 title: ANWB stapt uit overleg ov-chipkaart
 aliases:

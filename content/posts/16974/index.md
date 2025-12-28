@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - software-engineering
   - strategy
 date: "2023-01-24T09:41:43+00:00"

@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - product-/-design
+  - product-design
 date: "2008-05-25T20:58:55+00:00"
 title: Wereldverbeteren
 aliases:

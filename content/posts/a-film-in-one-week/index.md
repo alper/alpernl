@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - product-/-design
+  - product-design
   - video
 date: "2010-01-18T12:59:16+00:00"
 title: A Film in one Week

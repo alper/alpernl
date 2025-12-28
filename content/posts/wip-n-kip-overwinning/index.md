@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - product-/-design
+  - product-design
   - sports
   - video
 date: "2010-11-09T15:45:02+00:00"

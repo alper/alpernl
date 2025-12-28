@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - nederlands
-  - product-/-design
+  - product-design
 date: "2022-10-06T18:12:53+00:00"
 title: ""
 aliases:

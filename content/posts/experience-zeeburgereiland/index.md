@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
   - the-city
 date: "2010-06-21T11:59:06+00:00"
 title: Experience Zeeburgereiland

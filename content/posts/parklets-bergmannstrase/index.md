@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
 date: "2018-05-24T18:17:14+00:00"
 title: Parklets Bergmannstraße
 aliases:

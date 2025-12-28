@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - nederlands
-  - product-/-design
+  - product-design
   - the-city
   - travel
 date: "2009-12-28T11:29:15+00:00"

@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
   - the-city
 date: "2009-11-30T13:21:09+00:00"
 title: Vergeet niet het inchecken

@@ -4,7 +4,7 @@ categories:
   - amsterdam
   - english
   - internet
-  - product-/-design
+  - product-design
   - video
 date: "2011-06-10T09:41:56+00:00"
 title: Throwing my chips in with the reality based crowd

@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2010-06-24T06:55:20+00:00"
 title: UX Triangle

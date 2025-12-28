@@ -3,7 +3,7 @@ author: alper
 categories:
   - amsterdam
   - english
-  - product-/-design
+  - product-design
   - publicity
 date: "2017-06-05T20:01:40+00:00"
 title: Talk at Emerce Tech Live in Amsterdam

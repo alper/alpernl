@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - leadership
-  - product-/-design
+  - product-design
 date: "2020-07-05T10:44:03+00:00"
 title: ""
 aliases:

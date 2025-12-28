@@ -2,7 +2,7 @@
 author: alper
 categories:
   - nederlands
-  - product-/-design
+  - product-design
   - video
 date: "2009-01-28T17:09:19+00:00"
 title: Film en beelden in de stad

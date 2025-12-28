@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - monster-swell
-  - product-/-design
+  - product-design
   - the-city
 date: "2010-09-29T02:20:14+00:00"
 title: Municipal boundaries of the Netherlands

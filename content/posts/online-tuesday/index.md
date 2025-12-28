@@ -4,7 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
-  - product-/-design
+  - product-design
   - video
 date: "2010-06-21T23:58:20+00:00"
 title: Online Tuesday - Data is the new Quicksilver

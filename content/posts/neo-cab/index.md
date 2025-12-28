@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - games
-  - product-/-design
+  - product-design
   - work
 date: "2020-07-06T20:21:09+00:00"
 title: Neo Cab

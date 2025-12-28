@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
-  - product-/-design
+  - product-design
   - work
 date: "2010-09-21T09:11:21+00:00"
 title: Dutch Data Drinks

@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - music
-  - product-/-design
+  - product-design
 date: "2010-11-11T16:14:59+00:00"
 title: RFID Meets Retro
 aliases:

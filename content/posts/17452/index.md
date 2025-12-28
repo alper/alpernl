@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - music
-  - product-/-design
+  - product-design
 date: "2024-03-01T17:55:52+00:00"
 title: ""
 aliases:

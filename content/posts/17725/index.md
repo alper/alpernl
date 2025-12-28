@@ -6,7 +6,7 @@ categories:
   - english
   - internet
   - politics
-  - product-/-design
+  - product-design
   - software-engineering
 date: "2024-11-21T22:08:49+00:00"
 title: ""

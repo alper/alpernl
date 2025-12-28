@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - games
-  - product-/-design
+  - product-design
 date: "2015-12-27T20:46:05+00:00"
 title: A not so secret Hitler
 aliases:

@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - travel
 date: "2008-07-27T11:26:42+00:00"
 title: Socio-locational disconnection

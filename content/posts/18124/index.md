@@ -4,7 +4,7 @@ categories:
   - english
   - new-york
   - photography
-  - product-/-design
+  - product-design
 date: "2025-02-25T22:44:37+00:00"
 title: ""
 aliases:

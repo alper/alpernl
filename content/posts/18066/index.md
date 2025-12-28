@@ -3,7 +3,7 @@ author: alper
 categories:
   - berlin
   - english
-  - product-/-design
+  - product-design
   - software-engineering
   - work
 date: "2025-02-11T08:30:17+00:00"

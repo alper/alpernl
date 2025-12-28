@@ -3,7 +3,7 @@ author: alper
 categories:
   - agile
   - english
-  - product-/-design
+  - product-design
 date: "2021-12-31T11:36:27+00:00"
 title: ""
 aliases:

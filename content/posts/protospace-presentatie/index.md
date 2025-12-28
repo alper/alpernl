@@ -3,7 +3,7 @@ author: alper
 categories:
   - internet
   - nederlands
-  - product-/-design
+  - product-design
 date: "2009-02-24T17:39:15+00:00"
 title: Maak wat je wil, Protospace College
 aliases:

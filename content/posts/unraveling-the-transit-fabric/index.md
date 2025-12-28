@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2009-03-30T00:14:50+00:00"
 title: Unraveling the Transit Fabric
 aliases:

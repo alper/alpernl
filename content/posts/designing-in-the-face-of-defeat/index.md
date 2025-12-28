@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - product-/-design
+  - product-design
   - work
 date: "2012-04-22T15:18:33+00:00"
 title: Designing in the Face of Defeat

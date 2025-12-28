@@ -4,7 +4,7 @@ categories:
   - english
   - internet
   - photography
-  - product-/-design
+  - product-design
 date: "2011-03-28T20:55:14+00:00"
 title: Colour
 aliases:

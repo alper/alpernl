@@ -3,14 +3,14 @@ author: alper
 categories:
   - english
   - internet
-  - product-/-design
+  - product-design
 date: "2019-06-05T22:02:42+00:00"
 title: ""
 aliases:
   - /dingen/2019/06/15497/
 
 ---
-About password managers:  
+About password managers:
 
 “But I never found a way to get people onto 1password in a single training session. The setup process has a lot of moving parts, involving the desktop app, browser plugin, online service, mobile app, and app store. It requires repeatedly typing a long master passphrase.”
 
