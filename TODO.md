@@ -117,6 +117,7 @@
 * [ ] Get rid of all GIFs
 * [ ] Redirect RSS of old blog to new RSS location
 * [ ] Create impressum page?
+* [ ] Get rid of comments
 
 
 

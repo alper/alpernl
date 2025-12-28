@@ -10,6 +10,9 @@ taxonomies:
   tag: "tags"
   author: "authors"
   series: "series"
+services:
+  rss:
+    limit: 50
 sitemap:
   changeFreq: "daily"
 related:
@@ -53,18 +56,7 @@ params:
     social:
       linkedin: alper
       instagram: alper
-  # rtwt:
-  #   home:
-  #     showRecent: false
-  #   sidePane: true
-  #   countPageItems: 25
-  #   side:
-  #     home:
-  #       sidePaneSticky: true
-  #       taxonomies:
-  #         - 'categories'
-  #       countTaxonomy: 25
-
+  ShowFullTextinRSS: true
   # Blowfish
   colorScheme: "slate"
   homepage:
@@ -85,33 +77,6 @@ params:
     showSummary: true
   term:
     groupByYear: true
-
-  # Tailwind
-  # showAuthor: false
-  # contentTypeName: "posts"
-
-  # Octopress
-  # generateTaxonomyList: true
-  # sidebarMenuEnabled: true
-  # sidebarHeader: "Sidebar"
-  # sidebarMenuHeader: "Sidebar menu"
-
-  # truncate: false
-  # disableReadingTime: true
-  # social_media:
-  #   items:
-  #     - title: "Bluesky"
-  #       icon: "brand-bluesky"
-  #       enabled: true
-  #       link: "https://bsky.app/profile/alper.nl"
-  #     - title: "Instagram"
-  #       icon: "brand-instagram"
-  #       enabled: true
-  #       link: "https://www.instagram.com/alper/"
-  #     - title: "Linkedin"
-  #       icon: "brand-linkedin"
-  #       enabled: true
-  #       link: "https://www.linkedin.com/in/alper/"
 markup:
   highlight:
     codeFences: true
