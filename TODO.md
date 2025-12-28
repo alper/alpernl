@@ -95,19 +95,19 @@
   * [x] Remove the _edit_last, parent_post_id and _wpas_done_all fields
   * [x] Check for other superfluous fields to be removed
 * [ ] Backport old blog content into markdown
-* [ ] Download statick.flickr images and put them into the bundles
-* [ ] Fix footnotes that are of the (()) format
+* [ ] Download static.flickr images and put them into the bundles
+* [x] Fix footnotes that are of the (()) format
 
 * [x] More charset issues
   * http://localhost:1313/blog/my-year-in-cities-2008/
   * http://localhost:1313/blog/jurriaan-van-stigt-arcam-lecture/
   * http://localhost:1313/blog/encounter-zone-maasenstrase/
   * http://localhost:1313/blog/het-manifest-van-terschelling/
-* [ ] Recategorize posts
-  * [ ] Japanese
-  * [ ] Fix: æ—¥æœ¬èªž
+* [x] Recategorize posts
+  * [x] Japanese
+  * [x] Fix: æ—¥æœ¬èªž
   * Tag publicity: http://localhost:1313/blog/week-323/
-* Turn Kumano Kodo posts into a series: https://blowfish.page/docs/series/
+* [ ] Turn Kumano Kodo posts into a series: https://blowfish.page/docs/series/
 * [ ] Fix internal links to: /dingen/2008/06/
 * [ ] Pull this and other talks under publicity [“Designing in the Face of Defeat”](http://monsterswell.com/blog/2012/05/designing-in-the-face-of-defeat/)
 
