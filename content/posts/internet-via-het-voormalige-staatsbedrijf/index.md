@@ -2,6 +2,9 @@
 author: alper
 date: "2007-10-05T13:56:23+00:00"
 title: Internet via het voormalige staatsbedrijf
+categories:
+  - nederlands
+  - internet
 aliases:
   - /dingen/2007/10/internet-via-het-voormalige-staatsbedrijf/
 

@@ -6,6 +6,9 @@ enclosure: |-
   56073506
   video/quicktime
 title: Integriteit in politiek
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2008/02/integriteit-in-politiek/
 

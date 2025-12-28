@@ -2,6 +2,8 @@
 author: alper
 date: "2008-01-20T18:32:00+00:00"
 title: Het Duitse landschap
+categories:
+  - nederlands
 aliases:
   - /dingen/2008/01/het-duitse-landschap/
 

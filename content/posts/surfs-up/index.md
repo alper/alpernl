@@ -2,6 +2,11 @@
 author: alper
 date: "2007-05-29T01:37:00+00:00"
 title: Surf's up!
+categories:
+  - nederlands
+  - capoeira
+  - sports
+  - photography
 aliases:
   - /dingen/2007/05/surfs-up/
 

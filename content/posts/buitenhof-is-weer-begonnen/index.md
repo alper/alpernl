@@ -2,6 +2,10 @@
 author: alper
 date: "2007-12-03T23:14:01+00:00"
 title: Buitenhof is weer begonnen
+categories:
+  - nederlands
+  - politics
+  - video
 aliases:
   - /dingen/2007/12/buitenhof-is-weer-begonnen/
 

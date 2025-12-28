@@ -2,6 +2,9 @@
 author: alper
 date: "2007-08-24T16:59:40+00:00"
 title: Gebrek aan inhoud
+categories:
+  - nederlands
+  - travel
 aliases:
   - /dingen/2007/08/gebrek-aan-inhoud/
 

@@ -2,6 +2,8 @@
 author: alper
 date: "2007-07-14T20:13:19+00:00"
 title: Gent begint te feesten
+categories:
+  - nederlands
 aliases:
   - /dingen/2007/07/gent-begint-te-feesten/
 

@@ -2,6 +2,7 @@
 author: alper
 categories:
   - berlin
+  - capoeira
 date: "2007-10-15T15:08:35+00:00"
 title: Zurück aus Deutschland
 aliases:

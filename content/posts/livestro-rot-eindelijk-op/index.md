@@ -2,6 +2,9 @@
 author: alper
 date: "2007-06-19T13:13:05+00:00"
 title: Livestro pakt zijn biezen
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/06/livestro-rot-eindelijk-op/
 

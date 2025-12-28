@@ -2,6 +2,10 @@
 author: alper
 date: "2012-06-29T16:32:51+00:00"
 title: Flickr op NDSM
+categories:
+  - nederlands
+  - photography
+  - amsterdam
 aliases:
   - /dingen/2008/02/flickr-op-ndsm/
 

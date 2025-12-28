@@ -2,6 +2,9 @@
 author: alper
 date: "2007-07-23T22:22:23+00:00"
 title: Alledaagse innovatie
+categories:
+  - nederlands
+  - product-design
 aliases:
   - /dingen/2007/07/alledaagse-innovatie/
 

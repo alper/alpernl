@@ -2,6 +2,9 @@
 author: alper
 date: "2007-10-01T08:17:09+00:00"
 title: Provocaties en tegenaanvallen
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/10/provocaties-en-tegenaanvallen/
 

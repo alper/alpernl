@@ -2,6 +2,10 @@
 author: alper
 date: "2007-06-09T20:02:50+00:00"
 title: Er wordt weer gekookt
+categories:
+  - nederlands
+  - food
+  - video
 aliases:
   - /dingen/2007/06/er-wordt-weer-gekookt/
 

@@ -2,6 +2,8 @@
 author: alper
 date: "2007-10-08T16:11:54+00:00"
 title: Klantenondersteuning kan makkelijk verbeterd worden
+categories:
+  - nederlands
 aliases:
   - /dingen/2007/10/klantenondersteuning-kan-makkelijk-verbeterd-worden/
 

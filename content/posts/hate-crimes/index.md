@@ -2,6 +2,10 @@
 author: alper
 date: "2007-08-07T10:20:01+00:00"
 title: Hate Crimes
+categories:
+  - nederlands
+  - amsterdam
+  - politics
 aliases:
   - /dingen/2007/08/hate-crimes/
 

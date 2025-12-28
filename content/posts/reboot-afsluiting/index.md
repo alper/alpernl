@@ -2,6 +2,9 @@
 author: alper
 date: "2007-06-04T10:27:47+00:00"
 title: Reboot afsluiting
+categories:
+  - nederlands
+  - copenhagen
 aliases:
   - /dingen/2007/06/reboot-afsluiting/
 

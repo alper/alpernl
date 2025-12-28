@@ -2,6 +2,10 @@
 author: alper
 date: "2007-11-03T18:51:41+00:00"
 title: Berlijn dan eindelijk
+categories:
+  - berlin
+  - travel
+  - nederlands
 aliases:
   - /dingen/2007/11/berlijn-dan-eindelijk/
 

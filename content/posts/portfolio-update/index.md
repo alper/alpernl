@@ -2,6 +2,9 @@
 author: alper
 date: "2007-10-15T17:59:04+00:00"
 title: Portfolio update
+categories:
+  - nederlands
+  - photography
 aliases:
   - /dingen/2007/10/portfolio-update/
 

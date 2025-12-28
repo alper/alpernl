@@ -2,6 +2,9 @@
 author: alper
 date: "2007-04-24T09:01:14+00:00"
 title: De radio, achterhaald al voor het de ether in geslingerd wordt
+categories:
+  - nederlands
+  - music
 aliases:
   - /dingen/2007/04/de-radio-achterhaald-al-voor-het-de-ether-in-geslingerd-wordt/
 

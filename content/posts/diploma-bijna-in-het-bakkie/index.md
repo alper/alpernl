@@ -2,6 +2,10 @@
 author: alper
 date: "2007-09-17T11:29:47+00:00"
 title: Diploma bijna in het bakkie
+categories:
+  - delft
+  - nederlands
+  - amsterdam
 aliases:
   - /dingen/2007/09/diploma-bijna-in-het-bakkie/
 

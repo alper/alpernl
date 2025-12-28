@@ -4,6 +4,7 @@ categories:
   - amsterdam
   - nederlands
   - travel
+  - berlin
 date: "2020-10-24T09:48:31+00:00"
 title: ""
 aliases:

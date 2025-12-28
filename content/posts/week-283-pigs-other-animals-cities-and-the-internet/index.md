@@ -4,6 +4,8 @@ categories:
   - english
   - monster-swell
   - work
+  - berlin
+  - publicity
 date: "2012-08-22T08:00:28+00:00"
 title: 'Week 283: Pigs, other animals, cities and the internet'
 aliases:

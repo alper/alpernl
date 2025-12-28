@@ -2,6 +2,9 @@
 author: alper
 date: "2007-11-20T19:21:31+00:00"
 title: De essentie van hardlopen
+categories:
+  - nederlands
+  - sports
 aliases:
   - /dingen/2007/11/de-essentie-van-hardlopen/
 

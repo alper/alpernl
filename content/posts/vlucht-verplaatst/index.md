@@ -2,6 +2,12 @@
 author: alper
 date: "2007-08-15T20:32:25+00:00"
 title: Vlucht verplaatst
+categories:
+  - nederlands
+  - travel
+  - sports
+  - london
+  - istanbul
 aliases:
   - /dingen/2007/08/vlucht-verplaatst/
 

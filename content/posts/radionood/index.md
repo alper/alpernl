@@ -2,6 +2,9 @@
 author: alper
 date: "2008-02-14T13:02:58+00:00"
 title: Radionood
+categories:
+  - nederlands
+  - music
 aliases:
   - /dingen/2008/02/radionood/
 

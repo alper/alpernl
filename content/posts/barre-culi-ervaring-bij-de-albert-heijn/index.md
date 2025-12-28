@@ -2,6 +2,9 @@
 author: alper
 date: "2010-05-08T17:05:04+00:00"
 title: Barre culi-ervaring bij de Albert Heijn
+categories:
+  - nederlands
+  - food
 aliases:
   - /dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/
 

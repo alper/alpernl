@@ -2,6 +2,9 @@
 author: alper
 date: "2007-11-23T07:01:37+00:00"
 title: Unsubscribe
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/11/unsubscribe/
 

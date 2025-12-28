@@ -2,6 +2,9 @@
 author: alper
 date: "2007-07-22T20:09:50+00:00"
 title: Mind the hoax
+categories:
+  - nederlands
+  - delft
 aliases:
   - /dingen/2007/07/mind-the-hoax/
 

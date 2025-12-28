@@ -2,6 +2,9 @@
 author: alper
 date: "2007-05-21T23:56:53+00:00"
 title: Oneindige bescherming van auteursrecht en andere misverstanden
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/05/oneindige-bescherming-van-auteursrecht-en-andere-misverstanden/
 

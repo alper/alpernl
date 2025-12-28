@@ -2,6 +2,10 @@
 author: alper
 date: "2007-08-29T13:54:30+00:00"
 title: Terugvlucht ook verplaatst
+categories:
+  - nederlands
+  - travel
+  - istanbul
 aliases:
   - /dingen/2007/08/terugvlucht-ook-verplaatst/
 

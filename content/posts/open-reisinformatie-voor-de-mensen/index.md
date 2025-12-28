@@ -2,6 +2,9 @@
 author: alper
 date: "2007-12-24T14:08:30+00:00"
 title: Open reisinformatie voor de mensen
+categories:
+  - nederlands
+  - work
 aliases:
   - /dingen/2007/12/open-reisinformatie-voor-de-mensen/
 

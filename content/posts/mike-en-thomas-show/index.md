@@ -2,6 +2,9 @@
 author: alper
 date: "2007-05-10T21:40:14+00:00"
 title: Mike en Thomas Show
+categories:
+  - nederlands
+  - video
 aliases:
   - /dingen/2007/05/mike-en-thomas-show/
 

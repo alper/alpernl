@@ -2,6 +2,9 @@
 author: alper
 date: "2007-06-09T21:35:09+00:00"
 title: 'Recept: "Sin City" Ontbijttaco''s door Robert Rodriguez'
+categories:
+  - nederlands
+  - food
 aliases:
   - /dingen/2007/06/recept-sin-city-ontbijttacos-door-robert-rodriguez/
 

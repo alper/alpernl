@@ -2,6 +2,10 @@
 author: alper
 date: "2007-05-23T12:28:05+00:00"
 title: Buitengewoon barre werkplek op de universiteit
+categories:
+  - delft
+  - nederlands
+  - food
 aliases:
   - /dingen/2007/05/buitengewoon-barre-werkplek-op-de-universiteit/
 

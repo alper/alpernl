@@ -4,6 +4,8 @@ categories:
   - nederlands
   - product-design
   - work
+  - publicity
+  - berlin
 date: "2017-11-18T10:08:42+00:00"
 title: The Good, the Bad and the Interesting
 aliases:

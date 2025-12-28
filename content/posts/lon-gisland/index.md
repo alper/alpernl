@@ -2,6 +2,10 @@
 author: alper
 date: "2008-01-20T15:38:50+00:00"
 title: Lon Gisland
+categories:
+  - nederlands
+  - music
+  - video
 aliases:
   - /dingen/2008/01/lon-gisland/
 

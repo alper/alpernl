@@ -2,6 +2,8 @@
 author: alper
 date: "2007-09-23T23:53:59+00:00"
 title: Kunst van vandaag
+categories:
+  - nederlands
 aliases:
   - /dingen/2007/09/kunst-van-vandaag/
 

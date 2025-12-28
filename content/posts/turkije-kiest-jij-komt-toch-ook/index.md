@@ -2,6 +2,9 @@
 author: alper
 date: "2007-07-22T22:55:37+00:00"
 title: Turkije kiest - Jij komt toch ook?
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/07/turkije-kiest-jij-komt-toch-ook/
 

@@ -2,6 +2,8 @@
 author: alper
 date: "2008-02-21T11:36:36+00:00"
 title: High Grade Structured Credit Enhanced Leverage Fund
+categories:
+  - nederlands
 aliases:
   - /dingen/2008/02/high-grade-structured-credit-enhanced-leverage-fund/
 

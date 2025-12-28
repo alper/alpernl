@@ -2,6 +2,10 @@
 author: alper
 date: "2009-02-11T01:42:35+00:00"
 title: Fantastisch design maar toch niet geslaagd
+categories:
+  - nederlands
+  - delft
+  - food
 aliases:
   - /dingen/2007/07/fantastisch-design-maar-toch-niet-geslaagd/
 

@@ -2,6 +2,9 @@
 author: alper
 date: "2007-10-15T14:55:30+00:00"
 title: Bellen in het buitenland
+categories:
+  - travel
+  - nederlands
 aliases:
   - /dingen/2007/10/bellen-in-het-buitenland/
 

@@ -2,6 +2,8 @@
 author: alper
 categories:
   - berlin
+  - nederlands
+  - work
 date: "2007-10-08T04:33:05+00:00"
 title: NS Internationaal
 aliases:

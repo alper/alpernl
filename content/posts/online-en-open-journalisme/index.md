@@ -2,6 +2,9 @@
 author: alper
 date: "2007-06-27T13:15:51+00:00"
 title: Online en open journalisme
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/06/online-en-open-journalisme/
 

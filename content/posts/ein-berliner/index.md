@@ -2,6 +2,7 @@
 author: alper
 categories:
   - berlin
+  - nederlands
 date: "2008-01-15T16:38:32+00:00"
 title: Ein Berliner
 aliases:

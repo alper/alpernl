@@ -2,6 +2,11 @@
 author: alper
 date: "2008-01-17T07:28:47+00:00"
 title: The Most Majestic
+categories:
+  - nederlands
+  - berlin
+  - travel
+  - food
 aliases:
   - /dingen/2008/01/the-most-majestic/
 

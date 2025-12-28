@@ -2,6 +2,10 @@
 author: alper
 categories:
   - berlin
+  - nederlands
+  - travel
+  - work
+  - photography
 date: "2007-11-13T01:57:08+00:00"
 title: Berliner Existenz
 aliases:

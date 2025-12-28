@@ -2,6 +2,9 @@
 author: alper
 date: "2007-07-03T16:33:04+00:00"
 title: Tacos, een verslag
+categories:
+  - nederlands
+  - food
 aliases:
   - /dingen/2007/06/tacos-een-verslag/
 

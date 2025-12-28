@@ -2,6 +2,11 @@
 author: alper
 date: "2008-01-23T02:09:33+00:00"
 title: Bem vindo Brasil
+categories:
+  - nederlands
+  - portuguese
+  - capoeira
+  - sports
 aliases:
   - /dingen/2008/01/bem-vindo-brasil/
 

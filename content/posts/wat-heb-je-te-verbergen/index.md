@@ -2,6 +2,9 @@
 author: alper
 date: "2007-11-22T07:57:44+00:00"
 title: Wat heb je te verbergen?
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/11/wat-heb-je-te-verbergen/
 

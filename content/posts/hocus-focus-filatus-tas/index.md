@@ -2,6 +2,10 @@
 author: alper
 date: "2007-12-22T23:54:28+00:00"
 title: Hocus Focus Filatus Tas
+categories:
+  - nederlands
+  - photography
+  - delft
 aliases:
   - /dingen/2007/12/hocus-focus-filatus-tas/
 

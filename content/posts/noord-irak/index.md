@@ -2,6 +2,10 @@
 author: alper
 date: "2007-10-23T23:13:15+00:00"
 title: Noord Irak
+categories:
+  - nederlands
+  - video
+  - politics
 aliases:
   - /dingen/2007/10/noord-irak/
 

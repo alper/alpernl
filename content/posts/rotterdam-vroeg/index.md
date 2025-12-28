@@ -2,6 +2,8 @@
 author: alper
 date: "2007-12-17T06:56:08+00:00"
 title: Rotterdam vroeg
+categories:
+  - nederlands
 aliases:
   - /dingen/2007/12/rotterdam-vroeg/
 

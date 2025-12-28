@@ -2,6 +2,9 @@
 author: admin
 date: "2007-04-12T13:06:06+00:00"
 title: Nieuw blog
+categories:
+  - nederlands
+  - internet
 aliases:
   - /dingen/2007/04/hello-world/
 

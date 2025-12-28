@@ -2,6 +2,10 @@
 author: alper
 date: "2008-02-05T00:24:54+00:00"
 title: Verandering waar we in kunnen geloven
+categories:
+  - nederlands
+  - politics
+  - video
 aliases:
   - /dingen/2008/02/verandering-waar-we-in-kunnen-geloven/
 

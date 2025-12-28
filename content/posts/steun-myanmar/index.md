@@ -2,6 +2,8 @@
 author: alper
 date: "2007-09-28T10:27:13+00:00"
 title: Steun Myanmar
+categories:
+  - nederlands
 aliases:
   - /dingen/2007/09/steun-myanmar/
 

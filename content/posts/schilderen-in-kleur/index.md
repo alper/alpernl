@@ -2,6 +2,9 @@
 author: alper
 date: "2007-10-22T21:14:27+00:00"
 title: Schilderen in kleur
+categories:
+  - nederlands
+  - product-design
 aliases:
   - /dingen/2007/10/schilderen-in-kleur/
 

@@ -2,6 +2,9 @@
 author: alper
 date: "2008-02-20T13:22:17+00:00"
 title: Soft Power
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2008/02/soft-power/
 

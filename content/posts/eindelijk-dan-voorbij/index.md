@@ -2,6 +2,10 @@
 author: alper
 date: "2007-07-18T22:03:31+00:00"
 title: Eindelijk dan voorbij?
+categories:
+  - delft
+  - nederlands
+  - travel
 aliases:
   - /dingen/2007/07/eindelijk-dan-voorbij/
 

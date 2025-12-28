@@ -2,6 +2,10 @@
 author: alper
 date: "2007-10-15T14:47:43+00:00"
 title: Sleuteloverdracht
+categories:
+  - nederlands
+  - capoeira
+  - delft
 aliases:
   - /dingen/2007/10/sleuteloverdracht/
 

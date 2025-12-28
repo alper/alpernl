@@ -2,6 +2,9 @@
 author: alper
 date: "2007-08-02T08:21:36+00:00"
 title: Verminderen regeldruk voor de burger
+categories:
+  - nederlands
+  - politics
 aliases:
   - /dingen/2007/08/verminderen-regeldruk-voor-de-burger/
 

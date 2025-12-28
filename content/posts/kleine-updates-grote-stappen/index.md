@@ -2,6 +2,10 @@
 author: alper
 date: "2007-09-27T21:05:26+00:00"
 title: Kleine updates grote stappen
+categories:
+  - nederlands
+  - sports
+  - delft
 aliases:
   - /dingen/2007/09/kleine-updates-grote-stappen/
 

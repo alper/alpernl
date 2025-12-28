@@ -2,6 +2,9 @@
 author: alper
 date: "2008-01-16T10:22:27+00:00"
 title: Schilderwerk
+categories:
+  - nederlands
+  - product-design
 aliases:
   - /dingen/2008/01/schilderwerk/
 

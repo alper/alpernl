@@ -2,6 +2,8 @@
 author: alper
 categories:
   - delft
+  - nederlands
+  - capoeira
 date: "2007-06-09T14:14:07+00:00"
 title: Rustig
 aliases:

@@ -2,6 +2,10 @@
 author: alper
 date: "2007-04-22T12:50:54+00:00"
 title: Getuigenis over essentiele verhalen
+categories:
+  - nederlands
+  - photography
+  - video
 aliases:
   - /dingen/2007/04/getuigenis-over-essentiele-verhalen/
 

@@ -2,6 +2,10 @@
 author: alper
 date: "2007-08-02T12:33:46+00:00"
 title: Vrienden over de vloer
+categories:
+  - nederlands
+  - food
+  - photography
 aliases:
   - /dingen/2007/08/vrienden-over-de-vloer/
 

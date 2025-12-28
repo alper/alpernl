@@ -2,6 +2,9 @@
 author: alper
 date: "2007-09-11T23:05:29+00:00"
 title: Afreizen en afstuderen
+categories:
+  - travel
+  - nederlands
 aliases:
   - /dingen/2007/09/afreizen-en-afstuderen/
 
@@ -20,7 +23,7 @@ Daarnaast snap ik niet waarom in Engeland alles zo duur moet zijn. Het is toch n
 
 [![Expensive Ticket](http://farm2.static.flickr.com/1196/1356585751_6227c39ee7_m.jpg)](http://www.flickr.com/photos/alper/1356585751/ "Photo Sharing")
 
-Één ding wat rond Londen echte en ramp is, zijn de treinen. Voor mijn rit van Brighton naar Stansted betaalde ik Â£33,50. Dat is volgens mij best veel geld, zeker als je bekijkt wat je ervoor terug krijgt. Voor dit bedrag kun je in Turkije in alle comfort 1500km reizen en zelfs in Nederland krijg je er bijna een enkeltje Parijs voor. In Engeland mag je ervoor in een trein zitten die 30 jaar oud lijkt en nooit onderhoud heeft gehad. Deze trein boemelt door Londen heen en staat hier en daar zonder reden stil.
+Één ding wat rond Londen echte en ramp is, zijn de treinen. Voor mijn rit van Brighton naar Stansted betaalde ik £33,50. Dat is volgens mij best veel geld, zeker als je bekijkt wat je ervoor terug krijgt. Voor dit bedrag kun je in Turkije in alle comfort 1500km reizen en zelfs in Nederland krijg je er bijna een enkeltje Parijs voor. In Engeland mag je ervoor in een trein zitten die 30 jaar oud lijkt en nooit onderhoud heeft gehad. Deze trein boemelt door Londen heen en staat hier en daar zonder reden stil.
 
 ### Terug in Nederland
 

@@ -2,6 +2,9 @@
 author: alper
 date: "2007-05-21T09:28:55+00:00"
 title: Dagje uitrusten in Amsterdam
+categories:
+  - nederlands
+  - amsterdam
 aliases:
   - /dingen/2007/05/dagje-uitrusten-in-amsterdam/
 

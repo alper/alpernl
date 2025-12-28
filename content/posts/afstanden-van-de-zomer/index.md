@@ -2,6 +2,13 @@
 author: alper
 date: "2007-10-21T02:49:25+00:00"
 title: Afstanden van de zomer
+categories:
+  - nederlands
+  - travel
+  - delft
+  - amsterdam
+  - istanbul
+  - london
 aliases:
   - /dingen/2007/10/afstanden-van-de-zomer/
 

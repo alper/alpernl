@@ -5,8 +5,9 @@ categories:
   - food
   - nederlands
   - san-francisco
+  - berlin
 date: "2009-10-04T15:03:35+00:00"
-title: Restauranten gevraagd
+title: Restaurants gevraagd
 aliases:
   - /dingen/2009/09/restauranten-gevraagd/
 

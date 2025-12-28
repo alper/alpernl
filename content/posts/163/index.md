@@ -1,7 +1,10 @@
 ---
 author: alper
 date: "2007-10-20T11:12:41+00:00"
-title: Â¡Viva la revolucion!
+title: ¡Viva la revolucion!
+categories:
+  - nederlands
+  - photography
 aliases:
   - /dingen/2007/10/163/
 

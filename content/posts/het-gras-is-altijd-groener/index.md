@@ -2,6 +2,9 @@
 author: alper
 date: "2007-09-12T03:10:30+00:00"
 title: Het gras is altijd groener
+categories:
+  - nederlands
+  - travel
 aliases:
   - /dingen/2007/09/het-gras-is-altijd-groener/
 

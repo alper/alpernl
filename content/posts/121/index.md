@@ -2,6 +2,10 @@
 author: alper
 date: "2007-09-03T20:02:10+00:00"
 title: De meisjes van de zwakke argumentatie
+categories:
+  - nederlands
+  - politics
+  - video
 aliases:
   - /dingen/2007/09/121/
 

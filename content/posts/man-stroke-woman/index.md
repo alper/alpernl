@@ -2,6 +2,9 @@
 author: alper
 date: "2007-12-27T08:30:50+00:00"
 title: Man stroke woman
+categories:
+  - nederlands
+  - video
 aliases:
   - /dingen/2007/12/man-stroke-woman/
 

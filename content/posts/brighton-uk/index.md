@@ -2,6 +2,10 @@
 author: alper
 date: "2007-09-10T18:38:30+00:00"
 title: Brighton, UK
+categories:
+  - nederlands
+  - travel
+  - work
 aliases:
   - /dingen/2007/09/brighton-uk/
 

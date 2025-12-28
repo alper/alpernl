@@ -2,6 +2,9 @@
 author: alper
 date: "2007-07-22T19:56:09+00:00"
 title: Geronimo!
+categories:
+  - nederlands
+  - sports
 aliases:
   - /dingen/2007/07/geronimo/
 

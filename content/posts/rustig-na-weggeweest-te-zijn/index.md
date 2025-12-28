@@ -2,6 +2,8 @@
 author: alper
 categories:
   - capoeira
+  - nederlands
+  - berlin
 date: "2007-11-13T23:42:03+00:00"
 title: Rustig na weggeweest te zijn
 aliases:

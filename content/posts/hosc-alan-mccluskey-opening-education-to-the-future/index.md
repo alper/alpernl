@@ -2,6 +2,9 @@
 author: alper
 date: "2007-06-11T13:10:46+00:00"
 title: HOSC - Alan McCluskey - Opening education to the future
+categories:
+  - nederlands
+  - work
 aliases:
   - /dingen/2007/06/hosc-alan-mccluskey-opening-education-to-the-future/
 
