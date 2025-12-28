@@ -5,6 +5,9 @@ categories:
   - nederlands
   - product-design
   - video
+  - utrecht
+  - publicity
+  - work
 date: "2010-09-29T13:40:09+00:00"
 title: Spiegel van Holland
 aliases:

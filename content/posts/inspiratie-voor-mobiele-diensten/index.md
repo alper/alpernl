@@ -4,6 +4,7 @@ categories:
   - internet
   - monster-swell
   - nederlands
+  - utrecht
 date: "2009-04-20T20:16:48+00:00"
 title: Inspiratie voor mobiele diensten
 aliases:
@@ -35,7 +36,9 @@ We kunnen wel [de wildste dingen](http://www.flickr.com/photos/alper/3394196679/
 [![GPS Primed Mobile Site](http://farm4.static.flickr.com/3545/3392858463_a0fe5fd5db_m.jpg)](http://www.flickr.com/photos/alper/3392858463/ "GPS Primed Mobile Site by illustir, on Flickr")
 
 Er is op dit moment [een 9292 applicatie](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300925772&mt=8) voor de iPhone die op basis van je locatie de site opent. Dit is best een aardig idee en zou goed kunnen werken, maar ik heb hem [pas getest](http://twitter.com/alper/status/1534665338).
+
 Een paar weken geleden zaten we met vrienden op de verkeerde plek in Utrecht Terwijde en moest ik onder tijdsdruk snel een nieuwe route vinden naar een plek ergens anders in Utrecht, en de eerstvolgende bus, en de bushalte etc.
+
 Dit was redelijk lastig voor elkaar te krijgen in de applicatie. Het was ontzettend moeilijk om een adres gevonden te krijgen ((Wiens idee was het om het fomaat “stad, adres”te voeren?)), de kaarten die bij een advies komen zijn compleet onbruikbaar, en het is lastig om adviezen op te slaan en alternatieven te vergelijken. Met wat heen en weer schakelen naar Google Maps op mijn iPhone is het me uiteindelijk gelukt, maar makkelijk was het niet ((En als ik eerlijk ben geef ik 90% van de iPhone gebruikers geen kans om hetzelfde te bereiken.)).
 Bedenk dan dat Google aanbiedt om gratis en voor niets onze vervoersgegevens online beschikbaar te maken met [de Google Transit website](http://www.google.com/transit/) die op zich al bijzonder vooruitstrevend is maar die ook geïntegreerd is met de Google Maps applicatie op de iPhone. Waarom hebben we dat niet in Nederland ((Als enige land in West-Europa niet trouwens.))?
 

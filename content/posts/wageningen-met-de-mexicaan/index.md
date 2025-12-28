@@ -3,6 +3,7 @@ author: alper
 categories:
   - nederlands
   - photography
+  - sports
 date: "2008-03-23T17:45:38+00:00"
 title: Wageningen met de Mexicaan
 aliases:

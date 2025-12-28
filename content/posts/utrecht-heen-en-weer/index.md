@@ -2,6 +2,11 @@
 author: alper
 date: "2007-12-03T02:59:51+00:00"
 title: Utrecht heen en weer
+categories:
+  - utrecht
+  - nederlands
+  - delft
+  - work
 aliases:
   - /dingen/2007/11/utrecht-heen-en-weer/
 

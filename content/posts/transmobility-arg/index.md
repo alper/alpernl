@@ -4,6 +4,7 @@ categories:
   - english
   - product-design
   - the-city
+  - open-state
 date: "2011-02-17T11:04:22+00:00"
 title: Transmobility ARG
 aliases:

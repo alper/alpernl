@@ -5,6 +5,10 @@ categories:
   - internet
   - monster-swell
   - work
+  - berlin
+  - utrecht
+  - amsterdam
+  - the-city
 date: "2012-02-19T21:04:07+00:00"
 title: 'Week 257: moving office, Kotti, to Amsterdam again, Open Coop kicking it off, Social Cities of Tomorrow and explorations in theory and practice'
 aliases:

@@ -5,6 +5,9 @@ categories:
   - english
   - monster-swell
   - work
+  - open-state
+  - utrecht
+  - politics
 date: "2012-05-21T10:10:16+00:00"
 title: 'Week 270: Amsterdam encounters, data visualization, foundational work'
 aliases:

@@ -5,6 +5,8 @@ categories:
   - politics
   - product-design
   - work
+  - open-state
+  - utrecht
 date: "2011-09-27T18:39:29+00:00"
 title: Week 236
 aliases:

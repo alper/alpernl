@@ -4,6 +4,9 @@ categories:
   - english
   - monster-swell
   - work
+  - utrecht
+  - berlin
+  - open-state
 date: "2012-09-10T17:23:25+00:00"
 title: 'Week 286: Amsterdam visit, programming lessons and hacking parliament from within'
 aliases:

@@ -6,6 +6,8 @@ categories:
   - monster-swell
   - product-design
   - work
+  - utrecht
+  - open-state
 date: "2011-06-28T21:05:54+00:00"
 title: Week 223
 aliases:

@@ -6,6 +6,9 @@ categories:
   - monster-swell
   - reading
   - work
+  - travel
+  - berlin
+  - utrecht
 date: "2011-12-11T17:49:26+00:00"
 title: Week 247
 aliases:

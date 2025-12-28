@@ -5,6 +5,9 @@ categories:
   - internet
   - monster-swell
   - work
+  - utrecht
+  - amsterdam
+  - politics
 date: "2011-07-06T15:40:12+00:00"
 title: Week 224
 aliases:

@@ -4,6 +4,8 @@ categories:
   - english
   - monster-swell
   - work
+  - berlin
+  - utrecht
 date: "2012-09-04T07:51:32+00:00"
 title: 'Week 285: dots connected, games demoed, book proposals written, programming taught, apps prototyped'
 aliases:

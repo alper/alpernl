@@ -6,6 +6,8 @@ categories:
   - monster-swell
   - product-design
   - work
+  - utrecht
+  - publicity
 date: "2010-11-15T15:29:00+00:00"
 title: Week 191
 aliases:

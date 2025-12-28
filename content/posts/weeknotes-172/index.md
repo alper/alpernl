@@ -4,6 +4,7 @@ categories:
   - english
   - monster-swell
   - work
+  - utrecht
 date: "2010-07-05T09:29:41+00:00"
 title: Weeknotes 172
 aliases:

@@ -4,6 +4,8 @@ categories:
   - english
   - food
   - video
+  - utrecht
+  - product-design
 date: "2011-05-19T20:03:16+00:00"
 title: Coffee Magic
 aliases:

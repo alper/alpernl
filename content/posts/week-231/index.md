@@ -4,6 +4,8 @@ categories:
   - english
   - monster-swell
   - work
+  - utrecht
+  - publicity
 date: "2011-08-22T16:36:10+00:00"
 title: Week 231
 aliases:

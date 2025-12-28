@@ -3,6 +3,7 @@ author: alper
 categories:
   - nederlands
   - sports
+  - utrecht
 date: "2009-04-15T09:58:38+00:00"
 title: Halfje Utrecht
 aliases:

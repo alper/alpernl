@@ -5,6 +5,7 @@ categories:
   - monster-swell
   - travel
   - work
+  - utrecht
 date: "2012-11-19T17:40:11+00:00"
 title: 'Week 296: Back in Europe/business'
 aliases:

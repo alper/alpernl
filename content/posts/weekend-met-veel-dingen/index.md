@@ -2,6 +2,8 @@
 author: alper
 categories:
   - capoeira
+  - nederlands
+  - utrecht
 date: "2007-05-20T11:10:59+00:00"
 title: Weekend met veel dingen
 aliases:
