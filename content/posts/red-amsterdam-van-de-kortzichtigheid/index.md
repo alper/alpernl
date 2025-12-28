@@ -17,7 +17,7 @@ Afgelopen week nog [een flyer](http://www.schlijper.nl/noordzuidlijn.html) op de
 [![More South than North!](http://farm2.static.flickr.com/1221/660256540_791a9c6bd9.jpg)](http://www.flickr.com/photos/wynandvanpoortvliet/660256540/ "More South than North! by wYnand!, on Flickr")
 picture by [Wynand van Poortvliet](http://www.flickr.com/people/wynandvanpoortvliet/)
 
-Zeker nu kunnen we het ons niet permitteren om dan €3.1 miljard weg te gooien. Amsterdam heeft dringend beter openbaar vervoer nodig om de verschillende stadsdelen en vooral het Amsterdam bÃ­nnen de ring met het Amsterdam búiten de ring te verbinden.
+Zeker nu kunnen we het ons niet permitteren om dan €3.1 miljard weg te gooien. Amsterdam heeft dringend beter openbaar vervoer nodig om de verschillende stadsdelen en vooral het Amsterdam bí­nnen de ring met het Amsterdam búiten de ring te verbinden.
 
 Tegen zijn is zó makkelijk. De partijen die tegen zijn, zijn de SP ((De traditionele tegenpartij.)) en enkele marginale politieke bewegingen. ‘Politici’ met een gebrek aan basale economische kennis (en een dosis gezond verstand) ((De lijst van Red Amsterdam wordt ook bevolkt door kroegbazen en halve bekende Nederlanders.)). Voor hen hier een klein lesje.
 

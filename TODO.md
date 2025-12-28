@@ -112,7 +112,7 @@
 * [ ] Pull this and other talks under publicity [“Designing in the Face of Defeat”](http://monsterswell.com/blog/2012/05/designing-in-the-face-of-defeat/)
 
 * [x] What happened with the image in this post? http://localhost:1313/blog/17632/
-* [ ] More encoding issues: (15ź centigrade), taquerÃ­as, 30-35Ëš C., mÃ­jn
+* [x] More encoding issues: (15ź centigrade), taquerÃ­as, 30-35Ëš C., mÃ­jn
 
 * [ ] Pick a better theme
   * Triple Hyde is good

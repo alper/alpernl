@@ -62,13 +62,13 @@ aliases:
 
 > One needs to be a fox to recognize snares, and a lion to frighten the wolves.
 
-> This, for Machiavelli, is the real test of any statesman’s quality: his virtue. And while good fortune can help you conquer states, virtÃ¹ is what lets you hold them securely.
+> This, for Machiavelli, is the real test of any statesman’s quality: his virtue. And while good fortune can help you conquer states, virtù is what lets you hold them securely.
 
 > Those who become princes solely by fortune have it much easier at first, rising to power with little trouble. But when the time comes to consolidate their newfound power, then all the difficulties arise, since these impetuous high-flyers seldom take the time to build up solid foundations for their state. Because of this, princes of fortune tend to be moody, fickle in their policies, even manic — now acting as if nothing could stop them, then losing all confidence at the first failure, as if failure weren’t a normal part of life. Virtuous leaders are far steadier, more trustworthy. They refuse to become arrogant with success or dejected with failure and, if their luck changes for better or for worse, they do not vary but always keep their spirit firm, showing that fortune does not have power over them.
 
 > That’s another thing about fortune-dependent types: they tend to think that they’re the only shrewd operators in the room. They can easily deceive others, but never be deceived.
 
-> For Niccolò, virtÃ¹ can mean spiritedness, especially in battle. But the highest-quality virtÃ¹ includes an aptitude for organization, industry, and far-sighted prudence. It further includes an unclouded knowledge of one’s own limits, the wisdom and self-discipline not to overreach them, and the ingenuity to use whatever opportunities and resources one has, however scarce they might be. VirtÃ¹ doesn’t need good luck, or even much freedom, to work wonders. On the contrary, it is most admirable, even most effective, where there are obstacles to overcome.
+> For Niccolò, virtù can mean spiritedness, especially in battle. But the highest-quality virtù includes an aptitude for organization, industry, and far-sighted prudence. It further includes an unclouded knowledge of one’s own limits, the wisdom and self-discipline not to overreach them, and the ingenuity to use whatever opportunities and resources one has, however scarce they might be. Virtù doesn’t need good luck, or even much freedom, to work wonders. On the contrary, it is most admirable, even most effective, where there are obstacles to overcome.
 
 > Give men secure work that allows them to feed their families and win public respect, in employments that are the nerve and life of the city, and they’ll become its stoutest defenders.
 

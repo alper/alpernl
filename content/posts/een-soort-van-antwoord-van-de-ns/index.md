@@ -15,7 +15,7 @@ Ik vernam al dat de NS op de afgelopen Mobile Monday probeerde hun nieuwe reispl
 
 Zojuist op de [gvenkdaily](http://gvenkdaily.nl/) ( [1](http://twitter.com/gvenkdaily/status/1430051480), [2](http://twitter.com/gvenkdaily/status/1430057131), [3](http://twitter.com/gvenkdaily/status/1430062685), [4](http://twitter.com/gvenkdaily/status/1430067592)) wat referenties naar verslaggeving over dit onderwerp en fragmentarisch de argumenten waarom de NS weigert hun gegevens open te gooien.
 
-Ik [schreef hier eerder al over](/dingen/2009/03/op-radio-online-tegen-de-ns/) en mensen vragen steeds aan mÃ­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.
+Ik [schreef hier eerder al over](/dingen/2009/03/op-radio-online-tegen-de-ns/) en mensen vragen steeds aan mí­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.
 
 Ik kan wel wat argumenten verzinnen waarom dit zo is, maar de misinformatie en verwarring die de NS verspreidt over dit onderwerp maken het er niet helderder op. Ik probeer het een en ander te reconstrueren.
 

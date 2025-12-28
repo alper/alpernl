@@ -4,7 +4,7 @@ categories:
   - english
   - internet
 date: "2019-09-07T19:35:30+00:00"
-title: Ã‰lite Universities and Their Donors
+title: Élite Universities and Their Donors
 aliases:
   - /dingen/2019/09/elite-universities-and-their-donors/
 

@@ -11,7 +11,7 @@ aliases:
   - /dingen/2024/03/17455/
 
 ---
-I'm enjoying another light season of [SPY x FAMILY](https://en.wikipedia.org/wiki/Spy_Ã—_Family). It's a light anime whose premise is that of a spy (Loid) who needs live in deep cover in hostile territory and forms a family of convenience. He finds a woman (Yor) who's secretly an assassin also in need of cover and an orphan child (Anya) who's a telepath. It's great fun.
+I'm enjoying another light season of [SPY x FAMILY](https://en.wikipedia.org/wiki/Spy_×_Family). It's a light anime whose premise is that of a spy (Loid) who needs live in deep cover in hostile territory and forms a family of convenience. He finds a woman (Yor) who's secretly an assassin also in need of cover and an orphan child (Anya) who's a telepath. It's great fun.
 
 {{< figure src="IMG_5912.png" alt="" caption="" >}}
 

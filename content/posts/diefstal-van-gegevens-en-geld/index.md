@@ -29,7 +29,7 @@ Hieronder het antwoord wat ik kreeg:
 > Bas Bos
 > Klantenservice OV-chipkaart
 
-Ik kan dus niet bij mÃ­jn gegevens (die wél [twee jaar bewaard](https://www.bigbrotherawards.nl/2011/03/and-the-winner-is/) worden) en daardoor ook niet het geld terugvragen wat van mij is. Updates volgen, ik ben nu op zoek naar een manier om alle gegevens over mij die bekend zijn bij OV-chipkaart/TLS/GVB op te vragen.
+Ik kan dus niet bij mí­jn gegevens (die wél [twee jaar bewaard](https://www.bigbrotherawards.nl/2011/03/and-the-winner-is/) worden) en daardoor ook niet het geld terugvragen wat van mij is. Updates volgen, ik ben nu op zoek naar een manier om alle gegevens over mij die bekend zijn bij OV-chipkaart/TLS/GVB op te vragen.
 
 **Update:** Je kunt [bellen met TLS](http://www.translink.nl/content.asp?languageID=NL&pageID=42) op nummer: 033 - 467 20 00. Ze kunnen je daar niet verder helpen met je gegevens, maar ik zou toch even bellen.
 

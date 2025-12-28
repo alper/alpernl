@@ -19,7 +19,7 @@ Cryptonomicon — Neal Stephenson\*
 Disgrace — J.M. Coetzee\*
 The Discovery of Heaven — Harry Mulisch
 American Psycho — Bret Easton Ellis
-Love in the Time of Cholera — Gabriel GarcÃ­a Márquez
+Love in the Time of Cholera — Gabriel Garcí­a Márquez
 The Wasp Factory — Iain Banks
 The Unbearable Lightness of Being — Milan Kundera
 Neuromancer — William Gibson

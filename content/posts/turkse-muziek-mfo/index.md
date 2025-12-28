@@ -5,7 +5,7 @@ categories:
   - nederlands
   - video
 date: "2009-07-21T23:32:19+00:00"
-title: Turkse Muziek - MFÃ–
+title: Turkse Muziek - MFÖ
 aliases:
   - /dingen/2008/03/turkse-muziek-mfo/
 

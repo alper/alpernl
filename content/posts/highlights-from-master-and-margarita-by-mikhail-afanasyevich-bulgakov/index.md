@@ -4,7 +4,7 @@ categories:
   - english
   - reading
 date: "2016-09-07T14:30:05+00:00"
-title: Highlights from Master and Margarita by MikhaÃ­l Afanasyevich Bulgakov
+title: Highlights from Master and Margarita by Mikhaí­l Afanasyevich Bulgakov
 aliases:
   - /dingen/2016/09/highlights-from-master-and-margarita-by-mikhail-afanasyevich-bulgakov/
 

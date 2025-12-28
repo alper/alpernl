@@ -16,7 +16,7 @@ Het is een beetje warrig maar wat [Vincent Everts](http://twitter.com/vincente) 
 
 > Ik denk dat als eerste stap om de ramen open te doen en te zeggen laten we samenwerken aan producten, hier heb je mijn basis-API maak er iets moois van. Ik denk dat dat veel verder doorgegaan moet worden en dat die API die jullie nu hebben waarmee iedereen dus een basisvervoersadvies kan krijgen en dat kun je dan zelf verrijken, dat dat een hele goede weg is en ik denk dat 9292 ook verder moet doorzetten.
 
-Ruwweg hetzelfde [wat ik ook zeg](/dingen/index.php?s=9292), met dien verstande dat die API waar Vincent het over heeft niet publiek of onder andere voorwaarden beschikbaar is. 9292 moet in ieder geval verder doorzetten, laat dÃ­t dan een mooie eerste stap zijn.
+Ruwweg hetzelfde [wat ik ook zeg](/dingen/index.php?s=9292), met dien verstande dat die API waar Vincent het over heeft niet publiek of onder andere voorwaarden beschikbaar is. 9292 moet in ieder geval verder doorzetten, laat dá­t dan een mooie eerste stap zijn.
 
 Verder ben ik erg benieuwd naar de inzendingen en de winnaars van de wedstrijd. Die worden [op 2 juni bekend](http://twitter.com/mdebruin/status/1833336840) gemaakt.
 

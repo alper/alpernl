@@ -1,7 +1,7 @@
 ---
 author: alper
 date: "2007-09-12T13:37:09+00:00"
-title: Het verkeer in SyriÃ« is gekkenwerk
+title: Het verkeer in Syrië is gekkenwerk
 categories:
   - nederlands
   - travel

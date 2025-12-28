@@ -13,7 +13,7 @@ De berichtgeving over de vliegramp illustreert weer eens waarom ik geen massa-me
 Als er een vliegramp gebeurt zijn er maar twee feiten die van daadwerkelijke nieuwswaarde zijn:
 
 1. Ken ik iemand aan boord van het vliegtuig of ken ik iemand die iemand kent aan boord van het vliegtuig?
-   Dit is de social media-visie op het nieuws. Nieuws is relevant voor mij als het mÃ­j raakt.
+   Dit is de social media-visie op het nieuws. Nieuws is relevant voor mij als het mí­j raakt.
 1. Is vliegen nog steeds de veiligste manier van vervoer voor mij?
    Subvragen: Wat zijn de gevolgen voor de veiligheid van vliegen? Had dit ongeluk voorkomen kunnen worden en worden de juiste maatregelen genomen om te zorgen dat het niet nog een keer kan gebeuren?
    Weer persoonlijke relevantie; actioneerbare informatie om je te helpen bij het maken van beslissingen in de toekomst.

@@ -57,7 +57,7 @@ Jocko Willink's Extreme Ownership is simple but extremely (!) effective. Reinert
 
 Seven out of nine (78%) of these authors are non-white/non-male and that is a worse score than I was hoping for. Toer's book on life in the Dutch East Indies should be essential reading for all Dutch people. Nelson has shown me parenting from a non-cis/-male perspective and for that I'm grateful.
 
-- Ãgua Viva
+- Água Viva
 - Open City
 - The Name Of The Rose
 - **Aarde der Mensen, Pramoedya Ananta Toer**
