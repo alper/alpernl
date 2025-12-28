@@ -14,6 +14,6 @@ aliases:
 
 ---
 I recently got glasses to make my vision even better than it already is. Nothing wrong with my eyes, but once you've seen the difference in sharpness, you do not want to go back. For me it's an augment:
-[![Glasses!](http://farm2.static.flickr.com/1308/4711756482_ac01ddb9df.jpg)](http://www.flickr.com/photos/alper/4711756482/ "Glasses! by illustir, on Flickr")
+[![Glasses!](4711756482_ac01ddb9df.jpg)](http://www.flickr.com/photos/alper/4711756482/ "Glasses! by illustir, on Flickr")
 
 Talking about augmented reality, this piece of design fiction by the guys at [Layar](http://layar.com) is very convincing to show that AR definitely is going to be a big deal. Here's to all the naysayers:

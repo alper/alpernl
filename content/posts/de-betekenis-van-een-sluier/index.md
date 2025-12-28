@@ -13,7 +13,7 @@ Ik ben op mijn laatste avond in het Riad Hotel in Hama nog bijna versierd.
 
 In de gemeenschappelijk ruimte van dat hotel is het goed relaxen 's avonds met Abdullah —de hotelmanager die voortreffelijk [^1] Engels spreekt— en de andere veelal Franse gasten. Een agressieve parkiet, watermeloen, de internet-pc en wat plafondventilatoren; het leven is er goed na een dag lang het snikhete Syrië verkennen.
 
-[![View over the city](http://farm2.static.flickr.com/1402/1275459795_d9e9869a14.jpg)](http://www.flickr.com/photos/alper/1275459795/ "Photo Sharing")
+[![View over the city](1275459795_d9e9869a14.jpg)](http://www.flickr.com/photos/alper/1275459795/ "Photo Sharing")
 
 Op die laatste avond stelde Abdullah me voor aan een meisje dat Engels studeerde in Damascus of Aleppo. Ze schijnt in allebei te wonen maar ze was toevallig in het hotel in Hama. Nu zijn er hier veel mensen die zeggen dat ze Engels studeren maar hoe lang ze het ook mogen studeren, klinken als Engels doet het niet. Communicatie met dit meisje dat Medea heette was bijna niet te doen.
 
@@ -25,11 +25,11 @@ Op een gegeven moment deed Medea haar sluier af zodat je haar gezicht kon zien. 
 
 Ik heb uit beleefdheid de rest van de avond nog wat aandacht aan Medea besteedt maar het gesprek vlotte niet echt en er waren interessantere mensen om mee te praten. Aan het einde van de avond had ik uitgecheckt — ik nam de bus van 06:45 de volgende ochtend naar [Palmyra](http://en.wikipedia.org/wiki/Palmyra)— nam ik afscheid van iedereen om vroeg te gaan slapen. Toen kreeg ik van Medea compleet onverwacht een afscheidskus [^5].
 
-[![Fan](http://farm2.static.flickr.com/1089/1276411566_8869a46bc1.jpg)](http://www.flickr.com/photos/alper/1276411566/ "Photo Sharing")
+[![Fan](1276411566_8869a46bc1.jpg)](http://www.flickr.com/photos/alper/1276411566/ "Photo Sharing")
 
 De volgende ochtend stond ik om 06:00 op [^6] om mijn vroege bus naar Palmyra te halen. Ik was mijn spullen aan het pakken toen mijn telefoon ging. Je raad al dat het Medea was die me belde. Ze had gisteren iets opgevangen van “six o'clock”of mijn gebrekkige “saa:a sittah”. Over de telefoon probeerde ze in extreem onsamenhangend [^7] Arabisch iets te vertellen. Ik kon alleen maar denken aan de €1,50 per minuut die dit me kostte en de bus die ik moest halen dus ik zei vriendelijk doei en hing op.
 
-[![Square](http://farm2.static.flickr.com/1233/1276290574_2c8a806fd9.jpg)](http://www.flickr.com/photos/alper/1276290574/ "Photo Sharing")
+[![Square](1276290574_2c8a806fd9.jpg)](http://www.flickr.com/photos/alper/1276290574/ "Photo Sharing")
 
 Beneden voor het hotel stond ik een taxi te roepen toen Medea ook het hotel uitkwam. Ze had een kadotas in haar hand en een briefje met drie of vier telefoonnummers erop. Ik had geen zin om er over na te denken dus ik nam de spullen aan en sprong in de al wachtende taxi. Pas in het hotel aangekomen in Palmyra keek ik in de tas en zag een hartvormig doosje met daarin een ring.
 
@@ -39,7 +39,7 @@ Een rare omslachtige interpretatie van liefde om me wat kado's en een paar telef
 
 De volgende dag nog werd ik toen ik door de ruïnes van Palmyra heenliep een keer of wat gebeld op mijn GSM. Mijn broekzak drukte dat steeds weg en na een tijdje heb ik hem uitgezet. Sindsdien is het stil. Ik heb geen interesse maar ik ben wel benieuwd naar de echte intentie. Ik twijfel of ik contact op zal nemen, maar bellen heeft met haar Engels en mijn Arabisch niet veel zin.
 
-[![](http://farm2.static.flickr.com/1403/1305186703_b0e44a35ce.jpg)](http://www.flickr.com/photos/alper/1305186703/ "Photo Sharing")
+[![](1305186703_b0e44a35ce.jpg)](http://www.flickr.com/photos/alper/1305186703/ "Photo Sharing")
 
 ### Andere verhalen
 

@@ -12,7 +12,7 @@ aliases:
 ---
 Maandag al een poging gewaagd om mijn allerlaatste practicum af te laten tekenen en er toen niet in geslaagd. Met mijn uitgestelde afstuderen heb ik wat vrienden de kans gegeven om toch nog eerder dan ik af te studeren. Daarnaast heb ik voor mezelf wat tijd uitgespaard om op adem te komen, te surfen en [de andere dingen](http://www.flickr.com/photos/alper/843852209/) te doen die gedaan moeten.
 
-[![Another surfin' trip](http://farm2.static.flickr.com/1370/840629880_e208ee5f45.jpg)](http://www.flickr.com/photos/alper/840629880/ "Photo Sharing")
+[![Another surfin' trip](840629880_e208ee5f45.jpg)](http://www.flickr.com/photos/alper/840629880/ "Photo Sharing")
 
 Het practicum schoot maandag niet op en niet een klein beetje niet op maar het zat echt muurvast. Na nog een poging vandaag hebben we de handdoek maar in de ring gegooid en het toch afgetekend. Storend dat je na zoveel werk, zo dichtbij het antwoord blijft steken, maar op dit moment kan het me niet zo heel veel meer schelen.
 

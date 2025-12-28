@@ -25,12 +25,12 @@ And it seems that time travel maps are still popular while we still don't have a
 [![Timemaps](http://farm7.static.flickr.com/6168/6162818009_cc9e12b36d_m.jpg)](http://www.flickr.com/photos/acscherp/6162818009/ "Timemaps by Arjan Scherpenisse, on Flickr")
 
 Skimmed this book by the Council for Social Development (RMO) about the public debate in the age of the internet:
-[![As chief ideologue of Hack de Overheid I need to check these kind of publications for sanity.](http://farm7.static.flickr.com/6061/6161877821_5ddd7a4864_m.jpg)](http://www.flickr.com/photos/alper/6161877821/ "As chief ideologue of Hack de Overheid I need to check these kind of publications for sanity. by illustir, on Flickr")
+[![As chief ideologue of Hack de Overheid I need to check these kind of publications for sanity.](6161877821_5ddd7a4864_m.jpg)](http://www.flickr.com/photos/alper/6161877821/ "As chief ideologue of Hack de Overheid I need to check these kind of publications for sanity. by illustir, on Flickr")
 
 Tuesday
 
 Our friends at [Two for Joy Coffee Roasters](http://www.twoforjoy.nl/) have opened their second store in Amsterdam. It's a new favorite place to work and meet:
-[![New Two for Joy next to my house](http://farm7.static.flickr.com/6155/6165773184_88f0ca9192_m.jpg)](http://www.flickr.com/photos/alper/6165773184/ "New Two for Joy next to my house by illustir, on Flickr")
+[![New Two for Joy next to my house](6165773184_88f0ca9192_m.jpg)](http://www.flickr.com/photos/alper/6165773184/ "New Two for Joy next to my house by illustir, on Flickr")
 
 Kars put [the slides for his dconstruct talk](http://whatsthehubbub.nl/blog/2011/09/the-transformers-at-dconstruct-2011/) on the Transformers online. Well worth a read for a realistic view on the city and games.
 
@@ -39,7 +39,7 @@ Work on Apps voor Nederland and culiacan working at pace. I'm very proud of the 
 Wednesday
 
 I dropped by [Ernst-Jan Pfauth](https://twitter.com/#!/ejpfauth) and [Ward Wijndelts](https://twitter.com/#!/wardwijndelts) who are settling in their new offices for their startup:
-[![Project Human Filter Revolution Ping Pong](http://farm7.static.flickr.com/6153/6169147832_5cee16719c_m.jpg)](http://www.flickr.com/photos/alper/6169147832/ "Project Human Filter Revolution Ping Pong by illustir, on Flickr")
+[![Project Human Filter Revolution Ping Pong](6169147832_5cee16719c_m.jpg)](http://www.flickr.com/photos/alper/6169147832/ "Project Human Filter Revolution Ping Pong by illustir, on Flickr")
 
 I concluded the day by chairing the jury deliberations for [Apps for Noord-Holland](http://appsfornoordholland.nl). The day was concluded with the [award ceremony](http://www.appsvoornederland.nl/nieuws/uitslag-apps4nh) and festivities.
 
@@ -50,26 +50,26 @@ Finished reading [The City & The City](http://readmill.com/alper/reads/the-city-
 Dropped by the great design team at [Buro Pony](http://buropony.nl) in Rotterdam to discuss the future of the specialty design store: [Dufarge](http://dufarge.com).
 
 Met with [Christian Friedrich](http://bk.tudelft.nl/index.php?id=15158&L=1) at Rotterdam's new espresso bar [Hopper](https://twitter.com/#!/HopperCoffee).
-[![Trying out the coffee of Rotterdam's finest](http://farm7.static.flickr.com/6169/6171698077_c9c9b2636d_m.jpg)](http://www.flickr.com/photos/alper/6171698077/ "Trying out the coffee of Rotterdam's finest by illustir, on Flickr")
+[![Trying out the coffee of Rotterdam's finest](6171698077_c9c9b2636d_m.jpg)](http://www.flickr.com/photos/alper/6171698077/ "Trying out the coffee of Rotterdam's finest by illustir, on Flickr")
 
 Caught up a bit on the Fyra back with [Yuri van Geest](https://twitter.com/#!/vangeest). A pleasure as always.
 
 Friday
 
-[![Say what you will, the hipster life is a good one.](http://farm7.static.flickr.com/6169/6174841060_25ce8dbbc2_m.jpg)](http://www.flickr.com/photos/alper/6174841060/ "Say what you will, the hipster life is a good one. by illustir, on Flickr")
+[![Say what you will, the hipster life is a good one.](6174841060_25ce8dbbc2_m.jpg)](http://www.flickr.com/photos/alper/6174841060/ "Say what you will, the hipster life is a good one. by illustir, on Flickr")
 
 Friday was concluded in Utrecht with more writing and working at the [Hubbub](http://hbbb.nl) studio.
 
 We had a great time playing [The Resistance](http://en.wikipedia.org/wiki/The_Resistance_(party_game)) a mashup between Mastermind and Werewolf.
 
-[![Playing The Resistance, there are spies among us!](http://farm7.static.flickr.com/6179/6175721832_308d9e7f98_m.jpg)](http://www.flickr.com/photos/alper/6175721832/ "Playing The Resistance, there are spies among us! by illustir, on Flickr")
+[![Playing The Resistance, there are spies among us!](6175721832_308d9e7f98_m.jpg)](http://www.flickr.com/photos/alper/6175721832/ "Playing The Resistance, there are spies among us! by illustir, on Flickr")
 
 Yes, that is the best we have found thusfar for a [Microsoft Surface Table](http://www.microsoft.com/surface/en/us/default.aspx).
 
 Catching up on the news of the week in die Zeit, here a profile of all the elected Pirates:
-[![Almost all the newly elected pirates make software or studied sciences (i.e. politicians who can do mats)](http://farm7.static.flickr.com/6172/6180533161_cb5b33c9e7_m.jpg)](http://www.flickr.com/photos/alper/6180533161/ "Almost all the newly elected pirates make software or studied sciences (i.e. politicians who can do mats) by illustir, on Flickr")
+[![Almost all the newly elected pirates make software or studied sciences (i.e. politicians who can do mats)](6180533161_cb5b33c9e7_m.jpg)](http://www.flickr.com/photos/alper/6180533161/ "Almost all the newly elected pirates make software or studied sciences (i.e. politicians who can do mats) by illustir, on Flickr")
 
 Most of them have either studied sciences or work in IT (or both). Politicians who can do maths. That may be an actual solution to the economic crisis we are in.
 
 And an editorial about the lack of responsibility in society both on the macro as in the microscale:
-[![“nun sollen die anderen auch meine Schuld übernehmen.”](http://farm7.static.flickr.com/6163/6181170082_96f8490a07_m.jpg)](http://www.flickr.com/photos/alper/6181170082/ "“nun sollen die anderen auch meine Schuld übernehmen.”by illustir, on Flickr")
+[![“nun sollen die anderen auch meine Schuld übernehmen.”](6181170082_96f8490a07_m.jpg)](http://www.flickr.com/photos/alper/6181170082/ "“nun sollen die anderen auch meine Schuld übernehmen.”by illustir, on Flickr")

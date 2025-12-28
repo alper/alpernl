@@ -10,4 +10,4 @@ aliases:
 
 ---
 En dan zwemt er zomaar dit je scherm binnen:
-[![Something fishy](http://farm3.static.flickr.com/2245/2330300731_4d6708667d.jpg)](http://www.flickr.com/photos/alper/2330300731/ "Something fishy by illustir, on Flickr")
+[![Something fishy](2330300731_4d6708667d.jpg)](http://www.flickr.com/photos/alper/2330300731/ "Something fishy by illustir, on Flickr")

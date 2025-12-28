@@ -33,7 +33,7 @@ Mijn [andere](/dingen/2009/04/openbaar-vervoer-update/) [vraag](http://twitter.c
 
 We kunnen wel [de wildste dingen](http://www.flickr.com/photos/alper/3394196679/) verzinnen, maar op dit moment hebben we nog niet eens een fatsoenlijke app die [de basics](/dingen/2009/04/openbaar-vervoer-update/#footnote_2_929) goed afhandelt. En dat is nog niet eens zo makkelijk, een applicatie als [Trein.app](http://www.naquah.net/trein/) ziet er heel simpel uit en is niet veel meer dan een dunne laag over [mobiel.ns.nl](http://mobiel.ns.nl/), maar ik denk dat er veel tijd in zit om dat goed te laten werken.
 
-[![GPS Primed Mobile Site](http://farm4.static.flickr.com/3545/3392858463_a0fe5fd5db_m.jpg)](http://www.flickr.com/photos/alper/3392858463/ "GPS Primed Mobile Site by illustir, on Flickr")
+[![GPS Primed Mobile Site](3392858463_a0fe5fd5db_m.jpg)](http://www.flickr.com/photos/alper/3392858463/ "GPS Primed Mobile Site by illustir, on Flickr")
 
 Er is op dit moment [een 9292 applicatie](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300925772&mt=8) voor de iPhone die op basis van je locatie de site opent. Dit is best een aardig idee en zou goed kunnen werken, maar ik heb hem [pas getest](http://twitter.com/alper/status/1534665338).
 

@@ -21,8 +21,8 @@ Hack de Overheid announced [Code Camping Amsterdam](http://www.hackdeoverheid.nl
 
 Playful was great and it's always nice to be in London for a short stretch. It was a while that I was [last in Conway Hall](http://www.geekyoto.com/) but it was nice to be back. Niels and Kars have written detailed accounts about the day on [Hubbub](http://whatsthehubbub.nl/blog/2011/10/occupy-the-future-at-playful-2011/) and [Bashers](http://bashers.nl/waar-is-mijn-death-star).
 
-[![Great to be back here.](http://farm7.static.flickr.com/6035/6265578413_427337d4ec.jpg)](http://www.flickr.com/photos/alper/6265578413/ "Great to be back here. by illustir, on Flickr")
+[![Great to be back here.](6265578413_427337d4ec.jpg)](http://www.flickr.com/photos/alper/6265578413/ "Great to be back here. by illustir, on Flickr")
 
 Then in the same weekend (flying into Schiphol in the morning, directly in the car to Germany) it was off to the Ruhrgebiet in Germany to visit among others the Jahrhunderthallen and the Landschaftspark Duisburg-Nord.
 
-[![Jahrhundert water tower](http://farm7.static.flickr.com/6097/6270213624_e17373a19a.jpg)](http://www.flickr.com/photos/alper/6270213624/ "Jahrhundert water tower by illustir, on Flickr")
+[![Jahrhundert water tower](6270213624_e17373a19a.jpg)](http://www.flickr.com/photos/alper/6270213624/ "Jahrhundert water tower by illustir, on Flickr")

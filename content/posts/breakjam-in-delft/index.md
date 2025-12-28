@@ -14,4 +14,4 @@ Dat ging alleen anders dan gepland. [Liberdade](http://www.liberdade.nl) was die
 
 Op Skatejam door tijdgebrek alleen maar de b-boy battle na ons optreden geschoten. Geniet van de vette tricks.
 
-[![Skatejam Delft Breakdance](http://farm2.static.flickr.com/1206/1427912103_dd62f538d0.jpg)](http://www.flickr.com/photos/alper/1427912103/ "Photo Sharing")[![Skatejam Delft Breakdance](http://farm2.static.flickr.com/1096/1427919933_573fba5b61.jpg)](http://www.flickr.com/photos/alper/1427919933/ "Photo Sharing")[![Skatejam Delft Breakdance](http://farm2.static.flickr.com/1022/1427923161_90716b45e4.jpg)](http://www.flickr.com/photos/alper/1427923161/ "Photo Sharing")
+[![Skatejam Delft Breakdance](1427912103_dd62f538d0.jpg)](http://www.flickr.com/photos/alper/1427912103/ "Photo Sharing")[![Skatejam Delft Breakdance](1427919933_573fba5b61.jpg)](http://www.flickr.com/photos/alper/1427919933/ "Photo Sharing")[![Skatejam Delft Breakdance](1427923161_90716b45e4.jpg)](http://www.flickr.com/photos/alper/1427923161/ "Photo Sharing")

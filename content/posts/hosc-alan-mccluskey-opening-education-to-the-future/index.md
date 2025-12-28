@@ -17,11 +17,11 @@ De rest van de conferentie was op het saai af. Ik heb niet het idee dat op deze 
 Ik ga denk ik dan ook liever naar [FOSDEM](http://www.fosdem.org/2007/), [Wikimania](http://wikimania2007.wikimedia.org/), OSCON waar de gasten die dingen maken rondhangen. Sinds Reboot pas in Kopenhagen kwam ik tot de realisatie wat voor een gat er ligt tussen mensen die dingen maken en mensen die alleen maar dom lullen over shit.
 
 Als er mensen an IBM met dit soort slides aan komen zetten, dan weet je al dat het kut is.
-[![Holland Open Software Conference](http://farm2.static.flickr.com/1142/542736219_394821b624.jpg)](http://www.flickr.com/photos/alper/542736219/ "Photo Sharing")
+[![Holland Open Software Conference](542736219_394821b624.jpg)](http://www.flickr.com/photos/alper/542736219/ "Photo Sharing")
 
 Alan McCluskey was wel erg leuk:
 
-[![Holland Open Software Conference](http://farm2.static.flickr.com/1351/542625362_c936e9eec0.jpg)](http://www.flickr.com/photos/alper/542625362/ "Photo Sharing")[![Holland Open Software Conference](http://farm2.static.flickr.com/1131/542624712_2d8f2dc929.jpg)](http://www.flickr.com/photos/alper/542624712/ "Photo Sharing")
+[![Holland Open Software Conference](542625362_c936e9eec0.jpg)](http://www.flickr.com/photos/alper/542625362/ "Photo Sharing")[![Holland Open Software Conference](542624712_2d8f2dc929.jpg)](http://www.flickr.com/photos/alper/542624712/ "Photo Sharing")
 
 Chairperson of PIC
 

@@ -12,7 +12,7 @@ aliases:
 ---
 As my work based weeknotes are being catered for rather nicely both at [Hubbub](http://whatsthehubbub.nl/) and [KANT](http://kantberlin.com/), I'm going to keep writing weeknotes here, but instead of making an overview of the week's work, I'll do some more long form reflecting on stuff that happened. A bit more casual and personal than we are used to.
 
-[![This ridge intentionally placed to fuck with cyclists.](http://farm8.staticflickr.com/7406/9004988190_23dc395639_z.jpg)](http://www.flickr.com/photos/alper/9004988190/ "This ridge intentionally placed to fuck with cyclists. by illustir, on Flickr")
+[![This ridge intentionally placed to fuck with cyclists.](9004988190_23dc395639_z.jpg)](http://www.flickr.com/photos/alper/9004988190/ "This ridge intentionally placed to fuck with cyclists. by illustir, on Flickr")
 
 I see I marked a picture of [this ridge in the newly opened Park am Gleisdreieck](http://berlinbikepaths.tumblr.com/post/52614893603/illustir-this-ridge-intentionally-placed-to) as a cycling nuisance. I find it stunning how poorly designed that particular park is. It is a given that the location and the shape of the various pieces of land and already existing functions do not make for an easy mix, but the result should not have been quite that bad in my opinion. Especially the newly opened North Eastern part is a total jumble of functions and feels oddly cramped for a park of a reasonable size.
 

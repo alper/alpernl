@@ -24,11 +24,11 @@ The rest of the week sake kept up. On Tuesday I picked up my visa from the Russi
 
 Wednesday I had a coffee with [Niels van der Linden](http://dtdid.com/blog/about-me/), a Dutch national who's living in Istanbul and is active in the startup scene over there. Lots of interesting parallels and things to learn from each other in that one. We had a nice lunch with [Praxis](http://praxisberlin.net/) and then I went to the [Iron Blogger Berlin](http://ironbloggerberlin.com/) meetup.
 
-[![Picked up a pack of these stickers](http://farm9.staticflickr.com/8200/8230237120_b426cc08fa.jpg)](http://www.flickr.com/photos/alper/8230237120/ "Picked up a pack of these stickers by illustir, on Flickr")
+[![Picked up a pack of these stickers](8230237120_b426cc08fa.jpg)](http://www.flickr.com/photos/alper/8230237120/ "Picked up a pack of these stickers by illustir, on Flickr")
 
 A sizable part of the week was spent finalizing paperwork both for my German bookkeeper and for various institutions back in the Netherlands. After making my rounds through the city I dropped by at the ÖPNV hackday [Apps and the City](http://appsandthecity.net/apps/) at Supermarkt.
 
-[![Apps and the City hacking around](http://farm9.staticflickr.com/8339/8230492822_8d4c77543d.jpg)](http://www.flickr.com/photos/alper/8230492822/ "Apps and the City hacking around by illustir, on Flickr")
+[![Apps and the City hacking around](8230492822_8d4c77543d.jpg)](http://www.flickr.com/photos/alper/8230492822/ "Apps and the City hacking around by illustir, on Flickr")
 
 I couldn't hack as much as I wanted because I needed to send my slides to Moscow for the following week, but once I finished those I still managed to get two small things in:
 
@@ -42,7 +42,7 @@ The first approach, to brute force the problem by tabulating all possible entrie
 
 This can be easily extended for for instance wheelchair access by using a weighted graph and setting the weights of stairs to infinity for those users. I [posted the algorithm and a rough graph coding online](https://gist.github.com/4172489), I need to find the time to make the interface more attractive (probably by porting it to Javascript) and to transcode a couple more stations. To figure out where an arriving train lands on a platform and therefore which graph segment that corresponds to wouldn't be too difficult.
 
-[![There's a bride dancing in the middle of the street. #xberg](http://farm9.staticflickr.com/8061/8233087336_b873a5cf13.jpg)](http://www.flickr.com/photos/alper/8233087336/ "There's a bride dancing in the middle of the street. #xberg by illustir, on Flickr")
+[![There's a bride dancing in the middle of the street. #xberg](8233087336_b873a5cf13.jpg)](http://www.flickr.com/photos/alper/8233087336/ "There's a bride dancing in the middle of the street. #xberg by illustir, on Flickr")
 
 On Friday I was supposed to take an introductory German language course, but the hackday shenanigans made sure I missed that early appointment. Trying to reschedule something for the new year to level up my Deutsch. We did a capacity planning session with Hubbub and I ended the afternoon by watching a bit of [TEDxAmsterdam](http://www.tedxamsterdam.com/) waiting for the new talk by [Kevin Slavin](http://twitter.com/slavin_fpo).
 

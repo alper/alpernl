@@ -8,7 +8,7 @@ aliases:
   - /dingen/2007/05/second-life-wat-moeten-we-ermee/
 
 ---
-[![Second Life; Abort, Retry, Ignore?](http://farm1.static.flickr.com/224/510724346_e40cb94907_m.jpg)](http://www.flickr.com/photos/alper/510724346/ "Photo Sharing")
+[![Second Life; Abort, Retry, Ignore?](510724346_e40cb94907_m.jpg)](http://www.flickr.com/photos/alper/510724346/ "Photo Sharing")
 
 Net tijdens de lunch de tweede helft gevolgd van een lunchdebat georganiseerd door [the Platform for Ethics and Technology](http://www.platformet.tudelft.nl/) hier in de Aula. Aparte timing voor zo'n discussie maanden nadat de publiciteitshype rondom SL voorbij is.
 
@@ -23,7 +23,7 @@ Na Second Life moesten eigenlijk alle virtuele werelden het ontgelden en uiteind
 Dit is natuurlijk zwaar overdreven en ronduit dom. Een groter en groter gedeelte van waarde creatie speelt zich online af. In de huidige genetwerkte samenleving zoeken mensen naar nieuwe samenwerkingsverbanden. Second Life en andere virtuele werelden kunnen daarin een rol spelen als een drie dimensionele extensie van huidige media als Skype en IRC [^2].
 Het feit dat er een ruimte is waar de interactie zich afspeelt speelt in op de manier waarop onze hersenen gebouwd zijn. Second Life en anderen werken al wel, maar de techniek is nog iets te beperkt om het vloeiend te laten plaatsvinden.
 
-[![Intense Debate](http://farm1.static.flickr.com/207/510746907_727168022e.jpg)](http://www.flickr.com/photos/alper/510746907/ "Photo Sharing")
+[![Intense Debate](510746907_727168022e.jpg)](http://www.flickr.com/photos/alper/510746907/ "Photo Sharing")
 
 ### CDA
 

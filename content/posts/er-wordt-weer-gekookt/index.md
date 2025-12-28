@@ -14,11 +14,11 @@ Vandaag de geest gekregen om voor het eerst in tijden weer te koken. In de stres
 
 Half experimenteel, half pakje. Een pak lasagnetta gekocht in de supermarkt maar ik vond de variatiesuggesties wat tam. Dus er een groene paprika, prei, zwarte olijven en halve radijsen [^1] doorheen gegooid. De melk was opgegaan in de cappuccino vanmiddag [^2], dus die vervangen met een flink toet Philadelphia.
 
-[![IMG_3932.jpg](http://farm2.static.flickr.com/1213/537635143_5c85b2cfbe.jpg)](http://www.flickr.com/photos/alper/537635143/ "Photo Sharing")
+[![IMG_3932.jpg](537635143_5c85b2cfbe.jpg)](http://www.flickr.com/photos/alper/537635143/ "Photo Sharing")
 
 Tijdens het wachten op de oven nog wat radijssterretjes gesneden als garnering.
 
-[![Radish](http://farm2.static.flickr.com/1429/537520248_fd4bb5935a.jpg)](http://www.flickr.com/photos/alper/537520248/ "Photo Sharing")
+[![Radish](537520248_fd4bb5935a.jpg)](http://www.flickr.com/photos/alper/537520248/ "Photo Sharing")
 
 ### Inspiratie
 

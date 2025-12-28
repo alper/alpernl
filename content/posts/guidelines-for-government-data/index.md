@@ -12,11 +12,11 @@ aliases:
 ---
 This weekend I visited the [Barcamp UK Govweb](http://www.ukgovweb.org/) (#ukgc09, [barcamp](http://barcamp.org/BarcampUKGovweb09)) in London to talk with people about government websites, data and see what the state of the art is in the UK on this topic. It was a very interesting meeting and I learned a lot from people who've been doing this for far longer than I have been.
 
-[![Stand around](http://farm4.static.flickr.com/3011/3252387741_ec6ea9b962.jpg)](http://www.flickr.com/photos/alper/3252387741/ "Stand around by illustir, on Flickr")
+[![Stand around](3252387741_ec6ea9b962.jpg)](http://www.flickr.com/photos/alper/3252387741/ "Stand around by illustir, on Flickr")
 
 ### Government Data
 
-[![Open Government Data Session Tack-on Free For All](http://farm4.static.flickr.com/3520/3240669881_b4a3e8ff2c_m.jpg)](http://www.flickr.com/photos/alper/3240669881/ "Open Government Data Session Tack-on Free For All by illustir, on Flickr")
+[![Open Government Data Session Tack-on Free For All](3240669881_b4a3e8ff2c_m.jpg)](http://www.flickr.com/photos/alper/3240669881/ "Open Government Data Session Tack-on Free For All by illustir, on Flickr")
 
 One of the most interesting was the session on government data and the various initiatives and other activities that are being advocated to give us better and easier access to government data to make cooler stuff.
 

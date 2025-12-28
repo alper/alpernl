@@ -9,7 +9,7 @@ aliases:
   - /dingen/2015/02/esports-spectating-in-the-u-bahn/
 
 ---
-[![DAC Grand Final in the U-Bahn](https://farm8.staticflickr.com/7319/16304909209_837190404d_z.jpg)](https://www.flickr.com/photos/alper/16304909209 "DAC Grand Final in the U-Bahn by Alper Çuğun, on Flickr")
+[![DAC Grand Final in the U-Bahn](16304909209_837190404d_z.jpg)](https://www.flickr.com/photos/alper/16304909209 "DAC Grand Final in the U-Bahn by Alper Çuğun, on Flickr")
 
 So it turns out that 3G over Blau in Berlin is good enough to watch a Twitch stream of the DAC finals between Evil Geniuses and Vici Gaming and allowed me to watch the amazing Storm Spirit performance by SumaiL in the last match.
 

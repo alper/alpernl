@@ -14,7 +14,7 @@ Veelgemaakte fout in het ervaringsontwerp en gevoelsmatig goed passend bij [de f
 
 Op hun faculteit hebben ze een bijzonder hippe koffietent neergezet [^1] die lijkt op een soort ruimtestation. Koffietreats, smoothies en andere versnaperingen zijn er verkrijgbaar tegen een schappelijke prijs.
 
-[![Espressobar Sterk](http://farm2.static.flickr.com/1016/877897551_bc1e36e2a1.jpg)](http://www.flickr.com/photos/alper/877897551/ "Photo Sharing")
+[![Espressobar Sterk](877897551_bc1e36e2a1.jpg)](http://www.flickr.com/photos/alper/877897551/ "Photo Sharing")
 
 Ik bestelde er een caffè machiato en ging zitten in één van de opgestelde vliegtuigstoelen. Alles lijkt perfect. Tot ik de eerste slok van de koffie nam. Deze was absoluut walgelijk [^2].
 
@@ -22,7 +22,7 @@ Ik vind dit exemplarisch voor bouwkunde omdat met veel bombarie waanzinnige ding
 
 Hiervoor in de plaats een eenvoudige open bar met een espressoaparaat, houten stoeltjes en tafeltjes —zeg maar het simpelst mogelijke concept— had ook volstaan. Als de koffie er goed was, dan was ik er blijer mee geweest.
 
-[![Espressobar Sterk](http://farm2.static.flickr.com/1382/878756292_67e13c8d60.jpg)](http://www.flickr.com/photos/alper/878756292/ "Photo Sharing")
+[![Espressobar Sterk](878756292_67e13c8d60.jpg)](http://www.flickr.com/photos/alper/878756292/ "Photo Sharing")
 
 Lessen?
 

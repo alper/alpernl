@@ -35,11 +35,11 @@ I also had a meeting to draft the road map for the small minor in data visualiza
 Got my [review of “Zero History”](http://www.vn.nl/boeken/fictie/zero-history-william-gibson/) by [William Gibson](http://twitter.com/greatdismal) published on de Republiek der Letteren ( _the Republic of Literature_). I had spent quite some time writing and polishing it and I was quite pleased with having it published.
 
 That also went into print that same Thursday, so yeah pretty cool:
-[![@GreatDismal review in VN](http://farm5.static.flickr.com/4134/5413085752_2012b03ee3.jpg)](http://www.flickr.com/photos/alper/5413085752/ "@GreatDismal review in VN by illustir, on Flickr")
+[![@GreatDismal review in VN](5413085752_2012b03ee3.jpg)](http://www.flickr.com/photos/alper/5413085752/ "@GreatDismal review in VN by illustir, on Flickr")
 
 I also [published my review](http://monsterswell.com/blog/2011/01/tegenlicht-money-speed-%E2%80%94%C2%A0a-touch-documentary/) of the [iPad episode](http://itunes.apple.com/nl/app/money-speed-inside-black-box/id411884445?mt=8) “Money & Speed”of the [Tegenlicht](http://tegenlicht.vpro.nl/) documentary I got a preview of.
 
-[![Start](http://farm6.static.flickr.com/5053/5398323440_84e9b2395d.jpg)](http://www.flickr.com/photos/alper/5398323440/ "Start by illustir, on Flickr")
+[![Start](5398323440_84e9b2395d.jpg)](http://www.flickr.com/photos/alper/5398323440/ "Start by illustir, on Flickr")
 
 The site for the [Apps for Amsterdam](http://www.appsforamsterdam.nl/) application contest went live. Thanks to the [Waag Society](http://www.waag.org/) for putting that online so quick. We of [Hack de Overheid](http://www.hackdeoverheid.nl) are going to work with them to make it one hell of an open data wave this year.
 
@@ -47,12 +47,12 @@ The site for the [Apps for Amsterdam](http://www.appsforamsterdam.nl/) applicati
 
 I attended [Mobile Monday](http://www.mobilemonday.nl/) mainly to see [Ville Vesterinen](http://twitter.com/vesterinen) present about their pervasive magic game [Shadow Cities](http://www.shadowcities.com/).
 
-[![Mobile Monday Amsterdam](http://farm6.static.flickr.com/5056/5404225201_a4c8ae34e6.jpg)](http://www.flickr.com/photos/alper/5404225201/ "Mobile Monday Amsterdam by illustir, on Flickr")
+[![Mobile Monday Amsterdam](5404225201_a4c8ae34e6.jpg)](http://www.flickr.com/photos/alper/5404225201/ "Mobile Monday Amsterdam by illustir, on Flickr")
 
 On Saturday I made a quick trip to Brussels to attend [FOSDEM](http://fosdem.org) which I had never attended before. It was a fun chance to sit in the DataDevroom and watch presentations about open source data processing and graph visualizations. It was good to meet fabricator [Rejon](http://rejon.org) again too (who I had last said goodbye to in Damascus).
 What I noticed though at FOSDEM was the nearly complete absence of web development and assorted technologies. Also that while you cannot go to a technology conference these days without being hit by ethics and politics, that engagement was strangely absent at FOSDEM (except probably in the keynote by Eben Moglen).
 
-[![Holy crapzor batman!](http://farm6.static.flickr.com/5096/5418601052_12afd08f43.jpg)](http://www.flickr.com/photos/alper/5418601052/ "Holy crapzor batman! by illustir, on Flickr")[![Hardware](http://farm6.static.flickr.com/5020/5418463828_587e6b18aa.jpg)](http://www.flickr.com/photos/alper/5418463828/ "Hardware by illustir, on Flickr")[![FOSDEM Data Devroom is filled to capacity #bigdata](http://farm6.static.flickr.com/5255/5418420482_129b3bbdd6.jpg)](http://www.flickr.com/photos/alper/5418420482/ "FOSDEM Data Devroom is filled to capacity #bigdata by illustir, on Flickr")
+[![Holy crapzor batman!](5418601052_12afd08f43.jpg)](http://www.flickr.com/photos/alper/5418601052/ "Holy crapzor batman! by illustir, on Flickr")[![Hardware](5418463828_587e6b18aa.jpg)](http://www.flickr.com/photos/alper/5418463828/ "Hardware by illustir, on Flickr")[![FOSDEM Data Devroom is filled to capacity #bigdata](5418420482_129b3bbdd6.jpg)](http://www.flickr.com/photos/alper/5418420482/ "FOSDEM Data Devroom is filled to capacity #bigdata by illustir, on Flickr")
 
 I also registered for the [Infographics](http://www.infographics.eu) congress on March 4th though I find the focus on print media and infographics archaic and distasteful. Let's see if we can change that.
 
@@ -60,7 +60,7 @@ I also registered for the [Infographics](http://www.infographics.eu) congress on
 
 Got myself an iPhone4 because the old 3G wasn't pulling it anymore after the countless iOS upgrades it had seen.
 
-[![Velocity++](http://farm6.static.flickr.com/5060/5404529668_ccdeca59b6.jpg)](http://www.flickr.com/photos/alper/5404529668/ "Velocity++ by illustir, on Flickr")
+[![Velocity++](5404529668_ccdeca59b6.jpg)](http://www.flickr.com/photos/alper/5404529668/ "Velocity++ by illustir, on Flickr")
 
 Also got an iPad keyboard dock from the bargain bin. Thanks [Maarten den Braber](http://twitter.com/mdbraber) for picking that up for me. Seems I have turned into that [Apple](http://www.apple.com) completionist:
-[![Double keyboarding](http://farm6.static.flickr.com/5015/5406720517_481828c783.jpg)](http://www.flickr.com/photos/alper/5406720517/ "Double keyboarding by illustir, on Flickr")
+[![Double keyboarding](5406720517_481828c783.jpg)](http://www.flickr.com/photos/alper/5406720517/ "Double keyboarding by illustir, on Flickr")

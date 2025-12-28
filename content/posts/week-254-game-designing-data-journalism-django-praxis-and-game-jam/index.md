@@ -10,7 +10,7 @@ aliases:
   - /dingen/2012/02/week-254-game-designing-data-journalism-django-praxis-and-game-jam/
 
 ---
-[![Winter light](http://farm8.staticflickr.com/7034/6760157041_f172c6fbdb.jpg)](http://www.flickr.com/photos/alper/6760157041/ "Winter light by illustir, on Flickr")
+[![Winter light](6760157041_f172c6fbdb.jpg)](http://www.flickr.com/photos/alper/6760157041/ "Winter light by illustir, on Flickr")
 
 Last week started with recuperating from the second massive move we did getting massive wood furniture from Saxony. That was spent with a long overdue first visit to [the Barn](http://thebarn.de/) here.
 
@@ -25,16 +25,16 @@ I was also pleased with [this write-up by Kevin Slavin of the](http://slavin.tum
 
 It is good to see our friends from [the Mobile City](http://www.themobilecity.nl/) to be so well attuned with the international cutting edge when it comes to smart city rhetoric.
 
-[![Berlin data journalism meetup](http://farm8.staticflickr.com/7146/6760738167_3a8bf21a75.jpg)](http://www.flickr.com/photos/alper/6760738167/ "Berlin data journalism meetup by illustir, on Flickr")
+[![Berlin data journalism meetup](6760738167_3a8bf21a75.jpg)](http://www.flickr.com/photos/alper/6760738167/ "Berlin data journalism meetup by illustir, on Flickr")
 
 Wednesday I visited the [Daten & Journalisten](http://ddjberlin.tumblr.com/) meetup at the [taz](http://taz.de) headquarters here in Berlin and I presented some of the data journalism projects we did both with [Hack de Overheid](http://hackdeoverheid.nl) and with [Monster Swell](http://monsterswell.com).
 
-[![Got my metagame deck!](http://farm8.staticflickr.com/7146/6765084101_f92c00c69c.jpg)](http://www.flickr.com/photos/alper/6765084101/ "Got my metagame deck! by illustir, on Flickr")
+[![Got my metagame deck!](6765084101_f92c00c69c.jpg)](http://www.flickr.com/photos/alper/6765084101/ "Got my metagame deck! by illustir, on Flickr")
 
 On Thursday I dropped by Praxis, the office of [Rainer Kohlberger](http://kohlberger.net/) and worked there for a bit. That day also marked the awards ceremony for the [Apps voor Nederland](http://www.appsvoornederland.nl/) contest and the success allowed us to get our minister of economic affairs to [side with open data on television](http://nos.nl/op3/video/334610-minister-verhagen-over-open-data.html).
 
-[![Trying out this view](http://farm8.staticflickr.com/7034/6765388065_6276851540.jpg)](http://www.flickr.com/photos/alper/6765388065/ "Trying out this view by illustir, on Flickr")
+[![Trying out this view](6765388065_6276851540.jpg)](http://www.flickr.com/photos/alper/6765388065/ "Trying out this view by illustir, on Flickr")
 
 On Friday I was off to Friedrichshain to receive my team for the [gamejam](http://globalgamejam.org/) and that ended the week. Results of the gamejam are in [this event write-up](/dingen/2012/02/early-2012-events/).
 
-[![Still jamming](http://farm8.staticflickr.com/7150/6779188753_70baf0f8ea.jpg)](http://www.flickr.com/photos/alper/6779188753/ "Still jamming by illustir, on Flickr")
+[![Still jamming](6779188753_70baf0f8ea.jpg)](http://www.flickr.com/photos/alper/6779188753/ "Still jamming by illustir, on Flickr")

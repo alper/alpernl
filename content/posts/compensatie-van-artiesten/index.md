@@ -10,7 +10,7 @@ aliases:
 ---
 De in-store van Fiction Plane in Velvet werd aangekondigd door een hele grote Hagenees die ons verzekerde dat de enige manier om de winkel levend te verlaten het kopen van een CD was.
 
-[![Dude](http://farm3.static.flickr.com/2258/2122582458_acd943e727.jpg)](http://www.flickr.com/photos/alper/2122582458/ "Dude by illustir, on Flickr")
+[![Dude](2122582458_acd943e727.jpg)](http://www.flickr.com/photos/alper/2122582458/ "Dude by illustir, on Flickr")
 
 Zeker na een live event heb ik er geen problemen mee om de muzikanten te vergoeden —want die gasten moeten ook leven— maar ik doe niet meer aan CDs als fysiek medium. Als ik de CD van Fiction Plane wil hebben, dan download ik hem wel, veel handiger voor ons allebei en nog beter voor het milieu ook [^1].
 

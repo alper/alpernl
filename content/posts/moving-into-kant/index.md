@@ -12,7 +12,7 @@ aliases:
 ---
 So that cat is out of the bag: I've taken up residency at KANT, the [Kreuzberg Academy for Nerdery and Tinkering](https://foursquare.com/v/kant--kreuzberg-academy-for-nerdery-and-tinkering/51238e70e4b04e6a13aaddc9). Peter who you may have read before on [The Waving Cat](http://www.thewavingcat.com/) just wrote [the inaugural post](http://kantberlin.tumblr.com/post/50347362153/hello-world) on our freshly pressed Tumblr (tweets are still [forthcoming](https://twitter.com/kantberlin)).
 
-[![The new (temporary) arrangement with @fidothe working in the background](http://farm8.staticflickr.com/7323/8719801383_1c16dcd1c8_z.jpg)](http://www.flickr.com/photos/alper/8719801383/ "The new (temporary) arrangement with @fidothe working in the background by illustir, on Flickr")
+[![The new (temporary) arrangement with @fidothe working in the background](8719801383_1c16dcd1c8_z.jpg)](http://www.flickr.com/photos/alper/8719801383/ "The new (temporary) arrangement with @fidothe working in the background by illustir, on Flickr")
 
 I'm in the process of moving over, getting my things in order and doing all of my other work, but I do believe that we have struck upon a mix here that has all of the right kinds of volatile creativity with a solid dash of make.
 

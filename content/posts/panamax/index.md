@@ -9,7 +9,7 @@ aliases:
   - /dingen/2015/02/panamax/
 
 ---
-[![Panamax time](https://farm8.staticflickr.com/7342/16266633097_16a1b4277b_z.jpg)](https://www.flickr.com/photos/alper/16266633097 "Panamax time by Alper Çuğun, on Flickr")
+[![Panamax time](16266633097_16a1b4277b_z.jpg)](https://www.flickr.com/photos/alper/16266633097 "Panamax time by Alper Çuğun, on Flickr")
 
 This week I got to play the board game [Panamax](http://www.boardgamegeek.com/boardgame/131287/panamax) at a game night here in Berlin. Though it is slightly complicated I was struck by how good an adaptation of container shipping this game is.
 

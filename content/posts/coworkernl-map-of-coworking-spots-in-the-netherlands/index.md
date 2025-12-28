@@ -18,7 +18,7 @@ A conversation about coworking on Jaiku quickly turned into the idea to gather t
 
 After some time, other people also started to add coffee shops with WiFi with a coffee cup icon and a public utility was born.
 
-[![Coworker.nl - Coworking spots in The Netherlands](http://farm4.static.flickr.com/3053/2720317281_11161cb6d1.jpg)](http://www.flickr.com/photos/alper/2720317281/ "Coworker.nl - Coworking spots in The Netherlands by illustir, on Flickr")
+[![Coworker.nl - Coworking spots in The Netherlands](2720317281_11161cb6d1.jpg)](http://www.flickr.com/photos/alper/2720317281/ "Coworker.nl - Coworking spots in The Netherlands by illustir, on Flickr")
 
 ### Attention
 
@@ -62,7 +62,7 @@ There is some stuff which this map is not really about but wich bears talking ab
 
 The fact that the map also houses coffee shops with WiFi and a place to sit may not really be about coworking, but these are spots where you can get some work done and they show that there was no high quality WiFi wap for webworkersin the Netherlands. I expect this is the same in other countries.
 
-[![Working area](http://farm2.static.flickr.com/1263/548345381_88bfe67445.jpg)](http://www.flickr.com/photos/alper/548345381/ "Working area by illustir, on Flickr")
+[![Working area](548345381_88bfe67445.jpg)](http://www.flickr.com/photos/alper/548345381/ "Working area by illustir, on Flickr")
 
 There are quite some commercial spots available with meeting rooms and desks which you can lease by the day or some other period. These are not exactly in the coworking spirit, but they do serve a need, so for now we have allowed these to be on the map as well.
 

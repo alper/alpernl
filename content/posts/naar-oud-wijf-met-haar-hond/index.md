@@ -8,7 +8,7 @@ aliases:
   - /dingen/2007/04/naar-oud-wijf-met-haar-hond/
 
 ---
-[![](http://farm1.static.flickr.com/224/475469003_bb18c00395.jpg)](http://www.flickr.com/photos/alper/475469003/ "photo sharing")  
+[![](475469003_bb18c00395.jpg)](http://www.flickr.com/photos/alper/475469003/ "photo sharing")  
 [Cantankerous old hag with her dog](http://www.flickr.com/photos/alper/475469003/), originally uploaded by [illustir](http://www.flickr.com/people/alper/).
 
 Ik zit nu naar voorbeeld van Eelke regelmatig in het park te werken. Er zijn daar een paar bronnen van onbeveiligde WiFi en met het huidige weer is het prettig werken op de bankjes of in het gras.

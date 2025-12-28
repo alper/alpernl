@@ -11,11 +11,11 @@ aliases:
 ---
 Zondag waren we naar de “Opera do Malandro”opvoering van Chico Buarque door [CODARTS](http://www.codarts.nl/) in Rotterdam. Het was een erg tof muzikaal optreden en een leuke dag. Het was onderdeel van het [Brazil Contemporary](http://www.brazilcontemporary.nl/) festival dat nog doorloopt in Rotterdam.
 
-[![Pimp!](http://farm4.static.flickr.com/3602/3625746922_3741110332_m.jpg)](http://www.flickr.com/photos/alper/3625746922/ "Pimp! by illustir, on Flickr")
+[![Pimp!](3625746922_3741110332_m.jpg)](http://www.flickr.com/photos/alper/3625746922/ "Pimp! by illustir, on Flickr")
 
 Thuis kwam ik erachter hoe klassiek dit muziekstuk is maar ik kon er bijna niks van vinden op [Spotify](http://www.spotify.com/en/). Het arrangement en de manier van spelen zondag waren iets minder klassiek maar eigenlijk wel veel leuker. Ik zou het aanraden, maar ik weet niet of ze het nog een keer spelen. Ze hadden vorige week 3 optredens en het lijkt er een beetje op dat dat het was.
 
-[![Opera do Malandro](http://farm3.static.flickr.com/2450/3624903311_e08ac09383.jpg)](http://www.flickr.com/photos/alper/3624903311/ "Opera do Malandro by illustir, on Flickr")
+[![Opera do Malandro](3624903311_e08ac09383.jpg)](http://www.flickr.com/photos/alper/3624903311/ "Opera do Malandro by illustir, on Flickr")
 
 Ik heb tijdens het optreden met mijn iPhone wat opgenomen, nauwelijks representatief en hele slechte kwaliteit, maar beter dan niks [^1]:
 

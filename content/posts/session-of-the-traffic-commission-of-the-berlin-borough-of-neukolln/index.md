@@ -10,7 +10,7 @@ aliases:
   - /dingen/2015/02/session-of-the-traffic-commission-of-the-berlin-borough-of-neukolln/
 
 ---
-[![Neukölln committee for traffic meeting](https://farm8.staticflickr.com/7349/16579780102_6f86aa18a1_z.jpg)](https://www.flickr.com/photos/alper/16579780102 "Neukölln committee for traffic meeting by Alper Çuğun, on Flickr")
+[![Neukölln committee for traffic meeting](16579780102_6f86aa18a1_z.jpg)](https://www.flickr.com/photos/alper/16579780102 "Neukölln committee for traffic meeting by Alper Çuğun, on Flickr")
 
 I heard about the session of the traffic commission of Berlin-Neukölln through the great [Urbanist Magazine](https://twitter.com/urbanist_mag) who wrote that [cities get the bike paths they deserve](http://www.urbanist-magazin.de/2015/02/jede-stadt-hat-die-radwege/?utm_content=buffer3f5b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) and that being present at political sessions is a prerequisite to change things.
 

@@ -13,7 +13,7 @@ aliases:
 ---
 Last Wednesday I was at a gathering by the [Institue for Internet and Society](http://hiig.de/) here in Berlin in collaboration with Deutschlandfunk called [“Berliner Gespräche”](http://hiig.de/2012/02/10/%C2%BBberliner-gespr%C3%A4che%C2%AB-zu-internet-und-gesellschaft/) about how the internet influences society.
 
-[![The internet is serious](http://farm8.staticflickr.com/7148/6841740417_77b651b581.jpg)](http://www.flickr.com/photos/alper/6841740417/ "The internet is serious by illustir, on Flickr")
+[![The internet is serious](6841740417_77b651b581.jpg)](http://www.flickr.com/photos/alper/6841740417/ "The internet is serious by illustir, on Flickr")
 
 What struck me mainly was that both a professor from the panel and a commenter from the audience held the position that the internet is in fact nothing new. That it is just another medium/channel for people to communicate through. Citing [Clay Shirky](http://www.goodreads.com/author/quotes/442126.Clay_Shirky), I would say that more and faster information flows are in fact different. More fundamentally the internet is the manifestation of a vast new kind of object that interacts with other objects (such as us) in a myriad ways. That alone makes it something new and very significant.
 

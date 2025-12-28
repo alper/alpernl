@@ -22,7 +22,7 @@ De OV-chipkaart is een vergelijkbare technologie, dus het zou mogelijk moeten zi
 
 ### Geolocatie
 
-[![Irreducible Complexity?](http://farm4.static.flickr.com/3499/3810654377_7e6ef6d839_m.jpg)](http://www.flickr.com/photos/alper/3810654377/ "Irreducible Complexity? by illustir, on Flickr")
+[![Irreducible Complexity?](3810654377_7e6ef6d839_m.jpg)](http://www.flickr.com/photos/alper/3810654377/ "Irreducible Complexity? by illustir, on Flickr")
 
 Nog een andere leuke toepassing zou het zijn wanneer [het transactie-overzicht op ov-chipkaart.nl](https://www.ov-chipkaart.nl/mijnov/reizenentransacties/transactieoverzicht/) niet zo ontzettend vertraagd zou zijn. In het ideale geval zou elke checkin en checkout via [een pubsubhubbub](http://code.google.com/p/pubsubhubbub/) naar geïnteresseerde en geautoriseerde partijen gestuurd worden [^1].
 

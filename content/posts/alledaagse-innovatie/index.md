@@ -11,7 +11,7 @@ aliases:
 ---
 Fijn om gebruiksvriendelijke innovatie te zien in alledaagse producten waarvan je dacht dat het eigenlijk af was. In dit geval in het "Verse volle melk" pak van het huismerk van Albert Heijn.
 
-[![Usability Feature](http://farm2.static.flickr.com/1238/870950297_263dd52a00.jpg)](http://www.flickr.com/photos/alper/870950297/ "Photo Sharing")[Zie Flickr](http://www.flickr.com/photos/alper/870950297/) voor de commentaren in het Engels.
+[![Usability Feature](870950297_263dd52a00.jpg)](http://www.flickr.com/photos/alper/870950297/ "Photo Sharing")[Zie Flickr](http://www.flickr.com/photos/alper/870950297/) voor de commentaren in het Engels.
 
 Wat het compleet af gemaakt had in mijn ogen en iets wat een stuk moeilijker in te schatten is dan hoe vol een pak is [^1], is of een pak melk nog goed is. Dit is zeker voor mensen met een ondergemiddelde reukzin [^2] [^3] nogal eens een uitdaging.
 Een simpele indicator [^4], die vel of vies groen wordt als het pak bedorven is, zou perfect geweest zijn. En ik weet ook wel waarom dat er niet in zit. De stansvorm van die pakken aanpassen is simpel en weinig ingrijpend; een indicator verwerken in het binnenwerk lijkt me een stuk moeilijker.

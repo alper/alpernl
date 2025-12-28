@@ -18,30 +18,30 @@ Had a meeting for _tlaquepaque_ to finalize the starting details of what is goin
 
 The increased activity on [Hack de Overheid](http://hackdeoverheid.nl) also means that we will be working together more tightly and on location more often. The fact that we have a brilliant office space in the [Open Coop](http://www.opencoop.nl/) in beautiful Amsterdam Noord does help.
 
-[![Seating arrangement](http://farm7.static.flickr.com/6204/6073259286_d02e476564.jpg)](http://www.flickr.com/photos/alper/6073259286/ "Seating arrangement by illustir, on Flickr")_Culiacan_ is moving forward steadily.
+[![Seating arrangement](6073259286_d02e476564.jpg)](http://www.flickr.com/photos/alper/6073259286/ "Seating arrangement by illustir, on Flickr")_Culiacan_ is moving forward steadily.
 
 Met with Tessa from [the Next Speaker](http://thenextspeaker.com/) and whipped my [/about](/dingen/about/) and [/speaking](/dingen/speaking/) pages into shape to be a bit more representative.
 
-[![People talking about social change in the Netherlands. All that's missing are the tents.](http://farm7.static.flickr.com/6201/6083134830_8e1224e64e.jpg)](http://www.flickr.com/photos/alper/6083134830/ "People talking about social change in the Netherlands. All that's missing are the tents. by illustir, on Flickr")
+[![People talking about social change in the Netherlands. All that's missing are the tents.](6083134830_8e1224e64e.jpg)](http://www.flickr.com/photos/alper/6083134830/ "People talking about social change in the Netherlands. All that's missing are the tents. by illustir, on Flickr")
 
 We had Hack de Overheid drinks near the office for people that have made an app in one of our contests before and after that was dinner with [Chris Taggart](http://countculture.wordpress.com/).
 
-[![Hack de Overheid dinner and shelter from the rain](http://farm7.static.flickr.com/6208/6083474226_ef6c4440b6.jpg)](http://www.flickr.com/photos/alper/6083474226/ "Hack de Overheid dinner and shelter from the rain by illustir, on Flickr")
+[![Hack de Overheid dinner and shelter from the rain](6083474226_ef6c4440b6.jpg)](http://www.flickr.com/photos/alper/6083474226/ "Hack de Overheid dinner and shelter from the rain by illustir, on Flickr")
 
 The friendly people from [DUS architects](http://www.dusarchitects.com/) that we are sharing an office with won the most important Amsterdam art award and held a party to celebrate:
-[![DUS just made a killing party](http://farm7.static.flickr.com/6063/6083254429_7966aac036.jpg)](http://www.flickr.com/photos/alper/6083254429/ "DUS just made a killing party by illustir, on Flickr")
+[![DUS just made a killing party](6083254429_7966aac036.jpg)](http://www.flickr.com/photos/alper/6083254429/ "DUS just made a killing party by illustir, on Flickr")
 
 And then finally on Saturday we celebrated [Apps for Noord Holland](http://www.appsfornoordholland.nl/) or we could better say: ‘Apps on a Fortress’. It was a great event on a superb location with a full roster of people present. Solid progress was made on hacking civic applications and we are curious to see what the final entries in the contest will be.
 
-[![New ideas need old buildings. —Jane Jacobs #apps4nh](http://farm7.static.flickr.com/6200/6084625497_78e58eb8c8.jpg)](http://www.flickr.com/photos/alper/6084625497/ "New ideas need old buildings. —Jane Jacobs #apps4nh by illustir, on Flickr")
+[![New ideas need old buildings. —Jane Jacobs #apps4nh](6084625497_78e58eb8c8.jpg)](http://www.flickr.com/photos/alper/6084625497/ "New ideas need old buildings. —Jane Jacobs #apps4nh by illustir, on Flickr")
 
 I made two small sketches for [Monster Swell](http://monsterswell.com) visualizing some of the released data sets and chaired the demos of the days hacks.
 
 A visualization of vacant office spaces in and around Amsterdam:
-[![Vacant office spaces in the greater Amsterdam region (red is buildings > 10'000m2)](http://farm7.static.flickr.com/6079/6085444316_2dfed51bed.jpg)](http://www.flickr.com/photos/alper/6085444316/ "Vacant office spaces in the greater Amsterdam region (red is buildings > 10'000m2) by illustir, on Flickr")
+[![Vacant office spaces in the greater Amsterdam region (red is buildings > 10'000m2)](6085444316_2dfed51bed.jpg)](http://www.flickr.com/photos/alper/6085444316/ "Vacant office spaces in the greater Amsterdam region (red is buildings > 10'000m2) by illustir, on Flickr")
 
 And the locations in the SOAP data dump of the [NDW](http://verkeer.wikia.com/wiki/Nationaal_Datawarehouse) measurements files we got (this is a very obtuse goldmine):
-[![NDW Location Sketch](http://farm7.static.flickr.com/6184/6085165559_807d0b3c9e.jpg)](http://www.flickr.com/photos/alper/6085165559/ "NDW Location Sketch by illustir, on Flickr")
+[![NDW Location Sketch](6085165559_807d0b3c9e.jpg)](http://www.flickr.com/photos/alper/6085165559/ "NDW Location Sketch by illustir, on Flickr")
 
 Elsewhere on the internet:
 

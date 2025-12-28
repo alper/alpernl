@@ -13,7 +13,7 @@ De laatste paar weken gaan voorbij in een waas. Te weinig uren in de dag, aan he
 
 Een maand geleden zat ik nog een beetje in mijn eentje thuis te dralen, nu heb ik opeens een kantoor met kantoorgenoten en meer werk dan ik weet waar te laten. Ik leer continu ontzettend veel dingen en mijn reisplannen beginnen vorm aan te nemen.
 
-[![Perspective](http://farm3.static.flickr.com/2039/2408792348_557ed90468.jpg)](http://www.flickr.com/photos/alper/2408792348/ "Perspective by illustir, on Flickr")
+[![Perspective](2408792348_557ed90468.jpg)](http://www.flickr.com/photos/alper/2408792348/ "Perspective by illustir, on Flickr")
 
 Misschien toch handig om af en toe wat afstand te nemen [^1] en te kijken of de algemene koers de goede kant op gaat, maar het gevoel is goed.
 

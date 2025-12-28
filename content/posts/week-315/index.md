@@ -16,7 +16,7 @@ I did post the answer to the most frequently asked question I get, which is how 
 http://soundcloud.com/alper/pronunciation-of-my-name
 
 And in between stuff I dropped in on this book presentation at c-base, which was pretty weird:
-[![Hacker artist book presentation with buzzword bingo: ‘business, art, disruption, entrepreneurs, networkers’](http://farm9.staticflickr.com/8097/8592459749_b44df0f470.jpg)](http://www.flickr.com/photos/alper/8592459749/ "Hacker artist book presentation with buzzword bingo: ‘business, art, disruption, entrepreneurs, networkers’ by illustir, on Flickr")
+[![Hacker artist book presentation with buzzword bingo: ‘business, art, disruption, entrepreneurs, networkers’](8592459749_b44df0f470.jpg)](http://www.flickr.com/photos/alper/8592459749/ "Hacker artist book presentation with buzzword bingo: ‘business, art, disruption, entrepreneurs, networkers’ by illustir, on Flickr")
 
 And I had [a strange encounter with Berlin police](http://berlinbikepaths.tumblr.com/post/46927126119/bring-out-the-dashcams-for-bicycles) who it seems cannot look around them.
 

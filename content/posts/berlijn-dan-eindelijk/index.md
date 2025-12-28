@@ -12,4 +12,4 @@ aliases:
 ---
 Na een lange en drukke rit door Nederland naar Arnhem en dan naar Berlijn, zitten we dan eindelijk in Berlijn in Eelke's designerstube.
 
-[![Night before](http://farm3.static.flickr.com/2403/1845843124_500cb31f40.jpg)](http://www.flickr.com/photos/alper/1845843124/ "Photo Sharing")
+[![Night before](1845843124_500cb31f40.jpg)](http://www.flickr.com/photos/alper/1845843124/ "Photo Sharing")

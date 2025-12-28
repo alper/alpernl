@@ -22,7 +22,7 @@ Check in / Check out has a series of design principles at the end of each chapte
 I finished a presentation on two transportation concepts for Amsterdam, both involving water. Still waiting to hear back from my city council member, but that may be publishable in the near future.
 
 I went to a meeting on [the future of the Amstel station](http://www.wibautaandeamstel.nl/projecten/amstelstation) next to my house. Here's a picture of their bold plans where I most probably won't be living anymore by the time they are completed:
-[![Future of my front yard](http://farm2.static.flickr.com/1315/4721958720_7ffdc9c200.jpg)](http://www.flickr.com/photos/alper/4721958720/ "Future of my front yard by illustir, on Flickr")
+[![Future of my front yard](4721958720_7ffdc9c200.jpg)](http://www.flickr.com/photos/alper/4721958720/ "Future of my front yard by illustir, on Flickr")
 
 ### Tuesday
 

@@ -18,7 +18,7 @@ Max Richter I didn't know before but I quickly confirmed that I would agree with
 
 I hadn't imagined I would get the chance to do this during an 8 hour overnight concert.
 
-[![Preparing to spend the night here listening to music by Max Richter](https://farm2.staticflickr.com/1687/25217962723_880222aba2_z.jpg)](https://www.flickr.com/photos/alper/25217962723/in/dateposted-public/ "Preparing to spend the night here listening to music by Max Richter")
+[![Preparing to spend the night here listening to music by Max Richter](25217962723_880222aba2_z.jpg)](https://www.flickr.com/photos/alper/25217962723/in/dateposted-public/ "Preparing to spend the night here listening to music by Max Richter")
 
 The music is very smooth to listen to and it is a kind of music that Richter is known for (read [this interview](https://www.residentadvisor.net/feature.aspx?1982)). I'm listening to [From Sleep](https://play.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) now as I write this. I listened to the first couple of hours and then fell into a fitful sleep until I woke up again at 07:30 to catch the end.
 

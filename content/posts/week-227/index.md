@@ -14,12 +14,12 @@ aliases:
 ---
 Monday I went off exploring a [fort](http://forteiland.nl) for an upcoming [Hack de Overheid](http://hackdeoverheid.nl) event. The industrial scenery and weather at the sea locks of IJmuiden was positively apocalyptic that day.
 
-[![Away](http://farm7.static.flickr.com/6138/5960475303_68453760e2.jpg)](http://www.flickr.com/photos/alper/5960475303/ "Away by illustir, on Flickr")
+[![Away](5960475303_68453760e2.jpg)](http://www.flickr.com/photos/alper/5960475303/ "Away by illustir, on Flickr")
 
 The week was spent a bit catching up from a cold and ticking off stuff before a week of Berlin (staying at [Your Neighbours](http://yourneighbours.de/)) and a week of off the grid R&R in the Alps. So a frantic pace here and there.
 
 Tuesday we went for a technical house call in the Hague:
-[![Lattice work](http://farm7.static.flickr.com/6008/5953576329_3a5b7b3280.jpg)](http://www.flickr.com/photos/alper/5953576329/ "Lattice work by illustir, on Flickr")
+[![Lattice work](5953576329_3a5b7b3280.jpg)](http://www.flickr.com/photos/alper/5953576329/ "Lattice work by illustir, on Flickr")
 
 Kilian [wrote up his work on Statlas](http://kilianvalkhof.com/2011/web/statlas-beta-release/). Expect more on that after the Summer lull.
 
@@ -37,4 +37,4 @@ I wrote a brief thing about how my ideas about Amsterdam urban development are s
 
 With all of that done, it was into the night train to Berlin for a Friday very early morning arrival.
 
-[![Berlin am Morgen](http://farm7.static.flickr.com/6007/5963156654_7e2024537f.jpg)](http://www.flickr.com/photos/alper/5963156654/ "Berlin am Morgen by illustir, on Flickr")
+[![Berlin am Morgen](5963156654_7e2024537f.jpg)](http://www.flickr.com/photos/alper/5963156654/ "Berlin am Morgen by illustir, on Flickr")

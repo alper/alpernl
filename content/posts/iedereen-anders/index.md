@@ -13,7 +13,7 @@ aliases:
 
 Ik heb al wel gezegd dat Apple computers minder appeal zouden hebben als ze bij de Aldi zouden liggen. Dit heeft te maken met het nerd-elite principe ‘niets is tof als andere mensen dat ook vinden’.
 
-[![WiFi at the Doerak](http://farm1.static.flickr.com/221/475471377_67f4e7f2c0.jpg)](http://www.flickr.com/photos/alper/475471377/ "WiFi at the Doerak by illustir, on Flickr")
+[![WiFi at the Doerak](475471377_67f4e7f2c0.jpg)](http://www.flickr.com/photos/alper/475471377/ "WiFi at the Doerak by illustir, on Flickr")
 
 In Amerika zijn ze al ver op het gebied van Apple-conversie, doordat Nederland altijd achterloopt hebben we hier nog wel een jaar of vijf. Dus wat dan?
 

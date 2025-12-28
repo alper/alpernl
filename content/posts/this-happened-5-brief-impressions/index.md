@@ -12,7 +12,7 @@ aliases:
 ---
 Yesterday I attended the fifth edition of [This Happened](http://thishappened.nl/) in Utrecht city. It was a great new iteration with more polish even though it was also a big step up moving the entire event to [a new venue](http://www.hku.nl/web/Faculteiten/Akademietheater.htm).
 
-[![Paper Cakes](http://farm5.static.flickr.com/4001/4379996650_cc506d8530.jpg)](http://www.flickr.com/photos/alper/4379996650/ "Paper Cakes by illustir, on Flickr")
+[![Paper Cakes](4379996650_cc506d8530.jpg)](http://www.flickr.com/photos/alper/4379996650/ "Paper Cakes by illustir, on Flickr")
 
 See [the This Happened site](http://thishappened.nl/) for the presentations of this session.
 

@@ -15,7 +15,7 @@ This week started with Pentecost. Trying to get stuff done in Germany during the
 
 This week I gave an interview to [Süddeutsche Zeitung](http://www.sz.de/) about our project [Politwoops](http://politwoops.de/) which turned out pretty well:
 
-[![Politwoops in SZ](http://farm4.staticflickr.com/3709/8947144994_d1b863f048_z.jpg)](http://www.flickr.com/photos/alper/8947144994/ "Politwoops in SZ by illustir, on Flickr")
+[![Politwoops in SZ](8947144994_d1b863f048_z.jpg)](http://www.flickr.com/photos/alper/8947144994/ "Politwoops in SZ by illustir, on Flickr")
 
 Just before German class I was interviewed in German about altogether different matters:
 
@@ -25,11 +25,11 @@ Just before German class I was interviewed in German about altogether different 
 
  [KANT](http://kantberlin.tumblr.com/) is slowly shaping up:
 
-[![KANT in action](http://farm4.staticflickr.com/3684/8766451615_1751b64df1_z.jpg)](http://www.flickr.com/photos/alper/8766451615/ "KANT in action by illustir, on Flickr")
+[![KANT in action](8766451615_1751b64df1_z.jpg)](http://www.flickr.com/photos/alper/8766451615/ "KANT in action by illustir, on Flickr")
 
 I received this device to be able to live digitally in the outdoors:
 
-[![A cloudy start for my Wakawaka Power](http://farm8.staticflickr.com/7412/8813647088_9c28b741c9_z.jpg)](http://www.flickr.com/photos/alper/8813647088/ "A cloudy start for my Wakawaka Power by illustir, on Flickr")
+[![A cloudy start for my Wakawaka Power](8813647088_9c28b741c9_z.jpg)](http://www.flickr.com/photos/alper/8813647088/ "A cloudy start for my Wakawaka Power by illustir, on Flickr")
 
 And end of that week I spent some time writing and especially my piece on data was picked up nicely and got a record amount of views:
 
@@ -55,4 +55,4 @@ And end of that week I spent some time writing and especially my piece on data w
 
 And the next day Peter and Michelle got married which was a tremendous amount of fun:
 
-[![Vorstellungsronde](http://farm9.staticflickr.com/8128/8828580530_70a698feec_z.jpg)](http://www.flickr.com/photos/alper/8828580530/ "Vorstellungsronde by illustir, on Flickr")
+[![Vorstellungsronde](8828580530_70a698feec_z.jpg)](http://www.flickr.com/photos/alper/8828580530/ "Vorstellungsronde by illustir, on Flickr")

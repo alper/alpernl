@@ -12,7 +12,7 @@ aliases:
 ---
 Briefly written notes for last week. It was one of the first proper weeks at the office for which I am grateful. German administration remains a challenging affair as my [blog post and quoted Times article also testify](/dingen/2012/02/administrative-no-ops/).
 
-[![Today's office](http://farm8.staticflickr.com/7209/6938610329_eccbb31bd4.jpg)](http://www.flickr.com/photos/alper/6938610329/ "Today's office by illustir, on Flickr")
+[![Today's office](6938610329_eccbb31bd4.jpg)](http://www.flickr.com/photos/alper/6938610329/ "Today's office by illustir, on Flickr")
 
 We put a small Tumblr called [“Ramen Hunter”](http://ramenhunter.tumblr.com/) online on which we document our peripatetic consumptions of the Japanese manna called ramen.
 
@@ -20,15 +20,15 @@ Also the news that I will be speaking at NEXT Berlin on a topic near to my heart
 
 Another German copyright issue arose because [Open Köln](http://offeneskoeln.de/) republished a series of government documents on their own website. I wrote up [the chain of events and the chilling effects](http://www.hackdeoverheid.nl/2012/02/chilling-effects-hinder-openness-in-germany/) that are bound to follow.
 
-[![Four people on stage rehashing the Zeit article I read this morning about startups in Berlin](http://farm8.staticflickr.com/7069/6938944551_6d164ab613.jpg)](http://www.flickr.com/photos/alper/6938944551/ "Four people on stage rehashing the Zeit article I read this morning about startups in Berlin by illustir, on Flickr")
+[![Four people on stage rehashing the Zeit article I read this morning about startups in Berlin](6938944551_6d164ab613.jpg)](http://www.flickr.com/photos/alper/6938944551/ "Four people on stage rehashing the Zeit article I read this morning about startups in Berlin by illustir, on Flickr")
 
 I went to an event called [Zukunftgespräche](https://www.facebook.com/events/317157255001093/) about the future of creative and innovative work in the city. That was mostly a disappointment with commonplaces being trodden over and Zeit articles being quoted near verbatim. It seems these kind of events in Germany are too institutional and manage to invite exactly the wrong people [^1].
 
-[![Die Macht in Netz](http://farm8.staticflickr.com/7063/6798652320_0113715aa3.jpg)](http://www.flickr.com/photos/alper/6798652320/ "Die Macht in Netz by illustir, on Flickr")
+[![Die Macht in Netz](6798652320_0113715aa3.jpg)](http://www.flickr.com/photos/alper/6798652320/ "Die Macht in Netz by illustir, on Flickr")
 
 The rest of the week was spent hauling my library to the office, writing up some proposals and Skype-ing with the homefront. I also submitted our research initiatives from Open State to [Virtueel Platform](http://virtueelplatform.nl/). And I could finish off the week having a beer at [Soundcloud](http://soundcloud.com) Rebase which turns out to be a pretty good way to end a week.
 
-[![Looking for parts](http://farm8.staticflickr.com/7186/6803074974_e4a6fa3808.jpg)](http://www.flickr.com/photos/alper/6803074974/ "Looking for parts by illustir, on Flickr")
+[![Looking for parts](6803074974_e4a6fa3808.jpg)](http://www.flickr.com/photos/alper/6803074974/ "Looking for parts by illustir, on Flickr")
 
 On Sunday I read up on the [Liquid Democracy](http://liquidfeedback.org/project/) software platform used by the Pirate Party to decide upon their points of view (read a good Spiegel overview here: [“Web Platform Makes Professor Most Powerful Pirate”](http://www.spiegel.de/international/germany/0,1518,818683,00.html)).
 

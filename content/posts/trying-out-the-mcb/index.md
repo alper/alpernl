@@ -11,7 +11,7 @@ aliases:
 ---
 I finally got the chance of trying out the [McB](http://www.mcdonalds.de/produkte/mcb), McDonald's new ecological burger tonight after [a visit to the opera](/dingen/2015/10/les-contes-dhoffmann/).
 
-[![Trying out the McB, the McDonald's bio burger](https://farm6.staticflickr.com/5689/21475551503_a3bda8bc1a_z.jpg)](https://www.flickr.com/photos/alper/21475551503/in/dateposted-public/ "Trying out the McB, the McDonald's bio burger")
+[![Trying out the McB, the McDonald's bio burger](21475551503_a3bda8bc1a_z.jpg)](https://www.flickr.com/photos/alper/21475551503/in/dateposted-public/ "Trying out the McB, the McDonald's bio burger")
 
 First I think it's great that McDonald's is doing this. It would be nice if they switched all their meat to what is at least a nominally biologically produced variety. I've seen people hating on it but large food producers having to shift over is a sign of victory. Read this Fortune [article about the war on Big Food](http://fortune.com/2015/05/21/the-war-on-big-food/).
 

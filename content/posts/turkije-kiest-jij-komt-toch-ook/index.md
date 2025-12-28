@@ -15,7 +15,7 @@ In de afgelopen weken heeft [Ben Hammersley](http://www.benhammersley.com/) voor
 
 Zijn verslag over Turkije is goed maar zijn berichten van achter de schermen zijn ook ontzettend interessant. Boeiend om te zien hoe met drie mensen zoveel verslag kan worden gedaan. Zie op [YouTube](http://youtube.com/BenHammersleyBBC) zijn filmpjes en live segmenten op BBC World. Zijn documentaire wordt maandagochtend nog om 09.30 (CET) uitgezonden op BBC World. Ik heb hem al gemailed met de vraag of hij nog ergens online beschikbaar komt binnenkort.
 
-[![Demagoguery](http://farm2.static.flickr.com/1184/865841867_16f16a6d2e_m.jpg)](http://www.flickr.com/photos/alper/865841867/ "Photo Sharing")
+[![Demagoguery](865841867_16f16a6d2e_m.jpg)](http://www.flickr.com/photos/alper/865841867/ "Photo Sharing")
 
 Hoor ik net [Ebru Umar](http://www.ebruumar.nl/) [^2] tegenover een genuanceerde Joost Lagendijk op [het oog](http://www.nos.nl/nosjournaal/oogopmorgen/achterdeschermen/organisatie/index.html) nog even wild en voorspelbaar om zich heen slaan tegen de AKP. Vergelijkbaar met de bekrompen seculier die wordt beschreven in [dit artikel van Akyol](http://www.thewhitepath.com/archives/2007/07/the_sum_of_all_secular_fears.php). Rhetoriek en vergelijkingen dat met de AKP Turkije verandert in een soort Iran zijn grof overtrokken.
 

@@ -11,7 +11,7 @@ aliases:
 ---
 Ik had een gesprek gisteren over [Qash.nl](http://qash.nl) (het Nederlandse [Wesabe](http://www.wesabe.com)) en de diensten die dit soort sites aanbieden. We waren erover uit dat het belachelijk is dat banken dit zelf niet aanbieden.
 
-[![Qash. Besparen is nu eenvoudig.](http://farm4.static.flickr.com/3095/3132807245_f3857d25f2.jpg)](http://www.flickr.com/photos/alper/3132807245/ "Qash. Besparen is nu eenvoudig. by illustir, on Flickr")
+[![Qash. Besparen is nu eenvoudig.](3132807245_f3857d25f2.jpg)](http://www.flickr.com/photos/alper/3132807245/ "Qash. Besparen is nu eenvoudig. by illustir, on Flickr")
 
 Kort: Qash is een dienst die de transacties van je bank kan inlezen, daar automatisch meta-data aan toe kan kennen en op basis daarvan helder grafieken en segmenteringen laat zien waar je geld is gebleven en welke trends er spelen.
 

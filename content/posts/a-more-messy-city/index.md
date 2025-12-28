@@ -24,4 +24,4 @@ Walking around in the real cognitive city of Berlin and seeing the street kids i
 
 Ideas how to do this in quality and at scale are forthcoming, but like everything it should of course start with awareness.
 
-[![Game Over](http://farm6.static.flickr.com/5095/5478810704_505995fe5c.jpg)](http://www.flickr.com/photos/alper/5478810704/ "Game Over by illustir, on Flickr")
+[![Game Over](5478810704_505995fe5c.jpg)](http://www.flickr.com/photos/alper/5478810704/ "Game Over by illustir, on Flickr")

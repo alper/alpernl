@@ -13,11 +13,11 @@ aliases:
 ---
 Work on the [Pigs](http://playingwithpigs.nl/) continues though my part is sort of finished now. The rest of the team is very busy getting the thing into the stable.
 
-[![Toddy's office](http://farm9.staticflickr.com/8318/7970465336_4f6ae5d87e.jpg)](http://www.flickr.com/photos/alper/7970465336/ "Toddy's office by illustir, on Flickr")
+[![Toddy's office](7970465336_4f6ae5d87e.jpg)](http://www.flickr.com/photos/alper/7970465336/ "Toddy's office by illustir, on Flickr")
 
 On Tuesday I dropped by [Open Tech School](http://python.opentechschool.org/) to do a bit of Python coaching. The entire week I spent a great many hours on _kohi_ getting both the iPhone client and the django server into usable shape. It has advanced to the point where I am using it regularly on the go and it works without too many hickups.
 
-[![Having a proper wall is rather nice](http://farm9.staticflickr.com/8446/7985297403_81097dc1cf.jpg)](http://www.flickr.com/photos/alper/7985297403/ "Having a proper wall is rather nice by illustir, on Flickr")
+[![Having a proper wall is rather nice](7985297403_81097dc1cf.jpg)](http://www.flickr.com/photos/alper/7985297403/ "Having a proper wall is rather nice by illustir, on Flickr")
 
 I also wrote [the new services overview](http://monsterswell.com/blog/services/) for Monster Swell. A realign had been in order for a while now.
 
@@ -26,4 +26,4 @@ On Friday [Dirk van Oosterbosch](http://www.ixopusada.com/dirk/) dropped by Prax
 Also the German net community wants to do something about the Leistungsschutzrecht which is a truly ridiculous piece of legislation. My response to their petition:
 https://twitter.com/alper/status/246181714177695744
 
-[![So we get to pay a €1 premium to do our own pour over.](http://farm9.staticflickr.com/8296/7988809800_21c0b25f85.jpg)](http://www.flickr.com/photos/alper/7988809800/ "So we get to pay a €1 premium to do our own pour over. by illustir, on Flickr")[![Make your own ChariTea station](http://farm9.staticflickr.com/8451/7991675685_6d2b45c634.jpg)](http://www.flickr.com/photos/alper/7991675685/ "Make your own ChariTea station by illustir, on Flickr")
+[![So we get to pay a €1 premium to do our own pour over.](7988809800_21c0b25f85.jpg)](http://www.flickr.com/photos/alper/7988809800/ "So we get to pay a €1 premium to do our own pour over. by illustir, on Flickr")[![Make your own ChariTea station](7991675685_6d2b45c634.jpg)](http://www.flickr.com/photos/alper/7991675685/ "Make your own ChariTea station by illustir, on Flickr")

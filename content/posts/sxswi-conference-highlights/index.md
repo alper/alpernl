@@ -22,7 +22,7 @@ Also the realization that you don't need a laptop or a DSLR (thanks [Derek](http
 
 I almost missed the joint session by [Jon Gruber](http://daringfireball.net/) and [Merlin Mann](http://www.kungfugrippe.com/) but a quick tweet got me in the room shortly after it'd started. These are my favorite two bloggers and having them speak on the old theme of how to be yourself and do cool stuff was a lot of fun even if they're both dicks (by their own admission).
 
-[![Daddy's](http://farm4.static.flickr.com/3455/3354747541_e452f8be6b.jpg)](http://www.flickr.com/photos/alper/3354747541/ "Daddy's by illustir, on Flickr")
+[![Daddy's](3354747541_e452f8be6b.jpg)](http://www.flickr.com/photos/alper/3354747541/ "Daddy's by illustir, on Flickr")
 
 The food all around Austin (more on it later) was great. I caught some burgers with the guys from [Mangrove](http://www.mangrove.nl) at [Daddy's](http://www.yelp.com/biz/daddys-grill-and-bar-austin) which is a combined sports bar / burger joint and it was as awesome as a typical American experience can be.
 
@@ -41,16 +41,16 @@ The [Designing Change in America talk](http://sxsw.com/interactive/talks/schedul
 
 At the SxSWi closing party there was a mechanical bull and not being from America I of course could not resist the chance of riding it ( [movie](http://vimeo.com/3776482)). As they say, when in Texas…
 
-[![Polvos](http://farm4.static.flickr.com/3052/3364774974_78f2ca21aa.jpg)](http://www.flickr.com/photos/alper/3364774974/ "Polvos by illustir, on Flickr")
+[![Polvos](3364774974_78f2ca21aa.jpg)](http://www.flickr.com/photos/alper/3364774974/ "Polvos by illustir, on Flickr")
 
 No visit to Texas would be complete without some Tex Mex. Being fed up with the conference scene offerings I caught a cab and headed to [Polvo's](http://www.yelp.com/biz/polvos-mexican-restaurant-austin) on South 1st. I'd heard a lot of good things about it and it turned out to be a very nice place for Mexican food. I don't get why people at SxSWi wait in line for the places near the convention center instead of rounding up some people and catching a cab.
 On the last day I took the Wakoopa crew out for some good Tacos at [Torchy's Tacos](http://torchystacos.com/) on a recommendation from Nikhil of [Turn2Live](http://www.turn2live.com/). I love the abundant availability of Mexican food in this part of America and it always makes leaving a painful experience.
 
-[![Torchy'S Tacos](http://farm4.static.flickr.com/3614/3365145035_e05963124a.jpg)](http://www.flickr.com/photos/alper/3365145035/ "Torchy'S Tacos by illustir, on Flickr")
+[![Torchy'S Tacos](3365145035_e05963124a.jpg)](http://www.flickr.com/photos/alper/3365145035/ "Torchy'S Tacos by illustir, on Flickr")
 
 The last night we were in Austin I magically found a group of Dutchies and we walked up 6th and Red River a bit randomly sampling bands in the cafes. The music festival hadn't really started yet but still there were a lot of very cool bands (punk / speedrock) playing. The next day walking a bit along 6th during noon they were just building up and it already was really busy. Maybe next year I'll stay a couple of extra days to see more bands.
 
-[![Band](http://farm4.static.flickr.com/3588/3364930928_83c384ffda.jpg)](http://www.flickr.com/photos/alper/3364930928/ "Band by illustir, on Flickr")
+[![Band](3364930928_83c384ffda.jpg)](http://www.flickr.com/photos/alper/3364930928/ "Band by illustir, on Flickr")
 
 And of course all the other people I met who are too numerous to list here. That is the real charm of the conference, the number of people I've just met randomly because they're all there, has been staggering and is the real value of this event.
 

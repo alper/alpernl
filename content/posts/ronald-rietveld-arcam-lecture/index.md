@@ -12,7 +12,7 @@ aliases:
 ---
 [Alexander](http://twitter.com/dmos) and I attended the [ARCAM](http://www.arcam.nl) lecture tonight where landscape architect Ronald Rietveld ( [Rietveld Landscape](http://www.rietveldlandscape.nl/)) sketched a future for Amsterdam that isn't dormant and touristic, but somewhat ambitious even.
 
-[![](http://farm5.static.flickr.com/4105/4967968697_d077c4acc3.jpg)](http://www.flickr.com/photos/alper/4967968697/ "Untitled by illustir, on Flickr")
+[![](4967968697_d077c4acc3.jpg)](http://www.flickr.com/photos/alper/4967968697/ "Untitled by illustir, on Flickr")
 
 These are the rough notes from the presentation [^1]:
 

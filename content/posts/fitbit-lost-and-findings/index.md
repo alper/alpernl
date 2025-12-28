@@ -12,7 +12,7 @@ aliases:
 ---
 I lost my [Fitbit](http://www.fitbit.com) today. This was bound to happen and I'm surprised I managed to hold on to it as long as I did. So one minute I was getting off the tram and the next I didn't have it anymore.
 
-[![Cyborgified](http://farm6.static.flickr.com/5265/5669501266_24cb89f793.jpg)](http://www.flickr.com/photos/alper/5669501266/ "Cyborgified by illustir, on Flickr")
+[![Cyborgified](5669501266_24cb89f793.jpg)](http://www.flickr.com/photos/alper/5669501266/ "Cyborgified by illustir, on Flickr")
 
 Some findings:
 

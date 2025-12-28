@@ -42,7 +42,7 @@ Ik verzin deze gebruiksdoelen net zelf in vijf minuten maar de hoeveelheid creat
 
 **Oplossing:** Het vrijgeven van de reisgegevens (in eerste instantie planmatig maar daarna ook dynamisch) in een herbruikbaar helder formaat onder redelijke en vrije voorwaarden. En als problemen dat in de weg staan, duidelijk maken welke problemen dat zijn en hoe we kunnen samenwerken om deze op te lossen.
 
-[![Trein.app — Station View](http://farm4.static.flickr.com/3650/3392804103_fe59845b7d_m.jpg)](http://www.flickr.com/photos/alper/3392804103/ "Trein.app — Station View by illustir, on Flickr")
+[![Trein.app — Station View](3392804103_fe59845b7d_m.jpg)](http://www.flickr.com/photos/alper/3392804103/ "Trein.app — Station View by illustir, on Flickr")
 
 Het is nu al mogelijk om toepassingen te bouwen op de site van de NS (zie [Trein.app](http://www.naquah.net/trein/)) maar de moeite die je moet doen is te hoog en de onderhoudbaarheid is laag. Er is op dit moment teveel toewijding nodig om applicaties te bouwen.
 

@@ -13,7 +13,7 @@ aliases:
 ---
 Ik zit op mijn balkon in de namiddagzon te bellen met een vriend als op [de kruising Bertrand Russellstraat / Maliebaan](http://maps.google.nl/maps?f=q&source=s_q&hl=nl&geocode=&q=Maliebaan+2,+Amsterdam,+The+Netherlands&sll=52.215653,5.088589&sspn=0.492213,1.003876&ie=UTF8&t=h&z=16&iwloc=A) een fietser geraakt wordt door een auto. Die weg gaat vanaf Julianaplein heuvel af de Maliebaan in en fietsers hebben voorrang op auto's die uit die wijk en vooral uit het kantoorgebouw van Fortis komen maar in de praktijk moet je dondersgoed uitkijken [^1].
 
-[![Biker hit by car](http://farm3.static.flickr.com/2434/3877875059_7c80cae842.jpg)](http://www.flickr.com/photos/alper/3877875059/ "Biker hit by car by illustir, on Flickr")
+[![Biker hit by car](3877875059_7c80cae842.jpg)](http://www.flickr.com/photos/alper/3877875059/ "Biker hit by car by illustir, on Flickr")
 
 Het afsluiten van die weg voor auto's is geen optie maar de drempels die er nu liggen zijn wel erg laf. Dus ik heb de situatie meteen [aangemeld bij ‘Verbeter de buurt’](http://www.verbeterdebuurt.nl/melding/1263/gevaarlijke-situatie-voor-fietsers). Zien of daar iets mee gebeurt.
 

@@ -11,4 +11,4 @@ aliases:
 
 ---
 Jumping all over the randstad these past weeks. Some gems to be found:
-[![Neude](http://farm4.static.flickr.com/3544/4031842083_97c4dd5838_b.jpg)](http://www.flickr.com/photos/alper/4031842083/ "Neude by illustir, on Flickr")
+[![Neude](4031842083_97c4dd5838_b.jpg)](http://www.flickr.com/photos/alper/4031842083/ "Neude by illustir, on Flickr")

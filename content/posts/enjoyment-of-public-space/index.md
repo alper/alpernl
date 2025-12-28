@@ -13,7 +13,7 @@ aliases:
 ---
 Jan Chipchase had asked this question recently in a post on [this street scene](http://www.janchipchase.com/blog/archives/2009/07/social-form.html) which already had me thinking.
 
-[![Enjoy Public Space](http://farm3.static.flickr.com/2529/3824136896_dd4b5dd02d.jpg)](http://www.flickr.com/photos/alper/3824136896/ "Enjoy Public Space by illustir, on Flickr")
+[![Enjoy Public Space](3824136896_dd4b5dd02d.jpg)](http://www.flickr.com/photos/alper/3824136896/ "Enjoy Public Space by illustir, on Flickr")
 
 Yesterday I was present at a lecture by Dirk Overduin on some succesful interventions around the [use of public space](http://www.enjoypublicspace.nl/).
 

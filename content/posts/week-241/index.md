@@ -23,13 +23,13 @@ Wednesday we announced the first speaker for [Code Camping Amsterdam](http://www
 
 Went to [Booreiland](http://booreiland.nl) to work on _culiacan_.
 
-[![New temporary desks](http://farm7.static.flickr.com/6119/6282366811_a61f871c43.jpg)](http://www.flickr.com/photos/alper/6282366811/ "New temporary desks by illustir, on Flickr")
+[![New temporary desks](6282366811_a61f871c43.jpg)](http://www.flickr.com/photos/alper/6282366811/ "New temporary desks by illustir, on Flickr")
 
 At long last I [posted the pictures](/dingen/2011/10/geeks-of-ouroffice/) I took of people visiting our office with my Yashica medium format camera.
 
 My review of [The Binding of Isaac](http://store.steampowered.com/app/113200/) was published in [nrc.next](http://www.nrcnext.nl/).
 
-[![Long lost glory](http://farm7.static.flickr.com/6224/6285958890_694c646516.jpg)](http://www.flickr.com/photos/alper/6285958890/ "Long lost glory by illustir, on Flickr")
+[![Long lost glory](6285958890_694c646516.jpg)](http://www.flickr.com/photos/alper/6285958890/ "Long lost glory by illustir, on Flickr")
 
 Sunday we had a marathon meeting for the constitution of the merged foundation that is going to be the greater-than-the-sum-of-its-parts [Hack de Overheid](http://www.hackdeoverheid.nl/) and [Het Nieuwe Stemmen](http://www.hetnieuwestemmen.nl/). I am very excited for the potential of the new organization.
 

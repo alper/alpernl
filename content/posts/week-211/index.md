@@ -20,11 +20,11 @@ Visited [Mobile Monday](http://www.mobilemonday.nl). Prepared various proposals 
 
 Also our friends from [the Village](http://thevillagecoffee.nl/) in Utrecht opened their coffee store. Needless to say a lot of the work we do over there is fueled by quality caffeine and we will be paying them more than regular visits. I suggest you do the same.
 
-[![The Village Proprietor](http://farm6.static.flickr.com/5026/5570786452_4dceddb1e4.jpg)](http://www.flickr.com/photos/alper/5570786452/ "The Village Proprietor by illustir, on Flickr")
+[![The Village Proprietor](5570786452_4dceddb1e4.jpg)](http://www.flickr.com/photos/alper/5570786452/ "The Village Proprietor by illustir, on Flickr")
 
 Friday we of course also had our regular drinks at [@ouroffice](http://twitter.com/ouroffice). You are welcome for any of our next installations.
 
-[![The new haul: Huizinga, Bogost, Jacobs Kolko](http://farm6.static.flickr.com/5255/5581922622_572d414a17.jpg)](http://www.flickr.com/photos/alper/5581922622/ "The new haul: Huizinga, Bogost, Jacobs Kolko by illustir, on Flickr")
+[![The new haul: Huizinga, Bogost, Jacobs Kolko](5581922622_572d414a17.jpg)](http://www.flickr.com/photos/alper/5581922622/ "The new haul: Huizinga, Bogost, Jacobs Kolko by illustir, on Flickr")
 
 And as if the week was not filled enough with highlights, I also got to play my role as the [Design Misanthrope](http://twitter.com/dmisanthrope):
-[![Those that know me, know I'm very much the design misanthrope.](http://farm6.static.flickr.com/5138/5582004629_c049de1a36.jpg)](http://www.flickr.com/photos/alper/5582004629/ "Those that know me, know I'm very much the design misanthrope. by illustir, on Flickr")
+[![Those that know me, know I'm very much the design misanthrope.](5582004629_c049de1a36.jpg)](http://www.flickr.com/photos/alper/5582004629/ "Those that know me, know I'm very much the design misanthrope. by illustir, on Flickr")

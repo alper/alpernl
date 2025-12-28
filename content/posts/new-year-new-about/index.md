@@ -12,7 +12,7 @@ I think it's time to archive the hagiography that was on my About page. I apolog
 
 I think it's still pretty fun, so I'm archiving it here as a quote:
 
-> [![Grab](http://farm4.static.flickr.com/3083/2702739214_e3d6b3bf08_m.jpg)](http://www.flickr.com/photos/alper/2702739214/ "Grab by illustir, on Flickr")
+> [![Grab](2702739214_e3d6b3bf08_m.jpg)](http://www.flickr.com/photos/alper/2702739214/ "Grab by illustir, on Flickr")
 >
 > Alper Çuğun is an engineer of the user experience specialized in cutting edge web technology, data viualization, physical interaction, game design and location based services.
 >

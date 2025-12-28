@@ -23,13 +23,13 @@ I also finished my piece about [the BMW Guggenheim Lab](/dingen/2012/08/het-bmw-
 
 > **ciÂ·tyÂ·jerk** (noun, portmanteau of city and circlejerk): high modernist gathering of architects and designers talking about urban experiences from which they are wholly detached
 
- [![Tents are popular](http://farm9.staticflickr.com/8444/7801323836_fe6dbe0891.jpg)](http://www.flickr.com/photos/alper/7801323836/ "Tents are popular by illustir, on Flickr")
+ [![Tents are popular](7801323836_fe6dbe0891.jpg)](http://www.flickr.com/photos/alper/7801323836/ "Tents are popular by illustir, on Flickr")
 
 Lots of work this week on [Pig Chase](http://www.playingwithpigs.nl/) getting the iPad client version to work for initial prototyping.
 
 I visited the Berlin Google offices to attend a lecture by [Ben Scott](http://en.wikipedia.org/wiki/Ben_Scott_(policy_advisor)) about the potential of the internet. An absurdly self-serving piece of rhetoric that briefly summarized said: Germans are stupid to be wary of the internet and it is in fact holding them back. If they manage to trust the web and open up to its promise, everything will be fine and dandy.
 
-[![Like what I remember from Dolores (also everybody here speaks Spanish)](http://farm9.staticflickr.com/8281/7802978488_5153d02d43.jpg)](http://www.flickr.com/photos/alper/7802978488/ "Like what I remember from Dolores (also everybody here speaks Spanish) by illustir, on Flickr")
+[![Like what I remember from Dolores (also everybody here speaks Spanish)](7802978488_5153d02d43.jpg)](http://www.flickr.com/photos/alper/7802978488/ "Like what I remember from Dolores (also everybody here speaks Spanish) by illustir, on Flickr")
 
 Friday I had beers over at [Praxis](http://praxisberlin.net/) which will be my new offices from September onwards.
 

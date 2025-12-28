@@ -43,7 +43,7 @@ Politiek is eigenlijk niets anders dan een ontwerp-probleem voor de samenleving.
 
 De uitdaging was om op basis van onregelmatig binnenkomende gegevens een coherent geheel te maken dat de toestand van het land lokaal samenvat en inzicht geeft aan de mensen die de enquêtes ingevuld hebben. We bedachten toen een interactieve infographic zoals je ze vaak in de krant ziet maar nu doorklikbaar en zoombaar voor meer detailweergave. Dit alles uiteraard in een hectische periode met campagnebudgettering voor tijd en geld.
 
-Het resultaat is: [Mijn Buurt: Dit is Nederland](http://www.pvda.nl/mijnbuurt/) [![pvdacanvas](http://farm5.static.flickr.com/4066/4681977478_1a028993e9.jpg)](http://www.flickr.com/photos/alper/4681977478/ "pvdacanvas by illustir, on Flickr") [![pvdacanvas2](http://farm5.static.flickr.com/4057/4681346509_cbd1c8f76c.jpg)](http://www.flickr.com/photos/alper/4681346509/ "pvdacanvas2 by illustir, on Flickr")
+Het resultaat is: [Mijn Buurt: Dit is Nederland](http://www.pvda.nl/mijnbuurt/) [![pvdacanvas](4681977478_1a028993e9.jpg)](http://www.flickr.com/photos/alper/4681977478/ "pvdacanvas by illustir, on Flickr") [![pvdacanvas2](4681346509_cbd1c8f76c.jpg)](http://www.flickr.com/photos/alper/4681346509/ "pvdacanvas2 by illustir, on Flickr")
 
 Een aardige eerste stap waarin je per stad kun zien wat de gecombineerde uitkomsten zijn van de enquêtes en op postcode kunt zoomen naar wat mensen bij jou in de buurt vinden (zo die hem hebben ingevuld, zo niet dan mag je hem [direct zelf invullen](http://www.pvdawebservices.nl/kaart_verkiezingenpvda/)). De volgende stap is om dit beter en structureler aan te pakken zodat het een lokaal platform wordt voor de verschillende afdelingen.
 

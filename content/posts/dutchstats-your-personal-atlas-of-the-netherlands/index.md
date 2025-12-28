@@ -19,7 +19,7 @@ Last weekend we released [Dutchstats](http://bit.ly/dutchstats/), an online inte
 
 [**http://bit.ly/dutchstats**](http://bit.ly/dutchstats)
 
- [![index.html](http://farm5.static.flickr.com/4009/4648817854_d7b2ffb62e.jpg)](http://www.flickr.com/photos/alper/4648817854/ "index.html by illustir, on Flickr")
+ [![index.html](4648817854_d7b2ffb62e.jpg)](http://www.flickr.com/photos/alper/4648817854/ "index.html by illustir, on Flickr")
 
 A video demo:
 [Dutchstats](http://vimeo.com/12122480) from [Alper Çugun](http://vimeo.com/illustir) on [Vimeo](http://vimeo.com).

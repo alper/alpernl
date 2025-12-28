@@ -13,7 +13,7 @@ aliases:
 ---
 De serie video's [Blind Sequence Trust](http://www.dam-berlin.de/mlExhibitions-pa-showpage-pid-1-newlang-english.html) van kunstenaar [Joan Leandre](http://www.kubasik.biz/) speelt in DAM nog tot en met 5 mei.
 
-[![Joan Leandre - Blind Sequence Trust](http://farm8.staticflickr.com/7090/6921825078_80558a6fc7.jpg)](http://www.flickr.com/photos/alper/6921825078/ "Joan Leandre - Blind Sequence Trust by illustir, on Flickr")
+[![Joan Leandre - Blind Sequence Trust](6921825078_80558a6fc7.jpg)](http://www.flickr.com/photos/alper/6921825078/ "Joan Leandre - Blind Sequence Trust by illustir, on Flickr")
 
 Leandre is een kunstenaar die al decennia lang bezig is met het gebruiken van computer 3D engines van allerlei vormen om verhalen te vertellen en emoties op te roepen. Het werk zoals dat in DAM te zien is, is lastig te plaatsen, maar zowel de beelden als de muziek zijn bijzonder goed uitgevoerd waardoor [^1] dingen die niets met elkaar te maken lijken te hebben, toch weten te boeien.
 

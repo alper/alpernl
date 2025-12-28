@@ -11,7 +11,7 @@ aliases:
 ---
 Ik heb nu mijn shuffle en mijn Sennheiser en dat zijn onder de dingen die ik altijd bij me heb. Geen stilte aan mijn kop.
 
-[![The items we carry](http://farm2.static.flickr.com/1355/915013810_6adc40afd2.jpg)](http://www.flickr.com/photos/alper/915013810/ "Photo Sharing")
+[![The items we carry](915013810_6adc40afd2.jpg)](http://www.flickr.com/photos/alper/915013810/ "Photo Sharing")
 
 Alleen dag in dag uit hetzelfde luisteren gaat vervelen. Juli, KT Tunstall, Wir sind Helden, Death Cab for Cutie, Calexico, Radiohead, Kanye West, The Fray; ze zijn allemaal erg tof, maar nu even genoeg gehoord. Ik probeer allemaal nieuwe CDs uit, maar indiepop, postrock, R&B, electronic funk, singer songwriters; _whatever_, er zitten erg weinig blijvertjes tussen.
 

@@ -15,7 +15,7 @@ Going over the list of services that the municipality of Amsterdam offers this w
 
 > the option to change your date of birth (without a foreign certificate)
 
- [![Services the city of Amsterdam offers among which the option to change your date of birth](http://farm8.staticflickr.com/7145/6714525863_58e4eaecc1.jpg)](http://www.flickr.com/photos/alper/6714525863/ "Services the city of Amsterdam offers among which the option to change your date of birth by illustir, on Flickr")
+ [![Services the city of Amsterdam offers among which the option to change your date of birth](6714525863_58e4eaecc1.jpg)](http://www.flickr.com/photos/alper/6714525863/ "Services the city of Amsterdam offers among which the option to change your date of birth by illustir, on Flickr")
 
 This is a very interesting option. I am not aware of the reasons one could assert to change their date of birth, but the fact that the option is listed, says something. In any case, it shouldn't be too difficult to come up with a reason that fulfills official requirements.
 

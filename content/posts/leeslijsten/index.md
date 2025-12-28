@@ -10,7 +10,7 @@ aliases:
 ---
 Van de week bij de IKEA een klein kastje gekocht om mijn boeken dichter bij de hand te hebben.
 
-[![Books](http://farm3.static.flickr.com/2139/2226455019_468a1dd612.jpg)](http://www.flickr.com/photos/alper/2226455019/ "Books by illustir, on Flickr")
+[![Books](2226455019_468a1dd612.jpg)](http://www.flickr.com/photos/alper/2226455019/ "Books by illustir, on Flickr")
 
 Dat is ongeveer een verzameling boeken waar ik aan begonnen ben (sommigen waarvan ik nog uit wil lezen, anderen...), boeken die ik op dit moment lees en boeken die binnenkort gelezen gaan worden.
 

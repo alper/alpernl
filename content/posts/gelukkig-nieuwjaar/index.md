@@ -9,4 +9,4 @@ aliases:
 
 ---
 Eindelijk mijn fotos' van Oud en Nieuw online. Hier een staaltje:
-[![](http://farm3.static.flickr.com/2043/2163758103_fe1e223e28.jpg)](http://www.flickr.com/photos/alper/2163758103/ "Untitled by illustir, on Flickr")
+[![](2163758103_fe1e223e28.jpg)](http://www.flickr.com/photos/alper/2163758103/ "Untitled by illustir, on Flickr")

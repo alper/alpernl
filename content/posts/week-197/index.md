@@ -14,7 +14,7 @@ aliases:
 
 ---
 Got some reinforcements at the office:
-[![Reinforcements have arrived](http://farm6.static.flickr.com/5084/5276803255_ff793c3a78.jpg)](http://www.flickr.com/photos/alper/5276803255/ "Reinforcements have arrived by illustir, on Flickr")
+[![Reinforcements have arrived](5276803255_ff793c3a78.jpg)](http://www.flickr.com/photos/alper/5276803255/ "Reinforcements have arrived by illustir, on Flickr")
 
 My business cards for Monster Swell have also arrived, more about those in a separate post: [Information Compression on Paper](http://monsterswell.com/blog/2010/12/information-compression/) [![Checking out Alper's hella sweet Monsterswell cards designed by BUROPONY](http://farm6.static.flickr.com/5281/5282406301_58296a4143.jpg)](http://www.flickr.com/photos/kaeru/5282406301/ "Checking out Alper's hella sweet Monsterswell cards designed by BUROPONY by Kaeru, on Flickr")
 
@@ -29,5 +29,5 @@ Wednesday was a kickoff on prototyping for [Maguro](http://leapfrog.nl/blog/?s=m
 The rest of the week was filled with more of the same and tying up loose ends for the end of the year.
 
 [Our office](http://twitter.com/ouroffice) also said farewell to one of its members, typographic hero [Gustavo](http://hipertipo.net):
-[![Gustavo under the new Sutro filter](http://farm6.static.flickr.com/5165/5277156369_a0cfb57678.jpg)](http://www.flickr.com/photos/alper/5277156369/ "Gustavo under the new Sutro filter by illustir, on Flickr")
+[![Gustavo under the new Sutro filter](5277156369_a0cfb57678.jpg)](http://www.flickr.com/photos/alper/5277156369/ "Gustavo under the new Sutro filter by illustir, on Flickr")
 A new addition is already eager to get started in the new year.

@@ -12,7 +12,7 @@ aliases:
 
 ---
 The sidewalks of the newly renovated Marnixstraat:
-[![Left side](http://farm7.static.flickr.com/6063/6061860863_ac46049b49.jpg)](http://www.flickr.com/photos/alper/6061860863/ "Left side by illustir, on Flickr")[![Right side](http://farm7.static.flickr.com/6207/6061860503_c949ba354e.jpg)](http://www.flickr.com/photos/alper/6061860503/ "Right side by illustir, on Flickr")
+[![Left side](6061860863_ac46049b49.jpg)](http://www.flickr.com/photos/alper/6061860863/ "Left side by illustir, on Flickr")[![Right side](6061860503_c949ba354e.jpg)](http://www.flickr.com/photos/alper/6061860503/ "Right side by illustir, on Flickr")
 
 These are too narrow to accomodate people walking along them side by side, let alone when the sidewalk is obstructed by plants, bikes, scooters, furniture and other things.
 

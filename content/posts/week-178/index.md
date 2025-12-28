@@ -17,7 +17,7 @@ Tuesday was the night of the third Amsterdam UX Book Club organized by [Dirk Geu
 
 Explorations on getting an identity for [Monster Swell](http://monsterswell.com) are in full swing and we're preparing a bunch of collaborations with friends, and partners to participate in subsidy rounds and contests. Expect more visibility on our part soon.
 
-[![Wip 'N' Kip](http://farm5.static.flickr.com/4080/4890737082_1d54155bd6.jpg)](http://www.flickr.com/photos/alper/4890737082/ "Wip 'N' Kip by illustir, on Flickr")
+[![Wip 'N' Kip](4890737082_1d54155bd6.jpg)](http://www.flickr.com/photos/alper/4890737082/ "Wip 'N' Kip by illustir, on Flickr")
 
 The week culminated on Saturday with [Stekkerfest](http://www.zoekjestekker.nl/) and the running of [the Wip 'N' Kip game](http://playpilots.nl/games/wip-n-kip/). Suffice to say that it was every bit as awesome as everybody thought and a lot of fun was had. Massive kudos to the equippe by [Fourcelabs](http://www.fourcelabs.com/) that brought it all together.
 

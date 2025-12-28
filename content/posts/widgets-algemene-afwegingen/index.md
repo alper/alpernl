@@ -44,7 +44,7 @@ We hebben er dus voor gekozen om concrete affe versies te maken maar wel met een
 
 We hebben nogal wat tijd en aandacht besteed met [de ontwerpers van Tam Tam](http://www.tamtam.nl/) samen aan een mooie presentatie van de widgets binnen de huisstijl van de originele site. Je ziet dat dit al snel veel toegevoegde waarde heeft niet alleen in ‘branding’ maar ook in (gebruiks)vriendelijkheid van de gegevens. Vergelijk onze rijkere RSS nieuws-widgets maar met de standaardmanier om RSS te presenteren in iGoogle ( [zie screenshot](http://www.flickr.com/photos/alper/3545024691/)).
 
-[![Presentation of Feeds](http://farm3.static.flickr.com/2444/3545024691_3c50e59661.jpg)](http://www.flickr.com/photos/alper/3545024691/ "Presentation of Feeds by illustir, on Flickr")
+[![Presentation of Feeds](3545024691_3c50e59661.jpg)](http://www.flickr.com/photos/alper/3545024691/ "Presentation of Feeds by illustir, on Flickr")
 
 Bij de videowidget zie je dat er zonder al teveel moeite al makkelijk de perceptie van een ‘kanaal’ te creëren is, door de layout en de functionaliteit.
 

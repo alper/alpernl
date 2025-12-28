@@ -18,4 +18,4 @@ Friday a brief review I wrote the week before of [Inside a Star-filled Sky](http
 
 The afternoon was spent together with Lex at the [Waag](http://waag.org) concepting the tentatively titled ‘Apps on the Beach’ event.
 
-[![Soli Deo Gloria (Only Glory Through God)](http://farm6.static.flickr.com/5186/5842738066_25698225e5.jpg)](http://www.flickr.com/photos/alper/5842738066/ "Soli Deo Gloria (Only Glory Through God) by illustir, on Flickr")
+[![Soli Deo Gloria (Only Glory Through God)](5842738066_25698225e5.jpg)](http://www.flickr.com/photos/alper/5842738066/ "Soli Deo Gloria (Only Glory Through God) by illustir, on Flickr")

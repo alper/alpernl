@@ -12,7 +12,7 @@ aliases:
 ---
 Geconfronteerd met het feit dat de meeste dertigers die in de stad wonen geen auto meer willen hebben en veel twintigers niet eens meer hun rijbewijs halen, zetten automakers zichzelf opnieuw in de markt. Ze zijn niet meer verkopers van een statussymbool, maar aanbieders van vervoersoplossingen in een toekomstvisie waarin de auto een plek heeft naast de fiets, het openbaar vervoer en alle andere dingen die steden leuk maken. Audi komt in Londen binnenkort met haar [Audicity](http://www.audi.co.uk/audi-innovation/audi-city.html) en BMW toert [in samenwerking met het Guggenheim](http://www.bmwguggenheimlab.org/) langs de wereld met haar lab. Eerst New York, nu Berlijn en straks in Mumbai. (Daimler is MIA.)
 
-[![Discussing city politics](http://farm9.staticflickr.com/8425/7561660600_483a4a915c.jpg)](http://www.flickr.com/photos/alper/7561660600/ "Discussing city politics by illustir, on Flickr")
+[![Discussing city politics](7561660600_483a4a915c.jpg)](http://www.flickr.com/photos/alper/7561660600/ "Discussing city politics by illustir, on Flickr")
 
 In een anderhalve maand lang durend programma haalt BMW ongeveer elke spreker uit het [TED](http://ted.com/)/nieuwe media/architectuur-circuit naar de locatie. Er worden presentaties gegeven, gesprekken geïnitiëerd en workshops gedaan. Dit alles in een keet op een leeg stuk grond met wat schermen, krijtborden en post-its. De standaard-ingrediënten van co-creatie. Het woord ‘lab’ zelf is een excuus voor grote bedrijven om iets onafs te kunnen presenteren. ‘Het is geen zooitje, het is een lab.’
 

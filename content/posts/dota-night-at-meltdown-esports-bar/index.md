@@ -10,7 +10,7 @@ aliases:
   - /dingen/2015/02/dota-night-at-meltdown-esports-bar/
 
 ---
-[![Dota night at Meltdown](https://farm8.staticflickr.com/7332/16544389286_480c94066a_z.jpg)](https://www.flickr.com/photos/alper/16544389286 "Dota night at Meltdown by Alper Çuğun, on Flickr")
+[![Dota night at Meltdown](16544389286_480c94066a_z.jpg)](https://www.flickr.com/photos/alper/16544389286 "Dota night at Meltdown by Alper Çuğun, on Flickr")
 
 Yesterday I attended the weekly [Dota2](http://www.dota2.com/) night at [Meltdown esports bar](http://www.meltdown.bar/berlin) for the first time. I'm looking for people who I can play with regularly because going out into solo queue is becoming a bit tedious and unpredictable. There is a small crowd of people there who play 5v5's in a private lobby against the Meltdown London cafe. It's a lot of shouting and mostly fun.
 
@@ -18,4 +18,4 @@ What strikes me when I go to these get togethers is that however different the p
 
 I was also happy to see that the gender balance wasn't as one-sided as I had feared. There's still a long way to go but what I saw at the bar makes me optimistic.
 
-[![The second victorious team](https://farm9.staticflickr.com/8596/16382933560_c0597ed7a3_z.jpg)](https://www.flickr.com/photos/alper/16382933560 "The second victorious team by Alper Çuğun, on Flickr")
+[![The second victorious team](16382933560_c0597ed7a3_z.jpg)](https://www.flickr.com/photos/alper/16382933560 "The second victorious team by Alper Çuğun, on Flickr")

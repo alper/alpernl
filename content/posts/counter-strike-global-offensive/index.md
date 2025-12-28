@@ -9,7 +9,7 @@ aliases:
   - /dingen/2015/02/counter-strike-global-offensive/
 
 ---
-[![GeForce GTX AllStar Tournament](https://farm9.staticflickr.com/8616/15854911054_2c3f74976a_z.jpg)](https://www.flickr.com/photos/alper/15854911054 "GeForce GTX AllStar Tournament by Alper Çuğun, on Flickr")
+[![GeForce GTX AllStar Tournament](15854911054_2c3f74976a_z.jpg)](https://www.flickr.com/photos/alper/15854911054 "GeForce GTX AllStar Tournament by Alper Çuğun, on Flickr")
 
 A couple of weeks ago I was invited to attend a NVIDIA sponsored Counter Strike: Global Offensive tournament in association with [99 damage](http://99damage.de/) at the Berlin [Game Science Center](http://www.gamesciencecenter.de/).
 

@@ -10,7 +10,7 @@ aliases:
 ---
 Via [Oliver](http://www.oliver3.nl/) de [AD-koffietest](http://www.ad.nl/koffietest/) binnengekregen en daarin staat wat elke koffieliefhebber al weet: in Nederland wordt je schandelijk behandeld als koffiedrinker.
 
-[![Crappy Cappuccino](http://farm2.static.flickr.com/1056/1425154235_0b40146de9.jpg)](http://www.flickr.com/photos/alper/1425154235/ "Photo Sharing")
+[![Crappy Cappuccino](1425154235_0b40146de9.jpg)](http://www.flickr.com/photos/alper/1425154235/ "Photo Sharing")
 
 Geen van mijn favorieten bij de test en maar [één plek in Delft](http://www.ad.nl/koffietest/?plaatsnaam=Delft) geprobeerd, de Sjees, wat op zich al een slechte en gesjeesde plek is om te eten. Niet gek dat de koffie er ook slecht is. Hier even een completer overzicht voor Delft:
 

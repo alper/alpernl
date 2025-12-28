@@ -12,7 +12,7 @@ aliases:
 ---
 Some conversations with [Jaap Stronks](http://www.jaapstronks.nl) for the terminology and the rifts between UX designers I am witnessing more and more on events ( [dConstruct](http://dconstruct.org), [The Web and Beyond](http://thewebandbeyond.nl)) sparked this model below.
 
-[![UX Triangle](http://farm2.static.flickr.com/1077/4726914407_b42d268f71.jpg)](http://www.flickr.com/photos/alper/4726914407/ "UX Triangle by illustir, on Flickr")
+[![UX Triangle](4726914407_b42d268f71.jpg)](http://www.flickr.com/photos/alper/4726914407/ "UX Triangle by illustir, on Flickr")
 
 The **Guerilla UX** tries to do the most damage with a minimal amount of resources. They either work in a small web shop in an UX role for clients without any budget or in a larger company that doesn't recognize UX as a field to allocate proper resources to. The guerilla UX person may be stuck in a related role, or may have to take heroic measures to secure funding and room to get any UX work done and implemented.
 The upcoming book [Undercover UX](http://twitter.com/undercoverux) seems to exemplify this style.

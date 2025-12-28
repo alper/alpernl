@@ -12,13 +12,13 @@ Lamineren is gek genoeg niet het werkwoord voor laminaat leggen. Vandaag wat uur
 
 Plank erin leggen, aanschuiven, tikken, klaar, volgende.
 
-[![Floor](http://farm3.static.flickr.com/2300/1777079487_866050976a.jpg)](http://www.flickr.com/photos/alper/1777079487/ "Photo Sharing")
+[![Floor](1777079487_866050976a.jpg)](http://www.flickr.com/photos/alper/1777079487/ "Photo Sharing")
 
 Morgen de rest en af. Dan nog wat plastic op de grond in de keuken en de randjes afwerken en ik kan erin. Vanavond ben ik al begonnen met verhuisdozen [^2] te vullen met boeken. Ik heb veel boeken.
 
 **Update:** Het laminaat is af en het is geweldig! En het is heerlijk glad, fijn capoeira op spelen [^3] en rondglijden.
 
-[![Floor](http://farm3.static.flickr.com/2289/1793092857_cfbdcbab0f.jpg)](http://www.flickr.com/photos/alper/1793092857/ "Photo Sharing")
+[![Floor](1793092857_cfbdcbab0f.jpg)](http://www.flickr.com/photos/alper/1793092857/ "Photo Sharing")
 
 [^1]: Ik heb ontzettend scheve muren.
 [^2]: Absurd stevige dingen die mijn moeder had meegenomen

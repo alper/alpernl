@@ -13,7 +13,7 @@ aliases:
 ---
 Een tijdje geleden had ik een site gezien met de [Lavazza 2008 kalender](http://www.lavazza2008.com/) “The Most Majestic”erop met exuberante koninklijke dames die Lavazza espresso drinken geschoten door [Finlay Mackay](http://www.finlaymackay.com/) [^1] [^2].
 
-[![Lavazza](http://farm3.static.flickr.com/2223/2196382230_9c48231a6f.jpg)](http://www.flickr.com/photos/alper/2196382230/ "Lavazza by illustir, on Flickr")
+[![Lavazza](2196382230_9c48231a6f.jpg)](http://www.flickr.com/photos/alper/2196382230/ "Lavazza by illustir, on Flickr")
 
 Op de terugweg uit Berlijn aten Tijs en ik in een Rasthof ergens voor Hannover en namen na het eten [^3] een dubbele espresso [^4] aan de Lavazzabar [^5]. Op de balie stond deze kalender en toen ik hem opmerkte kregen [Tijs](http://tijs.org) en ik allebei er eentje van de koffiedame.
 

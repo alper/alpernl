@@ -13,21 +13,21 @@ aliases:
 ---
 Two week notes in one because last week seems to have been too busy to write any.
 
-[![Rushing through the snow towards Amsterdam](http://farm9.staticflickr.com/8233/8552432673_d375951613_z.jpg)](http://www.flickr.com/photos/alper/8552432673/ "Rushing through the snow towards Amsterdam by illustir, on Flickr")
+[![Rushing through the snow towards Amsterdam](8552432673_d375951613_z.jpg)](http://www.flickr.com/photos/alper/8552432673/ "Rushing through the snow towards Amsterdam by illustir, on Flickr")
 
 Week 313 was spent in the Netherlands with a somewhat hectic visit. I spent a lot of time at the Hubbub studio and at the Open Coop.
 
-[![Today's office](http://farm9.staticflickr.com/8086/8557842180_b73b4d0c07_z.jpg)](http://www.flickr.com/photos/alper/8557842180/ "Today's office by illustir, on Flickr")
+[![Today's office](8557842180_b73b4d0c07_z.jpg)](http://www.flickr.com/photos/alper/8557842180/ "Today's office by illustir, on Flickr")
 
 And of course the inevitable five (!) visits to [the Village](http://www.thevillagecoffee.nl/) who were serving only [Coffee Collective](http://www.coffeecollective.dk/) coffees when I was there:
 
-[![Four Coffee Collective filters, too much choice to go around. Nothing in Berlin can touch this.](http://farm9.staticflickr.com/8389/8553469437_2d38f04c91_z.jpg)](http://www.flickr.com/photos/alper/8553469437/ "Four Coffee Collective filters, too much choice to go around. Nothing in Berlin can touch this. by illustir, on Flickr")[![Today's office](http://farm9.staticflickr.com/8516/8553573317_dd6bc2d3ec_z.jpg)](http://www.flickr.com/photos/alper/8553573317/ "Today's office by illustir, on Flickr")
+[![Four Coffee Collective filters, too much choice to go around. Nothing in Berlin can touch this.](8553469437_2d38f04c91_z.jpg)](http://www.flickr.com/photos/alper/8553469437/ "Four Coffee Collective filters, too much choice to go around. Nothing in Berlin can touch this. by illustir, on Flickr")[![Today's office](8553573317_dd6bc2d3ec_z.jpg)](http://www.flickr.com/photos/alper/8553573317/ "Today's office by illustir, on Flickr")
 
 And that Friday was [Free Bassel Day](http://freebassel.org/events/2013/03/15/free-bassel-day-event/) in remembrance of our friend who is still imprisoned in a Syrian prison:
-[![#freebassel ing my friend's workplaces](http://farm9.staticflickr.com/8105/8557054409_40037e5050_z.jpg)](http://www.flickr.com/photos/alper/8557054409/ "#freebassel ing my friend's workplaces by illustir, on Flickr")
+[![#freebassel ing my friend's workplaces](8557054409_40037e5050_z.jpg)](http://www.flickr.com/photos/alper/8557054409/ "#freebassel ing my friend's workplaces by illustir, on Flickr")
 
 And then it was an ICE back to Berlin already:
-[![Got the sweet upgrade because NS messed up the direct connection](http://farm9.staticflickr.com/8373/8561611225_333bcc71eb_z.jpg)](http://www.flickr.com/photos/alper/8561611225/ "Got the sweet upgrade because NS messed up the direct connection by illustir, on Flickr")
+[![Got the sweet upgrade because NS messed up the direct connection](8561611225_333bcc71eb_z.jpg)](http://www.flickr.com/photos/alper/8561611225/ "Got the sweet upgrade because NS messed up the direct connection by illustir, on Flickr")
 
 I did manage to get some good writing in those two weeks. First one piece about why levying a tax on data is not a bad idea at all: [Taxing data is not crazy](/dingen/2013/03/taxing-data-is-not-crazy/). And the week after that about Jaron Lanier who is a crazy person with some interesting ideas: [Who owns the future?](/dingen/2013/03/who-owns-the-future/)
 

@@ -15,7 +15,7 @@ These days with Amsterdam revving up again for the PICNIC cross media week you g
 
 I encourage you all to register on PICNIC even if you do not plan to attend the conference (and friend [me](http://www.picnicnetwork.org/person/8276/en)!). The PICNIC network website is built by Mediamatic on the latest version of anyMeta that implements the Open-CI standard for social networking. Open-CI is a standard tat enables social networks to work together, share connections and content and exchange real-time updates.
 
-[![Cross Site Friend Adding](http://farm4.static.flickr.com/3258/2827831832_674f06d2ea_m.jpg)](http://www.flickr.com/photos/alper/2827831832/ "Cross Site Friend Adding by illustir, on Flickr")_Sequence diagram for adding friends across sites_
+[![Cross Site Friend Adding](2827831832_674f06d2ea_m.jpg)](http://www.flickr.com/photos/alper/2827831832/ "Cross Site Friend Adding by illustir, on Flickr")_Sequence diagram for adding friends across sites_
 
 Since last spring, when [we got together](http://fourstarters.com/2007/12/10/federating-social-networks-review/) to talk about these issues, Mediamatic has been building Open-CI to make their social networks talk together because they were running into the same duplication and user tedium problems as the rest of the social networking world.
 
@@ -24,4 +24,4 @@ Their development team with the addition of [XMPP-Ralph](http://ralphm.net/) has
 I've been working with them to write [a white paper with an overview](http://www.mediamatic.net/page/51263/en) and explanation of the benefits of such a system and [Willem recently gave an interview](http://www.picnicnetwork.org/page/24548/en) talking about the high level benefits of Open-CI.
 
 **Update:** And it is done. You can now use your account on PICNIC to login to Mediamatic.net (and vice versa) and once logged in you can do everything you want on the site. See the screenshot:
-[![Mediamatic - Cross site log in](http://farm4.static.flickr.com/3015/2862317199_3c57e772f0_m.jpg)](http://www.flickr.com/photos/alper/2862317199/ "Mediamatic - Cross site log in by illustir, on Flickr")
+[![Mediamatic - Cross site log in](2862317199_3c57e772f0_m.jpg)](http://www.flickr.com/photos/alper/2862317199/ "Mediamatic - Cross site log in by illustir, on Flickr")

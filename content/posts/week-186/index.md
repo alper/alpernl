@@ -13,13 +13,13 @@ aliases:
 ---
 A short week returning from Copenhagen on Monday evening.
 
-[![Bicylces](http://farm5.static.flickr.com/4088/5053538571_e1f287dd33.jpg)](http://www.flickr.com/photos/alper/5053538571/ "Bicylces by illustir, on Flickr")
+[![Bicylces](5053538571_e1f287dd33.jpg)](http://www.flickr.com/photos/alper/5053538571/ "Bicylces by illustir, on Flickr")
 
 Visited [Booreiland](http://booreiland.nl) on Tuesday to discuss collaboration on project culiacán.
 
 Did some stuff on Urbanode and got my shots for my [trip to Damascus](http://twitter.com/#!/alper/status/27032992115).
 
-Tuesday night the monthly ARCAM lecture was given by Jurriaan van Stigt, write up: [Jurriaan van Stigt ARCAM lecture — “Solving these things in a simple and right way is fun. It is our work.”](/dingen/2010/10/jurriaan-van-stigt-arcam-lecture/) [![Jurriaan van Stigt](http://farm5.static.flickr.com/4111/5056922100_b4a5558750.jpg)](http://www.flickr.com/photos/alper/5056922100/ "Jurriaan van Stigt by illustir, on Flickr")
+Tuesday night the monthly ARCAM lecture was given by Jurriaan van Stigt, write up: [Jurriaan van Stigt ARCAM lecture — “Solving these things in a simple and right way is fun. It is our work.”](/dingen/2010/10/jurriaan-van-stigt-arcam-lecture/) [![Jurriaan van Stigt](5056922100_b4a5558750.jpg)](http://www.flickr.com/photos/alper/5056922100/ "Jurriaan van Stigt by illustir, on Flickr")
 
 Wednesday and most of the rest of the week were spent drafting my [presentation for the Club of Amsterdam](http://monsterswell.com/blog/2010/09/speaking-at-the-club-of-amsterdam/).
 

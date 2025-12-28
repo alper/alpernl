@@ -13,7 +13,7 @@ aliases:
 ---
 This was the week that Kars returned from his honeymoon on Bali. And all for the better as well, because I had worked through most of our stack —we didn't have any running projects at the time— and I was getting so annoyed by [Dopplr's](http://www.dopplr.com/) performance that I was about to write a clean implementation of its trip model to store my upcoming travels in.
 
-[![Autofreies Kreuzberg über die Manteuffelstrasse](http://farm8.staticflickr.com/7310/9076313037_4ec87e899b_z.jpg)](http://www.flickr.com/photos/alper/9076313037/ "Autofreies Kreuzberg über die Manteuffelstrasse by illustir, on Flickr")
+[![Autofreies Kreuzberg über die Manteuffelstrasse](9076313037_4ec87e899b_z.jpg)](http://www.flickr.com/photos/alper/9076313037/ "Autofreies Kreuzberg über die Manteuffelstrasse by illustir, on Flickr")
 
 That week I also attended a meetup by Autofreies Kreuzberg and [wrote that up](/dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/). One additional note that I want to place is that Oranienstraße is a total traffic clusterfuck and I am amazed that nobody is fixing that. There is a clear political majority in Kreuzberg, the shopkeepers could use more space and removing the cars would improve the quality of life for everybody. Why not just do it then [^1]?
 
@@ -21,11 +21,11 @@ That week I also attended a meetup by Autofreies Kreuzberg and [wrote that up](/
 
 I drove to [MLOVE](http://www.mloveconfestival.com/) that week to present in our Dutch Quantified Self block. The block turned into a party of the sort Dutch people are good at and the Q&A session afterwards was one of the best I've either seen or given. The sharpness of the audience also had a lot to do with it. The questions were sharp, fast and on point like you rarely see at events.
 
-[![MLOVE](http://farm8.staticflickr.com/7389/9085575333_7c2900683d_z.jpg)](http://www.flickr.com/photos/alper/9085575333/ "MLOVE by illustir, on Flickr")
+[![MLOVE](9085575333_7c2900683d_z.jpg)](http://www.flickr.com/photos/alper/9085575333/ "MLOVE by illustir, on Flickr")
 
 I drove back the next day and by some fluke where I lost half an hour in Halle [^2] I got stuck behind massive car crash on the highway with three hours of barely moving cars to the next exit towards Dessau. It took the radio at least two hours to figure out that there had been a major car crash on this bit of road which I found stunning. After I finally got out of the traffic jam where there were several more Eastern European trucks simply broken down on the road blocking even more traffic. And finally I got trapped in a major summer storm with heavy thunder and rain. It got to the point several times where I barely could see the marking on the road so I decided to stop two times and wait out the rain instead of trying my luck with the rental car [^3]. All in all a trip that should have taken me two and a half hours, took me over ten and this experience of pure time-wasting ruined driving for me altogether.
 
-[![View](http://farm3.staticflickr.com/2840/9096601240_2be9222748_z.jpg)](http://www.flickr.com/photos/alper/9096601240/ "View by illustir, on Flickr")
+[![View](9096601240_2be9222748_z.jpg)](http://www.flickr.com/photos/alper/9096601240/ "View by illustir, on Flickr")
 
 The fabled German Autobahn proved to be a disappointment as well. It has been a fiction for me anyway. The last time I've ever actually driven 180 for a stretch is probably six years ago. The rest of the time there are either too many cars to drive really fast or they are busy doing constructions works. The actual bits where you are allowed to go infinite speed are also being chipped away at bit by bit [^4] so at some point this may become a thing of the past.
 

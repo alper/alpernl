@@ -16,7 +16,7 @@ A busy and monotonous week with deadlines for many long running projects.
 
 2\. Worked the entire week for _maguro_ which is going into a pilot run as I am typing this.
 
-[![Hackers tilt-shift](http://farm6.static.flickr.com/5092/5519113247_c8e7b60918.jpg)](http://www.flickr.com/photos/alper/5519113247/ "Hackers tilt-shift by illustir, on Flickr")
+[![Hackers tilt-shift](5519113247_c8e7b60918.jpg)](http://www.flickr.com/photos/alper/5519113247/ "Hackers tilt-shift by illustir, on Flickr")
 
 3\. _Acapulco_ saw an initial release but needs a bit more touching up.
 
@@ -28,4 +28,4 @@ A busy and monotonous week with deadlines for many long running projects.
 
 I visited the [Virtueel Platform](http://virtueelplatform.nl/) book presentation and the [Big Brother Awards](https://www.bigbrotherawards.nl/) on Wednesday. Both e-culture and privacy in the narrow sense remain difficult but relevant concepts for me.
 
-[![Thomas van Luyn kicking off the Big Brother Awards](http://farm6.static.flickr.com/5300/5512937856_8438cdde14.jpg)](http://www.flickr.com/photos/alper/5512937856/ "Thomas van Luyn kicking off the Big Brother Awards by illustir, on Flickr")
+[![Thomas van Luyn kicking off the Big Brother Awards](5512937856_8438cdde14.jpg)](http://www.flickr.com/photos/alper/5512937856/ "Thomas van Luyn kicking off the Big Brother Awards by illustir, on Flickr")

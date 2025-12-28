@@ -19,7 +19,7 @@ I did a hands on workshop of a small datavisualization project I did this week a
 [Geografische Datavisualisatie](http://www.vimeo.com/1167786?pg=embed&sec=1167786) from [Alper Çugun](http://www.vimeo.com/illustir?pg=embed&sec=1167786) on [Vimeo](http://vimeo.com?pg=embed&sec=1167786).
 
 And the result:
-[![Public Transportation Travel Times](http://farm4.static.flickr.com/3164/2573488118_759b6c0a3a.jpg)](http://www.flickr.com/photos/alper/2573488118/ "Public Transportation Travel Times by illustir, on Flickr")
+[![Public Transportation Travel Times](2573488118_759b6c0a3a.jpg)](http://www.flickr.com/photos/alper/2573488118/ "Public Transportation Travel Times by illustir, on Flickr")
 
 I did not make a keynote instead opting to the more hands on presentation of narrated browser tabs interspersed with live demoes and code samples.
 

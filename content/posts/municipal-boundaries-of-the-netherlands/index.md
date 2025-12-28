@@ -114,7 +114,7 @@ This is a simple list of coordinates that define the boundaries of the polygons.
 
 With these coordinates, it became quite easy to write a Processing sketch to draw these boundaries. I looked up a datasource for the last European elections and hooked that up for the colors.
 
-[![Results of the 2009 elections for European Parliament](http://farm5.static.flickr.com/4047/4388299738_edc0cd2922_m.jpg)](http://www.flickr.com/photos/alper/4388299738/ "Results of the 2009 elections for European Parliament by illustir, on Flickr")
+[![Results of the 2009 elections for European Parliament](4388299738_edc0cd2922_m.jpg)](http://www.flickr.com/photos/alper/4388299738/ "Results of the 2009 elections for European Parliament by illustir, on Flickr")
 
 Making iterative sketches in Processing with Eclipse is somewhat cumbersome because you need to utilize quite a high level of abstraction if you don't want your classes to interfere with each other but still Eclipse allows me to work quickly and lets you write Java 1.5 level code against the Processing core.jar (that alone is worth the effort).
 
@@ -123,7 +123,7 @@ I'm going to release a generic Processing sketch where you only need to add a da
 **Update:** Some research shows there's a very promising avenue to do this stuff by converting the entire Shapefile to GeoJSON as explained in [this StackOverflow post](http://stackoverflow.com/questions/2223979/convert-a-shapefile-shp-to-xml-json) and then drawing thath using either ProcessingJS or [OpenLayers](http://openlayers.org/).
 
 **Update:** Managed to convert the data to [GeoJSON](http://www.geojson.org/) and draw it using [ProcessingJS](http://processingjs.org/):
-[![Processing the Netherlands](http://farm3.static.flickr.com/2707/4417261722_6b6f994d1e_m.jpg)](http://www.flickr.com/photos/alper/4417261722/ "Processing the Netherlands by illustir, on Flickr")
+[![Processing the Netherlands](4417261722_6b6f994d1e_m.jpg)](http://www.flickr.com/photos/alper/4417261722/ "Processing the Netherlands by illustir, on Flickr")
 
 This opens up a ton of possibilities for interactive visualization and sharing. More to follow.
 

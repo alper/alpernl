@@ -33,14 +33,14 @@ Wednesday was spent working in Utrecht and I got featured in an interview where 
 Thursday my profile got [featured on The Next Speaker](http://thenextspeaker.com/nl/experts/alper-cugun/) where you can now hire me to present at your event.
 
 Amsterdam is also increasingly getting more machine readable:
-[![Machine readable Amsterdam](http://farm7.static.flickr.com/6067/6127028569_a59013ca3c_m.jpg)](http://www.flickr.com/photos/alper/6127028569/ "Machine readable Amsterdam by illustir, on Flickr")
+[![Machine readable Amsterdam](6127028569_a59013ca3c_m.jpg)](http://www.flickr.com/photos/alper/6127028569/ "Machine readable Amsterdam by illustir, on Flickr")
 
 We are also very glad with [the funding of Venus Patrol](http://www.kickstarter.com/projects/774616737/venus-patrol-charting-a-new-course-for-videogame-c) a publication that we hope can shed a new light on the relation of games and culture.
 
 I was present at the launch of a new Dutch Literature Magazine: [Das Magazin](http://dasmagazin.nl/) (yes, German name…).
 
-[![Toine launching das Magazin by talking about slurred hubris](http://farm7.static.flickr.com/6186/6127757430_56ceaff3cb_m.jpg)](http://www.flickr.com/photos/alper/6127757430/ "Toine launching das Magazin by talking about slurred hubris by illustir, on Flickr")
+[![Toine launching das Magazin by talking about slurred hubris](6127757430_56ceaff3cb_m.jpg)](http://www.flickr.com/photos/alper/6127757430/ "Toine launching das Magazin by talking about slurred hubris by illustir, on Flickr")
 
 Friday after breakfast with [Dirk van Oosterbosch](http://www.ixopusada.com/dirk/) en [Alexander Zeh](http://www.alexanderzeh.me/), I helped out with painting the [Open Cooperatie](http://www.opencooperatie.nl/).
 
-[![Open](http://farm7.static.flickr.com/6197/6130213310_39f893175c_m.jpg)](http://www.flickr.com/photos/alper/6130213310/ "Open by illustir, on Flickr")
+[![Open](6130213310_39f893175c_m.jpg)](http://www.flickr.com/photos/alper/6130213310/ "Open by illustir, on Flickr")

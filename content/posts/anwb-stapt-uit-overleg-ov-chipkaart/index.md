@@ -28,7 +28,7 @@ Tot mijn verbazing hoorde ik op [PICNIC](http://picnicnetwork.org) meermalen bui
 
 Één iemand was blij verbaasd over het feit dat we hier wegwerp RFID-kaartjes hadden. Deze:
 
-[![1 Hour OV Chipcard](http://farm4.static.flickr.com/3481/3697137687_bdab255069.jpg)](http://www.flickr.com/photos/alper/3697137687/ "1 Hour OV Chipcard by illustir, on Flickr")
+[![1 Hour OV Chipcard](3697137687_bdab255069.jpg)](http://www.flickr.com/photos/alper/3697137687/ "1 Hour OV Chipcard by illustir, on Flickr")
 
 Een ander voerde de ov-chipkaart aan als een voorbeeld van de poldercultuur toegepast op ontwerp. Iets wat ofwel pertinent onwaar is ofwel compleet onwenselijk als we kijken naar het eindresultaat.
 

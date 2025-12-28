@@ -16,7 +16,7 @@ The rest of the week was spent preparing the presentation for [NEXT Berlin](http
 
 After that it was time to unwind and meet a lot of nice people and go for a nice dinner.
 
-[![Even moahr meat!?!?](http://farm8.staticflickr.com/7081/7166375040_82e5fef7d7.jpg)](http://www.flickr.com/photos/alper/7166375040/ "Even moahr meat!?!? by illustir, on Flickr")
+[![Even moahr meat!?!?](7166375040_82e5fef7d7.jpg)](http://www.flickr.com/photos/alper/7166375040/ "Even moahr meat!?!? by illustir, on Flickr")
 
 > RT @ [Bopuc](https://twitter.com/Bopuc): OH: "my girlfriend learned to code Ruby... She was jealous of my lifestyle." @ [alper](https://twitter.com/alper)
 >
@@ -24,4 +24,4 @@ After that it was time to unwind and meet a lot of nice people and go for a nice
 
 Next came the recovery part of the week. Also Iskander Smit wrote [a nice recap of NEXT](http://labs.info.nl/2012/05/next-berlin-post-digital-enter-the-masses/).
 
-[![The fuck is this…](http://farm8.staticflickr.com/7090/7171095932_64cdcce5b3.jpg)](http://www.flickr.com/photos/alper/7171095932/ "The fuck is this… by illustir, on Flickr")
+[![The fuck is this…](7171095932_64cdcce5b3.jpg)](http://www.flickr.com/photos/alper/7171095932/ "The fuck is this… by illustir, on Flickr")

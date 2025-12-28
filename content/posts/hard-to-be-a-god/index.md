@@ -14,12 +14,12 @@ Wednesday I went to a performance by a Hungarian theater group showing [“Hard 
 I brought my bike with me to Rotterdam because I figured it was only slightly cheaper to store my bike at central station and get an [OV-fiets](http://www.ov-fiets.nl), while having my orange fixie with me in Rotterdam would be a lot more fun.
 
 It's always a pleasure to take the Maastunnel to the South part of town:
-[![Wood Escalator](http://farm5.static.flickr.com/4086/5015637337_3352a029f7.jpg)](http://www.flickr.com/photos/alper/5015637337/ "Wood Escalator by illustir, on Flickr")
+[![Wood Escalator](5015637337_3352a029f7.jpg)](http://www.flickr.com/photos/alper/5015637337/ "Wood Escalator by illustir, on Flickr")
 
 And I seemed to have grossly misjudged the time it would take to bike out to the venue so I had to blast full speed for fifteen minutes to make it in the nick of time. Glad I brought my race bike at that moment.
 
 The venue is the same of the [Onderzeebootloods](http://www.onderzeebootloods.nl/), our new Dutch gallery hall which I'd still planned to visit, but which seems to close its current exhibition tomorrow. Pro-tip: tomorrow is also the yearly testing of the [Maeslantkering](http://en.wikipedia.org/wiki/Maeslantkering), so you should be able to see both if you're headed that way (which I'm not).
-[![Magazijn Marine](http://farm5.static.flickr.com/4129/5015602005_d973622921.jpg)](http://www.flickr.com/photos/alper/5015602005/ "Magazijn Marine by illustir, on Flickr")
+[![Magazijn Marine](5015602005_d973622921.jpg)](http://www.flickr.com/photos/alper/5015602005/ "Magazijn Marine by illustir, on Flickr")
 
 The play was great. Hyperrealistic: no. Shocking: only slightly (anybody with a modicum of exposure to the internet has seen much much viler stuff). Touching: yes after a while. Our performance was heckled by some senile old bastard who did seem to think it was shocking. Interesting use of a second stage and video transmission as a way to mediate the action to the audience.
 

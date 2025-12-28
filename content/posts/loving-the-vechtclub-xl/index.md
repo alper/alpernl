@@ -13,11 +13,11 @@ aliases:
 ---
 A couple of weeks ago by now I finally got to visit our new office in the [Vechtclub XL](http://www.vechtclubxl.nl/) building in Utrecht. This turned out to be a great experience.
 
-[![Office](https://farm4.staticflickr.com/3834/13556131083_61c168aab0_z.jpg)](https://www.flickr.com/photos/alper/13556131083 "Office by Alper Çuğun, on Flickr")
+[![Office](13556131083_61c168aab0_z.jpg)](https://www.flickr.com/photos/alper/13556131083 "Office by Alper Çuğun, on Flickr")
 
 One of the best aspects of the ‘club’ is that it offers an alternative to Utrecht's terribly cramped and overpriced city center. Everybody wants to live and work in the Utrecht within the ‘singels’ but that privilege costs a lot of money and doesn't give you a lot of quality of life. Only if you manage to strike a suitable property deal with the city you can [do whatever the fuck you want](http://www.hoogcatharijne.nl/).
 
-[![Canteen](https://farm3.staticflickr.com/2825/13609262845_7c72cf7885_z.jpg)](https://www.flickr.com/photos/alper/13609262845 "Canteen by Alper Çuğun, on Flickr")
+[![Canteen](13609262845_7c72cf7885_z.jpg)](https://www.flickr.com/photos/alper/13609262845 "Canteen by Alper Çuğun, on Flickr")
 
 The Vechtclub XL is a fifteen minutes bike ride out of the city on a derelict business park, [about here](https://www.google.com/maps/place/Europalaan+2/@52.0753867,5.1058751,17z/data=!3m1!4b1!4m2!3m1!1s0x47c6658b58bc23a3:0xc46b1385a1af4c5f). There's nearly nothing nearby which means the building needs to be self-sustaining. That necessity is actually causing that to happen. They are setting up a fully functional cafetaria with world class coffee and more facilities. Being there right now is not terrible. People make do with whatever they have already brought in and there are upsides such as somebody training for a barista championship, lunch being brought in once a week and other events being organized.
 

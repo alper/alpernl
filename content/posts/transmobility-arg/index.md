@@ -19,15 +19,15 @@ My first block was at the key locker where after holding your OV-chipcard to the
 
 I had forgotten my PIN, so an alternative option was provided to call a number where with an automated response after entering my OV-fiets code I was read out my PIN. Having obtained the PIN, I could then get a key (video of the reverse process of returning a key to the automated locker below).
 
-[![photo.JPG](http://farm6.static.flickr.com/5173/5451456998_10534b38df.jpg)](http://www.flickr.com/photos/alper/5451456998/ "photo.JPG by illustir, on Flickr")
+[![photo.JPG](5451456998_10534b38df.jpg)](http://www.flickr.com/photos/alper/5451456998/ "photo.JPG by illustir, on Flickr")
 
 After that the next step was getting through the dual human/bicycle gate. The bike has the be placed with its wheels in the cranny.
 
-[![Dual Gate](http://farm5.static.flickr.com/4098/5451457764_34eb7c7b08.jpg)](http://www.flickr.com/photos/alper/5451457764/ "Dual Gate by illustir, on Flickr")
+[![Dual Gate](5451457764_34eb7c7b08.jpg)](http://www.flickr.com/photos/alper/5451457764/ "Dual Gate by illustir, on Flickr")
 
 The RFID key chain has an automatic extension cord so you can touch it to the RFID point on this terminal. This terminal doubles as a payment point for people who store their own bikes in this storage area.
 
-[![Access Point](http://farm6.static.flickr.com/5180/5451475832_5ddd1acac5.jpg)](http://www.flickr.com/photos/alper/5451475832/ "Access Point by illustir, on Flickr")
+[![Access Point](5451475832_5ddd1acac5.jpg)](http://www.flickr.com/photos/alper/5451475832/ "Access Point by illustir, on Flickr")
 
 Then returning a similar procedure enables you to put your key back in the locker and nicely also indicate whether the bicycle is still in good order or not after which the locker flashes red and closes.
 

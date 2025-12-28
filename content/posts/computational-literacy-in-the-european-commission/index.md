@@ -11,7 +11,7 @@ aliases:
 
 ---
 A couple of days ago I got an answer on behalf of Ms. Neelie Kroes with regards to my inquiry about computational literacy (which I asked during [her visit to Berlin during re:publica](/dingen/2012/05/week-268-presenting-on-transit-and-work-talking-with-neelie-kroes/)):
-[![Letter to Mr Cugun](http://farm8.staticflickr.com/7259/7486852698_8ee8f02999_b.jpg)](http://www.flickr.com/photos/alper/7486852698/ "Letter to Mr Cugun by illustir, on Flickr")
+[![Letter to Mr Cugun](7486852698_8ee8f02999_b.jpg)](http://www.flickr.com/photos/alper/7486852698/ "Letter to Mr Cugun by illustir, on Flickr")
 
 OCR'd it says:
 

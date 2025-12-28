@@ -11,7 +11,7 @@ aliases:
 
 ---
 Een overzicht van de uitslagen van de Europese Verkiezingen 2009 per gemeente:
-[![Results of the 2009 elections for European Parliament](http://farm5.static.flickr.com/4047/4388299738_edc0cd2922.jpg)](http://www.flickr.com/photos/alper/4388299738/ "Results of the 2009 elections for European Parliament by illustir, on Flickr")
+[![Results of the 2009 elections for European Parliament](4388299738_edc0cd2922.jpg)](http://www.flickr.com/photos/alper/4388299738/ "Results of the 2009 elections for European Parliament by illustir, on Flickr")
 
 Een uitleg hoe ik deze kaart gemaakt heb volgt binnenkort.
 

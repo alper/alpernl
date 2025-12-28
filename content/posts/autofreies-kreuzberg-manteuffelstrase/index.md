@@ -16,7 +16,7 @@ I'm not an inhabitant of the area, but I like to sit at [Görlitzer Bahnhof cafe
 
 I found out recently that there is an initiative underway to close that street off for traffic which would solve the problem of passing traffic going to Köpenicker Straße passing through and also the double parked cars that are endemic in Kreuzberg [^1].
 
-[![Autofreies Kreuzberg über die Manteuffelstrasse](http://farm8.staticflickr.com/7310/9076313037_4ec87e899b_z.jpg)](http://www.flickr.com/photos/alper/9076313037/ "Autofreies Kreuzberg über die Manteuffelstrasse by illustir, on Flickr")
+[![Autofreies Kreuzberg über die Manteuffelstrasse](9076313037_4ec87e899b_z.jpg)](http://www.flickr.com/photos/alper/9076313037/ "Autofreies Kreuzberg über die Manteuffelstrasse by illustir, on Flickr")
 
 In brief: at the meeting [die Grünen](http://www.gruene-xhain.de/startseite.html) were well represented and the fact that they are well represented in local politics makes this initiative almost a certainty. It will need to go through channels which means this probably won't happen this year, but it probably will happen.
 

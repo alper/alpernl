@@ -12,7 +12,7 @@ aliases:
 ---
 Donderdag de hele dag op pad geweest met ‘The Mexican’, [Reinier](http://reinier.zwitserloot.com)'s Mexicaans-Amerikaanse Volkswagen Golf automaat. Ik rij geen auto, maar de skills moeten onderhouden en een _road trip_ op zijn tijd is natuurlijk altijd vet.
 
-[![The Mexican](http://farm4.static.flickr.com/3276/2355255614_c6946cde28.jpg)](http://www.flickr.com/photos/alper/2355255614/ "The Mexican by illustir, on Flickr")
+[![The Mexican](2355255614_c6946cde28.jpg)](http://www.flickr.com/photos/alper/2355255614/ "The Mexican by illustir, on Flickr")
 
 's Ochtends naar Wageningen heen en weer met voor en na Utrecht wat stukjes file. Met een automaat filerijden valt nog wel mee, maar als je dat elke dag moet meemaken… Ik zou er simpel van worden. De hele tijd je aandacht erbij houden en daarna nog op je werk aankomen? Mijn aandacht is beperkt en één van de waardevolste dingen die ik heb in te zetten. Uren per dag letten op een monotone en oninteressante weg, is geen efficient gebruik.
 

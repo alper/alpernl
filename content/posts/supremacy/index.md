@@ -14,7 +14,7 @@ I went to the penultimate day of the [Matisse to Malevich exposition](http://www
 
 Stunning works by Matisse, especially his red room:
 
-[![Red Room](http://farm5.static.flickr.com/4110/4995688058_bf78a539a6.jpg)](http://www.flickr.com/photos/alper/4995688058/ "Red Room by illustir, on Flickr")
+[![Red Room](4995688058_bf78a539a6.jpg)](http://www.flickr.com/photos/alper/4995688058/ "Red Room by illustir, on Flickr")
 
 Not much a fan of the inbetweenist fauvist works on display, though most of them looked nice. The various Picassos strewn about were a welcome distraction.
 

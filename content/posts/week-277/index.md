@@ -23,6 +23,6 @@ At last we also are doing internal work at Open State / Hack de Overheid both on
 And not something that we did, but still nice to hear that KiesBeter.nl [has started publishing data](https://twitter.com/ton_zylstra/status/220898350000644096). Ton Zijlstra and I gave a workshop there last year to show them the potential of open data and after the required time to process these things internally, it has happened.
 
 And that Friday it was off to Wartin with a whole bunch of awesome Berlin people on a weekend organized by [the kind people of Third Wave](http://thirdwaveberlin.com/2012/07/week-92/). We had our fill of good conversations, nature and late night werewolf.
-[![Late night werewolf sessions #BerlinFTW](http://farm8.staticflickr.com/7256/7529599904_56661ae5b9.jpg)](http://www.flickr.com/photos/alper/7529599904/ "Late night werewolf sessions #BerlinFTW by illustir, on Flickr")
+[![Late night werewolf sessions #BerlinFTW](7529599904_56661ae5b9.jpg)](http://www.flickr.com/photos/alper/7529599904/ "Late night werewolf sessions #BerlinFTW by illustir, on Flickr")
 
 [^1]: Procuring a new identity of course.

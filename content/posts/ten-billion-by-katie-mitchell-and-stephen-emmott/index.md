@@ -10,7 +10,7 @@ aliases:
 ---
 In the performance [“Ten Billion”](http://www.festival-avignon.com/en/Spectacle/3366) at La Chartreuse de Villeneuve-lès-Avignon Stephen Emmott, a scientist, performed a soliloquy about the state of the world and the environment. He took a message we already have known since the [Club of Rome](http://en.wikipedia.org/wiki/Club_of_Rome) and rehashed that in front of a theater audience over the course of ninety minutes.
 
-[![photo.JPG](http://farm9.staticflickr.com/8141/7640322962_f357085687.jpg)](http://www.flickr.com/photos/alper/7640322962/ "photo.JPG by illustir, on Flickr")
+[![photo.JPG](7640322962_f357085687.jpg)](http://www.flickr.com/photos/alper/7640322962/ "photo.JPG by illustir, on Flickr")
 
 Standing in a reproduction of a contemporary scientist's office, Emmott did a reasonable [Al Gore](http://en.wikipedia.org/wiki/An_Inconvenient_Truth) impersonation. He monotoned a large barrage of numbers supplemented by custom projections with moving graphics and graphs. The entire thing was put together to a high standard but that did not prevent it from devolving into a standard university lecture. Emmott stood there saying mostly: “Look at me. Aren't my numbers big!?”
 

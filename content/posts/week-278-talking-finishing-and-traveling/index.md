@@ -12,7 +12,7 @@ aliases:
 ---
 A busy week after a quiet weekend. Monday evening I attended a preliminary meeting with fellow coaches for the Berlin Python classes. After that I attended the Iron Blogger regular meetup to have beer with my fellow Berlin bloggers. Later that week I also attended the regular [Campus Party](http://www.campus-party.eu/) drinks.
 
-[![Python coaches meetup](http://farm8.staticflickr.com/7275/7536832864_13b69f0466.jpg)](http://www.flickr.com/photos/alper/7536832864/ "Python coaches meetup by illustir, on Flickr")
+[![Python coaches meetup](7536832864_13b69f0466.jpg)](http://www.flickr.com/photos/alper/7536832864/ "Python coaches meetup by illustir, on Flickr")
 
 Also it was announced that we will be presenting in Helsinki on [the Dutch E-Culture Days](http://virtueelplatform.nl/activiteiten/dutcheculturedays) (here's [a summary](http://www.pixelache.ac/helsinki/2012/dutch-e-culture-days/)).
 
@@ -24,8 +24,8 @@ Also [my NEXT Berlin talk recording](http://nextberlin.eu/2012/07/alper-cugun-lo
 
 Friday I put the final touches on Beestenbende (see [these weeknotes over at Hubbub](http://whatsthehubbub.nl/blog/2012/07/week-152/)) and visited some sessions at [the Guggenheim Lab](http://www.bmwguggenheimlab.org/) about real estate politics.
 
-[![Discussing city politics](http://farm9.staticflickr.com/8425/7561660600_483a4a915c.jpg)](http://www.flickr.com/photos/alper/7561660600/ "Discussing city politics by illustir, on Flickr")
+[![Discussing city politics](7561660600_483a4a915c.jpg)](http://www.flickr.com/photos/alper/7561660600/ "Discussing city politics by illustir, on Flickr")
 
 Then the last day of last week it was time to pack up everything and embark on a somewhat long trip. First stop: Ghent.
 
-[![OH HAI Anvers!](http://farm9.staticflickr.com/8433/7575054734_17431606dc.jpg)](http://www.flickr.com/photos/alper/7575054734/ "OH HAI Anvers! by illustir, on Flickr")
+[![OH HAI Anvers!](7575054734_17431606dc.jpg)](http://www.flickr.com/photos/alper/7575054734/ "OH HAI Anvers! by illustir, on Flickr")

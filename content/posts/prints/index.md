@@ -13,7 +13,7 @@ Vorige week al een paar foto's opgestuurd naar de [Fotobister](http://fotobister
 
 Gisteren de rest van mijn selectie ge-upload naar de site en ik kon ze vanmiddag al ophalen [^2]. Daarna de foto's uitgespreid, gesorteerd en gestickered.
 
-[![Prints](http://farm2.static.flickr.com/1137/624579738_adf2c2f1ac.jpg)](http://www.flickr.com/photos/alper/624579738/ "Photo Sharing")
+[![Prints](624579738_adf2c2f1ac.jpg)](http://www.flickr.com/photos/alper/624579738/ "Photo Sharing")
 
 Herken je jezelf op één van de foto's, dan kun je er binnenkort eentje verwachten.
 

@@ -22,6 +22,6 @@ Laatst bij [de Koffiesalon](http://www.dekoffiesalon.nl/) kreeg ik van de jongen
 
 Ik verheug me op mijn eerste bezoek aan Stumptown. Het moet wel goed zijn. Slechter kan in elk geval niet.
 
-**Update:** [![Bar(ista)](http://farm5.static.flickr.com/4054/4589717557_098e6e2671.jpg)](http://www.flickr.com/photos/alper/4589717557/ "Bar(ista) by illustir, on Flickr")
+**Update:** [![Bar(ista)](4589717557_098e6e2671.jpg)](http://www.flickr.com/photos/alper/4589717557/ "Bar(ista) by illustir, on Flickr")
 
 Ik ben er geweest en de koffie is er inderdaad fantastisch. Nu maar hopen dat ze blijven.

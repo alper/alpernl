@@ -12,7 +12,7 @@ aliases:
 ---
 Ik ben sinds een tijdje lid van [D66](http://www.d66.nl) tot redelijke tevredenheid. Maar nu doe ik net de [Stemwijzer](http://www.stemwijzer.nl) voor de gemeente Amsterdam en daar komt het volgende uit:
 
-[![StemWijzer Gemeente Amsterdam](http://farm5.static.flickr.com/4035/4355740957_345a23b493.jpg)](http://www.flickr.com/photos/alper/4355740957/ "StemWijzer Gemeente Amsterdam by illustir, on Flickr")
+[![StemWijzer Gemeente Amsterdam](4355740957_345a23b493.jpg)](http://www.flickr.com/photos/alper/4355740957/ "StemWijzer Gemeente Amsterdam by illustir, on Flickr")
 
 Nu kloppen Stemwijzers nooit helemaal, maar ik heb toch redelijk wat verschillen met D66 in Amsterdam [^1]. Dat boeit me niet heel veel, want ik ben vooral geïnteresseerd in de landelijke politiek maar het heeft toch wel wat toelichting nodig.
 

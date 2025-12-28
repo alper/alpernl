@@ -10,7 +10,7 @@ aliases:
   - /dingen/2012/01/working-theory-regarding-bureaucracy/
 
 ---
-[![German form terror](http://farm8.staticflickr.com/7167/6719904761_3ba1c56336.jpg)](http://www.flickr.com/photos/alper/6719904761/ "German form terror by illustir, on Flickr")
+[![German form terror](6719904761_3ba1c56336.jpg)](http://www.flickr.com/photos/alper/6719904761/ "German form terror by illustir, on Flickr")
 
 I'm revising my working theory for Germany based on experiences from last week and other things that have happened. My old one on [Germany's attitude towards modernity](/dingen/2011/12/working-theory-for-germany/) still holds, but talking with open government activists and my experiences with government here, have prompted the following.
 

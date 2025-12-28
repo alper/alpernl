@@ -8,12 +8,12 @@ aliases:
   - /dingen/2007/05/eindelijk-wifi-in-huis/
 
 ---
-[![](http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg)](http://www.flickr.com/photos/alper/486973408/ "photo sharing")  
+[![](486973408_27d5c89b22.jpg)](http://www.flickr.com/photos/alper/486973408/ "photo sharing")  
 [linksys](http://www.flickr.com/photos/alper/486973408/), originally uploaded by [illustir](http://www.flickr.com/people/alper/).
 
 Sinds ik een Mac heb maak ik gebruik van het bestaande draadnetwerk in huis. Het is een beetje primitief maar met de twee kabels die er zijn kon ik op de meeste plekken wel internetten.
 
-[![Mess of cables](http://farm1.static.flickr.com/223/487004211_69d9698c1c_m.jpg)](http://www.flickr.com/photos/alper/487004211/ "Photo Sharing")
+[![Mess of cables](487004211_69d9698c1c_m.jpg)](http://www.flickr.com/photos/alper/487004211/ "Photo Sharing")
 
 De drang naar WiFi was er wel maar het was nog niet zo makkelijk te realiseren. In de eerste plaats was onze internet router een oude Linux-bak [^1] waar tegelijkertijd de webserver [^2] van [alper.nl](http://alper.nl) op draaide. Dat moest dus blijven draaien. Met [de recente migratie](/blog/alper/830) van alles van alper.nl naar [Dreamhost](http://www.dreamhost.com) is de weg dus vrij gemaakt voor het opheffen van die bak en het installeren van een echte draadloze router.
 

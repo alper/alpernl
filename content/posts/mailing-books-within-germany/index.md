@@ -10,7 +10,7 @@ aliases:
   - /dingen/2013/01/mailing-books-within-germany/
 
 ---
-[![Amazon.com](http://farm4.staticflickr.com/3346/3200604927_5508e9388d.jpg)](http://www.flickr.com/photos/alper/3200604927/ "Amazon.com by illustir, on Flickr")
+[![Amazon.com](3200604927_5508e9388d.jpg)](http://www.flickr.com/photos/alper/3200604927/ "Amazon.com by illustir, on Flickr")
 
 Yesterday I learned that the German mail service has a special rate for mailing books because if you use normal package rates, shipping books becomes prohibitively difficult for more purposes [^1]. So there's a special tariff for the [“Büchersendung”](http://www.deutschepost.de/dpag?xmlFile=link1015117_893) and it is incredibly cheap: €1,00 for a half kilo book or €1,65 to ship a kilogram of paper anywhere you would like within Germany.
 

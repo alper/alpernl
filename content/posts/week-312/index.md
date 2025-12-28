@@ -10,7 +10,7 @@ aliases:
   - /dingen/2013/03/week-312/
 
 ---
-[![The German police state is up and about](http://farm9.staticflickr.com/8371/8527131955_97673a982f_z.jpg)](http://www.flickr.com/photos/alper/8527131955/ "The German police state is up and about by illustir, on Flickr")
+[![The German police state is up and about](8527131955_97673a982f_z.jpg)](http://www.flickr.com/photos/alper/8527131955/ "The German police state is up and about by illustir, on Flickr")
 
 I booked my [trip and accommodation in Paris](http://www.dopplr.com/trip/alper/3428356). I'm quite looking forward to see that city again.
 
@@ -18,7 +18,7 @@ On Tuesday we had a big office lunch along with the people from [Schnelle Bunte 
 
 Wednesday we had our weekly German language class.
 
-[![Language class](http://farm9.staticflickr.com/8511/8533006375_9453255f48_z.jpg)](http://www.flickr.com/photos/alper/8533006375/ "Language class by illustir, on Flickr")
+[![Language class](8533006375_9453255f48_z.jpg)](http://www.flickr.com/photos/alper/8533006375/ "Language class by illustir, on Flickr")
 
 And that night I worked late to finish TORREON. A small project that took up way too much time as all small projects do.
 
@@ -36,4 +36,4 @@ On Friday morning we had a meeting with the breakfast gang. My [blurb for TNW ma
 
 And we closed off the week with a nice game of Citadels.
 
-[![Citadels. Hail to the king!](http://farm9.staticflickr.com/8086/8540487206_a7c12d93f1_z.jpg)](http://www.flickr.com/photos/alper/8540487206/ "Citadels. Hail to the king! by illustir, on Flickr")
+[![Citadels. Hail to the king!](8540487206_a7c12d93f1_z.jpg)](http://www.flickr.com/photos/alper/8540487206/ "Citadels. Hail to the king! by illustir, on Flickr")

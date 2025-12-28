@@ -11,7 +11,7 @@ aliases:
 ---
 Naar aanleiding van [dit artikel in Wired](http://www.wired.com/politics/security/commentary/securitymatters/2008/01/securitymatters_0110) van veiligheids- [goeroe](http://geekz.co.uk/schneierfacts/) [Bruce Schneier](http://www.schneier.com/) heb ik gedaan waar ik al een tijdje over zat te denken. Ik heb mijn draadloos internet thuis open gegooid voor iedereen in de buurt om te gebruiken.
 
-[![](http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg)](http://www.flickr.com/photos/alper/486973408/ "Untitled by illustir, on Flickr")
+[![](486973408_27d5c89b22.jpg)](http://www.flickr.com/photos/alper/486973408/ "Untitled by illustir, on Flickr")
 
 Ik had graag mee willen doen aan [FON](http://www.fon.com/) [^1] maar dat was altijd teveel gezeik om goed in te stellen [^2]. Ideaal zou zijn als routermakers een instelling boden om gastgebruikers op een afgebakend deel van je netwerk een beperkte hoeveelheid bandbreedte te geven, maar daar ga ik niet op zitten wachten.
 

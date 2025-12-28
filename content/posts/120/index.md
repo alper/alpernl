@@ -11,8 +11,8 @@ aliases:
 ---
 I had my [Yashica D](http://www.flickr.com/photos/alper/2226513597/) repaired and also recently acquired [a lightmeter](http://www.flickr.com/photos/alper/3628509161/) to make the process of shooting easier and now I'm slowly but surely shooting stuff with it.
 
-[![Martijn](http://farm3.static.flickr.com/2561/3683329147_405071edb1.jpg)](http://www.flickr.com/photos/alper/3683329147/ "Martijn by illustir, on Flickr")[Mony](http://www.flickr.com/photos/straboh) is helping me out scanner-wise and I must say I'm amazed at the quality, the vibrance and sharpness this ‘old piece of junk’ shoots and this archaic process returns.
+[![Martijn](3683329147_405071edb1.jpg)](http://www.flickr.com/photos/alper/3683329147/ "Martijn by illustir, on Flickr")[Mony](http://www.flickr.com/photos/straboh) is helping me out scanner-wise and I must say I'm amazed at the quality, the vibrance and sharpness this ‘old piece of junk’ shoots and this archaic process returns.
 
-[![Double Chocolate Muffin](http://farm3.static.flickr.com/2595/3679447535_452c7d2e23.jpg)](http://www.flickr.com/photos/alper/3679447535/ "Double Chocolate Muffin by illustir, on Flickr")
+[![Double Chocolate Muffin](3679447535_452c7d2e23.jpg)](http://www.flickr.com/photos/alper/3679447535/ "Double Chocolate Muffin by illustir, on Flickr")
 
 And added to that I'm completely untrained and have hardly any experience with this stuff, so who knows how much improvement is still possible. Here's to film in a digital age.

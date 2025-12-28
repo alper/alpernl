@@ -15,7 +15,7 @@ aliases:
 ---
 Last Monday was the last day in Berlin before the holidays so something of a push here and there to get things to go through. That night we had a [vvvv](http://vvvv.org/) workshop at the studio hosted by Joreg to teach somewhere around eight people the basics of node based graphical environments (the only other one I had used extensively before was [Open DX](http://www.opendx.org/) and of course there's Quartz Composer and [Impure Quadrigram](http://impure.com/)).
 
-[![VVVV workshop. I'm psyched!](http://farm9.staticflickr.com/8071/8282160298_55a1122f0a.jpg)](http://www.flickr.com/photos/alper/8282160298/ "VVVV workshop. I'm psyched! by illustir, on Flickr")
+[![VVVV workshop. I'm psyched!](8282160298_55a1122f0a.jpg)](http://www.flickr.com/photos/alper/8282160298/ "VVVV workshop. I'm psyched! by illustir, on Flickr")
 
 I messed around a bit with it and managed to produce this bit of media art. It is very interesting to have the power of DirectX9 under your fingers without having to program at all, though the whole fact of non-programming feels a bit strange to me.
 \[flickr video=8281500739 secret=e80d6a27c3 w=400 h=225\]
@@ -34,4 +34,4 @@ Thursday was also spent at Hubbub discussing business and getting work done. Tha
 
 On Friday I met Edo van Royen at [Studyflow](http://studyflow.nl/), had lunch with [Peter Robinett](http://www.bubblefoundry.com/), coffee with Justus Bruns, dropped by at my accountant, had a beer with [Thijs Niks](http://thijsniks.tumblr.com/) and then drinks at the Open Coop with Lex and Alexander. Having said that: these visits to the Netherlands always tend to devolve into a flurry of errands that barely leave any time to think. That is going to change for the next one.
 
-[![Carrying four RFIDs with me (down from five) because consolidating their contents is too much work.](http://farm9.staticflickr.com/8212/8299276685_cd9fa3ce88.jpg)](http://www.flickr.com/photos/alper/8299276685/ "Carrying four RFIDs with me (down from five) because consolidating their contents is too much work. by illustir, on Flickr")
+[![Carrying four RFIDs with me (down from five) because consolidating their contents is too much work.](8299276685_cd9fa3ce88.jpg)](http://www.flickr.com/photos/alper/8299276685/ "Carrying four RFIDs with me (down from five) because consolidating their contents is too much work. by illustir, on Flickr")

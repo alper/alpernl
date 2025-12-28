@@ -14,7 +14,7 @@ De test staat boordevol domme en buitengewoon gekleurde vragen waaraan afgemeten
 Verder is de acteur die de test afneemt ontzettend irritant, kneuterig en eigenlijk precies hoe ik me de gemiddelde Nederlandse ICT-adviseur voorstel.
 
 Uiteindelijk kom ik er niet eens achter wat mijn resultaat is omdat de laatste pagina het volgende scherm is:
-[![Digibewust en hypocriet](http://farm2.static.flickr.com/1242/705705076_4f94335cd9.jpg)](http://www.flickr.com/photos/alper/705705076/ "Photo Sharing")
+[![Digibewust en hypocriet](705705076_4f94335cd9.jpg)](http://www.flickr.com/photos/alper/705705076/ "Photo Sharing")
 
 Juist ja, je kunt het rapport alleen maar opgestuurd krijgen en of je even je bedrijfsnaam in wilt vullen nadat je een hele serie bijzonder gevoelige vragen hebt beantwoordt. En je kunt wel kans maken op bezoek van een adviseur van een of ander vaag ICT-bedrijf.
 

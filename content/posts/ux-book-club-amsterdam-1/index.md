@@ -26,13 +26,13 @@ The first event was graciously hosted by [Stijn Nieuwendijk](http://twitter.com/
 The first book [the group chose](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=1795982&discussionID=8863320&goback=.anh_1795982) to read was [“The Back of the Napkin”](http://www.thebackofthenapkin.com/) by Dan Roam about clarifying ideas and solving problems using simple drawing and visual methods.
 
 There was food (though we shouldn't count on this in the future):
-[![Food!](http://farm3.static.flickr.com/2540/4173827743_72e589d738.jpg)](http://www.flickr.com/photos/alper/4173827743/ "Food! by illustir, on Flickr")
+[![Food!](4173827743_72e589d738.jpg)](http://www.flickr.com/photos/alper/4173827743/ "Food! by illustir, on Flickr")
 
 There was discussion:
- [![Book Club Discussion](http://farm5.static.flickr.com/4004/4173828699_c02d56200e.jpg)](http://www.flickr.com/photos/alper/4173828699/ "Book Club Discussion by illustir, on Flickr")
+ [![Book Club Discussion](4173828699_c02d56200e.jpg)](http://www.flickr.com/photos/alper/4173828699/ "Book Club Discussion by illustir, on Flickr")
 
 And there were back of the napkin sketches, this one depicting the UX Book Club process:
-[![UX Book Club Flow](http://farm3.static.flickr.com/2711/4190048268_1f19253837.jpg)](http://www.flickr.com/photos/alper/4190048268/ "UX Book Club Flow by illustir, on Flickr")
+[![UX Book Club Flow](4190048268_1f19253837.jpg)](http://www.flickr.com/photos/alper/4190048268/ "UX Book Club Flow by illustir, on Flickr")
 
 The discussion was too wide spread and far to summarize coherently, but I think I can try a one paragraph version:
 

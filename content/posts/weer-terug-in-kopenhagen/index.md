@@ -10,4 +10,4 @@ aliases:
 ---
 Ik zit tot en met zondag weer in Kopenhagen met oude en nieuwe vrienden op ons aller favoriete conferentie Reboot.
 
-[![Reboot Pre-meet](http://farm1.static.flickr.com/219/522303590_736ad38d95.jpg)](http://www.flickr.com/photos/alper/522303590/ "Photo Sharing")
+[![Reboot Pre-meet](522303590_736ad38d95.jpg)](http://www.flickr.com/photos/alper/522303590/ "Photo Sharing")

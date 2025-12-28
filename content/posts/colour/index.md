@@ -11,7 +11,7 @@ aliases:
   - /dingen/2011/03/colour/
 
 ---
-[![photo.PNG](http://farm6.static.flickr.com/5133/5556255708_578ffc696f.jpg)](http://www.flickr.com/photos/alper/5556255708/ "photo.PNG by illustir, on Flickr")
+[![photo.PNG](5556255708_578ffc696f.jpg)](http://www.flickr.com/photos/alper/5556255708/ "photo.PNG by illustir, on Flickr")
 
 I so wish that the icons in the app made more sense and that the flow between states was clearer, but my wishes really don't matter that much.
 

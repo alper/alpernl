@@ -15,14 +15,14 @@ aliases:
 
 ---
 Monday I did some support and then went off to the UvA to present on data journalism together with [Stef](http://twitter.com/stefvangrieken).
-[![Kijk de datajournalism boys shinen](http://farm6.static.flickr.com/5025/5852418035_3b30476d0c.jpg)](http://www.flickr.com/photos/alper/5852418035/ "Kijk de datajournalism boys shinen by illustir, on Flickr")
+[![Kijk de datajournalism boys shinen](5852418035_3b30476d0c.jpg)](http://www.flickr.com/photos/alper/5852418035/ "Kijk de datajournalism boys shinen by illustir, on Flickr")
 
 Tuesday I was in Utrecht to work on the Code 4 presentation for [CHI Sparks](http://chi-sparks.nl/). Working at the garden again was a very enjoyable experience made more so by the unexpected visit of [Christine](http://twitter.com/x10tje) who's making forays into game design herself.
 
 A lot of the rest of the week was occupied with testing and preparing [Statlas](http://statlas.nl) for a launch this week, which [it did](http://monsterswell.com/blog/2011/06/statlas-beta-release/), so you can [check it out](http://statlas.nl) and read more about that in next week's notes.
 
 Mr. Morozov visited the Netherlands which made for an interesting night out along with a very unexpected meetup with [Babak](https://twitter.com/#!/mastababa) and Ulla.
-[![Evgeny Morozov about the internet and freedom](http://farm6.static.flickr.com/5031/5860429757_1fe68a61a4.jpg)](http://www.flickr.com/photos/alper/5860429757/ "Evgeny Morozov about the internet and freedom by illustir, on Flickr")
+[![Evgeny Morozov about the internet and freedom](5860429757_1fe68a61a4.jpg)](http://www.flickr.com/photos/alper/5860429757/ "Evgeny Morozov about the internet and freedom by illustir, on Flickr")
 
 My takeaway from Evgeny Morozov can be summarized in [this tweet](https://twitter.com/#!/alpercugun/status/83661041015328768):
 

@@ -17,7 +17,7 @@ Some notable stuff did happen, however.
 
 We kicked off project _Maguro_ which is going to cause our all star team a lot of work —and a lot of fun— in the new year (see [Kars's Week 182](http://leapfrog.nl/blog/archives/2010/12/17/week-182/)).
 
-[![Marathonmeeting](http://farm6.static.flickr.com/5082/5260989618_881d69cdb8.jpg)](http://www.flickr.com/photos/alper/5260989618/ "Marathonmeeting by illustir, on Flickr")
+[![Marathonmeeting](5260989618_881d69cdb8.jpg)](http://www.flickr.com/photos/alper/5260989618/ "Marathonmeeting by illustir, on Flickr")
 
 Tuesday night we had the fourth [UX Book Club Amsterdam](http://twitter.com/#!/uxbcams) discussing the book [Game Design Workshop](http://books.google.com/books?id=OjIYWtqWxtAC&printsec=frontcover&dq=game+design+workshop&source=bl&ots=AFJ29Z-PYV&sig=7s3donb4RWdBmEffWrBWCB5g3io&hl=en&ei=iacQTfeKFcuv4Aarp72GAg&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDUQ6AEwAg#v=onepage&q&f=false). [eBuddy](http://www.ebuddy.com) hosted us and it was a lot of fun both talking about game design, how it pertains to interaction design and reminiscing about old games.
 

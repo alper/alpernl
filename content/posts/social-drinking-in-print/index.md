@@ -16,7 +16,7 @@ Things are a bit slow in Amsterdam, this being high summer. Having [Foursquare](
 
 Robert Gaal and I initiated the launch in Amsterdam and it looks like it is really taking off right now. Dutch daily [NRC.next wrote](http://www.nrcnext.nl/blog/2009/08/05/nooit-meer-anoniem-een-biertje-drinken/) a two page spread on the site and quoted me and some others in it. Normally I don't bother with papers, but I went to our neighborhood store and bought a copy:
 
-[![Ben in Paradiso, kom ook man](http://farm4.static.flickr.com/3521/3791649869_66fc2c68f9.jpg)](http://www.flickr.com/photos/alper/3791649869/ "Ben in Paradiso, kom ook man by illustir, on Flickr")
+[![Ben in Paradiso, kom ook man](3791649869_66fc2c68f9.jpg)](http://www.flickr.com/photos/alper/3791649869/ "Ben in Paradiso, kom ook man by illustir, on Flickr")
 
 It's a nice balanced overview piece of the service and the trends towards more ubicomp in your nightlife experience. The big question is, these guys have delivered, will anybody else match them in the foreseeable future?
 

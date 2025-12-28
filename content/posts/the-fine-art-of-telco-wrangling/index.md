@@ -14,7 +14,7 @@ Much to my dismay I found out that with [the update to iPhone OS 3.1](http://www
 
 I think it's more likely that AT&T asked for them to remove it, than T-Mobile but it was definitely a telco because Apple has zero interest in making their hardware less capable.
 
-[![Tethered in Traffic](http://farm4.static.flickr.com/3613/3650979461_8a0229ba64.jpg)](http://www.flickr.com/photos/alper/3650979461/ "Tethered in Traffic by illustir, on Flickr")
+[![Tethered in Traffic](3650979461_8a0229ba64.jpg)](http://www.flickr.com/photos/alper/3650979461/ "Tethered in Traffic by illustir, on Flickr")
 
 ### User Experience
 

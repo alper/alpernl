@@ -12,7 +12,7 @@ aliases:
 ---
 Onlangs zijn de wielen van mijn racefiets gestript toen deze over het weekend geparkeerd stond op de Korte 's-Gravezandestraat in Amsterdam.
 
-[![Left my bike out for two days and my wheel set got stolen. Double lock, kids!](http://farm7.static.flickr.com/6213/6231263064_02ab90cb86_m.jpg)](http://www.flickr.com/photos/alper/6231263064/ "Left my bike out for two days and my wheel set got stolen. Double lock, kids! by illustir, on Flickr")
+[![Left my bike out for two days and my wheel set got stolen. Double lock, kids!](6231263064_02ab90cb86_m.jpg)](http://www.flickr.com/photos/alper/6231263064/ "Left my bike out for two days and my wheel set got stolen. Double lock, kids! by illustir, on Flickr")
 
 Ik heb aangifte gedaan van de diefstal en er staat een camera op het terrein van [Stadgenoot](http://www.stadgenoot.nl/) gericht op de openbare weg waar mijn fiets staat. Ik probeer te achterhalen van wie die camera is om te zorgen dat die beelden bewaard worden en beschikbaar zijn voor het politie-onderzoek.
 

@@ -13,7 +13,7 @@ aliases:
 ---
 Back from holiday, the surf was mostly flat but a good time was had, judging from the [pictures on Flickr](http://www.flickr.com/photos/alper/) [^1].
 
-[![Distant](http://farm4.static.flickr.com/3018/2704482088_0e4210e1ac.jpg)](http://www.flickr.com/photos/alper/2704482088/ "Distant by illustir, on Flickr")
+[![Distant](2704482088_0e4210e1ac.jpg)](http://www.flickr.com/photos/alper/2704482088/ "Distant by illustir, on Flickr")
 
 Normal service will resume here at least until half of August when I will break shortly for [Wapsen](http://www.dopplr.com/trip/alper/236146) and maybe thereafter a bit longer for the former Yugoslavia.
 

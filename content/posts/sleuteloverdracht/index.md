@@ -12,7 +12,7 @@ aliases:
 ---
 Vanmiddag een flinke stapel papier waaronder mijn huurcontract ondertekend en de sleutels van mijn nieuwe huis gekregen.
 
-[![Keys](http://farm2.static.flickr.com/1087/1472141445_d50943c20b.jpg)](http://www.flickr.com/photos/alper/1472141445/ "Photo Sharing")
+[![Keys](1472141445_d50943c20b.jpg)](http://www.flickr.com/photos/alper/1472141445/ "Photo Sharing")
 
 De planning is op het moment:
 

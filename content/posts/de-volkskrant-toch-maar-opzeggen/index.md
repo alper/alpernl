@@ -8,7 +8,7 @@ aliases:
   - /dingen/2007/06/de-volkskrant-toch-maar-opzeggen/
 
 ---
-[![Alper en Pieter Hilhorst](http://farm2.static.flickr.com/1314/564358043_24afc03d47_m.jpg)](http://www.flickr.com/photos/alper/564358043/ "Photo Sharing")_Foto [Sebastiaan ter Burg](http://www.ter-burg.nl/)_
+[![Alper en Pieter Hilhorst](564358043_24afc03d47_m.jpg)](http://www.flickr.com/photos/alper/564358043/ "Photo Sharing")_Foto [Sebastiaan ter Burg](http://www.ter-burg.nl/)_
 
 De foto hiernaast is genomen op het evenement Mediawijsheid ( [mijn verslag](http://www.frankwatching.com/archive/2006/10/19/event-mediawijsheid-in-een-gemedialiseerde-wereld/)) waar de dagvoorzitter [Pieter Hilhorst](http://www.pieterhilhorst.nl/) vroeg wie van de aanwezigen zijn nieuws enkel via internet tot zich nam. Ik was een van de weinigen en hoongelach uit de zaal viel mij ten deel. Hoe kon ik toch ooit verwachten goed geïnformeerd te worden door het (grote boze) internet ?
 

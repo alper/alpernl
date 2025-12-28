@@ -11,7 +11,7 @@ aliases:
 ---
 Het is al een tijdje geek-chique om te zeggen dat [Arduino's](http://www.arduino.cc/) cool zijn en te wensen dat je de tijd had om ermee te spelen. Dat vond ik wat vrijblijvend worden, dus ik heb maar een starters-setje besteld.
 
-[![Multi LED setup](http://farm3.static.flickr.com/2383/2510372053_fb538a0a7c.jpg)](http://www.flickr.com/photos/alper/2510372053/ "Multi LED setup by illustir, on Flickr")
+[![Multi LED setup](2510372053_fb538a0a7c.jpg)](http://www.flickr.com/photos/alper/2510372053/ "Multi LED setup by illustir, on Flickr")
 
 Het idee is dat dit een simpel uitbreidbaar bord met processor is waar je een programma op kunt laden waarna dat zelfstandig kan draaien en de in- en uitvoer kan aansturen. Je kunt er allerlei dingen op aansluiten en een Arduino kan ook communiceren met andere Arduini of de server [^1].
 

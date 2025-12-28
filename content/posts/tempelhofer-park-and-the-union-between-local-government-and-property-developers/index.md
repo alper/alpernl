@@ -12,7 +12,7 @@ aliases:
 ---
 There is a shack on Tempelhofer Feld that explains the senate's plans with the park and the construction they plan to do there:
 
-[![One sided citizen participation because that is how this city rolls](https://farm8.staticflickr.com/7242/13400451765_6d1d1654b8.jpg)](https://www.flickr.com/photos/alper/13400451765 "One sided citizen participation because that is how this city rolls by Alper Çuğun, on Flickr")
+[![One sided citizen participation because that is how this city rolls](13400451765_6d1d1654b8.jpg)](https://www.flickr.com/photos/alper/13400451765 "One sided citizen participation because that is how this city rolls by Alper Çuğun, on Flickr")
 
 The people of [100% Tempelhofer Feld](https://www.facebook.com/thf100) with an alternate view are not allowed to express their view on the park itself. Reading through their facebook feed for the past weeks is a collection of absurdism that beggars belief. Truth is stranger than fiction.
 

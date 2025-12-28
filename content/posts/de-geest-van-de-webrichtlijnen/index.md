@@ -14,7 +14,7 @@ Vorige week dinsdag gaf ik een presentatie op [de Barcamp Webrichtlijnen](http:/
 
 Ik kwam er terecht via [Ferry](http://www.den-dopper.com/) en [het widgetproject](http://www.overheid20.nl/workspaces/index/72) wat ik voor [Tam Tam](http://www.tamtam.nl/) heb gedaan en het evenement werd georganiseerd door de vriendelijke mensen van [Cinnamon](http://www.cinnamon.nl/). Een grote vraag is of veel Web 2.0 technieken zoals AJAX en crowdsourcing etc. wel compatibel zijn met de webrichtlijnen, zoals ook [beschreven in Ferry's verslag](http://www.den-dopper.com/2009/07/03/kan-web-20-conform-de-webrichtlijnen/).
 
-[![Group](http://farm3.static.flickr.com/2492/3676398872_83c005abe7.jpg)](http://www.flickr.com/photos/alper/3676398872/ "Group by illustir, on Flickr")
+[![Group](3676398872_83c005abe7.jpg)](http://www.flickr.com/photos/alper/3676398872/ "Group by illustir, on Flickr")
 
 Zoals [ik al zei](http://twitter.com/alper/statuses/2400943634), ging ik in tegen de heersende orthodoxie dat de huidige praktijk dat alleen maar XHTML opleveren goed is.
 
@@ -35,7 +35,7 @@ Binnen de kleine organisaties waarin ik gewend ben te werken is al veel kennis a
 
 Bij grotere organisaties met minder kennis over de techniek van de materie, kunnen webrichtlijnen een goed (of het enige) middel zijn om te af te lezen wat wel en wat niet goed is, wie een goede uitvoerder is en wie niet. Maar dan nog is het een illusie om te denken dat als je organisatie-kennis niet op niveau is, je met de webrichtlijnen alleen een goede website kunt neerzetten.
 
-[![Borreltje](http://farm3.static.flickr.com/2587/3676408680_db92fe7abd.jpg)](http://www.flickr.com/photos/alper/3676408680/ "Borreltje by illustir, on Flickr")
+[![Borreltje](3676408680_db92fe7abd.jpg)](http://www.flickr.com/photos/alper/3676408680/ "Borreltje by illustir, on Flickr")
 
 ### De Heilige Graal
 

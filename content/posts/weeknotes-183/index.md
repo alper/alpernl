@@ -12,15 +12,15 @@ aliases:
 ---
 We moved in our new desks and got rid of the old ones. This clears up a lot of space in [the studio](http://twitter.com/ouroffice) and we now have a fifth desk [open for lease](http://twitter.com/ouroffice/status/24394400840). If you're design minded and interested in a great place in a creative hub of Amsterdam, [get in touch](http://aardverschuiving.com/contact).
 
-[![New desks!! (Gispen, for you Dutch Design enthousiasts)](http://farm5.static.flickr.com/4145/4986489791_1901721051.jpg)](http://www.flickr.com/photos/alper/4986489791/ "New desks!! (Gispen, for you Dutch Design enthousiasts) by illustir, on Flickr")
+[![New desks!! (Gispen, for you Dutch Design enthousiasts)](4986489791_1901721051.jpg)](http://www.flickr.com/photos/alper/4986489791/ "New desks!! (Gispen, for you Dutch Design enthousiasts) by illustir, on Flickr")
 
 Monday I visited the finissage of fashion and architecture at [ARCAM](http://www.arcam.nl) and went to the [Typekit](http://www.typekit.com) meetup organized by [Adaptive Path](http://www.adaptivepath.com).
 
-[![Dresses](http://farm5.static.flickr.com/4147/4987768168_113f9ccb52.jpg)](http://www.flickr.com/photos/alper/4987768168/ "Dresses by illustir, on Flickr")
+[![Dresses](4987768168_113f9ccb52.jpg)](http://www.flickr.com/photos/alper/4987768168/ "Dresses by illustir, on Flickr")
 
 Tuesday we resumed development on [PLAY Pilots](http://playpilots.nl) to integrate the website with the [Stereoscoop](http://playpilots.nl/games/de-stereoscoop/) game being built by [Zesbaans](http://zesbaans.nl). I spent a good part of Friday at their studio working on further integration and communication between our systems.
 
-[![Design Problem](http://farm5.static.flickr.com/4085/4993454712_c028e120f2.jpg)](http://www.flickr.com/photos/alper/4993454712/ "Design Problem by illustir, on Flickr")[![Today's View](http://farm5.static.flickr.com/4110/4998247732_fd55c74168.jpg)](http://www.flickr.com/photos/alper/4998247732/ "Today's View by illustir, on Flickr")
+[![Design Problem](4993454712_c028e120f2.jpg)](http://www.flickr.com/photos/alper/4993454712/ "Design Problem by illustir, on Flickr")[![Today's View](4998247732_fd55c74168.jpg)](http://www.flickr.com/photos/alper/4998247732/ "Today's View by illustir, on Flickr")
 
 I'm planning an informal data drinks this Friday after [PICNIC](http://picnicnetwork.org) called [the Dutch Data Drinks](http://www.facebook.com/#!/event.php?eid=160152187333385). A ton of people I know are busy working with data in some fashion or another. It is about time these people got to know each other and work together.
 
@@ -28,10 +28,10 @@ Wednesday there was a small victory. I'm busy as a local operative for the [Urba
 
 Thursday I visited the Boffel by our Dutch digital civil liberties organization [Bits of Freedom](http://www.bof.nl/) who were celebrating their first year anniversary. I cosigned [a letter by them](/dingen/2010/09/brief-tegen-censuur/) against web censorship. After that I also visited a Speed Show of net art curated guerilla style in a local internet café.
 
-[![Art](http://farm5.static.flickr.com/4089/4996099189_8707ffe529.jpg)](http://www.flickr.com/photos/alper/4996099189/ "Art by illustir, on Flickr")
+[![Art](4996099189_8707ffe529.jpg)](http://www.flickr.com/photos/alper/4996099189/ "Art by illustir, on Flickr")
 
 Saturday went to see the Next Big Thing exhibition by the Sandberg Institute which was pretty much the archetype of a mixed bag.
 
-[![Mind the Gap Berlin](http://farm5.static.flickr.com/4154/5000889997_874477ecd1.jpg)](http://www.flickr.com/photos/alper/5000889997/ "Mind the Gap Berlin by illustir, on Flickr")
+[![Mind the Gap Berlin](5000889997_874477ecd1.jpg)](http://www.flickr.com/photos/alper/5000889997/ "Mind the Gap Berlin by illustir, on Flickr")
 
 Also busy writing a piece for [NRC](http://www.nrc.nl), which is progressing slowly.

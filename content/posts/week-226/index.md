@@ -22,10 +22,10 @@ Mid-week marked the first deployed iteration of _guadalupe_. If development on t
 End of the week we spent a bunch of time doing a submission to SxSWi to talk about [the Heist Model](/dingen/2010/09/not-hiring-anybody/). It's an edgy philosophy and a fun way of working, which we look forward to expound in Austin accompanied by friends, margaritas and BBQ.
 
 Friday there was [Ball Invasion](http://itunes.apple.com/us/app/ball-invasion-for-ipad2/id444853211?mt=8) (with friends):
-[![Ball Invasion with Alex and Peter](http://farm7.static.flickr.com/6141/5939835931_43eb053653.jpg)](http://www.flickr.com/photos/alper/5939835931/ "Ball Invasion with Alex and Peter by illustir, on Flickr")
+[![Ball Invasion with Alex and Peter](5939835931_43eb053653.jpg)](http://www.flickr.com/photos/alper/5939835931/ "Ball Invasion with Alex and Peter by illustir, on Flickr")
 
 After which I managed to get stuck with a car and drive it up North to the [Appsterdam HQ](https://foursquare.com/venue/24477969) for the iOS Devcamp that was in progress.
 
-[![iOS devcamp](http://farm7.static.flickr.com/6124/5940664079_f02159584a.jpg)](http://www.flickr.com/photos/alper/5940664079/ "iOS devcamp by illustir, on Flickr")
+[![iOS devcamp](5940664079_f02159584a.jpg)](http://www.flickr.com/photos/alper/5940664079/ "iOS devcamp by illustir, on Flickr")
 
 The weekend was marked by rainy misery and [a short piece of writing](http://www.hackdeoverheid.nl/2011/07/open-data-ingebed-in-amsterdam-cetrum/) about open data becoming a normal practice of Amsterdam City-Center.

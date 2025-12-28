@@ -14,14 +14,14 @@ I'm running frightfully behind with these and debating whether to continue writi
 Way back then I pushed [Cuppings](http://www.cuppin.gs/) to the App Store.
 
 I gave an interview about Politwoops:
-[![Politwoops in SZ](http://farm4.staticflickr.com/3709/8947144994_d1b863f048_z.jpg)](http://www.flickr.com/photos/alper/8947144994/ "Politwoops in SZ by illustir, on Flickr")
+[![Politwoops in SZ](8947144994_d1b863f048_z.jpg)](http://www.flickr.com/photos/alper/8947144994/ "Politwoops in SZ by illustir, on Flickr")
 
 I built a preliminary Foursquare paper map creating tool.
 
 I was featured in WDR Funkhaus Europa with a small item about Politwoops:
 
 And also a tweet I posted was [featured on the New York Times](http://thelede.blogs.nytimes.com/2013/06/05/civil-disobedience-on-a-turkish-game-show/?smid=tw-thelede&seid=auto) website:
-[![Tweet featured on the NYT](http://farm3.staticflickr.com/2826/8976640014_4ec0fc2214_z.jpg)](http://www.flickr.com/photos/alper/8976640014/ "Tweet featured on the NYT by illustir, on Flickr")
+[![Tweet featured on the NYT](8976640014_4ec0fc2214_z.jpg)](http://www.flickr.com/photos/alper/8976640014/ "Tweet featured on the NYT by illustir, on Flickr")
 
 And finally I dropped by the office warming of [IXDS](http://ixds.de/) who have a brilliant space two streets down from us on the waterside.
 

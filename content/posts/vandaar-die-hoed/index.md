@@ -11,4 +11,4 @@ aliases:
 ---
 Als jullie je afvroegen waarom ik die hoed op had, het komt door [het estafette-interview voor Blogpiloten.de](http://www.blogpiloten.de/2007/11/04/barcamp-berlin-blogger-interviewen-blogger/) dat ik gegeven heb.
 
-[![Blogpiloten.de](http://farm3.static.flickr.com/2127/1845955464_d150e34f4f.jpg)](http://www.flickr.com/photos/alper/1845955464/ "Photo Sharing")
+[![Blogpiloten.de](1845955464_d150e34f4f.jpg)](http://www.flickr.com/photos/alper/1845955464/ "Photo Sharing")

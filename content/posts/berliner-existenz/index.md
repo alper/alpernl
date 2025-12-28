@@ -25,7 +25,7 @@ Na in Berlijn aangekomen te zijn, heb ik:
 - €80 kwijtgeraakt (één keer teveel)
 - [Jeff Wall](http://en.wikipedia.org/wiki/Jeff_Wall)'s foto's gezien in het [Guggenheim](http://www.deutsche-guggenheim-berlin.de/) (smaakt naar meer)
 
-[![](http://farm3.static.flickr.com/2269/1879797520_9a19cb7d78.jpg)](http://www.flickr.com/photos/alper/1879797520/ "Photo Sharing")
+[![](1879797520_9a19cb7d78.jpg)](http://www.flickr.com/photos/alper/1879797520/ "Photo Sharing")
 
 Wat ik nog wil doen voor zaterdag:
 
@@ -35,4 +35,4 @@ Wat ik nog wil doen voor zaterdag:
 - Door het holocaust monument lopen
 - King Faad de hand schudden
 
-[![Berlin](http://farm3.static.flickr.com/2345/1878463729_71ffddc101.jpg)](http://www.flickr.com/photos/alper/1878463729/ "Photo Sharing")
+[![Berlin](1878463729_71ffddc101.jpg)](http://www.flickr.com/photos/alper/1878463729/ "Photo Sharing")

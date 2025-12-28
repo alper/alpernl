@@ -12,7 +12,7 @@ aliases:
 ---
 Last Sunday we did a big haul and carried most of our stuff over to the new place in Amsterdam. Now we're almost done with the tedious process of making sure the basics are taken care of, sorting through stuff, eliminating duplicates.
 
-[![Half A Life Apart](http://farm3.static.flickr.com/2626/3756795871_f63a477161.jpg)](http://www.flickr.com/photos/alper/3756795871/ "Half A Life Apart by illustir, on Flickr")
+[![Half A Life Apart](3756795871_f63a477161.jpg)](http://www.flickr.com/photos/alper/3756795871/ "Half A Life Apart by illustir, on Flickr")
 
 My story in Delft had been finished for a while now. Loads of friends but also a lot of dead ends. Being in Amsterdam gives a fresh perspective and breathing space.
 

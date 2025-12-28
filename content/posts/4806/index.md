@@ -12,7 +12,7 @@ aliases:
 ---
 I tried to register to vote for [the buyback of the Berlin energy grid](http://www.berliner-energietisch.net/) and then I got this letter back informing me that I cannot vote.
 
-[![IMG_0001](http://farm3.staticflickr.com/2850/10482559644_520dc08bcb_z.jpg)](http://www.flickr.com/photos/alper/10482559644/ "IMG_0001 by illustir, on Flickr")
+[![IMG_0001](10482559644_520dc08bcb_z.jpg)](http://www.flickr.com/photos/alper/10482559644/ "IMG_0001 by illustir, on Flickr")
 
 I already knew that I cannot vote for national German elections and I don't care much for them anyway. That I can't vote at the local level where I live and where I am taxed is however somewhat annoying. Especially given the number of new entrants to the city, the fact that none of them receive any representation for their taxation is a outrageous.
 

@@ -11,11 +11,11 @@ aliases:
   - /dingen/2009/07/tour-de-france-live-online-of-toch-niet/
 
 ---
-[![NOS | Tour de France 2009 | Live](http://farm3.static.flickr.com/2559/3709743770_d1c1e19d16.jpg)](http://www.flickr.com/photos/alper/3709743770/ "NOS | Tour de France 2009 | Live by illustir, on Flickr")
+[![NOS | Tour de France 2009 | Live](3709743770_d1c1e19d16.jpg)](http://www.flickr.com/photos/alper/3709743770/ "NOS | Tour de France 2009 | Live by illustir, on Flickr")
 
 Tof van de NOS dat ze de Tour de Frace live uitzenden zowel online als op de iPhone. Zo zie je maar dat als ze willen, ze het wel kunnen. De enige vraag die nog overblijft is waarom niet het complete programmaanbod van de Nederlandse publieke omroep live en on-demand device-onafhankelijk te kijken is.
 
-[![Tour dans le train](http://farm3.static.flickr.com/2594/3721225542_1ebb4c5a01_m.jpg)](http://www.flickr.com/photos/alper/3721225542/ "Tour dans le train by illustir, on Flickr")
+[![Tour dans le train](3721225542_1ebb4c5a01_m.jpg)](http://www.flickr.com/photos/alper/3721225542/ "Tour dans le train by illustir, on Flickr")
 
 Wat nog een onplesant detail is bij de live uitzending van de Tour de France is dat deze pas een uur of wat na de start van de etappe begint. Op de zender kan ik snappen dat er ruimte moet zijn, maar de online stream rijdt toch niemand in de wielen?
 

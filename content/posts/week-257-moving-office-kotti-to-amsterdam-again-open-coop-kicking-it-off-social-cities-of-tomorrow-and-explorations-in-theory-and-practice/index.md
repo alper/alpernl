@@ -25,7 +25,7 @@ The office is smack on [Kotti](http://de.wikipedia.org/wiki/Kottbusser_Tor), the
 
 Tuesday was spent at the new office in presentation prep with the evening closed off by meeting with [the local Open Knowledge Foundation chapter](http://okfn.de/). It was a fruitful discussion exchanging various ideas on how to boost the openness movement in Berlin.
 
-[![OKFN meetup](http://farm8.staticflickr.com/7181/6876672491_78a06fc9cc.jpg)](http://www.flickr.com/photos/alper/6876672491/ "OKFN meetup by illustir, on Flickr")
+[![OKFN meetup](6876672491_78a06fc9cc.jpg)](http://www.flickr.com/photos/alper/6876672491/ "OKFN meetup by illustir, on Flickr")
 
 On Wednesday, I took a leisurely train ride to Amsterdam which seems to feel shorter and shorter the more I get in the rhythm. That day [the long awaited Code 4 video](https://vimeo.com/36718265) launched. I'm immensely proud of the work we did and I don't think there's anybody who has pulled off a game like that anywhere in the world, so it might be well worth a look:
 
@@ -37,7 +37,7 @@ Thursday I continued working on my presentation at [the Open Coop](http://www.op
 
 Friday was the big day of [Social Cities of Tomorrow](http://www.socialcitiesoftomorrow.nl/) where I got the honor to be the first to present our case of [‘Apps for Amsterdam’](http://www.appsforamsterdam.nl/) to the assembled audience. It was a wonderful event put together by our esteemed friends and colleagues of [the Mobile City](http://www.themobilecity.nl/): [Michiel de Lange](http://www.bijt.org/wordpress/) and [Martijn de Waal](http://www.martijndewaal.nl/) who have been leaders in this field for the better part of the past ten years. The keynotes by [Usman Haque](http://www.haque.co.uk/), [Natalie Jeremijenko](http://steinhardt.nyu.edu/faculty_bios/view/Natalie_Jeremijenko) and [Dan Hill](http://www.cityofsound.com/) were superb and they remain a source of inspiration for our creative work.
 
-[![Getting our aeropress on with a new device that does tenth of a centigrade precise temperature with built-in scales.](http://farm8.staticflickr.com/7182/6891368969_95313b803b.jpg)](http://www.flickr.com/photos/alper/6891368969/ "Getting our aeropress on with a new device that does tenth of a centigrade precise tenperature with built-in scales. by illustir, on Flickr")
+[![Getting our aeropress on with a new device that does tenth of a centigrade precise temperature with built-in scales.](6891368969_95313b803b.jpg)](http://www.flickr.com/photos/alper/6891368969/ "Getting our aeropress on with a new device that does tenth of a centigrade precise tenperature with built-in scales. by illustir, on Flickr")
 
 I feel like I have to remark on two things that I thought of during the conference:
 
@@ -59,7 +59,7 @@ I don't know where I would fall, but I struggle every day with striking a balanc
 
 After Social Cities of Tomorrow we had a party at our offices in the [Open Coop](http://www.opencooperatie.nl/) because they officially incorporated as a cooperation and are set to do great things. The party was rather tremendous and good parties are key to getting things done in Amsterdam.
 
-[![And then there was this band playing in the office. #nofilter](http://farm8.staticflickr.com/7197/6893419253_3803f855df.jpg)](http://www.flickr.com/photos/alper/6893419253/ "And then there was this band playing in the office. #nofilter by illustir, on Flickr")
+[![And then there was this band playing in the office. #nofilter](6893419253_3803f855df.jpg)](http://www.flickr.com/photos/alper/6893419253/ "And then there was this band playing in the office. #nofilter by illustir, on Flickr")
 
 And now it is Sunday while I am typing these notes and because of a lack of gourmet coffee, it is off to the [Hubbub](http://hbbb.nl) studio in Utrecht to be the murder board for Kars's [LIFT](http://liftconference.com/) presentation.
 

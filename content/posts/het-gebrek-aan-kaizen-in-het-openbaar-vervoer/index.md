@@ -28,7 +28,7 @@ In- en uitchecken bij het overstappen is een ronduit achterlijk ontwerpfalen en 
 
 Een automatisch betalingssysteem moet minder werk opleveren voor eindgebruikers, niet meer.
 
-[![Forest of Terminals](http://farm3.static.flickr.com/2442/4036788759_02bd0725cd.jpg)](http://www.flickr.com/photos/alper/4036788759/ "Forest of Terminals by illustir, on Flickr")
+[![Forest of Terminals](4036788759_02bd0725cd.jpg)](http://www.flickr.com/photos/alper/4036788759/ "Forest of Terminals by illustir, on Flickr")
 
 ### GVB-formulier
 

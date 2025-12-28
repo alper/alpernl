@@ -16,7 +16,7 @@ Het is weer zover! Het jaarlijkse vetste Braziliaanse feest in de grootste disco
 
 De flyer staat hieronder:
 
-[![Brazilian Festival Liberdade](http://farm3.static.flickr.com/2399/2467786752_7978f45ed3.jpg)](http://www.flickr.com/photos/alper/2467786752/ "Brazilian Festival Liberdade by illustir, on Flickr")
+[![Brazilian Festival Liberdade](2467786752_7978f45ed3.jpg)](http://www.flickr.com/photos/alper/2467786752/ "Brazilian Festival Liberdade by illustir, on Flickr")
 
 Een feest is natuurlijk niks zonder leuke mensen. Vandaar dat we al begonnen zijn met het verkopen van kaartjes. Kaartjes in de voorverkoop kosten €7,50 en zijn verkrijgbaar bij mij. Stuur me een [mailtje](http://aardverschuiving.com/contact) of een [direct message](http://twitter.com/alper) om te boeken.
 

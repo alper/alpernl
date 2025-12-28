@@ -12,7 +12,7 @@ aliases:
 ---
 Previous efforts of privatizing Dutch rail failed miserably. In 1999 [Lovers Rail](http://nl.wikipedia.org/wiki/Lovers_Rail) ran competing trains along a couple of Dutch tracks [^1]. I was just starting my studies in Delft and did a daily commute from Amsterdam where I was living back then [^2], so I remember their service, though I never actually used it.
 
-[![Full Train](http://farm1.static.flickr.com/15/18906108_10d182aeac_m.jpg)](http://www.flickr.com/photos/alper/18906108/ "Full Train by illustir, on Flickr")
+[![Full Train](18906108_10d182aeac_m.jpg)](http://www.flickr.com/photos/alper/18906108/ "Full Train by illustir, on Flickr")
 
 Sometimes when stuck on a station, because the [NS](http://en.wikipedia.org/wiki/Nederlandse_Spoorwegen) had messed up again, it could actually have been useful to take a Lovers train from Haarlem to Amsterdam. In reality this never worked out. Nobody knew when those trains actually departed and where to buy tickets for them [^3].
 
@@ -39,11 +39,11 @@ Rail is one thing, but the transit experience entails the door to door planning 
 
 For my day to day transportation needs I want to get from **A** to **B** at a certain time for a certain price. A mobile device would know my location and when given my destination it would be able to show me a list of offers from which I could pick my preferred one. Some of the planners available do just this but because they are usually limited to a single operator, their offerings do not differ much.
 
-[![9292ov.nl: OV-reisinformatie en routeplanner voor bus, trein, metro, tram en veerboot](http://farm4.static.flickr.com/3586/3392789731_c81580065f.jpg)](http://www.flickr.com/photos/alper/3392789731/ "9292ov.nl: OV-reisinformatie en routeplanner voor bus, trein, metro, tram en veerboot by illustir, on Flickr")
+[![9292ov.nl: OV-reisinformatie en routeplanner voor bus, trein, metro, tram en veerboot](3392789731_c81580065f.jpg)](http://www.flickr.com/photos/alper/3392789731/ "9292ov.nl: OV-reisinformatie en routeplanner voor bus, trein, metro, tram en veerboot by illustir, on Flickr")
 
 Google goes for a more modus agnostic integrated and modern view of the experience:
 
-[![Google Transit](http://farm4.static.flickr.com/3560/3393643096_572ef340a6.jpg)](http://www.flickr.com/photos/alper/3393643096/ "Google Transit by illustir, on Flickr")
+[![Google Transit](3393643096_572ef340a6.jpg)](http://www.flickr.com/photos/alper/3393643096/ "Google Transit by illustir, on Flickr")
 
 Further opening up and integration would benefit travellers enormously. Ideally we would have one planner for all transit options, which includes rail, (micro)bus, lightrail, ferry but ideally also taxicabs and private individuals willing to carpool [^8]. This would add options and level the playing field.
 
@@ -81,7 +81,7 @@ In a dynamic system with the planning functionality as described above in place,
 
 If we could achieve the openness and added integration of more information and more transit providers described above we could make very satisfying complete transit experiences.
 
-[![iPhone Transit Planner](http://farm4.static.flickr.com/3577/3394196679_def20471c7.jpg)](http://www.flickr.com/photos/alper/3394196679/ "iPhone Transit Planner by illustir, on Flickr")
+[![iPhone Transit Planner](3394196679_def20471c7.jpg)](http://www.flickr.com/photos/alper/3394196679/ "iPhone Transit Planner by illustir, on Flickr")
 
 I've made a mockup what such an application could look like:
 

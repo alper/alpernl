@@ -13,4 +13,4 @@ aliases:
 ---
 New city, new group, same rituals:
 
-[![Drinks](http://farm3.static.flickr.com/2595/4036088604_ea7d1af7a9_b.jpg)](http://www.flickr.com/photos/alper/4036088604/ "Drinks by illustir, on Flickr")
+[![Drinks](4036088604_ea7d1af7a9_b.jpg)](http://www.flickr.com/photos/alper/4036088604/ "Drinks by illustir, on Flickr")

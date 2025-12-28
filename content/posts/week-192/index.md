@@ -16,7 +16,7 @@ Worked on the integration of Bandjesland for [PLAY Pilots](http://playpilots.nl)
 
 Gave a [presentation Wednesday](http://monsterswell.com/blog/2010/11/next-weeks-public-appearances/) at [Social Media Club 030](http://www.mindz.com/events/SMC030__8) which was pretty well received giving an [overview of the Location Based Services landscape](http://www.slideshare.net/smc030/presenatie-foursquare-alper-smc030-8) both in breadth and in history with some hints towards the future. I think this [screenshot of Plazes](http://www.flickr.com/photos/alper/157293458/) from early 2006 was pretty telling.
 
-[![Non-Potable Speaker Gift](http://farm5.static.flickr.com/4112/5185482420_66060f9500.jpg)](http://www.flickr.com/photos/alper/5185482420/ "Non-Potable Speaker Gift by illustir, on Flickr")
+[![Non-Potable Speaker Gift](5185482420_66060f9500.jpg)](http://www.flickr.com/photos/alper/5185482420/ "Non-Potable Speaker Gift by illustir, on Flickr")
 
 Got the idea for project _toluca_ and did some initial research and work on that. More of a self-itch relevance thing, but should cause a bunch of attention when it launches.
 
@@ -26,11 +26,11 @@ I also did a planning session on _culiacán_ at [Booreiland](http://www.booreila
 
 Project _querétaro_ is a hugely relevant data-journalism thing which got the in-depth brief and coding kick-off.
 
-[![Laptop opladen](http://farm5.static.flickr.com/4085/5190272533_e399d19852.jpg)](http://www.flickr.com/photos/alper/5190272533/ "Laptop opladen by illustir, on Flickr")
+[![Laptop opladen](5190272533_e399d19852.jpg)](http://www.flickr.com/photos/alper/5190272533/ "Laptop opladen by illustir, on Flickr")
 
 Friday the expedition to the [VVOJ](http://www.vvoj.nl) congres in Ghent started where with a group of people from [Hack de Overheid](http://www.hackdeoverheid.nl) we held a data ‘genius bar’ where journalists could ask their questions and Saturday we did our best to assess and resolve their issues. Interest at our desk was large (and only partially because they thought we were real hackers) and we managed to resolve pretty much all of the issues to some degree.
 
-[![Stadhuis Gent](http://farm5.static.flickr.com/4108/5190272613_bdb62c0cba.jpg)](http://www.flickr.com/photos/alper/5190272613/ "Stadhuis Gent by illustir, on Flickr")
+[![Stadhuis Gent](5190272613_bdb62c0cba.jpg)](http://www.flickr.com/photos/alper/5190272613/ "Stadhuis Gent by illustir, on Flickr")
 
 Also it's not on the site yet —it is on the new one—, but I joined Hack de Overheid due to synergies we couldn't ignore any longer.
 

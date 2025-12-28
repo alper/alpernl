@@ -37,7 +37,7 @@ I take issue with the poster's critique [^3] because the chart clearly says that
 
 The UK will have their [General Elections](http://en.wikipedia.org/wiki/United_Kingdom_general_election,_2010) next Thursday. In the run-up to the elections, [Russell Davies spotted](http://russelldavies.typepad.com/planning/2010/01/data-campaigning.html) this [nice interactive chart by Labour](http://www2.labour.org.uk/jobs-interactive-map) to clarify how they helped reduce unemployment.
 
-[![Jobs Interactive Map | The Labour Party](http://farm5.static.flickr.com/4057/4577542333_4440438a7d.jpg)](http://www.flickr.com/photos/alper/4577542333/ "Jobs Interactive Map | The Labour Party by illustir, on Flickr")
+[![Jobs Interactive Map | The Labour Party](4577542333_4440438a7d.jpg)](http://www.flickr.com/photos/alper/4577542333/ "Jobs Interactive Map | The Labour Party by illustir, on Flickr")
 
 It remains to be seen how far these kind of more technocratic online methods support the narratives and media plays that an election revolves around. It does not look like it has [helped Labour that much](http://www.ukpollingreport.co.uk/blog/) in their struggle.
 
@@ -62,9 +62,9 @@ Issues such as education, technology, healthcare, immigration, urban and ex-urba
 
 **Update:**
 This seems to be the overarching theme of the elections for the PvdA.
-[![Iedereen telt mee](http://farm4.static.flickr.com/3395/4623355995_0e41946f3c_m.jpg)](http://www.flickr.com/photos/alper/4623355995/ "Iedereen telt mee by illustir, on Flickr")**Update:** [Alex Lundry notices](http://twitter.com/alexlundry/status/15431574239) that the Obama job loss chart is being updated by the [Washington Monthly](http://www.washingtonmonthly.com/). Here's the April version:
+[![Iedereen telt mee](4623355995_0e41946f3c_m.jpg)](http://www.flickr.com/photos/alper/4623355995/ "Iedereen telt mee by illustir, on Flickr")**Update:** [Alex Lundry notices](http://twitter.com/alexlundry/status/15431574239) that the Obama job loss chart is being updated by the [Washington Monthly](http://www.washingtonmonthly.com/). Here's the April version:
 [![](apriljobs-300x203.jpg)](apriljobs.jpeg) And here's the same chart for the Netherlands albeit a lot less granular (if anybody has that data, I'd greatly appreciate it):
-[![Werkloosheid Nederland](http://farm5.static.flickr.com/4053/4664375444_5891b8cd31.jpg)](http://www.flickr.com/photos/alper/4664375444/ "Werkloosheid Nederland by illustir, on Flickr")
+[![Werkloosheid Nederland](4664375444_5891b8cd31.jpg)](http://www.flickr.com/photos/alper/4664375444/ "Werkloosheid Nederland by illustir, on Flickr")
 
 [^1]: To which my snide commentary was that most people going into graphic design don't do so because they were especially good at maths or statistics in high school.
 [^2]: I'd love to see a comprehensive annotated overview or even pointers to material.

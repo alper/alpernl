@@ -11,7 +11,7 @@ aliases:
 ---
 Gisteren een [lezing bijgewoond van Arnold Karskens](http://www.dok.info/index.php?cat=actief&pagina_id=50&agenda_id=271) in DOK Delft. Interessant omdat Karskens grote thema's aanhaalt, bijna samenzweringen aan de kaak stelt en een beroep doet op de morele verantwoordelijkheid van het Nederlandse volk en journaille ( [‘Halve journalistiek bestaat niet’](http://www.denieuwereporter.nl/?p=1574)).
 
-[![Arnold Karskens](http://farm4.static.flickr.com/3191/2474782762_d0c8aed06d.jpg)](http://www.flickr.com/photos/alper/2474782762/ "Arnold Karskens by illustir, on Flickr")
+[![Arnold Karskens](2474782762_d0c8aed06d.jpg)](http://www.flickr.com/photos/alper/2474782762/ "Arnold Karskens by illustir, on Flickr")
 
 Karskens begon met uit te vallen tegen de laksheid van de regering in het vervolgen van oorlogsmisdadigers terwijl tegelijkertijd op de 4 mei herdenkingen mensen de mond vol hebben van ‘nooit meer’.
 
@@ -21,7 +21,7 @@ En met uiteindelijk de conclusie dat de missie in Afghanistan zinloos is. De Rus
 
 Hij stipte ook nog kort de affaire met Joris Luyendijk ( [‘Joris is bang’](http://sargasso.nl/archief/2008/05/08/joris-is-bang/), [‘Joris over de kritiek op Joris’](http://www.nrcnext.nl/achtergrond/article1078682.ece)) aan. Ik denk dat ze allebei meer gelijk hebben dan de rest en ik weet nu nog beter waarom ik geen Nederlandse geschreven pers lees.
 
-[![Lecture Hall](http://farm4.static.flickr.com/3226/2473964043_a88f0cfde7.jpg)](http://www.flickr.com/photos/alper/2473964043/ "Lecture Hall by illustir, on Flickr")**Update:** Een kleine discussie nog over waarom embedded journalisten informatie die ze verzamelen niet gewoon toch publiceren. In ieder geval als mensen hulp nodig hebben om verborgen partities op hun laptop te maken, laat het maar weten.
+[![Lecture Hall](2473964043_a88f0cfde7.jpg)](http://www.flickr.com/photos/alper/2473964043/ "Lecture Hall by illustir, on Flickr")**Update:** Een kleine discussie nog over waarom embedded journalisten informatie die ze verzamelen niet gewoon toch publiceren. In ieder geval als mensen hulp nodig hebben om verborgen partities op hun laptop te maken, laat het maar weten.
 
 [^1]: Grotendeels onopzettelijk natuurlijk.
 [^2]: Vergelijk dit ook met het onvermogen van de Amerikaanse journalistiek om tijdens ruim 7 jaar Bush een keer een kritische vraag te stellen ( _‘Confusing dissent with disloyalty.’_).

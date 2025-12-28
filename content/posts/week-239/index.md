@@ -14,14 +14,14 @@ Running dreadfully behind with these weeknotes so this would have to be a short 
 
 I lost my fixie which was something of a blow. Feeling a bit hurt and crippled from this loss. Going to look for a new ride come spring.
 
-[![Left my bike out for two days and my wheel set got stolen. Double lock, kids!](http://farm7.static.flickr.com/6213/6231263064_02ab90cb86_m.jpg)](http://www.flickr.com/photos/alper/6231263064/ "Left my bike out for two days and my wheel set got stolen. Double lock, kids! by illustir, on Flickr")
+[![Left my bike out for two days and my wheel set got stolen. Double lock, kids!](6231263064_02ab90cb86_m.jpg)](http://www.flickr.com/photos/alper/6231263064/ "Left my bike out for two days and my wheel set got stolen. Double lock, kids! by illustir, on Flickr")
 
 I had lunch with [Alexander Zeh](http://www.alexanderzeh.me/) and [Peter Robinett](http://www.bubblefoundry.com/) of [Mio Giro](http://www.miogiro.com/).
 
-[![Today's Office](http://farm7.static.flickr.com/6031/6233667387_a10aa4a69b_m.jpg)](http://www.flickr.com/photos/alper/6233667387/ "Today's Office by illustir, on Flickr")
+[![Today's Office](6233667387_a10aa4a69b_m.jpg)](http://www.flickr.com/photos/alper/6233667387/ "Today's Office by illustir, on Flickr")
 
 There is some space shortage at the Open Cooperatie but spirits at [Hack de Overheid](http://hackdeoverheid.nl) were high:
-[![Lex is gepubliceerd](http://farm7.static.flickr.com/6232/6240852370_a38e8b2969_m.jpg)](http://www.flickr.com/photos/alper/6240852370/ "Lex is gepubliceerd by illustir, on Flickr")
+[![Lex is gepubliceerd](6240852370_a38e8b2969_m.jpg)](http://www.flickr.com/photos/alper/6240852370/ "Lex is gepubliceerd by illustir, on Flickr")
 
 I participated in a knowledge gathering session organized by [Info.nl](http://info.nl) about the future of the tax system in a fully networked society. There were some very interesting people present but always, talking with people who don't make anything is a waste of time.
 
@@ -35,7 +35,7 @@ I put the very modest advice work I did on the new [Vrij Nederland](http://vn.nl
 
 I wrote a review of [the Binding of Isaac](http://store.steampowered.com/app/113200/) for [nrc.next](http://nrcnext.nl/) due to be published soon. It is a deceptively deep and addictive game.
 
-[![Suavely working at Brainsley](http://farm7.static.flickr.com/6096/6243727874_be4ef9ef14_m.jpg)](http://www.flickr.com/photos/alper/6243727874/ "Suavely working at Brainsley by illustir, on Flickr")
+[![Suavely working at Brainsley](6243727874_be4ef9ef14_m.jpg)](http://www.flickr.com/photos/alper/6243727874/ "Suavely working at Brainsley by illustir, on Flickr")
 
 I had coffee with our good friend [Toine Donk](http://toinedonk.nl/) who is doing very interesting things with books. And I worked the rest of the afternoon at the offices of [Brainsley](http://brainsley.com/). Besides good friends, they are my hope for innovation in Dutch publishing.
 
@@ -46,4 +46,4 @@ I had coffee with our good friend [Toine Donk](http://toinedonk.nl/) who is doin
 [Oct 14](http://twitter.com/ianus/status/124843455368282114 "Fri Oct 14 13:46:13 +0000 2011") via [Instagram](http://instagr.am)[**Favorite**](https://twitter.com/intent/favorite?tweet_id=124843455368282114 "Favorite") [**Retweet**](https://twitter.com/intent/retweet?tweet_id=124843455368282114 "Retweet") [**Reply**](https://twitter.com/intent/tweet?in_reply_to=124843455368282114 "Reply")
 
 Brainsley had their office warming party on Saturday which was a fantastic convention of internet, fashion and assorted other people:
-[![Boy band looking for a cause](http://farm7.static.flickr.com/6101/6249538994_ddaafb5c4c_m.jpg)](http://www.flickr.com/photos/alper/6249538994/ "Boy band looking for a cause by illustir, on Flickr")
+[![Boy band looking for a cause](6249538994_ddaafb5c4c_m.jpg)](http://www.flickr.com/photos/alper/6249538994/ "Boy band looking for a cause by illustir, on Flickr")

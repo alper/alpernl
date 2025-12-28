@@ -14,14 +14,14 @@ Work continues apace. New websites are forthcoming.
 
 With some heavy lifting in the U-Bahn, I managed to reassemble my library. I eagerly anticipate when I can digitize everything here and not worry about the physicality of my external brain anymore.
 
-[![Reassembled the library](http://farm8.staticflickr.com/7198/6959479625_ff6df30c10.jpg)](http://www.flickr.com/photos/alper/6959479625/ "Reassembled the library by illustir, on Flickr")[Machiavelli](http://boardgamegeek.com/boardgame/478/citadels) (or Ohne Furcht und Adel or Citadels) is awaiting its first play at the studio the first free Friday we can find.
+[![Reassembled the library](6959479625_ff6df30c10.jpg)](http://www.flickr.com/photos/alper/6959479625/ "Reassembled the library by illustir, on Flickr")[Machiavelli](http://boardgamegeek.com/boardgame/478/citadels) (or Ohne Furcht und Adel or Citadels) is awaiting its first play at the studio the first free Friday we can find.
 
-[![Ohne Furcht und Adel (or you might know it as Citadels)](http://farm8.staticflickr.com/7045/6963824469_f7b3b36534.jpg)](http://www.flickr.com/photos/alper/6963824469/ "Ohne Furcht und Adel (or you might know it as Citadels) by illustir, on Flickr")
+[![Ohne Furcht und Adel (or you might know it as Citadels)](6963824469_f7b3b36534.jpg)](http://www.flickr.com/photos/alper/6963824469/ "Ohne Furcht und Adel (or you might know it as Citadels) by illustir, on Flickr")
 
 The [Apps für Deutschland price winners](http://apps4deutschland.de/preistraeger/) have been announced. We had nothing to do with this competition, but it is interesting to see how this develops alongside the Netherlands.
 
 On Wednesday I went to [co.up](http://co-up.de/) to watch the Stevenote:
-[![Engrossed Stevenote audience](http://farm8.staticflickr.com/7209/6816155798_5f372540a5.jpg)](http://www.flickr.com/photos/alper/6816155798/ "Engrossed Stevenote audience by illustir, on Flickr")
+[![Engrossed Stevenote audience](6816155798_5f372540a5.jpg)](http://www.flickr.com/photos/alper/6816155798/ "Engrossed Stevenote audience by illustir, on Flickr")
 
 I got to catch [Jeroen Visser](https://twitter.com/#!/vizinl) and [Robert Jan Verkade](https://twitter.com/#!/verkade) in Berlin after they had just given a workshop. Dutch website all-stars if ever there were some.
 
@@ -37,4 +37,4 @@ Add to that the Germans' reactions to the modernity of the building. Many of the
 
 Last week also our company names (all three of them!) were mounted on the wall at [the office](https://foursquare.com/v/contur--konsorten/4f391890e4b0179e5f442280) which gives our residency in Berlin a more official air.
 
-[![Represent on the door!](http://farm8.staticflickr.com/7209/6817932994_cda5cc3b53.jpg)](http://www.flickr.com/photos/alper/6817932994/ "Represent on the door! by illustir, on Flickr")
+[![Represent on the door!](6817932994_cda5cc3b53.jpg)](http://www.flickr.com/photos/alper/6817932994/ "Represent on the door! by illustir, on Flickr")

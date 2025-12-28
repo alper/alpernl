@@ -14,7 +14,7 @@ aliases:
 ---
 Yesterday the next [ARCAM](http://www.arcam.nl/) lecture was held in [the Brakke Grond](http://www.debrakkegrond.nl/) by Jurriaan van Stigt of the firm [LEVS](http://www.levs.nl/).
 
-[![Jurriaan van Stigt](http://farm5.static.flickr.com/4111/5056922100_b4a5558750.jpg)](http://www.flickr.com/photos/alper/5056922100/ "Jurriaan van Stigt by illustir, on Flickr")
+[![Jurriaan van Stigt](5056922100_b4a5558750.jpg)](http://www.flickr.com/photos/alper/5056922100/ "Jurriaan van Stigt by illustir, on Flickr")
 
 Here again are my brief notes (quotes are paraphrases at best):
 
