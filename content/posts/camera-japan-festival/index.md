@@ -3,6 +3,7 @@ author: alper
 categories:
   - english
   - video
+  - japanese
 date: "2008-09-22T13:12:43+00:00"
 title: Camera Japan Festival
 aliases:

@@ -104,7 +104,8 @@
   * http://localhost:1313/blog/encounter-zone-maasenstrase/
   * http://localhost:1313/blog/het-manifest-van-terschelling/
 * [ ] Recategorize posts
-  * Copenhagen
+  * [ ] Japanese
+  * [ ] Fix: æ—¥æœ¬èªž
   * Tag publicity: http://localhost:1313/blog/week-323/
 * Turn Kumano Kodo posts into a series: https://blowfish.page/docs/series/
 

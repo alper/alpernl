@@ -4,6 +4,7 @@ categories:
   - english
   - language
   - turkish
+  - japanese
 date: "2021-11-29T08:37:26+00:00"
 title: ""
 aliases:
