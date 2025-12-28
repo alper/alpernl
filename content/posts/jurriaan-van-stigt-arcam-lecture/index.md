@@ -7,7 +7,7 @@ categories:
   - the-city
   - work
 date: "2010-10-06T10:36:41+00:00"
-title: "Jurriaan van Stigt ARCAM lecture —Â “Solving these things in a simple and right way is fun. It is our work.â€\x9D"
+title: "Jurriaan van Stigt ARCAM lecture — “Solving these things in a simple and right way is fun. It is our work.”"
 aliases:
   - /dingen/2010/10/jurriaan-van-stigt-arcam-lecture/
 

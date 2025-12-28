@@ -4,7 +4,7 @@ categories:
   - english
   - reading
 date: "2016-06-07T16:28:00+00:00"
-title: "New book “Designing Conversational Interfacesâ€\x9D"
+title: "New book "Designing Conversational Interfaces""
 aliases:
   - /dingen/2016/06/writing-a-book-on-conversational-interfaces/
 

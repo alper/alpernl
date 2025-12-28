@@ -77,7 +77,7 @@ It works using this relatively obscure and somewhat finicky tool [ical-buddy](ht
 which inserts the result of the following command in-place:
 
 ```
-icalBuddy -ec "FE0B6DAB-E598-4DE1-9F2B-7DE06A236647,4242177B-7D2B-4A20-AE23-A99DD51D5B80" -eep '*' eventsFrom:$CURRENT_DATE to:$CURRENT_DATE | sd 'â€¢' '##' | sd '\(alper@example.com\)' '' | sd '\n' '\n\n* \n\n'
+icalBuddy -ec "FE0B6DAB-E598-4DE1-9F2B-7DE06A236647,4242177B-7D2B-4A20-AE23-A99DD51D5B80" -eep '*' eventsFrom:$CURRENT_DATE to:$CURRENT_DATE | sd '•' '##' | sd '\(alper@example.com\)' '' | sd '\n' '\n\n* \n\n'
 ```
 
 This call to `icalBuddy` excludes a bunch of calendars I'm not interested in, queries the calendar for events within the specified day and then does a bunch of replace actions that turn it into markdown.

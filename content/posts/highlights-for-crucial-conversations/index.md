@@ -41,15 +41,15 @@ aliases:
 
 > Before you begin, examine your motives. Ask yourself the Start with Heart questions:
 >
->  â€¢    What do I want for me?
->  â€¢    What do I want for others?
->  â€¢    What do I want for the relationship?
+>  •    What do I want for me?
+>  •    What do I want for others?
+>  •    What do I want for the relationship?
 
 > Mutual Respect is the continuance condition of dialogue. As people perceive that others don’t respect them, the conversation immediately becomes unsafe and dialogue comes to a screeching halt.
 
 > Ask the following question to determine when Mutual Respect is at risk:
 >
->  â€¢    Do others believe I respect them?
+>  •    Do others believe I respect them?
 
 > We Start with Heart by committing to stay in the conversation until we invent a solution that serves a purpose we both share.
 
@@ -67,11 +67,11 @@ aliases:
 
 > These five tools can be easily remembered with the acronym STATE. It stands for:
 >
->  â€¢    Share your facts
->  â€¢    Tell your story
->  â€¢    Ask for others’ paths
->  â€¢    Talk tentatively
->  â€¢    Encourage testing
+>  •    Share your facts
+>  •    Tell your story
+>  •    Ask for others’ paths
+>  •    Talk tentatively
+>  •    Encourage testing
 
 > To make matters worse, this strategy creates still another self-fulfilling prophecy. We’re so anxious to blurt out our unflattering conclusions that we say things in extremely ineffective ways. Then, when we get bad results (and we are going to get bad results), we tell ourselves that we just can’t share risky views without creating problems. So the next time we’ve got something sticky to say, we’re even more reluctant to say it. We hold it inside where the story builds up steam, and when we do eventually share our horrific story, we do so with a vengeance. The cycle starts all over again.
 

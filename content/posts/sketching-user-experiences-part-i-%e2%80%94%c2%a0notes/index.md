@@ -6,7 +6,7 @@ categories:
   - product-/-design
   - reading
 date: "2009-08-18T12:09:04+00:00"
-title: Sketching User Experiences part I —Â notes
+title: Sketching User Experiences part I — notes
 aliases:
   - /dingen/2009/08/sketching-user-experiences-part-i-— notes/
 

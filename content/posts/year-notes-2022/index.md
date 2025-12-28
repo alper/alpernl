@@ -96,7 +96,7 @@ Not everything I’m tracking is sticking or even on track, but building habits 
 
 While I was cramming HSK3 vocabulary in 2021, I realized I had no real motivation to learn Chinese. I probably never really had any to begin with. Following a whim I switched to Japanese. That has been going reasonably well and I can even recycle my knowledge of Chinese characters when learning kanji.
 
-I finished the [â€ŽHuman Japanese iPhone app](https://apps.apple.com/us/app/human-japanese/id304090210) and then spent the rest of the year learning all the vocabulary in it. Below you can see 4500 cards in Anki spread over a full year of studying.
+I finished the [Human Japanese iPhone app](https://apps.apple.com/us/app/human-japanese/id304090210) and then spent the rest of the year learning all the vocabulary in it. Below you can see 4500 cards in Anki spread over a full year of studying.
 
 {{< figure src="IMG_788F18B84190-1.jpeg" alt="" caption="" >}}
 

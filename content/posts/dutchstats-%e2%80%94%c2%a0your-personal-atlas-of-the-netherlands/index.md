@@ -6,7 +6,7 @@ categories:
   - monster-swell
   - product-/-design
 date: "2010-06-10T13:58:06+00:00"
-title: Dutchstats —Â Your personal Atlas of the Netherlands
+title: Dutchstats — Your personal Atlas of the Netherlands
 aliases:
   - /dingen/2010/06/dutchstats-— your-personal-atlas-of-the-netherlands/
 

@@ -5,7 +5,7 @@ categories:
   - english
   - politics
 date: "2013-06-18T20:52:40+00:00"
-title: 'Autofreies Kreuzberg: ManteuffelstraÃŸe'
+title: 'Autofreies Kreuzberg: Manteuffelstraße'
 aliases:
   - /dingen/2013/06/autofreies-kreuzberg-manteuffelstrase/
 

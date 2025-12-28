@@ -12,7 +12,7 @@ aliases:
 ---
 This week started pretty extreme ((Thoug we wouldn't have it any other way. It was epic!)) with 12+ hour days on Monday and Tuesday culminating in the launch of [PLAY Pilots](http://playpilots.nl/).
 
-[![Home â€¢ PLAY Pilots](http://farm5.static.flickr.com/4073/4865194833_77f00733ce.jpg)](http://www.flickr.com/photos/alper/4865194833/ "Home â€¢ PLAY Pilots by illustir, on Flickr")
+[![Home • PLAY Pilots](http://farm5.static.flickr.com/4073/4865194833_77f00733ce.jpg)](http://www.flickr.com/photos/alper/4865194833/ "Home • PLAY Pilots by illustir, on Flickr")
 
 Wednesday was occupied with fallout, rest and coming to terms with [Stumptown Amsterdam's](http://tmagazine.blogs.nytimes.com/2010/03/18/going-dutch-stumptown-coffee-in-amsterdam/) closing. I drank quite some coffee there and talked lots of work. Also Martijn dropped by the office to solder something:
 

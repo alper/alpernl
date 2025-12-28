@@ -5,7 +5,7 @@ categories:
   - english
   - product-/-design
 date: "2018-05-24T18:17:14+00:00"
-title: Parklets BergmannstraÃŸe
+title: Parklets Bergmannstraße
 aliases:
   - /dingen/2018/05/parklets-bergmannstrase/
 
