@@ -92,7 +92,7 @@ After trying every possible tracker out there, I picked [Strides](https://apps.a
 
 Not everything I’m tracking is sticking or even on track, but building habits takes time and active reflection. This app is the most minimal first step on that path.
 
-### æ—¥æœ¬èªž
+### 日本語
 
 While I was cramming HSK3 vocabulary in 2021, I realized I had no real motivation to learn Chinese. I probably never really had any to begin with. Following a whim I switched to Japanese. That has been going reasonably well and I can even recycle my knowledge of Chinese characters when learning kanji.
 
