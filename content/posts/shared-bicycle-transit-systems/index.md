@@ -5,6 +5,7 @@ categories:
   - product-design
   - the-city
   - travel
+  - san-francisco
 date: "2009-09-27T22:16:32+00:00"
 title: Shared bicycle transit systems
 aliases:

@@ -4,6 +4,7 @@ categories:
   - amsterdam
   - food
   - nederlands
+  - san-francisco
 date: "2009-10-04T15:03:35+00:00"
 title: Restauranten gevraagd
 aliases:

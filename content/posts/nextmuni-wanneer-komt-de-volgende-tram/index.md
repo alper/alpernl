@@ -5,6 +5,7 @@ categories:
   - nederlands
   - the-city
   - travel
+  - san-francisco
 date: "2009-12-21T11:24:49+00:00"
 title: NextMuni — Wanneer komt de volgende tram?
 aliases:

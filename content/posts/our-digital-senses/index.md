@@ -4,6 +4,7 @@ categories:
   - english
   - internet
   - monster-swell
+  - san-francisco
 date: "2008-11-05T21:16:51+00:00"
 title: Our digital senses
 aliases:

@@ -5,6 +5,7 @@ categories:
   - monster-swell
   - nederlands
   - politics
+  - san-francisco
 date: "2010-03-19T07:35:31+00:00"
 title: In code we trust — Vertrouwen in de overheid, bureaucratie en technologie
 aliases:

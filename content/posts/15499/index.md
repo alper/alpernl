@@ -3,6 +3,9 @@ author: alper
 categories:
   - english
   - the-city
+  - berlin
+  - london
+  - san-francisco
 date: "2019-06-06T22:34:21+00:00"
 title: ""
 aliases:

@@ -4,6 +4,7 @@ categories:
   - english
   - photography
   - travel
+  - san-francisco
 date: "2008-10-28T09:26:58+00:00"
 title: Adjustments
 aliases:
