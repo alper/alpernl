@@ -3,6 +3,11 @@ author: alper
 categories:
   - english
   - travel
+  - copenhagen
+  - london
+  - berlin
+  - amsterdam
+  - san-francisco
 date: "2009-01-03T13:21:06+00:00"
 title: My year in cities, 2008
 aliases:

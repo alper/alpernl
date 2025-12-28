@@ -3,6 +3,9 @@ author: alper
 categories:
   - english
   - travel
+  - london
+  - amsterdam
+  - copenhagen
 date: "2010-01-02T14:20:57+00:00"
 title: Year in Cities 2009
 aliases:

@@ -2,6 +2,8 @@
 author: alper
 date: "2007-05-31T15:27:19+00:00"
 title: Weer terug in Kopenhagen
+categories:
+  - copenhagen
 aliases:
   - /dingen/2007/05/weer-terug-in-kopenhagen/
 

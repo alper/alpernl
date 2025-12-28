@@ -7,6 +7,7 @@ categories:
   - photography
   - product-design
   - work
+  - copenhagen
 date: "2010-10-05T11:41:41+00:00"
 title: Weeknotes 185
 aliases:

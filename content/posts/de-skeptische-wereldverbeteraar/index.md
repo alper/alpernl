@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - copenhagen
+  - climate
+  - politics
 date: "2007-10-25T20:54:18+00:00"
 title: De skeptische wereldverbeteraar
 aliases:

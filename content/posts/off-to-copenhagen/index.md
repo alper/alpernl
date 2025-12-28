@@ -3,6 +3,7 @@ author: alper
 categories:
   - english
   - travel
+  - copenhagen
 date: "2008-06-26T00:48:04+00:00"
 title: Off to Copenhagen
 aliases:

@@ -5,6 +5,7 @@ categories:
   - internet
   - music
   - travel
+  - copenhagen
 date: "2009-07-03T09:35:50+00:00"
 title: Rebooted
 aliases:

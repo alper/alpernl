@@ -4,6 +4,7 @@ categories:
   - english
   - monster-swell
   - work
+  - copenhagen
 date: "2012-06-19T07:45:47+00:00"
 title: 'Week 274: programming for n00bs, meetups, matches and hackathons'
 aliases:
