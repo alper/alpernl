@@ -61,13 +61,13 @@ Beide websites integreren zonder al teveel problemen met een serie andere sites 
 
 Op het [Hack de Overheid](http://www.hackdeoverheid.nl) event zei iemand dat ‘het integreren van systemen moeilijk en complex is en dat als je dat goed kunt je er veel geld mee kunt verdienen’. Dit is een bekende algemene wijsheid in de enterprise IT maar als er één ding is wat de mashups die online normaal zijn bewijzen, is het dat integratie op het open web alles behalve moeilijk is.
 
-Er zijn bruikbare API-standaarden met tooling (( [cURL](http://en.wikipedia.org/wiki/CURL) bijvoorbeeld)), daarnaast zijn er goede standaarden voor [identiteit](http://openid.net/) en [authenticatie](http://oauth.net/) ((En het is allemaal open waardoor één partij er niet een onevenredig belang bij heeft om het te controleren en complex te maken.)) en als je het jezelf niet te ingewikkeld maakt hoeft het echt niet moeilijk te zijn. En dit is niet nieuw ofzo, deze technologie bestaat al lang en bouwt gewoon door op wat het internet al goed doet.
+Er zijn bruikbare API-standaarden met tooling [^1], daarnaast zijn er goede standaarden voor [identiteit](http://openid.net/) en [authenticatie](http://oauth.net/) [^2] en als je het jezelf niet te ingewikkeld maakt hoeft het echt niet moeilijk te zijn. En dit is niet nieuw ofzo, deze technologie bestaat al lang en bouwt gewoon door op wat het internet al goed doet.
 
 ### Standaarden gebaseerd
 
-De sites die we gebouwd zijn zijn compleet op standaarden gebaseerd. Ik heb de pagina's als experiment geschreven in HTML5 (en [gevalideerd](http://html5.validator.nu/) ((Validatie zegt niet zoveel trouwens. Ik krijg vaak genoeg valide XHTML-code die compleet onsemantisch is.))) deels uit interesse en deels omdat ik van mening ben dat het nu gangbare XHTML een dood spoor is.
+De sites die we gebouwd zijn zijn compleet op standaarden gebaseerd. Ik heb de pagina's als experiment geschreven in HTML5 (en [gevalideerd](http://html5.validator.nu/) [^3]) deels uit interesse en deels omdat ik van mening ben dat het nu gangbare XHTML een dood spoor is.
 
-Verder heb ik waar ik het gepast vond ook gegevens (bijvoorbeeld de contactgegevens van de scholen) met [microformats](http://microformats.org) geannoteerd. Het idee dat microformats toevoegen aan een project significante extra tijd kost ((Opdrachtgever: “Ja, doe dat maar als je tijd over hebt.”)) is wat mij betreft achterhaald en tegenwoordig is er een hard reëel voordeel aan te voeren.
+Verder heb ik waar ik het gepast vond ook gegevens (bijvoorbeeld de contactgegevens van de scholen) met [microformats](http://microformats.org) geannoteerd. Het idee dat microformats toevoegen aan een project significante extra tijd kost [^4] is wat mij betreft achterhaald en tegenwoordig is er een hard reëel voordeel aan te voeren.
 
 Het kost even moeite om jezelf aan te leren om standaarden en microformats te gebruiken, maar als je het kunt is het bijna meer moeite om het niet te doen.
 
@@ -76,3 +76,8 @@ Het kost even moeite om jezelf aan te leren om standaarden en microformats te ge
 Verder heb ik beide sites gebouwd in een tijdspanne van een paar dagen. Waarmee we wilden aangeven dat een snel project ook echt snel kan en dat het maken van een gebruiksvriendelijke niet-triviale site niet veel tijd en geld hoeft te kosten.
 
 Het kan allemaal wél beter. Laten we het dus gaan doen.
+
+[^1]:  [cURL](http://en.wikipedia.org/wiki/CURL) bijvoorbeeld
+[^2]: En het is allemaal open waardoor één partij er niet een onevenredig belang bij heeft om het te controleren en complex te maken.
+[^3]: Validatie zegt niet zoveel trouwens. Ik krijg vaak genoeg valide XHTML-code die compleet onsemantisch is.
+[^4]: Opdrachtgever: “Ja, doe dat maar als je tijd over hebt.”

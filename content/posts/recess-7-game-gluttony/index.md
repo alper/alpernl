@@ -17,10 +17,12 @@ How different this is from back in the day when I would spend days grinding leve
 
 How different it is even from my tastes of a couple of years ago where I would play the occasional game but also see over 60 movies a year and a couple of dozen plays. That has changed and not just because of my move to Berlin.
 
-Good games are not only abundant these days, they are cheaper than passive media ((A cinema ticket is somewhere between €10-15 and theater can be double that for only 1-2 hours of entertainment.)), easier to get and more engaging. Things that are not interactive have a terribly hard time getting and keeping my attention unless they're very good or very short. [Some stupid people](http://www.nicholasgcarr.com/) would bemoan the change of our media consumption patterns and imagine that we are losing something essential. I don't agree. I think we are better off with these more systemically complex and often also more social experiences.
+Good games are not only abundant these days, they are cheaper than passive media [^1], easier to get and more engaging. Things that are not interactive have a terribly hard time getting and keeping my attention unless they're very good or very short. [Some stupid people](http://www.nicholasgcarr.com/) would bemoan the change of our media consumption patterns and imagine that we are losing something essential. I don't agree. I think we are better off with these more systemically complex and often also more social experiences.
 
 So games replace previous media only once for each person and after they've done that they replace each other. I play many games briefly but intensively and then never again ( [Plague](https://itunes.apple.com/gb/app/plague-inc./id525818839?mt=8) for instance) or sometimes I never manage to get into them at all (I played all of 30 minutes of Swords and Sworcercy). And then new games arrive and it turns out to be hard to get back into the swing, let alone the story of a game you played a week ago. Nothing seems to stick.
 
 Making digital games that we can play over the course of years seems hard. Purely digital forms are too easy to forget and often limited in many ways. Long lasting games need to create widespread alliances in both the physical and the social world so we will keep re-encountering them in different contexts. Minecraft, Joust and Angry Birds come to mind off-hand. That suggests that cracking this question is the way to becoming successful, or is it the other way around?
 
 Alper
+
+[^1]: A cinema ticket is somewhere between €10-15 and theater can be double that for only 1-2 hours of entertainment.

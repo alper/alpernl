@@ -10,7 +10,7 @@ aliases:
   - /dingen/2010/10/lidmaatschappen-in-de-tijd-van-de-netwerkrevolutie/
 
 ---
-Voor sommige e-mails zou het handig zijn als ik een publiek e-mail account ((Er bestaan concepten die dat doen om de schaalvoordelen van het publieke internet te koppelen aan het traditioneel privé-communicatiemedium e-mail.)) had (of een weblog dat ook e-mails kon versturen en ontvangen). Hier een bericht naar aanleiding van een e-mail naar [D66](http://d66.nl) over het opzeggen van mijn lidmaatschap.
+Voor sommige e-mails zou het handig zijn als ik een publiek e-mail account [^1] had (of een weblog dat ook e-mails kon versturen en ontvangen). Hier een bericht naar aanleiding van een e-mail naar [D66](http://d66.nl) over het opzeggen van mijn lidmaatschap.
 
 Meestal word ik om de een of andere reden lid van dit soort organisaties en vergeet ik het. Dan word ik eraan herinnerd als ze het willen verlengen en dan vraag ik me af: ‘What have you done for me lately?’
 
@@ -44,3 +44,5 @@ Op een wat principiëler vlak is je invloed in het publieke debat en je ideologi
 1. Maak je relevantie persoonlijker en kleiner van schaal, koppel geld dat je nodig hebt aan die relevantie in plaats van één keer per jaar een _lump sum_ te vragen waarvan het niet duidelijk is waarvoor dat dan is en wat ermee gebeurt.
 
 Moet je daarvoor je complete communicatie- en engagements-strategie veranderen? Ik denk het wel.
+
+[^1]: Er bestaan concepten die dat doen om de schaalvoordelen van het publieke internet te koppelen aan het traditioneel privé-communicatiemedium e-mail.

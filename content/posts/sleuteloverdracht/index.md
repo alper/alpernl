@@ -20,4 +20,6 @@ Deze en volgende week opknappen: Muren schilderen/behangen, vloer doen, vloerbed
 
 Wat heb ik acuut nodig? Een clue over hoe de boel te kleuren/stofferen, een koelkast en dozen.
 
-Voor de rest van de spullen heb ik een lijst zo lang als mijn arm ((Ik moet bijvoorbeeld een hele keuken, woonkamer en slaapkamer inrichten vanaf nul.)) maar dat komt allemaal nog wel.
+Voor de rest van de spullen heb ik een lijst zo lang als mijn arm [^1] maar dat komt allemaal nog wel.
+
+[^1]: Ik moet bijvoorbeeld een hele keuken, woonkamer en slaapkamer inrichten vanaf nul.

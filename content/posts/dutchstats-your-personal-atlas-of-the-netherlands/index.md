@@ -15,7 +15,7 @@ Last weekend we released [Dutchstats](http://bit.ly/dutchstats/), an online inte
 
 ### What?
 
- **[Dutchstats](http://bit.ly/dutchstats/)** — an application to view Dutch election results and statistics collected by the [CBS](http://www.cbs.nl/) ((Not the television network, but the Dutch Central Bureau for Statistics.)) side by side.
+ **[Dutchstats](http://bit.ly/dutchstats/)** — an application to view Dutch election results and statistics collected by the [CBS](http://www.cbs.nl/) [^1] side by side.
 
 [**http://bit.ly/dutchstats**](http://bit.ly/dutchstats)
 
@@ -36,7 +36,7 @@ The election results for the European Elections of 2009 came from [nlverkiezinge
 
 ### Why?
 
-This project started as a foray into drawing municipal boundaries on the screen. No easy to use tool ((GIS tools do not qualify as easy to use.)) to plot statistics at that level existed yet, so we thought that would be an interesting and useful problem to tackle. After some [attempts](/dingen/2010/03/municipal-boundaries-of-the-netherlands/) we created a proof of concept in [Processing](/dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/), but we did not think a Java applet is ‘distributable’ enough. We then rewrote the entire thing in [Processing.js](http://processingjs.org).
+This project started as a foray into drawing municipal boundaries on the screen. No easy to use tool [^2] to plot statistics at that level existed yet, so we thought that would be an interesting and useful problem to tackle. After some [attempts](/dingen/2010/03/municipal-boundaries-of-the-netherlands/) we created a proof of concept in [Processing](/dingen/2010/03/verkiezingsuitslagen-gevisualiseerd/), but we did not think a Java applet is ‘distributable’ enough. We then rewrote the entire thing in [Processing.js](http://processingjs.org).
 
 A logical consequence of having an easy way to draw local statistics was to create a tool to visualize the statistics that were already bundled in the provided Shapefile. We think the result is quite interesting.
 
@@ -51,7 +51,7 @@ But there are dozens more interesting stories waiting to be told in these number
 
 ### What's next?
 
-The source code is [available on github](http://github.com/alper/dutchstats). An open source release geared towards making it easy to plot your own data on the map —even for non-programmers— is forthcoming. Also we only discovered [a more recent Shapefile](http://www.cbs.nl/nl-NL/menu/themas/dossiers/nederland-regionaal/publicaties/geografische-data/archief/2010/2010-wijk-en-buurtkaart-2009.htm) on the CBS site ((Though we had looked for it ourselves several times on that same site.)) after the public launch of this project. We will integrate that as soon as possible.
+The source code is [available on github](http://github.com/alper/dutchstats). An open source release geared towards making it easy to plot your own data on the map —even for non-programmers— is forthcoming. Also we only discovered [a more recent Shapefile](http://www.cbs.nl/nl-NL/menu/themas/dossiers/nederland-regionaal/publicaties/geografische-data/archief/2010/2010-wijk-en-buurtkaart-2009.htm) on the CBS site [^3] after the public launch of this project. We will integrate that as soon as possible.
 
 Some other stuff we are considering:
 
@@ -59,3 +59,7 @@ Some other stuff we are considering:
 - Zooming display, the same statistics are provided on lower levels as well. Adding those shapefiles and enabling drilling down to the very local level could be very interesting.
 - Showing all of the data displays in small multiples.
 - We're always interested in displaying more data that can be aggregated at the municipal level. [Get in touch](http://monsterswell.com/).
+
+[^1]: Not the television network, but the Dutch Central Bureau for Statistics.
+[^2]: GIS tools do not qualify as easy to use.
+[^3]: Though we had looked for it ourselves several times on that same site.

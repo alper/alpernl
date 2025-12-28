@@ -13,7 +13,7 @@ aliases:
 ---
 Mensen die me kennen weten dat ik er nogal heftige meningen over de stad op na houdt. Veel is goed, maar veel kan ook beter en ik zou die verbeteringen graag zien en eraan bijdragen.
 
-Zo twitterde ik wat met [Sebastiaan Capel](http://www.sebastiaancapel.nl/), stadsdeelraadlid voor [D66](http://d66.nl) in Amsterdam die in [zijn twitterprofiel](http://twitter.com/#!/sebastiaancapel) [Jane Jacobs](http://en.wikipedia.org/wiki/Jane_Jacobs) heeft staan ((De meeste politic zullen geen idee hebben wie dat is.)). Dat is een goed begin, maar waar blijven dan de verbeteringen in de stad? Zeker aangezien [een eerder onderzoek](/dingen/2010/02/stemwijzers-en-verschillen-tussen-partijen-punt-voor-punt/) liet zien dat D66 één van de auto-vriendelijkste partijen in Amsterdam is.
+Zo twitterde ik wat met [Sebastiaan Capel](http://www.sebastiaancapel.nl/), stadsdeelraadlid voor [D66](http://d66.nl) in Amsterdam die in [zijn twitterprofiel](http://twitter.com/#!/sebastiaancapel) [Jane Jacobs](http://en.wikipedia.org/wiki/Jane_Jacobs) heeft staan [^1]. Dat is een goed begin, maar waar blijven dan de verbeteringen in de stad? Zeker aangezien [een eerder onderzoek](/dingen/2010/02/stemwijzers-en-verschillen-tussen-partijen-punt-voor-punt/) liet zien dat D66 één van de auto-vriendelijkste partijen in Amsterdam is.
 
 Dus kwamen we bij elkaar voor één van Sebastiaans stadsgesprekken, waarvan [het verslag nu op zijn site](http://www.sebastiaancapel.nl/weblog.cfm?blogInDetail=stadsgesprek_4_alper_cugu_over_24_uurs_economie_en_vertrutting) staat:
 
@@ -22,3 +22,5 @@ Dus kwamen we bij elkaar voor één van Sebastiaans stadsgesprekken, waarvan [he
 Een en ander behoeft misschien nog toelichting maar het was vroeg en we gingen hard, dus ik ben heel blij dat dit eruit is voortgekomen. De uitspraak over de _24 hour diner_ is trouwens van [Ben Hammersley](http://twitter.com/benhammersley/), maar hij vindt het vast niet erg dat ik hem geleend heb (voor een goed doel).
 
 D66 lijkt op het moment de vriendelijkste partij voor “De Stad”. Nu kijken wat er verandert.
+
+[^1]: De meeste politic zullen geen idee hebben wie dat is.

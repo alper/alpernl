@@ -29,4 +29,6 @@ Others [have](http://magicalnihilism.com/2010/08/10/5-things-im-thinking-about/)
 
 Glad to hear I'm not the only one thinking of [Maneki Neko](http://tqft.net/wiki/Maneki_Neko) all the time. I have been since I first read it years back. And of course also always thinking of food and travel, of [the Primer](http://en.wikipedia.org/wiki/A_Young_Lady's_Illustrated_Primer), Jason Bourne and executing a minimal material lifestyle.
 
-How does this work? Can I tag others? Maybe some Dutch people for a change (Dutch allowed, English preferred): [Kars Alfrink](http://leapfrog.nl/) ( [thanks!](http://leapfrog.nl/blog/archives/2010/08/26/5-things-i%E2%80%99m-thinking-about/)), [Olaf Koens](http://olafkoens.nl/), [Jaap Stronks](http://www.jaapstronks.nl/), [Ernst-Jan Pfauth](http://dutchproblogger.nl/), [Anne Helmond](http://www.annehelmond.nl/) ((I don't want to burden you guys with a stupid meme, but I suspect you may have interesting thoughts.))
+How does this work? Can I tag others? Maybe some Dutch people for a change (Dutch allowed, English preferred): [Kars Alfrink](http://leapfrog.nl/) ( [thanks!](http://leapfrog.nl/blog/archives/2010/08/26/5-things-i%E2%80%99m-thinking-about/)), [Olaf Koens](http://olafkoens.nl/), [Jaap Stronks](http://www.jaapstronks.nl/), [Ernst-Jan Pfauth](http://dutchproblogger.nl/), [Anne Helmond](http://www.annehelmond.nl/) [^1]
+
+[^1]: I don't want to burden you guys with a stupid meme, but I suspect you may have interesting thoughts.

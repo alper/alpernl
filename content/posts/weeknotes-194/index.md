@@ -60,4 +60,6 @@ Saturday we had [Open Data Day](http://www.opendataday.org/) at [@ouroffice](htt
 
 [![Open Data Day](http://farm6.static.flickr.com/5081/5231587162_723c63a8c0.jpg)](http://www.flickr.com/photos/alper/5231587162/ "Open Data Day by illustir, on Flickr")
 
-The rest of the weekend I played around with installing [OpenCV](http://opencv.willowgarage.com/wiki/) but could not manage to get [the python bindings](http://code.google.com/p/pyopencv/) to install on my OS X so I gave up on that ((I've spent more than enough time in my life chasing down C++ library and linkage errors.)), the Java Processing library also flaked out.
+The rest of the weekend I played around with installing [OpenCV](http://opencv.willowgarage.com/wiki/) but could not manage to get [the python bindings](http://code.google.com/p/pyopencv/) to install on my OS X so I gave up on that [^1], the Java Processing library also flaked out.
+
+[^1]: I've spent more than enough time in my life chasing down C++ library and linkage errors.

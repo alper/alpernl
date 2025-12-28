@@ -23,7 +23,7 @@ A bunch of schools in Karlsruhe were attacked by ransomware and their servers ha
 
 Now the first question that comes to mind is of course: Why does a school have servers? Don't all schools run in the cloud these days?
 
-Well, in Germany they don't. There are lots of agencies and levels of decision makers all of whom are too busy covering their own ass and none of them will say: "Schools can use cloud solutions." People and organizations being as risk averse as they are in Germany, nobody will use cloud solutions without such a declaration. ((Probably for the best because if they do, they will be sued by a random wanker (such is the German legal system).))
+Well, in Germany they don't. There are lots of agencies and levels of decision makers all of whom are too busy covering their own ass and none of them will say: "Schools can use cloud solutions." People and organizations being as risk averse as they are in Germany, nobody will use cloud solutions without such a declaration. [^1]
 
 So what do they do instead? They have to get servers and people to install and maintain barely useable non-cloud collaborative software tools. Nobody in their right mind would use these tools and kids in private schools of course don't either, but this dysfunctional ideology is foisted upon kids who have no other choice.
 
@@ -32,3 +32,5 @@ These tools are not usable in any way, barely work even in the best of circumsta
 That's where somebody like the poster above from KRITIS comes in. That's an organization representing people who get off on pushing around physical servers and [whose founding member sells an alternative private collaboration suite](https://ag.kritis.info/wer-sind-wir/), exactly like the ones that they recommend people use.
 
 I agree with their core point that critical infrastructure should be protected better and in just doing that they'll generate more than enough work for all the security consultants in their network. Just stop scaring normal people because you benefit from the widespread climate of fear and hands off the kids.
+
+[^1]: Probably for the best because if they do, they will be sued by a random wanker (such is the German legal system).

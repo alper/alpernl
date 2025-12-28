@@ -9,9 +9,9 @@ aliases:
   - /dingen/2008/09/playing-with-public-transportation-data/
 
 ---
-As [promised a while back](/dingen/2008/06/workshop-session-on-geodata-visualization/) after we got our fill playing with the data I would release it to the public to see if you could come up with something interesting. I'd leaked the JSON file to [Kars](http://www.leapfrog.nl) and he applied his skills in visualizing things in processing ((With some help from [Ben Fry](http://benfry.com/).)) to the dataset.
+As [promised a while back](/dingen/2008/06/workshop-session-on-geodata-visualization/) after we got our fill playing with the data I would release it to the public to see if you could come up with something interesting. I'd leaked the JSON file to [Kars](http://www.leapfrog.nl) and he applied his skills in visualizing things in processing [^1] to the dataset.
 
-Then after some more back and forth I retrieved a similar dataset from the [ANWB](http://www.anwb.nl) site ((These site operators are so friendly and accomodating.)): the time to travel a similar distance at a similar time but this time by car ((With historical traffic congestion information added, but because the sampled time was around noon the effect should be negligible.)).
+Then after some more back and forth I retrieved a similar dataset from the [ANWB](http://www.anwb.nl) site [^2]: the time to travel a similar distance at a similar time but this time by car [^3].
 
 [![](http://farm4.static.flickr.com/3103/2743375229_dcc34baa21.jpg)](http://www.flickr.com/photos/kaeru/2743375229/in/set-72157606466915102)
 
@@ -24,3 +24,7 @@ latLatitude GPS coordinatelngLongitude GPS coordinateplaceInferred name of the l
 I find it interesting (and somewhat appalling) to see how large the difference is between taking the car or going by public transportation. Doing a sampling for 08:00 on Monday morning during rush hour might somewhat equalize this, but I think it's safe to say that car owners will remain at an advantage.
 
 So next up is e-mailing [GroenLinks](http://www.groenlinks.nl) and [Rover](http://www.rover.nl) to see if they can use this data or these visualizations.
+
+[^1]: With some help from [Ben Fry](http://benfry.com/).
+[^2]: These site operators are so friendly and accomodating.
+[^3]: With historical traffic congestion information added, but because the sampled time was around noon the effect should be negligible.

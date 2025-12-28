@@ -21,6 +21,8 @@ Brenno de Winter somt mijn irritaties en meer netjes op in [dit artikel op Webwe
 > **24\. De vervoerder staat centraal**
 > Het hele systeem lijkt er vooral zo gemaakt dat het de vervoerders het leven makkelijker maakt en de reizigers maar ten dele, en soms geheel niet. De vervoerder krijgt 'eerlijker' betaald voor zijn geleverde diensten. Overal waar problemen ontstaan, wordt de hete aardappel naar de reiziger geschoven. Niet de klant, maar de leverancier is koning. ( [Webwereld](http://mobile.webwereld.nl/de-vijf/64510/5--nee-25-problemen-met-ov-chipsysteem.html))
 
-Er heeft geen enkel inclusief, toegankelijk, gebruikersgericht ontwerp plaats gevonden (of als het dat heeft gedaan, zijn de resultaten bijzonder mager ((Ontwerp zonder borgen van de implementatie is hetzelfde als geen ontwerp.)) ).
+Er heeft geen enkel inclusief, toegankelijk, gebruikersgericht ontwerp plaats gevonden (of als het dat heeft gedaan, zijn de resultaten bijzonder mager [^1] ).
 
 Voor wie werken die vervoerders nu eigenlijk?
+
+[^1]: Ontwerp zonder borgen van de implementatie is hetzelfde als geen ontwerp.

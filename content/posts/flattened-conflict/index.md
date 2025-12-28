@@ -14,6 +14,10 @@ The Guardian shows a [clip of the recent armed confrontations](http://www.guardi
 
 This is a precursor to how amateur media are going to become even more important to the dissemination of news and how new media can flatten information asymmetry quite effectively.
 
-One question remains about asymmetry and that is asymmetry in mainstream media reporting. The British press has a reputation to have one of the more fair and balanced reports on the conflict (as does for instance Ha'aretz) ((Though odd that I couldn't find it at [the Independent](http://www.independent.co.uk/).)). I am curious if Dutch mainstream media have aired this [fairly graphic clip](http://www.guardian.co.uk/world/video/2008/dec/05/hebron-settlers-shooting-israel-palestinians), I can't find anything on either [the NOS player](http://player.nos.nl/) ((Maybe because the search and the interface of that player are completely atrocious.))or the main NOS site ((Except for [this brief blurb](http://www.nos.nl/nosjournaal/artikelen/2008/12/6/hebronschuttersgevenzichzelfaan.html) about today's events.)) and neither on [RTL Nieuws](http://www.rtl.nl/actueel/rtlnieuws/).
+One question remains about asymmetry and that is asymmetry in mainstream media reporting. The British press has a reputation to have one of the more fair and balanced reports on the conflict (as does for instance Ha'aretz) [^1]. I am curious if Dutch mainstream media have aired this [fairly graphic clip](http://www.guardian.co.uk/world/video/2008/dec/05/hebron-settlers-shooting-israel-palestinians), I can't find anything on either [the NOS player](http://player.nos.nl/) [^2]or the main NOS site [^3] and neither on [RTL Nieuws](http://www.rtl.nl/actueel/rtlnieuws/).
 
 Anybody seen this on Dutch television?
+
+[^1]: Though odd that I couldn't find it at [the Independent](http://www.independent.co.uk/).
+[^2]: Maybe because the search and the interface of that player are completely atrocious.
+[^3]: Except for [this brief blurb](http://www.nos.nl/nosjournaal/artikelen/2008/12/6/hebronschuttersgevenzichzelfaan.html) about today's events.

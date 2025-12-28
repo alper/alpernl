@@ -10,7 +10,7 @@ aliases:
   - /dingen/2012/09/pivot-over-berlin/
 
 ---
-I biked over tonight to see the installation [PIVOT by Jacob Kirkegaard](http://fonik.dk/works/pivot.html) at the leap in Berlin ((In the Berlin Carré, which is quite a bit different from the Amsterdam Carré. That I can assure you.)) before it finishes tomorrow.
+I biked over tonight to see the installation [PIVOT by Jacob Kirkegaard](http://fonik.dk/works/pivot.html) at the leap in Berlin [^1] before it finishes tomorrow.
 
 You can read what the author wrote and see his or my pictures. It is a very nicely done curved projection from the Fernsehturm with recorded sound from the pivot mechanics of that same tower. Impressive and imposing.
 
@@ -19,3 +19,5 @@ You can read what the author wrote and see his or my pictures. It is a very nice
 What struck me most was that the whole thing seems to move so very slowly, deceptively so. When you allow yourself to get engrossed with one part of the video, one part of Berlin before you know it you have lost track of where you were and the entire thing has moved on. So much of Berlin to see in there.
 
 Tomorrow it's off to the opening of [the Casey Reas show at DAM](http://www.dam-berlin.de/mlExhibitions-pa-showpage-pid-3.html).
+
+[^1]: In the Berlin Carré, which is quite a bit different from the Amsterdam Carré. That I can assure you.

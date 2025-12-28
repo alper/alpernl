@@ -16,6 +16,8 @@ Last Sunday we did a big haul and carried most of our stuff over to the new plac
 
 My story in Delft had been finished for a while now. Loads of friends but also a lot of dead ends. Being in Amsterdam gives a fresh perspective and breathing space.
 
-The only thing is, I don't usually mind giving up comfort, but the comfiness of [ten year's worth of accrued social contacts](http://twitter.com/alper/status/2876582221), friends, loose acquintainces, class mates, colleagues and the likes is a real loss. I hope to be able to build something similar quickly over here (and lose that again as well ((Yes, I plan to move out in a year or two.))).
+The only thing is, I don't usually mind giving up comfort, but the comfiness of [ten year's worth of accrued social contacts](http://twitter.com/alper/status/2876582221), friends, loose acquintainces, class mates, colleagues and the likes is a real loss. I hope to be able to build something similar quickly over here (and lose that again as well [^1]).
 
 So this is new beginnings in familiar places with lots of fun.
+
+[^1]: Yes, I plan to move out in a year or two.

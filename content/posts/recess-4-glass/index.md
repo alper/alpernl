@@ -20,10 +20,12 @@ Data goggles obviously means [Google Glass](http://www.google.com/glass/start/).
 
 http://twitter.com/alper/status/304595659749728256
 
-I'm well aware of the standard arguments against AR. Kars was quick to [point them out](http://www.youtube.com/watch?v=o03wWtWASW4). These are very valid, but it is still an experience that can be put to a variety of uses. Just look at the [Move](http://us.playstation.com/ps3/playstation-move/) controller's whose limited in- and outputs enable a game as interesting as [Joust](http://www.jsjoust.com/) of which [the depths have not been exhausted](http://gutefabrik.com/sportsfriends.html) yet ((Why haven't we played Joust in the dark yet?)). Similarly the hardware affordances of Glass should yield at least one interesting game.
+I'm well aware of the standard arguments against AR. Kars was quick to [point them out](http://www.youtube.com/watch?v=o03wWtWASW4). These are very valid, but it is still an experience that can be put to a variety of uses. Just look at the [Move](http://us.playstation.com/ps3/playstation-move/) controller's whose limited in- and outputs enable a game as interesting as [Joust](http://www.jsjoust.com/) of which [the depths have not been exhausted](http://gutefabrik.com/sportsfriends.html) yet [^1]. Similarly the hardware affordances of Glass should yield at least one interesting game.
 
 What is the most annoying part of Joust is finding enough controllers to play it with. If Glass reaches the Android like ubiquity that Google is obviously aiming for, we can expect a very rich ecosystem to arise around this. These games will be mostly very boring, poor conversions or techno-wankery such as for instance [Ingress](http://www.ingress.com/) but we should not rule out that there may be one or two good ones to pop up as well. I'll take something that's half as fun to play as [Zumbie](http://www.youtube.com/watch?v=ztkkhqhjAGM&feature=player_embedded) looks to be.
 
 Straight up game development of course is not the most interesting thing that such a platform offers. The changes in our social interaction that such hardware engenders will probably be the most interesting hooks to build interesting playful interactions into. So the loony activist above was not that far off the mark, but let us try to be a bit more constructive.
 
 \- Alper
+
+[^1]: Why haven't we played Joust in the dark yet?

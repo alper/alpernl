@@ -17,7 +17,7 @@ Ik heb hier al geschreven over [datavisualisatie in campagnes](/dingen/2010/05/e
 
 > ‘Er lagen geen plannen klaar. De partijen zijn webmensen gaan inhuren, terwijl die er al een jaar hadden moeten werken. En dat terwijl ze zoveel tijd hebben gehad. Een strategische blunder.’ ( [VN](http://www.vn.nl/Archief/Politiek/Artikel-Politiek/Heeft-online-campagnevoeren-zin.htm))
 
-Die hadden er al een jaar moeten werken? Hoe lang hebben we dat internet nu al? ((‘Want dat internet, gaat nog 'ns heel groot worden meneer…’))
+Die hadden er al een jaar moeten werken? Hoe lang hebben we dat internet nu al? [^1]
 
 De campagnes zijn inderdaad te kort om met een concept te ‘knallen’ zoals het gebruikelijk is in de marketingwereld. Het artikel van Maurits is een momentopname twee weken voor de verkiezingen. De [GroenLinks Toekomst Facebook Applicatie](http://www.facebook.com/groenlinks?v=app_126158100747505) (de eerste politieke facebook app in Nederland!) werd daarna pas gelanceerd net zoals de [Google Map voor de PvdA-campagne](http://www.pvda.nl/mijnbuurt/).
 
@@ -27,7 +27,7 @@ Politieke partijen hebben wel een woord voor het alternatief: _‘de permanente 
 
 ### Zin?
 
-Heeft de online campagne überhaupt zin? Dat is een vraag waar [Ernst-Jan](http://twitter.com/dutchproblogger) zich mee bezig houdt op zijn [netwerkrevolutie blog](http://netwerkrevolutie.nl). Ik neig ernaar om te zeggen dat internet de kosten van samenwerken verlaagt, maar dat we daarin in Nederland een remmende voorsprong hebben. De kosten om dingen te doen zijn hier al heel laag en de meeste dingen zijn al goed geregeld. Daarnaast zijn de meeste mensen die iets kunnen betekenen redelijk inert en hedonistisch ingesteld waardoor ze niet door een Facebook-groep in beweging komen ((De grootste zorg is waar het volgende biertje vandaan komt, dát of de hypotheekrente-aftrek.)). Online zie ik hier vooral als vastlegging van/rimpeling op het oppervlak van een echte onderliggende beweging.
+Heeft de online campagne überhaupt zin? Dat is een vraag waar [Ernst-Jan](http://twitter.com/dutchproblogger) zich mee bezig houdt op zijn [netwerkrevolutie blog](http://netwerkrevolutie.nl). Ik neig ernaar om te zeggen dat internet de kosten van samenwerken verlaagt, maar dat we daarin in Nederland een remmende voorsprong hebben. De kosten om dingen te doen zijn hier al heel laag en de meeste dingen zijn al goed geregeld. Daarnaast zijn de meeste mensen die iets kunnen betekenen redelijk inert en hedonistisch ingesteld waardoor ze niet door een Facebook-groep in beweging komen [^2]. Online zie ik hier vooral als vastlegging van/rimpeling op het oppervlak van een echte onderliggende beweging.
 
 Iets wat partijen wel kunnen doen en wat op de lange termijn zin lijkt te hebben is een voorstel van Greenfield aan de hand van zijn stuk over [de _community organization_ van Harvey Milk in het Castro](http://netwerkrevolutie.nl/post/536298592/wat-we-in-deze-digitale-tijden-van-harvey-milk-kunnen). Partijen moeten elke interactie, elk contact met potentiële stemmers (=iedereen) vastleggen. Die potentiële stemmers kunnen ze dan langzamerhand meer en meer informeren en betrekken.
 
@@ -48,3 +48,6 @@ Het resultaat is: [Mijn Buurt: Dit is Nederland](http://www.pvda.nl/mijnbuurt/) 
 Een aardige eerste stap waarin je per stad kun zien wat de gecombineerde uitkomsten zijn van de enquêtes en op postcode kunt zoomen naar wat mensen bij jou in de buurt vinden (zo die hem hebben ingevuld, zo niet dan mag je hem [direct zelf invullen](http://www.pvdawebservices.nl/kaart_verkiezingenpvda/)). De volgende stap is om dit beter en structureler aan te pakken zodat het een lokaal platform wordt voor de verschillende afdelingen.
 
 In ieder geval zijn dit natuurlijk prachtgegevens om mee te werken omdat er echte verhalen van mensen in staan. Het geeft ook een interessant beeld van Nederland dat vooringenomen ideeën bevestigt (in Den Haag en Overvecht ervaren mensen veiligheid als het grootste probleem) en soms ontkracht. Over het algemeen kun je zien dat mensen tevreden zijn, dat ze kleine problemen hebben en dat ze vinden dat het Goed gaat met Nederland. Dat is ook wel weer eens fijn om bij stil te staan.
+
+[^1]: ‘Want dat internet, gaat nog 'ns heel groot worden meneer…’
+[^2]: De grootste zorg is waar het volgende biertje vandaan komt, dát of de hypotheekrente-aftrek.

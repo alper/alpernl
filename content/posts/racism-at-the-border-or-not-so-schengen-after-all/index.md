@@ -5,7 +5,7 @@ categories:
   - politics
   - travel
 date: "2012-03-30T15:22:28+00:00"
-outtake: We could protest this. Maybe if we organized large groups of foreign (looking) people to travel into Germany ((I don't know if Zwarte Piet (blackface) counts, but it could work.)). For the purpose of the protest maybe we should show ostentatiously that we have a common purpose. We could all pin on a badge, a yellow star might do the trick.
+outtake: We could protest this. Maybe if we organized large groups of foreign (looking) people to travel into Germany [^1]. For the purpose of the protest maybe we should show ostentatiously that we have a common purpose. We could all pin on a badge, a yellow star might do the trick.
 title: Racism at the border, or not so Schengen after all
 aliases:
   - /dingen/2012/03/racism-at-the-border-or-not-so-schengen-after-all/
@@ -18,3 +18,5 @@ It did, but these informal spot checks are still being held by some countries. E
 It is a practice being supported up until the administrative court of Koblenz where a case relating to this policy came to trial recently. The judge maintained the obligation of the police to use ‘situational insight’ and ‘relevant border police experience’ (‘entsprechende “Lageerkenntnisse”und “einschlägige grenzpolizeiliche Erfahrung”zugrunde zu legen’). Lawblog.de writes it up with the obvious title [“Der Neger ist verdächtig”](http://www.lawblog.de/index.php/archives/2012/03/27/der-neger-ist-verdchtig/) and the post has over four hundred comments.
 
 I didn't get checked this time but sometimes they do check my passport. It probably depends on how foreign I happen to look on a specific day or if I have shaven recently. I can shrug it off easily as probably most people can who don't deal with racism on a day to day basis. But when I see a black family of four traveling and being checked as the only ones in the compartment, I wonder what kind of an impression that gives their children about the justness of the society they are growing up into.
+
+[^1]: I don't know if Zwarte Piet (blackface) counts, but it could work.

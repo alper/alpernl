@@ -23,8 +23,11 @@ On the way home what stuck with me most is that every online entity comprises wi
 
 The tool that we often employ when talking about games is Ian Bogost's concept of ‘simulation fever’ that says that subjective simulations cause people to either accept or reject the simulation based on their position. The critical alternation (or altercation if you will) between acceptance and rejection puts the user in a moral frenzy termed simulation fever.
 
-The subjective values that websites impose most clearly on users right now are their views when it comes to privacy but there are a slew of other values that are inherent in any web application which users may or may not accept when using them. If you must generalize ((Which I unfortunately must while I recount my experiences as as newcomer in Berlin.)) —as a populace— the Dutch mostly accept those subjective realities while the Germans mostly reject.
+The subjective values that websites impose most clearly on users right now are their views when it comes to privacy but there are a slew of other values that are inherent in any web application which users may or may not accept when using them. If you must generalize [^1] —as a populace— the Dutch mostly accept those subjective realities while the Germans mostly reject.
 
-The Dutch use sites as means of communication and self-expression while grosso modo ignoring the consequences of corporate ownership. While Germans forced by social pressures to use sites such as Facebook, try to mitigate their complicitness by employing sabotage and other defensives strategies ((Using fake names, logging themselves out.)).
+The Dutch use sites as means of communication and self-expression while grosso modo ignoring the consequences of corporate ownership. While Germans forced by social pressures to use sites such as Facebook, try to mitigate their complicitness by employing sabotage and other defensives strategies [^2].
 
 There is in both countries a minority of people who are aware of the issues and use these services critically. For any meaningful discussion about the internet, they the most likely people to turn to.
+
+[^1]: Which I unfortunately must while I recount my experiences as as newcomer in Berlin.
+[^2]: Using fake names, logging themselves out.

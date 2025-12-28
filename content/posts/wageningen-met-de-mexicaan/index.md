@@ -16,6 +16,8 @@ Donderdag de hele dag op pad geweest met ‘The Mexican’, [Reinier](http://rei
 
 's Ochtends naar Wageningen heen en weer met voor en na Utrecht wat stukjes file. Met een automaat filerijden valt nog wel mee, maar als je dat elke dag moet meemaken… Ik zou er simpel van worden. De hele tijd je aandacht erbij houden en daarna nog op je werk aankomen? Mijn aandacht is beperkt en één van de waardevolste dingen die ik heb in te zetten. Uren per dag letten op een monotone en oninteressante weg, is geen efficient gebruik.
 
-Na Wageningen terug naar Rijswijk geblaft, toen snel eten bij de McDonald's, dan naar huis om sportspullen op te halen ((Ik mag 15 minuten parkeren hier voor de deur. Genoeg om spullen te halen en koffie te drinken.)), onderweg naar [capoeira](http://www.liberdade.nl) gestopt bij de [AH](http://www.ah.nl/albertheijn/winkelinformatie/openingstijden.jsp?opco=AH&no=1196) om boodschappen te doen, bij capoeira voor de deur geparkeerd en deze foto genomen en uiteindelijk 's avonds bij Reinier afgeleverd.
+Na Wageningen terug naar Rijswijk geblaft, toen snel eten bij de McDonald's, dan naar huis om sportspullen op te halen [^1], onderweg naar [capoeira](http://www.liberdade.nl) gestopt bij de [AH](http://www.ah.nl/albertheijn/winkelinformatie/openingstijden.jsp?opco=AH&no=1196) om boodschappen te doen, bij capoeira voor de deur geparkeerd en deze foto genomen en uiteindelijk 's avonds bij Reinier afgeleverd.
 
 Allemaal met de auto; als je hem toch hebt is het wel gemakkelijk, zeker als het zo stortregent als afgelopen donderdag.
+
+[^1]: Ik mag 15 minuten parkeren hier voor de deur. Genoeg om spullen te halen en koffie te drinken.

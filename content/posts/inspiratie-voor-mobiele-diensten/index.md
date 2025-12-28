@@ -15,7 +15,7 @@ Ik schreef een paar dagen geleden in [een roundup](/dingen/2009/04/openbaar-verv
 
 Mark de Bruin, marketingmanager bij 9292, heeft een [twitter account](http://twitter.com/mdebruin) en is bereid om tekst en uitleg te geven. Dat is tof en ik denk een essentiele eerste stap om verder te komen in de verstarde eenrichtingsverkeerkanalen waar deze hele sector zich in bevindt.
 
-De uitleg rammelt hier en daar nogal en [de noodzaak](/dingen/2009/03/unraveling-the-transit-fabric/) voor open vervoersdata blijft bestaan ((Er komt misschien verandering [hoor ik van Sander Korz](http://twitter.com/skorz/status/1533844214).)), dus laten we eens kijken wat hoe ver we komen. Mark [nodigde uit](http://twitter.com/mdebruin/status/1535572070) om de discussie over e-mail voort te zetten. E-mail is niet schaalbaar en twitter is te kort, vandaar deze blog.
+De uitleg rammelt hier en daar nogal en [de noodzaak](/dingen/2009/03/unraveling-the-transit-fabric/) voor open vervoersdata blijft bestaan [^1], dus laten we eens kijken wat hoe ver we komen. Mark [nodigde uit](http://twitter.com/mdebruin/status/1535572070) om de discussie over e-mail voort te zetten. E-mail is niet schaalbaar en twitter is te kort, vandaar deze blog.
 
 Zoals ik schreef zijn de voorwaarden van de wedstrijd nogal in het voordeel van 9292 maar heeft dat 22 teams toch voldoende gemotiveerd om mee te doen. Ik ben meer dan een beetje benieuwd waar zij mee komen.
 
@@ -23,7 +23,7 @@ Zoals ik schreef zijn de voorwaarden van de wedstrijd nogal in het voordeel van 
 
 Alle deelnemers moeten op dit moment de rechten op hun applicaties afstaan aan 9292. 9292 [zegt de applicaties](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss#2947354) niet te zullen overnemen maar te zullen gebruiken als inspiratie. Waarom kunnen deelnemers dan niet gewoon een verklaring tekenen dat ze 9292 toestaan om ideeën uit hun applicatie te gebruiken en gewoon hun rechten zelf behouden ( [tweet](http://twitter.com/alper/status/1534676494))?
 
-Wat Mark en 9292 [verstaan onder delen](http://weblogs3.nrc.nl/klaver/2009/04/10/ov-reiswijzer-crowdsourcet-mobiele-navigator-en-claimt-rechten/#comment-66887) is dat de applicaties ergens intern verdwijnen en ideeën en onderdelen eruit verwerkt zullen worden in hun gratis applicaties. Dat is geen delen maar gewoon het uitoefenen van de taak waar ze al mee bezig waren ((Het ontwikkelen en verbeteren van reisinformatiediensten.)).
+Wat Mark en 9292 [verstaan onder delen](http://weblogs3.nrc.nl/klaver/2009/04/10/ov-reiswijzer-crowdsourcet-mobiele-navigator-en-claimt-rechten/#comment-66887) is dat de applicaties ergens intern verdwijnen en ideeën en onderdelen eruit verwerkt zullen worden in hun gratis applicaties. Dat is geen delen maar gewoon het uitoefenen van de taak waar ze al mee bezig waren [^2].
 
 De teams doen willens en wetens mee. Het is ook de vraag wat een team zou kunnen doen met hun eigen applicatie en wat voor nadelen dat voor 9292 zou kunnen hebben. De API tot de vervoersgegevens wordt (nog) beperkt vrijgegeven en zonder die gegevens zijn ontwikkelde applicaties weinig waard. Het lijkt dus niet veel uit te maken, dus waarom dan niet het goede doen?
 
@@ -39,10 +39,17 @@ Er is op dit moment [een 9292 applicatie](http://itunes.apple.com/WebObjects/MZS
 
 Een paar weken geleden zaten we met vrienden op de verkeerde plek in Utrecht Terwijde en moest ik onder tijdsdruk snel een nieuwe route vinden naar een plek ergens anders in Utrecht, en de eerstvolgende bus, en de bushalte etc.
 
-Dit was redelijk lastig voor elkaar te krijgen in de applicatie. Het was ontzettend moeilijk om een adres gevonden te krijgen ((Wiens idee was het om het fomaat “stad, adres”te voeren?)), de kaarten die bij een advies komen zijn compleet onbruikbaar, en het is lastig om adviezen op te slaan en alternatieven te vergelijken. Met wat heen en weer schakelen naar Google Maps op mijn iPhone is het me uiteindelijk gelukt, maar makkelijk was het niet ((En als ik eerlijk ben geef ik 90% van de iPhone gebruikers geen kans om hetzelfde te bereiken.)).
-Bedenk dan dat Google aanbiedt om gratis en voor niets onze vervoersgegevens online beschikbaar te maken met [de Google Transit website](http://www.google.com/transit/) die op zich al bijzonder vooruitstrevend is maar die ook geïntegreerd is met de Google Maps applicatie op de iPhone. Waarom hebben we dat niet in Nederland ((Als enige land in West-Europa niet trouwens.))?
+Dit was redelijk lastig voor elkaar te krijgen in de applicatie. Het was ontzettend moeilijk om een adres gevonden te krijgen [^3], de kaarten die bij een advies komen zijn compleet onbruikbaar, en het is lastig om adviezen op te slaan en alternatieven te vergelijken. Met wat heen en weer schakelen naar Google Maps op mijn iPhone is het me uiteindelijk gelukt, maar makkelijk was het niet [^4].
+Bedenk dan dat Google aanbiedt om gratis en voor niets onze vervoersgegevens online beschikbaar te maken met [de Google Transit website](http://www.google.com/transit/) die op zich al bijzonder vooruitstrevend is maar die ook geïntegreerd is met de Google Maps applicatie op de iPhone. Waarom hebben we dat niet in Nederland [^5]?
 
 Mijn vraag is dus niet direct waarom we de vervoersgegevens niet mogen hebben en aan Google mogen voeren. Ook al zou dat een hele goede vraag zijn, maar we hebben al gezien dat [vervoerders daar nogal uptight](/dingen/2009/04/een-soort-van-antwoord-van-de-ns/) over zijn.
-Mijn vraag is meer of gebruikersonderzoek en testen niet belangrijker zijn om goede vervoersapplicaties te maken dan dit soort vrije conceptuele input ((Hoe goedkoop dan ook.)).
+Mijn vraag is meer of gebruikersonderzoek en testen niet belangrijker zijn om goede vervoersapplicaties te maken dan dit soort vrije conceptuele input [^6].
 
 Ik zie graag de antwoorden tegemoet.
+
+[^1]: Er komt misschien verandering [hoor ik van Sander Korz](http://twitter.com/skorz/status/1533844214).
+[^2]: Het ontwikkelen en verbeteren van reisinformatiediensten.
+[^3]: Wiens idee was het om het fomaat “stad, adres”te voeren?
+[^4]: En als ik eerlijk ben geef ik 90% van de iPhone gebruikers geen kans om hetzelfde te bereiken.
+[^5]: Als enige land in West-Europa niet trouwens.
+[^6]: Hoe goedkoop dan ook.

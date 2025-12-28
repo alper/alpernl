@@ -16,7 +16,7 @@ Bijkomend voordeel is dat ik met behulp van [ThinkUp](http://thinkupapp.com/) mi
 
 Ik had het een beetje opgegeven. Ik moest mijn aangifte afmelden bij een hulpzame agent van het lokale bureau. Toen ik hem vertelde dat er een camera op het plaats delict stond stuurde hij even een patrouille langs die ‘eyes on the scene’ deden en navroegen bij Stadgenoot.
 
-Kort daarna wist hij me te vertellen dat de camera wél van [Stadgenoot](http://www.stadgenoot.nl/) is ondanks dat Stadgenoot dat ontkende. Alleen volgens Stadgenoot was de camera niet aangesloten en hadden ze dus ook geen beelden van de diefstal ((Dit is het geval met heel veel beveiligingscamera's aan de hand is, omdat het aansluiten en het onderhouden van de technische installatie vaak te kostbaar blijkt.)).
+Kort daarna wist hij me te vertellen dat de camera wél van [Stadgenoot](http://www.stadgenoot.nl/) is ondanks dat Stadgenoot dat ontkende. Alleen volgens Stadgenoot was de camera niet aangesloten en hadden ze dus ook geen beelden van de diefstal [^1].
 
 Daardoor konden we niet anders dan mijn aangifte onverrichter zake sluiten. Als je ergens een fixie ziet met een doorgeroeste Paddy Wagon wielset en eventueel twee spoke cards van de Pariah alley cat, dan is die van mij.
 
@@ -28,3 +28,5 @@ Vragen die blijven naar aanleiding van dit incident:
 Wat blijft:
 
 **Er is geen register van camera's in de openbare weg en wie ze beheert. Dit maakt het makkelijk voor instanties om je van het kastje naar de muur te sturen zoals Stadgenoot deed.** **Elke camera die op de openbare weg gericht is zou een vergunning en registratie moeten hebben of deze nu werkt of niet. Aangezien de functionaliteit van een niet door het normale publiek te controleren is.**
+
+[^1]: Dit is het geval met heel veel beveiligingscamera's aan de hand is, omdat het aansluiten en het onderhouden van de technische installatie vaak te kostbaar blijkt.

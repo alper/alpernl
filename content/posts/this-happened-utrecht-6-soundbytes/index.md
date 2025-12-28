@@ -12,7 +12,7 @@ aliases:
 ---
 Last Monday we saw the sixth edition of This Happened taking place and —I haven't seen all, but I've seen more than most— I think this was one of the best ones yet.
 
-So thinking what would be an easy way to journal ((My note taking of the first session was thwarted by OS X's evil semi-modal WiFi dialog. Apologies for that.)) this edition both for me as a writer and for you as a reader I came up with this format. Session division is left as an exercise for the reader.
+So thinking what would be an easy way to journal [^1] this edition both for me as a writer and for you as a reader I came up with this format. Session division is left as an exercise for the reader.
 
 > Going to school in the 90s. By the time they graduated everybody had multiple e-mail addresses, multiple browsers and access to mobile phones.
 
@@ -43,3 +43,5 @@ So thinking what would be an easy way to journal ((My note taking of the first s
 > First we do an experiment and then that evolves into a show.
 
 > My dynamic is to make it easy to grasp for everybody.
+
+[^1]: My note taking of the first session was thwarted by OS X's evil semi-modal WiFi dialog. Apologies for that.

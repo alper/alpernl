@@ -14,8 +14,10 @@ Wij doen hier [ons best](http://digitaalbestuur.nl/), maar we kunnen nog wat ler
 
 > "Mid-range" maps, with resolutions from 1:10,000 upwards, will be made available for re-use, under the plans announced by the prime minister, along with information on postcode areas and electoral and council boundaries. - [Guardian](http://www.guardian.co.uk/technology/2009/nov/19/ordnance-survey-maps-free-online)
 
-Adres-, kaart- en postcode-gegevens zijn de grootste gemene deler waarmee we de meeste gegevens van de overheid, het bedrijfsleven en van privé-personen aan elkaar kunnen koppelen. Er wordt nu door enkele partijen (bijv. [Postcode.nl](http://www.postcode.nl/)) een bescheiden winst gemaakt op het uitbaten van deze gegevens. De potentiele winst voor de samenleving als we deze gegevens vrij zouden kunnen gebruiken, is vele ((Niet tien keer zo groot, eerder een waarde-toename van tien duizenden keren zo niet meer.)) malen groter.
+Adres-, kaart- en postcode-gegevens zijn de grootste gemene deler waarmee we de meeste gegevens van de overheid, het bedrijfsleven en van privé-personen aan elkaar kunnen koppelen. Er wordt nu door enkele partijen (bijv. [Postcode.nl](http://www.postcode.nl/)) een bescheiden winst gemaakt op het uitbaten van deze gegevens. De potentiele winst voor de samenleving als we deze gegevens vrij zouden kunnen gebruiken, is vele [^1] malen groter.
 
 Engeland doet het, waarom doen wij het niet?
 
 **Update:** En [nog meer informatie](http://news.bbc.co.uk/2/hi/technology/8402327.stm) over de stap om de Postzon (postcode naar GPS) gegevens vrij te geven. Nog geen inforamtie over de Postcode Address File (postcode naar adres).
+
+[^1]: Niet tien keer zo groot, eerder een waarde-toename van tien duizenden keren zo niet meer.

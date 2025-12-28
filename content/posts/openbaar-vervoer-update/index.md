@@ -16,7 +16,7 @@ Het is een tijdje wat stiller geweest rond openbaar vervoer. Hoog tijd voor een 
 ### SenterNovem
 
 SenterNovem publiceerde een tijdje geleden [dit item](http://www.senternovem.nl/mobiliteitsmanagement/nieuws/reisinformatie_op_de_iphone.asp) over Trein.app van Dennis Stevense. Misschien dat ze daar eindelijk een keertje de ogen openen voor innovatie van kleinere spelers in deze branche.
-Ook [dit bericht](http://www.senternovem.nl/mobiliteitsmanagement/nieuws/uw_reisinformatie_op_straat.asp) over reisinformatie bij de haltes. De meeste dynamische reisinformatie op haltes is in mijn ervaring of ronduit stuk of niet accuraat. Één quick win zou zijn om in Rotterdam op de metrohaltes borden ((Niks dynamisch, gewoon borden met informatie. Die staan er nu niet.)) op te hangen waar je bent en waar je heen kunt gaan.
+Ook [dit bericht](http://www.senternovem.nl/mobiliteitsmanagement/nieuws/uw_reisinformatie_op_straat.asp) over reisinformatie bij de haltes. De meeste dynamische reisinformatie op haltes is in mijn ervaring of ronduit stuk of niet accuraat. Één quick win zou zijn om in Rotterdam op de metrohaltes borden [^1] op te hangen waar je bent en waar je heen kunt gaan.
 
 ### GPS
 
@@ -26,8 +26,12 @@ Dan krijgen we in plaats van het huidige probleem een nieuw probleem dat degenen
 
 ### 9292 Wedstrijd
 
-Ik had na het hele gedoe rondom de Reisplanner Xtra van de NS al gehoord dat 9292 een wedstrijd aan het uitschrijven was ( [Emerce](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss)). De vergoeding [voor de winnaar van de wedstrijd](http://www.9292ov.nl/9292OV1496.asp) is op zijn best kinderachtig te noemen en deelnemers doen afstand van hun rechten op de applicatie ((Volgens mij kan dat niet eens dermate, maar als ik de voorwaarden een beetje vrij lees zou je een applicatie die je indient tegelijkertijd ook open source kunnen publiceren.)).
+Ik had na het hele gedoe rondom de Reisplanner Xtra van de NS al gehoord dat 9292 een wedstrijd aan het uitschrijven was ( [Emerce](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss)). De vergoeding [voor de winnaar van de wedstrijd](http://www.9292ov.nl/9292OV1496.asp) is op zijn best kinderachtig te noemen en deelnemers doen afstand van hun rechten op de applicatie [^2].
 
 Deze ogenschijnlijk [nadelige voorwaarden](http://www.9292ov.nl/9292ov1497.asp) hebben 22 teams niet belet zich aan te melden, dus het is de vraag wat hieruit voort zal komen. 9292 steekt het in (zie ook het [commentaar van de marketing manager](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss#2947354)) als een soort gebruikersonderzoek wat als invoer gebruikt zal worden om te komen tot een uiteindelijke applicatie.
 
-Ik vraag me wel af waar gebruikersonderzoek in dit stadium nog voor nodig is en tot wat voor grote veranderingen dat zal leiden ((Mensen willen weten hoe ze van A naar B komen en hoe lang ze op een bepaald punt moeten wachten op een vervoersmiddel. Zo simpel is het wél.)). We weten wel wat reizigers in het ov willen weten en die basics zouden nu al eerst heel welkom zijn. Itereer dan maar op daadwerkelijk gebruik verder.
+Ik vraag me wel af waar gebruikersonderzoek in dit stadium nog voor nodig is en tot wat voor grote veranderingen dat zal leiden [^3]. We weten wel wat reizigers in het ov willen weten en die basics zouden nu al eerst heel welkom zijn. Itereer dan maar op daadwerkelijk gebruik verder.
+
+[^1]: Niks dynamisch, gewoon borden met informatie. Die staan er nu niet.
+[^2]: Volgens mij kan dat niet eens dermate, maar als ik de voorwaarden een beetje vrij lees zou je een applicatie die je indient tegelijkertijd ook open source kunnen publiceren.
+[^3]: Mensen willen weten hoe ze van A naar B komen en hoe lang ze op een bepaald punt moeten wachten op een vervoersmiddel. Zo simpel is het wél.

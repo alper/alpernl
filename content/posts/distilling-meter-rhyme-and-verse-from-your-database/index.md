@@ -20,10 +20,12 @@ So the [Griot](http://en.wikipedia.org/wiki/Griot) has both a deep knowledge of 
 
 Sounds like a very nice job. An important role already in journalistic and political organizations if they manage to see the need. In corporations any aspiring griot will have a hard time the further their work is diluted by PR/Legal/Accounting/Marketing and other departments. But most likely they won't hire one anyway. Those companies that have a solid (mutual) relation with the public and a track record of rapid innovation (like most web2.0 sites) will be in a better position to act than others (not to say that other companies can't benefit, but they'll have a lot of institutional learning and organizational change to do at the same time).
 
-The Griot goes beyond the already known [data scientist position](http://www.flickr.com/jobs/data_scientist/) which seems to be less of a conversational and more of an academic/metrics one and actually is a really tall order to fill. [More organizations are looking](http://benhammersley.com/post/781582006/chris-heathcote-anti-mega-griotism) for griots but because it is at the same time both broad and specialized ((The UX profession prides itself on T-shaped people but most people working there aren't nearly wide or deep enough for this work.)) that will be pretty hard.
+The Griot goes beyond the already known [data scientist position](http://www.flickr.com/jobs/data_scientist/) which seems to be less of a conversational and more of an academic/metrics one and actually is a really tall order to fill. [More organizations are looking](http://benhammersley.com/post/781582006/chris-heathcote-anti-mega-griotism) for griots but because it is at the same time both broad and specialized [^1] that will be pretty hard.
 
 In the Netherlands there are already so few people active in the data field that it's even more difficult. I would [be a good fit for the role](http://www.monsterswell.com/), though I'm not looking for a permanent position —organizational embedding (i.e. **not** consulting) is I think an important requirement for somebody doing this. I know nrc.next has some people dedicated among which [Thalia Verkade](http://www.nrcnext.nl/blog/author/tverkade/). I don't know about the other papers.
 
 But maybe there are more that I am missing. Is your organization looking for data griots? Are you one yourself? I'd like to hear more.
 
 **Update:** My friends at [QD](http://qdtracking.com/) are doing some very cool things with internet tracking and have an open position for a function that borders on this: [A Statistical Market Researcher](http://qdtracking.com/nl/vacature).
+
+[^1]: The UX profession prides itself on T-shaped people but most people working there aren't nearly wide or deep enough for this work.

@@ -15,7 +15,7 @@ Snel een visualisatie in elkaar gedraaid op basis van mijn Europees Parlement vi
 
 [![](GR20104.png)](GR20104.png)
 
-Grootste landelijke partijen per gemeente genomen waar mogelijk ((Sommige gemeenten hebben niet eens een landelijke partij in het lijstje staan. Die blijven dan wit.)). Sommige [gemeenten doen nu niet mee](http://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2010#Gemeenten_die_niet_meededen), zie Wikipedia voor het lijstje en van 22 gemeenten [moet de uitslag nog komen](http://www.nu.nl/raadsverkiezingen/2198015/uitslagen-22-gemeenten-laten-zich-wachten.html).
+Grootste landelijke partijen per gemeente genomen waar mogelijk [^1]. Sommige [gemeenten doen nu niet mee](http://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2010#Gemeenten_die_niet_meededen), zie Wikipedia voor het lijstje en van 22 gemeenten [moet de uitslag nog komen](http://www.nu.nl/raadsverkiezingen/2198015/uitslagen-22-gemeenten-laten-zich-wachten.html).
 
 De kaart met de grootste partijen van de vorige verkiezingen (voor het Europees Parlement in 2009):
 
@@ -36,3 +36,5 @@ Update: Nog steeds aan het wachten op de uitslagen van [Geldrop-Mierlo](http://n
 Update: Laatste verlate uitslagen ook verwerkt.
 
 Update: NRC heeft ook [een verkiezingskaart](http://apps.nrc.nl/maps/GR2010.phtml) die er leuk uitziet maar hier en daar wat lastig werkt.
+
+[^1]: Sommige gemeenten hebben niet eens een landelijke partij in het lijstje staan. Die blijven dan wit.

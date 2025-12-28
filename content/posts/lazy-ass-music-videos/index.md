@@ -11,6 +11,8 @@ aliases:
   - /dingen/2008/11/lazy-ass-music-videos/
 
 ---
-So I get bored on a Friday night and I want a decent way to watch music videos. Rather than look for a service which provides this ((Surely there are a ton of usable music video players online by now.)), I decided to revive our own toy of a couple years ago, so it's alive (again!): [LastTV](http://lasttv.net/).
+So I get bored on a Friday night and I want a decent way to watch music videos. Rather than look for a service which provides this [^1], I decided to revive our own toy of a couple years ago, so it's alive (again!): [LastTV](http://lasttv.net/).
 
 More explanation [here](http://lasttv.net/news/2008/11/29/and-were-back/). And I guess this blatantly labels me as a programmer, no?
+
+[^1]: Surely there are a ton of usable music video players online by now.

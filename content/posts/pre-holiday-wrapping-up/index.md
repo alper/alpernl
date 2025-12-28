@@ -16,6 +16,8 @@ Seasoned travellers as we deem ourselves and busy as we are, we have dispensed w
 
 [![iPhone Queue](http://farm4.static.flickr.com/3079/2658425896_3cfda4f06d.jpg)](http://www.flickr.com/photos/alper/2658425896/ "iPhone Queue by illustir, on Flickr")
 
-That's also a reason I won't be getting my iPhone 3G right away like a lot of people are. I'm planning on travelling some more and this device is more of a hindrance ((€30 per MB of data consumed abroad!?)) and a risk than it is a benefit on the road.
+That's also a reason I won't be getting my iPhone 3G right away like a lot of people are. I'm planning on travelling some more and this device is more of a hindrance [^1] and a risk than it is a benefit on the road.
 
 I'm still debating whether or not I should take my laptop. Odds of us finding solid power let alone WiFi are slim and 7GB of CF memory should be enough for a week's holiday: 1GB/day. And a week of disconnection will probably do me more good than I realize.
+
+[^1]: €30 per MB of data consumed abroad!?

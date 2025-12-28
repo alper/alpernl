@@ -14,7 +14,7 @@ Adobe's CEO [said that Flash is safe from HTLM5](http://blogs.adobe.com/jd/2009/
 
 It's nice that they're optimistic for improvements in HTML. Seeing what disasters both the XHTML and in a somewhat lesser extent SVG tracks of the W3C standardization process have been, we could definitely use them. They should admit though, that a full fledged HTML5 with rich CSS3+ is the death knell for Flash.
 
-The more sites we see like [the Holland Festival one](http://www.flickr.com/photos/alper/3549764524/in/set-72157603822777975/) the more it means that clients are choosing for an open and more semantic website with gradual improvements in JavaScript and CSS ((I have yet to see decently usable sites in Flash. Any suggestions welcome. Nalden.net comes close.)). It may take ten years, but we may see the first signs of a shift in this industry.
+The more sites we see like [the Holland Festival one](http://www.flickr.com/photos/alper/3549764524/in/set-72157603822777975/) the more it means that clients are choosing for an open and more semantic website with gradual improvements in JavaScript and CSS [^1]. It may take ten years, but we may see the first signs of a shift in this industry.
 
 ### No mobile?
 
@@ -25,3 +25,5 @@ Mobile internet usage is exploding and most of that usage is centered around Web
 Like Gruber said, one of the most noteworthy non-announcements for iPhone 3.0 was no Flash. Who really needs it anyway on the iPhone? And why would Apple let somebody else in on their platform?
 
 Is Flash dead? No. Is there for the first time a clear path forward to a world without Flash? Yes, finally!
+
+[^1]: I have yet to see decently usable sites in Flash. Any suggestions welcome. Nalden.net comes close.

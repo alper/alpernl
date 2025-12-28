@@ -14,7 +14,7 @@ Zoals ik [gisteren schreef](/dingen/2008/09/playing-with-public-transportation-d
 
 Het is alemaal nog niet super-af maar het geeft een goede indruk van de verschillen in reistijd tussen openbaar vervoer en de auto. Als iemand interesse heeft in beelden die dit aantonen, dan zijn het wel deze instanties.
 
-Hier de e-mail naar GroenLinks ((De e-mail naar Rover is vergelijkbaar.)):
+Hier de e-mail naar GroenLinks [^1]:
 
 > Hallo,
 >
@@ -62,3 +62,5 @@ Nu maar afwachten of er een reactie komt.
 > Vishal Ramkisoensing
 > Publieksdienst
 > Tweede Kamerfractie GroenLinks
+
+[^1]: De e-mail naar Rover is vergelijkbaar.

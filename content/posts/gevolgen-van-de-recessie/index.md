@@ -15,4 +15,6 @@ Terug van vakantie na de hele dag geslapen te hebben, liep ik de C1000 in om gec
 
 Nu blijkt dat niemand het wist, de C1000 gaat over één nacht ijs dicht en er komt een AH voor in de plaats. Dit is waardeloos aangezien er al een AH is en je daar voor vergelijkbare boodschappen minstens €5 duurder uit bent.
 
-**Update:** Een paar antwoorden op twitter ((Is het _zo_ moeilijk om op dit blog te reageren?)): [@guidoz](http://twitter.com/guidoz/statuses/984970732), [@dennisblaak](http://twitter.com/dennisblaak/statuses/984972038)
+**Update:** Een paar antwoorden op twitter [^1]: [@guidoz](http://twitter.com/guidoz/statuses/984970732), [@dennisblaak](http://twitter.com/dennisblaak/statuses/984972038)
+
+[^1]: Is het _zo_ moeilijk om op dit blog te reageren?

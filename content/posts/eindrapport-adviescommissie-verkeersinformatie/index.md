@@ -13,7 +13,7 @@ aliases:
 ---
 Dit rapport is tijdens de verhuizingen een beetje tussen wal en schip geraakt. Het lijkt me goed om de gedeelten die ik al had aangestreept even snel te bloggen voordat we diep op de openbaar vervoersinformatie-situatie in Nederland ingaan.
 
-Ik kwam dit rapport vorig jaar op het spoor als het rapport van ‘Commissie Laan III’ ((drs. J. Laan)) en na wat gebel kon ik het opgestuurd krijgen van onze rijksoverheid. Het heet “Eindrapport Adviescommissie Verkeersinformatie”en is uit April 2009.
+Ik kwam dit rapport vorig jaar op het spoor als het rapport van ‘Commissie Laan III’ [^1] en na wat gebel kon ik het opgestuurd krijgen van onze rijksoverheid. Het heet “Eindrapport Adviescommissie Verkeersinformatie”en is uit April 2009.
 
 Er staan interessante dingen in over de verhoudingen tussen de verschillende partijen in dit gebied en verstandige woorden over het belang van een publieke voorziening voor data. Dit belang is duidelijk maar deze commissie adviseert alleen en dat in redelijk vage bewoordingen waardoor er niet zoveel gebeurt.
 
@@ -64,7 +64,7 @@ We zitten nu nog in de management samenvatting. Wat punten:
 
 > 4 Om de weggebruiker nog beter van informatie te voorzien zodat hij bij een routekeuze meer rekening houdt met lokale omnstandigheden omtrent verkeersveiligheid, leefbaarheid en milieu, dient deze informatie systematisch door wegbeheerders aan service providers en andere marktpartijen beschikbaar te worden gesteld. Daarnaast is deze informatie ook voor de weggebruikers zelf praktisch en nuttig (minder files en omrijroutes). (blz. 7)
 
-Het is een beetje de vraag wat nu een marktpartij is. Zoals het nu bij het [NDW](http://www.ndw.nu/) ((Op de site geen API te zien. Je moet zoeken als je bij de gegevens wilt en dan staat er: “De NDW gegevens worden beschikbaar gesteld aan partijen die zich bezighouden met verkeersmanagement en verkeersinformatie. Hiervoor worden de kosten in rekening gebracht die gemaakt worden om deze service te bieden: € 6000,- (excl. BTW) aansluitkosten per afnemer per jaar.”)) geïmplementeerd is betaal je €6000 per jaar om bij de gegevens te mogen (zie dit verslag [Hergebruik van Overheidsinformatie](http://ambtenaar20.ning.com/profiles/blogs/hergebruik-van)). Dit omdat ze ‘kosten maken’, maar je sluit door zo'n hoge barrière op te werpen de meer innovatieve en specialistische toepassingen voor die gegevens bij voorbaat al uit.
+Het is een beetje de vraag wat nu een marktpartij is. Zoals het nu bij het [NDW](http://www.ndw.nu/) [^2] geïmplementeerd is betaal je €6000 per jaar om bij de gegevens te mogen (zie dit verslag [Hergebruik van Overheidsinformatie](http://ambtenaar20.ning.com/profiles/blogs/hergebruik-van)). Dit omdat ze ‘kosten maken’, maar je sluit door zo'n hoge barrière op te werpen de meer innovatieve en specialistische toepassingen voor die gegevens bij voorbaat al uit.
 
 > 5 Teneinde de weggebruiker in staat te stellen om voor en tijdens zijn reis gebruik te maken van alternatieven die het OV biedt en daaraan gerelateerde services zoals P+R-voorzieningen en OV-fiets, is het noodzakelijk dat er multi-modale reisplanners beschikbaar komen.
 >
@@ -76,7 +76,7 @@ De noodzaak van die multi-modale planners is ontzettend groot. Alle pogingen die
 
 Als er geen barrières waren wat betreft kosten en moeizame gesprekspartners dan weet ik zeker dat er veel meer, specifiekere en betere routeplanners al beschikbaar zouden zijn. Misschien enkele complete multimodale planners, maar daarnaast een heleboel specifieke niche-toepassingen en integraties met andere applicaties.
 
-Er wordt een organisatorisch vervolg geschetst waar de verschillende partijen met elkaar in gesprek kunnen blijven ((‘de continuering van overleg tussen de betrokken partijen’)) en:
+Er wordt een organisatorisch vervolg geschetst waar de verschillende partijen met elkaar in gesprek kunnen blijven [^3] en:
 
 > Hiermee wordt bevorderd dat de reiziger in de toekomst optimale en betrouwbare informatie ontvangt om zodoende een persoonlijke afweging omtrent het voorgenomen reisgedrag te kunnen maken (modaliteit, tijdstip van vertrek, routekeuze, kosten en comfort etc.). Daarmee kan een belangrijke bijdrage worden geleverd aan de vergroting van de bereikbaarheid en een betere benutting van de infrastructuur. (blz. 8)
 
@@ -141,3 +141,7 @@ Het is dus nog maar de vraag of een ‘markt’ de beste oplossing is.
 Goede voornemens, erg weinig voortgang.
 
 Wat moet er dan wel gebeuren? In een volgend bericht daarover een serie concrete aanbevelingen.
+
+[^1]: drs. J. Laan
+[^2]: Op de site geen API te zien. Je moet zoeken als je bij de gegevens wilt en dan staat er: “De NDW gegevens worden beschikbaar gesteld aan partijen die zich bezighouden met verkeersmanagement en verkeersinformatie. Hiervoor worden de kosten in rekening gebracht die gemaakt worden om deze service te bieden: € 6000,- (excl. BTW) aansluitkosten per afnemer per jaar.”
+[^3]: ‘de continuering van overleg tussen de betrokken partijen’

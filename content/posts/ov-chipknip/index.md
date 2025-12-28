@@ -16,7 +16,7 @@ Ik [schreef al eerder](/blog/alper/782) over de ov-chipkaart en wat [een schande
 
 Nu dat ding stapje voor stapje ingevoerd begint te worden in Nederland is het wel fijn bijvoorbeeld dat je op [de site](http://www.ov-chipkaart.nl/) je chipkaart kunt claimen en er dingen aan kunt instellen zoals het automatisch opladen als hij leeg is.
 
-Wat ik graag zou willen is een overzicht van al je vervoersbewegingen zowel op een kaart als machine-leesbaar ontsloten voor derde partijen die ik toestemming kan geven om erbij te kunnen ((Bijvoorbeeld om je woon-werk-verkeer te documenteren.)), maar dat is waarschijnlijk nog een brug te ver voor deze implementerende partijen.
+Wat ik graag zou willen is een overzicht van al je vervoersbewegingen zowel op een kaart als machine-leesbaar ontsloten voor derde partijen die ik toestemming kan geven om erbij te kunnen [^1], maar dat is waarschijnlijk nog een brug te ver voor deze implementerende partijen.
 
 ### OV-Chipknip
 
@@ -30,6 +30,9 @@ Zie bijvoorbeeld [dit bericht van Jan Chipchase](http://www.janchipchase.com/blo
 
 Wat geloof ik ook nog beter kan is [de communicatie naar de reizigers](http://twitter.com/marrije/status/1227243837) toe en de usability van de poortjes en machines.
 
-Ik heb een nieuwe ov-chipkaart ((Toen ik een nieuwe NS-kortingskaart aanvroeg moest ik mijn oude weggooien en kreeg ik een nieuwe opgestuurd.)) maar ik ben nog niet met de metro in Rotterdam geweest.
+Ik heb een nieuwe ov-chipkaart [^2] maar ik ben nog niet met de metro in Rotterdam geweest.
 
 Het leek me leuk om daar binnenkort heen te gaan om het uit te proberen en het meteen te documenteren op video als een soort guerilla usability-studie. Als er mensen mee willen helpen denken en de camera vasthouden en na afloop bier drinken, dan zou dat erg fijn zijn.
+
+[^1]: Bijvoorbeeld om je woon-werk-verkeer te documenteren.
+[^2]: Toen ik een nieuwe NS-kortingskaart aanvroeg moest ik mijn oude weggooien en kreeg ik een nieuwe opgestuurd.

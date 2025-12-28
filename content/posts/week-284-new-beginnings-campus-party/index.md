@@ -35,8 +35,10 @@ On Friday it was back to the Campus Party to see the presentation by [the Rails 
 
 [![The Rails Girls Berlin among who @fraulea at #cpeurope](http://farm9.staticflickr.com/8423/7849849504_c3cfeb2067.jpg)](http://www.flickr.com/photos/alper/7849849504/ "The Rails Girls Berlin among who @fraulea at #cpeurope by illustir, on Flickr")
 
-And after that to see a bunch of pro gaming going on at the arena where I saw a bunch of interesting Star Craft II cast by [Kaelaris](https://twitter.com/kaelaris) and witnessed my first bit of [League of Legends](http://euw.leagueoflegends.com/) ((Some kind of strange Diablo cum Warcraft mix and mash where people click-click-click on each other.)). Witnessing the high level sc2 players up close and seeing their actual APM is rather bizarre.
+And after that to see a bunch of pro gaming going on at the arena where I saw a bunch of interesting Star Craft II cast by [Kaelaris](https://twitter.com/kaelaris) and witnessed my first bit of [League of Legends](http://euw.leagueoflegends.com/) [^1]. Witnessing the high level sc2 players up close and seeing their actual APM is rather bizarre.
 
 I have already been watching a bit of sc2 by [Husky](http://www.youtube.com/user/HuskyStarcraft) after which [Frank Lantz](http://twitter.com/flantz) started writing his [Drinking Man's Guide to Watching Starcraft](http://www.edge-online.com/filter/all/tags/3193), which I can recommend to everybody wanting to get into the sport.
 
 [![Back for the sc2 matches](http://farm8.staticflickr.com/7269/7850804460_c81d279591.jpg)](http://www.flickr.com/photos/alper/7850804460/ "Back for the sc2 matches by illustir, on Flickr")[![Siphoning in the afternoon](http://farm8.staticflickr.com/7257/7850661654_7000d3d5dd.jpg)](http://www.flickr.com/photos/alper/7850661654/ "Siphoning in the afternoon by illustir, on Flickr")
+
+[^1]: Some kind of strange Diablo cum Warcraft mix and mash where people click-click-click on each other.

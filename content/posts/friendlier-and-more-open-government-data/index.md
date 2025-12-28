@@ -65,7 +65,7 @@ The experience on the main site is just a part of the whole. The data needs to b
 
 On the [Hack the Government](http://www.hackdeoverheid.nl) event somebody said something along these lines: ‘systems integration is difficult and complicated and if you're good at it, you can make a lot of money with it’. This is a well known Enterprise IT mantra but if there's one thing that the abundances of mashups proves, it's that integrating systems on the open web is everything but complex.
 
-On the open web we have usable and developer friendly API standards with tooling (( [cURL](http://en.wikipedia.org/wiki/CURL) as the simplest example)), besides that we have proper standards for [identity](http://openid.net/) and [authentication](http://oauth.net/) ((And it's all open which means it can't be hijacked by one party and controlled or made needlessly complex.)).
+On the open web we have usable and developer friendly API standards with tooling [^1], besides that we have proper standards for [identity](http://openid.net/) and [authentication](http://oauth.net/) [^2].
 
 If you don't dig yourself into a hole, it really doesn't have to be that difficult. And none of this is exactly new, this technology has been around for ages and it just builds on the strengths of the internet.
 
@@ -73,7 +73,7 @@ If you don't dig yourself into a hole, it really doesn't have to be that difficu
 
 Both sites are completely standards based. As an experiment I wrote both in a conservative form of HTML5 (and [validated that](http://html5.validator.nu/)) partly out of curiosity to see how it would turn out and partly because I think that our current Dutch industry standard XHTML is a dead end.
 
-Added to that I have sprinkled in some [microformats](http://microformats.org) in places where it was obvious to do so (e.g. school addresses). The notion that it takes significant extra time to add microformats to a project is absurd ((Client: “Yeah, you can do that when you have time to spare.”)) and these days [the advantages of adding](http://twitpic.com/84b7d?also=hReview-aggregate-in-Google-search-results) them keep piling up.
+Added to that I have sprinkled in some [microformats](http://microformats.org) in places where it was obvious to do so (e.g. school addresses). The notion that it takes significant extra time to add microformats to a project is absurd [^3] and these days [the advantages of adding](http://twitpic.com/84b7d?also=hReview-aggregate-in-Google-search-results) them keep piling up.
 
 Yes, it takes some effort to learn to use standards and microformats properly, but once learned I think it actually takes more effort not to use them.
 
@@ -81,4 +81,9 @@ Yes, it takes some effort to learn to use standards and microformats properly, b
 
 Finally, both sites have been built in a couple of days over the course of about a week and a half. We wanted to show that when we're talking about a quick project, it really can be quick and that building a non-trivial usable beautiful website does not need to cost a lot of time or money.
 
-All of this **can** be improved. Let's get at it ((Or like [Chris](http://factoryjoe.com/blog/) says it: “This can all be made better. Ready? Begin.”)).
+All of this **can** be improved. Let's get at it [^4].
+
+[^1]:  [cURL](http://en.wikipedia.org/wiki/CURL) as the simplest example
+[^2]: And it's all open which means it can't be hijacked by one party and controlled or made needlessly complex.
+[^3]: Client: “Yeah, you can do that when you have time to spare.”
+[^4]: Or like [Chris](http://factoryjoe.com/blog/) says it: “This can all be made better. Ready? Begin.”

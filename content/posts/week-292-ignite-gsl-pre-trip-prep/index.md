@@ -11,7 +11,7 @@ aliases:
   - /dingen/2012/10/week-292-ignite-gsl-pre-trip-prep/
 
 ---
-I'm sitting here at [Beijing Airport](http://en.bcia.com.cn/) writing these too late weeknotes on their free WiFi ((Also: it is nice to still have a blog in a country where most social services are effectively a SPOF.)) which is an oddly implemented but still excellent service.
+I'm sitting here at [Beijing Airport](http://en.bcia.com.cn/) writing these too late weeknotes on their free WiFi [^1] which is an oddly implemented but still excellent service.
 
 Last week was mostly spent with a [scattered brain](/dingen/2012/10/games-on-ignite-berlin-3/#footnote_0_3965) working on my ignite an various proposals. We had a studio meeting at [Praxis](http://praxisberlin.net/) to discuss recent developments and issues.
 
@@ -28,3 +28,5 @@ The next morning I got up at seven to see the market build up and watch [the GSL
 It was rather exhilarating to see a GSL event streamed live and I'm glad my light season ticket entitled me to view it. I've recently gotten into Star Craft because of Frank Lantz's excellent [“Drinking Man's Guide to Watching Star Craft”](http://www.edge-online.com/features/drinking-mans-guide-watching-starcraft-race-wars/) and am greatly enjoying it as a highly complex, dense and therefore less boring alternative to most spectator sports.
 
 [![Life v MVP - GSL final set one](http://farm9.staticflickr.com/8468/8104648107_7500118a71.jpg)](http://www.flickr.com/photos/alper/8104648107/ "Life v MVP - GSL final set one by illustir, on Flickr")
+
+[^1]: Also: it is nice to still have a blog in a country where most social services are effectively a SPOF.

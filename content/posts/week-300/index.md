@@ -13,7 +13,7 @@ aliases:
 ---
 Last week was a week without travel or deadlines so a lot of stuff that had been lying around for too long got done.
 
-I did some more work on the small secret project ((I regret not picking a codename for it now. Henceforth it shall be known as REYNOSA.)). Also going forward with work on TORREON.
+I did some more work on the small secret project [^1]. Also going forward with work on TORREON.
 
 Chris Eidhof dropped by briefly at Praxis and told me about his [plans to organize an iOS conference](http://iosinberlin.launchrock.com/) in Berlin.
 
@@ -27,7 +27,7 @@ I finally bit the bullet and changed my T-Mobile Netherlands plan to something a
 
 [![Seems a rather appropriate sticker for Berlin](http://farm9.staticflickr.com/8497/8269951725_0a6b83fa43.jpg)](http://www.flickr.com/photos/alper/8269951725/ "Seems a rather appropriate sticker for Berlin by illustir, on Flickr")
 
-I got the funny (for Berlin's reputation, see [this Times piece](http://www.nytimes.com/2012/11/25/magazine/in-berlin-you-never-have-to-stop.html?pagewanted=all)) sticker for the new play Sommergäste by the Schaubühne written by Maxim Gorki. The previous play by that same director, [Eugen Onegin](/dingen/2012/03/toneelgroep-amsterdam-husbands/#footnote_0_3389), was absurdly boring so hopes for this adaptation of a Russian master should not be too high. Another Schaubühne play we almost went to, [The Black Rider](http://schaubuehne.de/en_EN/program/detail/11049921) ((Really, the massive misguided stones necessary to translate Burroughs into German…)), seems to be by all accounts also really rather terrible.
+I got the funny (for Berlin's reputation, see [this Times piece](http://www.nytimes.com/2012/11/25/magazine/in-berlin-you-never-have-to-stop.html?pagewanted=all)) sticker for the new play Sommergäste by the Schaubühne written by Maxim Gorki. The previous play by that same director, [Eugen Onegin](/dingen/2012/03/toneelgroep-amsterdam-husbands/#footnote_0_3389), was absurdly boring so hopes for this adaptation of a Russian master should not be too high. Another Schaubühne play we almost went to, [The Black Rider](http://schaubuehne.de/en_EN/program/detail/11049921) [^2], seems to be by all accounts also really rather terrible.
 
 Theater is a hopeless moribund discipline but [Fabian Hinrichs may prove a notable exception](http://www.hebbel-am-ufer.de/programm/spielplan/hinrichs-die-zeit-schlaegt-dich-tot/108/) in Berlin this week (which I'll be missing because of travel to Amsterdam).
 
@@ -41,3 +41,6 @@ Friday I started initial work on TORREON and after that I went to the [VVVV](htt
 Twitter announced the general availability of your own tweets for download in archive form. I had [done some preliminary work](http://monsterswell.com/blog/2012/04/a-full-twitter-index-in-your-thinkup/) on this when this option was available to Europeans and now [ThinkUp is busy building](https://github.com/ginatrapani/ThinkUp/issues/1413) a full-fledged importer.
 
 Sunday morning I finished reading [The Invisibles](http://en.wikipedia.org/wiki/The_Invisibles), a brilliant mind bending comic by Grant Morrison. It may not seem like it is relevant to my work, but it very much is in a multitude of strange ways.
+
+[^1]: I regret not picking a codename for it now. Henceforth it shall be known as REYNOSA.
+[^2]: Really, the massive misguided stones necessary to translate Burroughs into German…

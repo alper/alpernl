@@ -13,7 +13,7 @@ Hier nog even de foto's van [de tacos van laatst](/dingen/2007/06/recept-sin-cit
 
 Fijn om nu te weten hoe je tortillas met ei en aardappel maakt. In Spanje overal te krijgen, een eenvoudige maar erg lekkere snack.
 
-De tortillakoeken zijn niet heel goed gelukt ((Waarschijnlijk door [het gebrek](/dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/) aan bakpoeder.)) maar ze waren nog steeds stukken lekkerder —en minder rubberachtig— dan de dingen die je in de supermarkt koopt. Het maken van je eigen brood geeft ook een goed gevoel.
+De tortillakoeken zijn niet heel goed gelukt [^1] maar ze waren nog steeds stukken lekkerder —en minder rubberachtig— dan de dingen die je in de supermarkt koopt. Het maken van je eigen brood geeft ook een goed gevoel.
 
 Verkruim de boter door de bloem:
 [![](http://farm2.static.flickr.com/1271/548296013_bbe48c0cf6.jpg)](http://www.flickr.com/photos/alper/548296013/ "Photo Sharing")
@@ -41,3 +41,5 @@ Met tomaat-ui-peper:
 
 En eet het op:
 [![](http://farm2.static.flickr.com/1105/548308987_0b0297e4cb.jpg)](http://www.flickr.com/photos/alper/548308987/ "Photo Sharing")
+
+[^1]: Waarschijnlijk door [het gebrek](/dingen/2007/06/barre-culi-ervaring-bij-de-albert-heijn/) aan bakpoeder.

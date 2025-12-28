@@ -86,8 +86,10 @@ The 3D and 2D models can also be fablabbed into various forms which was one of o
 
 This was a fun project to do because of its limited scope and free form. It gave Kars and myself a good reason to work together (which worked out quite well). We took it far and wide to see what we could create using our skills and ready-to-use tools and we think the end results are pleasing.
 
-One of our limitations is that both of us are not graphic designers. This means we may not be the best fit for a mostly aesthetically driven visualization project. Given our [Tuftean sensibilities](http://www.edwardtufte.com/tufte/), we like to let the data speak for itself with integrity and without overmuch visual embellishment ((We can't _nay won't_ do the bubblegum variety of infovis where visual elements are added for their own sake.)).
+One of our limitations is that both of us are not graphic designers. This means we may not be the best fit for a mostly aesthetically driven visualization project. Given our [Tuftean sensibilities](http://www.edwardtufte.com/tufte/), we like to let the data speak for itself with integrity and without overmuch visual embellishment [^1].
 
 Our focus as interaction designers and our skills in programming the [Processing](http://processing.org/) visual environment, would direct us towards more dynamic and interactive visualizations where our iterative interaction with the data builds up layers of meaning and we add controls and affordances to the final product so a user can interact with the data themselves and find their own meaning.
 
 Collaborating with an artist is very interesting because the story and the context of her art imbue your work directly with more depth. Aligning technical possibilities and visual output with an artistic vision is however difficult and probably served better by more attunement and iteration than we could invest in this project.
+
+[^1]: We can't _nay won't_ do the bubblegum variety of infovis where visual elements are added for their own sake.

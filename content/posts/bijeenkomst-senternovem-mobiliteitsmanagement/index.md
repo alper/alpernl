@@ -19,7 +19,7 @@ Maar nu eerst even iets anders.
 
  [SenterNovem](http://www.senternovem.nl/) is een overheidsinstelling in Nederland die subsidies uitdeelt aan mensen die daar nuttige dingen mee denken te kunnen doen. Ik was een paar weken terug in het kantoor van SenterNovem in Utrecht bij een informatiebijeenkomst over hun programma mobiliteitsmanagement.
 
-Ik schrijf hier een verslag van de bijeekomst en probeer daarbij de inhoud te filteren uit de overheidstaal ((En waar gepast plaats ik cynische kanttekeningen in de voetnoten.)).
+Ik schrijf hier een verslag van de bijeekomst en probeer daarbij de inhoud te filteren uit de overheidstaal [^1].
 
 Belangrijke informatie van de eerste spreker was dat er binnenkort een kwaliteitsimpuls reisinformatie komt. Ik kwam hier later meer over te weten van iemand van Connexxion. Het houdt in dat er een platform komt voor dynamische reisinformatie door heel Nederland. Ik kom hier later nog op terug.
 
@@ -27,7 +27,7 @@ Daarna kwam Klaartje Arntzen die vertelde over het programma en de invulling erv
 
 #### Wie?
 
-Bedrijven en instellingen die zich met mobiliteit bezighouden en belang hebben bij de uitkomst van een project ((Toch raar want volgens mij richt een bedrijf als Connexxion klakkeloos BV's op voor dit soort dingen.)) die een project in Nederland uitvoeren komen in aanmerking voor het programma.
+Bedrijven en instellingen die zich met mobiliteit bezighouden en belang hebben bij de uitkomst van een project [^2] die een project in Nederland uitvoeren komen in aanmerking voor het programma.
 
 #### Budgetten
 
@@ -41,7 +41,7 @@ Er is €1.5M beschikbaar voor praktijkexperimenten en €500k voor haalbaarheid
 
 #### Proces
 
-Er is uiteraard sprake van een proces. De termijn voor indiening is verlengd tot woensdag 2 april 2008. De kosten zijn subsidiabel vanaf het moment van indienen. Een adviescommissie adviseert over de rangschikking aan de hand van de gestelde criteria ((Meer over dit alles op de SenterNovem website waar al zij het wat ontoegankelijk en chaotisch al deze informatie zeker ook staat.)).
+Er is uiteraard sprake van een proces. De termijn voor indiening is verlengd tot woensdag 2 april 2008. De kosten zijn subsidiabel vanaf het moment van indienen. Een adviescommissie adviseert over de rangschikking aan de hand van de gestelde criteria [^3].
 
 De criteria zijn:
 
@@ -59,11 +59,11 @@ Hierna kwam iemand van [Connexxion](http://www.connexxion.nl/) vertellen over pr
 
 Ik heb een gesprek met een subsidieconsulent van SenterNovem gehad. Deze kon mij niet al teveel verder helpen, behalve dan met de constatering dat mijn idee wel degelijk innovatief was en dat ik maar een aanvraag moest indienen en het met de juiste persoon bespreken om te kijken hoe we het beste hiermee verder kunnen.
 
-In dat gesprek stelde ik nog wat dingen aan de orde, maar degene met wie ik sprak was te low level ((Hij werkte er net.)) om me een zinnig antwoord te kunnen geven.
+In dat gesprek stelde ik nog wat dingen aan de orde, maar degene met wie ik sprak was te low level [^4] om me een zinnig antwoord te kunnen geven.
 
 #### Openheid van boeken
 
-Ik heb wat brochures meegenomen over het programma in zijn algemeenheid en (verantwoordings)publicaties met daarin de projecten waaraan subsidie is toegekend in elk jaar met speelse illustraties en leuke verhalen over hoe goed het allemaal wel niet is gegaan. Wat me daarin meteen opviel was dat bij geen enkel project stond wat het toegekende subsidiebedrag was voor dat project ((Als je het budget voor het jaar weet en het aantal projecten, kun je wel op een gemiddelde uitkomen, maar dat zegt heel weinig.)).
+Ik heb wat brochures meegenomen over het programma in zijn algemeenheid en (verantwoordings)publicaties met daarin de projecten waaraan subsidie is toegekend in elk jaar met speelse illustraties en leuke verhalen over hoe goed het allemaal wel niet is gegaan. Wat me daarin meteen opviel was dat bij geen enkel project stond wat het toegekende subsidiebedrag was voor dat project [^5].
 
 Ik weet niet wat de reden is om die bedragen niet te publiceren. Het lijkt me dat het de eerlijkheid ten goede komt als de bedragen publiek zijn en dat het toekomstige subsidieaanvragers ook iets geeft om op te mikken wanneer ze hun aanvraag indienen.
 
@@ -80,3 +80,9 @@ Ik [schreef hier al eerder over](/dingen/2007/12/open-reisinformatie-voor-de-men
 De partijen die in Nederland verenigd zijn in een platform om de reisinformatie te regelen, houden zich op dit moment meer bezig met de invoer van systemen voor dynamische reisinformatie, zodat je dus op elk moment kunt weten waar vervoersmiddelen zich bevinden.
 
 Hiervoor wordt een nieuw platform opgericht en gelet op hoe mensen in deze sector aankijken tegen hun klanten ben ik niet hoopvol dat het algemene publiek iets met die informatie mag gaan doen of dat partijen als Google Transit hier voet aan de grond gaan krijgen.
+
+[^1]: En waar gepast plaats ik cynische kanttekeningen in de voetnoten.
+[^2]: Toch raar want volgens mij richt een bedrijf als Connexxion klakkeloos BV's op voor dit soort dingen.
+[^3]: Meer over dit alles op de SenterNovem website waar al zij het wat ontoegankelijk en chaotisch al deze informatie zeker ook staat.
+[^4]: Hij werkte er net.
+[^5]: Als je het budget voor het jaar weet en het aantal projecten, kun je wel op een gemiddelde uitkomen, maar dat zegt heel weinig.

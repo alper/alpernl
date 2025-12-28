@@ -32,4 +32,6 @@ Bouwkunde Koffiebar (Sodexho) - Hip aangekleed, inhoudelijk dramatisch. Zie [pos
 
 Café onder de Aula (Sodexho) - Fijne plek om te zitten werken op de TU. Aardige bar waar altijd de muffins e.d. op zijn en buitengewoon ongeïnteresseerd personeel wat je een bakje pleur voorzet als espresso.
 
-[Coffee Company](http://www.yelloyello.com/nl/delft/coffee-company/d1OH1sEYer3jRZadbiDtP6?what=coffee+company) \- De hoop van Delft, nu in aanbouw op de Markt en zou mits goede koffie en WiFi ((Ik weet, het is veel gevraagd.)) mijn vaste ochtendstek kunnen worden.
+[Coffee Company](http://www.yelloyello.com/nl/delft/coffee-company/d1OH1sEYer3jRZadbiDtP6?what=coffee+company) \- De hoop van Delft, nu in aanbouw op de Markt en zou mits goede koffie en WiFi [^1] mijn vaste ochtendstek kunnen worden.
+
+[^1]: Ik weet, het is veel gevraagd.

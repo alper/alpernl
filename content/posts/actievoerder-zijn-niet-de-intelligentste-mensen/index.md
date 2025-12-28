@@ -18,6 +18,8 @@ Noem eens een voorbeeld van een demonstratie van intelligente mensen?
 
 ### Voorbeeld
 
-Actievoerders van GroenFront ((Links-autonome groene types.)) bezetten de afgelopen week onderdelen van de route van de Betuwelijn (zie [IndyMedia](http://www.indymedia.nl/nl/2007/06/45452.shtml)). Die Betuwelijn ligt er nu toch, dan kun je hem toch maar net zo goed gebruiken ook? Ja, er is misschien natuur vernield maar als je de Betuwelijn nu buitenwerking stelt is dat pas echt zinloos geweest.
+Actievoerders van GroenFront [^1] bezetten de afgelopen week onderdelen van de route van de Betuwelijn (zie [IndyMedia](http://www.indymedia.nl/nl/2007/06/45452.shtml)). Die Betuwelijn ligt er nu toch, dan kun je hem toch maar net zo goed gebruiken ook? Ja, er is misschien natuur vernield maar als je de Betuwelijn nu buitenwerking stelt is dat pas echt zinloos geweest.
 
 Ik dacht dat spoor het normaal gesproken goed deed bij milieubewuste mensen. Het lijkt me allicht beter dat dingen over deze treinverbinding worden vervoerd dan over de weg door Nederland, maar misschien ben ik dan niet goed geïnformeerd.
+
+[^1]: Links-autonome groene types.

@@ -14,8 +14,10 @@ aliases:
 
 [![Hugo de Groot](http://farm3.static.flickr.com/2185/2120886595_1dfa649271.jpg)](http://www.flickr.com/photos/alper/2120886595/ "Hugo de Groot by illustir, on Flickr")
 
-Ik ben er eergisteren op uit geweest om een paar opdrachten te schieten en die foto's komen nu langzaam op Flickr. Het helpt erg en ik schoot de laatste tijd toch al te weinig ((Eigenlijk vrijwel niks meer.)).
+Ik ben er eergisteren op uit geweest om een paar opdrachten te schieten en die foto's komen nu langzaam op Flickr. Het helpt erg en ik schoot de laatste tijd toch al te weinig [^1].
 
 [![IMG_5371](http://farm3.static.flickr.com/2248/2124550179_213c47e3e5.jpg)](http://www.flickr.com/photos/alper/2124550179/ "IMG_5371 by illustir, on Flickr")
 
 Doe mee, ook (of juist) als je niet een achterlijk grote camera hebt.
+
+[^1]: Eigenlijk vrijwel niks meer.

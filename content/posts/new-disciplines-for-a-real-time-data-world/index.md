@@ -35,7 +35,7 @@ Developments in [HTML5](http://dev.w3.org/html5/spec/Overview.html) bode well fo
 
 Ridiculous amounts of data requires strong analytics, very capable navigation and a new sort of editorial proces. These databases draw more and more information from the real world:
 
-> “The advent of inexpensive high-bandwidth sensors is transforming every field from data-poor to data-rich,”Edward Lazowska, \[…\] said ( [NYT](http://www.nytimes.com/2009/12/15/science/15books.html?_r=1&sudsredirect=true)) and “Today,”he added, “you have real-time access to the social structuring and restructuring of 100 million [Facebook](http://topics.nytimes.com/top/news/business/companies/facebook_inc/index.html?inline=nyt-org "More articles about Facebook.") users.”((I don't know exactly who has that access, but…)) (same source)
+> “The advent of inexpensive high-bandwidth sensors is transforming every field from data-poor to data-rich,”Edward Lazowska, \[…\] said ( [NYT](http://www.nytimes.com/2009/12/15/science/15books.html?_r=1&sudsredirect=true)) and “Today,”he added, “you have real-time access to the social structuring and restructuring of 100 million [Facebook](http://topics.nytimes.com/top/news/business/companies/facebook_inc/index.html?inline=nyt-org "More articles about Facebook.") users.”[^1] (same source)
 
 Better algorithms will allow us to make better sense of all this data and will provide inputs for the other fields. Everything can have an interestingness in a given context for a given person.
 
@@ -54,3 +54,5 @@ There's a new O'Reilly book coming out for anybody in the finer arts who's inter
 And we haven't even treated the _Natural Language Processer_, the _Urban Information Planner_ and the _Machine Vision Trainer_ yet but there's considerable overlap with the above disciplines. If you have any other that we should look at, please suggest them in the comments.
 
 **Update:** And the New York Times is just looking for somebody with [roughly this description](https://careers.nytco.com/TAM/nyt_docs/TAM/Candidate.html?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=1001338&SiteId=1&PostingSeq=1).
+
+[^1]: I don't know exactly who has that access, but…

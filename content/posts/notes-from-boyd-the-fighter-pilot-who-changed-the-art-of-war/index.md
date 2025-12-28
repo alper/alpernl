@@ -9,7 +9,7 @@ aliases:
   - /dingen/2013/11/notes-from-boyd-the-fighter-pilot-who-changed-the-art-of-war/
 
 ---
-Another long overdue post with notes from [the biography of Colonel John Boyd](https://www.goodreads.com/book/show/38840.Boyd?ac=1). This is partially so long overdue because extracting quotes from Readmill is somewhat annoying and the excellent API integration [Box of Quotes](http://boxofquotes.javierarce.com/) no longer works ((Building things on top of APIs looks to be a thing of the past for anything serious or meant to run longer than one week.)).
+Another long overdue post with notes from [the biography of Colonel John Boyd](https://www.goodreads.com/book/show/38840.Boyd?ac=1). This is partially so long overdue because extracting quotes from Readmill is somewhat annoying and the excellent API integration [Box of Quotes](http://boxofquotes.javierarce.com/) no longer works [^1].
 
 > He quoted Sophocles: “One must wait until the evening to see how splendid the day has been.”
 
@@ -104,3 +104,5 @@ Another long overdue post with notes from [the biography of Colonel John Boyd](h
 > Without this unstructuring the creation of a new structure cannot proceed—since the bits and pieces are still tied together as meaning within unchallenged domains or concepts.
 
 > The result is a changing and expanding universe of mental concepts matched to a changing and expanding universe of observed reality
+
+[^1]: Building things on top of APIs looks to be a thing of the past for anything serious or meant to run longer than one week.

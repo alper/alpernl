@@ -24,7 +24,7 @@ Baroso's brief is as follows (in part):
 >
 > ( [Mission Statement](http://www.europarl.europa.eu/hearings/static/commissioners/mission_letters/kroes_digital_agenda_en.pdf))
 
-Her [answers to the questions are here in Dutch](http://www.europarl.europa.eu/hearings/static/commissioners/answers/kroes_replies_nl.pdf) ((Which I of course did not get around to reading yet.)), you may be able to find documents in other languages at [the main site for the hearings](http://www.europarl.europa.eu/hearings/documents/default.htm?language=NL).
+Her [answers to the questions are here in Dutch](http://www.europarl.europa.eu/hearings/static/commissioners/answers/kroes_replies_nl.pdf) [^1], you may be able to find documents in other languages at [the main site for the hearings](http://www.europarl.europa.eu/hearings/documents/default.htm?language=NL).
 
 I'd read about the question session and the next day Dutch public television put this debriefing with her online:
 
@@ -39,3 +39,5 @@ Given the vast out of touch Kafka-esque bureaucratic monstrosity that is the Eur
 
 **Update:** Today's hearings went a lot better and it looks like she will get the post for Euro Commissioner for the Digital Agenda:
 **Update:** And now it is almost a done deal according to [this post on NOS.nl](http://nos.nl/artikel/130607-benoeming-kroes-zo-goed-als-rond.html) where they also mention that her advanced age may not make her the most suitable candidate for an internet portfolio.
+
+[^1]: Which I of course did not get around to reading yet.

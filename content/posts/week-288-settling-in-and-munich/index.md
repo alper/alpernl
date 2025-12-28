@@ -13,7 +13,7 @@ aliases:
 ---
 [![Coffee station if anybody fancies a cup](http://farm9.staticflickr.com/8037/7999315903_dfd93d7736.jpg)](http://www.flickr.com/photos/alper/7999315903/ "Coffee station if anybody fancies a cup by illustir, on Flickr")
 
-Monday I was given a Clever coffee maker and a Hario grinder to be able to make slow coffees at the office. Thanks [Kars](http://twitter.com/kaeru) and [Lea](http://twitter.com/fraulea) for being so attentive. I also made a start moving my books over but more and more having a professional ((I already immolated my personal library several moves ago.)) physical library is feeling like a huge dead weight.
+Monday I was given a Clever coffee maker and a Hario grinder to be able to make slow coffees at the office. Thanks [Kars](http://twitter.com/kaeru) and [Lea](http://twitter.com/fraulea) for being so attentive. I also made a start moving my books over but more and more having a professional [^1] physical library is feeling like a huge dead weight.
 
 I would like to have these books in digital form but I'm sure as hell not going to pay for them all again at ebook markups. No way in hell. Bittorrent seems like a better option.
 
@@ -38,3 +38,5 @@ And finally I had a cup with [Mustafa](https://twitter.com/codesurgeon) at the [
 https://twitter.com/codesurgeon/status/249182833111867393
 
 [![OMG it's full of kites!](http://farm9.staticflickr.com/8440/8012467484_0c16a77016.jpg)](http://www.flickr.com/photos/alper/8012467484/ "OMG it's full of kites! by illustir, on Flickr")
+
+[^1]: I already immolated my personal library several moves ago.

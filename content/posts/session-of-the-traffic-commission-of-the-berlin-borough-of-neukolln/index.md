@@ -24,12 +24,16 @@ Points two to five of the [agenda](http://www.berlin.de/ba-neukoelln/bvv-online/
 
 The debate about point 3 was especially illuminating.
 
-[Point 3 was a proposal](http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3834) to research how to keep the bike path on Karl-Marx-Straße free of parked cars. The chair of the committee said that this problem simply cannot be solved. The representative of the police said that they don't have the capacity to enforce the law when it comes to this matter and that doing so would jeopardize their ability to stop violent crime ((They were [checking cyclists for lights](https://twitter.com/urbanist_mag/status/568103116744347648) at the very same moment on Kottbusser Damm.)). Somebody present requested that these people be fined to which the chair replied that that wouldn't help either because people don't care about the fines.
+[Point 3 was a proposal](http://www.berlin.de/ba-neukoelln/bvv-online/vo020.asp?VOLFDNR=3834) to research how to keep the bike path on Karl-Marx-Straße free of parked cars. The chair of the committee said that this problem simply cannot be solved. The representative of the police said that they don't have the capacity to enforce the law when it comes to this matter and that doing so would jeopardize their ability to stop violent crime [^1]. Somebody present requested that these people be fined to which the chair replied that that wouldn't help either because people don't care about the fines.
 
-The chair cited examples to the contrary from around Schloßstraße and Savignyplatz. These don't really seem relevant to me. Fines for parking on a bike lane are nearly trivial ((They are a couple of dozen euros where of course they should be closer to €100.)) but not so trivial that they wouldn't be felt in Neukölln at all.
+The chair cited examples to the contrary from around Schloßstraße and Savignyplatz. These don't really seem relevant to me. Fines for parking on a bike lane are nearly trivial [^2] but not so trivial that they wouldn't be felt in Neukölln at all.
 
-A couple of people attending protested ((I got in late and I wasn't clear whether spectators were allowed to say anything at all during these kind of meetings.)) and said that this was a selective application of the law meant to fuck cyclists. These people were not taken seriously at all by the committee.
+A couple of people attending protested [^3] and said that this was a selective application of the law meant to fuck cyclists. These people were not taken seriously at all by the committee.
 
 It seems that the governing parties in Berlin reject any proposal submitted by the opposition. An opposition who I may add do not seem to be the sharpest knives. Some of the proposed solutions were not realistic in the slightest. One example: replacing the DHL trucks with cargo bikes is batshit crazy. To add to that: DHL trucks parking on the bike lanes are not the biggest problem at all and something that can be solved fairly easily.
 
 I went to this meeting to see why cycling in Berlin is so bad as it is and most of what I thought was confirmed. Berlin does not take cyclists seriously and the governing bodies are populated by people who say they care but who really don't give a shit.
+
+[^1]: They were [checking cyclists for lights](https://twitter.com/urbanist_mag/status/568103116744347648) at the very same moment on Kottbusser Damm.
+[^2]: They are a couple of dozen euros where of course they should be closer to €100.
+[^3]: I got in late and I wasn't clear whether spectators were allowed to say anything at all during these kind of meetings.

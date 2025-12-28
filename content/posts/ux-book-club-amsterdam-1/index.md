@@ -17,7 +17,7 @@ Tuesday, December 8th, we had the first issue of the [UX Book Club Amsterdam](ht
 
 Because it's an open source initiative, having this itch means you get to scratch it yourself. So we got cracking. We rounded up some interest (thanks [Peter Boersma](http://twitter.com/pboersma)), made [a page on the wiki](http://uxbookclub.org/doku.php?id=amsterdam) and one on LinkedIn (Join [the LinkedIn Group](http://www.linkedin.com/groups?gid=1795982&trk=hb_side_g) if you want to participate!) and got it underway.
 
-One hurdle (or maybe I should call it an advantage) is that because none of us can provide a location ((Though my office situation has changed very recently.)), we need somebody in the book club to sponsor every event. This is some extra work but it also adds some variety to every event. Also, if you want to participate and your office has room to spare to have 10-15 people talk about a book for an hour or two, [get in touch](http://twitter.com/?status=@alper%20)!
+One hurdle (or maybe I should call it an advantage) is that because none of us can provide a location [^1], we need somebody in the book club to sponsor every event. This is some extra work but it also adds some variety to every event. Also, if you want to participate and your office has room to spare to have 10-15 people talk about a book for an hour or two, [get in touch](http://twitter.com/?status=@alper%20)!
 
 ### The event
 
@@ -45,3 +45,5 @@ The event being a success we are now looking forward to the next one. It's not a
 For the book choice we are still looking for a method that will ensure enough interest so that the people voting for the final book will also be present for the event.
 
 So stay tuned, watch the LinkedIn group and I hope to see you at a future [UX Book Club](http://www.linkedin.com/groups?gid=1795982&trk=hb_side_g).
+
+[^1]: Though my office situation has changed very recently.

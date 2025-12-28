@@ -9,7 +9,7 @@ aliases:
   - /dingen/2013/04/graham-harman-at-the-universitat-der-kunste/
 
 ---
-Last Monday I heard [Graham Harman](http://doctorzamalek2.wordpress.com/) give [the International Flusser Lecture](http://www.flusser-archive.org/publications/internationalflusserlectures) in Berlin. The lecture was in German and for me as a non-native speaker somewhat hard to follow, but the present Germans loved it. ‘The English dominated academia’ seems to be problematic for them ((I have been in that conundrum myself and experienced that talking in English to a traditional German audience results in a > 75% loss of signal and a total negation of empathy.)).
+Last Monday I heard [Graham Harman](http://doctorzamalek2.wordpress.com/) give [the International Flusser Lecture](http://www.flusser-archive.org/publications/internationalflusserlectures) in Berlin. The lecture was in German and for me as a non-native speaker somewhat hard to follow, but the present Germans loved it. ‘The English dominated academia’ seems to be problematic for them [^1].
 
 Harman put Heidegger, McLuhan and [Clement Greenberg](http://en.wikipedia.org/wiki/Clement_Greenberg) through a comparison and treated their views on the surface of things and their essence. Greenberg sounded to have been thrown in to make a connection to the art world.
 
@@ -21,3 +21,5 @@ Harman's response dives back into [qualia](http://en.wikipedia.org/wiki/Qualia),
 http://twitter.com/DrZamalek/status/321888255505211392
 
 And because of the lecture I found this book [New Materialism: Interviews and Cartographies](http://quod.lib.umich.edu/cgi/p/pod/dod-idx/new-materialism-interviews-cartographies.pdf?c=ohp;idno=11515701.0001.001) and I'm looking forward to reading the interview with Manuel DeLanda that is in there.
+
+[^1]: I have been in that conundrum myself and experienced that talking in English to a traditional German audience results in a > 75% loss of signal and a total negation of empathy.

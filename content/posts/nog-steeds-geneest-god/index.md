@@ -17,7 +17,7 @@ Ik was vroeg terug in Delft en op het sportveld in de buurt van het station was 
 
 Ik heb collega's die daadwerkelijk geloven in deze onzin. Het zijn geen domme mensen maar wat dit ene betreft gaat al hun verstand en moraliteit het raam uit. Ik had van één van hen gehoord dat op zo'n dienst je mensen genezen ziet worden en als j iets ziet dan moet je het wel geloven, toch?
 
-Iets veroordelen zonder het ooit gezien te hebben moet kunnen, maar zo dicht in de buurt kon ik het niet laten om even een kijkje te nemen. Binnen werd ik allerhartelijkst begroet ((Als een verloren schaap; bijzonder naar maar tegelijkertijd te vriendelijk om boos op te kunnen worden.)) en kon ik zitten kijken naar de dienst.
+Iets veroordelen zonder het ooit gezien te hebben moet kunnen, maar zo dicht in de buurt kon ik het niet laten om even een kijkje te nemen. Binnen werd ik allerhartelijkst begroet [^1] en kon ik zitten kijken naar de dienst.
 
 [![God Geneest](http://farm2.static.flickr.com/1426/1022084076_8202d753a5.jpg)](http://www.flickr.com/photos/alper/1022084076/ "Photo Sharing")
 
@@ -31,13 +31,17 @@ Af en toe werd de leiding overgenomen door een andere man die de aanwezige menig
 
 De prediker liet er geen gras over groeien en preekte wat standaarddingen, een paar gezegden en had het toen over geld. ‘Voor niets gaat de zon op’ en dat is waarschijnlijk dubbel waar in evangelische gemeenten. Na wat gehamer op de kosten van een bijeenkomst als deze, gingen de collectezakken rond door de zaal.
 
-Een goed gedeelte van dit geld ging waarschijnlijk ook naar de aanwezige Amerikaanse evangelist die de genezingen zou uitvoeren. Ik ben benieuwd naar de handjeklapregelingen waamee het geld na afloop wordt verdeeld ((Natuurlijk geheel belastingvrij.)) en wie hoeveel krijgt.
+Een goed gedeelte van dit geld ging waarschijnlijk ook naar de aanwezige Amerikaanse evangelist die de genezingen zou uitvoeren. Ik ben benieuwd naar de handjeklapregelingen waamee het geld na afloop wordt verdeeld [^2] en wie hoeveel krijgt.
 
 Deze Amerikaan was een treurige oude man die door de aanwezigen werd onthaald als ware hij de nieuwe messiah. Hij begon een serie verhalen te vertellen die bijzonder implausibel waren en vol zaten met fouten. Maar de verhalen waren wel simpel en de thema's vertrouwd, dus iedereen kon er rustig naar luisteren.
 
 Van deze Amerikaan heb ik onder andere geleerd dat ziekte voortkomt uit zonde en dat een geloof in god het enig is wat nodig is om eraan te ontkomen. Vertel dat maar aan al deze mensen:
 [![Culture Jamming](http://farm2.static.flickr.com/1240/871789536_6339923583.jpg)](http://www.flickr.com/photos/alper/871789536/ "Photo Sharing")
 
-Een tijdje later werden de mensen die geheeld wilden worden in hun hart naar het podium ontboden. Mensen riepen rare dingen en achter me riepen mensen nog raardere dingen wat wel het spreken in tongen moest zijn ((Natuurlijk is het niet echt spreken in tongen, maar geloof doet rare dingen met mensen. Ik had gehoord van mijn collega's dat er mensen zijn die dit doen. Voor hun eigen lol waarschijnlijk.)). Het geheel had wat weg van een slecht theater, maar jongens laat theater en circus [over aan de katholieken](http://www.flickr.com/photos/alper/tags/semanasanta).
+Een tijdje later werden de mensen die geheeld wilden worden in hun hart naar het podium ontboden. Mensen riepen rare dingen en achter me riepen mensen nog raardere dingen wat wel het spreken in tongen moest zijn [^3]. Het geheel had wat weg van een slecht theater, maar jongens laat theater en circus [over aan de katholieken](http://www.flickr.com/photos/alper/tags/semanasanta).
 
 Ik zat er toen ruim een half uur en er was nog steeds niemand genezen. Nog steeds vol ongeloof en met een bekocht gevoel verliet ik de tent, deze boodschap met me meenemend: [_“They offered to save me from a life of sin, but I politely declined.”_](http://alper.jaiku.com/presence/8520372)
+
+[^1]: Als een verloren schaap; bijzonder naar maar tegelijkertijd te vriendelijk om boos op te kunnen worden.
+[^2]: Natuurlijk geheel belastingvrij.
+[^3]: Natuurlijk is het niet echt spreken in tongen, maar geloof doet rare dingen met mensen. Ik had gehoord van mijn collega's dat er mensen zijn die dit doen. Voor hun eigen lol waarschijnlijk.

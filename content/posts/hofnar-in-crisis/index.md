@@ -26,6 +26,8 @@ Jammer dat onze versie van the Daily Show geflopt is. De satires die op de Neder
 
 “It's not rocket science, home owners, apparently it's alchemy.”
 
-Niet alleen de complete financiele sector van de [quants](http://en.wikipedia.org/wiki/Quantitative_analyst) tot de directeuren van de banken hebben zich ontpopt tot charlatans (( [Behalve de Rabobank](http://www.standaard.be/Artikel/Detail.aspx?artikelId=SK27E1C3); bewijs voor het feit dat een bank die goed bestuurd wordt wel winst móet maken.)) maar de zogenaamde onafhankelijke journalistiek die ons op de hoogte had moeten houden, die goed ingelezen en kritisch had moeten zijn heeft ook zitten slapen.
+Niet alleen de complete financiele sector van de [quants](http://en.wikipedia.org/wiki/Quantitative_analyst) tot de directeuren van de banken hebben zich ontpopt tot charlatans [^1] maar de zogenaamde onafhankelijke journalistiek die ons op de hoogte had moeten houden, die goed ingelezen en kritisch had moeten zijn heeft ook zitten slapen.
 
 Raar toch dan dat een ‘fake news’-comedyprogramma betrouwbaarder en eerlijker is dan het echte nieuws.
+
+[^1]:  [Behalve de Rabobank](http://www.standaard.be/Artikel/Detail.aspx?artikelId=SK27E1C3); bewijs voor het feit dat een bank die goed bestuurd wordt wel winst móet maken.

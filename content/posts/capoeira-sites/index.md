@@ -9,4 +9,6 @@ aliases:
   - /dingen/2007/07/capoeira-sites/
 
 ---
-Ik bladerde net door de feed van [onze Capoeira-site](http://www.liberdade.nl/) heen en ik moet zeggen dat ik er toch wel erg blij mee ben. Een aardige stroom van berichten met redelijk sterke foto's flink groot ((500px)) geplaatst is toch wel erg cool.Dat moest ik even kwijt.
+Ik bladerde net door de feed van [onze Capoeira-site](http://www.liberdade.nl/) heen en ik moet zeggen dat ik er toch wel erg blij mee ben. Een aardige stroom van berichten met redelijk sterke foto's flink groot [^1] geplaatst is toch wel erg cool.Dat moest ik even kwijt.
+
+[^1]: 500px

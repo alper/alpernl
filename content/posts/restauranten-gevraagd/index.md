@@ -22,7 +22,7 @@ Mochten ze al bestaan dan hoor ik het graag. Mocht iemand ze willen beginnen dan
 
 De Burgermeester is mijn voorbeeld van zo'n niche in de Amsterdamse horeca die niet bediend werd. Hier is recent de Burgermesteer geopend en deze loopt nu prima.
 
-Voordat de Burgermeester er was, moest je heel goed zoeken in Amsterdam om een grote culinaire burger te kunnen vinden ((In Kopenhagen kun je ze bijvoorbeeld overal krijgen.)). De burger had hier blijkbaar teveel een fast food associatie en was verplicht smerig.
+Voordat de Burgermeester er was, moest je heel goed zoeken in Amsterdam om een grote culinaire burger te kunnen vinden [^1]. De burger had hier blijkbaar teveel een fast food associatie en was verplicht smerig.
 
 Succesvoorbeelden uit het buitenland genoeg en dan in het bijzonder de [Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin), [Marienburger](http://www.qype.com/place/69020-marienBurger-Berlin) en [Kreuzburger](http://www.kreuzburger.de/)-achtige tenten in Berlijn.
 
@@ -59,3 +59,5 @@ Het ‘gezonde’ fast food van de [In 'n Out Burger](http://en.wikipedia.org/wi
 Pas in [Shepherdess Cafe](http://russelldavies.typepad.com/eggbaconchipsandbeans/2004/02/the_shepherdess.html) in Hackney het klassieke Engelse eten geprobeerd en dat was een succes! Alleen zó jammer dat we dat hier niet hebben; niet een goede plek om Engels eten te eten, niet een serie greasy spoons en eigenlijk helemaal geen plaatsen waar je voor Â£7 ( = €7) kunt zitten en lekker veel kunt eten.
 
 Ik denk dat deze concepten mits goed uitgevoerd grote successen kunnen worden en in de meeste gevallen niche-vullers zullen zijn (zoals de Burgermeester nu is). Dus een slimme restaurateur kan hier zijn slag slaan en mijn buik vullen. Of moet ik toch naar San Francisco verhuizen?
+
+[^1]: In Kopenhagen kun je ze bijvoorbeeld overal krijgen.

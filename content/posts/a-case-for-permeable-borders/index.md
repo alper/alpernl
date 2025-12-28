@@ -17,9 +17,9 @@ There are tons of arguments in favor of cross-border movement of people. I want 
 
 Open borders are a stopgap so that we might have international relations that are just. People trapped in a country that offers no prospects should have the option to vote with their feet. Whether they move as war, political or economic refugees, they do so because they really have to.
 
-The flows of these people are an indication of global injustice and at the same time an incentive to do something about it ((I’m thinking that any country sending flows of people out is also broadcasting a desire for external interference in their affairs. Clearly things are not going well in a country where people do not want to be and we should do something.)). The people moving about would likely prefer not to have to leave their homes to go to another place where they may or may not be wanted.
+The flows of these people are an indication of global injustice and at the same time an incentive to do something about it [^1]. The people moving about would likely prefer not to have to leave their homes to go to another place where they may or may not be wanted.
 
-We could have done something about the countries these people come from decades ago. Unfortunately most foreign policy and development aid revolves around short-term national interests and the propping up of dictators ((Dictators are a lot cheaper to deal with than democracies.)). Closing borders would remove this final incentive to work towards globally positive outcomes.
+We could have done something about the countries these people come from decades ago. Unfortunately most foreign policy and development aid revolves around short-term national interests and the propping up of dictators [^2]. Closing borders would remove this final incentive to work towards globally positive outcomes.
 
 ### Virtue Ethics
 
@@ -27,8 +27,12 @@ Open borders provide everybody an opportunity to become better people. Like we h
 
 Becoming a better person is the ultimate goal in life and as such every opportunity to do so is a welcome one.
 
-This is not just a demand on the people in the receiving countries, it is also a demand on the people migrating. Whatever the reason, their country was and probably still is backwards and broken—otherwise they would not have moved here. Let’s welcome them and transform them into the best person they can be ((Something I’ve in the past half-jokingly have called the Europhany.)).
+This is not just a demand on the people in the receiving countries, it is also a demand on the people migrating. Whatever the reason, their country was and probably still is backwards and broken—otherwise they would not have moved here. Let’s welcome them and transform them into the best person they can be [^3].
 
 Most migrants are already focused on this because they want to work, to educate themselves and to raise their kids in safety. We could make that social contract explicit and truly live it, providing vast and equal opportunities to everybody willing to live by our principles.
 
 In the best possible case, Europe can be a life raft for the world and Europeanness can be an inclusive and expanding idea. Welcome aboard. Here's an oar. Start paddling.
+
+[^1]: I’m thinking that any country sending flows of people out is also broadcasting a desire for external interference in their affairs. Clearly things are not going well in a country where people do not want to be and we should do something.
+[^2]: Dictators are a lot cheaper to deal with than democracies.
+[^3]: Something I’ve in the past half-jokingly have called the Europhany.

@@ -19,4 +19,7 @@ Leafing through [the older presentations](http://whatsthehubbub.nl/blog/category
 
 {{< youtube EeJVTlzcZPw >}}
 
-Putting the presentation together was a fair amount of work (and not something I was particularly looking forward to the week before a holiday ((I've come to refer to that state of mind where your event horizon is defined by a single event ‘Brain Zero’.))) but all of the positive responses were more than worth it. I can highly recommend Ignite ((Though I don't know if I should, because it's totally packed anyway.)) for the mix of topics it touches on, the fun and light delivery and the varied and open crowd it attracts.
+Putting the presentation together was a fair amount of work (and not something I was particularly looking forward to the week before a holiday [^1]) but all of the positive responses were more than worth it. I can highly recommend Ignite [^2] for the mix of topics it touches on, the fun and light delivery and the varied and open crowd it attracts.
+
+[^1]: I've come to refer to that state of mind where your event horizon is defined by a single event ‘Brain Zero’.
+[^2]: Though I don't know if I should, because it's totally packed anyway.

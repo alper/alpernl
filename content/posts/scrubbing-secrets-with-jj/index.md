@@ -13,7 +13,7 @@ Last time I talked about [how I use jj for small code changes while being interr
 
 ### Open Sourcing a Project
 
-I've been long overdue to open source my little side project [Cuppings](https://cuppin.gs). This is always annoying because pretty much every project will have a bunch of sensitive stuff checked in at some point. In this case the repository contains a Google Maps API key (as well as the entire database, but that's a different story) which is something I definitely do not want to share with the internet ((Github may have an integration with Google for this so the API key may be disabled as soon as the repo is public anyway, but who knows.)).
+I've been long overdue to open source my little side project [Cuppings](https://cuppin.gs). This is always annoying because pretty much every project will have a bunch of sensitive stuff checked in at some point. In this case the repository contains a Google Maps API key (as well as the entire database, but that's a different story) which is something I definitely do not want to share with the internet [^1].
 
 The core problem is that cloud costs cannot be effectively limited on any platform. This seems to be a deliberate profit maximising move from the platforms more than because of any technical limitation. Standard operating procedure here is to rotate the key and call it a day. I wanted to be a bit more thorough than that.
 
@@ -116,3 +116,5 @@ After completing this operation I seem to have lost the position of some WIP bra
 I wrote this in part from memory after having done other things for a few weeks so I may have gotten some points wrong but all in all this should roughly work. Any suggestions or additions are welcome.
 
 **Update:** One addition is that this will remove the change from git history but the strings will likely still be in the `op log` and `evolog`. Whether they are truly gone from any git housekeeping files is also not completely verified.
+
+[^1]: Github may have an integration with Google for this so the API key may be disabled as soon as the repo is public anyway, but who knows.

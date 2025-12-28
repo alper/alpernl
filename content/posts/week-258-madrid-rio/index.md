@@ -11,7 +11,7 @@ aliases:
 ---
 [![First noms in Madrid](http://farm8.staticflickr.com/7198/6909332625_fe9158c785.jpg)](http://www.flickr.com/photos/alper/6909332625/ "First noms in Madrid by illustir, on Flickr")[![Churros con chocolate](http://farm8.staticflickr.com/7187/6923022011_db4b644342.jpg)](http://www.flickr.com/photos/alper/6923022011/ "Churros con chocolate by illustir, on Flickr")
 
-A bit shorter weeknotes compared to last week's. I spent most of the week in Madrid to do some fact finding and relax in the sun. I hadn't expected the internet in the hotel and various venues to be as disastrously poor as it was, so I didn't get as much done as I had hoped to. So the week was spent mostly lounging in the Madrid sun, eating various things ((Among these things there were hardly any vegetables to be found.)).
+A bit shorter weeknotes compared to last week's. I spent most of the week in Madrid to do some fact finding and relax in the sun. I hadn't expected the internet in the hotel and various venues to be as disastrously poor as it was, so I didn't get as much done as I had hoped to. So the week was spent mostly lounging in the Madrid sun, eating various things [^1].
 
 [![Madrid RIO](http://farm8.staticflickr.com/7180/6915667811_d0bc325b41.jpg)](http://www.flickr.com/photos/alper/6915667811/ "Madrid RIO by illustir, on Flickr")[![Indicator of weight](http://farm8.staticflickr.com/7180/6910199579_5a94cbedb4.jpg)](http://www.flickr.com/photos/alper/6910199579/ "Indicator of weight by illustir, on Flickr")
 
@@ -26,3 +26,5 @@ My visit was just too short to attend the [Madrid Hacks and Hackers](http://www.
 I was back home at 01:00 late night on Thursday so the following Friday was a bit broken, but I did manage to catchup a lot of stuff and do the necessary Skype calls.
 
 [![Derelict Telefonica](http://farm8.staticflickr.com/7176/6917227775_298335ab02.jpg)](http://www.flickr.com/photos/alper/6917227775/ "Derelict Telefonica by illustir, on Flickr")
+
+[^1]: Among these things there were hardly any vegetables to be found.

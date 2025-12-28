@@ -15,6 +15,9 @@ Een maand geleden zat ik nog een beetje in mijn eentje thuis te dralen, nu heb i
 
 [![Perspective](http://farm3.static.flickr.com/2039/2408792348_557ed90468.jpg)](http://www.flickr.com/photos/alper/2408792348/ "Perspective by illustir, on Flickr")
 
-Misschien toch handig om af en toe wat afstand te nemen ((De titel van die foto was al ‘perspectief’.)) en te kijken of de algemene koers de goede kant op gaat, maar het gevoel is goed.
+Misschien toch handig om af en toe wat afstand te nemen [^1] en te kijken of de algemene koers de goede kant op gaat, maar het gevoel is goed.
 
-In ieder geval als dit allemaal binnen een maand kan gebeuren ((Ik zag net in mijn agenda dat ik twee weken geleden op buro ben gegaan.)), ben ik benieuwd waar we over een maand mee bezig zijn. Met andere woorden: ‘Gasten, we gaan hard!’
+In ieder geval als dit allemaal binnen een maand kan gebeuren [^2], ben ik benieuwd waar we over een maand mee bezig zijn. Met andere woorden: ‘Gasten, we gaan hard!’
+
+[^1]: De titel van die foto was al ‘perspectief’.
+[^2]: Ik zag net in mijn agenda dat ik twee weken geleden op buro ben gegaan.

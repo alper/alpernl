@@ -22,7 +22,10 @@ The one thing that struck me as being odd was the fact that many speakers on the
 
 [![Lawn](http://farm4.static.flickr.com/3602/3675463541_ac5ab76848_m.jpg)](http://www.flickr.com/photos/alper/3675463541/ "Lawn by illustir, on Flickr")
 
-It was a great event and a lot of fun cruising around like a local on [the Yahoo! bike](http://www.flickr.com/photos/mikaels_bike/3659982104/) and crashing at [Mark's](http://novemberborn.net/) place with [Anne](http://annevankesteren.nl/) ( [his writeup](http://annevankesteren.nl/2009/06/reboot11)). The [opening talk](http://schulzeandwebb.com/2009/scope/slides/) by [Matt](http://twitter.com/genmon) was great (as always) and the Bruce Sterling's closing talk was also fantastic ((Though I liked his end of SxSWi tirade better.)). Ton has [a great writeup](http://www.zylstra.org/blog/archives/2009/07/reboot_11_actio.html).
+It was a great event and a lot of fun cruising around like a local on [the Yahoo! bike](http://www.flickr.com/photos/mikaels_bike/3659982104/) and crashing at [Mark's](http://novemberborn.net/) place with [Anne](http://annevankesteren.nl/) ( [his writeup](http://annevankesteren.nl/2009/06/reboot11)). The [opening talk](http://schulzeandwebb.com/2009/scope/slides/) by [Matt](http://twitter.com/genmon) was great (as always) and the Bruce Sterling's closing talk was also fantastic [^1]. Ton has [a great writeup](http://www.zylstra.org/blog/archives/2009/07/reboot_11_actio.html).
 
 But yes it was very awesome. I don't know many tech conferences that can pull off a street party like this one:
-**Update:** And the talk by Bruce Sterling ((The second part of which is straight [from the Last Viridian Note](http://www.viridiandesign.org/2008/11/last-viridian-note.html) and still relevant good advice.)) just got posted:
+**Update:** And the talk by Bruce Sterling [^2] just got posted:
+
+[^1]: Though I liked his end of SxSWi tirade better.
+[^2]: The second part of which is straight [from the Last Viridian Note](http://www.viridiandesign.org/2008/11/last-viridian-note.html) and still relevant good advice.

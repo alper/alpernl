@@ -11,23 +11,23 @@ aliases:
 ---
 Ik ben op mijn laatste avond in het Riad Hotel in Hama nog bijna versierd.
 
-In de gemeenschappelijk ruimte van dat hotel is het goed relaxen 's avonds met Abdullah —de hotelmanager die voortreffelijk ((Ik heb niemand in Syrië ook maar in de buurt van zijn Engels horen komen.)) Engels spreekt— en de andere veelal Franse gasten. Een agressieve parkiet, watermeloen, de internet-pc en wat plafondventilatoren; het leven is er goed na een dag lang het snikhete Syrië verkennen.
+In de gemeenschappelijk ruimte van dat hotel is het goed relaxen 's avonds met Abdullah —de hotelmanager die voortreffelijk [^1] Engels spreekt— en de andere veelal Franse gasten. Een agressieve parkiet, watermeloen, de internet-pc en wat plafondventilatoren; het leven is er goed na een dag lang het snikhete Syrië verkennen.
 
 [![View over the city](http://farm2.static.flickr.com/1402/1275459795_d9e9869a14.jpg)](http://www.flickr.com/photos/alper/1275459795/ "Photo Sharing")
 
 Op die laatste avond stelde Abdullah me voor aan een meisje dat Engels studeerde in Damascus of Aleppo. Ze schijnt in allebei te wonen maar ze was toevallig in het hotel in Hama. Nu zijn er hier veel mensen die zeggen dat ze Engels studeren maar hoe lang ze het ook mogen studeren, klinken als Engels doet het niet. Communicatie met dit meisje dat Medea heette was bijna niet te doen.
 
-Medea had een hoofddoek op en een sluier voor d'r gezicht zodat je alleen haar ogen zag. Verder had ze ook een dikke verhullende gewaad-achtige rok aan, typisch voor de wat fanatiekere moslimmeisjes. Het is erg raar om te praten met iemand waar je alleen maar de ogen van ziet. Communiceren in een vreemde taal wanneer de mond bedekt is, is volgens mij nog een extra handicap. Uit beleefdheid praatte ik wat met haar en vroeg wat dingen in het Arabisch ((Ik had mijn boek Arabisch bij me maar veel helpen deed dat niet.)) en als Medea niet wist hoe ze iets moest zeggen speelde Abdullah voor _muterjem_ ((Arabisch voor tolk.)).
+Medea had een hoofddoek op en een sluier voor d'r gezicht zodat je alleen haar ogen zag. Verder had ze ook een dikke verhullende gewaad-achtige rok aan, typisch voor de wat fanatiekere moslimmeisjes. Het is erg raar om te praten met iemand waar je alleen maar de ogen van ziet. Communiceren in een vreemde taal wanneer de mond bedekt is, is volgens mij nog een extra handicap. Uit beleefdheid praatte ik wat met haar en vroeg wat dingen in het Arabisch [^2] en als Medea niet wist hoe ze iets moest zeggen speelde Abdullah voor _muterjem_ [^3].
 
-Medea vroeg mijn e-mailadres en telefoonnummer en veel dacht ik er niet van dus die gaf ik. Op een gegeven moment vertaalde Abdullah van Medea iets als “She likes you.”en dat vond ik toen al aan de vreemde kant maar ik schudde het af en ik richtte mijn aandacht op andere toeristen ((Vlaamse meisjes!)). De toeristen en ik praatten over de toeristen-dingen: “Waar kom je vandaan? Waar ga je heen? Wat heb je gezien?”
+Medea vroeg mijn e-mailadres en telefoonnummer en veel dacht ik er niet van dus die gaf ik. Op een gegeven moment vertaalde Abdullah van Medea iets als “She likes you.”en dat vond ik toen al aan de vreemde kant maar ik schudde het af en ik richtte mijn aandacht op andere toeristen [^4]. De toeristen en ik praatten over de toeristen-dingen: “Waar kom je vandaan? Waar ga je heen? Wat heb je gezien?”
 
 Op een gegeven moment deed Medea haar sluier af zodat je haar gezicht kon zien. Ze was een niet lelijk meisje maar haar gezicht was lijkbleek. Dat gebeurt er dus als je van je geloof de zon nooit mag zien. Vroeger en op sommige plaatsen nog steeds was dat een schoonheidsideaal. Het moet toch raar zijn dat in een land met zoveel zon de helft van de mensen die nooit op haar gezicht kan voelen.
 
-Ik heb uit beleefdheid de rest van de avond nog wat aandacht aan Medea besteedt maar het gesprek vlotte niet echt en er waren interessantere mensen om mee te praten. Aan het einde van de avond had ik uitgecheckt — ik nam de bus van 06:45 de volgende ochtend naar [Palmyra](http://en.wikipedia.org/wiki/Palmyra)— nam ik afscheid van iedereen om vroeg te gaan slapen. Toen kreeg ik van Medea compleet onverwacht een afscheidskus ((Tip voor Nederlandse toeristen: ga op reis in de Arabische wereld niet in het wilde weg vrouwen lopen kussen.)).
+Ik heb uit beleefdheid de rest van de avond nog wat aandacht aan Medea besteedt maar het gesprek vlotte niet echt en er waren interessantere mensen om mee te praten. Aan het einde van de avond had ik uitgecheckt — ik nam de bus van 06:45 de volgende ochtend naar [Palmyra](http://en.wikipedia.org/wiki/Palmyra)— nam ik afscheid van iedereen om vroeg te gaan slapen. Toen kreeg ik van Medea compleet onverwacht een afscheidskus [^5].
 
 [![Fan](http://farm2.static.flickr.com/1089/1276411566_8869a46bc1.jpg)](http://www.flickr.com/photos/alper/1276411566/ "Photo Sharing")
 
-De volgende ochtend stond ik om 06:00 op ((Vroeg opstaan is klote maar er is niks mis met verder slapen in bussen met airconditioning.)) om mijn vroege bus naar Palmyra te halen. Ik was mijn spullen aan het pakken toen mijn telefoon ging. Je raad al dat het Medea was die me belde. Ze had gisteren iets opgevangen van “six o'clock”of mijn gebrekkige “saa:a sittah”. Over de telefoon probeerde ze in extreem onsamenhangend ((Het was voor haar ook vroeg.)) Arabisch iets te vertellen. Ik kon alleen maar denken aan de €1,50 per minuut die dit me kostte en de bus die ik moest halen dus ik zei vriendelijk doei en hing op.
+De volgende ochtend stond ik om 06:00 op [^6] om mijn vroege bus naar Palmyra te halen. Ik was mijn spullen aan het pakken toen mijn telefoon ging. Je raad al dat het Medea was die me belde. Ze had gisteren iets opgevangen van “six o'clock”of mijn gebrekkige “saa:a sittah”. Over de telefoon probeerde ze in extreem onsamenhangend [^7] Arabisch iets te vertellen. Ik kon alleen maar denken aan de €1,50 per minuut die dit me kostte en de bus die ik moest halen dus ik zei vriendelijk doei en hing op.
 
 [![Square](http://farm2.static.flickr.com/1233/1276290574_2c8a806fd9.jpg)](http://www.flickr.com/photos/alper/1276290574/ "Photo Sharing")
 
@@ -45,4 +45,13 @@ De volgende dag nog werd ik toen ik door de ruïnes van Palmyra heenliep een kee
 
 Ahmet in het hotel in Palmyra kwam met het verhaal dat in een ander hotel meisjes met hoofddoekjes zaten te giechelen en hem zaten te wenken toen hij aan het roken was.
 
-Muhamad ((Hotelmanagers in Syrië heten allemaal Abdulah of Muhamad om het overzichtelijk te houden.)) van een ander hotel in Latakia zei me dat je niet af kunt gaan op het uiterlijk van meisjes in de Arabische wereld. Je hebt d'r die er open bij lopen en eigenlijk erg conservatief zijn en je hebt er die gesloten zijn maar die eigenlijk compleet zijn losgeslagen. Dat lijk me de beste moraal voor dit verhaal.
+Muhamad [^8] van een ander hotel in Latakia zei me dat je niet af kunt gaan op het uiterlijk van meisjes in de Arabische wereld. Je hebt d'r die er open bij lopen en eigenlijk erg conservatief zijn en je hebt er die gesloten zijn maar die eigenlijk compleet zijn losgeslagen. Dat lijk me de beste moraal voor dit verhaal.
+
+[^1]: Ik heb niemand in Syrië ook maar in de buurt van zijn Engels horen komen.
+[^2]: Ik had mijn boek Arabisch bij me maar veel helpen deed dat niet.
+[^3]: Arabisch voor tolk.
+[^4]: Vlaamse meisjes!
+[^5]: Tip voor Nederlandse toeristen: ga op reis in de Arabische wereld niet in het wilde weg vrouwen lopen kussen.
+[^6]: Vroeg opstaan is klote maar er is niks mis met verder slapen in bussen met airconditioning.
+[^7]: Het was voor haar ook vroeg.
+[^8]: Hotelmanagers in Syrië heten allemaal Abdulah of Muhamad om het overzichtelijk te houden.

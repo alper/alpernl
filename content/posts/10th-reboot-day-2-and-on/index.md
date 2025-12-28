@@ -28,4 +28,6 @@ I dropped in on the [Arduino](http://arduino.cc) workshop which was a very nice 
 
 After the conference we made a yearly chaotic meetup somewhere in the city trying to get something to eat more or less succesfully after which we made our way to Vega. The party in the bar was quickly replaced with a party outside with tipping beers and music where everybody had a great time. Even the arrival of police could not really stop our party.
 
-The next day I was going to get some coffee at Kafeplantagen when I remembered that some people were having a post-Reboot brunch at [Pussy Galore's Flying Circus](http://www.pussy-galore.dk/) ((Yeah, the name is for real.)). I was a bit hesitant to join after having already spent two days with these people but I'm glad I went inside. I got to catch up with Chris Messina, [Brynn Evans](http://brynnevans.com/) and Janetti Chon and talk about the differences between the USA and Europe.
+The next day I was going to get some coffee at Kafeplantagen when I remembered that some people were having a post-Reboot brunch at [Pussy Galore's Flying Circus](http://www.pussy-galore.dk/) [^1]. I was a bit hesitant to join after having already spent two days with these people but I'm glad I went inside. I got to catch up with Chris Messina, [Brynn Evans](http://brynnevans.com/) and Janetti Chon and talk about the differences between the USA and Europe.
+
+[^1]: Yeah, the name is for real.

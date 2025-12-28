@@ -38,10 +38,12 @@ PICNIC taking a large bite out of the week's productivity, the weekend suffered 
 
 On Saturday I sat on the terrace of [Two for Joy](http://foursquare.com/venue/5100253) catching the last rays of the sun, while sketching out a concept model for an ethnographical study of metropolitan minorities in the Netherlands with regards to digital services and informal economy.
 This was partly prompted by the Urban Lenses panel at [PICNIC](http://picnicnetwork.org) where certain panelists displayed an inexcusable amount of cultural insensitivity and simplistic thinking. This is a tendency among many of our colleagues to see their affluent, technologically able, privileged selfs as the model for which to design. Not to mention to see the disconnect between the nation's policies and its ethnically diverse periphery high streets.
-I propose going into these burbs and talking to these people to see what their lives are really like and how they use technology. Think [Jan Chipchase](http://www.janchipchase.com) but without the [permafuck](http://janchipchase.com/?s=permaphuck) ((Don't worry, you will get tired plenty.)). A project for fun, but I can't guarantee we won't make any profit. Up for it?
+I propose going into these burbs and talking to these people to see what their lives are really like and how they use technology. Think [Jan Chipchase](http://www.janchipchase.com) but without the [permafuck](http://janchipchase.com/?s=permaphuck) [^1]. A project for fun, but I can't guarantee we won't make any profit. Up for it?
 
 [![Model](http://farm5.static.flickr.com/4125/5027945772_a6f066d206.jpg)](http://www.flickr.com/photos/alper/5027945772/ "Model by illustir, on Flickr")
 
 You may have noticed the transition of [Monster Swell](http://monsterswell.com) from a static placeholder site to a full [Wordpress](http://wordpress.org) installation of its own. That is the first improvement on that domain for it to become a fully scalable information consuming and producing entity. How that will impact this weblog remains to be seen.
 
 Sunday was occupied by taking the Urbanode integration at the [Melkweg](http://www.melkweg.nl) to a next step and learning more and more about lighting systems. Also project _mérida_ started with some custom django deployment more on which later.
+
+[^1]: Don't worry, you will get tired plenty.

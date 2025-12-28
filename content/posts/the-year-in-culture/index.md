@@ -27,7 +27,7 @@ I've read eleven books (see my [Goodreads](https://www.goodreads.com/user/show/8
 
 Bold is recommended. It looks like this year I especially enjoyed non-fiction maybe because my fiction was limited to fairly mediocre genre stuff. I'm resolving that reading should not be painful (Russians were a good attempt, but too boring) and that it should also not be trivial (so no more genre fiction crap for me).
 
-In movies I fared slightly better but did not manage to hit the one movie per week baseline with a meagre 23 of which only two in the cinema ((I miss Cineville so badly.)). I'm playing catchup now over the christmas break with eleven these views happening in December.
+In movies I fared slightly better but did not manage to hit the one movie per week baseline with a meagre 23 of which only two in the cinema [^1]. I'm playing catchup now over the christmas break with eleven these views happening in December.
 
 All are in my [Letterboxed diary](http://letterboxd.com/alper/films/diary/) but since sites disappear I'm archiving them here as well. I am immensely pleased with almost all of the movies I have seen except for the two marked as shit.
 
@@ -57,7 +57,7 @@ All are in my [Letterboxed diary](http://letterboxd.com/alper/films/diary/) but 
 
 I managed to avoid going to theater plays and went to one opera “Les Contes d'Hoffmann”in the Komische Oper which was delightful.
 
-I guess I can in part explain this shift by my consumption of games. Even without owning a console there is more than enough stuff to play. Here are nineteen games I played for the first time in 2015. Some of them were played only once and some of them were played for dozens of hours ((It could be insightful but I don't think I want to look at my Steam hours summed over the year.)).
+I guess I can in part explain this shift by my consumption of games. Even without owning a console there is more than enough stuff to play. Here are nineteen games I played for the first time in 2015. Some of them were played only once and some of them were played for dozens of hours [^2].
 
 - Borderlands 2
 - Nuclear Throne
@@ -79,3 +79,6 @@ I guess I can in part explain this shift by my consumption of games. Even withou
 - Galaxy Trucker
 - Sunless Sea
 - **Codenames**
+
+[^1]: I miss Cineville so badly.
+[^2]: It could be insightful but I don't think I want to look at my Steam hours summed over the year.

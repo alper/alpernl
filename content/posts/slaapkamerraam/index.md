@@ -18,4 +18,6 @@ Nu heb ik daar een makkelijke voor met mijn nieuwe uitzicht en dat is ook [mijn 
 Maar in mijn archieven zit ook een foto, die ik nog liever had ingestuurd omdat die een vergezicht bevat met een mooie compositie, genomen is op reis toen ik moe op bed plofte in mijn hostel na een dag rondwandelen in Granada en als laatste gedachte nog even van het bed af deze foto door het raam schoot en net die vogel langsvloog. Schitterend gelukje:
 [![View from my hostel bunk](http://farm1.static.flickr.com/200/444892404_778a51f161.jpg)](http://www.flickr.com/photos/alper/444892404/ "View from my hostel bunk by illustir, on Flickr")
 
-Maar die mocht niet omdat hij na croppen te klein is geworden voor de minimum eis van JPG ((2200 pixels aan één zijde.)).
+Maar die mocht niet omdat hij na croppen te klein is geworden voor de minimum eis van JPG [^1].
+
+[^1]: 2200 pixels aan één zijde.

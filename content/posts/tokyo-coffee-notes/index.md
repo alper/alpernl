@@ -22,7 +22,7 @@ I had a quick lunch and walked to the Little Nap Coffee Stand ( [checkin](https:
 
 ### Fuglen Tokyo
 
-Then I walked over to this place recommended to me by Companion Coffee. This Fuglen ( [checkin](https://foursquare.com/alper/checkin/5226c45a498edd87cbb2af6d), [tip](https://foursquare.com/item/5226c9aa11d2bbf43d897e3c)) is a sister to a store by the same name in Oslo ((And Oslo with its coffee scene is still very high on my to visit list.)). This place turned out to be more of a cafe with an event program and cocktails in the evening and a diverse group of Japanese people and expats hanging around with laptops during the day.
+Then I walked over to this place recommended to me by Companion Coffee. This Fuglen ( [checkin](https://foursquare.com/alper/checkin/5226c45a498edd87cbb2af6d), [tip](https://foursquare.com/item/5226c9aa11d2bbf43d897e3c)) is a sister to a store by the same name in Oslo [^1]. This place turned out to be more of a cafe with an event program and cocktails in the evening and a diverse group of Japanese people and expats hanging around with laptops during the day.
 
 [![Fuglen](http://farm6.staticflickr.com/5496/9694445418_5334fae9e7_z.jpg)](http://www.flickr.com/photos/alper/9694445418/ "Fuglen by illustir, on Flickr")
 
@@ -185,3 +185,5 @@ A bit further on is Hitinui ( [checkin](https://foursquare.com/alper/checkin/523
 Identity Coffee Bar+ Gallery ( [checkin](https://foursquare.com/alper/checkin/5232d10511d280725ac66477), [tip](https://foursquare.com/item/52507d2d498e6215f63c9910)) also in Omotesando is a rather nice store and has an excellent selection of both Intelligentsia and Handsome beans which they prefer perfectly.
 
 That was the roundup from my Tokyo coffee experience. I visited a couple of the places several times and brought back some bags of coffee but I am extremely impressed with the coffee culture and I'll definitely be back.
+
+[^1]: And Oslo with its coffee scene is still very high on my to visit list.

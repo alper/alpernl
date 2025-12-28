@@ -24,11 +24,11 @@ De OV-chipkaart is een vergelijkbare technologie, dus het zou mogelijk moeten zi
 
 [![Irreducible Complexity?](http://farm4.static.flickr.com/3499/3810654377_7e6ef6d839_m.jpg)](http://www.flickr.com/photos/alper/3810654377/ "Irreducible Complexity? by illustir, on Flickr")
 
-Nog een andere leuke toepassing zou het zijn wanneer [het transactie-overzicht op ov-chipkaart.nl](https://www.ov-chipkaart.nl/mijnov/reizenentransacties/transactieoverzicht/) niet zo ontzettend vertraagd zou zijn. In het ideale geval zou elke checkin en checkout via [een pubsubhubbub](http://code.google.com/p/pubsubhubbub/) naar geïnteresseerde en geautoriseerde partijen gestuurd worden ((Maar ik zou al blij zijn als recente transacties binnen een kwartier in het transactie-overzicht stonden.)).
+Nog een andere leuke toepassing zou het zijn wanneer [het transactie-overzicht op ov-chipkaart.nl](https://www.ov-chipkaart.nl/mijnov/reizenentransacties/transactieoverzicht/) niet zo ontzettend vertraagd zou zijn. In het ideale geval zou elke checkin en checkout via [een pubsubhubbub](http://code.google.com/p/pubsubhubbub/) naar geïnteresseerde en geautoriseerde partijen gestuurd worden [^1].
 
 Je zou dan bijvoorbeeld een automatische Foursquare of [Google Latitude](http://www.google.com/intl/en_us/latitude/intro.html) inchecker kunnen bouwen die je locatie op die manier automatisch doorkrijgt.
 Of een [kleurrijk spel](http://www.wearemudlark.com/projects/project-6/) in de stad.
-Of een mobiele applicatie die via GPS ziet wanneer je vergeten bent uit te checken en je erop attendeert zodat je naar het poortje terug kunt lopen ((Hoe vet zou dat zijn!)).
+Of een mobiele applicatie die via GPS ziet wanneer je vergeten bent uit te checken en je erop attendeert zodat je naar het poortje terug kunt lopen [^2].
 
 Voorlopig lijkt het erop dat het systeem goed draaiende krijgen prioriteit heeft (terecht) en dat dat al moeilijk genoeg is (jammer) zodat we nog even moeten wachten op dit soort technologische hoogstandjes.
 
@@ -39,3 +39,6 @@ Voorlopig lijkt het erop dat het systeem goed draaiende krijgen prioriteit heeft
 Van de week maar even een patch toevoegen voor de Amsterdamse metro. We hebben hier ook [afkortingen](http://nl.wikipedia.org/wiki/Wibautstraat_(metrostation)).
 
 En woensdag kunnen we over dit soort dingen praten in [de Verdieping](http://www.facebook.com/event.php?eid=188558907275&ref=mf).
+
+[^1]: Maar ik zou al blij zijn als recente transacties binnen een kwartier in het transactie-overzicht stonden.
+[^2]: Hoe vet zou dat zijn!

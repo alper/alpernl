@@ -19,7 +19,7 @@ This resounds simply with the fact that things that are worth doing are oftentim
 
 Just to narrow this down to music, 99% of the music I listen to has no meaning whatsoever to me. This has no bearing on the quality of contemporary music, which I think is actually quite high. Only a couple of albums and artists have managed to strike a chord with me that makes their music merit a repeat listen.
 
-This may be different for others but the real investment of Fl. 45,-- or so back then was quite significant, distribution channels were few and the diversity they offered near zero ((Still is. I couldn't get a physical copy of a Camille album anywhere in Delft.)), you got your recommendations either from mass media or from word of mouth ((Anybody still read Oor?)). The experience was radically different.
+This may be different for others but the real investment of Fl. 45,-- or so back then was quite significant, distribution channels were few and the diversity they offered near zero [^1], you got your recommendations either from mass media or from word of mouth [^2]. The experience was radically different.
 
 Yes, something has been lost in the transition but the abundance we have gained in return makes it more than worthwhile for me.
 
@@ -31,6 +31,12 @@ Having spent two and a half weeks in the United States most of which in and arou
 
 San Francisco is so well mapped within most online services that the experience you have there using the internet is unparalleled. Most services originate there which results in San Francisco being completely mapped in [Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=san+francisco&sll=37.0625,-95.677068&sspn=72.976766,107.929688&ie=UTF8&t=h&z=11&g=san+francisco&iwloc=addr), well covered in [Yelp](http://yelp.com/sf) and there are ample Twinkling [Twitter](http://twitter.com) users in the proximity.
 
-Unfortunately for a visiting European like myself it is prohibitively expensive to use roaming data ((€5 per Mb consumed.)) ((Or roaming anything actually. While I was waiting for the BART, I had a brief phonecall with a friend who wasn't aware of me being stateside. This could have been a lot of fun, if it wasn't so damn expensive.)), meaning that most of the time my iPhone was a multimedia brick. Being disconnected like this, made me acutely aware of how reliant I have become on the real and virtual compass my iPhone provides. Walking around without a continuous stream of data coming in on the iPhone felt as if a sense was missing.
+Unfortunately for a visiting European like myself it is prohibitively expensive to use roaming data [^3] [^4], meaning that most of the time my iPhone was a multimedia brick. Being disconnected like this, made me acutely aware of how reliant I have become on the real and virtual compass my iPhone provides. Walking around without a continuous stream of data coming in on the iPhone felt as if a sense was missing.
 
-What is a sense other than a mapping of external information to a part of your brain ((This [article in Wired](http://www.wired.com/wired/archive/15.04/esp_pr.html) about how to add senses to your perception.))? The services on my iPhone provide me with a sense of presence and sense of direction within my spheres of contacts. My brain is conditioned to receive regular updates to this sense and withholding those updates used to be called something like “withdrawal from information addiction”but since this is a sense we're talking about, I think “sensory deprivation”may be better suited. Without this sixth sense so much of your peripheral ‘vision’ is cut off that you feel like you are wandering around half blind.
+What is a sense other than a mapping of external information to a part of your brain [^5]? The services on my iPhone provide me with a sense of presence and sense of direction within my spheres of contacts. My brain is conditioned to receive regular updates to this sense and withholding those updates used to be called something like “withdrawal from information addiction”but since this is a sense we're talking about, I think “sensory deprivation”may be better suited. Without this sixth sense so much of your peripheral ‘vision’ is cut off that you feel like you are wandering around half blind.
+
+[^1]: Still is. I couldn't get a physical copy of a Camille album anywhere in Delft.
+[^2]: Anybody still read Oor?
+[^3]: €5 per Mb consumed.
+[^4]: Or roaming anything actually. While I was waiting for the BART, I had a brief phonecall with a friend who wasn't aware of me being stateside. This could have been a lot of fun, if it wasn't so damn expensive.
+[^5]: This [article in Wired](http://www.wired.com/wired/archive/15.04/esp_pr.html) about how to add senses to your perception.

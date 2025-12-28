@@ -10,4 +10,6 @@ aliases:
 ---
 Passen jullie op als jullie in de buurt van Delft zijn? Het schijnt dat hier de laatste tijd nogal wat auto's ontploffen.
 
-Nu heb ik gelukkig geen auto ((Maar ik heb gisteren wel een lift van Amsterdam naar Delft gekregen.)).
+Nu heb ik gelukkig geen auto [^1].
+
+[^1]: Maar ik heb gisteren wel een lift van Amsterdam naar Delft gekregen.

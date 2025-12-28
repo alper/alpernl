@@ -26,7 +26,7 @@ Still Congstar wouldn't activate it and as if by magic the next morning some mon
 >
 > — congstar (@congstar) [February 19, 2014](https://twitter.com/congstar/statuses/436059627739176960)
 
-What is to say that these operators don't shave off money from customers' accounts when it suits them? Due to the lack of information from them it is impossible for a customer to verify where the money goes to ((Well we know it went in some douchebags pockets.)).
+What is to say that these operators don't shave off money from customers' accounts when it suits them? Due to the lack of information from them it is impossible for a customer to verify where the money goes to [^1].
 
 The major advantage of this plan over my previous prepaid is that I don't get SMS spam all the time. Small blessings like that are all we can hope for in the land of telcos.
 
@@ -39,3 +39,5 @@ There is indeed a usage view but it shows that some time after I tried upgrading
 ![](/img/screenshots/Produktdetailseite_20140219_105235.jpg)
 
 Obviously if you don't allow people to add a data plan if you wait long enough their phones will use data at some point when they can't get a WiFi connection and you have a good excuse to let them pay more. Telcos are a bottomless pit into which we can throw money for all our lives.
+
+[^1]: Well we know it went in some douchebags pockets.

@@ -17,7 +17,7 @@ Thuis kwam ik erachter hoe klassiek dit muziekstuk is maar ik kon er bijna niks 
 
 [![Opera do Malandro](http://farm3.static.flickr.com/2450/3624903311_e08ac09383.jpg)](http://www.flickr.com/photos/alper/3624903311/ "Opera do Malandro by illustir, on Flickr")
 
-Ik heb tijdens het optreden met mijn iPhone wat opgenomen, nauwelijks representatief en hele slechte kwaliteit, maar beter dan niks ((De foto's zijn ook belabberd. Ik had niks bij me.)):
+Ik heb tijdens het optreden met mijn iPhone wat opgenomen, nauwelijks representatief en hele slechte kwaliteit, maar beter dan niks [^1]:
 
 “O Meu Amor”
 
@@ -32,3 +32,5 @@ En de uitsmijter van de avond “Las Muchachas de Copacabana”met hun ‘loura 
 Hier op Youtube uit een ander optreden:
 
 De audiobestanden staan in dit bericht gelinked met <audio> elementen en zijn op dit moment alleen te bekijken met Safari of met een development versie van Firefox. Hier komt langzaamaan verbetering in, zeg maar dat dit toekomstbereid is.
+
+[^1]: De foto's zijn ook belabberd. Ik had niks bij me.

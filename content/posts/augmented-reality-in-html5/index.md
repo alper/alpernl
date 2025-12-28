@@ -16,7 +16,7 @@ I don't have much of any experience in designing these kind of specs (though [I 
 
 ### Get outside video
 
-Create a specific [src parameter](http://www.whatwg.org/specs/web-apps/current-work/#dom-media-src) for video, for instance src="webcam" to get image data from a current installed webcam ((Though there may be better ways than a ‘magic value’ for the source attribute.)). The user-agent can mediate the presence of cameras and the routing of sources. This gives the user-agent a way to get device video into the web application.
+Create a specific [src parameter](http://www.whatwg.org/specs/web-apps/current-work/#dom-media-src) for video, for instance src="webcam" to get image data from a current installed webcam [^1]. The user-agent can mediate the presence of cameras and the routing of sources. This gives the user-agent a way to get device video into the web application.
 
 Besides augmented reality this could be used for most webcam related applications on websites but for that some more facilities for retrieving and transmitting the video stream will be necessary.
 
@@ -40,3 +40,5 @@ Ideally each frame of video could also be rendered into a [canvas](http://www.wh
 **Update:** This already seems to be possible by putting the image back into a canvas, but I don't think that would sync up the audio properly.
 
 So all that is needed is the addition of an extra source and an extra method to the <video> element. Doesn't seem like that much, does it?
+
+[^1]: Though there may be better ways than a ‘magic value’ for the source attribute.

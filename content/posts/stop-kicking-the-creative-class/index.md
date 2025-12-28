@@ -12,7 +12,7 @@ aliases:
   - /dingen/2011/10/stop-kicking-the-creative-class/
 
 ---
-I was at a meeting this weekend by the [Pop-up City](http://popupcity.net/) and the documentary displayed about urban development fits into a wider recent trend where people kick the creative class and blame them for society's ills. Usually the dreaded specter of gentrification is pulled out to show how apathetic and different and outright bad the Creative Class ((A horrible term, but the one we got to work with.)) are.
+I was at a meeting this weekend by the [Pop-up City](http://popupcity.net/) and the documentary displayed about urban development fits into a wider recent trend where people kick the creative class and blame them for society's ills. Usually the dreaded specter of gentrification is pulled out to show how apathetic and different and outright bad the Creative Class [^1] are.
 
 The documentary shown last weekend [“Creativity and the Capitalist City”](http://www.creativecapitalistcity.org/) by Tino Buchholz actually showed an interesting and nuanced picture of urban development. Unfortunately this was marred by the rabid and insubstantial left-wing outings of the movie maker afterwards. That discussion did oust a lot of resentment that I think needs to be addressed more openly and more honestly than it currently is.
 
@@ -38,3 +38,5 @@ There are a ton of jobs in technology right now. Amsterdam cannot find itself en
 We, the employed, already pay taxes. As a base that should be enough. If anybody out there is failing to keep up their end of the bargain, it's the government we are paying the taxes to. They are bailing out the rich and keeping the poor ignorant with well meant institutional schemes that rarely amount to anything (just look at [the Wire](http://en.wikipedia.org/wiki/The_Wire)). Government should change and if the recent occupy movements serve as a wake-up call to do that, all for the better. Though experience does not make me very optimistic on that front.
 
 If there is anything we shouldn't do in the Netherlands, it is to pretend that things here are as bad as in the US or anywhere in Europe. We have [the lowest unemployment](http://en.wikipedia.org/wiki/Economy_of_the_European_Union#Unemployment) in the Eurozone. We have an egalitarian society, cheap education, social security and mobility. Pretending otherwise is disingenuous and self-serving. You can do pretty much everything you want in this country and I say that not being white, not being privileged. I sincerely believe all it takes is for you to get out and make something. So do it.
+
+[^1]: A horrible term, but the one we got to work with.

@@ -19,7 +19,7 @@ This week marked a strategic planning session for the coming year out of which a
 
 [![](rocks.png)](rocks.png)
 
-Next we did some project planning for a fun little thing ( _saba_) we're going to build in 2012Q1. And then we played [Quarriors](http://boardgamegeek.com/boardgame/91536/quarriors) which I won against all odds ((Me writing this is still a bit of residual fiero.)).
+Next we did some project planning for a fun little thing ( _saba_) we're going to build in 2012Q1. And then we played [Quarriors](http://boardgamegeek.com/boardgame/91536/quarriors) which I won against all odds [^1].
 
 [![Another day, another game](http://farm8.staticflickr.com/7173/6505802945_b8ff03defb.jpg)](http://www.flickr.com/photos/alper/6505802945/ "Another day, another game by illustir, on Flickr")
 
@@ -32,3 +32,5 @@ Thursday I went to the [Dialogues House](http://www.dialogueshouse.nl/) to see [
 Then on Friday it was tying off some odds and ends (I added [a view back and forward](https://twitter.com/#!/erwblo/status/147692033107169280) for Fast Moving Targets [year end project](https://twitter.com/#!/erwblo/status/147692033107169280)) and preparing for the [Open Coop](http://www.opencooperatie.nl/) party.
 
 [![The proceedings continue](http://farm8.staticflickr.com/7025/6522072477_4ec4fc215c.jpg)](http://www.flickr.com/photos/alper/6522072477/ "The proceedings continue by illustir, on Flickr")
+
+[^1]: Me writing this is still a bit of residual fiero.

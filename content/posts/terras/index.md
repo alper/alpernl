@@ -10,4 +10,6 @@ aliases:
 
 ---
 [![Chance Encounter](http://farm4.static.flickr.com/3064/2520547781_62720be6f3.jpg)](http://www.flickr.com/photos/alper/2520547781/ "Chance Encounter by illustir, on Flickr")
-Zaterdag was een dag van toevallige ontmoetingen. En dat zonder Twitter of andere vormen van geopresence ((Als is het toegegeven niet zo lastig als je pal naast elkaar woont.)).
+Zaterdag was een dag van toevallige ontmoetingen. En dat zonder Twitter of andere vormen van geopresence [^1].
+
+[^1]: Als is het toegegeven niet zo lastig als je pal naast elkaar woont.

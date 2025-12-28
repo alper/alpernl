@@ -9,7 +9,7 @@ aliases:
   - /dingen/2012/11/monocle-isms/
 
 ---
-I picked up a [Monocle](http://monocle.com/) at Sydney airport for a long flight without laptop (along with [a book](http://www.goodreads.com/book/show/7141642-the-thousand-autumns-of-jacob-de-zoet)) and I was a bit disappointed ((In retrospect I should have bought a New Yorker if they had them, but this was an impulse purchase and yes I too do aspire in a modest way.)) in finding that the magazine hadn't progressed much since I first read it years ago. It still is that strangely a-political collection of fluff pieces for the spendy class and because of the current realities of print publishing now also brimful of advertorials.
+I picked up a [Monocle](http://monocle.com/) at Sydney airport for a long flight without laptop (along with [a book](http://www.goodreads.com/book/show/7141642-the-thousand-autumns-of-jacob-de-zoet)) and I was a bit disappointed [^1] in finding that the magazine hadn't progressed much since I first read it years ago. It still is that strangely a-political collection of fluff pieces for the spendy class and because of the current realities of print publishing now also brimful of advertorials.
 
 I do read and enjoy (in an odd way) Tyler Brûlé's [Fast Lane column](http://www.ft.com/intl/arts/columnists/tylerbrule) in FT and it looks like Monocle itself is larded with his signature phraseology. A distillation from a single issue:
 
@@ -72,3 +72,5 @@ I do read and enjoy (in an odd way) Tyler Brûlé's [Fast Lane column](http://ww
 > The hope is that this is a model to be rolled out
 
 > it has also sparked a longing for restaurants where home-cooked, uncomplicated food is served in familiar settings
+
+[^1]: In retrospect I should have bought a New Yorker if they had them, but this was an impulse purchase and yes I too do aspire in a modest way.

@@ -9,7 +9,7 @@ aliases:
   - /dingen/2013/11/notes-from-aramis-by-bruno-latour/
 
 ---
-I finished Aramis ( [PDF](http://dss-edit.com/plu/Latour-B_Aramis-or-Love-of-Technology_1996.pdf)) a couple of weeks ago and this is absolutely essential reading for anybody involved with technology in a wider sense than just technology. It is also quite funny. I look forward to reading more by Bruno Latour, [An Inquiry into the Modes of Existence](http://www.bruno-latour.fr/node/252) is high on my list ((Though unfortunately not available as an ebook.)) and I've registered to join [his MOOC on the Scientific Humanities](https://www.france-universite-numerique-mooc.fr/courses/SciencesPo/05004/Trimestre_1_2014/about).
+I finished Aramis ( [PDF](http://dss-edit.com/plu/Latour-B_Aramis-or-Love-of-Technology_1996.pdf)) a couple of weeks ago and this is absolutely essential reading for anybody involved with technology in a wider sense than just technology. It is also quite funny. I look forward to reading more by Bruno Latour, [An Inquiry into the Modes of Existence](http://www.bruno-latour.fr/node/252) is high on my list [^1] and I've registered to join [his MOOC on the Scientific Humanities](https://www.france-universite-numerique-mooc.fr/courses/SciencesPo/05004/Trimestre_1_2014/about).
 
 > for life is a state of uncertainty and risk, of fragile adaptation to a past and present environment that the future cannot judge.
 
@@ -86,3 +86,5 @@ I finished Aramis ( [PDF](http://dss-edit.com/plu/Latour-B_Aramis-or-Love-of-Tec
 > You don't think you have the power? Then don't expect that Aramis will.
 
 > I would have been happy to be something, in the end, anything at all-but first you have to agree among yourselves. I can't be every thing to everybody. The finest project in the world can't give more than it has, and what it has is what you give it.
+
+[^1]: Though unfortunately not available as an ebook.

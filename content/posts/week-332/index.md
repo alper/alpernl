@@ -22,7 +22,7 @@ I spent the beginning of that week prepping for a client engagement which got me
 
 [![Berlin Projects](http://farm8.staticflickr.com/7312/9361774494_f0244cbdc3_z.jpg)](http://www.flickr.com/photos/alper/9361774494/ "Berlin Projects by illustir, on Flickr")[![Tsukemen Ramen](http://farm8.staticflickr.com/7395/9361831118_0c2cc3ebdf_z.jpg)](http://www.flickr.com/photos/alper/9361831118/ "Tsukemen Ramen by illustir, on Flickr")
 
-During the flight I also managed to spill coffee both over my clothes and my laptop and that was all before I even arrived in Munich. That was a rather terrible start of a day that turned out very well. That evening we celebrated our success with a Tsukemen ramen at a local Munich ramen joint ((Who knew that Munich even had ramen places let alone a ramen place that serves an interpretation of tsukemen!?)).
+During the flight I also managed to spill coffee both over my clothes and my laptop and that was all before I even arrived in Munich. That was a rather terrible start of a day that turned out very well. That evening we celebrated our success with a Tsukemen ramen at a local Munich ramen joint [^1].
 
 [![Weißwurst](http://farm4.staticflickr.com/3699/9380870454_6813f1d542_z.jpg)](http://www.flickr.com/photos/alper/9380870454/ "Weißwurst by illustir, on Flickr")
 
@@ -39,3 +39,5 @@ That evening I joined the [Berlin Critical Mass](http://cmberlin.blogsport.de/) 
 [![Learning to sail unit 1](http://farm6.staticflickr.com/5463/9377504810_ab98c76d4c_z.jpg)](http://www.flickr.com/photos/alper/9377504810/ "Learning to sail unit 1 by illustir, on Flickr")
 
 And the next day I got my first sailing lessons —which I had half forgotten I was supposed to have— and after that I finally had some time to catch up on e-mail. Pretty odd how something that was such a critical part of infrastructure in this part of the world is nothing more than a pass time for well off people at the moment.
+
+[^1]: Who knew that Munich even had ramen places let alone a ramen place that serves an interpretation of tsukemen!?

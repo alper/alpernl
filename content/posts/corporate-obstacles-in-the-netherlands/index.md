@@ -10,7 +10,7 @@ aliases:
   - /dingen/2009/01/corporate-obstacles-in-the-netherlands/
 
 ---
-I talked with Max Whitney at [25C3](http://events.ccc.de/congress/2008/) for a bit to learn about how [NYC Resistor](http://www.nycresistor.com/) came to be. The story seems to go something like this ((Maybe a useful recipe if you want to start your own hacker space.)):
+I talked with Max Whitney at [25C3](http://events.ccc.de/congress/2008/) for a bit to learn about how [NYC Resistor](http://www.nycresistor.com/) came to be. The story seems to go something like this [^1]:
 
 They find a loft in New York.
 They find 9 people willing to plunk down some cash ($1000 each).
@@ -36,7 +36,7 @@ But a more important factor probably is that there is a bigger culture in the US
 
 ### Liability
 
-Limited liability companies in the Netherlands are called a B.V. ((Literally: a limited partnership)) and they require a seed capital of €18'000 to start. This money does not have to remain there but it is still a sizable hurdle. In comparison a British Ltd. costs €100 to setup ((€1 for each share.)).
+Limited liability companies in the Netherlands are called a B.V. [^2] and they require a seed capital of €18'000 to start. This money does not have to remain there but it is still a sizable hurdle. In comparison a British Ltd. costs €100 to setup [^3].
 
 Setting up a Ltd and using that to enter into a lease agreement in the Netherlands would be frowned upon because Ltds have a historically bad reputation.
 
@@ -61,3 +61,7 @@ To be able to partially fund a space on workshop and party revenues, it helps if
 ### Concluding
 
 None of the things I mention above are insurmountabel but I think they do in large part explain why Dutch business and venture culture is not as dynamic and booming as that in the US.
+
+[^1]: Maybe a useful recipe if you want to start your own hacker space.
+[^2]: Literally: a limited partnership
+[^3]: €1 for each share.

@@ -16,7 +16,7 @@ This week I biked past Zeeburgereiland on my bike route from the Eastern Docks t
 This is what it looks like through the fence:
 [![Zeeburgereiland](http://farm5.static.flickr.com/4061/4708788320_3e3e46f04f.jpg)](http://www.flickr.com/photos/alper/4708788320/ "Zeeburgereiland by illustir, on Flickr")
 
-I completely forgot the text on the billboard and had a hard time finding the place. [Google Maps doesn't even know](http://maps.google.com/maps?f=q&source=s_q&hl=en&q=zeeburgereiland&sll=52.376202,4.963546&sspn=0.015379,0.029697&ie=UTF8&filter=0&split=1&rq=1&ev=zi&radius=0.75&hq=zeeburgereiland&hnear=&ll=52.372927,4.964533&spn=0.01538,0.029697&t=h&z=15) it yet ((Just like it had no clue about IJburg in the beginning.)). Just look at [Street View](http://maps.google.com/maps?f=q&source=s_q&hl=en&q=zeeburgereiland&sll=52.376202,4.963546&sspn=0.015379,0.029697&ie=UTF8&filter=0&split=1&rq=1&ev=zi&radius=0.75&hq=zeeburgereiland&hnear=&ll=52.375311,4.963074&spn=0,0.046048&t=h&z=15&layer=c&cbll=52.37544,4.963172&panoid=GGJXflOXTxjuGWaerAcMOQ&cbp=12,99.76,,0,5).
+I completely forgot the text on the billboard and had a hard time finding the place. [Google Maps doesn't even know](http://maps.google.com/maps?f=q&source=s_q&hl=en&q=zeeburgereiland&sll=52.376202,4.963546&sspn=0.015379,0.029697&ie=UTF8&filter=0&split=1&rq=1&ev=zi&radius=0.75&hq=zeeburgereiland&hnear=&ll=52.372927,4.964533&spn=0.01538,0.029697&t=h&z=15) it yet [^1]. Just look at [Street View](http://maps.google.com/maps?f=q&source=s_q&hl=en&q=zeeburgereiland&sll=52.376202,4.963546&sspn=0.015379,0.029697&ie=UTF8&filter=0&split=1&rq=1&ev=zi&radius=0.75&hq=zeeburgereiland&hnear=&ll=52.375311,4.963074&spn=0,0.046048&t=h&z=15&layer=c&cbll=52.37544,4.963172&panoid=GGJXflOXTxjuGWaerAcMOQ&cbp=12,99.76,,0,5).
 
 My trusty neighborhood council member [Jan-Bert Vroege](http://twitter.com/jan_bert) is usually available to answer these kind of questions for me and he pointed me towards [the right site](http://www.zeeburgereiland.nl/).
 
@@ -35,3 +35,5 @@ Some nice parts too:
 [![IJburg](http://farm5.static.flickr.com/4035/4705744415_1886690cea.jpg)](http://www.flickr.com/photos/alper/4705744415/ "IJburg by illustir, on Flickr")
 
 Concerning that part of urban development we can learn a lot of the prefab cities being erected in the East (take Dan Hill's [account of New Songdo](http://www.cityofsound.com/blog/2010/01/notes-on-new-songdo-city.html)). I know it takes time to fill up residential units and some amount of organic growth/frontier mentality is good, but is it that hard to have basic amenities in place when the first people arrive there?
+
+[^1]: Just like it had no clue about IJburg in the beginning.

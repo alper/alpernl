@@ -19,7 +19,7 @@ picture by [Wynand van Poortvliet](http://www.flickr.com/people/wynandvanpoortvl
 
 Zeker nu kunnen we het ons niet permitteren om dan €3.1 miljard weg te gooien. Amsterdam heeft dringend beter openbaar vervoer nodig om de verschillende stadsdelen en vooral het Amsterdam bí­nnen de ring met het Amsterdam búiten de ring te verbinden.
 
-Tegen zijn is zó makkelijk. De partijen die tegen zijn, zijn de SP ((De traditionele tegenpartij.)) en enkele marginale politieke bewegingen. ‘Politici’ met een gebrek aan basale economische kennis (en een dosis gezond verstand) ((De lijst van Red Amsterdam wordt ook bevolkt door kroegbazen en halve bekende Nederlanders.)). Voor hen hier een klein lesje.
+Tegen zijn is zó makkelijk. De partijen die tegen zijn, zijn de SP [^1] en enkele marginale politieke bewegingen. ‘Politici’ met een gebrek aan basale economische kennis (en een dosis gezond verstand) [^2]. Voor hen hier een klein lesje.
 
 ### Sunk Cost
 
@@ -32,10 +32,15 @@ Er is dus geen kant en klaar kort antwoord op dit probleem. De afweging of je do
 Wat zijn dus de totale kosten van stoppen?
 
 1. **Afwikkelingskosten:** afbetalen van bouwbedrijven, tunnels dichtstoppen, stations omkatten. Geen triviaal bedrag en over het precieze bedrag (‘de besparing’) is nog [enige onenigheid](http://www.telegraaf.nl/binnenland/6134038/____Stoppen_NZ-lijn_miljardenbesparing___.html?p=1,1). Dit zijn (ten onrechte) de enige kosten waar de discussie over gaat.
-1. [**Opportunity cost:**](http://en.wikipedia.org/wiki/Opportunity_cost) Deze kosten zijn gelijk aan de waarde van het beste alternatief nl. **de lijn afbouwen**. De kosten van het niet hebben van een goede Noord-Zuidverbinding door de stad in tegenstelling tot wel. De kosten van het hebben van een suboptimaal openbaar vervoerssysteem en stedelijke ontwikkeling ((De lijn past in de visie dat het gewicht van mensenverplaatsing door en rond Amsterdam zich kan concentreren op station Zuid in plaats van dat al die mensen door de stad heen helemaal naar Centraal moeten en van daaruit uitwaaieren. Komt ook nog bij dat als de woonbestemming van Zuid in de komende twintig jaar van de grond komt, die mensen goed transport naar de stad nodig hebben (niet weer de fout van IJburg maken).)) in tegenstelling tot wel. De kosten van al die mensen die de komende 50 jaar tijd verliezen en dingen niet kunnen doen omdat deze lijn er dan niet ligt in tegenstelling tot wel.
+1. [**Opportunity cost:**](http://en.wikipedia.org/wiki/Opportunity_cost) Deze kosten zijn gelijk aan de waarde van het beste alternatief nl. **de lijn afbouwen**. De kosten van het niet hebben van een goede Noord-Zuidverbinding door de stad in tegenstelling tot wel. De kosten van het hebben van een suboptimaal openbaar vervoerssysteem en stedelijke ontwikkeling [^3] in tegenstelling tot wel. De kosten van al die mensen die de komende 50 jaar tijd verliezen en dingen niet kunnen doen omdat deze lijn er dan niet ligt in tegenstelling tot wel.
    Daar komt nog de vertraging bij van het herplannen van de hele stad en het in gang zetten van de alternatieven. Voordat dat allemaal goed en wel op de rails staat zijn we 5-10 jaar verder en dan had je de N/Z-lijn net zo goed af kunnen bouwen.
 1. **Morele kosten:** Zoals ik al zei: je maakt dat af waar je aan begint. Ik denk dat stoppen een grote weerslag heeft op het moreel van de stad. Het zal als een schaduw over elk volgend project hangen zó politici ooit nog aan dit soort grote projecten durven te beginnen.
 
-De discussie moet zich richten op hoe groot je alle kosten schat. Ik schat de **Afwikkelingskosten** als verwaarloosbaar, de **Opportunity cost** als gigantisch ((Orde van grootte: 100 miljard.)) en de **Morele kosten** als onverteerbaar. In de discussie gevoerd door de tegenstanders richt men zich op het beetje ongemak wat we nu in de stad hebben en de kosten die er de komende tien jaar nog te verwachten zijn.
+De discussie moet zich richten op hoe groot je alle kosten schat. Ik schat de **Afwikkelingskosten** als verwaarloosbaar, de **Opportunity cost** als gigantisch [^4] en de **Morele kosten** als onverteerbaar. In de discussie gevoerd door de tegenstanders richt men zich op het beetje ongemak wat we nu in de stad hebben en de kosten die er de komende tien jaar nog te verwachten zijn.
 
 Een partij oprichten en wat schreeuwen voor de verkiezingen kunnen heel veel mensen hebben we gezien. Vijftig jaar ver kijken, een visie formuleren en impopulaire beslissingen nemen is veel minder mensen gegeven.
+
+[^1]: De traditionele tegenpartij.
+[^2]: De lijst van Red Amsterdam wordt ook bevolkt door kroegbazen en halve bekende Nederlanders.
+[^3]: De lijn past in de visie dat het gewicht van mensenverplaatsing door en rond Amsterdam zich kan concentreren op station Zuid in plaats van dat al die mensen door de stad heen helemaal naar Centraal moeten en van daaruit uitwaaieren. Komt ook nog bij dat als de woonbestemming van Zuid in de komende twintig jaar van de grond komt, die mensen goed transport naar de stad nodig hebben (niet weer de fout van IJburg maken).
+[^4]: Orde van grootte: 100 miljard.

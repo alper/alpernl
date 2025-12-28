@@ -17,7 +17,7 @@ Stukjes schrijven zonder hyperlinks erin is gek, maar dat komt erbij kijken als 
 
 In dat stuk betoog ik dat de gegevens van het openbaar vervoer vrij beschikbaar moeten zijn voor reizigers. Dit is onderdeel van een langer [thema op dit blog](/dingen/index.php?s=openbaar+vervoer) en van een recente ontwikkeling voor [open data in de breedste zin](/dingen/index.php?s=open+data) van het woord.
 
-Hier de integrale tekst zoals ik hem heb opgestuurd (en die waarschijnlijk met kleine wijzigingen geplaatst is ((Ik zit in het buitenland, dus ik heb het stuk zelf nog niet in de krant gelezen.))) en nu mét links:
+Hier de integrale tekst zoals ik hem heb opgestuurd (en die waarschijnlijk met kleine wijzigingen geplaatst is [^1]) en nu mét links:
 
 > Ik wil een mobiele telefoon die me precies vertelt wanneer ik weg moet voor mijn volgende afspraak, waar ik moet instappen, waar ik eruit moet en hoe ik daarna precies moet lopen of fietsen. In Japan bestaan dat soort systemen al terwijl we hier vaak niet eens weten wanneer de volgende tram komt. We kunnen dat hier ook maken als we bij de gegevens mochten. Die zitten alleen vast in één van de informatie-goudmijnen waar [Alexander Klöpping het hier over had op 27 juli](http://alexandernl.tumblr.com/post/866309300/opiniestuk-in-nrc-next-we-zitten-op-een-goudmijn-aan).
 >
@@ -46,3 +46,5 @@ Gepubliceerd worden in de krant is natuurlijk fijn, maar ik hoop vooral dat dit 
 Bedankt in ieder geval [Alexander Klöpping](http://twitter.com/alexandernl) voor de aanleiding en Reinier Kist en Antoinette Brummelink voor de feedback.
 
 Hier ook [een foto van het stuk](http://twitpic.com/31bdzj/full).
+
+[^1]: Ik zit in het buitenland, dus ik heb het stuk zelf nog niet in de krant gelezen.

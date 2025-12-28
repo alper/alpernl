@@ -35,13 +35,13 @@ Having done that, the resulting OSM file needed to be drawn to the screen. I mad
 
 One problem is that Shapefiles are only understood properly by GIS people and there are hardly any libraries for web developers to work with the data format. Sunlight Labs recently released their [ClearMaps library](http://sunlightlabs.com/blog/2010/clearmaps-mapping-framework/) to aid developers wanting to work with Shapefiles, which is a big step in the right direction.
 
-Another problem is that the file on the CBS site is from 2006 and that several municipalities have merged/split, so that adds some problems for correlating it to data. And come to think of it, this municipal rejiggering makes any historical data view of the Netherlands a daunting task. Somebody on Wikipedia has generated [a similar map of the Netherlands](http://nl.wikipedia.org/wiki/Bestand:2010-Nederlandse-Gemeenten-1790.png) for 2010 supposedly using data from the CBS, but I can't find that dataset on the site ((Nor can I find anything else there, but that is a different story.)).
+Another problem is that the file on the CBS site is from 2006 and that several municipalities have merged/split, so that adds some problems for correlating it to data. And come to think of it, this municipal rejiggering makes any historical data view of the Netherlands a daunting task. Somebody on Wikipedia has generated [a similar map of the Netherlands](http://nl.wikipedia.org/wiki/Bestand:2010-Nederlandse-Gemeenten-1790.png) for 2010 supposedly using data from the CBS, but I can't find that dataset on the site [^1].
 
 Oddly enough there's also nothing readily available to draw Shapefiles in Processing. Perusing the forum yields [this post](http://processing.org/discourse/yabb2/YaBB.pl?board=LibraryProblems;action=display;num=1189739304) which points to [Geotools](http://geotools.org/) which is a massive set of Java libraries consisting mostly of [a huge dependency nightmare](http://geotools.org/quickstart.html#quickstart) mitigated somewhat by Eclipse and Maven.
 
 ### Geographical data
 
-Viewing the Shapefile in qGIS shows that it does indeed contain the municipal boundaries with correct labeling. Having verified that, we need to extract the geographical data from the file into a format for easier reuse. Linking all the Geotools ((Another alternative would have been a Python binding to [GDAL/OGR](http://gdal.org/ogr/) which looked even less tractable.)) dependencies to my Processing sketch does not seem like an attractive proposition. Using the Geotools quickstart to setup Eclipse to pull in the libraries and run the Java code, did work pretty conveniently.
+Viewing the Shapefile in qGIS shows that it does indeed contain the municipal boundaries with correct labeling. Having verified that, we need to extract the geographical data from the file into a format for easier reuse. Linking all the Geotools [^2] dependencies to my Processing sketch does not seem like an attractive proposition. Using the Geotools quickstart to setup Eclipse to pull in the libraries and run the Java code, did work pretty conveniently.
 
 Poking around the Shapefile with Java and using the very poor javadocs (the [User Guide's](http://docs.codehaus.org/display/GEOTDOC/Home) usefulness turned out to be extremely limited) and sources posted online that are available of Geotools yielded something worthwhile after a full day's work. I also found lots of forum posts of very confused people with few replies and little insight to be gleaned from them. This really seems to be an underdeveloped field.
 
@@ -103,7 +103,7 @@ Finally the following piece of code yielded for me the two pieces of data I was 
 
 The funny thing is every feature has a property “the\_geom”which contains the geometry data and its `toString()` method yields the geometry data as [Well-known text](http://en.wikipedia.org/wiki/Well-known_text). That turned out to be all we needed.
 
-It turns out the coordinates in the Shapefile are in [Rijksdriehoekscoördinaten](http://nl.wikipedia.org/wiki/Rijksdriehoekscoördinaten) ((Seemingly you can put anything you want in a Shapefile also given the vast diversity in geodetic datums which are in use around the globe.)) which are cartesian coordinates based on a custom projection and associated rectangular grid for the Netherlands ((This is something I couldn't figure out anywhere, what the agreement was —if any— for the contents of the coordinates in the Shapefile. My question: “How do I get GPS coordinates from a Shapefile?”did not yield any answers.)). This is easily verified using [this web form to convert a pair](http://www.rdnap.nl/cgi-bin/rdetrs.pl) back to GPS and looking that up in Google Maps ((I have the formulas in a dense PDF, but some sample Java code to do the conversion would be very nice.)).
+It turns out the coordinates in the Shapefile are in [Rijksdriehoekscoördinaten](http://nl.wikipedia.org/wiki/Rijksdriehoekscoördinaten) [^3] which are cartesian coordinates based on a custom projection and associated rectangular grid for the Netherlands [^4]. This is easily verified using [this web form to convert a pair](http://www.rdnap.nl/cgi-bin/rdetrs.pl) back to GPS and looking that up in Google Maps [^5].
 
 The above code produces lines such as:
 `Leek; MULTIPOLYGON ( ( (224599.999985 582499.999985, 224999.999985 581299.999985, […] 223366.621185 581866.621185, 223499.999985 581999.999985, 224440.97068499998 582470.485385, 224499.999985 582499.999985, 224599.999985 582499.999985)))`
@@ -126,3 +126,9 @@ I'm going to release a generic Processing sketch where you only need to add a da
 [![Processing the Netherlands](http://farm3.static.flickr.com/2707/4417261722_6b6f994d1e_m.jpg)](http://www.flickr.com/photos/alper/4417261722/ "Processing the Netherlands by illustir, on Flickr")
 
 This opens up a ton of possibilities for interactive visualization and sharing. More to follow.
+
+[^1]: Nor can I find anything else there, but that is a different story.
+[^2]: Another alternative would have been a Python binding to [GDAL/OGR](http://gdal.org/ogr/) which looked even less tractable.
+[^3]: Seemingly you can put anything you want in a Shapefile also given the vast diversity in geodetic datums which are in use around the globe.
+[^4]: This is something I couldn't figure out anywhere, what the agreement was —if any— for the contents of the coordinates in the Shapefile. My question: “How do I get GPS coordinates from a Shapefile?”did not yield any answers.
+[^5]: I have the formulas in a dense PDF, but some sample Java code to do the conversion would be very nice.

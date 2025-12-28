@@ -23,13 +23,16 @@ Huizinga kondigt de Nationaal Datawarehouse Openbaar Vervoer (NDOV) aan die in 2
 
 Het is een wat raar verhaal waarom alle lokale overheden de vervoersinformatie eerst hebben ondergebracht bij 9292 die zo'n database heeft met alle vervoersinformatie en ze nu opnieuw zo'n database gaan aanleggen met dezelfde gegevens erin. Dubbel werk lijkt me. En wie zijn dan die ‘marktpartijen’ die planners ‘moeten’ maken?
 
-Het gaat sowieso lang duren voor die NDOV er is en ik ben bang dat het proces van certificering te ingewikkeld in te kostbaar zal zijn waardoor de definitie van marktpartijen verengt tot ‘grote bedrijven die al werkzaam zijn in de sector’ ((Idem met bijvoorbeeld iets als DigiD. Het schijnt dat iedereen daar tegenaan kan integreren maar ik heb nog niemand gezien die bereid is geweest om door alle hoepels heen te springen.)) en de innovatie een wisse dood sterft.
+Het gaat sowieso lang duren voor die NDOV er is en ik ben bang dat het proces van certificering te ingewikkeld in te kostbaar zal zijn waardoor de definitie van marktpartijen verengt tot ‘grote bedrijven die al werkzaam zijn in de sector’ [^1] en de innovatie een wisse dood sterft.
 
 Maar het kan ook goed aflopen. Zie het verhaal van Gert Staal directeur 9292ov:
 
 Staal meldt dat ze ‘openstaan voor vernieuwingen ook van buitenaf’. Vincent vraagt of derde partijen met een API kunnen integreren met 9292 waarop Staal bevestigt dat er meer zeker meer openheid komt maar:
 
-1. Dit kan niet 100% omdat lokale vervoerders in de weg zitten ((Dit komt vaker terug en ik ben wel benieuwd naar het fijne ervan. Het proces van concessies is in ieder geval erg ingewikkeld.)).
+1. Dit kan niet 100% omdat lokale vervoerders in de weg zitten [^2].
 1. Dit gaat gebeuren in samenwerking met het NDOV wat een initiatief is van Verkeer en Waterstaat samen met 9292 en waar alle actuele en statische informatie in het openbaar vervoer in opvraagbaar moet zijn. Staal: “Onder bepaalde voorwaarden kan iedereen daarbij. Die voorwaarden zullen voor iedereen gelijk zijn.”
 
 Dat klinkt dus goed zolang die voorwaarden enigzins open zijn. Nu nog een roadmap en het lijkt erop alsof we aan de slag kunnen.
+
+[^1]: Idem met bijvoorbeeld iets als DigiD. Het schijnt dat iedereen daar tegenaan kan integreren maar ik heb nog niemand gezien die bereid is geweest om door alle hoepels heen te springen.
+[^2]: Dit komt vaker terug en ik ben wel benieuwd naar het fijne ervan. Het proces van concessies is in ieder geval erg ingewikkeld.

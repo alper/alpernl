@@ -35,8 +35,10 @@ In the spirit of international relations, I will translate to English the hook o
 > You come down to Karaköy
 >
 > You'll lose your senses
-> Your woman's gone ((The German translation says: “Deine Freundin hat dich verlassen”.))
+> Your woman's gone [^1]
 > You come down to Karaköy
 > Angela Merkel
 
 I can't make much more of it other than that the mythologization of Angela Merkel continues. I'm curious what the German foreign office thinks about that.
+
+[^1]: The German translation says: “Deine Freundin hat dich verlassen”.

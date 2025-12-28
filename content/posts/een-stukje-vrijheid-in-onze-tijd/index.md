@@ -37,7 +37,7 @@ Verder wordt gepleit voor de introductie van een privacy effect rapportage omdat
 
 > Zoals hierboven is opgemerkt, dient iedere ontwikkeling die inbreuk maakt op de privacy niet op zich beschouwd te worden, maar in plaats daarvan beschouwd te worden als onderdeel van een complex systeem van persoonsgegevens, technologieën en bevoegdheden dat ook in de toekomst nog zal bestaan en zich verder zal ontwikkelen.
 
-Informatiestructuren bouwen op elkaar door en zijn simpel aan elkaar te koppelen ((Niet zo simpel gezien de grote hoeveelheid gefaalde systems integration projecten, maar nog steeds makkelijker dan papier.)). Het privacy effect van nieuwe maatregelen kan dan ook erg ingrijpend zijn. Systeemdenken is dus belangrijker dan ooit (maar dat wisten we al).
+Informatiestructuren bouwen op elkaar door en zijn simpel aan elkaar te koppelen [^1]. Het privacy effect van nieuwe maatregelen kan dan ook erg ingrijpend zijn. Systeemdenken is dus belangrijker dan ooit (maar dat wisten we al).
 
 De aanbeveling van een “sunset clause”, eigenlijk een houdbaarheidsdatum voor maatregelen, is denk ik essentieel zodat we niet vastzitten op een glijdende schaal naar beneden, maar dat het af en toe ook mogelijk is om dingen terug te draaien zonder dat daar complete rampen voor nodig zijn.
 
@@ -54,3 +54,5 @@ Maar kwalijkst is inderdaad de toon die het publieke debat over privacy in Neder
 Ik hoop dat [BoF](http://www.bof.nl) ook het voortouw neemt om de negatieve toon waarop het debat nu gevoerd wordt om te buigen. Niet iedereen die iets wil verbergen is een misdadiger (of een piraat). Het heeft ook niet geholpen dat de organisatie de laatste jaren stil lag en dus geen woordvoerder had terwijl er altijd wel een politiewoordvoerder of commissaris te vinden was om de andere kant van het verhaal te belichten.
 
 Goed dus dat ze weer bezig zijn. De enige vraag die openstaat is of de mensen in Nederland niet te bang geslagen zijn door populistische media en politici om te kunnen luisteren naar rationele argumenten.
+
+[^1]: Niet zo simpel gezien de grote hoeveelheid gefaalde systems integration projecten, maar nog steeds makkelijker dan papier.

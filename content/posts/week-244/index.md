@@ -34,7 +34,7 @@ Mediamatic is currently doing studies in fungus of which this wall is an example
 
 Thursdays was a bit more of a slow day after the 12 hour ordeal of the day before, starting off with doing e-mails at [the Village](http://thevillagecoffee.nl/), my favorite hangout in the Netherlands.
 
-I asked [Vlambeer](http://vlambeer.com/) about any indie game developers in Berlin and they came up pretty short on that count. Anytime I inquire about the Berlin game scene I get [Wooga](http://www.wooga.com/) ((Who are probably ace but hors concours for the kind of stuff we are doing.)) and if people really know what they are talking about they mention the great people at [Spaces of Play](http://www.spacesofplay.com/). In any case, the Berlin scene seems thin and ripe for disruption.
+I asked [Vlambeer](http://vlambeer.com/) about any indie game developers in Berlin and they came up pretty short on that count. Anytime I inquire about the Berlin game scene I get [Wooga](http://www.wooga.com/) [^1] and if people really know what they are talking about they mention the great people at [Spaces of Play](http://www.spacesofplay.com/). In any case, the Berlin scene seems thin and ripe for disruption.
 
 After that it was off to Lieke's viva. A smashing display of science if ever there was one:
 [![Now officially a Philosophiae Doctor](http://farm7.staticflickr.com/6240/6353677621_0f868ca7e4.jpg)](http://www.flickr.com/photos/alper/6353677621/ "Now officially a Philosophiae Doctor by illustir, on Flickr")[![Super Mario Experience (karig!)](http://farm7.staticflickr.com/6114/6358021959_7cff45700d.jpg)](http://www.flickr.com/photos/alper/6358021959/ "Super Mario Experience (karig!) by illustir, on Flickr")
@@ -46,3 +46,5 @@ Friday we did some business development for [Hubbub](http://hbbb.nl) with [Kars 
 And oh yeah, on Sunday I moved my office from the [Volkskrantgebouw](http://www.volkskrantgebouw.nl/) to the [Open Cooperatie](http://www.opencooperatie.nl/) which has already been my main base of operations for a while now, so I thought I'd make it official.
 
 [![Minimal Viable Office](http://farm7.staticflickr.com/6103/6369921151_742ab45cd8.jpg)](http://www.flickr.com/photos/alper/6369921151/ "Minimal Viable Office by illustir, on Flickr")
+
+[^1]: Who are probably ace but hors concours for the kind of stuff we are doing.

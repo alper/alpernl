@@ -11,6 +11,8 @@ aliases:
 ---
 Maar dan, ik weet niet hoe ik me zou voelen als ik als gedoodverfde kandidaat van het establishment op alle vlakken de loef af werd gestoken door een _uppity negro_.
 
-Bekijk de video ((Wha! Een embed link van het NOS Journaal!)), haar tieten zitten danig in de knoop:
+Bekijk de video [^1], haar tieten zitten danig in de knoop:
 
 Kans op succes niet heel groot. Zeker nu ook de voorspellingen de ronde doen dat Obama een veel grotere kans maakt om te winnen van McCain dan Clinton zou doen.
+
+[^1]: Wha! Een embed link van het NOS Journaal!

@@ -27,7 +27,7 @@ Waiting for the Barbarians — J.M. Coetzee\*
 The Crying of Lot 49 — Thomas Pynchon
 Cat’s Cradle — Kurt Vonnegut\*
 Stranger in a Strange Land — Robert Heinlein
-Catch-22 — Joseph Heller ((Ik zet hem er alvast op omdat ik hem in een week of twee ga lezen. Ligt bovenop mijn stapeltje.))
+Catch-22 — Joseph Heller [^1]
 The Lord of the Rings — J.R.R. Tolkien
 Lolita — Vladimir Nabokov
 Lord of the Flies — William Golding
@@ -38,16 +38,22 @@ Animal Farm — George Orwell
 The Hobbit — J.R.R. Tolkien
 At the Mountains of Madness — H.P. Lovecraft
 Brave New World — Aldous Huxley\*
-The Trial — Franz Kafka ((In het Duits.))
+The Trial — Franz Kafka [^2]
 The Adventures of Huckleberry Finn — Mark Twain
 Through the Looking Glass, and What Alice Found There — Lewis Carroll
 Alice’s Adventures in Wonderland — Lewis Carroll
-Max Havelaar — Multatuli ((Ik heb medelijden met de niet-Nederlanders die dit gaan lezen.))
-Metamorphoses — Ovid ((Wat verhalen gelezen in het Latijn.))
+Max Havelaar — Multatuli [^3]
+Metamorphoses — Ovid [^4]
 
 Favorieten heb ik ook met een asterisk gemarkeerd.
 
 Boeken die ik ben begonnen maar niet heb afgemaakt:
-The Hitchhiker’s Guide to the Galaxy — Douglas Adams ((Niet grappig.))
+The Hitchhiker’s Guide to the Galaxy — Douglas Adams [^5]
 Ulysses — James Joyce
 Tristram Shandy — Laurence Sterne
+
+[^1]: Ik zet hem er alvast op omdat ik hem in een week of twee ga lezen. Ligt bovenop mijn stapeltje.
+[^2]: In het Duits.
+[^3]: Ik heb medelijden met de niet-Nederlanders die dit gaan lezen.
+[^4]: Wat verhalen gelezen in het Latijn.
+[^5]: Niet grappig.

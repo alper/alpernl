@@ -14,7 +14,7 @@ aliases:
 
 [![](http://farm5.static.flickr.com/4105/4967968697_d077c4acc3.jpg)](http://www.flickr.com/photos/alper/4967968697/ "Untitled by illustir, on Flickr")
 
-These are the rough notes from the presentation ((They will be revised a bit further and I'll add my comments tomorrow.)):
+These are the rough notes from the presentation [^1]:
 
 > Going to explain his fascinations by way of his work.
 >
@@ -50,7 +50,7 @@ These are the rough notes from the presentation ((They will be revised a bit fur
 >
 > Stubnitz: the boat of the hundred subcultures where different people meet each other (and that has been closed down by the city)
 >
-> Pluk de Nacht: empty plot of land, 20000 people in 10 days ((Some old dude was really negative about Pluk de Nacht, but I think everybody I know that went was totally positive about the festival.))
+> Pluk de Nacht: empty plot of land, 20000 people in 10 days [^2]
 >
 > Amsterdam should notice and cherish it's talent instead of running it out of town.
 >
@@ -116,3 +116,6 @@ These are the rough notes from the presentation ((They will be revised a bit fur
 > In the Netherlands people start inventarizing what could go wrong and nobody wants to take responsibility.
 
  **Update:** Streamlined a bit more and added links.
+
+[^1]: They will be revised a bit further and I'll add my comments tomorrow.
+[^2]: Some old dude was really negative about Pluk de Nacht, but I think everybody I know that went was totally positive about the festival.

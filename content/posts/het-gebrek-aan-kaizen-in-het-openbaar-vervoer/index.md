@@ -12,7 +12,7 @@ aliases:
   - /dingen/2009/12/het-gebrek-aan-kaizen-in-het-openbaar-vervoer/
 
 ---
-Ik schreef hier al eerder dat [de ov-chipkaart kut](/dingen/2009/12/ov-chipkaart-ellende/) ((Excusez le mot, maar er is geen ander wat de lading zo goed dekt.)) is. Het is nog steeds kut.
+Ik schreef hier al eerder dat [de ov-chipkaart kut](/dingen/2009/12/ov-chipkaart-ellende/) [^1] is. Het is nog steeds kut.
 
 ### Trage poortjes
 
@@ -34,14 +34,20 @@ Een automatisch betalingssysteem moet minder werk opleveren voor eindgebruikers,
 
 Nu wil ik die €4 terugclaimen bij de GVB (meer uit principe dan wat dan ook). Nu is het al bizar dat dat bij de GVB moet en niet bij de centrale betalingsafhandelaar: de ov-chipkaart.
 
-Bij het [GVB](http://www.gvb.nl) moet je [een PDF-formulier downloaden](http://www.gvb.nl/reizigers/ovchipkaart/Pages/Formulieren.aspx), uitprinten en terugsturen. Als je ze opbelt, willen ze je wel een formulier met antwoordenvelop toesturen ((Ik doe niet meer aan printen of aan postzegels.)).
+Bij het [GVB](http://www.gvb.nl) moet je [een PDF-formulier downloaden](http://www.gvb.nl/reizigers/ovchipkaart/Pages/Formulieren.aspx), uitprinten en terugsturen. Als je ze opbelt, willen ze je wel een formulier met antwoordenvelop toesturen [^2].
 
-De transactie waar het om gaat kan ik op ov-chipkaart.nl nog steeds niet zien. Daarvoor kreeg ik van GVB het nummer van [TLS](http://www.translink.nl/) ((Nog een TLA.)) 0900-0980 ((Dit nummer kost ook nog een schandelijke 10 cent/minuut en ze verbreken direct de verbinding omdat het ‘erg druk is’.)) zodat ik met hen kon bellen over de website. Die website is zó slecht, dat het goed zou zijn als iedereen dat nummer belde over de website. Misschien dat ze er dan iets aan doen.
+De transactie waar het om gaat kan ik op ov-chipkaart.nl nog steeds niet zien. Daarvoor kreeg ik van GVB het nummer van [TLS](http://www.translink.nl/) [^3] 0900-0980 [^4] zodat ik met hen kon bellen over de website. Die website is zó slecht, dat het goed zou zijn als iedereen dat nummer belde over de website. Misschien dat ze er dan iets aan doen.
 
 ### Kaizen
 
 Het is niet erg dat dit allemaal niet perfect is gelukt in de eerste poging. Het is een complex proces en de eerste versie is redelijk goed gelukt. Het systeem heeft geen grootschalige outages gehad, en saldo opladen en reizen met de ov-chipkaart werkt.
 
-Het is **wel** erg dat de ontwikkeling nu compleet gestagneerd is en er niet geluisterd wordt naar gebruikerswensen. Er was een forum waarop mensen hun ideeën, wensen en bezwaren kwijt konden, maar de terugkoppeling daar was bijzonder slecht en het is nu ook opgeheven ((Wij hebben ook een aanbod gedaan om een workshop te organiseren met techneuten en ontwerpers om de huidige stand van zaken te verbeteren en innovatieve diensten bovenop de ov-chipkaart te bouwen. Nooit meer iets van gehoord.)).
+Het is **wel** erg dat de ontwikkeling nu compleet gestagneerd is en er niet geluisterd wordt naar gebruikerswensen. Er was een forum waarop mensen hun ideeën, wensen en bezwaren kwijt konden, maar de terugkoppeling daar was bijzonder slecht en het is nu ook opgeheven [^5].
 
 Het neerzetten van een ov-chipkaart is het begin, daarna begint een continu proces van [kaizen](http://en.wikipedia.org/wiki/Kaizen), van het verbeteren van de dienstverlening, en het beter aanpassen aan de gebruikerswensen. Dat is de enige manier om een gebruiksvriendelijk systeem te krijgen en te houden en dat is toch wat we willen?
+
+[^1]: Excusez le mot, maar er is geen ander wat de lading zo goed dekt.
+[^2]: Ik doe niet meer aan printen of aan postzegels.
+[^3]: Nog een TLA.
+[^4]: Dit nummer kost ook nog een schandelijke 10 cent/minuut en ze verbreken direct de verbinding omdat het ‘erg druk is’.
+[^5]: Wij hebben ook een aanbod gedaan om een workshop te organiseren met techneuten en ontwerpers om de huidige stand van zaken te verbeteren en innovatieve diensten bovenop de ov-chipkaart te bouwen. Nooit meer iets van gehoord.

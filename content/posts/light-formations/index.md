@@ -11,4 +11,6 @@ aliases:
   - /dingen/2008/12/light-formations/
 
 ---
-Occasionally some very beautiful things here in Berlin between the grey and cold (( _Beirut — In the Mausoleum:_\[…\] And Berlin // is so ugly in the morning light)):
+Occasionally some very beautiful things here in Berlin between the grey and cold [^1]:
+
+[^1]:  _Beirut — In the Mausoleum:_\[…\] And Berlin // is so ugly in the morning light

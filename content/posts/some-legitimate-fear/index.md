@@ -11,6 +11,8 @@ aliases:
 ---
 This [video on BoingBoing](http://www.boingboing.net/2008/08/19/visitor-to-london-vi.html) is shocking in its absurdity but hardly unexpected given the current climate. If you pay any attention around you in metropolitan areas in the UK, it is rife with ostentatious surveillance.
 
-What I'm most afraid of is that if we get a significant bombing in the Netherlands, that will be the only excuse necessary to implement these random searches and violations of our civil liberties on Dutch soil. And the populace will swallow it wholesale supported by our [MSM](http://www.telegraaf.nl/) ((Formerly a fascist collaborating publication, currently the most popular and most populist newspaper in the Netherlands.)).
+What I'm most afraid of is that if we get a significant bombing in the Netherlands, that will be the only excuse necessary to implement these random searches and violations of our civil liberties on Dutch soil. And the populace will swallow it wholesale supported by our [MSM](http://www.telegraaf.nl/) [^1].
 
 Terrorism is nothing to be afraid of compared to the complacent fascism hidden in the average person.
+
+[^1]: Formerly a fascist collaborating publication, currently the most popular and most populist newspaper in the Netherlands.

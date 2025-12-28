@@ -18,9 +18,11 @@ On Tuesday I had lunch at [Gidsy](http://www.gidsy.com/). Any visit to the Maker
 
 I did some final work on Beestenbende and made arrangements to visit Helsinki next week to present on an event organized by Virtueel Platform for its [World Design Capital](http://wdchelsinki2012.fi/en/pavilion) program.
 
-At last we also are doing internal work at Open State / Hack de Overheid both on the design front ((Procuring a new identity of course.)) and on strategy to prepare us for a next phase that will entail considerable growth as well as maturation for the foundation.
+At last we also are doing internal work at Open State / Hack de Overheid both on the design front [^1] and on strategy to prepare us for a next phase that will entail considerable growth as well as maturation for the foundation.
 
 And not something that we did, but still nice to hear that KiesBeter.nl [has started publishing data](https://twitter.com/ton_zylstra/status/220898350000644096). Ton Zijlstra and I gave a workshop there last year to show them the potential of open data and after the required time to process these things internally, it has happened.
 
 And that Friday it was off to Wartin with a whole bunch of awesome Berlin people on a weekend organized by [the kind people of Third Wave](http://thirdwaveberlin.com/2012/07/week-92/). We had our fill of good conversations, nature and late night werewolf.
 [![Late night werewolf sessions #BerlinFTW](http://farm8.staticflickr.com/7256/7529599904_56661ae5b9.jpg)](http://www.flickr.com/photos/alper/7529599904/ "Late night werewolf sessions #BerlinFTW by illustir, on Flickr")
+
+[^1]: Procuring a new identity of course.

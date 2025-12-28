@@ -10,7 +10,7 @@ aliases:
   - /dingen/2007/06/plannen-van-de-zomer/
 
 ---
-Ik moest afgelopen week studeren voor mijn laatste tentamen deze woensdag ((in4012 Real Time AI and Speech Recognition wat ik gruwelijk hard heb ingekopt.)) dus toen ging ik als vanzelf andere dingen doen.
+Ik moest afgelopen week studeren voor mijn laatste tentamen deze woensdag [^1] dus toen ging ik als vanzelf andere dingen doen.
 
 Plannen maken voor van de zomer is bijvoorbeeld een leuk tijdverdrijf, bijvoorbeeld alle dingen die ik wil doen op een rijtje. zetten en zien waar er gaten vallen om veel te werken of op vakantie te gaan. Toen een beetje gezocht op low-cost airlines om te zien wat er mogelijk is in die gaten.
 
@@ -27,3 +27,5 @@ Ik word bij reisbestemmingen wel beïnvloed of er al mensen heen zijn geweest di
 [![](http://farm1.static.flickr.com/76/223382499_74a2db0bff_m.jpg)](http://www.flickr.com/photos/jungle_boy/223382499/)_Foto door [Jungle Boy](http://www.flickr.com/photos/jungle_boy/)_
 
 Dus zodra blijkt dat ik mijn tentamen echt gehaald heb en ik dus vrij ben van half augusuts tot begin september, maar even wat tickets gaan boeken.
+
+[^1]: in4012 Real Time AI and Speech Recognition wat ik gruwelijk hard heb ingekopt.

@@ -18,4 +18,6 @@ Together with [Robert](http://twitter.com/robertgaal) we persuaded the kind peop
 
 S&W say that being able [to see through a city](http://schulzeandwebb.com/hat/) is a superpower. If so, Four Square is the superpower of being able to smell beer miles away.
 
-Once you're used to a service such as this and the peripheral vision it provides —and does ever so unintrusively ((I have my pings set to off for now.))— walking around a city which doesn't have it feels like having blinders on.
+Once you're used to a service such as this and the peripheral vision it provides —and does ever so unintrusively [^1]— walking around a city which doesn't have it feels like having blinders on.
+
+[^1]: I have my pings set to off for now.

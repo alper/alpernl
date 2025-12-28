@@ -19,8 +19,10 @@ I did have this frustrating twitter conversation with them about what I think is
 
 The problem is that it is difficult to use these tools if you are part of several organizations. The way people work these days I could be part of a dozen or more companies and non-profits. Slack is a bit more flexible and it allows quick switching between logged in organizations. What it doesn't give you is an integrated view of your channels across organizations.
 
-The way we use Slack may be different from most others people. We use it both to coordinate intensively around projects in private rooms, but besides that we have a couple dozen friends from all over the world in a couple of open channels ((Which is also why we may be stuck on [the Lite Plan](http://slack.com/pricing) indefinitely.)) who help us create and maintain our company culture. None of these people are 'part of our organization' per se but they all belong in our organization.
+The way we use Slack may be different from most others people. We use it both to coordinate intensively around projects in private rooms, but besides that we have a couple dozen friends from all over the world in a couple of open channels [^1] who help us create and maintain our company culture. None of these people are 'part of our organization' per se but they all belong in our organization.
 
 The hermetically sealed company wall is the anomaly. There are more free agents than ever who work in flexible configurations. This is a trend that does not show any sign of abating. What the twitter exchange above shows is that Slack either does not understand this or they don't want to understand this. This is fine but also a bit disappointing for a [company that wants to be visionary](https://medium.com/medium-long/4c59524d650d) when it comes to new ways of working together.
 
 I criticize because I love Slack. If there is any company that can help us work together in this new world, it is probably them. But for that to happen we need to start having these conversations.
+
+[^1]: Which is also why we may be stuck on [the Lite Plan](http://slack.com/pricing) indefinitely.

@@ -10,7 +10,7 @@ aliases:
   - /dingen/2007/09/brighton-uk/
 
 ---
-Ik zit hier aan het ontbijt, nog zonder eten maar wel al even koffie gehaald bij de Costa in de straat verderop met heel veel nerds in een kamer en bijna iedereen heeft een laptop open ((Waarvan 70% ofzo een Apple laptop is.)).
+Ik zit hier aan het ontbijt, nog zonder eten maar wel al even koffie gehaald bij de Costa in de straat verderop met heel veel nerds in een kamer en bijna iedereen heeft een laptop open [^1].
 
 [![](http://farm2.static.flickr.com/1042/1355503606_496fd53e77_m.jpg)](http://www.flickr.com/photos/alper/1355503606/ "Photo Sharing")
 
@@ -24,4 +24,7 @@ We hebben hier het weekend [Barcamp Brighton](http://www.flickr.com/search/?q=+b
 
 Buitengewoon comfortabele event waar iedereen zichzelf kan zijn, veel mensen buitengewoon leuke hardware hebben en ook nog eens bijzonder veel kennis en waar we allemaal het gevoel hebben constructief bezig te zijn voor iets goeds.
 
-Dit mogen we vaker doen ((Binnenkort in [Berlijn](http://upcoming.yahoo.com/event/218108/) bijvoorbeeld.)) maar het gaat wel goed voelen om morgen weer thuis te zijn.
+Dit mogen we vaker doen [^2] maar het gaat wel goed voelen om morgen weer thuis te zijn.
+
+[^1]: Waarvan 70% ofzo een Apple laptop is.
+[^2]: Binnenkort in [Berlijn](http://upcoming.yahoo.com/event/218108/) bijvoorbeeld.

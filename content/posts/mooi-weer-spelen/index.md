@@ -10,7 +10,7 @@ aliases:
   - /dingen/2008/06/mooi-weer-spelen/
 
 ---
-“Mooi Weer Spelen”((Nice Weather Games)) is the title of the annual street theater festival that takes over the city center of Delft. This year, I'm living in said center and it's much easier to see the events.
+“Mooi Weer Spelen”[^1] is the title of the annual street theater festival that takes over the city center of Delft. This year, I'm living in said center and it's much easier to see the events.
 
 Unfortunately this year the amount of people attracted by the free street theater shows has exploded and the weather has been great so every show is completely packed and it's nearly impossible to watch it let alone take any decent pictures.
 
@@ -19,3 +19,5 @@ So here are a couple of pictures of the mobile acts:
 
 An insect troupe did set up camp in the courtyard behind my house, and from atop the wall I could get a nice perspective on their preparations:
 [![IMG_0591.jpg](http://farm4.static.flickr.com/3002/2560627711_29f8b225ae.jpg)](http://www.flickr.com/photos/alper/2560627711/ "IMG_0591.jpg by illustir, on Flickr")
+
+[^1]: Nice Weather Games

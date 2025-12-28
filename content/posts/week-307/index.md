@@ -12,7 +12,7 @@ aliases:
   - /dingen/2013/02/week-307/
 
 ---
-Last Monday [Uber](http://uber.com/) had drinks here in Berlin and took a complimentary Uber there to chat with their Berlin team. The experience was extremely comfortable but given big city traffic it wasn't very fast ((I could have done the same distance quicker by public transportation and even a well-trained runner may have beat the S Class Mercedes.)). In cities where the cab market is unreliable and corrupt I can definitely imagine the appeal of Uber. People working on transit apps should take note, this is the way it should work.
+Last Monday [Uber](http://uber.com/) had drinks here in Berlin and took a complimentary Uber there to chat with their Berlin team. The experience was extremely comfortable but given big city traffic it wasn't very fast [^1]. In cities where the cab market is unreliable and corrupt I can definitely imagine the appeal of Uber. People working on transit apps should take note, this is the way it should work.
 
 Wednesday we got a new person to join us over here at Praxis: the elusive [iksi](http://iksi.tv/) who seems to be rather more connected to my Dutch friends than I had foreseen.
 
@@ -23,3 +23,5 @@ The rest of the week [Kars Alfrink](http://leapfrog.nl) was here in Berlin for c
 I did bang out a [Re:publica](http://re-publica.de/) submission, kick started a hackathon (there's [a separate post on that](/dingen/2013/02/swhack-berlin/)) and started [a neighborhood initiative](https://twitter.com/silikotti).
 
 [![Pilgrimage](http://farm9.staticflickr.com/8373/8437009927_414795c192.jpg)](http://www.flickr.com/photos/alper/8437009927/ "Pilgrimage by illustir, on Flickr")
+
+[^1]: I could have done the same distance quicker by public transportation and even a well-trained runner may have beat the S Class Mercedes.

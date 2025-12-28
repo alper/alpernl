@@ -13,7 +13,7 @@ aliases:
 ---
 Zoals ik [al zei](/dingen/2009/02/this-happened-again/) zou ik aanwezig zijn bij de tweede editie van This Happened Utrecht. Het was weer een erg geslaagde avond met interessante presentaties.
 
-Hieronder een verslag van de vragen (en antwoorden) na elke presentatie op [This Happened Utrecht #2](http://thishappened.nl/) ((Voor inhoudelijke verslagen van de avond en de sessies zelf kun je beter terecht bij [Iskander](http://targetisnew.com/2009/02/24/het-thema-van-een-inspirerende-this-happened/) of [Linda](http://www.frank-ly.nl/this-happened-in-kikker).)). De teksten volgen vrij nauwkeurig wat er gezegd is maar zijn zeker niet letterlijk. Als je het ergens niet mee eens bent of je er niet in herkent, laat dan een commentaar achter.
+Hieronder een verslag van de vragen (en antwoorden) na elke presentatie op [This Happened Utrecht #2](http://thishappened.nl/) [^1]. De teksten volgen vrij nauwkeurig wat er gezegd is maar zijn zeker niet letterlijk. Als je het ergens niet mee eens bent of je er niet in herkent, laat dan een commentaar achter.
 
 ### Sanne Kistemaker — Piece of Family
 
@@ -115,3 +115,5 @@ Ja, net nog een weekendje naar Milaan geweest. Bij de projecten zitten pareltjes
 
 **Ianus Keller: De tone of voice is heel leuk valt me op, jullie zijn allebei gezellig en dat spreekt ook uit de site.** **Niels Keetels: Hebben jullie ook een soort contentfiltering of gaat elk gebouw er zomaar op?**
 Voor iets toegevoegd wordt, wordt gekeken of de informatie compleet is. Er wordt niet beoordeeld of iets mooi is of niet, dingen die mensen niet mooi vinden zakken vanzelf weg. De belangrijkste voorwaarden zijn dat de achitect bekend moet zijn en dat het zichtbaar moet zijn vanaf de straat.
+
+[^1]: Voor inhoudelijke verslagen van de avond en de sessies zelf kun je beter terecht bij [Iskander](http://targetisnew.com/2009/02/24/het-thema-van-een-inspirerende-this-happened/) of [Linda](http://www.frank-ly.nl/this-happened-in-kikker).

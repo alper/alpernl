@@ -18,7 +18,7 @@ I recently did a survey to see what relevant mashups I could find as examples an
 
 This is indicative of how much work remains to be done in creating data sources and adding semantics to the web. All the things we have made thusfar are mere proofs of concept compared to the potential that is still there.
 
-One of the reasons why this may be the case is that it is hard to build a decent business on top of a mashups either because the license of the source is not permissive enough or because building on top of somebody else's web app is a shaky foundation ((Just look at Twitter which had its problems but also is breaking new ground in this field.)).
+One of the reasons why this may be the case is that it is hard to build a decent business on top of a mashups either because the license of the source is not permissive enough or because building on top of somebody else's web app is a shaky foundation [^1].
 
 ### Channels
 
@@ -29,3 +29,5 @@ Calendar information should be in your calendar whether that be Outlook, iCal or
 So a more wholistic approach is necessary that recognizes the values and affordances of various forms of data and provides a consistent brand across channels. Widgets already say that [your website is irrelevant](http://www.headshift.com/blog/2009/05/your-corporate-website-is-irre.php), now take it one step further.
 
 Also a small test of the open syndication facility of iGoogle. A bit hidden away but works nicely.
+
+[^1]: Just look at Twitter which had its problems but also is breaking new ground in this field.

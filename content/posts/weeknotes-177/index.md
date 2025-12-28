@@ -10,7 +10,7 @@ aliases:
   - /dingen/2010/08/weeknotes-177/
 
 ---
-This week started pretty extreme ((Thoug we wouldn't have it any other way. It was epic!)) with 12+ hour days on Monday and Tuesday culminating in the launch of [PLAY Pilots](http://playpilots.nl/).
+This week started pretty extreme [^1] with 12+ hour days on Monday and Tuesday culminating in the launch of [PLAY Pilots](http://playpilots.nl/).
 
 [![Home • PLAY Pilots](http://farm5.static.flickr.com/4073/4865194833_77f00733ce.jpg)](http://www.flickr.com/photos/alper/4865194833/ "Home • PLAY Pilots by illustir, on Flickr")
 
@@ -25,3 +25,5 @@ Saturday my [Epson V500](http://www.amazon.com/gp/product/B000VG4AY0?ie=UTF8&tag
 [![Epson](http://farm5.static.flickr.com/4140/4869116894_84a9742d4d.jpg)](http://www.flickr.com/photos/alper/4869116894/ "Epson by illustir, on Flickr")
 
 Sunday was occupied with a lot of reading in [Designing for the Digital Age](http://www.amazon.com/gp/product/0470229101?ie=UTF8&tag=alpercugun-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470229101) preparing for the [UX Book Club](http://www.linkedin.com/osview/canvas?_ch_page_id=1&_ch_panel_id=1&_ch_app_id=30&_applicationId=2000&appParams={%22referrer%22:%22hub%22,%22go_to%22:%22events/353536%22}&_ownerId=1580980&completeUrlHash=wyjd) we are hosting on Tuesday. Also more scanning (and throwing out paper) and writing the first issue of my Dutch design and technology column “Design Directie”(due out here tomorrow morning).
+
+[^1]: Thoug we wouldn't have it any other way. It was epic!

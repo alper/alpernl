@@ -9,7 +9,7 @@ aliases:
   - /dingen/2012/10/highlights-from-harry-potter-and-the-methods-of-rationality-until-chapter-85/
 
 ---
-I recently discovered the fan fiction [Harry Potter and the Methods of Rationality](http://hpmor.com/) by the esteemed [Eliezer Yudkowsky](http://wiki.lesswrong.com/wiki/Eliezer) (I used to read his friendly AI stuff back in the day) and having never read any Harry Potter ((I watched the movies.)) I still immensely enjoyed this.
+I recently discovered the fan fiction [Harry Potter and the Methods of Rationality](http://hpmor.com/) by the esteemed [Eliezer Yudkowsky](http://wiki.lesswrong.com/wiki/Eliezer) (I used to read his friendly AI stuff back in the day) and having never read any Harry Potter [^1] I still immensely enjoyed this.
 
 > In science our powers wax by the year.
 
@@ -52,3 +52,5 @@ I recently discovered the fan fiction [Harry Potter and the Methods of Rationali
 > And you have already witnessed, I wager, that their fondness vanished like dust in the wind once it was no longer in their interest to associate with you...
 
 And now it's waiting until new chapters arrive, a pleasure and torture at the same time.
+
+[^1]: I watched the movies.

@@ -14,7 +14,7 @@ Ik ben sinds een tijdje lid van [D66](http://www.d66.nl) tot redelijke tevredenh
 
 [![StemWijzer Gemeente Amsterdam](http://farm5.static.flickr.com/4035/4355740957_345a23b493.jpg)](http://www.flickr.com/photos/alper/4355740957/ "StemWijzer Gemeente Amsterdam by illustir, on Flickr")
 
-Nu kloppen Stemwijzers nooit helemaal, maar ik heb toch redelijk wat verschillen met D66 in Amsterdam ((Voor mijn stadsdeel Oost kom ik op gelijke resultaten voor D66, PvdA en VVD. Blijkbaar zijn de verschillen heel klein.)). Dat boeit me niet heel veel, want ik ben vooral geïnteresseerd in de landelijke politiek maar het heeft toch wel wat toelichting nodig.
+Nu kloppen Stemwijzers nooit helemaal, maar ik heb toch redelijk wat verschillen met D66 in Amsterdam [^1]. Dat boeit me niet heel veel, want ik ben vooral geïnteresseerd in de landelijke politiek maar het heeft toch wel wat toelichting nodig.
 
 Ik doe dit uit aardigheid met D66 en met het idee dat je juist naar je eigen partij kritisch moet zijn. Elke andere partij (ook GroenLinks) zou er veel bekaaider van afkomen.
 
@@ -27,7 +27,7 @@ D66: Eens
 
 Wat mij betreft mogen de parkeertarieven in Amsterdam geleidelijk opgehoogd wordt net zoals je een kikker in een pan kunt koken door geleidelijk de temperatuur omhoog te doen en mogen de vrijblijvende parkeerplaatsen langzamerhand teruggegeven worden aan de burgers van Amsterdam. Het is mijn mening dat het getuigt van enigszins beperkte verstandelijke vermogens als je je in Amsterdam voortbeweegt met de auto.
 
-Het blijkt dus dat D66 nogal een partij is voor de autobelangen ((Dat is denk ik ook de grootste reden dat GL bij mij naar boven stijgt.)). Daar komen we zo nog eens op terug.
+Het blijkt dus dat D66 nogal een partij is voor de autobelangen [^2]. Daar komen we zo nog eens op terug.
 
 #### 8\. Het autovrije gebied in de binnenstad moet worden uitgebreid.
 
@@ -55,7 +55,7 @@ Ik vind topsport vet. Wat mij betreft niet echt een breekpunt.
 Ik: Oneens
 D66: Geen van beide
 
-Cameratoezicht op straat draagt er weinig aan bij de veiligheid te vergroten [zeggen alle mensen die er verstand](https://www.bof.nl/category/cameratoezicht/) van hebben ((De politie telt niet mee. Als het aan de politie lag hadden we allemaal een camera op ons hoofd.)). En we hadden het al over [het zwakke privacy-track record van D66](/dingen/2010/01/een-bar-en-boos-klimaat-voor-privacy/), daar kun je deze dan weer bij optellen.
+Cameratoezicht op straat draagt er weinig aan bij de veiligheid te vergroten [zeggen alle mensen die er verstand](https://www.bof.nl/category/cameratoezicht/) van hebben [^3]. En we hadden het al over [het zwakke privacy-track record van D66](/dingen/2010/01/een-bar-en-boos-klimaat-voor-privacy/), daar kun je deze dan weer bij optellen.
 
 #### 14\. Een nieuwe verbinding met Almere door het IJmeer mag alleen in de vorm van een tunnel worden aangelegd.
 
@@ -113,7 +113,7 @@ D66: Oneens
 
 Ik heb heel veel bezwaren op de stedelijk ontwikkeling zoals die in Amsterdam plaats vindt. Voor diversiteit in je buurt lijkt het me toch noodzakelijk dat er gemengd gebouwd wordt.
 
-Op de Zuidas komen bijvoorbeeld series woontorens met alleen maar dure huizen waardoor je een yuppie-ghetto krijgt ((Het is nu ook een ghetto en 's avonds een no-go area.)). Het resultaat is een gebied met een ontzettende schrale publieke ruimte.
+Op de Zuidas komen bijvoorbeeld series woontorens met alleen maar dure huizen waardoor je een yuppie-ghetto krijgt [^4]. Het resultaat is een gebied met een ontzettende schrale publieke ruimte.
 
 #### 29\. De stadswacht moet onderdeel van de politie worden en daardoor meer bevoegdheden krijgen
 
@@ -123,3 +123,8 @@ D66: Eens
 Wat mij betreft is de stadswacht een werkverschaffingsproject met beperkt nut waar mensen al teveel bevoegdheden hebben. Ze blinken erin uit om fietsers terecht te wijzen maar op probleemlocaties en moeilijke tijden ('s nachts) zijn ze nooit te vinden. Nog meer bevoegdheden is een slecht plan.
 
 Update: En uit [Kieskompas](http://www.kieskompas.nl/) komen eerst een paar vage randpartijen bovenaan voor er een half zinnig resultaat uit rolt. Zoals [Frank zegt](http://www.facebook.com/frankstar?v=feed&story_fbid=333366174873&ref=mf) inderdaad kansloos en nodig toe aan verbetering. Mochten de organisaties advies willen voor een statistisch beter resultaat en een gebruiksvriendelijkere site, kunnen ze altijd [contact opnemen](http://aardverschuiving.com/contact).
+
+[^1]: Voor mijn stadsdeel Oost kom ik op gelijke resultaten voor D66, PvdA en VVD. Blijkbaar zijn de verschillen heel klein.
+[^2]: Dat is denk ik ook de grootste reden dat GL bij mij naar boven stijgt.
+[^3]: De politie telt niet mee. Als het aan de politie lag hadden we allemaal een camera op ons hoofd.
+[^4]: Het is nu ook een ghetto en 's avonds een no-go area.

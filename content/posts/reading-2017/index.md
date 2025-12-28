@@ -15,7 +15,7 @@ The first half of the year was marked by some decidedly slow reading as well as 
 
 Then halfway through the year, a shift happened where the kids underwent sleep regressions and we went through figurative hell. Watching video became impossible. The sleepless nights sitting up for 30-45 minutes at a stretch with a baby falling into deep sleep turned out to be a catalyst for reading.
 
-I wanted to see how dramatic this shift was so I retrieved my year’s reading from Goodreads, filled in the page counts ((Goodreads API is no beauty and page counts are subject to redistribution licenses from the publishers and as such a lot are missing.)) and made a bar chart of pages racked up per month.
+I wanted to see how dramatic this shift was so I retrieved my year’s reading from Goodreads, filled in the page counts [^1] and made a bar chart of pages racked up per month.
 
 [![](pages_per_month.png)](/dingen/2017/12/reading-2017/pages_per_month/)
 
@@ -120,3 +120,5 @@ A very slim year with Darwish the sole representant of this category, lovely but
 Trungpa's style is highly accessible while maintaining a lot of jargon. This is one of the first times things have clicked for me.
 
 - **The Truth of Suffering and the Path of Liberation, Chögyam Trungpa**
+
+[^1]: Goodreads API is no beauty and page counts are subject to redistribution licenses from the publishers and as such a lot are missing.

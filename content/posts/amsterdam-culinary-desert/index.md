@@ -17,7 +17,7 @@ I just read [the double interview in Amsterdam Weekly](http://www.stevekorver.co
 The problem in Amsterdam first and foremost is that many dishes and types of food lack proper representation. There are even entire cuisines missing. It is a long list, but below follows an attempt to distill my years of disappointment:
 
 **Breakfast**
-Try to find a place in Amsterdam to have a decent meal ((None of this granola/muesli crap, eggs at least.)) at 08:00 and you'll come up empty. This is tied mainly with the departure of blue collar work from the city and the city getting a more languid touristy character. There's the mad commute around 08:00, but nobody goes in for breakfast except a take-away coffee and croissant.
+Try to find a place in Amsterdam to have a decent meal [^1] at 08:00 and you'll come up empty. This is tied mainly with the departure of blue collar work from the city and the city getting a more languid touristy character. There's the mad commute around 08:00, but nobody goes in for breakfast except a take-away coffee and croissant.
 
 **Brunch of any type**
 Tied to the previous, there is hardly a brunch offering to speak of. This is a ridiculous poverty compared to San Francisco or even Copenhagen. Most Sunday's are highly improved by this type of food, though it can also very quickly [degenerate into a fad](http://brunchisascam.babetown.us/).
@@ -59,12 +59,16 @@ Peter [reminded me](https://twitter.com/pr1001/status/167246384855130112) of thi
 This is a symptom of the Dutch mentality to create rules for everything, even the things that would otherwise sort themselves out. Dutch _regelzucht_ nips a lot of otherwise nice things in the bud. This has effects on the opening times of restaurants, but also on the (im)possibility of food carts and other displays of eating and drinking outdoors, but probably also on the ways you can prepare food and who you can hire to do that. I'm not advocating total abandon of rules here, but I am quite sure the Dutch implementation errs too far on the side of caution.
 
 **Absurdly poor price/quality ratio**
-The rampant inflation of housing in the city also has had an effect on culinary offerings. People paying upwards of €1200/month in rent, don't quaff at a single sit-down dinner costing around €20 for the simplest of meals ((I pay half that in Berlin.)).
+The rampant inflation of housing in the city also has had an effect on culinary offerings. People paying upwards of €1200/month in rent, don't quaff at a single sit-down dinner costing around €20 for the simplest of meals [^2].
 
 Many of those people are new entrants to Amsterdam which is the biggest city they have experienced thusfar. These people are really nice and they mean well, but they are still hicks who are easily impressed by the trappings of the big city village that Amsterdam is. Their newfound abundance in cash and lack of taste spoils the market and makes good options for the discerning eater, harder to find.
 
 ### Conclusion
 
-The fact that Johannes would not mention these issues and he gives Turkish charcoal grill after charcoal grill 9 marks every week ((Nothing wrong with that, I love ocakbasi.)), testifies to his age and his local knowledge. Most of the people I know consume food with a global or at least an European perspective and given the best there is on offer there, Amsterdam cannot compete.
+The fact that Johannes would not mention these issues and he gives Turkish charcoal grill after charcoal grill 9 marks every week [^3], testifies to his age and his local knowledge. Most of the people I know consume food with a global or at least an European perspective and given the best there is on offer there, Amsterdam cannot compete.
 
 I know the scene is improving and ever in flux, so some of the things I have mentioned above may no longer be true, but I haven't even been gone two months yet. Additions and discoveries are of course welcome here or via more private channels.
+
+[^1]: None of this granola/muesli crap, eggs at least.
+[^2]: I pay half that in Berlin.
+[^3]: Nothing wrong with that, I love ocakbasi.

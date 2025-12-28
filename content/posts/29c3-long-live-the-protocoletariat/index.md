@@ -32,7 +32,7 @@ What then follows is a comparison between institutions and networks. I think it 
 
 They then treat the protocolization of institutions. How an institution can be decomposed in process and substance. How the symbolic language that an institution accepts can be codified as an [automaton](http://en.wikipedia.org/wiki/Automata_theory) and then be translated into a peer to peer communications protocol. One problem of such a protocol is that it lacks institutional memory and tacit knowledge. Networks consist of nodes that adhere to the protocol (by definition) and are in effect interchangeable which means they don't have to remember over the whole.
 
-Memory and knowledge are essential for the proper functioning of all organizations and that functionality needs to be coded in some way into the networked version. I'm reading [James C. Scott](http://press.princeton.edu/titles/9816.html) right now and he talks at length about the high modernist folly of laying down ‘thin and brittle’ structures that do not work ((Such structures are created mostly by a select group of people to pursue an agenda of money or power.)). Such structures have not been tested or used enough and lack the pliability and adaptations that are necessary for proper functioning.
+Memory and knowledge are essential for the proper functioning of all organizations and that functionality needs to be coded in some way into the networked version. I'm reading [James C. Scott](http://press.princeton.edu/titles/9816.html) right now and he talks at length about the high modernist folly of laying down ‘thin and brittle’ structures that do not work [^1]. Such structures have not been tested or used enough and lack the pliability and adaptations that are necessary for proper functioning.
 
 Saitta and McCarthy propose to build institutions that only do long-term memory and let the process execution be handled by the network.
 
@@ -59,3 +59,5 @@ After the talk there follow a series of somewhat odd questions. The replies fort
 > Instead we should build alternate structures. We are going to build this thing over here and it's a much better way to run things. That can sort of infect into the world and obsolete other things. —Eleanor Saitta
 
 That last one should be the golden test of activism: are you just complaining or are you doing something to actually make things better? If not, why not?
+
+[^1]: Such structures are created mostly by a select group of people to pursue an agenda of money or power.

@@ -42,7 +42,7 @@ This being 9 in the morning as per the phone number opening times, I thought I m
 
 I knew the SenUVK office at Am Köllnischen Park but I was told to go to Brückenstraße 6 around the corner. There I went into one building and could not find anything other than generic offices. I was going to give up but I walked up the street towards Jannowitzbrück and found another number 6 entrance to what seems to be known as the [Jannowitz Center](https://www.emporis.com/buildings/230326/jannowitz-center-berlin-germany).
 
-The ground floor of that building was a construction site. Next to the elevator it did find a plan of the SenUVK offices that listed Baulärm on the fifth floor. I took the elevator to the fifth floor only to find another construction site. Then I went down and asked the construction workers whether the entire building was a construction site. They said, nah, floors 7 and so and so are not. So I went up to the 7th floor and found the _Pförtner_ there who referred me to room 191 on the 2nd floor ((This room numbering scheme is insane.)).
+The ground floor of that building was a construction site. Next to the elevator it did find a plan of the SenUVK offices that listed Baulärm on the fifth floor. I took the elevator to the fifth floor only to find another construction site. Then I went down and asked the construction workers whether the entire building was a construction site. They said, nah, floors 7 and so and so are not. So I went up to the 7th floor and found the _Pförtner_ there who referred me to room 191 on the 2nd floor [^1].
 
 {{< figure src="500B60D1-6231-4FA9-86A3-1B22734113E6.jpg" alt="" caption="" >}}
 
@@ -63,3 +63,5 @@ After the broken web form I also was kinda intrigued what kind of systems they w
 I know these problems up close and they are difficult to solve even if you have access to best in class tools. But with those kind of tools at least you have a fighting chance. If you work in government without in-house IT, where you can't procure anything useful, you don't have credit cards and even if you found something useful you couldn't use it because of fears around _Datenschutz_, there is no way you are going to get anything done.
 
 Most of these problems could be solved by deploying Airtable and Zendesk, but they of course won't be allowed to do that. I don't have to mention that local government being ineffective benefits companies doing construction without following any of the rules.
+
+[^1]: This room numbering scheme is insane.

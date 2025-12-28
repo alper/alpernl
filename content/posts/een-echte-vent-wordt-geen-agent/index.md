@@ -10,4 +10,6 @@ aliases:
 ---
 De politie gebruikt bij inperkingen van de privacy altijd het argument ‘Als u niets te verbergen heeft, heeft u ook niets te vrezen.’
 
-Volgens diezelfde logika laat [dit filmpje](http://www.geenstijl.tv/2007/07/pliesie_dreigt_rutger_met_geva.html) op Geen Stijl ((Één van de weinige keren dat Geen Stijl iets goeds doet.)) zien dat de politie zelf blijkbaar heel veel te verbergen heeft.
+Volgens diezelfde logika laat [dit filmpje](http://www.geenstijl.tv/2007/07/pliesie_dreigt_rutger_met_geva.html) op Geen Stijl [^1] zien dat de politie zelf blijkbaar heel veel te verbergen heeft.
+
+[^1]: Één van de weinige keren dat Geen Stijl iets goeds doet.

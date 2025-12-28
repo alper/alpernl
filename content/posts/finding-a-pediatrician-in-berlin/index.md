@@ -11,7 +11,7 @@ aliases:
   - /dingen/2019/06/finding-a-pediatrician-in-berlin/
 
 ---
-Just like almost every public service in Berlin the pediatrician situation is absolute squalor. It's impossible to find one who picks up the phone or takes on new patients ((Don't bother tipping me a pediatrician unless you're sure they take new patients.)).
+Just like almost every public service in Berlin the pediatrician situation is absolute squalor. It's impossible to find one who picks up the phone or takes on new patients [^1].
 
 We've had some bad incidents in the past with sketchy doctors because of this and now I'm trying to figure out why this is the way it is.
 
@@ -34,3 +34,5 @@ Every instance says “Dafür sind wir nicht zuständig.”and sends me on until
 It's not the first time that this happens. I've previously spent half an hour being sent in a loop between Polizei and Ordnungsamt. This is the way that Germany functions: nobody is responsible for anything and everybody in between can get fucked.
 
 Corollary: if it is impossible to figure out why something is the way it is, it is also impossible to fix it.
+
+[^1]: Don't bother tipping me a pediatrician unless you're sure they take new patients.

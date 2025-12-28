@@ -13,9 +13,13 @@ Naar aanleiding van [dit artikel in Wired](http://www.wired.com/politics/securit
 
 [![](http://farm1.static.flickr.com/167/486973408_27d5c89b22.jpg)](http://www.flickr.com/photos/alper/486973408/ "Untitled by illustir, on Flickr")
 
-Ik had graag mee willen doen aan [FON](http://www.fon.com/) ((Het is ook een FON-router maar met [DD-WRT](http://www.dd-wrt.com/) firmware.)) maar dat was altijd teveel gezeik om goed in te stellen ((Sowieso snap ik niet waarom draadloos internet enkele honderden niet uit te leggen instellingen moet bevatten.)). Ideaal zou zijn als routermakers een instelling boden om gastgebruikers op een afgebakend deel van je netwerk een beperkte hoeveelheid bandbreedte te geven, maar daar ga ik niet op zitten wachten.
+Ik had graag mee willen doen aan [FON](http://www.fon.com/) [^1] maar dat was altijd teveel gezeik om goed in te stellen [^2]. Ideaal zou zijn als routermakers een instelling boden om gastgebruikers op een afgebakend deel van je netwerk een beperkte hoeveelheid bandbreedte te geven, maar daar ga ik niet op zitten wachten.
 
 Dus in de buurt van de Papenstraat in Delft is er sinds kort een open draadloze hotspot “Draadloos Delft”te vinden. Elke beweging moet ergens beginnen, zullen we maar zeggen.
 
-**Update:** Ik heb nu de eerste gast ((Computernaam: `lak` en volgens het icoon in Finder een Mac.)) op mijn netwerk. Doen er nog meer mensen mee? Als we dit concept kunnen verspreiden, dan heeft het nog een redelijke kans om te werken.
+**Update:** Ik heb nu de eerste gast [^3] op mijn netwerk. Doen er nog meer mensen mee? Als we dit concept kunnen verspreiden, dan heeft het nog een redelijke kans om te werken.
 De beste reden om dit te doen: Beeld je in hoe blij je bent als je op een willekeurige plek draadloos internet hebt. Beeld je nu in dat je datzelfde gevoel oproept bij mensen die in de buurt van je huis zitten.
+
+[^1]: Het is ook een FON-router maar met [DD-WRT](http://www.dd-wrt.com/) firmware.
+[^2]: Sowieso snap ik niet waarom draadloos internet enkele honderden niet uit te leggen instellingen moet bevatten.
+[^3]: Computernaam: `lak` en volgens het icoon in Finder een Mac.

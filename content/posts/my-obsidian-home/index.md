@@ -40,13 +40,13 @@ Then comes the tasks section:
 ### Due Today
 
 ```tasks
-((due on <% tp.file.title %>) OR (due before <% tp.file.title %>)) AND NOT done
+[^1] AND NOT done
 ```
 
 ### Scheduled Today
 
 ```tasks
-((scheduled on <% tp.file.title %>) OR (scheduled before <% tp.file.title %>)) AND NOT done
+[^2] AND NOT done
 ```
 
 ### Done Today
@@ -93,3 +93,6 @@ Putting everything together, when I double-click on a day, I get a document that
 The fact that it's fully automated and that with a single action I can get a relatively complete informational dashboard for what I should be doing that day has been an immense load off. It allows me to hit the ground running and immediately start sifting tasks, go through my meetings and create a plan for the day.
 
 When I know a day is coming up that's going to be particularly intense, I create the daily note for it ahead of time and start lining up information and talking points for each appointment in the scaffold. Reducing the effort it takes to start that prep and storing it in a standardised format makes it much more likely that I'll do it and use it. With that preparation ready-to-go in Obsidian it takes out all the stress and I can run my day in a pure flow state.
+
+[^1]: due on <% tp.file.title %>) OR (due before <% tp.file.title %>
+[^2]: scheduled on <% tp.file.title %>) OR (scheduled before <% tp.file.title %>

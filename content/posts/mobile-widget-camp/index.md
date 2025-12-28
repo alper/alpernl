@@ -12,7 +12,7 @@ aliases:
 ---
 In spite of the nice weather, I spent today at [Mobile Widget Devcamp](http://www.mobilewidgetcamp.nl/) in Pakhuis de Zwijger. Having done some projects on widgets recently, I was curious to see what the state of mobile widgets was.
 
-[Vodafone](http://www.vodafone.com/) presented their app manager which will be rolled out to Vodafone mobile users. The app manager makes it easier to find and install widgets/apps to the mobile phone. Widgets can be submitted to the app manager in an App Store like proces and in due time —I think the word was come September ((Though it will be interesting to see how far Apple will have advanced the signposts by then.))— you can even charge money for your widget in a 70/30 split.
+[Vodafone](http://www.vodafone.com/) presented their app manager which will be rolled out to Vodafone mobile users. The app manager makes it easier to find and install widgets/apps to the mobile phone. Widgets can be submitted to the app manager in an App Store like proces and in due time —I think the word was come September [^1]— you can even charge money for your widget in a 70/30 split.
 
 [![](http://farm4.static.flickr.com/3398/3496036077_83a186081b.jpg)](http://www.flickr.com/photos/silvertje/3496036077/)
 
@@ -34,7 +34,7 @@ There is a lot of terminology confusion in this space: widsets, widgets, apps, g
 
 ### Simple is not important
 
-All the talk focused on how simple it is to get a simple widget running. It hardly ever is about the simple stuff, we can believe that that works. It's about the tools and documentation, the nooks and crannies and the 80% of effort necessary to nail that last 20% ((In many cases it's not even possible to do that.)). Every new platform, however simple it may be, adds another of that 80% of extra overhead.
+All the talk focused on how simple it is to get a simple widget running. It hardly ever is about the simple stuff, we can believe that that works. It's about the tools and documentation, the nooks and crannies and the 80% of effort necessary to nail that last 20% [^2]. Every new platform, however simple it may be, adds another of that 80% of extra overhead.
 
 ### OpenSocial
 
@@ -44,7 +44,7 @@ One difference here is that the widgets we ran today must be rendered by the Ope
 
 In any case more consolidation and convergence can only be a good thing, especially when the essential differences are so minor. I found [a brief reference to that possibility](http://zope.cetis.ac.uk/members/scott/blogview?entry=20071105151422) by a CETIS guy.
 
-I also think it's curious that OpenSocial/iGoogle gadgets don't run in more places. Why isn't there an OpenSocial container for Vista and OS X desktop gadgets just to name one ((You may notice that [Netvibes](http://www.netvibes.com) offers the option to intall widgets to Desktop widget runtimes and Google does not.))?
+I also think it's curious that OpenSocial/iGoogle gadgets don't run in more places. Why isn't there an OpenSocial container for Vista and OS X desktop gadgets just to name one [^3]?
 
 ### Promises, promises
 
@@ -58,4 +58,9 @@ In that future being able to install and share widgets/applications across platf
 
 As [Chipchase wrote](http://www.janchipchase.com/blog/archives/2009/04/1000000000-apps-pfft.html): “\[…\] the interesting trend to watch will be the mainstreaming of just-in-time discovery and consumption of highly focused and contextually useful applications.”
 
-I can't wait to see if and how ((And how will Nokia's interests in widgets, lightweight applications, device APIs and their own webkit browser relate to these developments?)) we will get there.
+I can't wait to see if and how [^4] we will get there.
+
+[^1]: Though it will be interesting to see how far Apple will have advanced the signposts by then.
+[^2]: In many cases it's not even possible to do that.
+[^3]: You may notice that [Netvibes](http://www.netvibes.com) offers the option to intall widgets to Desktop widget runtimes and Google does not.
+[^4]: And how will Nokia's interests in widgets, lightweight applications, device APIs and their own webkit browser relate to these developments?

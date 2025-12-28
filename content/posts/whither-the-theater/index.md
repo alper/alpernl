@@ -18,9 +18,12 @@ On most of my visits I'm struck by how narrow a demographic (by age and social-e
 
 Having said that, the theater makers I would go to blindly in the Netherlands are:
 
-- Theu Boermans ((Of epic Theatercompagnie fame, now making a glorious return as head of het Nationaal Toneel.))
+- Theu Boermans [^1]
 - Thibaud Delpeut
 - Eric de Vroedt
 - Ivo van Hove
 
-Now having just moved to Berlin, I've seen a bunch of plays at [die Schaubühne](http://www.schaubuehne.de/) ((Visits to HAU, Ballhaus Naunynstraße and die Volksbühne are planned.)) but nothing very titillating yet. That may be in part because I am yet to see something by Thomas Ostermeier, but it does beg the question why a theater would stage such wildly varying material and why the room still is full most of the nights. Answers to those questions are forthcoming after a more thorough sampling.
+Now having just moved to Berlin, I've seen a bunch of plays at [die Schaubühne](http://www.schaubuehne.de/) [^2] but nothing very titillating yet. That may be in part because I am yet to see something by Thomas Ostermeier, but it does beg the question why a theater would stage such wildly varying material and why the room still is full most of the nights. Answers to those questions are forthcoming after a more thorough sampling.
+
+[^1]: Of epic Theatercompagnie fame, now making a glorious return as head of het Nationaal Toneel.
+[^2]: Visits to HAU, Ballhaus Naunynstraße and die Volksbühne are planned.

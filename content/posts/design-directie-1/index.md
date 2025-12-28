@@ -10,7 +10,7 @@ aliases:
   - /dingen/2010/08/design-directie-1/
 
 ---
-_‘Design Directie’ is een periodiek stukje van Alper over het raakvlak van design en technologie met de maatschappij ((En boven alles een experiment.))._
+_‘Design Directie’ is een periodiek stukje van Alper over het raakvlak van design en technologie met de maatschappij [^1]._
 
 Op dit moment worden we niet bestuurd en moeten we wachten op een formatie die lang duurt, niet transparant is en een resultaat gaat opleveren waar de helft van het land niet op zit te wachten. Dit proces voelt sub-optimaal en achterhaald aan.
 
@@ -25,3 +25,5 @@ Hoe anders is dit in de politiek. Partijen gaan er gemakzuchtig van uit dat ze a
 Goede ontwerpers gaan uit van de werkelijkheid en handelen in gelijke delen visie, gezond verstand en realisme. Politici zo zien we gaat het meer om zelfbehoud, het spelen op de onderbuik en het in stand houden van illusies. Ontwerpers die politiek voeren of in politieke organisaties werken, komen zelden tot goede resultaten. Politici die wat meer methoden uit de ontwerppraktijk gebruiken, daar zouden we wel weer wat vertrouwen in kunnen hebben.
 
 _Elke Design Directie wordt [hier](http://alper.nl) gepubliceerd en bij de eerste publicatie die hem wil overnemen (_ [_aanmeldingen_](http://twitter.com/?status=@alper%20) _)._
+
+[^1]: En boven alles een experiment.

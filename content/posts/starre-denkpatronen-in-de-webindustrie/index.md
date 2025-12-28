@@ -26,22 +26,30 @@ Je kunt beter HTML 4.01 schrijven wat net zo semantisch kan zijn, niet langzamer
 
 XHTML berust op een harde foutafhandeling om onvoorspelbaar gedrag te voorkomen. Het gevolg hiervan is dat als er een fout in een pagina mocht staan, de afhandeling stopt en de gebruiker geen pagina meer te zien krijgt maar alleen een foutmelding. In een internet dat grotendeels door mensen wordt geschreven en waar content van verschillende bronnen gehaald wordt, is het moeilijk om perfecte pagina's te garanderen.
 
-Een [vergevingsgezinde parser](http://www.whatwg.org/specs/web-apps/current-work/#parsing) zoals bij HTML met heldere ((Temminste in het geval van HTML5.)) afspraken wat te doen bij fouten is handiger.
+Een [vergevingsgezinde parser](http://www.whatwg.org/specs/web-apps/current-work/#parsing) zoals bij HTML met heldere [^1] afspraken wat te doen bij fouten is handiger.
 
 ### Doodlopend pad
 
-Er is geen helder migratiepad gedefinieerd van XHTML 1.0 naar XHTML 2.0 ((Het ontwikkelproces van deze standaarden bij de W3C is ook bijzonder gesloten waardoor veel moet worden gegist. Vergelijk dit met het proces van de WHATWG waar alles uit principe open is.)). De XHTML 2.0 specificatie bevat significante veranderingen ten opzichte van de vorige waardoor veel code handmatig zal moeten worden aangepast. Het gebrek aan visie in deze specificatie zadelt iedereen die meedoet met XHTML 1.0 op met significante kosten wanneer er moet worden overgegaan naar de volgende versie.
+Er is geen helder migratiepad gedefinieerd van XHTML 1.0 naar XHTML 2.0 [^2]. De XHTML 2.0 specificatie bevat significante veranderingen ten opzichte van de vorige waardoor veel code handmatig zal moeten worden aangepast. Het gebrek aan visie in deze specificatie zadelt iedereen die meedoet met XHTML 1.0 op met significante kosten wanneer er moet worden overgegaan naar de volgende versie.
 
 HTML 4.01 is goed begrepen en wijd ondersteund. Er is een duidelijk upgrade-pad naar [de HTML5 specificatie](http://www.whatwg.org/specs/web-apps/current-work/) die zowel _backwards compatible_ is met HTML 4.01 als een groot aantal nieuwe features bevat voor de toekomst.
 
 ### Conclusie
 
-Het is op dit moment dus af te raden -zelfs schadelijk- om XHTML te gebruiken. Dezelfde voordelen kun je met een veel groter gemak bereiken door het eenvoudige ouwe semantische (( [">Plain Old Semantic HTML](http://microformats.org/wiki/posh))) HTML 4.01 te gebruiken ((Voor een goede bespreking van de kwesties rondom XHTML, waar ik voor dit stuk ook veel inspiratie uit geput heb, zie [deze pagina](http://www.webdevout.net/articles/beware-of-xhtml#benefits) met alle feiten op een rijtje. In het onderzoeken voor dit stukje kwam ik ook dit [stukje van hjdeboer.nl](http://hjdeboer.nl/archives/2006/02/html5) tegen die het ook begrepen heeft.)).
+Het is op dit moment dus af te raden -zelfs schadelijk- om XHTML te gebruiken. Dezelfde voordelen kun je met een veel groter gemak bereiken door het eenvoudige ouwe semantische [^3]) HTML 4.01 te gebruiken [^4].
 
-Ik pleit ervoor dat we niet alleen pleiten vóór webstandaarden maar tegelijkertijd ook voor een flexibelere manier van denken en een kritische houding ten opzichte van alles ((In het bijzonder voor je eigen denkpatronen.)). Ik kom ((In de ICT lijkt rigide denken en folklore nog sterker vertegenwoordigd dan elders.)) teveel mensen tegen die na enige deliberatie een standpunt accepteren en er dan niet meer aan twijfelen maar het uitdragen als een soort gospel.
+Ik pleit ervoor dat we niet alleen pleiten vóór webstandaarden maar tegelijkertijd ook voor een flexibelere manier van denken en een kritische houding ten opzichte van alles [^5]. Ik kom [^6] teveel mensen tegen die na enige deliberatie een standpunt accepteren en er dan niet meer aan twijfelen maar het uitdragen als een soort gospel.
 
-Continue kritiek van alles is noodzakelijk. Wat vandaag waar is, hoeft dat morgen niet meer te zijn. XHTML lijkt op dit moment dood, maar HTML5 biedt een serialisatie naar XML wat mogelijkheden biedt voor de toekomst ((De gasten van de WHATWG zijn serieus slim.)).
+Continue kritiek van alles is noodzakelijk. Wat vandaag waar is, hoeft dat morgen niet meer te zijn. XHTML lijkt op dit moment dood, maar HTML5 biedt een serialisatie naar XML wat mogelijkheden biedt voor de toekomst [^7].
 
 Je wereld kan veranderen. Het zou jammer zijn als je daar zelf als laatste achter kwam.
 
 **Update:** Ik denk dat ik hier nog wat aan ga schaven en het dan op [Frankwatching](http://www.frankwatching.com) zet.
+
+[^1]: Temminste in het geval van HTML5.
+[^2]: Het ontwikkelproces van deze standaarden bij de W3C is ook bijzonder gesloten waardoor veel moet worden gegist. Vergelijk dit met het proces van de WHATWG waar alles uit principe open is.
+[^3]:  [">Plain Old Semantic HTML](http://microformats.org/wiki/posh
+[^4]: Voor een goede bespreking van de kwesties rondom XHTML, waar ik voor dit stuk ook veel inspiratie uit geput heb, zie [deze pagina](http://www.webdevout.net/articles/beware-of-xhtml#benefits) met alle feiten op een rijtje. In het onderzoeken voor dit stukje kwam ik ook dit [stukje van hjdeboer.nl](http://hjdeboer.nl/archives/2006/02/html5) tegen die het ook begrepen heeft.
+[^5]: In het bijzonder voor je eigen denkpatronen.
+[^6]: In de ICT lijkt rigide denken en folklore nog sterker vertegenwoordigd dan elders.
+[^7]: De gasten van de WHATWG zijn serieus slim.

@@ -31,7 +31,7 @@ Using that hardware to reimagine the concept and use of a magazine including its
 
 ### Toolmaker and platform
 
-Being a more technically inclined ((And interested in open platforms.)), I'm very interested which platform will be used for these publications. Right now two obvious contenders would be:
+Being a more technically inclined [^1], I'm very interested which platform will be used for these publications. Right now two obvious contenders would be:
 
 - A [Flash/AIR](http://www.adobe.com/products/air/) version which is not very hopeful from an openness point of view. And also what we've seen from the current Flash web magazines and applications, the user experience will probable be nothing to write home about (page turn animations anybody?).
   If the current state of Flash on the iPhone is an indication, Apple will not allow this.
@@ -51,3 +51,5 @@ Another thought is that because most of the publications are not as space constr
 ### Future
 
 I'm interested in what Hammersley will write as a solution to all this. I have no experience in print and am writing this as a bystander with an interest in the web.
+
+[^1]: And interested in open platforms.

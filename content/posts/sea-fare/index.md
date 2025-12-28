@@ -22,7 +22,7 @@ Compare this to the London based [Oyster card](http://en.wikipedia.org/wiki/Oyst
 And the Hong Kong [Octopus card](http://en.wikipedia.org/wiki/Octopus_card):
 [![](AdultOctopusCard.jpg)](AdultOctopusCard.jpg)
 
-This international sea food theme makes me think that we have definitely missed a branding opportunity here (and this for a country of fishermen). Our entire [OV-chipkaart system](http://en.wikipedia.org/wiki/OV-chipkaart) ((How stupid is it to put the implementation detail of the ‘chip’ in the name?)) has been grossly underdesigned on all fronts, so no surprises there ((You currently have the messages in the tram: “Don't forget to check out with your public transport chip card.”These are a bit awkward.)).
+This international sea food theme makes me think that we have definitely missed a branding opportunity here (and this for a country of fishermen). Our entire [OV-chipkaart system](http://en.wikipedia.org/wiki/OV-chipkaart) [^1] has been grossly underdesigned on all fronts, so no surprises there [^2].
 
 So I've got two proposed alternative names for our low countries farecard system:
 
@@ -32,3 +32,6 @@ or
  - **Mussel card** ( _Mosselkaart_)
 
 How do we get this change implemented? And anybody care to mockup a concept?
+
+[^1]: How stupid is it to put the implementation detail of the ‘chip’ in the name?
+[^2]: You currently have the messages in the tram: “Don't forget to check out with your public transport chip card.”These are a bit awkward.

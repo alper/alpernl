@@ -15,7 +15,10 @@ Iemand aan de lijn laten wachten en per gewachte minuut laten betalen getuigt wa
 Hoe kan dit beter?
 
 1. Ik bel op naar het gegeven nummer.
-1. De verbinding wordt gemaakt, mijn probleem wordt [getriaged](http://www.vandale.nl/opzoeken/woordenboek/?zoekwoord=triage) door middel van een keuze menu en als mijn telefoonnummer uit de nummerherkenning gehaald kan worden wordt de verbinding direct verbroken zo niet, dan wordt ik gevraagd om mijn nummer in te toetsen ((Als je je nummer kan intikken op de website, zijn stap 1 en 2 overbodig.)).
+1. De verbinding wordt gemaakt, mijn probleem wordt [getriaged](http://www.vandale.nl/opzoeken/woordenboek/?zoekwoord=triage) door middel van een keuze menu en als mijn telefoonnummer uit de nummerherkenning gehaald kan worden wordt de verbinding direct verbroken zo niet, dan wordt ik gevraagd om mijn nummer in te toetsen [^1].
 1. Een call center medewerker belt mij terug op een later moment. Voordeel: ik hoef niet aan de lijn te hangen wachten. Voordeel 2: Ik word niet opgelicht door de belkosten.
 
-Innovatief, gewaagd en het kost ook wat. Daarom gaat dit nooit gebeuren, tenzij in een felbevochten markt ((Zeg, de telecom.)) een bedrijf een betere geïntegreerde klantenervaring wil aanpakken als concurrentievoordeel.
+Innovatief, gewaagd en het kost ook wat. Daarom gaat dit nooit gebeuren, tenzij in een felbevochten markt [^2] een bedrijf een betere geïntegreerde klantenervaring wil aanpakken als concurrentievoordeel.
+
+[^1]: Als je je nummer kan intikken op de website, zijn stap 1 en 2 overbodig.
+[^2]: Zeg, de telecom.

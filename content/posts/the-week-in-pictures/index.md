@@ -11,7 +11,7 @@ aliases:
 ---
 [![Richard Avedon - FOAM](http://farm4.static.flickr.com/3402/3524365247_e2ba4b4c9f.jpg)](http://www.flickr.com/photos/alper/3524365247/ "Richard Avedon - FOAM by illustir, on Flickr")
 
-Tuesday morning I went to [foam](http://www.foam.nl/) to see the last couple of days of the [Avedon exhibit](http://www.foam.nl/index.php?pageId=11&tentoonId=153) and I'm glad I did. Spectacular work! The exhibit is done in Amsterdam, but maybe you can catch it somewhere else ( [tweet](http://twitter.com/alper/status/1772542875)) (( [At the SF MOMA](http://www.sfmoma.org/exhibitions/384) from July 11th until November 29th.))? It is very much worth it.
+Tuesday morning I went to [foam](http://www.foam.nl/) to see the last couple of days of the [Avedon exhibit](http://www.foam.nl/index.php?pageId=11&tentoonId=153) and I'm glad I did. Spectacular work! The exhibit is done in Amsterdam, but maybe you can catch it somewhere else ( [tweet](http://twitter.com/alper/status/1772542875)) [^1]? It is very much worth it.
 
 [![OpenID in de praktijk](http://farm3.static.flickr.com/2266/3528645500_17a29ab280.jpg)](http://www.flickr.com/photos/alper/3528645500/ "OpenID in de praktijk by illustir, on Flickr")
 
@@ -27,4 +27,7 @@ Friday morning had a ridiculously early start ( [tweet](http://twitter.com/alper
 
 [![RFIDuino workshop](http://farm3.static.flickr.com/2321/3535987424_b163a847fc.jpg)](http://www.flickr.com/photos/alper/3535987424/ "RFIDuino workshop by illustir, on Flickr")
 
-After more coffee (like I said, it was an early start), it was off to the soldering irons at [Mediamatic](http://www.mediamatic.net/) for [the RFIDuino workshop](http://www.mediamatic.net/page/77611/en) given by [Marc Boon](http://marcboon.com/). After a lot of fidgeting and my first real soldering experience in I think 15 years, some of us managed to build a working RFID shield for their [Arduinos](http://arduino.cc). Lots of unpredictable behaviour ( [tweet](http://twitter.com/alper/status/1806211435)) though ((Mine still doesn't work reliably which we attribute to the weak USB power supply coming from my Macbook ( [tweet](http://twitter.com/alper/status/1806369202)).)). Where is that post-mortem debugger with hot code replace for your hardware setup?
+After more coffee (like I said, it was an early start), it was off to the soldering irons at [Mediamatic](http://www.mediamatic.net/) for [the RFIDuino workshop](http://www.mediamatic.net/page/77611/en) given by [Marc Boon](http://marcboon.com/). After a lot of fidgeting and my first real soldering experience in I think 15 years, some of us managed to build a working RFID shield for their [Arduinos](http://arduino.cc). Lots of unpredictable behaviour ( [tweet](http://twitter.com/alper/status/1806211435)) though [^2].)). Where is that post-mortem debugger with hot code replace for your hardware setup?
+
+[^1]:  [At the SF MOMA](http://www.sfmoma.org/exhibitions/384) from July 11th until November 29th.
+[^2]: Mine still doesn't work reliably which we attribute to the weak USB power supply coming from my Macbook ( [tweet](http://twitter.com/alper/status/1806369202

@@ -12,7 +12,7 @@ aliases:
 ---
 Today I got a tour of the [Käthe Kollwitz museum](http://www.kaethe-kollwitz.de/) in Berlin. I had wanted to visit this museum for a while but this proved the concrete reason to finally go (though [the café next door](https://foursquare.com/v/caf%C3%A9-restaurant-wintergarten/4adcda78f964a5205c4621e3) makes some mean pancakes if you find yourself in the area).
 
-I was recently attended to her existence by MacGregor's series on German history ( [episode](http://www.bbc.co.uk/programmes/b04k6t0s)). I now believe that she is one of the most important German artists of the past couple of centuries. If there are any other significant candidates, I would like to hear about them ((I discount Caspar David Friedrich because he was a painter of landscapes.)).
+I was recently attended to her existence by MacGregor's series on German history ( [episode](http://www.bbc.co.uk/programmes/b04k6t0s)). I now believe that she is one of the most important German artists of the past couple of centuries. If there are any other significant candidates, I would like to hear about them [^1].
 
 What makes her stand out as an artist are:
 
@@ -23,3 +23,5 @@ What makes her stand out as an artist are:
 Our tour guide didn't make the connection but I find it more than fitting that on May 1st we would be looking at for instance the Weavers cycle (one of which I have pasted below).
 
 [![Kollwitz_Riot_Best](Kollwitz_Riot_Best.jpg)](/dingen/2016/05/kathe-kollwitz-museum-berlin/kollwitz_riot_best/)
+
+[^1]: I discount Caspar David Friedrich because he was a painter of landscapes.

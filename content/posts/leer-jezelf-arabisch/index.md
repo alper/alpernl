@@ -17,9 +17,14 @@ De taal ziet er voor de rest redelijk makkelijk uit. Het aantal leenwoorden uit 
 
 Dingen die wel lastig zijn:
 
-- Woorden worden geschreven zonder veel klinkers. Daarom moet je al veel herkenning hebben wil je een tekst vlot kunnen lezen ((Achteruit lezen went snel.)). De medeklinkers staan genoteerd en je moet dan zelf de meest logische klinkers invullen.
+- Woorden worden geschreven zonder veel klinkers. Daarom moet je al veel herkenning hebben wil je een tekst vlot kunnen lezen [^1]. De medeklinkers staan genoteerd en je moet dan zelf de meest logische klinkers invullen.
 - Arabisch schrijven op een computer kreeg ik voor dit bericht niet even snel uit mijn mouw geschud. De ligaturen zijn voor computers niet goed te tekenen. Verder is het lastig om de juiste vorm van elke letter te krijgen wanneer je die wil. Er zijn vast handige manieren om Arabisch te schrijven maar ik ken ze nog niet.
 - Het arabische schrift is al een soort van handschrift wat ik nu leer in een bepaald lettertype. Het duurt even voor je doorhebt waar de ene letter begint en de volgende ophoudt. De minimaal onderscheidende eigenschappen per letter zijn me al een beetje helder.
   Het loopt alleen een beetje in de soep als je teksten ziet in andere lettertypes, handgeschreven of gestileerd op drukwerk.
-- De uitspraak is niet echt te leren uit een boek. Veel klanken hebben equivalenten in het Engels of in andere talen ((Bijv. de harde Nederlandse ‘g&rsuo; uit het woord _negen_ werd als voorbeeld aangevoerd.)) maar er zijn er ook bij die specifiek arabisch zijn ((Letters zoals de **:ayn** en de **hamza**.)).
-  Wikipedia biedt [een beetje uitkomst](http://en.wikipedia.org/wiki/Arabic_phonology) (( [Voiced pharyngeal fricative](http://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative) iemand?)) maar ik moet maar een arabier regelen om dingen een keer voor me uit te spreken.
+- De uitspraak is niet echt te leren uit een boek. Veel klanken hebben equivalenten in het Engels of in andere talen [^2] maar er zijn er ook bij die specifiek arabisch zijn [^3].
+  Wikipedia biedt [een beetje uitkomst](http://en.wikipedia.org/wiki/Arabic_phonology) [^4] maar ik moet maar een arabier regelen om dingen een keer voor me uit te spreken.
+
+[^1]: Achteruit lezen went snel.
+[^2]: Bijv. de harde Nederlandse ‘g&rsuo; uit het woord _negen_ werd als voorbeeld aangevoerd.
+[^3]: Letters zoals de **:ayn** en de **hamza**.
+[^4]:  [Voiced pharyngeal fricative](http://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative) iemand?

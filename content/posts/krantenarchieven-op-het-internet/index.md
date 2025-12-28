@@ -15,7 +15,7 @@ aliases:
   - /dingen/2009/10/krantenarchieven-op-het-internet/
 
 ---
-Ik weet niet of kranten te redden zijn door middel van techniek, maar ik denk wel dat het een poging waard is. Dit was ook de teneur van de sessie [“Get Me Rewrite! Developing APIs and the Changing Face of News”](http://2009.sxsw.com/node/1577) ( [podcast](http://audio.sxsw.com/2009/podcasts/D3%20SXSW_PODCASTS/031509_PM2_APIsAndChangingFaceOfNews.mp3) nu beschikbaar) op SxSW dit jaar waar ik bij was. In die sessie gaven ontwikkelaars van de [New York Times](http://www.nytimes.com/), [NPR](http://www.npr.org/) en [the Guardian](http://www.guardian.co.uk) voorbeelden van en hun visie op het belang van een solide internet-infrastructuur voor nieuws producerende bedrijven ((Ik heb nog een grote post liggen naar aanleiding van dat panel over het belang van een beheersbare en strategische IT-infrastructuur voor kranten die ik één dezer dagen af wil schrijven.)).
+Ik weet niet of kranten te redden zijn door middel van techniek, maar ik denk wel dat het een poging waard is. Dit was ook de teneur van de sessie [“Get Me Rewrite! Developing APIs and the Changing Face of News”](http://2009.sxsw.com/node/1577) ( [podcast](http://audio.sxsw.com/2009/podcasts/D3%20SXSW_PODCASTS/031509_PM2_APIsAndChangingFaceOfNews.mp3) nu beschikbaar) op SxSW dit jaar waar ik bij was. In die sessie gaven ontwikkelaars van de [New York Times](http://www.nytimes.com/), [NPR](http://www.npr.org/) en [the Guardian](http://www.guardian.co.uk) voorbeelden van en hun visie op het belang van een solide internet-infrastructuur voor nieuws producerende bedrijven [^1].
 
 Als last minute invaller in dat panel presenteerde [Simon Willison](http://simonwillison.net/) de [Content API](http://api.guardianapis.com/docs) van [the Guardian](http://www.guardian.co.uk) (onderdeel van het [Guardian Open Platform](http://www.guardian.co.uk/open-platform)) die hij recent had gebouwd waarmee het gehele digitale archief (vanaf 1999) op te vragen en te hergebruiken is. De API geeft toegang tot de inhoud van de artikelen en maakt het mogelijk om te filteren op de tekst, data, de bestaande taxonomie van the Guardian en andere zoekcriteria.
 
@@ -44,3 +44,5 @@ Ik geloof niet dat kranten offline hun advertenties uitbesteden aan een derde pa
 Het is de vraag of the Guardian op deze manier de kosten van hun API en hun nieuws eruit zullen halen maar ze hebben een grote berg relevante content en ze proberen dingen. Daar heb ik respect voor.
 
 _(Dit bericht is een antwoord op een vraag van [Paul Vereijken](http://twitter.com/paulvereijken).)_
+
+[^1]: Ik heb nog een grote post liggen naar aanleiding van dat panel over het belang van een beheersbare en strategische IT-infrastructuur voor kranten die ik één dezer dagen af wil schrijven.

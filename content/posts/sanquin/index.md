@@ -15,6 +15,8 @@ Verbazingwekkend snel en pijnloos:
 
 Dat balletje is om in te knijpen als de afname te langzaam gaat. Dan kun je dus bloed helpen eruit te pompen. Maar als je nogal ongeduldig en competitief bent ingesteld en je krijgt zo'n balletje in je handen gedrukt, ga je natuurlijk direct knijpen. Wedstrijdje wie het eerste een pint bloed eruit perst?
 
-Over 10 weken weer. Nu nog de Sanquin Foursquare Badge ((Of eigenlijk zou het al fijn zijn als foursquare het vandaag weer eens deed.)).
+Over 10 weken weer. Nu nog de Sanquin Foursquare Badge [^1].
 
 [Doe hier de test](http://www.sanquin.nl/Sanquin-nl/sqn_donorstart_nl.nsf/All/Mag-Ik-Bloed-Geven-.html) of je ook bloed mag geven.
+
+[^1]: Of eigenlijk zou het al fijn zijn als foursquare het vandaag weer eens deed.

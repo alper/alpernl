@@ -19,8 +19,10 @@ Rule fucking (the Dutch ‘regelneuken’), protectionism and arcane laws still 
 
 But mostly we're ok. And there lies the exact problem. If indeed the current positive climate preempts further reforms, that will be institutionally stupid.
 
-I was mostly going to blow this off until last week upon returning from Spain I got a letter from the Finanzamt asking me why exactly I needed a Umsatzsteuer-Identifikationsnummer (USt-IdNr.). I had submitted a form for my personal incorporation here in Germany and checked the box that said ‘I need a USt-IdNr. for doing business within the European Union’ ((In the Netherlands the corporate tax number is the same as your BTW/VAT number.)).
+I was mostly going to blow this off until last week upon returning from Spain I got a letter from the Finanzamt asking me why exactly I needed a Umsatzsteuer-Identifikationsnummer (USt-IdNr.). I had submitted a form for my personal incorporation here in Germany and checked the box that said ‘I need a USt-IdNr. for doing business within the European Union’ [^1].
 
 Then, as if the fact that I checked that box would not be enough reason by itself, as if there is a scarcity of natural numbers (℅) in the German administration, as if both the people working at the Finanzamt as myself have nothing better to do than spend time on these minutiae I had to get in touch again to confirm that ‘Yes, I really want and need that number.’
 
 This is shameful and if the German administration manages to complicate even the simplest of interactions, I don't want to know what they do to the rest.
+
+[^1]: In the Netherlands the corporate tax number is the same as your BTW/VAT number.

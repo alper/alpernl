@@ -20,7 +20,7 @@ Zoals [ik al zei](http://twitter.com/alper/statuses/2400943634), ging ik in tege
 
 Mijn argumentatie betreft twee stellingen en ik hoop niet dat die zo vaag was als [Don schrijft](http://doncrowley.blogspot.com/2009/07/barcamp-webrichtlijnen-web-20-lowdown.html):
 
-1. De webrichtlijnen die het beste (automatisch) te meten zijn, zijn niet de belangrijkste. Mensen zijn geneigd om zich blind te staren op wat makkelijk meetbaar is en verliezen uit het oog waar het echt om gaat ((Waarom deden we dit ook alweer?)).
+1. De webrichtlijnen die het beste (automatisch) te meten zijn, zijn niet de belangrijkste. Mensen zijn geneigd om zich blind te staren op wat makkelijk meetbaar is en verliezen uit het oog waar het echt om gaat [^1].
 1. We hebben meer dan genoeg te doen om de user experience op het internet te verbeteren zonder ons per se te conformeren aan elke webrichtlijn. Het maken van een standaarden-gebaseerde website is niet het moeilijkste. Moeilijker is het om een site te maken met mooi design, heldere tekst en goed interactieontwerp waar mensen op zitten te wachten.
 
 Die twee punten zijn terug te vinden in mijn presentatie (op Slideshare kun je de notities uit de Keynote teruglezen):
@@ -59,3 +59,5 @@ Het toeval wil dat twee dagen later [de W3 aankondigde](http://www.w3.org/News/2
 Mark Pilgrim heeft een [goed overzicht van de issues](http://diveintomark.org/archives/2003/08/29/semantics) en legt weer uit waarom validerende XHTML niet het belangrijkste is, zoek maar op ‘snake oil’ in de tekst voor de misverstanden. Een kort stukje [vraag en antwoord](http://hsivonen.iki.fi/xhtml2-html5-q-and-a/) over XHTML vs. HTML en [wat](http://simonwillison.net/2009/Jul/4/alan/) [discussie](http://simonwillison.net/2009/Jul/6/xhtml/) bij Simon Willison over het onderwerp.
 
 Webpagina's zullen nog steeds blijven werken, maar het is zonde dat we op dit moment een industrienorm hebben waar XHTML standaard maar achterhaald is. Standaard is goed, nu nog even zien hoe we dat achterhaalde op kunnen lossen.
+
+[^1]: Waarom deden we dit ook alweer?

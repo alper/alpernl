@@ -11,9 +11,9 @@ aliases:
   - /dingen/2010/01/foursquare-spelen-op-de-radio/
 
 ---
-Afgelopen donderdag werd ik samen met [de manager](http://twitter.com/hermn) van [Dwaze Zaken](http://foursquare.com/venue/55186) en [de burgermeester](http://twitter.com/pfountain) [geïnterviewd](http://nos.nl/audio/128301-foursquare-koppelt-internet-aan-het-echte-leven.html) ( [Radio 1 link](http://www.radio1.nl/contents/11769-nieuw-soort-spel-voor-mobiele-telefoon-wordt-populair) ((Ik wacht nog tot ze mijn naam goed schrijven op de site.))) voor [Radio1](http://www.radio1.nl/) over [Foursquare](http://foursquare.com). Foursquare het mobiele spel, vrienden-vinder en sociale gids die we afgelopen jaar naar Amsterdam hebben gehaald en dat nu ook [overal speelbaar](http://foursquare.tumblr.com/post/323823770/foursquare-everywhere) is.
+Afgelopen donderdag werd ik samen met [de manager](http://twitter.com/hermn) van [Dwaze Zaken](http://foursquare.com/venue/55186) en [de burgermeester](http://twitter.com/pfountain) [geïnterviewd](http://nos.nl/audio/128301-foursquare-koppelt-internet-aan-het-echte-leven.html) ( [Radio 1 link](http://www.radio1.nl/contents/11769-nieuw-soort-spel-voor-mobiele-telefoon-wordt-populair) [^1]) voor [Radio1](http://www.radio1.nl/) over [Foursquare](http://foursquare.com). Foursquare het mobiele spel, vrienden-vinder en sociale gids die we afgelopen jaar naar Amsterdam hebben gehaald en dat nu ook [overal speelbaar](http://foursquare.tumblr.com/post/323823770/foursquare-everywhere) is.
 
-Leuk om het terug te horen van vrienden. Ik wist zelf niet wanneer het uitgezonden zou worden ((En er luisteren dus best wel wat mensen naar aan de reacties af te lezen.)). Ik had wel een uur over toepassingen van internet in horeca en locatie gebaseerde diensten en spellen kunnen praten denk ik, maar als je maar een minuutje hebt dan sneuvelen er nogal wat leuke dingen bij de montage.
+Leuk om het terug te horen van vrienden. Ik wist zelf niet wanneer het uitgezonden zou worden [^2]. Ik had wel een uur over toepassingen van internet in horeca en locatie gebaseerde diensten en spellen kunnen praten denk ik, maar als je maar een minuutje hebt dan sneuvelen er nogal wat leuke dingen bij de montage.
 
 Hier nog even het belang van mobiele spellen. Dit soort mobiele toepassingen en spellen werkt om drie redenen (die elkaar versterken):
 
@@ -24,3 +24,6 @@ Hier nog even het belang van mobiele spellen. Dit soort mobiele toepassingen en 
   Hierdoor is alles ook toegankelijk als je niet thuis achter de computer zit. Dat is makkelijker dan je hardloop rondje op te moeten schrijven en het achteraf thuis te moeten invoeren of veel te laat horen dat iemand in een bepaald café was. Maar belangrijker nog, het koppelt een fysieke context aan een digitale interactie waardoor het geheel beter blijft hangen bij de gebruiker.
 
 Dat past niet in twee minuten radio.
+
+[^1]: Ik wacht nog tot ze mijn naam goed schrijven op de site.
+[^2]: En er luisteren dus best wel wat mensen naar aan de reacties af te lezen.

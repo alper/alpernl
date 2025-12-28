@@ -24,6 +24,8 @@ On Thursday I managed to set aside a bit of time to go to the local multiplayer 
 It was also nice to see lots of old friends who I manage to see a couple of times a year. My highlight of Amaze was to be able to play Samurai Gunn. This game isn't available yet and the video I'm going to post below does not nearly do it justice. It is one of the most gripping multiplayer combat games I've played to date.
 {{< youtube id="-IJZ3TSjuaE" >}}
 
-On Friday I had breakfast at the Sheperditchi ((I'll explain later what this exactly means.)) and then on Saturday it was off to Paris for [CHI](http://chi2013.acm.org/) for the [designing gamification](http://gamification-research.org/chi2013/) workshop run by [Sebastian Deterding](http://codingconduct.cc/).
+On Friday I had breakfast at the Sheperditchi [^1] and then on Saturday it was off to Paris for [CHI](http://chi2013.acm.org/) for the [designing gamification](http://gamification-research.org/chi2013/) workshop run by [Sebastian Deterding](http://codingconduct.cc/).
 
 [![Sebastian Deterding wrangling the post-its](http://farm8.staticflickr.com/7055/8687522233_17f017c945_z.jpg)](http://www.flickr.com/photos/alper/8687522233/ "Sebastian Deterding wrangling the post-its by illustir, on Flickr")
+
+[^1]: I'll explain later what this exactly means.

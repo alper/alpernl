@@ -15,6 +15,8 @@ In Seoul hebben ze deze weergave draaien van buslijnen en wanneer ze bij de halt
 
 Ik wil dit heel graag hebben/bouwen.
 
-Het is niet zo moeilijk om vergelijkbare dingen te maken in Nederland ((De meeste componenten bestaan en draaien al.)), alleen gebrek aan: budget, handelingssnelheid en visie. Allemaal vloeibare subjectieve gebreken; dingen waar een mouw aan te passen is als men maar wil.
+Het is niet zo moeilijk om vergelijkbare dingen te maken in Nederland [^1], alleen gebrek aan: budget, handelingssnelheid en visie. Allemaal vloeibare subjectieve gebreken; dingen waar een mouw aan te passen is als men maar wil.
 
 foto: [Creative Commons Attribution, Noncommercial, Share Alike Licentie](http://creativecommons.org/licenses/by-nc-sa/2.0/) door [Adam Greenfield](http://speedbird.wordpress.com/).
+
+[^1]: De meeste componenten bestaan en draaien al.

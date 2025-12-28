@@ -43,7 +43,7 @@ I feel like I have to remark on two things that I thought of during the conferen
 
 The entire day was infused with a critical stance against open data and transparency within government. Usman Haque served the opening volley with a criticism of indiscriminate data transparency and an approach to further civic engagement by giving people the tools to collect data themselves. After that Dan Hill also added some criticism against traditional methods of social change.
 
-I agree with their points and criticisms and I would have liked to address them but that was impossible in the time given to me to present our case. I would like to say that if anybody in the Netherlands has been deeply involved on all levels in the government transparency movement and is acutely aware of the problems, issues and realities of data transparency, it is probably us ((For a primer on the issue, read danah boyd's “Six Provocations for Big Data”.)). Besides that we have employed most of the techniques Dan Hill presented during the last couple of years: shaping decision making processes, deploying long lasting interventions and using the sleights of hand required to realign large organizations and work with far too many people.
+I agree with their points and criticisms and I would have liked to address them but that was impossible in the time given to me to present our case. I would like to say that if anybody in the Netherlands has been deeply involved on all levels in the government transparency movement and is acutely aware of the problems, issues and realities of data transparency, it is probably us [^1]. Besides that we have employed most of the techniques Dan Hill presented during the last couple of years: shaping decision making processes, deploying long lasting interventions and using the sleights of hand required to realign large organizations and work with far too many people.
 
 We have been and will be hard liners for the cause of government transparency out of necessity and conviction. I will always defend that data that has already been collected by government and carries no issues of privacy or national security with it, belongs to the public and should be accessible by the public.
 
@@ -62,3 +62,5 @@ After Social Cities of Tomorrow we had a party at our offices in the [Open Coop]
 [![And then there was this band playing in the office. #nofilter](http://farm8.staticflickr.com/7197/6893419253_3803f855df.jpg)](http://www.flickr.com/photos/alper/6893419253/ "And then there was this band playing in the office. #nofilter by illustir, on Flickr")
 
 And now it is Sunday while I am typing these notes and because of a lack of gourmet coffee, it is off to the [Hubbub](http://hbbb.nl) studio in Utrecht to be the murder board for Kars's [LIFT](http://liftconference.com/) presentation.
+
+[^1]: For a primer on the issue, read danah boyd's “Six Provocations for Big Data”.

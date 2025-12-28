@@ -19,7 +19,7 @@ The French report has been received with predictable knee-jerk responses across 
 
 The companies that create the internet should not cry foul. They have a track record of evading taxes more than contributing their fair share back to society.
 
-I'll tackle Lanier's position in another post. I just watched the [conversation he had with James Bridle in Conway Hall](https://vimeo.com/61418990) and noticed some errors in Lanier's ideas: they require a fully functional semantic web, they seem overly informed by private copyright practice and complementarily they take a weak government for granted ((Most of the problems he states do not exist in a social democracy. Social democracies will face a similar set of problems in the near future, but musicians who can't pay their medical bills are not one of them.)).
+I'll tackle Lanier's position in another post. I just watched the [conversation he had with James Bridle in Conway Hall](https://vimeo.com/61418990) and noticed some errors in Lanier's ideas: they require a fully functional semantic web, they seem overly informed by private copyright practice and complementarily they take a weak government for granted [^1].
 
 How you would enforce such a law is another question entirely, but it cannot go further off the mark than how large companies manage to evade taxes right now. It may in fact be a lot fairer to tax data at the point of collection/use.
 
@@ -30,3 +30,5 @@ If you don't bother to read the article above, I can sum it up in two key points
 **Data is capital** and should be taxed as all capital is. Storage, mining and arbitrage using data can generate revenue for sophisticated market actors (those that Lanier terms as those with ‘the biggest computer on the network’). Data is a value adding asset that generates wealth and more data for those who already have it. If we don't want a situation where a small group of people get richer at the expense of everybody else, we should tax it.
 
 So data is both capital and hazardous. We tax many things with either of those properties so we should definitely tax something that has both.
+
+[^1]: Most of the problems he states do not exist in a social democracy. Social democracies will face a similar set of problems in the near future, but musicians who can't pay their medical bills are not one of them.

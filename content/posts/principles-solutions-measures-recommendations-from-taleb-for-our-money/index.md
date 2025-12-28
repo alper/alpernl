@@ -16,7 +16,7 @@ Keeping money safe is not rocket science and can be done perfectly on a local (c
 
 For the discussion I was looking for Nassim Nicholas Taleb's recommendations for not getting out of this crisis, but making sure it never happens again. I had a hard time finding them with Google, but they're in [a PDF](http://www.fooledbyrandomness.com/tenprinciples.pdf) on Taleb's site [Fooled by Randomness](http://www.fooledbyrandomness.com/).
 
-I don't think we can read these principles often enough (at least until they are implemented by our legislators), that is why I have taken the liberty to copy out the headlines here from the PDF ((PDF is bad.)):
+I don't think we can read these principles often enough (at least until they are implemented by our legislators), that is why I have taken the liberty to copy out the headlines here from the PDF [^1]:
 
 1. **What is fragile should break early while it is still small.**
 1. **No socialisation of losses and privatisation of gains.**
@@ -30,3 +30,5 @@ I don't think we can read these principles often enough (at least until they are
 1. **Make an omelette with the broken eggs.**
 
 These are only the headlines. Be sure to read [the full recommendations in the PDF](http://www.fooledbyrandomness.com/tenprinciples.pdf).
+
+[^1]: PDF is bad.
