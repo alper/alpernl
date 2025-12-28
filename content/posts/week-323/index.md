@@ -4,6 +4,7 @@ categories:
   - berlin
   - english
   - open-state
+  - publicity
 date: "2013-06-10T08:01:00+00:00"
 title: Week 323
 aliases:

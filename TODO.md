@@ -98,7 +98,7 @@
 * [ ] Download statick.flickr images and put them into the bundles
 * [ ] Fix footnotes that are of the (()) format
 
-* [ ] More charset issues
+* [x] More charset issues
   * http://localhost:1313/blog/my-year-in-cities-2008/
   * http://localhost:1313/blog/jurriaan-van-stigt-arcam-lecture/
   * http://localhost:1313/blog/encounter-zone-maasenstrase/
