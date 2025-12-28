@@ -128,3 +128,9 @@
   1. /posts/playing-with-public-transportation-data/ → traveltimes.json (missing)
   2. /posts/dutch-public-broadcasting-goes-fake-news/ → ongelofelijke-mensenmassa.mp4 (missing, 2 references)
   3. /posts/fragment-tegengif-87-over-ozb/ → tegengif_ozb.mov (missing)
+
+
+## Manual Deployment
+
+* hugo --cleanDestinationDir --minify
+* rsync -avzP /Users/alpercugun/Documents/projects/wordpress/site/public/ vimex:/home/u88479p83432/domains/alper.nl/public_html
