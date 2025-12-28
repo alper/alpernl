@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - photography
-  - uncategorized
+  - surfing
 date: "2008-06-10T07:12:04+00:00"
 title: Surfing Summer
 aliases:

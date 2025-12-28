@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
+  - internet
+  - publicity
 date: "2007-10-24T12:34:59+00:00"
 title: Microblogging als manier van communicatie
 aliases:

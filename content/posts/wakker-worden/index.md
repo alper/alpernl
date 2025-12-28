@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
+  - berlin
+  - food
 date: "2008-01-20T06:54:51+00:00"
 title: Wakker worden
 aliases:

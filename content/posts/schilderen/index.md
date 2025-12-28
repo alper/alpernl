@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
+  - delft
 date: "2007-10-24T20:51:41+00:00"
 title: Schilderen
 aliases:

@@ -5,7 +5,7 @@ categories:
   - internet
   - photography
   - travel
-  - uncategorized
+  - copenhagen
 date: "2008-07-01T14:40:33+00:00"
 title: 10th Reboot - day 2 and on
 aliases:

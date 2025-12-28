@@ -1,7 +1,7 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - video
 date: "2007-12-26T17:30:07+00:00"
 title: 2008 Bioscoopjaar
 aliases:

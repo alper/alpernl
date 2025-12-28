@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
+  - delft
+  - travel
 date: "2007-07-05T14:38:22+00:00"
 title: Plannen van de zomer
 aliases:

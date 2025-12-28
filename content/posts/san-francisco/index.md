@@ -3,7 +3,7 @@ author: alper
 categories:
   - english
   - travel
-  - uncategorized
+  - san-francisco
 date: "2008-10-12T00:37:20+00:00"
 title: San Francisco
 aliases:

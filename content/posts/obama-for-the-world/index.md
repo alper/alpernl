@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
+  - politics
 date: "2008-11-06T19:24:54+00:00"
 title: Obama for the World
 aliases:

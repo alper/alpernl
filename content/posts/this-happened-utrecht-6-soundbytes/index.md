@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - utrecht
+  - english
+  - product-design
 date: "2010-05-13T15:59:33+00:00"
 title: 'This Happened Utrecht #6 Soundbytes'
 aliases:

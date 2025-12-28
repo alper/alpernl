@@ -1,7 +1,7 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
 date: "2007-04-28T14:08:52+00:00"
 title: Macbook ondersteuning in Den Haag
 aliases:

@@ -1,7 +1,7 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
 date: "2007-05-19T20:44:18+00:00"
 title: Nieuwe batterij
 aliases:

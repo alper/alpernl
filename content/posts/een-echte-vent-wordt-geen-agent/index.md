@@ -1,7 +1,7 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
 date: "2007-07-14T14:51:49+00:00"
 title: Een echte vent wordt geen agent
 aliases:

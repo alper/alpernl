@@ -2,7 +2,7 @@
 author: alper
 categories:
   - english
-  - uncategorized
+  - politics
 date: "2008-08-22T00:53:20+00:00"
 title: Some legitimate fear
 aliases:

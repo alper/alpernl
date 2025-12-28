@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - reading
+  - english
 date: "2011-01-05T18:21:39+00:00"
 title: Zero History excerpts
 aliases:

@@ -1,7 +1,7 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
 date: "2007-07-03T20:39:02+00:00"
 title: Digibewust maar beter voor de leverancier dan de afnemer
 aliases:

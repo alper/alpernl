@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - delft
+  - product-design
 date: "2007-06-27T20:25:30+00:00"
 title: A bag fitting for your life
 aliases:

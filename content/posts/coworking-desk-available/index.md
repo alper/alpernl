@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - english
+  - delft
+  - work
 date: "2008-10-03T16:59:17+00:00"
 title: Coworking Desk Available
 aliases:

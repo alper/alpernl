@@ -1,7 +1,11 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - english
+  - utrecht
+  - work
+  - amsterdam
+  - open-state
 date: "2011-01-24T15:18:07+00:00"
 title: Week 201
 aliases:

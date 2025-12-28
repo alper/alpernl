@@ -2,7 +2,8 @@
 author: alper
 categories:
   - internet
-  - uncategorized
+  - nederlands
+  - politics
 date: "2007-08-01T14:33:26+00:00"
 title: Marktfalen in de telecom
 aliases:

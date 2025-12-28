@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - video
+  - nederlands
 date: "2007-08-05T23:20:20+00:00"
 title: Extreem matige score
 aliases:

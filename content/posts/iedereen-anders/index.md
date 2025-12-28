@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - nederlands
+  - product-design
 date: "2007-12-16T13:24:46+00:00"
 title: Iedereen anders
 aliases:

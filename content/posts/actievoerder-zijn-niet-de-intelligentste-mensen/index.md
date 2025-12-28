@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - climate
+  - politics
+  - nederlands
 date: "2007-06-24T21:43:06+00:00"
 title: Actievoerders zijn niet de intelligentste mensen
 aliases:

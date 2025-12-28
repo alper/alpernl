@@ -1,7 +1,9 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - english
+  - video
+  - politics
 date: "2007-09-11T11:27:39+00:00"
 enclosure: |-
   http://hbpub.vo.llnwd.net/o16/video/olmk/klein/shockdoctrine640x480.wmv

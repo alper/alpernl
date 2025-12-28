@@ -1,7 +1,8 @@
 ---
 author: alper
 categories:
-  - uncategorized
+  - berlin
+  - nederlands
 date: "2007-10-30T21:04:13+00:00"
 title: Verhuizen en verkassen
 aliases:
