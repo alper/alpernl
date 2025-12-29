@@ -133,4 +133,8 @@
 ## Manual Deployment
 
 * hugo --cleanDestinationDir --minify
-* rsync -avzP /Users/alpercugun/Documents/projects/wordpress/site/public/ vimex:/home/u88479p83432/domains/alper.nl/public_html
+* rsync -avzP /Users/alpercugun/Documents/projects/wordpress/site/public/ vimexx:/home/u88479p83432/domains/alper.nl/public_html
+
+## Write a post
+
+* hugo new content/posts/18730/index.md
