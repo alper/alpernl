@@ -12,4 +12,4 @@ aliases:
 ---
 I used to know Wytze and the foresight and innovation that he put into the Urban Arrow back in the day (2010) which is still going strong is nothing short of mind-boggling.
 
-https://www.youtube.com/watch?time\_continue=240&v=pye09heBqfY&feature=emb\_logo
+https://www.youtube.com/watch?time_continue=240&v=pye09heBqfY
