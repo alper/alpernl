@@ -5,6 +5,7 @@ categories:
 date: "2025-11-28T15:11:44+00:00"
 draft: true
 title: Iseji - Day 4 - Owase to Atashika
+series: ["Iseji"]
 aliases:
   - /dingen/
 

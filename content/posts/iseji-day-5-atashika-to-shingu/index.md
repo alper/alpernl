@@ -6,6 +6,7 @@ categories:
   - travel
 date: "2025-11-29T11:14:02+00:00"
 draft: "true"
+series: ["Iseji"]
 title: Iseji - Day 5 - Atashika to Shingu
 aliases:
   - /dingen/
