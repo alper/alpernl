@@ -4,6 +4,7 @@ date: "2018-12-21T02:12:34+00:00"
 title: Biography
 aliases:
   - /dingen/alper-cugun-biography/
+  - /dingen/about/
 
 ---
 [![Alper Cugun Portrait Februar 2015](150207_ALPER_CUGUN_PORTRAIT_SOJKA_007.jpg)](/dingen/about/alper-cugun-portrait-februar-2015/)

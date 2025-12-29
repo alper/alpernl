@@ -119,9 +119,11 @@
 * [ ] Create impressum page?
 * [ ] Get rid of comments
 * [ ] Delete CloudFlare pages project
-* [ ] Use Netlify static files hosting?
+* [ ] Use [Netlify](https://docs.netlify.com/manage/domains/get-started-with-domains/#domain-setup-options) static files hosting?
 * [ ] Clean up config
 
+* [x] Archive old blog to dingen.alper.nl
+* [x] [Change URL setting of old blog in the database](https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database?utm_campaign=Generic-Tutorials-DSA-t1%7CNT:Se%7CLang:EN%7CLO:DE&utm_medium=ppc&gad_source=1&gad_campaignid=16184995375&gbraid=0AAAAADMy-hZkuW3COPeD_MOdnnSqsweXh&gclid=Cj0KCQiA6sjKBhCSARIsAJvYcpPJVfBHlD_bfkvswdtf_qCu02iEIqUdzZapPPCCuaKS--0129YUEzEaAgKNEALw_wcB)
 
 * [ ] Fix mp3s and other assets that didn't make it over
   Broken links (files don't exist):
