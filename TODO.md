@@ -118,7 +118,9 @@
 * [ ] Redirect RSS of old blog to new RSS location
 * [ ] Create impressum page?
 * [ ] Get rid of comments
-
+* [ ] Delete CloudFlare pages project
+* [ ] Use Netlify static files hosting?
+* [ ] Clean up config
 
 
 * [ ] Fix mp3s and other assets that didn't make it over
