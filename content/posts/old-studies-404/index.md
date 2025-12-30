@@ -4,6 +4,8 @@ date: 2006-03-21T23:14:00
 author: alper
 categories:
   - english
+  - reading
+  - delft
 ---
 
 I have a big list of light reading, idea-heavy non-fiction which sort of fits in with my Masters project and with today's payday I thought I would splash out on a bit.
@@ -15,11 +17,8 @@ You might recall the Scoble Israel clip from [a recent Rocketboom episode](http:
 I also had a gift certificate from Bol.com lying around so the splashing out did not really have that much financial consequences. What I did get:
 
 - Seth Godin — [“Permission Marketing”](http://www.sethgodin.com/permission/)
-
 - Malcolm Gladwell — [“The Tipping Point”](http://www.gladwell.com/tippingpoint/index.html)
-
 - Paul Arden — It's not how good you are, it's how good you want to be
-
 - Jonathan Safran Foer — [“Everything is Illuminated”](http://www.jonathansafranfoerbooks.com/about.html)
 
 I'm especially looking forward to the Gladwell book.

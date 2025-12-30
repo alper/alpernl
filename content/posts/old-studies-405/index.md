@@ -4,6 +4,8 @@ date: 2006-03-21T23:26:00
 author: alper
 categories:
   - english
+  - internet
+  - amsterdam
 ---
 
 I'm attending the [Magnus ‘Power to the People’ seminar](http://www.magnus.nl/msite/Nieuws/Power+to+the+people+seminar+op+23+maart.htm) this Thursday in Amsterdam. The theme of this seminar fits in perfectly with my Masters project and I thought it would be good to get out and meet some new people, exchange some ideas.

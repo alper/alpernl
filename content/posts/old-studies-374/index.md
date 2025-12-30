@@ -4,6 +4,7 @@ date: 2005-09-29T23:47:00
 author: alper
 categories:
   - english
+  - philosophy
 ---
 
 So finally this feels like real work. I read one of the papers I had copied from the proceedings of the [Conference of Computer Ethics](http://cepe2005.utwente.nl/) by Introna called:

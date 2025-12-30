@@ -4,6 +4,8 @@ date: 2005-11-30T14:17:00
 author: alper
 categories:
   - english
+  - reading
+  - internet
 ---
 
 Read two more papers on the subject.

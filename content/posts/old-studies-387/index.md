@@ -4,6 +4,7 @@ date: 2005-11-21T16:24:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I am thinking of doing something with the Web 2.0 angle and how it connects to the ‘new’ communities that are emerging online.

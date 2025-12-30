@@ -4,6 +4,8 @@ date: 2006-01-31T18:12:00
 author: alper
 categories:
   - english
+  - reading
+  - delft
 ---
 
 The literature study part of my graduation has taken long enough both schedule wise and with regards to the effort invested. I have a next milestone deadline this week on the report and I am not planning to spend much more time on it after that.

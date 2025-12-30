@@ -4,6 +4,8 @@ date: 2005-10-16T01:34:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 A former teacher of mine, [Ruben van Wendel de Joode](http://www.tbm.tudelft.nl/webstaf/rubenw/), was writing a Ph.D. thesis on the organizational structure of [FLOSS](http://en.wikipedia.org/wiki/FLOSS) communities.

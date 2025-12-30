@@ -4,6 +4,8 @@ date: 2005-09-22T02:07:00
 author: alper
 categories:
   - english
+  - language
+  - delft
 ---
 
 I'm spending a lot of my time lately speaking English with people who are for a large part not able to. This is for a large part due to the fact that English has been chosen as our academic *lingua franca*. All Master programmes at Delft, University of Technology are taught in English.

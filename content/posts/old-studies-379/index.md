@@ -4,6 +4,7 @@ date: 2005-11-01T17:28:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 I have an [updated course list](http://www.alper.nl/studie0506.html) online for this final year of mine doing courses at our fine university.

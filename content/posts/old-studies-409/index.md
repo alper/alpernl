@@ -4,6 +4,8 @@ date: 2006-05-19T14:55:00
 author: alper
 categories:
   - english
+  - reading
+  - delft
 ---
 
 Not much happening on this blog. I might have to reconsider its future.

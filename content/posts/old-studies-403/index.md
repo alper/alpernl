@@ -4,6 +4,7 @@ date: 2006-03-15T19:03:00
 author: alper
 categories:
   - english
+  - reading
 ---
 
 [Garr diggs up pretty good stuff](http://presentationzen.blogs.com/presentationzen/2006/03/no_excuse_for_t.html) in a very cool essay spectacularly titled: “Let there be stoning!” The following excerpt is a gem:

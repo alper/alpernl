@@ -4,6 +4,7 @@ date: 2006-03-09T01:23:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 I've kind of started my Masters project at [TOPdesk](http://www.topdesk.nl) implementing social sofware for them and the meme is spreading around the office.

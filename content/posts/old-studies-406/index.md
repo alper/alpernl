@@ -4,6 +4,7 @@ date: 2006-03-24T09:43:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 I made a presentation to evangelize my project to my colleagues at TOPdesk and I just put it online.

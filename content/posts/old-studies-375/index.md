@@ -4,6 +4,7 @@ date: 2005-10-11T19:52:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 To finalize the topic of my Masters Thesis, I planned a meeting with my two sponsors. These are the people that will be in the commission judging the work I have done.

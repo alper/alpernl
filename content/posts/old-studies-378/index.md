@@ -4,6 +4,7 @@ date: 2005-11-01T17:25:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 I finally have another appointment with my Masters coordinators. Planning an appointment with three people two of which are extremely busy is not an easy feat.

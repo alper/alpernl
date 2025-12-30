@@ -4,6 +4,8 @@ date: 2005-11-09T13:37:00
 author: alper
 categories:
   - english
+  - delft
+  - internet
 ---
 
 I just had a meeting with two Australian researchers who were visiting my teacher Jeroen van den Hoven.

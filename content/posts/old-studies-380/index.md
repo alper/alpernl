@@ -4,6 +4,8 @@ date: 2005-11-04T12:32:00
 author: alper
 categories:
   - english
+  - internet
+  - politics
 ---
 
 I attended an interesting symposium in the [Museum for Communication](http://www.muscom.nl/) in the Hague this afternoon. It was called ['Fill the Gap: towards an inclusive information society'](http://www.wsis.nl/) and was to be about the upcoming [World Summit on the Information Society](http://www.itu.int/wsis/) (WSIS) in Tunis about the Information Society and how ICT affects developing countries.

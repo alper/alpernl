@@ -4,6 +4,8 @@ date: 2006-02-17T10:32:00
 author: alper
 categories:
   - english
+  - reading
+  - delft
 ---
 
 I was writing my [literature report in Wikitext](http://alper.nl/wiki/index.php/Literature_Report) and that was working fine up until a point. My teacher had already complained that the resulting print version was not as readable as could be. I do agree with him and I would not want him to be distracted with such trivialities so I went looking for a solution.

@@ -4,6 +4,8 @@ date: 2005-09-25T03:25:00
 author: alper
 categories:
   - english
+  - philosophy
+  - internet
 ---
 
 In our gathering about identities, ethics and philosophy some interesting points were discussed.

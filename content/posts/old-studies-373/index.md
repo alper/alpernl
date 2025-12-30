@@ -4,6 +4,9 @@ date: 2005-09-29T22:26:00
 author: alper
 categories:
   - english
+  - product-design
+  - philosophy
+  - amsterdam
 ---
 
 I [wrote about](/blog/study/372) the lecture by [John Thackara](/wiki/index.php/Literature_List#Thackara.2C_John) I was going to attend. I went there and it was pretty interesting. My impressions:
@@ -40,4 +43,4 @@ He did not get through all of the principles due to a lack of time but as far as
 
 Most of the examples came down to employ even more technology but desiging more humane and more ecologically sound systems with them.
 
-So out with the big inflexibel, inhuman system that nobody understands and wants and bring in the new systems which empower people to do the stuff they want. Sounds pretty good to me.
+So out with the big inflexible, inhuman system that nobody understands and wants and bring in the new systems which empower people to do the stuff they want. Sounds pretty good to me.

@@ -4,6 +4,7 @@ date: 2006-02-02T17:32:00
 author: alper
 categories:
   - english
+  - philosophy
 ---
 
 You've got to love [John Stuart Mill](http://en.wikipedia.org/wiki/John_Stuart_Mill):

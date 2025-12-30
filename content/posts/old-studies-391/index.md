@@ -4,6 +4,8 @@ date: 2005-11-30T14:23:00
 author: alper
 categories:
   - english
+  - reading
+  - delft
 ---
 
 A good part of my reading [consists of books](http://alper.nl/wiki/index.php/Acquiring_Books) which I would like to buy but I am slightly pressed for money. In cases such as this the archaic institution of the library comes to the rescue.

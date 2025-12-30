@@ -4,6 +4,9 @@ date: 2005-12-29T23:51:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - delft
+  - language
 ---
 
 Joel can be a bit obnoxious from time to time, but he is also right more often than not. The two tend to go hand in hand.

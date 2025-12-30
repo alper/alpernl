@@ -4,6 +4,8 @@ date: 2005-11-07T16:21:00
 author: alper
 categories:
   - english
+  - games
+  - video
 ---
 
 Interesting [article on Wired](http://www.wired.com/news/games/0,2101,69475,00.html?tw=rss.TOP) about if video games can provoke emotions in players beyond simple victory and frustration. To see if people get carried away so totally into a game that they make personal connections with a character.

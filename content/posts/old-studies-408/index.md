@@ -4,6 +4,7 @@ date: 2006-04-25T14:35:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 [Podshaala](http://podshaala.blogspot.com/) from Barcamp Bangalore: When will every course be podcast right after the fact?

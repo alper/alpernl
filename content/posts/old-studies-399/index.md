@@ -4,6 +4,8 @@ date: 2006-01-31T18:53:00
 author: alper
 categories:
   - english
+  - reading
+  - internet
 ---
 
 [Lori Kendall — Hanging out in the Virtual Pub](http://www.ucpress.edu/books/pages/9474.html)

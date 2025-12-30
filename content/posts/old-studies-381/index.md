@@ -4,6 +4,7 @@ date: 2005-11-07T15:50:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 At last we managed to have ourselves [the meeting](/blog/study/378) with both of my sponsors to determine the course of action for my Masters.

@@ -4,6 +4,9 @@ date: 2005-11-28T00:17:00
 author: alper
 categories:
   - english
+  - internet
+  - delft
+  - software-engineering
 ---
 
 I am currently following a course on internet technology aptly named *“Internet Technology”*. The contents of the course are unfortunately horribly outdated and detached from reality.
