@@ -4,6 +4,7 @@ date: 2005-10-25T02:11:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 As soon as I find the time, I should get my feet wet in OS X/Cocoa programming. It seems to be a pretty cool and fresh way to make stuff.

@@ -4,6 +4,7 @@ date: 2006-05-21T19:19:00
 author: alper
 categories:
   - english
+  - podcast
 ---
 
 I just threw away 2 Gigabytes worth of podcasts waiting to be listened to. Who knew podcasts were such a storage hog. This batch can wait some more. I also unsubscribed from five or six podcasts.

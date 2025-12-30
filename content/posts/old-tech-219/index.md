@@ -4,6 +4,7 @@ date: 2006-12-05T13:37:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I was expecting one package but I got two. So I thought the Threadless guys had messed up somehow.

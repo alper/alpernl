@@ -4,6 +4,7 @@ date: 2006-11-02T15:32:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 [Eclipse](http://www.eclipse.org) is turning five and next Tuesday November 7th there's a [slew of parties](http://www.eclipse.org/community/eclipsebirthday5/birthdayparties.php) worldwide to celebrate the occasion.

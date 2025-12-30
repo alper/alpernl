@@ -1,12 +1,13 @@
 ---
-title: "Ton Armitage - Telling Stories: what Homer, Dickens and Marvel Comics can teach your (social) software"
+title: "Tom Armitage - Telling Stories: what Homer, Dickens and Marvel Comics can teach your (social) software"
 date: 2006-06-02T11:40:00
 author: alper
 categories:
   - english
+  - reading
 ---
 
-Ton Armitage - Telling Stories: what Homer, Dickens and Marvel Comics can teach your (social) software
+Tom Armitage - Telling Stories: what Homer, Dickens and Marvel Comics can teach your (social) software
 
 Reboot8
 

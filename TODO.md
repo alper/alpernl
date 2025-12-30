@@ -108,6 +108,11 @@
 * [x] More encoding issues: (15ź centigrade), taquerÃ­as, 30-35Ëš C., mÃ­jn
 
 * [ ] Backport old blog content into markdown
+  * [x] Check and fix content for tech
+  * [x] Check and fix content for studies
+  * [ ] Check and fix content for personal
+  * [ ] Check all internal links in the blog and fix them
+  * [ ] Re-include all flickr images (and their weird links)
 * [ ] Get rid of all GIFs
 * [ ] Redirect RSS of old blog to new RSS location
 * [ ] Create impressum page?
@@ -117,6 +122,7 @@
 * [ ] Clean up config
 * [ ] Create automatic deploy on Github push
 * [ ] Write a script to create a new post
+* [ ] Ask Claude to spell check all my writing on the blog
 
 * [x] Archive old blog to dingen.alper.nl
 * [x] [Change URL setting of old blog in the database](https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database?utm_campaign=Generic-Tutorials-DSA-t1%7CNT:Se%7CLang:EN%7CLO:DE&utm_medium=ppc&gad_source=1&gad_campaignid=16184995375&gbraid=0AAAAADMy-hZkuW3COPeD_MOdnnSqsweXh&gclid=Cj0KCQiA6sjKBhCSARIsAJvYcpPJVfBHlD_bfkvswdtf_qCu02iEIqUdzZapPPCCuaKS--0129YUEzEaAgKNEALw_wcB)

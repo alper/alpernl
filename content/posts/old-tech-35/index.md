@@ -4,6 +4,7 @@ date: 2005-11-07T00:03:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Annoying thing about a lot of stuff on OS X is that they block and block a lot. And too often they stay blocked and I have to kill the application.

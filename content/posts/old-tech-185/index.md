@@ -4,6 +4,7 @@ date: 2006-09-09T19:30:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 In which [I reply to myself](http://drupal.org/node/82875#comment-152666) on the forum.

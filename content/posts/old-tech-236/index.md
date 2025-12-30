@@ -4,6 +4,7 @@ date: 2007-01-15T17:16:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 For another maddening detail in the horrid world of PHP.

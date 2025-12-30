@@ -4,6 +4,7 @@ date: 2006-05-12T00:51:00
 author: alper
 categories:
   - english
+  - product-design
 ---
 
 Very cool ideas for some nice technology (Wired: [MIT Fashion Design Takes Cue From Virus](http://www.pcmag.com/article2/0,1895,1960058,00.asp)) and the thing they did for a prototype is a great illustration. Now if only they could get the per unit price down (Zauruses don't come cheap).

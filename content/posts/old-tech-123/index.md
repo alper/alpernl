@@ -4,6 +4,7 @@ date: 2006-05-10T16:45:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Elias has [an important post](http://torrez.us/archives/2006/05/08/439/) on something very necessary: enabling client side Javascript developers to consume any kind of RESTific data without going through the pains of cross-platform XML parsing.

@@ -4,6 +4,7 @@ date: 2006-10-26T11:54:00
 author: alper
 categories:
   - english
+  - photography
 ---
 
 After sustaining [numerous subsequent shutdowns](http://www.macbookrandomshutdown.com/) yesterday, I got a bit fed up with the problem. This morning at work my Macbook also went down a couple of times, which it had never done before.

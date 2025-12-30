@@ -4,6 +4,7 @@ date: 2006-06-30T00:51:00
 author: alper
 categories:
   - english
+  - photography
 ---
 
 [Mirroring Mark Pilgrim](http://diveintomark.org/archives/2006/06/26/essentials-2006)'s move to Linux, I have six months ago moved from Linux to OS X and have never looked back until now. Last week I sold my iBook and while waiting for my Macbook, I am typing this on my [Debian](htttp://www.debian.org) GNU/Linux Etch box.

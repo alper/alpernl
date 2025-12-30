@@ -4,6 +4,8 @@ date: 2006-08-08T23:49:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - internet
 ---
 
 I had been toying around with various PHP based systems for a while now but now I have finally settled on [Drupal](http://www.drupal.org) and I am liking it a lot. I have widely varying needs of scale, management and complexity and Drupal certainly fits the bill for two sites I am currently building.

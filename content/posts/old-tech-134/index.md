@@ -4,9 +4,10 @@ date: 2006-05-18T00:19:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
-I was thinking along the line of calendars and events and such, among others after the [talk of Frank Mantek](http://alper.nl/blog/tech/132) about the Google Data API on [XTECH](http://xtech.org) and I had the idea:
+I was thinking along the line of calendars and events and such, among others after the [talk of Frank Mantek](/posts/old-tech-132) about the Google Data API on [XTECH](http://xtech.org) and I had the idea:
 
 **Why don't we save and share historical data using Google Calendar and the GData API?**
 

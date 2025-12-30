@@ -4,6 +4,9 @@ date: 2006-04-18T17:49:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - amsterdam
+  - copenhagen
 ---
 
 Just handed in my registrations for both [XTECH](http://xtech06.usefulinc.com/) and [Reboot](http://reboot.dk/) to Marleen here at [TOPdesk](http://www.topdesk.nl). Both should come through fine and send me happily off for some conference fun in May and June.

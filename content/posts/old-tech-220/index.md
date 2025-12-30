@@ -4,6 +4,7 @@ date: 2006-12-08T12:06:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I'm moulding some of my ideas of recent and not too recent into a deck titled **“Social Networks as Online Panacea”**.

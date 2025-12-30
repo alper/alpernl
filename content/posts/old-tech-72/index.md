@@ -4,6 +4,7 @@ date: 2006-01-01T18:36:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I read Rasmus's [30 second AJAX tutorial](http://rajshekhar.net/blog/archives/85-Rasmus-30-second-AJAX-Tutorial.html) [[via](http://reddit.com/info?id=22543)] and though it is nice enough in its own respect, it is missing two things: [Dojo](http://www.dojotoolkit.org) and [Python](http://www.python.org).
@@ -14,6 +15,7 @@ Main improvement here is that after a while you get sick rolling your own XmlHtt
 
 Rather than rolling your own library, use one which is terrific and takes most of the redundancy out ([working HTML](/ajax/30sec.html)):
 
+```
 <html>
 
 <head>
@@ -22,7 +24,7 @@ Rather than rolling your own library, use one which is terrific and takes most o
 
 <script type="text/javascript">
 dojo.require("dojo.io.*");
-	
+
 function sendRequest(action) {
 // Documentation here: http://manual.dojotoolkit.org/io.html
 dojo.io.bind({
@@ -37,7 +39,7 @@ dojo.byId(parts[0]).innerHTML = parts[1];
 }
 // error: function(type, errorObject) {} omitted for brevity
 })
-}	
+}
 </script>
 
 </head>
@@ -53,11 +55,13 @@ dojo.byId(parts[0]).innerHTML = parts[1];
 
 
 </html>
+```
 
 11 lines of Javascript.
 
 And the simple Python code:
 
+```
 #!/usr/bin/env python
 import os
 
@@ -73,3 +77,4 @@ for part in parts:
 
 if 'action' in query and query['action'] == 'foo':
 	print "foo|foo done"
+```

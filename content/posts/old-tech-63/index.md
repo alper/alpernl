@@ -4,6 +4,7 @@ date: 2005-12-10T20:39:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 The [presentations from the previous SuperHappyDevHouse](http://superhappydevhouse.com/node/9) are really cool. I had already seen the [Using Python to get money and chicks](http://www.lglan.net/shdh/shdh5/SHDH5-Python.mp4) but the following two are also very worth watching:

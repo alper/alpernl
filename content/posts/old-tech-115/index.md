@@ -4,6 +4,8 @@ date: 2006-04-22T18:02:00
 author: alper
 categories:
   - english
+  - amsterdam
+  - software-engineering
 ---
 
 Yesterday after work on a very sunny flip-floppy afternoon caught the train to Amsterdam with [Yun](http://www.savvy.nl/blog/) and [Redmar](http://www.redmar.net/).

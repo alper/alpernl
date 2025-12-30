@@ -4,6 +4,7 @@ date: 2006-06-12T16:06:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 From the [R Language Definition](http://stat.ethz.ch/R-manual/R-patched/doc/manual/R-lang.html#Debugging):

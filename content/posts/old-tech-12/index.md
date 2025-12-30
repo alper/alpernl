@@ -4,6 +4,7 @@ date: 2005-10-10T17:45:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I just read the need for a hAtom microformat [at Torres](http://torrez.us/archives/2005/10/07/404). Microformats have appealed to me for a while now but I am a new tochnology junkie.

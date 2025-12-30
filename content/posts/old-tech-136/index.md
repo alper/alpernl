@@ -4,6 +4,7 @@ date: 2006-05-18T14:28:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Yesterday I saw the talk [Treating Digital Broadcast as just another API and other such ruminations](http://alper.nl/blog/tech/131) ([Suw Charman transcript](http://strange.corante.com/archives/2006/05/17/xtech_2006_tom_loosemore_treating_digital_broadcast_as_just_another_api_and_other_such_ruminations.php)) by [Tom Loosemore](http://www.tomski.com/) from the [BBC](http://www.bbc.co.uk) here on [XTECH](http://www.xtech.org). He showed us some interesting trends and advances in digital broadcasting but he also shattered my perception that the BBC is very ahead in these matters.

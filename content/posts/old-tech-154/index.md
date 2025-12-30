@@ -4,6 +4,7 @@ date: 2006-06-28T13:56:00
 author: alper
 categories:
   - english
+  - work
 ---
 
 I am currently calling customers to get their feedback, and more often than not I receive out of office, out to lunch or in meeting statuses.

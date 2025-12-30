@@ -4,6 +4,8 @@ date: 2005-12-09T22:21:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 It seems to be slightly impossible for me to select items from a HTML <select> control using the keyboard.

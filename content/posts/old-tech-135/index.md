@@ -4,6 +4,8 @@ date: 2006-05-18T13:42:00
 author: alper
 categories:
   - english
+  - internet
+  - amsterdam
 ---
 
 WiFi connectivity at the [XTECH conference](htttp://xtech.org) here in Krasnapolsky is very poor. They have bought a conference wide login for everyone on the commercial network already in place and it is not cutting it.

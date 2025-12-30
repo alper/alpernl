@@ -4,6 +4,7 @@ date: 2006-04-23T17:46:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 After mucking around with Dashboard some more, I gave up last night. My widget worked fine in Safari but every time I installed my widget in Dashboard the widget would disappear. The fact that Dashboard does not give you any feedback does not really help in solving this problem.

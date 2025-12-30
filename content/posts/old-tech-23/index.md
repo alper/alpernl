@@ -4,6 +4,7 @@ date: 2005-10-26T21:48:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I had been eagerly anticipating the [announced developer feature list](http://simon.incutio.com/archive/2005/09/11/firefox15) for Firefox 1.5 for a while now.

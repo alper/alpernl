@@ -4,6 +4,7 @@ date: 2006-09-01T11:08:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Who is the bitch now? Who is?

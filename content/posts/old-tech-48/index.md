@@ -4,6 +4,7 @@ date: 2005-11-19T18:26:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Due to a slight mishap at the mail server of my university I have not been able to receive any e-mail in the past 48 hours. All of it seems to have disappeared into a gaping black hole.

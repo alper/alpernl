@@ -4,6 +4,8 @@ date: 2006-03-21T14:07:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 Katie recently [announced](http://katiesvlog.blogs.com/vlog/2006/03/cocoadevhouse_a.html) ([Upcoming](http://upcoming.org/event/61899/), [Macwereld](http://macwereld.nl/index.php?option=com_content&task=view&id=1209&Itemid=162)) on April 21st. CocoaDevHouse is an Amsterdam incarnation of similar popular unconferences across the world.

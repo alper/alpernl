@@ -4,6 +4,8 @@ date: 2007-02-19T17:32:00
 author: alper
 categories:
   - english
+  - internet
+  - delft
 ---
 
 The wireless internet at [university](http://tudelft.nl) is so flaky, it makes me want to cry.

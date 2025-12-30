@@ -4,6 +4,7 @@ date: 2006-01-12T12:51:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I recently discovered [Guy Kawasaki's blog](http://blog.guykawasaki.com/ ) and its content is as great as its title: *“Let the Good Times Roll”*.

@@ -4,6 +4,7 @@ date: 2005-09-24T15:57:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 After seeing Django I came upon a new Python framework that combines the existing web technology into a nice package: [Turbogears](http://www.turbogears.org/).

@@ -4,6 +4,7 @@ date: 2005-12-11T23:14:00
 author: alper
 categories:
   - english
+  - video
 ---
 
 [Meetro](http://meetro.com/) looks rather nifty (watch the movie). Shame they don't have a Mac version available.

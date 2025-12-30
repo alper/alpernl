@@ -4,6 +4,7 @@ date: 2006-09-04T23:47:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 This latest [Screening Room on IronPython](http://weblog.infoworld.com/udell/screenroom/ironpython_flv.html) shows some great stuff about how IronPython can be used to leverage all of Microsoft's technologies on Windows.

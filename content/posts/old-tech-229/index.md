@@ -4,6 +4,7 @@ date: 2007-01-09T14:36:00
 author: alper
 categories:
   - english
+  - photography
 ---
 
 Just got my 4GB 120x Transcend CompactFlash card in the mail. Being able to take 459 RAW pictures is quite a difference from 1GB.

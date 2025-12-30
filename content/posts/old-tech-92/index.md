@@ -8,8 +8,9 @@ categories:
 
 Why does every operating system known to man have a decent facility to set up dual heads with mirroring and extending options and boxes representing the head and its position with respect to the other head.
 
-Every operating system except Linux of course. In Linux I have to edit a strange file called /etc/X11/xorg.conf and manipulate obscure stanzas such as:
+Every operating system except Linux of course. In Linux I have to edit a strange file called `/etc/X11/xorg.conf` and manipulate obscure stanzas such as:
 
+```
 Section "ServerLayout"
 
 Identifier      "XFree86 Dual-Head"
@@ -25,6 +26,7 @@ Screen          "Screen1" LeftOf "Screen0"
 Option          "Xinerama"      "True"
 
 EndSection
+```
 
 And then brutishly kill and restart my X.
 

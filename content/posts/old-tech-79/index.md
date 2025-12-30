@@ -4,6 +4,8 @@ date: 2006-02-08T00:26:00
 author: alper
 categories:
   - english
+  - video
+  - software-engineering
 ---
 
 There are some hot new [videos up on Miguel's blog](http://tirania.org/blog/archive/2006/Feb-07-1.html) showing very sizzling Gnome desktop hardware acceleration. Watch the video's, especially the cube variant.

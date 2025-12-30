@@ -4,6 +4,8 @@ date: 2006-03-31T17:15:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - internet
 ---
 
 I'm getting increasingly frustrated with COREBlog the Zope based blogging software that runs this show.
@@ -12,21 +14,13 @@ This week an upgrade had de-installed the COREBlog Product from my [Zope](http:/
 
 > Zope Error
 
->
-
 > Zope has encountered an error while publishing this resource.
-
->
 
 > Error Type: KeyError
 
 > Error Value:
 
->
-
 > Troubleshooting Suggestions
-
->
 
 > This resource may be trying to reference a nonexistent object or variable .
 
@@ -37,8 +31,6 @@ This week an upgrade had de-installed the COREBlog Product from my [Zope](http:/
 > A resource that this resource relies on may be encountering an error.
 
 > For more detailed information about the error, please refer to the HTML source for this page.
-
->
 
 > If the error persists please contact the site maintainer. Thank you for your patience.
 

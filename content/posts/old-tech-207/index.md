@@ -4,6 +4,9 @@ date: 2006-11-08T15:53:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - delft
+  - work
 ---
 
 Eclipse's [fifth birthday party](http://alper.nl/blog/tech/205) yesterday was a big hit. Eclipse's contribution to software development was celebrated by a merry group of beer drinking programmers.

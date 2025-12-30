@@ -4,6 +4,7 @@ date: 2006-04-26T01:17:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I love TextMate!

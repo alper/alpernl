@@ -4,6 +4,8 @@ date: 2005-10-14T15:25:00
 author: alper
 categories:
   - english
+  - delft
+  - internet
 ---
 
 Having just received the new iBook logging in to the WiFi network of our university proved to be somewhat frustrating. Like most univerity networks ours is also completely sealed off with paranoid security restrictions.

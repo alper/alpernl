@@ -4,12 +4,14 @@ date: 2007-02-13T15:44:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I've been taking a peek at the [CSS layouts at Dynamic Drive](http://www.dynamicdrive.com/style/layouts/) and especially at [CSS Fixed Layout #2.1](http://www.dynamicdrive.com/style/layouts/item/css-fixed-layout-21-fixed-fixed/) and I'm slightly stumped.
 
 For one, why is stuff like the following code necessary? It looks like a ridiculous hack to me:
 
+```
 #leftcolumn{
 
 float: left;
@@ -21,10 +23,13 @@ margin-left: -840px; /*Set left margin to -(MainContainerWidth)*/
 background: #C8FC98;
 
 }
+```
 
 And another is the nesting of DIVs which leaves nothing semantic in the design and does not yield any advantage over tables. Trace with me:
 
+```
 DIV#contentwrapper > DIV#contentcolumn > DIV.innertube > P
+```
 
 And then still when copying over the style rules, the design renders differently in my template. Firebug lists an offsetTop of 16px on the first DIV and I have no clue where this is coming from. Looks like I'll have to literally copy the Dynamic Drive example and work from that (later on).
 

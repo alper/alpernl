@@ -4,6 +4,8 @@ date: 2006-10-31T12:29:00
 author: alper
 categories:
   - english
+  - work
+  - software-engineering
 ---
 
 The company I'm working for currently —[TOPdesk](http://www.topdesk.com)— is organizing a [Coding Battle](http://www.tcb2006.nl/) Novemer 27th.

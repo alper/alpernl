@@ -4,6 +4,7 @@ date: 2005-10-25T14:35:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Interesting interview at OnDotNet: [C#: Yesterday, Today, and Tomorrow: An Interview with Anders Hejlsberg, Part 1](http://www.ondotnet.com/pub/a/dotnet/2005/10/17/interview-with-anders-hejlsberg.html) about the future of the C# language.

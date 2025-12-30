@@ -4,6 +4,9 @@ date: 2006-12-14T17:12:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - music
+  - delft
 ---
 
 [Eelke](http://www.eelkedekker.nl) and myself were competing in the mashup contest [“Ben jij beter dan Microsoft?”](http://www.benjijbeterdanmicrosoft.nl) (trans. Are you better than Microsoft?).

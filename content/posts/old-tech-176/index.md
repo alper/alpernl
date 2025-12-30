@@ -4,6 +4,7 @@ date: 2006-08-14T23:57:00
 author: alper
 categories:
   - english
+  - video
 ---
 
 This [video of Seth Godin](http://www.van-waveren.nl/blog/2006/08/09/seth-godin-video/) is well worth your time. The man has a funny story and he is a great presenter with fantastic presence.

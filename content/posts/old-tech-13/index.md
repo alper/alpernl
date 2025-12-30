@@ -4,6 +4,7 @@ date: 2005-10-11T00:29:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 My first step on joining the [microformat](http://www.microformats.org/) frenzy is by converting [my contact details](http://www.alper.nl/contact.html) to a hCard format.

@@ -4,6 +4,7 @@ date: 2005-11-05T13:27:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 A very [ill-conceived shootout between Java and C#](http://www.bentuser.com/article.aspx?ID=323) giving fuel to stupid inflammatory discussions about both platforms.

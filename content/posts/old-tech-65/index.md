@@ -4,6 +4,7 @@ date: 2005-12-13T11:44:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I am running on a new Eclipse 3.2.0 in the shop right now. It's pretty nice with some cosmetic tweaks and it feels a bit faster.

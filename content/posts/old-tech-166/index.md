@@ -4,6 +4,7 @@ date: 2006-07-20T16:16:00
 author: alper
 categories:
   - english
+  - work
 ---
 
 I had been kicking around some stuff about wikis when on Rudolf van der Berg posted [an article on Frankwatching about wiki practice within companies](http://www.frankwatching.com/archive/2006/07/14/special_wiki_beste_kennistool_/). The article is arguably a bit sloppy and neglects to even mention [Mediawiki](http://www.mediawiki.org) but the resulting discussion is more than worthwhile and shows that the topic is very much alive.

@@ -4,6 +4,7 @@ date: 2006-05-17T15:57:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 XTECH

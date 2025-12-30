@@ -4,6 +4,8 @@ date: 2006-09-05T16:01:00
 author: alper
 categories:
   - english
+  - london
+  - games
 ---
 
 Barcamp London seems to have been a complete blast understandably. I've been reading the reports but [from Jeremy's blog](http://adactio.com/journal/1171) I found these two nuggets:

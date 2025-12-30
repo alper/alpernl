@@ -4,6 +4,7 @@ date: 2006-09-07T10:02:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 The Flash based online presentation creator [Empressr](http://www.empressr.com/) looks nice and interesting. Upon first use this feeling is replaced with sheer frustration.

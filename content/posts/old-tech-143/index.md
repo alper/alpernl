@@ -4,6 +4,7 @@ date: 2006-05-30T11:07:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 [Emil gives Joel's list](http://me.eae.net/archive/2006/05/29/the-list-one-year-later/) of stuff you couldn't do so far in web applications and this list is rapidly decreasing. We will probably get very decently usable web applications by the end of this year. Expect to see the arena explode.

@@ -4,6 +4,7 @@ date: 2006-05-24T13:59:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 [Revision 0.4 of Firebug](http://www.joehewitt.com/blog/firebug_04_come.php) was just released and this revision also sports an impressive number of added features mostly focused on JavaScript debugging right within the Firebug console.

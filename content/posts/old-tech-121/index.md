@@ -4,6 +4,7 @@ date: 2006-05-07T20:51:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 It's about time and way too late to see [Sun making Java more Linux-friendly](http://www.zdnet.com.au/news/software/soa/Sun_to_make_Java_more_Linux_friendly/0,2000061733,39255431,00.htm) after both:

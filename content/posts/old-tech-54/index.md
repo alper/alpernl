@@ -4,13 +4,16 @@ date: 2005-12-04T16:13:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I have seen the first place where annotations are useful on [this blog](http://java-boilerplate.blogspot.com) by Reinier.
 
 It is an [annotation which removes the traditional](http://java-boilerplate.blogspot.com/2005/12/annotations-for-getters-and-setters.html) Java getters and setters from the code.
 
+```
 private @Get @Set(Access.PROTECTED) String field;
+```
 
 You end up with something which is very similar to C# Properties but using standard Java syntax.
 

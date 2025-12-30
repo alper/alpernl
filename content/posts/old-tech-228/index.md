@@ -4,6 +4,9 @@ date: 2006-12-31T00:49:00
 author: alper
 categories:
   - english
+  - internet
+  - music
+  - software-engineering
 ---
 
 I'm playing around with [Flash](http://www.adobe.com/products/flash/flashpro/) a bit to try and make a dedicated player for [last.tv](http://lasttv.aardverschuiving.com).

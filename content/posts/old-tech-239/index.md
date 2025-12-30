@@ -6,7 +6,7 @@ categories:
   - english
 ---
 
-After the [random](http://alper.nl/blog/tech/196) [shutdown](http://alper.nl/blog/tech/202) episodes of the past my Macbook now has entered the more sophisticated era of nonrandom shutdowns.
+After the [random](/posts/old-tech-196) [shutdown](/posts/old-tech-202) episodes of the past my Macbook now has entered the more sophisticated era of nonrandom shutdowns.
 
 ![New sleeve](http://farm1.static.flickr.com/132/362578915_76404c5bf9_m.jpg)[](http://www.flickr.com/photos/alper/362578915/)
 

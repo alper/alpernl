@@ -4,6 +4,7 @@ date: 2005-12-06T00:36:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Being at a different location and not having WiFi internet available (like at my parents' place) is seriously disturbing. There was a wireless network within range but it was password protected.

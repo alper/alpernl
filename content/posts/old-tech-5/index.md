@@ -4,6 +4,8 @@ date: 2005-09-25T01:47:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - amsterdam
 ---
 
 Attending conferences is very cool but it is disproportionally difficult for those people on the wrong side of the pond with limited financial resources (i.e. me).

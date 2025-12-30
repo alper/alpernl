@@ -4,6 +4,7 @@ date: 2005-11-16T21:17:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I am **this** close to throwing the steaming piece of shit browser Safari out of the window. I would have long ago, but it is so damn sexy.

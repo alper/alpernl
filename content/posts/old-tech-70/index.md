@@ -4,6 +4,7 @@ date: 2005-12-25T20:03:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 [Adium](http://www.adiumx.com/) is the best ever Instant Messaging client I have ever used. It looks nice and works well all over the board. And you have to love the [Link Duck Dock Icon](http://www.adiumxtras.com/index.php?a=xtras&xtra_id=1176).

@@ -4,6 +4,8 @@ date: 2005-11-08T10:42:00
 author: alper
 categories:
   - english
+  - product-design
+  - amsterdam
 ---
 
 As [mentioned before](/blog/tech/29) there was a social drink after the Adaptive Path workshop in Amsterdam yesterday. It was great.

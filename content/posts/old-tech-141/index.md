@@ -4,6 +4,7 @@ date: 2006-05-24T11:23:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I have been trying to run a [mediawiki](http://mediawiki.org) based wiki on my main site for a while now (alper.nl/wiki) and the general results have been pretty awesome.

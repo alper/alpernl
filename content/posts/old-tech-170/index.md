@@ -4,6 +4,7 @@ date: 2006-07-28T16:16:00
 author: alper
 categories:
   - english
+  - work
 ---
 
 I gave the presentation for the [TOPdesk](http://www.topdesk.com) consultants today. Keynote [did not crash](http://alper.nl/blog/tech/169) my Macbook once and the presentation was well received, it is in Dutch and you can find it [here](http://alper.nl/media/TOPwiki.pdf).

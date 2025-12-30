@@ -4,6 +4,7 @@ date: 2006-12-04T23:41:00
 author: alper
 categories:
   - english
+  - delft
 ---
 
 There was a Delft-wide power outage this afternoon at around noon. This is the reason my server at home went down (and took this blog with it). It *was* fun to see everybody around me get up in frustration while I could keep on typing on my Macbook's ‘UPS’.

@@ -4,6 +4,7 @@ date: 2005-12-22T16:49:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Recently there has been a barrage of negative news about Wikipedia with class action law suits, various individuals editing their own biographies, false fact injections offset by the news fact that Wikipedia is pretty good compared to Encyclopedia Britannica (and that Dutch Wikipedia compares similarly to the Winkler Prince).

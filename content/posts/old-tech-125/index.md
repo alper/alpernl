@@ -4,6 +4,7 @@ date: 2006-05-17T10:01:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Paul Graham - Is it possible to create a Sillicon Valley outside of the US?
@@ -50,51 +51,29 @@ abroad?
 
 10 Deciding Factors
 
-1. allow immigration, SV is about immigration
-
-2. not in poor countries
-
-(india could rise out of it)
-
-3. US is not yet a police state, police state also not conducive
-
-hacking == dissent
-
-4. decent CS universities
-
-german and dutch try to assure all universities are equal in quality
-
-professors need good colleagues
-
-'controversial bit' about the lack of jews in Germany
-
-5. you can fire people, rigid labour laws
-
-football clubs can hire and fire people at will, nice precedent
-
-6. work is less identified with employment
-
-7. startups will break laws of business, startups don't have time to adhere to all laws
-
-8. america has huge domestic market (!Netherlands)
-
-EU was supposed to be a domestic market
-
-different languages, but soon everybody will probalby be going to speak English
-
-9. america has venture capital
-
-startups beget startups but a slow cycle
-
-private universities have VC funds
-
+1.  allow immigration, SV is about immigration
+2.  not in poor countries
+    (india could rise out of it)
+3.  US is not yet a police state, police state also not conducive
+    hacking == dissent
+4.  decent CS universities
+    german and dutch try to assure all universities are equal in quality
+    professors need good colleagues
+    'controversial bit' about the lack of jews in Germany
+5.  you can fire people, rigid labour laws
+    football clubs can hire and fire people at will, nice precedent
+6.  work is less identified with employment
+7.  startups will break laws of business, startups don't have time to adhere to all laws
+8.  america has huge domestic market (!Netherlands)
+    EU was supposed to be a domestic market
+    different languages, but soon everybody will  probalby be going to speak English
+9.  america has venture capital
+    startups beget startups but a slow cycle
+    private universities have VC funds
 10. dynamic typing for careers
-
-people can change more naturally
-
-lousy public schools make you wait for college before choosing
-
-duplicate SV but better
+    people can change more naturally
+    lousy public schools make you wait for college before choosing
+    duplicate SV but better
 
 failings?
 

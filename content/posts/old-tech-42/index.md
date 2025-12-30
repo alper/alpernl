@@ -4,6 +4,7 @@ date: 2005-11-14T19:18:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 While we are talking about language upgrades, here are [Graham Hamilton's best dead boilerplate](http://weblogs.java.net/blog/kgh/archive/2005/11/my_favorite_dea.html) from Java Tiger.

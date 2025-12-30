@@ -4,6 +4,7 @@ date: 2006-02-02T15:11:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Replacing the previous monstrosity with a new one. I've got a new [portal page](http://www.alper.nl). Utterly unusable and not tested in IE but soit.

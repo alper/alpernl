@@ -4,6 +4,8 @@ date: 2006-09-14T11:00:00
 author: alper
 categories:
   - english
+  - internet
+  - photography
 ---
 
 Flickr and Delicious have lately been integrating pieces of each other, what with them having the same parent company and all.

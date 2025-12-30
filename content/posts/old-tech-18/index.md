@@ -4,6 +4,7 @@ date: 2005-10-18T18:25:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Browsing with Safari is pretty snappy, but that is probably the tradeoff for a further quite unstable browser.

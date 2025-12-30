@@ -4,6 +4,7 @@ date: 2005-11-12T15:10:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 The amount of new features in C# 3.0 is vast. This [score card](http://beust.com/weblog/archives/000333.html) is not completely positive about all of them. Additions to a programming language should be extremely well thought out and absolutely necessary.

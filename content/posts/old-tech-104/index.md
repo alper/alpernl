@@ -4,9 +4,10 @@ date: 2006-03-25T21:38:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
-A [gem of a presentation](http://www.st.cs.uni-sb.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf) by Tim Sweeney from [Epic](http://www.epicgames.com/) about the next generation of programming languages [[via](http://beust.com/weblog/archives/000375.html)].
+A [gem of a presentation](http://www.st.cs.uni-sb.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf) by Tim Sweeney from [Epic](http://www.epicgames.com/) about the next generation of programming languages ([via](http://beust.com/weblog/archives/000375.html)).
 
 Sweeney posts an excellent take on the current state of programming languages and what is necessary to push stuff further on future platforms. Game developers being on the forefront of consumer high performance computing, he has some interesting insights.
 

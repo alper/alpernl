@@ -4,6 +4,8 @@ date: 2007-04-18T00:52:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - internet
 ---
 
 As was mentioned earlier and has been due for something close to a year this blog is closing in its current form and moving on.

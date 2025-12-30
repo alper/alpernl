@@ -4,6 +4,7 @@ date: 2006-11-13T12:38:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Web 2.0 startups and social sharing being what they may, I have very mixed feelings about [slideshare](http://slideshare.net/).

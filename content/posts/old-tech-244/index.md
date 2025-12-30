@@ -4,6 +4,7 @@ date: 2007-02-28T20:24:00
 author: alper
 categories:
   - english
+  - music
 ---
 
 I must say I'm pretty thrilled that [our little mashup](http://lasttv.net) was [mentioned on stage](http://lasttv.net/news/2007/02/27/lasttv-mention-at-fowa/) at the Future of Web apps.

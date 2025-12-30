@@ -4,6 +4,7 @@ date: 2006-01-12T16:27:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 The browser wars have returned in earnest. Firefox [market share has been growing](http://www.computerweekly.com/Articles/2006/01/05/213536/Firefoxtakesalmost10ofbrowsermarket.htm) steadily and it is making inroads in Internet Explorers market with a superior product, aggressive marketing and [a loyal fanbase](http://www.rocketboom.com/vlog/archives/2005/12/rb_05_dec_02.html).

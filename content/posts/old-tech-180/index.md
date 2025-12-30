@@ -4,6 +4,7 @@ date: 2006-09-02T20:09:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 First impressions of [Firefox 2.0b2](http://www.mozilla.org/projects/bonecho/releases/2.0b2.html)?

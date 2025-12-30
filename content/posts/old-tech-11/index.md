@@ -4,6 +4,7 @@ date: 2005-10-05T12:57:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 By default Flash is turned off in my browser. The [FlashBlock extension](http://flashblock.mozdev.org/) takes care of that.

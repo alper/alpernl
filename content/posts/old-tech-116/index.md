@@ -4,6 +4,7 @@ date: 2006-04-22T18:27:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 After I had seen the innards of the [Tigergotchi widget](http://www.mekentosj.com/widgets/tigergotchi/index.html), it certainly didn't seem too difficult anymore to build a widget of my own.

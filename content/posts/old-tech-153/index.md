@@ -4,6 +4,7 @@ date: 2006-06-26T15:54:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 I am quite turned off of the whole CSS Zen table-less design ethic. It is most unpractical. The most basic layout primitives have a less than straight forward translation to CSS.

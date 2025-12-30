@@ -4,6 +4,7 @@ date: 2006-11-29T20:32:00
 author: alper
 categories:
   - english
+  - amsterdam
 ---
 
 I have spent today at [GrowthTalk](http://www.growthtalk.com/) and will be spending tomorrow brainstorming concepts at [Innovation Playground](http://www.innovationplayground.net/).

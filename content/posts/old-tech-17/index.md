@@ -4,9 +4,11 @@ date: 2005-10-18T17:27:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - politics
 ---
 
-After a long period of undemocratic maneuvirng in European policy making surrounding the Software Patentability Directive we finally get a chance to cast a vote and to be heard.
+After a long period of undemocratic manoeuvring in European policy making surrounding the Software Patentability Directive we finally get a chance to cast a vote and to be heard.
 
 [Florian Mueller](http://www.nosoftwarepatents.com/en/m/about/founder.html) respected anti-patent lobbbyist has been nominated for the position of European of the year. See the [article at NoSoftwarePatents.com](http://www.nosoftwarepatents.com/en/m/ev50/index.html).
 

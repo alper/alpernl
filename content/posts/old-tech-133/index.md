@@ -4,6 +4,8 @@ date: 2006-05-17T17:17:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 XTECH

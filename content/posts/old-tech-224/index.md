@@ -4,6 +4,8 @@ date: 2006-12-22T12:33:00
 author: alper
 categories:
   - english
+  - music
+  - product-design
 ---
 
 It seems our mashup Last.TV is starting to lead a life of its own. After the final event, I spent half a night bringing it up to par functionally and feature wise so we have a tolerale offering right now, but some tweaking still remains to be done.

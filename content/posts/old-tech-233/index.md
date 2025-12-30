@@ -4,6 +4,7 @@ date: 2007-01-11T00:28:00
 author: alper
 categories:
   - english
+  - music
 ---
 
 I used to play music in my room on my [Marantz](http://www.marantz.com/) system with a nice set of [Infinity](http://www.infinitysystems.com/) speakers. The sound was great. You might think this a bit excessive, but I got it at the bargain bin at [Correct](http://www.correct.com/).
@@ -24,9 +25,9 @@ Finally when I asked the status of the repairs, the guy said he couldn't do anyt
 
 That I wasn't feeling up to taking the thing apart is one thing, but I thought the old geezer with his years of experience could pull it off blindfolded with both hands tied to his back. **Apparently not.**
 
-He even could not order a replacement remote for me and referred me to yet another specialty audio shop somewhere in the Hague.
+He even could not order a replacement remote for me and referred me to yet another specialty audio shop somewhere in the Hague[^1].
 
-(I understand where the guy is coming from. The target audiences of these kind of shops are people who have oodles money to spend and who are fundamentally stupid. I am not one of those people.)
+[^1]: I understand where the guy is coming from. The target audiences of these kind of shops are people who have oodles money to spend and who are fundamentally stupid. I am not one of those people.
 
 **Long story short:** I looked around online a bit. A Dutch guy was selling replacement remotes for €85 (!). Fortunately [Charles Hyde & Son](http://www.chsinteractive.co.uk/) had the same remote for £19. Postage and handling added a tenner but it was still a lot cheaper.
 

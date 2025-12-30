@@ -4,6 +4,7 @@ date: 2005-12-04T21:35:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 You probably would not have noticed, but I installed [Explorer Destroyer](http://www.explorerdestroyer.com) on the [front page](http://www.alper.nl). Most regular visitors of these pages do not use IE, most people stumbling by via Google or another search do use it.

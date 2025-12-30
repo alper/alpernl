@@ -4,6 +4,7 @@ date: 2005-11-25T17:16:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 A jaw dropping display of current web technology at [Goowy](http://www.goowy.com). It features a quite usable desktop replacement and runs completely in your browser.

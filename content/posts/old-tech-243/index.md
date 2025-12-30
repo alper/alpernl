@@ -4,6 +4,7 @@ date: 2007-02-22T12:17:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I am considering discontinuing this blog here and concentrating my English writing efforts on our new and soon to be launched weblog [Four Starters.com](http://fourstarters.com).

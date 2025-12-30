@@ -4,6 +4,9 @@ date: 2006-03-01T10:21:00
 author: alper
 categories:
   - english
+  - video
+  - delft
+  - internet
 ---
 
 Every week I get a [mailing](http://www.filmhuis-lumen.nl/index.php?datum=2006-03-01&contentid=9) from [Filmhuis Lumen](http://www.filmhuis-lumen.nl/) —my favorite art house theatre— with their movie schedule in it. I was entering them into my [iCal](http://www.apple.com/macosx/features/ical/) as events when I got bored with the repetitivity and the obsolesence of the task.

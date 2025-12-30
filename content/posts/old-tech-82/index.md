@@ -4,6 +4,7 @@ date: 2006-02-14T20:30:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 [Great presentation](http://www.plasticbag.org/archives/2006/02/my_future_of_web_apps_slides.shtml) ([PDF](http://www.plasticbag.org/files/native/native_to_a_web_of_data.pdf)) by Tom Coates of Yahoo! A nice big collection of Web 2.0 concepts and ideas. I especially love the style of presenting.

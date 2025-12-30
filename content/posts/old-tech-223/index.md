@@ -4,6 +4,10 @@ date: 2006-12-20T02:07:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - delft
+  - music
+  - product-design
 ---
 
 We're over the first rush but still… Eelke and me won the [“Ben jij beter dan Microsoft?”](http://www.benjijbeterdanmicrosoft.nl) mashup contest with our [Last.TV](http://alper.nl/lasttv) concept.

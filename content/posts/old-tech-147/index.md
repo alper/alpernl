@@ -4,6 +4,7 @@ date: 2006-06-01T18:35:00
 author: alper
 categories:
   - english
+  - politics
 ---
 
 Alexander Kjerulf - Let's Reboot Democracy

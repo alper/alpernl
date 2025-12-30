@@ -4,6 +4,8 @@ date: 2005-11-12T18:21:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 High profile security vulnerabilities led to the Greasemonkey's disappearance some time ago. It appears that it is now back from the dead.

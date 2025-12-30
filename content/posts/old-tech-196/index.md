@@ -16,4 +16,5 @@ I will pay the good folks at [LJS](http://www.ljs.nl) a visit Monday morning to 
 - Loose Ethernet jack
 - Intermittent shutdowns
 - Visible WiFi antenna
-it looks as though my whole Macbook is up for replacement, though that is probably not what will happen (of course).
+
+It looks as though my whole Macbook is up for replacement, though that is probably not what will happen (of course).

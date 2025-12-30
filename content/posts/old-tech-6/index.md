@@ -4,6 +4,7 @@ date: 2005-09-25T15:58:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 [ITConversations](http://www.itconversations.com) is a great resource for information of computer happenings. They have great interviews with leading figures from all over the industry.

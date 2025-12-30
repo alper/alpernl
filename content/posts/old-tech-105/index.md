@@ -4,6 +4,7 @@ date: 2006-03-25T21:59:00
 author: alper
 categories:
   - english
+  - politics
 ---
 
 It seems like Apple is in a confused place. Maybe an intrinsic part of the creative process, but being more thoughtful about the real world should not hurt them too much.

@@ -4,6 +4,7 @@ date: 2005-12-03T13:08:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 On my work there exists a slight tendency to use Ajax just for Ajax's sake. So drag and drop controls, the most outrageous refreshes and hyper-dynamic webpages. Little thought is spent on the eventual user experience. I do not mind really, playing with Javascript is fun if you get paid for it.

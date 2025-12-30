@@ -4,6 +4,7 @@ date: 2005-12-04T17:10:00
 author: alper
 categories:
   - english
+  - video
 ---
 
 I am in awe.

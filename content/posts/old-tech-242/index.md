@@ -4,6 +4,7 @@ date: 2007-02-20T12:09:00
 author: alper
 categories:
   - english
+  - london
 ---
 
 I told [Cris](http://fourstarters.com/cristiano/) that now he's a London resident he should not miss the number one geek/tech event in the area: [Barcamp London](http://upcoming.org/event/138806/).

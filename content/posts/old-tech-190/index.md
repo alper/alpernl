@@ -4,6 +4,7 @@ date: 2006-09-28T16:55:00
 author: alper
 categories:
   - english
+  - work
 ---
 
 Yesterday my graduation project culminated in the launch of the TOPdesk Community site during the [TOPdesk Symposium](http://www.topdesksymposium.nl) event.

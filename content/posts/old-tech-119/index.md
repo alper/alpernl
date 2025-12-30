@@ -4,6 +4,8 @@ date: 2006-04-28T02:27:00
 author: alper
 categories:
   - english
+  - software-engineering
+  - politics
 ---
 
 Catching the [widget fever](http://alper.nl/blog/tech/117) in a bad way last night's [Colbert Report](http://www.comedycentral.com/shows/the_colbert_report/index.jhtml) episode inspired Reinier and me to create a widget based on the [Backwards Bush](http://www.backwardsbush.com/) counter.

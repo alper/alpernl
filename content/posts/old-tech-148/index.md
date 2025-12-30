@@ -4,6 +4,7 @@ date: 2006-06-02T10:37:00
 author: alper
 categories:
   - english
+  - the-city
 ---
 
 Maya Lotan - Urbanseeder: Technology Mediated Flirting

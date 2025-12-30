@@ -4,6 +4,7 @@ date: 2006-10-01T15:16:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Thomas Madsen Mygdal's presentation at Shift shows how framing issues is very important in how they are perceived. Language shapes our thought.

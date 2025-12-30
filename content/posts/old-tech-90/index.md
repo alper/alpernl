@@ -4,6 +4,7 @@ date: 2006-02-23T12:55:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Sun is [giving away servers](http://www.sun.com/secure/servers/coolthreads/tnb/qualify.jsp) for trial [[via](http://www.somedaysarebetterthanothers.com/content/pages/archives/02-06/l131.html)] and maybe even for keeps.

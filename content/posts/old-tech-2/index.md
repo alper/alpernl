@@ -4,6 +4,8 @@ date: 2005-09-23T00:59:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 Atom 1.0 has been out for a while and the deprecation of the previous 0.3 version should have everyone updating their feeds to be 1.0 compliant.

@@ -4,6 +4,7 @@ date: 2005-09-29T15:00:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Easily the most impressive AJAX application I have seen thusfar ([Slashdotted](http://developers.slashdot.org/article.pl?sid=05/09/27/2158240)). The [Zimbra](http://zimbra.com) Collaboration Suite is unbelievably cool and I want it. [Hula](http://hula-project.org) is promising the same and getting there, but these guys are here now and everything looks spick and span. This is really really polished.

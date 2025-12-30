@@ -4,6 +4,8 @@ date: 2005-10-31T23:47:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 Over at the BBC they are doing really really interesting stuff (of which I hope our broadcasting corporations would take serious note).

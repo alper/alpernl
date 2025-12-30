@@ -4,6 +4,7 @@ date: 2006-03-09T11:14:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 Alex Russell recently gave three presentations on JavaScript, one at [FOSDEM](http://www.fosdem.org/2006) and two at [ETECH](http://conferences.oreillynet.com/etech/). Some of it is basic stuff, some of it is more advanced and some of it is controversial.

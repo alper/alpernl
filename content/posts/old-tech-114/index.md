@@ -4,6 +4,7 @@ date: 2006-04-21T12:20:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Interesting [piece by Anthony Townsend](http://future.iftf.org/2006/04/adsupported_mun.html) on municipal wireless touching on some issues which are too important to ignore. For us here in the Netherlands the whole debate is pretty much moot seeing as we do not have any worthwhile wireless initiatives anywhere.

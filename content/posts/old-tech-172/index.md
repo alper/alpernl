@@ -4,6 +4,7 @@ date: 2006-08-01T11:54:00
 author: alper
 categories:
   - english
+  - politics
 ---
 
 Seeing what happens when you sell your democratic process to an incompetent company (Diebold), a group of concerned hackers in the Netherlands have started action. Quite recently the last municipality in Netherlands, that of Amsterdam, long time being the bastion of paper ballots switched to electronic voting.

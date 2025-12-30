@@ -4,6 +4,7 @@ date: 2006-08-18T11:40:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Desiging websites without tables is still too difficult and both counter-intuitive and counter-productive to be a realistic alternative for the vast majority of people.

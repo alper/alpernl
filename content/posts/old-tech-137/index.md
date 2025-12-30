@@ -4,6 +4,7 @@ date: 2006-05-20T00:35:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I got a mail this week that I had won a [FON](http://www.fon.com) router.

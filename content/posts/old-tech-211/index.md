@@ -4,6 +4,7 @@ date: 2006-11-18T18:33:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 Lots of props for the guys from [Fleck](http://www.fleck.com) for their brilliant gimmick for their launch at  [Techcrunch](http://www.techcrunch.com/2006/11/16/fleck-offers-zero-friction-web-annotation/). Wearing white suits and having people leave their details on you is sheer genius.

@@ -4,6 +4,8 @@ date: 2006-03-31T00:03:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 If you are web developer you should already have installed Firebug because it makes life so much easier for the DOM/CSS/JavaScript programmer. Get it now (I mean it!) from [addons.mozilla.org](https://addons.mozilla.org/extensions/moreinfo.php?id=1843&application=firefox).

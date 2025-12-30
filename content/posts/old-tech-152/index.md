@@ -4,6 +4,8 @@ date: 2006-06-18T20:10:00
 author: alper
 categories:
   - english
+  - internet
+  - work
 ---
 
 I have been invitated to present at [TOPdesk](http://www.topdesk.com) to our consultants the relative merits of using a wiki to organize our knowledge as opposed to the facilities we used to have.

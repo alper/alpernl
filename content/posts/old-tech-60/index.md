@@ -4,6 +4,8 @@ date: 2005-12-09T11:36:00
 author: alper
 categories:
   - english
+  - internet
+  - software-engineering
 ---
 
 I was reading this [article on the future of web technology](http://www-128.ibm.com/developerworks/library/x-futhtml1/?ca=dgr-lnxw01FutureHTML). It gives a good overview of the current state of technology, future directions and a two way consolidation which I hope is going to take place.

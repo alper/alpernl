@@ -4,6 +4,7 @@ date: 2006-03-09T14:10:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 The [Laszlo Application Platform](http://www.openlaszlo.org/) was already quite impressive with its XML descriptors rendering into full fledged Flash applications. Now [on Ajaxian](http://ajaxian.com/archives/laszlo-demonstrates-ajax-runtime) you can see that they can also render into Ajax so no more Flash.

@@ -4,6 +4,7 @@ date: 2005-10-05T02:03:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 [Interesting news](http://www.sun.com/smi/Press/sunflash/2005-10/sunflash.20051004.1.html) that Sun and Google are allying to further their respective technologies.

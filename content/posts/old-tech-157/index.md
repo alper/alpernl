@@ -4,6 +4,7 @@ date: 2006-06-30T11:49:00
 author: alper
 categories:
   - english
+  - software-engineering
 ---
 
 The guys from [Dojo](http://dojotoolkit.org) are going at it relentlessly. The current release is so very much improved from when I last seriously looked at it half a year ago, it's impressive.

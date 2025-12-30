@@ -4,6 +4,7 @@ date: 2007-03-03T02:51:00
 author: alper
 categories:
   - english
+  - internet
 ---
 
 I went to the Web 2.0 drink hosted by Tijs and [René](http://winkwaves.com/) in the Hague tonight and I talked a bit to various internet sorts and got exposed to a whole lot of [Jaiku](http://jaiku.com).
