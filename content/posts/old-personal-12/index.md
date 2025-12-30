@@ -4,6 +4,7 @@ date: 2004-10-24T19:08:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb een tijdje geleden de film [“Ae fond kiss”](http://www.imdb.com/title/tt0380366/) van [Ken Loach](http://www.imdb.com/name/nm0516360/) gezien in de [sneak](http://www.filmhuis-lumen.nl).

@@ -4,6 +4,7 @@ date: 2004-11-28T12:37:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Mijn politieke desillusie kan nog verder.

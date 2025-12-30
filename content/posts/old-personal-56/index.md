@@ -4,6 +4,7 @@ date: 2004-11-25T16:14:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Tyfus kut kut kolere hoerekut!

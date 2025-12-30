@@ -4,6 +4,7 @@ date: 2005-01-31T18:58:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Op [Groenteblog](http://www.hannekegroenteman.nl/archief/2005/01/30/marcel_van_dam) een stukje over de laatste uitzending van het [Lagerhuis](http://www.omroep.nl/vara/lagerhuis/) en het afscheid van Marcel van Dam. Het kan best zijn dat Marcel van Dam een goed en dapper debater was, erg sympathiek kwam hij niet op me over.

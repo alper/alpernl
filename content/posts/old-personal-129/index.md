@@ -4,6 +4,7 @@ date: 2005-01-19T14:29:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 De komende twee weken ga ik goed bezig zijn met studeren, veel stressen en weinig anders doen. Behalve vijf keer per week blijven sporten en sloten espresso drinken. Maar dat is standaard.

@@ -4,6 +4,7 @@ date: 2005-02-02T20:28:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Dat was wel even spannend. Ik heb gisteren mijn eerste niveau [Xing Yi](http://www.jingwu.nl/) examen gehaald.

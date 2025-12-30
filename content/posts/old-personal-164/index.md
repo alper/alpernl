@@ -4,6 +4,8 @@ date: 2005-02-20T16:10:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - games
 ---
 
 Er is nu op radio (en op tv) een ontzettend nare reclame met Peter R. de Vries. De Vries vertelt op zijn normale belerende toontje dat als je games en software verspreidt dat je dan fout bezig bent.

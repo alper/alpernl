@@ -4,6 +4,7 @@ date: 2004-10-27T17:24:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Ik heb van de week nog een boek van [Gibson](http://www.williamgibsonbooks.com/) uitgelezen: *Count Zero*.

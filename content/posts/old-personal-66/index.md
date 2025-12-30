@@ -4,6 +4,8 @@ date: 2004-11-30T00:40:00
 author: alper
 categories:
   - nederlands
+  - music
+  - video
 ---
 
 Vroeger toen MTV nog coole dingen deed. Echt **coole** dingen.

@@ -4,6 +4,8 @@ date: 2004-11-06T23:36:00
 author: alper
 categories:
   - nederlands
+  - games
+  - delft
 ---
 
 Gisteren na het werk [Munchkin](http://www.sjgames.com/munchkin/game/) gespeeld. Erg leuk D&D-achtig kaartspel voor mensen die het echte spel teveel gedoe vinden en bang zijn om een ‘nerd’ te worden. We waren er wel lang mee bezig.

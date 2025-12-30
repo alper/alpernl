@@ -4,6 +4,7 @@ date: 2005-03-12T18:14:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Stel: je kijkt weleens op de site van de [Duwo](http://www.duwo.nl) naar [actuele instemmingen](http://www.duwo.nl/aanbod/layout/Aanbod.cfm?NodeID=3).

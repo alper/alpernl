@@ -4,6 +4,7 @@ date: 2004-12-04T23:00:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 [Python](http://www.python.org) is zoveel beter dan Java dat het gewoon niet leuk meer is. Ik dacht dat ik redelijk op de hoogte was van wat de taal allemaal kan maar ik ben een paar jaar geleden opgehouden de [nieuwsgroep](news://comp.lang.python) te volgen.
@@ -13,7 +14,7 @@ De taal is nog steeds volop in ontwikkeling, blijkt nu. Ik had vandaag een Wauw!
 
 Het Wauw komt door dit stuk code:
 
-
+```
 # test property
 
 """Eenvoudige klasse met 1 attribuut: size.
@@ -26,7 +27,6 @@ self.size = 0
 ot = OldTest()
 ot.size = 1
 print ot.size
-
 
 """We willen achter de schermen toch een paar dingen afhandelen bij het opvragen van size
 We refactoren dus de klasse om een nieuw attribuut __size te gebruiken om size in op
@@ -50,7 +50,7 @@ size = property(getSize, setSize, None, "Size mutators")
 t = Test()
 t.size = 2
 print ot.size
-
+```
 
 Het is een van de vele truucjes die Python door zijn dynamische aard toestaat. En die het programmeren leuk maken. Nog een voorbeeld is dit [recept](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/355045) ([via](http://lambda-the-ultimate.org/node/view/407)).
 

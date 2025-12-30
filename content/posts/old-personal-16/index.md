@@ -4,9 +4,10 @@ date: 2004-10-27T17:45:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
-Ik [schreef](http://studentrate.ewi.tudelft.nl:9673/alper/alperblog/15) al wat over Gibson. Ik las pas in een [interview ](http://interviews.slashdot.org/interviews/04/10/20/1518217.shtml?tid=192&tid=214&tid=126&tid=11) met [Neal Stephenson](http://www.nealstephenson.com) het antwoord op de vraag *“In a fight between you and William Gibson, who would win?”*.
+Ik [schreef](/posts/old-personal-15) al wat over Gibson. Ik las pas in een [interview ](http://interviews.slashdot.org/interviews/04/10/20/1518217.shtml?tid=192&tid=214&tid=126&tid=11) met [Neal Stephenson](http://www.nealstephenson.com) het antwoord op de vraag *“In a fight between you and William Gibson, who would win?”*.
 
 Het antwoord op die vraag vind ik zo briljant dat ik hem hieronder maar integraal heb opgenomen. Het is een mooi stuk schrijven waarin hij de stijl van Gibson nadoet.
 

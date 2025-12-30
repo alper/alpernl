@@ -4,6 +4,7 @@ date: 2005-01-15T17:52:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 [Chrenkoff](http://chrenkoff.blogspot.com/2005/01/prince-harry-and-double-standard.html) leest nu ook [GULAG](http://www.anneapplebaum.com/gulag/gulag.html). Ik had hem al gelezen zie: [mijn blog](http://www.alper.nl/index_old.html#20041001-2).

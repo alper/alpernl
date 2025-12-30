@@ -4,6 +4,7 @@ date: 2004-12-14T19:36:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik zit de laatste tijd erg hard na te denken over wat ik nou wil met mijn studie, mijn toekomst, mijn carrière enzovoort.

@@ -4,6 +4,7 @@ date: 2005-02-09T22:52:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Weer een gave [post van Nat](http://nat.org/2005/february/#9-February-2005). Jezus wat is die gast gaaf, ik vraag me af hoe hij met zichzelf kan leven.

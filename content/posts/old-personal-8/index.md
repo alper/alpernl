@@ -4,6 +4,7 @@ date: 2004-10-20T20:37:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Ik heb overal pijn maar ik heb me in tijden niet zo lekker gevoeld.

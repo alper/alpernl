@@ -4,6 +4,7 @@ date: 2005-03-23T20:24:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Dat werd ook hoog tijd.... ik heb een nieuwe [dump van mijn filmlijst](http://www.alper.nl/movies.html) gemaakt. De vorige was bijna een jaar geleden.

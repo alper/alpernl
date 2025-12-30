@@ -4,6 +4,7 @@ date: 2005-01-27T12:48:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Commentaar in een [blog](http://www.cincomsmalltalk.com/blog/blogView?showComments=true&entry=3284231678) dat Bruce Eckel over Java ‘toegegeven’ zou hebben dat:

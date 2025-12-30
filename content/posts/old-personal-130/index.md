@@ -4,6 +4,7 @@ date: 2005-01-19T20:03:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik was dus een van de honderd jury-leden om de [verschillende longlists](http://www.aboutblank.nl/dutchbloggies/2005/) terug te brengen. Best wel wat moeite maar natuurlijk ook een hele eer. Van veel blogs op de lijst had ik nog nooit gehoord (van veel ook weer wel natuurlijk).

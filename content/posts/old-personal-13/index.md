@@ -4,6 +4,8 @@ date: 2004-10-25T00:00:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - video
 ---
 
 Het is tentamenperiode. Die periode van het jaar dat iedereen zich thuis opsluit en doet alsof ie studeert.

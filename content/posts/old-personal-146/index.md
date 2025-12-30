@@ -4,6 +4,7 @@ date: 2005-02-02T19:57:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik heb de **evil streak** doorbroken. Mijn tentamen voor het vierdejaars vak *3D Computer Graphics & Virtual Reality* gehaald met een 7.83!

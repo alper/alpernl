@@ -4,6 +4,7 @@ date: 2004-10-27T21:35:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Dat geweldig leuke plan wat ze hadden in Den Haag om iedereen te verplichten zich te identificeren. Daar gaan ze [werk](http://www.nu.nl/news.jsp?n=432605&c=10) van maken.

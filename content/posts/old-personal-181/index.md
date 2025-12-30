@@ -4,6 +4,8 @@ date: 2005-03-07T19:34:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Her en der te lezen: [“Software patent directive accepted”](http://news.zdnet.co.uk/0,39020330,39190497,00.htm).

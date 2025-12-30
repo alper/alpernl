@@ -4,6 +4,8 @@ date: 2005-02-28T22:11:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Ik krijg net weer een mailtje in mijn bus met een [bericht van Nosoftwarepatents.com](http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=407). Ik las al dat de tegenpartij er al het toegestane aan zou doen en niets zou laten om deze wet erdoorheen te krijgen. Dat klopt dus, daar gaan we weer…

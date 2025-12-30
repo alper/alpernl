@@ -4,6 +4,8 @@ date: 2005-01-07T21:55:00
 author: alper
 categories:
   - nederlands
+  - travel
+  - istanbul
 ---
 
 Voor Alper's Grote Istanbulreis was er een beetje stress over onze reisdocumenten.
@@ -32,12 +34,8 @@ Nu had ik het **idee** om dit brakke paspoort te bewaren als identificatiemiddel
 
 Mijn broertje is de dag nadat wij vertrokken naar het consulaat in Rotterdam geweest om onze Turkse paspoorten te laten verlengen, just in case. Na 3 uur in de bureaucratische molen was het gelukt maar had hij het ook flink gehad.
 
-We hadden wel onze Turkse *nufus cüzdanları*[[1]](#nufus)  bij ons. Daarmee hebben we bij veel toeristische gebouwen kortingen gekregen tot een kwart van de toeristenprijs. Waar de Turkse nationaliteit al niet goed voor is.
+We hadden wel onze Turkse *nufus cüzdanları*[^1](#nufus)  bij ons. Daarmee hebben we bij veel toeristische gebouwen kortingen gekregen tot een kwart van de toeristenprijs. Waar de Turkse nationaliteit al niet goed voor is.
 
 En mijn moeder moest de hare bij vertrek uit Turkije bij haar Nederlandse paspoort laten zien. Waarom? Dat weet niemand.
 
-[1] lett.: *bevolkings-portemonnee*
-
-een soort registratie/identificatie
-
-mijn moeder heeft er een foto van 20 jaar oud op staan en dat pikken ze gewoon
+[^1]: lett.: *bevolkings-portemonnee*, een soort registratie/identificatie. Mijn moeder heeft er een foto van 20 jaar oud op staan en dat pikken ze gewoon.

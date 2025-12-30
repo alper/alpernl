@@ -4,6 +4,7 @@ date: 2004-10-18T21:18:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Weer een lekker ongenuanceerd bericht op [Nu.nl](http://www.nu.nl/news.jsp?n=427884&c=50) (**'Desktop Search van Google onveilig'**).

@@ -4,6 +4,7 @@ date: 2004-12-07T18:04:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Bericht](http://www.webwereld.nl/nav/trillian?20231) op Webwereld dat de kabelmaatschappijen KPN niet willen toelaten op hun netwerk.

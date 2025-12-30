@@ -4,6 +4,7 @@ date: 2005-01-02T02:23:00
 author: alper
 categories:
   - nederlands
+  - games
 ---
 
 Ik heb een deel van oudejaarsavond doorgebracht met het kijken naar mensen die groot op de muur geprojecteerd video-spelletjes aan het spelen waren.

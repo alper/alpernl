@@ -4,6 +4,7 @@ date: 2005-03-10T16:44:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Deze [Adidas_1](http://www.adidas.com/campaigns/adidas_1/content/index.asp) schoen zit zo ontzettend vol met nerd-gaafheid en loopvermogen. Zeg nou zelf: *‘a shoe with a built in microprocessor capable of performing 5 million calculations per second.’*

@@ -4,6 +4,7 @@ date: 2005-02-03T10:36:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Bericht dat gisteren massaal werd overgenomen, tot in het [Oog](http://www.nos.nl/oogopmorgen/) [‘Hitmen manipuleren het net’](http://www.2525.com/log/index.html) was natuurlijk een simpele [hoax](http://frontpage.fok.nl/nieuws/50906).

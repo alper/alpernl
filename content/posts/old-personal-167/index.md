@@ -4,6 +4,7 @@ date: 2005-02-22T13:10:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Zodirect om 15.00 heb ik mijn eerste rijles.

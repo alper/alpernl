@@ -4,6 +4,7 @@ date: 2005-03-05T20:58:00
 author: alper
 categories:
   - nederlands
+  - poetry
 ---
 
 In de Standaard weer een erg fysiek gedicht van Nasr zoals ik ze van hem wel meer heb gelezen. Aan een Marokkaanse vrouw die in het Belgische Remmery is weg-bedreigd.

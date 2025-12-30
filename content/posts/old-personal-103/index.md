@@ -4,6 +4,8 @@ date: 2005-01-02T02:00:00
 author: alper
 categories:
   - nederlands
+  - language
+  - video
 ---
 
 Man, ik zit de laatste tijd me helemaal suf te kicken op Spaans(talig)e films. Kijken, zoeken en herkijken. Met als hoogtepunt vandaag [Mar Adentro](http://www.imdb.com/title/tt0369702/combined) van Amenábar (komt [hier](http://www.imdb.com/title/tt0369702/releaseinfo) eind deze maand uit).

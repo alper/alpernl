@@ -4,6 +4,7 @@ date: 2004-12-02T19:30:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ons project ging vandaag een stuk beter dan verwacht. Het wordt ondertussen echt tastbaar en er is een redelijke kans dat we het op tijd af gaan krijgen. Hoera!

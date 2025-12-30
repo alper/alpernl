@@ -4,6 +4,8 @@ date: 2004-10-16T22:38:00
 author: alper
 categories:
   - nederlands
+  - music
+  - theater
 ---
 
 Ik ben donderdag samen met Wouter naar [Mamma Mia!](http://www.musicals.nl/mammamia/) geweest. Een raar idee, geboren op een borrel en toch doorgezet.

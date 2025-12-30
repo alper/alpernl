@@ -4,6 +4,7 @@ date: 2005-03-07T19:22:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik zat net in de trein naast twee jongens die ook op mijn faculteit studeren. Een van de twee had in zijn minor-ruimte vakken van de Universiteit Leiden Islamologie ingevuld.

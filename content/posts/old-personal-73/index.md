@@ -4,6 +4,7 @@ date: 2004-12-06T00:46:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb net in Lumen samen met Jojanneke de film [Connie and Carla](http://www.imdb.com/title/tt0345074/combined) gezien. Lekkere cliché-film over Amerikaanse musical- en showliedjes opgevoerd door twee vrouwen die doen alsof ze mannen zijn die travestieten zijn. Voorspelbaar maar erg leuk en grappig.

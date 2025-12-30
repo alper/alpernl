@@ -4,6 +4,7 @@ date: 2005-03-08T23:39:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Nieuw bericht van [Webwereld](http://www.webwereld.nl/nav/trillian?20983).

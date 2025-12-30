@@ -4,6 +4,7 @@ date: 2004-11-02T11:33:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Kutzooi! Theo van Gogh [doodgeschoten](http://www.nos.nl/nieuws/artikelen/2004/11/2/agentneergeschoten.html) ([stream](http://switch.streamgate.nl/cgi-bin/streamswitch?streamid=54&a=.asx)). Inderdaad, niet echt onverwacht maar was er de [vorige keer](http://www.xs4all.nl/~wimduz/astro/fortuyndood.jpg) niet afgesproken dat zoiets nooit meer mocht gebeuren?

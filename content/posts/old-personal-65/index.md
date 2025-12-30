@@ -4,6 +4,7 @@ date: 2004-11-29T21:05:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Na een paar keer aandringen van ons dat we ons project toch echt een keer wilden afronden werd de hint daar in Lissabon geloof ik ook duidelijk. We kregen een lijstje van deliverables die we moesten inleveren en dan zou het af zijn.

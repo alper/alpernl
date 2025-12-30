@@ -4,6 +4,7 @@ date: 2004-11-28T16:40:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Via [Scobleizer](http://radio.weblogs.com/0001011/2004/11/28.html#a8754) een [artikel](http://www.devx.com/opinion/Article/22488/0/page/1) over Visual FoxPro. Binnenkort komt versie 9.0 uit. Het™ leeft dus nog steeds en volgens het artikel is het nog steeds relevant.

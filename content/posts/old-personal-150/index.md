@@ -4,6 +4,7 @@ date: 2005-02-03T22:32:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Ze is mooi, leuk en ze kan de beste feestmuziek van de wereld zingen: [Ivete Sangalo](http://images.br.starmedia.com/img/snippet/por/2600/669837/ivete_sangalo_top.jpg). Met die feestmuziek maakt ze Brazilianen gek, en als je Brazilianen een beetje kent weet je dat dat niet zomaar gek is, maar compleet fokking gestoord.

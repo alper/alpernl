@@ -4,6 +4,7 @@ date: 2005-02-28T21:17:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Tegen mijn verwachting in —euthanasie schijnt in Amerika een controversieel onderwerp te zijn— heeft [Mar Adentro](http://www.imdb.com/title/tt0369702/combined) toch de [Oscar](http://www.oscar.com) voor beste buitenlandse film gewonnen.

@@ -4,11 +4,13 @@ date: 2005-02-12T16:52:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - software-engineering
 ---
 
 Deze post is een beetje lang geworden, maar ik denk wel de moeite waard. Dus als je feedback hebt, reageer dan alsjeblieft.
 
-Ik ben deze week begonnen aan het MKT-5 project. Dit is het ontwerp en de implementatie van een multimodale applicatie.  Dat betekent zoveel als dat de applicatie spraak herkent en uitvoert en dus communiceert met een wat menselijkere dialoogvorm.
+Ik ben deze week begonnen aan het MKT-5 project. Dit is het ontwerp en de implementatie van een multimodale applicatie. Dat betekent zoveel als dat de applicatie spraak herkent en uitvoert en dus communiceert met een wat menselijkere dialoogvorm.
 
 De groep heeft in mijn afwezigheid meteen maar besloten om het geheel te gaan schrijven in [C#](http://msdn.microsoft.com/vcsharp/) samen met de [Microsoft Speech SDK](http://www.microsoft.com/speech/). Niet direct mijn eerste keuze maar ik kan ermee leven. Geeft het me meteen de ‘kans’ om deze nieuwe taal te leren kennen. Erg veel van Java verschilt het niet dus in een dagje had ik het meeste wel onder de knie.
 

@@ -4,6 +4,7 @@ date: 2004-11-21T01:26:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Jojanneke kwam met het geweldige idee om vandaag samen naar het [IDFA](http://www.idfa.nl) te gaan. Ik had geen flauw idee dat het nu alweer was en had er eigenlijk ook niet zo bij stil gestaan dat kijken naar documentaires leuk kan zijn.

@@ -4,6 +4,7 @@ date: 2005-03-11T22:02:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Ik kom net op dit [artikel](http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) over Coroutines in C en het zit boordevol met lekkere low-level programmeer-juweeltjes. Dat alles om iets ontzettend handigs te implementeren: coroutines die ik het beste ken als Python-generators ([niet te verwarren](http://c2.com/cgi/wiki?GeneratorsAreNotCoroutines)).

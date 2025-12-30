@@ -4,6 +4,8 @@ date: 2005-03-09T22:10:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - software-engineering
 ---
 
 Ik heb gisteren voor het eerst in tijden een leuk college gehad. Het was interessant, moeilijk en het ging in een lekker hoog tempo waardoor het praktisch onmogelijk was om in slaap te vallen.

@@ -4,6 +4,7 @@ date: 2004-12-27T22:15:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Nee, niet alleen mijn kerstperiode. De hele komende tijd is leeg. Dat is een rare overgang van een stapel-volle agenda, rennen van college naar werk naar kung fu en weer terug naar: *helemaal niks*.

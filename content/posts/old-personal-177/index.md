@@ -4,6 +4,7 @@ date: 2005-03-05T14:09:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Concurrentie is natuurlijk goed en Google moet hard aan de bak om de concurrentie voor te blijven. Ik wacht nu al een tijdje op het volgende gave ding. Google Maps is erg leuk maar ík heb er niks aan (doe mij maar [map24](http://www.map24.nl)).

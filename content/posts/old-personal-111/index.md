@@ -4,6 +4,7 @@ date: 2005-01-09T14:17:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Aardig stuk van Chrenkoff over [domme reacties](http://chrenkoff.blogspot.com/2005/01/12-most-stupid-tsunami-quotes.html) van domme mensen op de Tsunami.

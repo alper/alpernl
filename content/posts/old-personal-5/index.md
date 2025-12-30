@@ -4,6 +4,8 @@ date: 2004-10-17T16:23:00
 author: alper
 categories:
   - nederlands
+  - poetry
+  - politics
 ---
 
 Ik vond [Ramsey Nasr](http://www.epibreren.com/nasr/) altijd al een goede dichter. Nooit veel van hem gelezen, stukjes. Maar die naam blijft wel hangen.

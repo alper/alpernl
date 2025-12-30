@@ -14,8 +14,6 @@ De Linux markt [groeit](http://www.thestreet.com/_yahoo/tech/ronnaabramson/10199
 
 Het ging volgens mij wel sneller dan iedereen dacht.
 
-
-
 In die groeiende Linux markt is er een aardige [vraag naar](http://www.newsforge.com/article.pl?sid=04/12/09/2019206&from=rss) Linux-consultants. Mensen die (voor de verandering eens) bekwaam zijn en hun proprietary concurrenten kunnen onderbieden.
 
 Dit is een tak van sport waar ik al een tijdje aan mee wil doen. Het meeste kan ik al wel, maar ik moet er wat real-life ervaring mee opdoen voor ik er harde cash voor kan vragen.

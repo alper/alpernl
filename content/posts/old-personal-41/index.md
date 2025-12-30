@@ -4,6 +4,7 @@ date: 2004-11-15T19:33:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Leuk weer die ideeën van Donner om de wetten op de godslastering aan te scherpen. Het is mooi dat hij op dat idee meteen wordt aangevallen door veel mensen o.a. [Ellian](http://www.nu.nl/news.jsp?n=441650&c=11), [Teeuwen](http://www.parool.nl/nieuws/2004/NOV/15/p2.html) en D66.

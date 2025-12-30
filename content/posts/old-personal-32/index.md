@@ -4,6 +4,8 @@ date: 2004-11-11T23:58:00
 author: alper
 categories:
   - nederlands
+  - art
+  - berlin
 ---
 
 Ik moest vandaag onwillekeurig denken aan de werken van Richter die ik van de zomer in Berlijn heb gezien. Grote indrukwekkende zwart-wit afdrukken en echt bizar.

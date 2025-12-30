@@ -4,6 +4,7 @@ date: 2004-11-29T18:39:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik kan op uitzendinggemist best wel wat programma's van de publieke omroep bekijken nadat ze zijn uitgezonden. Dat is best wel cool als je geen tv hebt.

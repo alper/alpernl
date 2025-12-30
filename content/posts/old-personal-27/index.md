@@ -4,9 +4,10 @@ date: 2004-11-07T02:33:00
 author: alper
 categories:
   - nederlands
+  - amsterdam
 ---
 
-Door [tentamens ](http://studentrate.ewi.tudelft.nl:9673/alper/alperblog/18) enzo ontzettend lang al niet bij mijn ouders langs geweest. Dat zou ik dit weekend dan maar doen. Ook nog even [koffie](http://www.partyscene.nl/hotspots/37087.html) drinken in de stad maar dat ging niet door.
+Door [tentamens](/posts/old-personal-18) enzo ontzettend lang al niet bij mijn ouders langs geweest. Dat zou ik dit weekend dan maar doen. Ook nog even [koffie](http://www.partyscene.nl/hotspots/37087.html) drinken in de stad maar dat ging niet door.
 
 Leuke dag uitgekozen, werkzaamheden ergens aan het spoor tussen Den Haag en Leiden. Ik kwam er wel maar het duurde allebei de kanten op bijna twee keer zo lang (lekker veel leestijd).
 

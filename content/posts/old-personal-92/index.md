@@ -4,6 +4,7 @@ date: 2004-12-22T21:20:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Gisterochtend een stukje hard gelopen. Dat ging erg slecht, duurde erg lang voor ik een beetje warm was.

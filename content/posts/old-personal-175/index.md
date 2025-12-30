@@ -4,14 +4,14 @@ date: 2005-03-01T19:19:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Gisteravond in [Casa Luna](http://info.omroep.nl/ncrv?nav=ageuHsHtGLLWGilC) eindelijk weer een keer een gast die de moeite waard is, Paul Cliteur. Daar heb ik lang niets van gezien of gehoord. Als je het hebt gemist, kun je het gewoon [naluisteren](http://cgi.omroep.nl/cgi-bin/streams?/radio1/ncrv/casaluna/dinsdag.rm?start=00:09).
 
 Beste citaat:
 
-
-Dat is nu eenmaal het risico van het leven in een vrije samenleving, dat je ideeën bekritiseerd worden. Daar zijn we mee begonnen in de 17e eeuw en we denken dat dat goed is.
+> Dat is nu eenmaal het risico van het leven in een vrije samenleving, dat je ideeën bekritiseerd worden. Daar zijn we mee begonnen in de 17e eeuw en we denken dat dat goed is.
 
 Casa Luna lijkt misschien een suf programma en dat is het ook. Maar wel op een goede manier.
 

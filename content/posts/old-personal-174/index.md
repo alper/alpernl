@@ -4,6 +4,7 @@ date: 2005-03-01T17:52:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Ik wil [Beagle](http://www.gnome.org/projects/beagle/) al een tijdje uitproberen, maar echt heel veel zin om weer een kernel te compileren (en te patchen) had ik niet echt.

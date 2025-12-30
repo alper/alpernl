@@ -4,6 +4,7 @@ date: 2005-01-02T00:36:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Saaie [discussie](http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20041214.rm?start=00:17:30&end=00:28:45) op RadioOnline over woningbouwverenigingen die glasvezel willen aanbieden. Eerder al een [stukje](http://www.webwereld.nl/nieuws/20433.phtml) op Webwereld.

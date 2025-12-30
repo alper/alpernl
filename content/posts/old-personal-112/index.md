@@ -4,6 +4,7 @@ date: 2005-01-09T14:37:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Een ander leuk blog met altijd hele harde maar —ik denk— ook wel terechte kritek op de VN is [Diplomad](http://diplomadic.blogspot.com/).

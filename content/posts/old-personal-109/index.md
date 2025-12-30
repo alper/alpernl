@@ -4,6 +4,7 @@ date: 2005-01-08T18:33:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Net even hardgelopen als voorbereiding op de [Kopjesloop](http://www.dekoplopers.nl/kopjesloop.htm) morgen. Bleh, vroeg opstaan.

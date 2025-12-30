@@ -4,6 +4,7 @@ date: 2005-03-11T23:02:00
 author: alper
 categories:
   - nederlands
+  - theater
 ---
 
 Vlaams theater is anders en daarom alleen al eigenlijk is het de moeite waard maar in Nederland kom je het niet zo vaak tegen.

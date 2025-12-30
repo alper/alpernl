@@ -4,6 +4,8 @@ date: 2005-01-18T20:13:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - climate
 ---
 
 Via [Chrenkoff](http://chrenkoff.blogspot.com/) een [stukje](http://www.theaustralian.news.com.au/common/story_page/0,5744,11762486%5E7583,00.html) over Bjorn Lomborg's Copenhagen Consensus. Ik zit nog steeds door zijn Skeptical Environmentalist heen te ploegen. Meer ranzigheid van mijn kant dan saaiheid van het boek. Om de strekking te snappen hoef je niet het hele boek uit gelezen te hebben.

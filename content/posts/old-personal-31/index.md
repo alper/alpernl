@@ -4,6 +4,7 @@ date: 2004-11-11T23:49:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Wat er woensdag hier in de Laak gebeurde bracht alles wat er gebeurt wel heel dicht bij. Een meisje op mijn werk woont naast het gebied wat was afgezet en iedereen in Delft is weleens met tram 1 langs de Laak gereden.

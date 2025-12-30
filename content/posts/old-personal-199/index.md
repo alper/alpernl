@@ -4,6 +4,7 @@ date: 2005-03-22T23:56:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Op frankwatching een uitgebreid [stuk over screencasting](http://www.frankwatching.com/archive/2005/03/21/trend_screencasting). Natuurlijk veel [Jon Udell](http://www.oreillynet.com/pub/au/32) —koning van het medium— en de talloze offsprings.

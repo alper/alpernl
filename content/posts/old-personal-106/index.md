@@ -4,6 +4,8 @@ date: 2005-01-03T15:49:00
 author: alper
 categories:
   - nederlands
+  - istanbul
+  - travel
 ---
 
 Ik ben er en Istanbul is overweldigend, gigantisch en fantastisch.

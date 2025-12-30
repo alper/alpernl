@@ -4,6 +4,8 @@ date: 2005-01-12T16:14:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - reading
 ---
 
 Net even boodschappen gedaan. Handig aan Delft is dat je dan in tien minuten het dorp bent rondgelopen.

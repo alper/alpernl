@@ -4,6 +4,8 @@ date: 2005-02-05T23:47:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - video
 ---
 
 Volgende week begint een nieuw kwartaal van colleges in alle hevigheid. Ik heb vandaag dus maar gedaan wat de komende zeven weken niet gaat lukken: **niks**.

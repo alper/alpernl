@@ -4,6 +4,7 @@ date: 2005-01-23T02:53:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Naar aanleiding van dat stukje over uitstellen en concentratie ben ik begonnen met opschrijven wanneer ik aan mijn studieboek zit en wanneer ik langer dan twee minuten weg ben.

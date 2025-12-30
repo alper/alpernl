@@ -4,6 +4,7 @@ date: 2004-11-15T19:02:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Dat fascisme in welke vorm dan ook eng is, kun je zien in dit erg mooi gemaakte [filmpje](http://www.knife-party.net/movs/barry.mov) ‘what barry says’ met een redelijk bekende maar toch heftige boodschap ([via](http://www.bartvandergriendt.nl/blogs/archief/816.htm)).

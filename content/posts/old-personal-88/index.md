@@ -4,6 +4,8 @@ date: 2004-12-17T17:30:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - delft
 ---
 
 Te gek gaaf en bruut!
@@ -18,4 +20,4 @@ Het is een:
 
 9
 
-. Daar kan je toch leuk mee thuiskomen.
+Daar kan je toch leuk mee thuiskomen.

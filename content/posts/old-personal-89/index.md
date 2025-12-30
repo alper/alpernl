@@ -4,6 +4,7 @@ date: 2004-12-17T19:17:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 **Tip voor Turken**

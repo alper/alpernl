@@ -4,6 +4,7 @@ date: 2005-02-23T19:47:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik liep gisteren [de vergulde pauw](http://62.212.64.187/delftweb/pages/vpauw/site.html) binnen. Silvia d'r ontkalkingsmiddel is op en als dat op blijft dan leeft ze niet zo heel lang meer. Dan gaat haar boiler verkalken en doorlekken etc. Geen prettig einde voor zo'n mooi espresso-apparaat.

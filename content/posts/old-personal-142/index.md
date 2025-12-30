@@ -4,6 +4,7 @@ date: 2005-01-29T12:47:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Ontwikkeling in Python gebied ligt nooit stil. Er wordt flink ge-koningd door de gebruikelijke koningen.

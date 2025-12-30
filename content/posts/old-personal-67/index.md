@@ -4,6 +4,7 @@ date: 2004-12-02T01:42:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik heb de laatste tijd een beetje een onbestemd nutteloos gevoel. Ik moet iets doen maar ik weet niet wat. Ik heb het druk met dingen die onbelangrijk lijken.

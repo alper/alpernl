@@ -4,6 +4,8 @@ date: 2004-12-30T17:50:00
 author: alper
 categories:
   - nederlands
+  - travel
+  - istanbul
 ---
 
 Het is door! Iets anders dan ik gedacht had maar ik ga.

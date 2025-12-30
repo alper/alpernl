@@ -4,6 +4,7 @@ date: 2004-10-17T00:11:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb pas [Eurotrip](http://www.imdb.com/title/tt0356150/) en [White Chicks](http://www.imdb.com/title/tt0381707/) gezien. Allebei wel aardig maar niet ontzettend grappig.

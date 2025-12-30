@@ -4,6 +4,8 @@ date: 2004-11-03T00:31:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - theater
 ---
 
 Ik hoorde vandaag in de hele media-hype rond de dood van Theo van Gogh dat zijn laatste twee projecten Medea en [06-05](http://www.imdb.com/title/tt0419952/) misschien wel zijn beste zijn geweest.
@@ -14,8 +16,6 @@ Het stuk wat ik van Medea vandaag op tv heb gezien zag er heel stoer uit. Dat ka
 
 Ik heb pas weer de [toneelbewerking](http://www.goddeau.com/website/mammamedea.html) van [Lanoye](http://www.lanoye.be/) van dit stuk gelezen. Medea komt in januari op televisie. Hier alvast het einde van Lanoye:
 
-
->
 > **Jason**: Die propjes.
 
 > **Medea:** Propjes?
@@ -39,5 +39,3 @@ Ik heb pas weer de [toneelbewerking](http://www.goddeau.com/website/mammamedea.h
 > **Jason:** Beschermen?
 
 > **Medea:** Tegen mij.
-
->

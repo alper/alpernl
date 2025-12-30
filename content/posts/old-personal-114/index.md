@@ -4,6 +4,7 @@ date: 2005-01-09T14:52:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Marijnissen mag de voorman zijn van een partij met een rare en achterhaalde ideologie. Hij is wel politiek begaafd, slim en scherp.

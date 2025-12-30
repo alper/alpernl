@@ -4,6 +4,7 @@ date: 2005-01-26T17:39:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 booya!

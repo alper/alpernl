@@ -4,6 +4,7 @@ date: 2004-12-09T12:17:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Hier een [nieuwsbericht](http://www.foxnews.com/story/0,2933,140612,00.html) uit de Amerikaanse mainstream media.

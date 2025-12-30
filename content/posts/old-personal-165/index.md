@@ -4,6 +4,8 @@ date: 2005-02-21T01:08:00
 author: alper
 categories:
   - nederlands
+  - theater
+  - amsterdam
 ---
 
 Navertellen van toneel (zeker dit stuk) geeft meestal niet de beste resultaten. Dat ga ik dan ook maar niet proberen maar ik *moet* iets kwijt over [het toneelstuk](http://www.compagnietheater.nl/) dat ik vrijdag gezien heb. Ik had de alleen maar positieve [minirecensies](http://www.moose.nl/inhoud/minirec/voorstelling.php?voorstellingid=1967) op [Moose](http://www.moose.nl) gezien. Het stuk “Gilgamesj“ speelt nog maar tot 26 maart dus ik moest snel zijn.

@@ -4,6 +4,7 @@ date: 2005-02-05T23:41:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Een van de eerste releases van [Sunbird](http://www.mozilla.org/projects/calendar/sunbird.html) is uit. Ik geloof een [0.2 versie](http://www.mozilla.org/projects/calendar/sunbird_download.html). Ik heb hem maar gepakt omdat ik hem temminste even wilde zien. Ik was erg blij verrast dat ik het zipje gewoon kon uitvoeren zonder installatie of ontbrekende bibliotheken.

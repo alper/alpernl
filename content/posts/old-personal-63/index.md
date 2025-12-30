@@ -4,6 +4,7 @@ date: 2004-11-28T17:48:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Ik kwam hem weer tegen en ik ben binnen Europa wel redelijk bereisd maar globaal gezien echt niet.

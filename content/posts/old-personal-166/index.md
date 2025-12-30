@@ -4,6 +4,7 @@ date: 2005-02-22T13:09:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik scan nog steeds weleens de weblogs van SP-bobos.

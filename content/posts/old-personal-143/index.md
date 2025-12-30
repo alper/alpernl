@@ -4,6 +4,7 @@ date: 2005-01-29T14:39:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Tentamens voorbij dus het wordt tijd dat ik weer een keer bij mijn ouders langs ga. Ik laat jullie achter met een samenvatting van het nieuws.

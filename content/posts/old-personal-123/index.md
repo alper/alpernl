@@ -4,6 +4,7 @@ date: 2005-01-15T19:16:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Goed voorbeeld dat niet wapens mensen dood maken maar mensen mensen dood maken: [‘Man overleden na mishandeling Rotterdam’](http://frontpage.fok.nl/nieuws/50303).

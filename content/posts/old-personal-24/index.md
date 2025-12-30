@@ -4,6 +4,7 @@ date: 2004-11-04T01:07:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Gisteravond laat nog geluisterd naar de nachtuitzending van Radio 1. Om twee uur naar bed toen net de eerste paar staten kwamen binnendruppelen. Vanmorgen opgestaan en meteen het bed uit om de uitslag te checken.

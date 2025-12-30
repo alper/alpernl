@@ -4,6 +4,7 @@ date: 2005-02-13T21:51:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Ik ga met vijf vrienden een weekje naar [Rome!](http://www.romaturismo.it/)

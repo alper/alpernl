@@ -4,6 +4,8 @@ date: 2004-11-14T00:10:00
 author: alper
 categories:
   - nederlands
+  - games
+  - delft
 ---
 
 **[Ochtend]** Ik heb de halve nacht van donderdag op vrijdag Neverwinter Nights zitten spelen. Leuk, mooi, spannend spel. Doet het goed bij de D&D fanboys. Op een gegeven moment loopt dat leuke spel vast. Na een kwartier vind ik het wel leuk geweest en ram het spel eruit. De ellende begint.

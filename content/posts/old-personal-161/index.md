@@ -4,6 +4,7 @@ date: 2005-02-14T22:01:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Google Maps](http://maps.google.com) is erg cool  maar alleen voor Amerika.

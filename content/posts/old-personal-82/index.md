@@ -4,6 +4,7 @@ date: 2004-12-13T22:32:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik heb net even mijn XP-partitie opgestart om te kijken of mijn microfoon het wel doet. Onder Linux heb ik er wat problemen mee, vandaar.

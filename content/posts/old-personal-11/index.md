@@ -4,6 +4,8 @@ date: 2004-10-24T14:25:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - software-engineering
 ---
 
 Via verschillende blogs klein nieuws over Google. Ik heb net een [filmpje](http://norfolk.cs.washington.edu/htbin-post/unrestricted/colloq/details.cgi?id=274) bekeken van Jef Dean die een presentatie geeft over Google. Geen hele spannende nieuwe dingen maar wel leuk om te zien.

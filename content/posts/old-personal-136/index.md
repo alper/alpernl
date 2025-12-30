@@ -4,6 +4,7 @@ date: 2005-01-24T13:40:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Via [Miguel](http://primates.ximian.com/~miguel/archive/2005/Jan-25.html) wat [filmpjes van Nat](http://www.nat.org/2005/january/#24-January-2005) waarin hij [Beagle](http://www.gnome.org/projects/beagle/) en [Mono](http://www.mono-project.com/about/index.html) [demo't](http://www.vandale.nl/opzoeken/woordenboek/?zoekwoord=demo'en).

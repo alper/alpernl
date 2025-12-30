@@ -4,6 +4,8 @@ date: 2004-12-31T16:35:00
 author: alper
 categories:
   - nederlands
+  - poetry
+  - politics
 ---
 
 Via de [Leeskamer](http://users.pandora.be/jan.coucke/dlk/2004_12_01_archief.html#110450402570803926) in de [Standaard](http://www.standaard.be) een kritisch [stuk van Nasr](http://www.standaard.be/partners/?articleID=G9LBCEFO) over Nederland. Erg goed en erg scherp (Nasr dus).
@@ -72,7 +74,7 @@ Ramsey Nasr
 
 31/12/2004
 
-	
+
 
 Ramsey Nasr
 

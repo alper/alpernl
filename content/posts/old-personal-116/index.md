@@ -4,6 +4,7 @@ date: 2005-01-09T15:57:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Python is **da bomb!**
@@ -12,15 +13,19 @@ Er komen nog steeds (meer) nieuwe features bij. De nieuwste ervan zijn *decorato
 
 Het ziet er zo uit:
 
+```
 @foo
 
 def bar()
+```
 
 wat vertaalt in:
 
+```
 def bar()
 
 bar = foo(bar)
+```
 
 Wat heb je hieraan? Heel veel dingen, die niet allemaal direct duidelijk zijn.
 

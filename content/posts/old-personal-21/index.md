@@ -4,6 +4,7 @@ date: 2004-11-02T13:34:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Je hebt nu mensen die zich verslagen voelen en hard uit willen halen. Dat is best begrijpelijk. Op 9/11 had bijna elke Amerikaan iets van “we're gonna tear the world a new asshole”.

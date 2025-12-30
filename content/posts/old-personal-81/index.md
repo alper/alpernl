@@ -4,6 +4,7 @@ date: 2004-12-12T23:57:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Ik ben een beetje aan het kijken naar [Tomcat](http://jakarta.apache.org/tomcat/) en [Struts](http://struts.apache.org/) en dat geeft me weer vertrouwen in server-side Java. Vertrouwen dat het hele [J2EE](http://java.sun.com/j2ee/index.jsp) kapot heeft gemaakt.

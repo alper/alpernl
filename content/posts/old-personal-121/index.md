@@ -4,6 +4,7 @@ date: 2005-01-15T17:26:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 In de kritieken op Abu Ghraib en Guantanamo wordt misschien een beetje vergeten dat wij de Good Guys zijn. En dat de vijanden niet echt lieverdjes zijn (denk onze Hofstad-groep maar dan veel erger).

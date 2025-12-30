@@ -4,6 +4,8 @@ date: 2005-03-03T21:26:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Mijn [brief aan minister veerman](http://www.alper.nl/so_briefveerman.html) voor [NoSoftwarePatents](http://www.nosoftwarepatents.com) had ik verstuurd via een fax-gateway. Ik heb er vandaag zowaar een [antwoord](http://www.alper.nl/so_antwoordveerman.pdf) op gekregen.

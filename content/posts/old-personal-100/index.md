@@ -4,6 +4,7 @@ date: 2004-12-30T18:43:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 We schopt die [DJ's](http://www.3fm.nl/page/darfur) terug dat glazen huis in?

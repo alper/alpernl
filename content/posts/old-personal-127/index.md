@@ -4,6 +4,8 @@ date: 2005-01-18T01:09:00
 author: alper
 categories:
   - nederlands
+  - language
+  - delft
 ---
 
 Vannacht om 00:00 heb ik me ingeschreven voor de Basiscursus Spaans ([wm1108tu](http://www.onderwijs.tbm.tudelft.nl/Modules_en_vakken/KeuzevakkenIFO/wm1108tu.htm)). Het secretariaat vertelde me dat je er echt bij moet zijn zodra de inschrijfperiode opent omdat het zo vol is. Dat klopt dus ook. Maar even afwachten om te zien of ik word geplaatst.
@@ -12,7 +14,9 @@ Om middernacht precies werd het [Tentamen Aanmeld Systeem](http://tas.tudelft.nl
 
 Ik weet zeker dat er geen geavanceerde async-server achter steekt maar ik vermoed dat ze zelfs zijn ‘vergeten’ om een [ThreadPool](http://java.sun.com/j2se/1.5.0/docs/api/java/util/concurrent/ThreadPoolExecutor.html) te gebruiken en gewoon voor elk nieuwe Request een
 
+```
 new Thread()
+```
 
 aanmaken (zoals je ziet in naïeve voorbeelden).
 

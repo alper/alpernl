@@ -4,6 +4,7 @@ date: 2005-02-26T12:46:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik ben echt een bizarre koning! Heb net mijn tweede cijfer binnen voor Artificial Intelligence & Techniques en het is een 9!

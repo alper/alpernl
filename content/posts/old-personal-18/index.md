@@ -4,6 +4,7 @@ date: 2004-10-29T11:59:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik heb net een tentamen [“The Innovating Firm in a Societal Context”](http://amigo.tbm.tudelft.nl/amigo/body/studyguide_en.jsp?code=mot1420) gehad. Dat is moeilijkdoenerij voor wat eigenlijk inleiding economie is.

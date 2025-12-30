@@ -4,6 +4,8 @@ date: 2005-01-31T22:41:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Nu bijna drie jaar geleden maar nog steeds de prangendste, helderste en belangrijkste [toespraak, presentatie en boodschap](http://randomfoo.net/oscon/2002/lessig/free.html) (flash met geluid) op het gebied van auteursrechten van Lawrence Lessig op OSCON.

@@ -4,6 +4,7 @@ date: 2005-01-26T00:35:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Meer [Ximian](http://www.ximian.com/): [een uitleg](http://primates.ximian.com/~miguel//texts/gtkjava.html) hoe Java code gebruik te laten maken van Gtk# en te draaien op [Mono](http://www.mono-project.com/).

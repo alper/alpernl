@@ -4,6 +4,7 @@ date: 2004-11-22T20:53:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik vind [Kopspijkers](http://www.omroep.nl/vara/kopspijkers/) al ontzettend lang te saai voor woorden. Behalve dat cabaret op het einde dat is meestal nog wel leuk.

@@ -4,6 +4,7 @@ date: 2004-12-12T23:03:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 **Turkije wel**

@@ -4,6 +4,8 @@ date: 2005-01-19T23:43:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - software-engineering
 ---
 
 (Ik moet studeren maar dat boek over AI is echt te saai en slecht geschreven voor  woorden.)

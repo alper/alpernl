@@ -111,6 +111,9 @@
   * [x] Check and fix content for tech
   * [x] Check and fix content for studies
   * [ ] Check and fix content for personal
+    * [x] 1-100
+    * [x] 101-200
+    * [ ] 201-300
   * [ ] Check all internal links in the blog and fix them
   * [ ] Re-include all flickr images (and their weird links)
 * [ ] Get rid of all GIFs
@@ -143,4 +146,4 @@
 
 ## Write a post
 
-* hugo new content/posts/18730/index.md
+* hugo new content/posts/18731/index.md

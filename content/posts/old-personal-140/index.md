@@ -4,6 +4,7 @@ date: 2005-01-26T23:53:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De laatste paar dagen her en der verhalen over de [herdenking](http://www.nos.nl/nieuws/artikelen/2005/1/23/auschwitzherdenking102000namen.html) van 60 jaar Auschwitz. Verschrikkelijk natuurlijk.
