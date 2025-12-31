@@ -7,6 +7,9 @@ publish:
 _write path:
     echo "New path: {{ path }}"
     hugo new {{ path }}
-    hx {{ path }}
+    code {{ path }}
 
 write: (_write path)
+
+serve:
+    hugo server --buildDrafts --disableFastRender
