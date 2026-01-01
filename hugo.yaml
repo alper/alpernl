@@ -104,7 +104,7 @@ menus:
   #   pageRef: "tags"
 permalinks:
   page:
-    posts: /blog/:contentbasename/
+    posts: /posts/:contentbasename/
     pages: /:slug/
   section:
     posts: /posts/
