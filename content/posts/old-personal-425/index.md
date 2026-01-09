@@ -4,6 +4,7 @@ date: 2005-11-24T19:04:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Het is vandaag Thanksgiving en zoals iedereen weet krijg je dan bij de [American Book Centre](http://www.abc.nl) 10% extra korting op je boeken (voor een totaal van 20% dus). Dus als je in de buurt van ofwel Amsterdam, Den Haag of Leuven woont schiet op en pak je kans. Den Haag is nog tot 21:00 open en Amsterdam volgens mij ook.

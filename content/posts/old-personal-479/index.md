@@ -4,6 +4,8 @@ date: 2005-12-30T01:31:00
 author: alper
 categories:
   - nederlands
+  - reading
+  - politics
 ---
 
 Goed nieuws van het pro-Pamuk front. De aanklagers hebben één van de twee aanklachten laten vallen (BBC: [“Partial Reprieve for Turk Writer”](http://news.bbc.co.uk/2/hi/europe/4566972.stm)).

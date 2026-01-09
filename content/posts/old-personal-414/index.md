@@ -4,6 +4,8 @@ date: 2005-11-16T21:06:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - capoeira
 ---
 
 Het is donker, ontzettend koud en het regent. Ik ben nat en fiets keihard door de TU-wijk naar het Cultureel Centrum; woensdagavond Capoeira les. Het is druk op de weg, overal fietsen mensen letterlijk en figuurlijk als debielen.

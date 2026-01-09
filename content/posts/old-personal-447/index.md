@@ -4,6 +4,7 @@ date: 2005-12-10T01:51:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Bij Frankwatching wordt de laatste tijd (makkelijk) gescoord door artikelen uit de  mainstream media te vertalen. Het doet het goed. Er zijn blijkbaar genoeg mensen in Nederland die het Engels nog (te) slecht beheersen.

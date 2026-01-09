@@ -4,6 +4,8 @@ date: 2005-11-27T16:14:00
 author: alper
 categories:
   - nederlands
+  - video
+  - internet
 ---
 
 Televisie af kunnen spelen op mijn nieuwe media center setup zou erg fijn zijn. Het is alleen erg jammer dat de publieke omroep nog niet de drie hoofdnetten integraal streamt.

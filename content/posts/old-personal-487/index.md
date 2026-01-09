@@ -4,6 +4,7 @@ date: 2006-01-04T23:31:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 > Our Leader hasn't caught Osama bin Laden, but he's doing a bang up job rounding up brown people.

@@ -4,6 +4,7 @@ date: 2005-12-13T21:47:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Ik kwam deze tegen in een signature:

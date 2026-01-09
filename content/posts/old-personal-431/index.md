@@ -4,6 +4,8 @@ date: 2005-11-29T14:20:00
 author: alper
 categories:
   - nederlands
+  - video
+  - delft
 ---
 
 Deze week draaien in [Filmhuis Lumen](http://www.filmhuis-lumen.nl/) de belangrijkste films van de Poolse filmmaker [Krzysztof Kieslowski](http://www.imdb.com/name/nm0001425/) in het kader van een landelijk [Kieslowski festival](http://www.kieslowski.nl/).

@@ -4,6 +4,7 @@ date: 2005-12-11T14:02:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik kijk nog meer uit naar de [Narnia film](http://instapundit.com/archives/027389.php) ([trailer](http://trailers.apple.com/trailers/disney/thechroniclesofnarnia/hd/)) film dan naar [King Kong](http://www.boingboing.net/2005/12/10/john_shirley_reviews.html).

@@ -4,6 +4,7 @@ date: 2005-12-08T00:01:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 [Economie voor beginners](http://www.aaronsw.com/weblog/understandingeconomics)

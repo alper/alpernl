@@ -4,6 +4,7 @@ date: 2005-12-15T13:25:00
 author: alper
 categories:
   - nederlands
+  - amsterdam
 ---
 
 Wat mijn toekomstbeeld al een tijdje vertroebelde wordt nu bevestigd. Ik wil best deel uitmaken van de creatieve klasse in Amsterdam, maar dan zou ik ook graag ín die stad willen wonen.

@@ -4,6 +4,7 @@ date: 2005-11-17T12:29:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Yippee! Ik heb gisteravond de knop maar omgezet om het hele alper.nl domein op mijn bak thuis te hosten.

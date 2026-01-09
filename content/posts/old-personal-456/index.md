@@ -4,6 +4,7 @@ date: 2005-12-14T00:36:00
 author: alper
 categories:
   - nederlands
+  - art
 ---
 
 We staan aan de vooravond van een Rembrandtjaar —[Rembrandt](http://en.wikipedia.org/wiki/Rembrandt)'s 400ste geboortejaar— waarin een complete hausse op gaat treden rondom een van de grootste kunstenaars die Nederland ooit heeft gekend.

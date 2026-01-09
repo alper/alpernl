@@ -4,6 +4,7 @@ date: 2005-12-22T20:59:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb net aflevering 4 gezien van de toch wel erg vermakelijke [HBO-serie Rome](http://www.hbo.com/rome). [Stewart](http://www.comedycentral.com/shows/the_daily_show/news_team/anchor/jon_stewart.jhtml) en [Colbert](http://www.comedycentral.com/shows/the_colbert_report/host/stephen_colbert.jhtml) zijn met winterstop en dan moet je toch wat.

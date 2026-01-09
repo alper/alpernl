@@ -4,6 +4,7 @@ date: 2005-12-04T21:18:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Al veel te lang (2 maanden) niet meer gereisd. Het gaat niet snel gebeuren maar het is wel even leuk om vooruit te kijken.

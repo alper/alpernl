@@ -4,6 +4,7 @@ date: 2005-12-12T15:17:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 [Woestijnruiters](http://omroep.vara.nl/tvradiointernet_detail.jsp?maintopic=424&subtopic=219241) van gisteren weer erg goed.

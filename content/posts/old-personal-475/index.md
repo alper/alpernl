@@ -4,6 +4,7 @@ date: 2005-12-27T23:44:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Vandaag een stuk in de groene gelezen met aan het einde de melding dat je online verder moet.

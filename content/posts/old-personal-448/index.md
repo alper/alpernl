@@ -4,6 +4,7 @@ date: 2005-12-10T15:56:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik had [Taxi](http://www.imdb.com/title/tt0152930/) gehuurd. Hij moest vandaag terug maar ik wilde hem toch nog even zien. Hij zit erg goed in elkaar, heel leuk en geen seconde verveeld.

@@ -4,6 +4,7 @@ date: 2006-01-10T21:12:00
 author: alper
 categories:
   - nederlands
+  - amsterdam
 ---
 
 Ik zit nu in de Balie op de Amsterdam Macworld meetup. Ik zet straks de foto's online maar je kunt alvast de [foto's van Katie](http://www.flickr.com/photos/katielips/sets/1813016/) bekijken.

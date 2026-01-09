@@ -4,6 +4,8 @@ date: 2005-11-14T23:49:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 Had [bij Groenteman al gehoord over het trein-incident](http://www.hannekegroenteman.nl/archief/2005/10/09/de_meiden_van_halal) van de meisjes van Halal. Daarom en omdat het onderwerp me een beetje interesseert, heb ik maar wat teruggekeken. Het staat niet op UitzendingGemist maar [op hun eigen site](http://www.omroep.nl/nps/mix/welcome.html?../meidenvanhalal/mainframe_meidenvanhalal.html~main).

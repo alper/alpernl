@@ -4,6 +4,7 @@ date: 2005-12-18T02:26:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Normaal gesproken doe ik op zaterdag niet zo veel en voel ik me daarna schuldig daarover. Vandaag heb ik besloten om gewoon niet zo veel te doen en me er niet schuldig over te voelen.
@@ -32,7 +33,7 @@ Begonnen met ****[Desperado](http://www.imdb.com/title/tt0112851), aardige film.
 
 Toen dwars door een hagelbui de stad in om boodschappen te doen en pasfoto's te laten maken. Ik moet maandag 2 pasfoto's inleveren bij mijn rijleraar.
 
-![Photographs](http://static.flickr.com/36/74574403_853559b66a_t.jpg)[](http://www.flickr.com/photos/alper/74574403/)
+![Photographs](http://static.flickr.com/36/74574403_853559b66a_t.jpg)
 
 Daarna relaxed doorgegaan met ****[5x2](http://www.imdb.com/title/tt0354356). Een film die bijna compleet moet hebben van de volgorde. Het is een standaard verhaal over een stel met karakters die nauwelijks inhoud hebben. De acteurs speelden dat toch best goed.
 

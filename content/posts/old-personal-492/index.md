@@ -4,6 +4,7 @@ date: 2006-01-10T14:58:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De Washington Post (naar verluid een van de beste kranten van Amerika) begrijpt het echt.

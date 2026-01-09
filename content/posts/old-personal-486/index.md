@@ -4,6 +4,7 @@ date: 2006-01-04T16:55:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Ik schreef net in mijn [samenvatting van The Wisdom of Crowds](http://alper.nl/wiki/index.php/The_Wisdom_of_Crowds) van James Surowiecki dat als je targets stelt mensen er alles aan zullen doen:

@@ -4,6 +4,7 @@ date: 2005-11-08T10:24:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 De dag begint pas echt goed als ik *The Daily Show* en *The Colbert Report* heb getorrent en gekeken. 's Ochtends lachen is een goede start.

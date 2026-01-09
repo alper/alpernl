@@ -4,6 +4,7 @@ date: 2005-12-08T09:34:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Peter R. de Vries heeft diskette's op de kop getikt die een veiligheidsdienst kwijt is geraakt. Dit verhaal is veiligheidstechnisch een grap.

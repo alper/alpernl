@@ -4,6 +4,7 @@ date: 2005-11-19T18:23:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Door een slecht (=niet) gecommuniceerde verandering bij de mailservers van mijn faculteit heb ik de afgelopen 48 uur geen e-mail ontvangen. Ik vond het al zo rustig…

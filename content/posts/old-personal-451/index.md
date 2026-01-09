@@ -4,6 +4,8 @@ date: 2005-12-10T18:49:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 [Fragmentje NOVA Politiek](rtsp://streams.omroep.nl/tv/nps/nova/bb.20051209-a.rm?proto=rtsp&start=0:0:45:40&end=0:0:46:46) waarin D'66 goed afgezeken wordt door Pauw.

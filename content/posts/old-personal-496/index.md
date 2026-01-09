@@ -4,6 +4,7 @@ date: 2006-01-15T00:00:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Jon Stewart is niet de enige die terug is. Stephen Colbert is ook terug en hoe!

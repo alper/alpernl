@@ -4,6 +4,8 @@ date: 2005-11-20T20:20:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 [Neelie Kroes in Buitenhof](http://www.vpro.nl/programma/buitenhof/afleveringen/24496446/items/24981078/) over het vrijgeven van de energiemarkt.

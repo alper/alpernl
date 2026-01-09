@@ -4,6 +4,7 @@ date: 2005-11-22T19:58:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Weggelegd voor de goede mensen die een Mac gebruiken: de [Rijksmuseum Widget](http://www.rijksmuseum.nl/widget?lang=nl) ([via](http://www.hansonexperience.com/my_weblog/2005/11/wil_je_elke_dag.html)).

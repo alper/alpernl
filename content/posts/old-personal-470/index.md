@@ -4,6 +4,7 @@ date: 2005-12-25T01:12:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Het [college van Jojanneke](http://www.schranz.nu/) had gisteren kerstdiner met het thema: “Hoera! Het is een jongen!”.

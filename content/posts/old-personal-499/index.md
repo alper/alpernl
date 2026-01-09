@@ -4,11 +4,12 @@ date: 2006-01-17T14:41:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Het CDA komt met een nieuw ‘plan’ om haatzaaien in de samenleving pre-emptiever en effectiever aan te pakken. Het argument van de kamer tegen dit voorstel is dat dit niks toevoegt en de rechterlijke macht afvalt.
 
-![Kritiek Kamer op haatzaaiplan CDA](http://static.flickr.com/42/87792657_d408e92039_m.jpg)[](http://www.flickr.com/photos/alper/87792657/)
+![Kritiek Kamer op haatzaaiplan CDA](http://static.flickr.com/42/87792657_d408e92039_m.jpg)
 
 Wat erger is dat deze regel helemaal niet gaat over haatzaaien in welke vorm dan ook. Het gaat puur om het aanpakken van alles wat moslim is en in de ogen van CDA'ers eng is.
 

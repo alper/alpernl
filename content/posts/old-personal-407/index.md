@@ -4,6 +4,7 @@ date: 2005-11-13T12:15:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Bizar en onthullend portret van modernisering en de positie van de vrouw in de Saoudi-Arabische samenleving in Tegenlicht: [Saoudische Oplossingen](http://www.vpro.nl/programma/tegenlicht/afleveringen/24810864/).

@@ -4,6 +4,7 @@ date: 2005-11-30T21:17:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Peter R. de Vries kaart weer iets aan dat electoraal niet geweldig ligt. De [overdreven en overtrokken aanpak](http://www.nu.nl/news/634773/11/Peter_R._de_Vries%3A_kabinet_biedt_schijnveiligheid.html) van het terrorisme door het kabinet.

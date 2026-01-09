@@ -4,6 +4,7 @@ date: 2006-01-18T14:42:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik heb even alle indices opgeschreven waarop Pastors iets zegt en deze in een RAM bestand (Real Playlist) gestopt. Nog een hels karwei en niet overal even goed gelukt maar ik krijg met [de gratis Real Player](http://www.real.com/moreinfo/playerplus_features.html?system=mac) mijn handen niet op het hele bestand om het in iMovie aan te pakken.

@@ -4,6 +4,7 @@ date: 2005-11-23T01:15:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Vanochtend het mannetje van de post met een pakje voor mij. Eindelijk na lang wachten mijn nieuwe paar hoofdtelefoons voor mijn privé-muziekbehoefte. Die speakers van mijn iBook zijn leuk maar ze worden niet overal even hard op prijs gesteld.

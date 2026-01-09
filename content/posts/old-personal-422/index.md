@@ -4,6 +4,7 @@ date: 2005-11-22T20:37:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Eerder [wees ik](/blog/alper/413) al op onze troetel-Kazach Borat. Ik doe nu een halve poging om te zien hoe goed mijn Kazachs is. Het Kazachs is een Turkse taal. Vandaar dat ik er wel een beetje wegwijs in kan.

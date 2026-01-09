@@ -4,6 +4,7 @@ date: 2006-01-08T23:47:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Zo, lang niet meer in Egmond geweest, of in Alkmaar of Heiloo. Vanochtend om 07.00 opgestaan om het mee te kunnen maken.

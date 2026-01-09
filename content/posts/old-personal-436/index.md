@@ -4,6 +4,7 @@ date: 2005-12-04T15:31:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Bij Radio Online zowaar een half positief item over [Ubuntu Linux](http://www.radio-online.nl/archives/archive_2005-m11.php#e349). Wel weer wat weinig inhoud, maar het is een goed begin.

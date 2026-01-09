@@ -4,9 +4,10 @@ date: 2005-12-26T18:49:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
-Ik was [Rome aan het kijken](http://www.alper.nl/blog/alper/468) en dat was voorbij voor ik het wist.
+Ik was [Rome aan het kijken](/posts/old-personal-468) en dat was voorbij voor ik het wist.
 
 Hoe verder de serie vorderde hoe meer er werd afgeweken van de geschiedenis en de tijd werd opeens heel vloeibaar.
 

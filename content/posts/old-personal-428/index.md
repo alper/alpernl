@@ -4,6 +4,8 @@ date: 2005-11-26T23:10:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - delft
 ---
 
 Ik had een Web 2.0 evenementenkalender bedacht en wilde al iets in elkaar draaien maar blijkt dat dat al lang bestaat: Upcoming.org.

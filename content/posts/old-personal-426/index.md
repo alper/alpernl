@@ -4,6 +4,8 @@ date: 2005-11-26T14:30:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 [Stukje uit NOVA Politiek waar Peter R. de Vries Bibi de Vries aanpakt.](rtsp://streams.omroep.nl/tv/nps/nova/bb.20051125-a.rm?proto=rtsp&start=0:0:10:20.0&end=0:0:11:15.0) (Real fragment).

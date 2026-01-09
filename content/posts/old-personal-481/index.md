@@ -4,6 +4,8 @@ date: 2006-01-01T15:31:00
 author: alper
 categories:
   - nederlands
+  - video
+  - reading
 ---
 
 Nu nog maar even het jaaroverzicht van afgelopen jaar.

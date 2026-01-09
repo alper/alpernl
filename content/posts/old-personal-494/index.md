@@ -4,6 +4,7 @@ date: 2006-01-11T18:27:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik weet niet wat de vertaling van *‘Fair Use’* is maar Redelijk Gebruik klinkt niet zo lekker. Volgens [Wikipedia](http://nl.wikipedia.org/wiki/Fair_use) lijkt het op het Nederlandse citaatrecht.

@@ -4,6 +4,7 @@ date: 2005-12-02T14:08:00
 author: alper
 categories:
   - nederlands
+  - theater
 ---
 
 Gisteren naar de voorstelling [Tirannie van de Tijd](http://www.hzt.nl/content2.asp?path=bmyp19kp) geweest en het was [tien keer niks](http://www.moose.nl/inhoud/minirec/voorstelling.php?voorstellingid=2170). Hoofdschuldigen waren de slechte tekst, het vage verhaal en het buitengewoon matige spel.

@@ -4,6 +4,7 @@ date: 2006-01-04T13:35:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Het moest er ooit van komen: Reclame op [Uitzendinggemist.nl](http://portal.omroep.nl/nossites?nav=yxqgtCsHjCqBfEnCmD).

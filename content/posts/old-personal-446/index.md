@@ -4,6 +4,7 @@ date: 2005-12-10T01:38:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Asa is terecht boos](http://weblogs.mozillazine.org/asa/archives/2005/12/firefox_15_vers.html).

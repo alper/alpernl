@@ -4,6 +4,7 @@ date: 2005-12-15T16:05:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Op 14 december in Straatsburg heeft het Europese parlement het besloten. Alle telefoon en e-mail gegevens van Europese burgers worden bewaard. [Persbericht Bits of Freedom](http://www.bof.nl/docs/persbericht14122005.pdf)

@@ -4,6 +4,7 @@ date: 2006-01-02T21:48:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik ben er ondertussen achter dat ik aan het spelen ben met mijn leven. Net fietsend over het stationsplein word ik van de weg af gedrukt door een rechtsafslaande auto. Hij wat lakschade, ik geschrokken.

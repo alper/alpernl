@@ -4,6 +4,8 @@ date: 2005-12-09T22:43:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - capoeira
 ---
 
 Kijk deze [filmpjes op aanraden van Nat](http://nat.org/2005/december/#New-life-goal).

@@ -4,6 +4,7 @@ date: 2005-12-09T23:37:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb net [Crash](http://www.imdb.com/title/tt0375679/) gezien. Hele heftige film, die laat zien dat niets zwart of wit is en dat mensen zich laten verdelen op het makkelijkste verschil: ras.

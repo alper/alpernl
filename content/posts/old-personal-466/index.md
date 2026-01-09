@@ -4,6 +4,7 @@ date: 2005-12-19T17:58:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik heb geen flauw idee wat Wouter Bos nu eigenlijk te melden heeft. Afgelopen vrijdag zat hij in [Nova Politiek](http://www.novatv.nl/index.cfm?cfid=739389&cftoken=78229505&ln=nl&fuseaction=politiek.details&politiek_id=60) dingen te vertellen over zijn nieuwe boek.

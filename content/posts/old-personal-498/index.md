@@ -4,6 +4,7 @@ date: 2006-01-17T12:29:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Bij Frackers [het idee van Godcasting](http://www.frackers.com/2006/01/17/000554.html). Religieuze content die direct op je iPod wordt geplaatst.
