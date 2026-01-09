@@ -4,6 +4,7 @@ date: 2005-07-19T22:23:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Er is een Flickr groep met mooie foto's uit de moslimcultuur. Gewoon voor de leuk, of om te laten zien dat het ook anders kan, ik weet het niet. De allermooiste foto's staan op het [blog](http://muslimcultures.blogspot.com/) met dezelfde naam ([via](http://www.timmietv.nl/ld/archief/?i=1399&n=1)).

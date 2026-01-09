@@ -4,6 +4,7 @@ date: 2005-07-23T22:51:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Natuurlijk [op Slashdot](http://slashdot.org/article.pl?sid=05/07/23/0240246&tid=97&tid=214&tid=1) de [trailer van de “V for Vendetta” film](http://vforvendetta.warnerbros.com/). Strip van [Alan Moore](http://en.wikipedia.org/wiki/Alan_Moore) en gemaakt door de Wachowski's.

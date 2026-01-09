@@ -4,6 +4,8 @@ date: 2005-06-25T15:11:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 In Den Haag Vandaag [een item](http://www.novatv.nl/index.cfm?cfid=37570856&cftoken=73964214&ln=nl&fuseaction=videoaudio.details&reportage_id=3533) over het plan van de Hoofdcommissarissen om rond de steden digitale slotgrachten aan te brengen. Dit plan klinkt alsof het uit de Middeleeuwen komt, en dat doet het ook. Privacy en burgerrechten hebben bij de politie absoluut de laagste prioriteit.

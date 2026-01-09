@@ -4,6 +4,8 @@ date: 2005-03-27T21:12:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - internet
 ---
 
 Ik kom via het blog van [Asa](http://weblogs.mozillazine.org/asa/archives/007819.html) twee hippe extensies voor Firefox tegen waar je binnenkort niet meer zonder kunt.

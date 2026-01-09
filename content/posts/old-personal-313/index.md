@@ -4,6 +4,7 @@ date: 2005-06-26T21:08:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik heb er al zoveel goede dingen over gehoord dat ik gisteren ook maar begonnen ben met [mijn bookmarks bijhouden in Delicious](http://del.icio.us/alper).

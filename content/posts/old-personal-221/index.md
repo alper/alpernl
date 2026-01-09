@@ -4,6 +4,7 @@ date: 2005-04-08T21:24:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Nog een [RadioOnline van een tijdje terug](http://www.radio-online.nl/pivot/entry.php?id=24), rustig laten bezinken en dan terugluisteren via het [weblog van Francisco van Jole](http://www.2525.com/log/archives/2005/03/tros_radio_onli_18.html). Ik weet het; het is geen programma voor of door experts maar ik mag me toch ergeren als ze weer eens mijn favoriete onderwerp verhaspelen?

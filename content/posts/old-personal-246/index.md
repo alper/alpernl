@@ -4,6 +4,7 @@ date: 2005-04-27T14:28:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Hij is uit, en hij is echt heel cool. De [“Serenity”](http://www.imdb.com/title/tt0379786/combined) [trailer](http://www.apple.com/trailers/universal/serenity/) (hier [fullscreen](http://movies.apple.com/movies/universal/serenity/serenity_ifs2.mov)).

@@ -4,6 +4,8 @@ date: 2005-07-27T20:12:00
 author: alper
 categories:
   - nederlands
+  - poetry
+  - podcast
 ---
 
 Via [Barbara](http://www.cultuurbarbara.nl/archive/2005/07/27/stadsdichters_podcast) de eerste [podcast](http://www.stadsdichterpodcast.be/) waar ik echt heel blij mee ben en die ik compleet ga luisteren. De stadsdichters van Antwerpen, Ramsey Nasr & Tom Lanoye, dragen hun gedichten voor.

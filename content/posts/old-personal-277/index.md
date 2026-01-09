@@ -4,6 +4,7 @@ date: 2005-05-29T13:58:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Xtech](http://www.xtech-conference.org/) is net voorbij, lees wat ervaringen over Amsterdam op [Hixie's Natural Log](http://ln.hixie.ch/). Zijn [presentatie](http://www.hixie.ch/advocacy/whatwg-presentation/) is niet alleen op inhoud, maar ook op vorm erg cool.

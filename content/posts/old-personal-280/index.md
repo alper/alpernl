@@ -4,6 +4,7 @@ date: 2005-05-31T23:19:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Als je dit [filmpje](http://www.cineacnoord.tv/?page=video&film_ID=763) ([via](http://www.2525.com/log/archives/2005/05/dictatuur_van_d.html)) ziet, vraag je je toch af wat de politie te verbergen heeft. Genoeg, blijkbaar.

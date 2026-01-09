@@ -4,6 +4,7 @@ date: 2005-10-06T21:23:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Signalen over Peak Oil en de uiteindelijke gevolgen zijn overal hoorbaar. Moeilijker is het om de complete implicatie tot je te laten doordringen.

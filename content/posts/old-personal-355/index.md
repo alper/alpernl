@@ -4,6 +4,7 @@ date: 2005-08-25T14:36:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Ik ben dus terug. De vakantie was compleet perfect.

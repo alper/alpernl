@@ -4,6 +4,8 @@ date: 2005-06-14T23:40:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 Iedereen wist wel dat het met die thuiskopie-heffingen niet helemaal pluis was. Nu een [bericht op Nu](http://www.nu.nl/news/540696/54/%27Wantoestanden_bij_thuiskopieheffingen_op__dvd%27s%27.html) dat dat ook echt klopt.

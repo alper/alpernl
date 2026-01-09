@@ -4,13 +4,14 @@ date: 2005-04-18T16:20:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Na al dat gedoe met die formulieren had ik vorige week toch alles ingeleverd. Één aanvraag Bachelor-examen en een aanvraag goedkeuring vakkenpakket Master.
 
 Vandaag nog wat dingen verbeterd, misverstanden opgehelderd en handtekeningen opgehaald. (Zonder handtekeningen gebeurt er natuurlijk niks.)
 
-Krijg ik net te horen dat mijn aanvraag Bachelor goed bevonden is! Er  mist nog één vak maar dat zit nog ergens in het systeem. Kan ik hem in oktober ophalen!
+Krijg ik net te horen dat mijn aanvraag Bachelor goed bevonden is! Er mist nog één vak maar dat zit nog ergens in het systeem. Kan ik hem in oktober ophalen!
 
 Mijn aanvraag Master gaat ook wel goed, mijn vakkenpakket is redelijk business ge-orienteerd. Maar ik weet niet of dat ook aansluit bij wat ik wil.
 

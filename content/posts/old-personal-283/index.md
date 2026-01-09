@@ -4,6 +4,8 @@ date: 2005-06-04T15:41:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Onder andere naar aanleiding van [“Nederland tegen ‘triviale’ softwarepatenten”](http://www.nu.nl/news/535600/52/Nederland_tegen_%27triviale%27_softwarepatenten.html) (Nu.nl).

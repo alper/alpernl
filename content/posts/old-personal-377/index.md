@@ -4,6 +4,7 @@ date: 2005-09-24T17:44:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik had mijn afweging om in het Nederlands te schrijven een tijdje geleden al zitten herdenken.
@@ -20,7 +21,7 @@ Dit blog blijft en blijft ook de plek waar schrijf over de dingen die me dagelij
 
 **Studie:** Ik ben pas begonnen met afstuderen. Ik ben nu vooral bezig met de voorbereidingen en de literatuur. Het leek me handig om het verloop daarvan (toch goed voor een jaar) bij te houden in een eigen weblog. Dus is er nu ook mijn [afstudeerblog](/blog/study) met [wiki](/wiki).
 
-Dit is ook allemaal in het Engels: de academische voorkeurstaal op mijn universiteit. Niet iedereen beheerst dat zo goed zoals ik beschrijf in [een stukje](/blog/study/370) op dat blog maar dat mag de pret niet drukken.
+Dit is ook allemaal in het Engels: de academische voorkeurstaal op mijn universiteit. Niet iedereen beheerst dat zo goed zoals ik beschrijf in [een stukje](/posts/old-studies-370) op dat blog maar dat mag de pret niet drukken.
 
 Op de wiki staat een [grove schets](/wiki/index.php/Thesis_Proposal) te lezen van het onderwerp waarop ik wil afstuderen. Over dat onderwerp en dan vooral de filosofische kant ervan ga ik me binnenkort maar wat inlezen.
 

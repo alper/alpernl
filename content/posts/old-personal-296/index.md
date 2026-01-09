@@ -4,6 +4,7 @@ date: 2005-06-18T15:40:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Ik stond vanochtend absurd vroeg (09.00) voor Armin's deur. Ik kan me niet herinneren ooit op zaterdag zo vroeg opgestaan en gedouchet te zijn. Te bizar.

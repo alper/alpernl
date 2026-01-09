@@ -4,6 +4,7 @@ date: 2005-07-28T19:42:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Dit [stukje bij massless](http://www.massless.org/?archive=2005/07/movies-upcoming-wishlist) doet me mijn lijstje weer even afstoffen. Eens in de zoveel tijd kijk op IMDb naar mijn favoriete regisseurs en acteurs om te zien waar ze mee bezig zijn.

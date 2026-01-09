@@ -4,6 +4,7 @@ date: 2005-07-24T00:35:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Erg pittig artikel van [r0ml](http://r0ml.net/) op O'Reilly: [Calculating the True Price of Software](http://www.onlamp.com/pub/a/onlamp/2005/07/21/software_pricing.html) ([via](http://rlove.org/log/2005072301)). Ploeg door de eenvoudige wiskunde en ingewikkelde financiele terminologie heen, want er zitten wel erg goede ideeën tussen.

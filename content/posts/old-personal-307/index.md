@@ -4,6 +4,7 @@ date: 2005-06-24T22:20:00
 author: alper
 categories:
   - nederlands
+  - poetry
 ---
 
 Gisteren met [Robbert Jan en Inge](http://www.flickr.com/photos/alper/14694352/in/set-355363/) naar de **[2nd World Poetry Slampionship](http://www.poetryslampionship.org/) geweest op [Poetry International](http://www.poetry.nl).

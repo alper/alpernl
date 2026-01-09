@@ -4,6 +4,7 @@ date: 2005-03-28T21:43:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 [Simon Willison](http://simon.incutio.com/archive/2005/03/28/pycon) is net terug van SxSW en PyCon*.

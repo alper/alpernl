@@ -4,6 +4,8 @@ date: 2005-09-15T22:20:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Bij [Open Source Nieuws Nederland](http://www.opensourcenieuws.nl/) veel herkauwen van het internationale nieuws maar veel interessanter natuurlijk, de verslaggeving van de situatie zoals deze in Nederland is.

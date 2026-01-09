@@ -4,13 +4,14 @@ date: 2005-04-10T18:37:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik heb hem een tijdje verwaarloosd, de [Instapundit](http://instapundit.com/) maar vandaag ga ik hem weer inhalen. 500 ongelezen berichten, hier samengevat.
 
 Waar vind je nu betere geopolitieke informatie, in de Nederlandse media of op Instapundit? (Dit is een grap.)
 
-**Midden  Oosten** Het lijkt er toch op dat de Amerikanen niet helemaal verkeerd bezig zijn geweest in het Midden Oosten. Democratie die zich als een veenbrand verpsreidt?
+**Midden Oosten** Het lijkt er toch op dat de Amerikanen niet helemaal verkeerd bezig zijn geweest in het Midden Oosten. Democratie die zich als een veenbrand verpsreidt?
 
 Meer goed nieuws van Chrenkoff (ook een goede): [Good News from the Islamic World; the special pro-democracy edition](http://chrenkoff.blogspot.com/2005/03/good-news-from-islamic-world-part-5.html). Demonstraties tegen de overheid voor meer democratie in Egypte, Kuweit, Libanon en Iran.
 

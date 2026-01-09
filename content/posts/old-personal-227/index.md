@@ -4,9 +4,12 @@ date: 2005-04-10T22:25:00
 author: alper
 categories:
   - nederlands
+  - photography
+  - internet
+  - software-engineering
 ---
 
-[Flickr](http://www.flickr.com) is al ontzettend gaaf. Ik heb er een [pagina](http://www.flickr.com/people/alper/) en die ga ik intensief gebruiken als ik [mijn digicam](http://studentrate.ewi.tudelft.nl:9673/alper/alperblog/203) heb.
+[Flickr](http://www.flickr.com) is al ontzettend gaaf. Ik heb er een [pagina](http://www.flickr.com/people/alper/) en die ga ik intensief gebruiken als ik [mijn digicam](/alper/old-personal-203) heb.
 
 Hoe ze Flickr zo gaaf maken is door slim Flash te gebruiken. Het staat overal geïnstalleerd en is daarom een goede cross-platform manier om rijke cliënt-applicaties te leveren.
 

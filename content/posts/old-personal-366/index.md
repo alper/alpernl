@@ -4,6 +4,7 @@ date: 2005-09-13T18:36:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 In het [stukje van Andy Kessler](http://andykessler.com/wsj_philadelfi.html) staan een paar van de gevolgen beschreven die gratis gemeentelijke WiFi zou kunnen hebben.

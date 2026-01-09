@@ -4,6 +4,8 @@ date: 2005-05-29T13:15:00
 author: alper
 categories:
   - nederlands
+  - video
+  - internet
 ---
 
 Ik kom er nu een beetje aan toe om [de videos](http://2005.sxsw.com/coverage/) van SxSW (South by South-West) te bekijken.

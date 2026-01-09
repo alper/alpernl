@@ -4,6 +4,7 @@ date: 2005-07-06T18:21:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Vandaag een beetje gechat en de vakantieplannen wat definitiever gemaakt. Ik ga morgen mijn [interrail](http://www.interrail.nl)-kaartje kopen en [de volgende rit](http://reiseauskunft.bahn.de/bin/query.exe/dn?ld=212.53&seqnr=2&ident=5v.01028611.1120666447&guiVCtrl_connection_detailsOut_add_C1-1#cis_C1-1) boeken:

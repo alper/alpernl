@@ -4,6 +4,7 @@ date: 2005-04-06T22:04:00
 author: alper
 categories:
   - nederlands
+  - food
 ---
 
 Hiram heeft puur [gelijk](http://www.hiram.nl/ipsedixit/artikel/761/troost). En hij schrijft ook nog eens leuk. Wat wil je nog meer?

@@ -4,6 +4,8 @@ date: 2005-05-31T00:14:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 (Nu even een braindump. Ik werk deze tekst wel verder uit van de week als ik tijd heb.)

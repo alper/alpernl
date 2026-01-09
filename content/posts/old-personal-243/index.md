@@ -4,6 +4,7 @@ date: 2005-04-25T14:04:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik moet voor een vak morgen het volgende paper lezen, samenvatten en presenteren:

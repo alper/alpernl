@@ -4,6 +4,7 @@ date: 2005-06-06T16:13:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Ik vond het een groot gemis dat er op de Nederlandse Wikipedia geen pagina was over Xing Yi.

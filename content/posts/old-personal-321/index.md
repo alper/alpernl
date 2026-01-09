@@ -4,6 +4,7 @@ date: 2005-07-03T22:51:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Het leven van de webontwikkelaar is de laatste tijd een stuk leuker. Het [AJAX](http://www.adaptivepath.com/publications/essays/archives/000385.php) neemt de boel compleet over en er zit schot in de ontwikkeling van de grote browsers, zowel in het voldoen aan standaarden als in nieuwe functionaliteit.

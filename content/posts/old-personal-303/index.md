@@ -4,6 +4,7 @@ date: 2005-06-22T00:40:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Bij ons op [Topdesk](http://www.topdesk.nl) werkt een redelijk aantal Britse expats. Zij praten Engels met onze Engelse (potentiele) klanten.

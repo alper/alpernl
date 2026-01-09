@@ -4,6 +4,7 @@ date: 2005-04-20T19:08:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Vandaag redelijk wat verkeer van Frankwatching. Welkom allemaal. Het blijkt dus dat Frank [weer een stukje](http://www.frankwatching.com/archive/2005/04/20/macaw_the_inside_story#body) had over de weblogs bij Macaw. In het [vorige stukje](http://www.frankwatching.com/archive/2005/04/10/macaw_scoort_met_blogs) deed ik een beetje denigrerend over grotendeels met steekhoudende argumenten.

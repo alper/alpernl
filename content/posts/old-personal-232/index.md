@@ -4,6 +4,8 @@ date: 2005-04-16T12:30:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - reading
 ---
 
 Weer een [aflevering](http://www.radio-online.nl/pivot/entry.php?id=28) RadioOnline met zowaar een boeiend onderwerp **“Interneteconomie, zegen of ramp?”**. Gift/Trade-economies waar goede wil en informatie zorgen dat mensen makkelijker en goedkoper kunnen krijgen wat ze willen.

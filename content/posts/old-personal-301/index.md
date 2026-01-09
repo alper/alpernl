@@ -4,6 +4,7 @@ date: 2005-06-21T00:11:00
 author: alper
 categories:
   - nederlands
+  - games
 ---
 
 De *Hebben!*-factor is net weer een tandje omhoog voor de PSP. Bij Russell Beatie een [link naar een FPS](http://www.russellbeattie.com/notebook/1008500.html) op de PSP met filmpjes.

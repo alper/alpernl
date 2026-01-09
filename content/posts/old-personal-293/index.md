@@ -4,6 +4,8 @@ date: 2005-06-13T14:54:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 Voor de Breinen, de Disneys en de politici die het niet snappen, een artikel waar het allemaal in staat: [“The People Own Ideas!”](http://www.technologyreview.com/articles/05/06/issue/feature_people.asp) een verslag van Lawrence Lessig van het [World Social Forum](http://en.wikipedia.org/wiki/World_Social_Forum) in Porto Alegre.

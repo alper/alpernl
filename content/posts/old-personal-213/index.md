@@ -4,6 +4,7 @@ date: 2005-04-01T22:09:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 U vraagt wij draaien.

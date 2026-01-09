@@ -4,6 +4,7 @@ date: 2005-07-06T20:19:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Zo, na veel uitstellen en zelfs nog meer zwoegen heb ik mijn [presentatie voor morgen](http://www.alper.nl/studie/in4080/presentation/rss_presentation_alper.html) af, over RSS en Metadata. Lees hem gerust door, en aanmerkingen zijn welkom (en nuttig tot 09:00 donderdagochtend).

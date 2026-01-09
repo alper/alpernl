@@ -4,6 +4,8 @@ date: 2005-06-12T22:35:00
 author: alper
 categories:
   - nederlands
+  - amsterdam
+  - photography
 ---
 
 Niet zoveel om over te schrijven of toch weer wel. Loom weekend achter de rug.

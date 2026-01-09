@@ -4,6 +4,8 @@ date: 2005-09-07T18:28:00
 author: alper
 categories:
   - nederlands
+  - sports
+  - capoeira
 ---
 
 Ik doe nu één keer per week minder Kung Fu. Ik hou op met de *kong li* oefeningen op donderdag en hou me voorlopig alleen maar bezig met de vorm. Wat langzamer is niet echt een probleem. Dit Xing Yi is toch een meerjaren-onderneming.

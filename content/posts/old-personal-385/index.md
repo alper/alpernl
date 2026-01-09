@@ -4,6 +4,7 @@ date: 2005-10-10T19:34:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Referer](http://en.wikipedia.org/wiki/Referrer)-logs zijn een leuk ding. Loop ik na een rustig weekendje er een beetje doorheen te bladeren en zie ik iemand binnenkomen van een vrij helder domein: [bennyvanreeven.nl](http://www.bennyvanreeven.nl).

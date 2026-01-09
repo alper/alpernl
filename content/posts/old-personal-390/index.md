@@ -4,6 +4,7 @@ date: 2005-10-19T13:02:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Ik ga zo naar Schiphol en dan vlieg ik naar İzmir om deel te nemen aan de [Herfst Agora](http://www.karl.aegee.org/calendar.nsf/ID/IZM0510AUT5) van AEGEE.

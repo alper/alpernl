@@ -4,6 +4,7 @@ date: 2005-07-14T23:56:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Ik zit deze week vier dagen op mijn werk achter de pc. Thuis ben ik achter de pc dan niet heel geconcentreerd meer. Ik heb wel wat vooruitgang met een project geboekt, maar daar moet zeker nog meer aan gebeuren. Zou het dit weekend slecht weer worden?

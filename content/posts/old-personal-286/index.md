@@ -4,6 +4,7 @@ date: 2005-06-06T01:30:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 In [Radio Online](http://www.radio-online.nl) van een tijdje geleden een [uitgebreid item](http://www.radio-online.nl/pivot/entry.php?id=72) de kloof tussen de oude media en de nieuwe media. Deze tijd is er eentje van kloven.

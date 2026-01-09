@@ -4,6 +4,7 @@ date: 2005-06-21T01:35:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Dankzij de [goede zorgen van Nelson](http://nelson.monkey.org/~nelson/weblog/tech/good/flickrClient.html) heb ik in een klein uurtje een script geschreven dat [Flickr](http://www.flickr.com) afstroopt op foto's. Het maakt me eigenlijk niet uit wat voor foto's het zijn of wat erop staat. Ik heb er gewoon heel veel nodig.

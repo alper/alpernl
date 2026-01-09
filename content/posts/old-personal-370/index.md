@@ -4,6 +4,7 @@ date: 2005-09-17T23:51:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Met de herorientering van dit blog heb ik het ook maar naar een eigen server verplaatst. Dit blog wordt het Nederlandstalige persoonlijke lifeblog. Er komen een paar andere blogs voor andere onderwerpen. Later meer daarover.

@@ -4,6 +4,7 @@ date: 2005-05-29T02:26:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Innovatie rond het bureaublad is nog steeds springlevend. De gijzeling door de metafoor van het rommelige bureaublad is eindelijk ten einde.

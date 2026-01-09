@@ -4,6 +4,7 @@ date: 2005-07-10T20:38:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Niet vaak een betere combinatie gezien dan [FlickrCity](http://anti-mega.com/antimega/archives/001228.html). Dit combineert [Google Maps](http://maps.google.com/) met GPS-getagde foto's van [Flickr](http://www.flickr.com/) om te laten zien wáár er foto's zijn genomen.

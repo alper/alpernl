@@ -4,6 +4,8 @@ date: 2005-04-18T16:53:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - software-engineering
 ---
 
 Lees net tussendoor even Nu.nl (nog geen tijd gehad voor mijn RSS) en zie het bericht dat [Adobe Macromedia overneemt](http://www.nu.nl/news/513005/50/Adobe_legt_miljarden_op_tafel_voor_Macromedia.html).
@@ -27,9 +29,7 @@ Hoe het in de langere termijn uit gaat pakken met de innovatie en de ontwikkelin
 Ze zijn alleen iets te gesloten. Wat Open Source mensen graag zouden willen:
 
 - Verdere openstelling van het PDF-formaat
-
 - Verregaande adoptie van SVG
-
 - Linux-versies van de vlaggeschip producten
 
 Die laatste is niet zo belangrijk omdat je met CrossOver Office e.d. die applicaties zonder al te veel problemen onder Linux kunt draaien.

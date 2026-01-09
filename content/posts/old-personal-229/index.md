@@ -4,6 +4,8 @@ date: 2005-04-14T17:20:00
 author: alper
 categories:
   - nederlands
+  - reading
+  - delft
 ---
 
 Gisteravond leidde onze rector **on**magnificus Arnon Grunberg's lezing *De Soepsteen* in. Ik heb zelden zoiets ontzettend saais gehoord (en ik ben [niet de enige](http://bijzinnen.com/archives/archive_2005-m04.php#e649)). Ik las daarvoor al een [interview van Herbert Blankesteijn](http://www.delftintegraal.tudelft.nl/live/binaries/a44aeed4-f543-4384-91a1-0e7d08e72c4a/doc/DI051-22-28.pdf) met Grunberg voor een TU-blaadje wat ook niet spoorde. Blankesteijn zwom in een intellectueel diepe wat duidelijk voorbij zijn bevattingsvermogen lag.

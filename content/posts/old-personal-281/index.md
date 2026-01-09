@@ -4,6 +4,8 @@ date: 2005-06-01T15:57:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 **Ochtend Key Notes**

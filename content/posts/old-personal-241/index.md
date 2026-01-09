@@ -4,6 +4,7 @@ date: 2005-04-23T00:56:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Het is grappig hoeveel positiever mensen automatisch al reageren als je ze aanspreekt in hun oorspronkelijke taal. Zeker als ze het niet verwachten. Het zal wel komen omdat je op die manier een of andere reactie oproept uit hun onderbewuste.

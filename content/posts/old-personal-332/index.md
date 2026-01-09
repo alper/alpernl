@@ -4,6 +4,7 @@ date: 2005-07-15T00:04:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Xing Yi training is in zomerreces maar ik heb deze week (op mijn werk) toch nog best wat tijd in een dojo doorgebracht. Een [dojo](http://dojotoolkit.org/) van een ander soort, dat dan wel.

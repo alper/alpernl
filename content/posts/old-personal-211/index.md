@@ -4,6 +4,7 @@ date: 2005-04-01T00:20:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Zo, weet ik nu dus toch waar ik die Gigabyte aan RAM voor in mijn PC heb zitten. Ik ben nu bezig om met [OpenDX](http://www.opendx.org/) een redelijk grote dataset te visualiseren van een simulatie van de [orkaan Isabelle](http://www.vets.ucar.edu/vg/isabeldata/readme.html).

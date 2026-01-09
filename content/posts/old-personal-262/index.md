@@ -4,6 +4,7 @@ date: 2005-05-14T14:35:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Rome is tof!

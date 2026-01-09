@@ -4,6 +4,7 @@ date: 2005-04-16T11:14:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Ik las deze week door [dit artikel](http://www.infoworld.com/article/05/04/13/16OPcurve_1.html) heen en ik had geen flauw idee hoe ik het moest opvatten. Het leek een soort grap, lees:

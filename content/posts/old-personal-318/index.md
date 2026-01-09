@@ -4,6 +4,7 @@ date: 2005-07-01T01:01:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Vanavond met [Xing Yi](http://www.jingwu.nl) had de sifu een grote steen meegenomen. Wekenlang hebben we geoefend in het slaan met de muis van je hand op paarden, blokken hout en wat niet al. Meestal met heel veel pijn en rode handen als gevolg.

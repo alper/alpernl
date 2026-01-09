@@ -4,6 +4,7 @@ date: 2005-07-18T20:32:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Nu net [op Developerworks een artikel](http://www-128.ibm.com/developerworks/linux/library/wa-rubyonrails/?ca=dgr-lnxw07RubyAndJ2EE) waar denk ik redelijk wat behoefte aan is. Het legt in heldere, bewoordingen uit hoe een typische J2EE en een [Ruby on Rails](http://www.rubyonrails.org/) eruit zien en wat de verchillen zijn.

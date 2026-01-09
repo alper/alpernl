@@ -4,6 +4,7 @@ date: 2005-06-07T16:13:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 De [voetbalclub](http://www.ajax.nl) is tof maar de naam is gekaapt. Als je web en scripting interessant vindt zou je John Udell altijd moeten lezen. Hier toch een linkje, want deze is nog meer dan altijd.

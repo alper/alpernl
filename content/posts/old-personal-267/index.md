@@ -4,6 +4,8 @@ date: 2005-05-22T14:12:00
 author: alper
 categories:
   - nederlands
+  - amsterdam
+  - san-francisco
 ---
 
 Erg leuk [verslag van Frackers](http://www.frackers.com/2005/05/22/000463.html) over de handelsdelegatie van Amsterdam naar Californië. Erg belangrijk om een goede relatie te hebben tussen dat blijste, vrijste, high-techste deel van Amerika en ons Amsterdam.

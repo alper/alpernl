@@ -4,6 +4,7 @@ date: 2005-05-29T15:49:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Zijn Christopher Nolan en Christian Bale genoeg om de Batman-franchise uit het slop te trekken?

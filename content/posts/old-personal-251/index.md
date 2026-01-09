@@ -4,6 +4,7 @@ date: 2005-05-01T21:07:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Alom jubelend ontvangen is dit boek —“Joe Speedboot” van Tommy Wieringa— een van de leukere en betere boeken die ik de afgelopen tijd heb gelezen.

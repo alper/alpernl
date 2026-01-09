@@ -4,6 +4,7 @@ date: 2005-04-28T21:33:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Gisteren op Nova [een item](http://www.novatv.nl/index.cfm?cfid=31348970&cftoken=42824620&ln=nl&fuseaction=videoaudio.details&reportage_id=3393) over Jack Spijkerman die naar Tien gaat. Één item, met daarin al redelijk interessant nieuws maar ook genoeg aparte mensen.

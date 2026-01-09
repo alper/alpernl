@@ -4,6 +4,7 @@ date: 2005-06-23T13:09:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Groot nieuws her en der over de gemeente Orlando die stopt met zijn [gratis Wifi](http://www.cityoforlando.net/executive/communications/pupdates/04_01_14_wifi.htm) aan te bieden. Bericht op: [Slashdot](http://hardware.slashdot.org/article.pl?sid=05/06/22/2227255&tid=193&tid=126), [Webwereld](http://www.webwereld.nl/comments/35940) en [Wireless Nederland](http://www.wirelessnederland.nl/modules.php?name=News&file=article&sid=725&mode=&order=0&thold=0) en [Local6](http://www.local6.com/news/4632893/detail.html).

@@ -4,6 +4,7 @@ date: 2005-05-10T00:46:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Er staan weleens leuke dingen in de Delta. Zoals bijvoorbeeld een voorstel om [Max Pam](http://www.maxpam.nl/) uit te nodigen als gastschrijver aan de TU (netjes [online te lezen](http://www.delta.tudelft.nl/archief/j37/n14/19707)). Doen! Hebben! Dap Hartmann heeft gelijk Pam is een geweldig columnist.

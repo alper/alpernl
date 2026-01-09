@@ -4,6 +4,7 @@ date: 2005-06-22T15:00:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik kreeg pas een aardig mailtje van Flickr dat ze met de verhuizing naar het serverpark van Yahoo! minder massages nodig gaan hebben. Dit vindt Jeroen interessant genoeg om [te bloggen](http://www.minitrue.nl/blog/2005/06/21/flickr_stuurt_vrolijke_mailtjes).

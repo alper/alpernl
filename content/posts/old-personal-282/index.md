@@ -4,6 +4,7 @@ date: 2005-06-02T16:12:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Een van de dommere voorstellen in de grondwetgekte is [door het parlement afgewezen](http://frontpage.fok.nl/nieuws/54657).

@@ -4,6 +4,8 @@ date: 2005-05-19T17:41:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - internet
 ---
 
 In “Knowledge and Democracy in Cyberspace” van Jeroen van den Hoven kwam ik het *jury theorem* van [Condorcet](http://en.wikipedia.org/wiki/Marquis_de_Condorcet) tegen.

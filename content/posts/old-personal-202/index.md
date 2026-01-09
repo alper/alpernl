@@ -4,6 +4,7 @@ date: 2005-03-24T22:14:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Vandaag op Slashdot —dus niet echt nieuw— maar daarom nog niet minder gaaf. Veel ontwikkeling van Gnome vindt plaats bij [Novell](http://www.novell.com/nl-nl/linux/ximian.html) maar deze [Seth Nickell](http://www.designfu.org/) werkt bij Red Hat.

@@ -4,6 +4,7 @@ date: 2005-05-05T02:32:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Toch wel groot nieuws in het leven van een Debian gebruiker. Sarge is bevroren. De planning voor release ligt op [30 mei](http://www.debianplanet.org/node.php?id=1232).

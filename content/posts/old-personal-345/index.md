@@ -4,6 +4,7 @@ date: 2005-07-24T23:48:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik ben net terug uit Leiden van de **DEWD**-meeting. Foto's te vinden op [mijn Flickr](http://www.flickr.com/photos/alper/tags/dewd/) en er volgen er vast meer.

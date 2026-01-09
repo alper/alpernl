@@ -4,6 +4,7 @@ date: 2005-10-28T01:12:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 In de Groene van vorige week een goed stuk over Orhan Pamuk en hoe hij in zijn boeken de moeizame samenkomst van Oost en West beschrijft.

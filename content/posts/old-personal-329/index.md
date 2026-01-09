@@ -4,6 +4,7 @@ date: 2005-07-09T00:32:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Ik kwam op een cursus Mandarijn (*Putonghua*) van de BBC ([via](http://www.russellbeattie.com/notebook/1008525.html)) [in Flash](http://www.bbc.co.uk/languages/chinese/real_chinese/) die heel praktisch is. Heel veel leer je niet, maar het is genoeg om een beetje een gevoel voor de taal te krijgen.

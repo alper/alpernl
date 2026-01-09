@@ -113,7 +113,13 @@
   * [ ] Check and fix content for personal
     * [x] 1-100
     * [x] 101-200
-    * [ ] 201-300
+    * [x] 201-300
+    * [x] 301-400
+    * [ ] 401-500
+    * [ ] 501-600
+    * [ ] 601-700
+    * [ ] 701-800
+    * [ ] 801-830
   * [ ] Check all internal links in the blog and fix them
   * [ ] Re-include all flickr images (and their weird links)
 * [ ] Get rid of all GIFs

@@ -4,6 +4,7 @@ date: 2005-10-05T21:48:00
 author: alper
 categories:
   - nederlands
+  - capoeira
 ---
 
 Net mijn eerste Capoeira les gehad. Onderweg ernaartoe ging ongeveer alles wat er mis kon gaan mis, maar toch was ik maar vijf minuten te laat.

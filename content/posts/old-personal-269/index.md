@@ -4,6 +4,7 @@ date: 2005-05-23T14:16:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 [Holland Open](http://www.hollandopen.nl/) ([berichtje](http://www.opensourcenieuws.nl/index.php/content/view/2075/41/)) leek me al leuk, maar deze is echt verplicht: **[What The Hack](http://www.whatthehack.org/)** temminste [als hij doorgaat](http://www.webwereld.nl/ref/rss/35389).

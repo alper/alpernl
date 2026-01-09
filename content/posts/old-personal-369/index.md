@@ -4,6 +4,7 @@ date: 2005-09-16T01:32:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Technology Transfer is een hot issue op universiteiten. Hoe zet ik de kennis die op een universiteit ligt om in business en innovatie. Niemand die het weet maar het kabinet heeft het bevolen dus iedereen doet wat maakt niet uit wat.

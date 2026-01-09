@@ -4,6 +4,7 @@ date: 2005-07-18T22:12:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Dat klinkt toch lekker:

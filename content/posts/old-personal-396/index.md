@@ -4,6 +4,8 @@ date: 2005-10-31T12:10:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - video
 ---
 
 Geen televisie hebben is het helemaal. Gewoon met [Bittorrent](http://www.torrentspy.com) dingen die hier toch nooit op tv komen binnenhalen.

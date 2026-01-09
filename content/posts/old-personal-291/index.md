@@ -4,6 +4,8 @@ date: 2005-06-08T00:42:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - travel
 ---
 
 Leuk als het tempo weer oppikt. Dat je dingen die al heel lang lopen af kunt gaan maken.

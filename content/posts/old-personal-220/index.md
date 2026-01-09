@@ -4,13 +4,14 @@ date: 2005-04-08T00:52:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Ik heb net mijn aanvraag Bachelor examen ingevuld. Deze week het resultaat van mijn laatste vak binnen gekregen. De laatste van een hele rits vakken sinds ik besloot om serieus te gaan studeren.
 
 Serieus studeren was twee jaar geleden voor mij een hele nieuwe periode in mijn studie. Het was het einde van de vrijblijvendheid —lang genoeg gehad— en een flinke omslag. Het kwam erop neer dat ik elk tentamen wat ik deed, haalde. Simple.
 
-Omdat ik niet altijd even serieus heb gestudeerd, moest ik mijn aanvrag iets anders invullen. De eerste 10 vakken op de lijst heb ik niet echt gehaald, maar heb ik vrijstellingen voor door vakken uit het oudere programma.
+Omdat ik niet altijd even serieus heb gestudeerd, moest ik mijn aanvraag iets anders invullen. De eerste 10 vakken op de lijst heb ik niet echt gehaald, maar heb ik vrijstellingen voor door vakken uit het oudere programma.
 
 Ik hoop dat de examen-commissie het snapt.
 

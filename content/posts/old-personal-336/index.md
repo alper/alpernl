@@ -4,6 +4,8 @@ date: 2005-07-17T02:48:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - reading
 ---
 
 Nee, dit gaat niet over de hele [brakke browser](http://www.apple.com/macosx/features/safari/) van Apple maar over de [online boekendienst](http://safari.oreilly.com/) van O'Reilly. Met een abonnement op Safari kun je zoeken door en lezen in alle(!) boeken van O'Reilly.

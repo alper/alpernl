@@ -4,6 +4,7 @@ date: 2005-10-10T22:28:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Nee, het is niet uit. Maar deze vrijdag word ik weer vrijgezel.

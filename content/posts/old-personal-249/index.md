@@ -4,6 +4,8 @@ date: 2005-04-30T22:28:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Volgens mij zijn de stormluiken dicht bij Microsoft.

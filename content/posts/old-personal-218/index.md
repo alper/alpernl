@@ -4,6 +4,7 @@ date: 2005-04-05T23:01:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Karin Spaink heeft een [e-maillijst](https://lists.spaink.net/mailman/listinfo/columns) waar ze alle columns die ze schrijft heen stuurt. Het zijn er niet veel, maar dat maken ze ruim goed in kwaliteit.

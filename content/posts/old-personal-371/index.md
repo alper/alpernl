@@ -4,6 +4,7 @@ date: 2005-09-18T23:32:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Vandaag een nette 35'09'' gelopen op de 7km van de [Dam tot Dam loop](http://www.damloop.nl/damtotdam.asp). Let wel, de 7km gaat van Zaandam naar Zaandam. Als ik dat had geweten, had ik nog wel twee keer nagedacht over meedoen.

@@ -4,6 +4,7 @@ date: 2005-06-18T23:04:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 [Batman Begins](http://www.imdb.com/title/tt0372784/combined) schijnt heel goed te zijn. Ik moet nog.

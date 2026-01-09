@@ -4,6 +4,8 @@ date: 2005-03-23T20:59:00
 author: alper
 categories:
   - nederlands
+  - video
+  - delft
 ---
 
 Weer een geweldige herhaling in [Lumen](http://www.filmhuis-lumen.nl):

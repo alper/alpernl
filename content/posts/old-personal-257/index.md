@@ -4,6 +4,7 @@ date: 2005-05-06T17:40:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Safari](http://www.apple.com/macosx/features/safari/) trekt de [Acid2 test](http://www.webstandards.org/act/acid2/test.html) nu door een [heldhaftige inspanning](http://weblogs.mozillazine.org/hyatt/archives/2005_04.html#008042) van Dave Hyatt (oud-Mozilla-hacker).

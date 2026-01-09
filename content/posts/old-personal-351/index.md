@@ -4,6 +4,7 @@ date: 2005-07-31T17:01:00
 author: alper
 categories:
   - nederlands
+  - san-francisco
 ---
 
 Ik raak er steeds meer van overtuigd dat San Francisco een ontzettend leuke plek is om te wonen en werken.

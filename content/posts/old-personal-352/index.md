@@ -4,6 +4,7 @@ date: 2005-08-03T00:24:00
 author: alper
 categories:
   - nederlands
+  - poetry
 ---
 
 Weinig geblog, vakantie en pre-vakantie-stress is altijd een goede smoes. Ik heb nu meer tijd maar eigenlijk is het nooit genoeg.

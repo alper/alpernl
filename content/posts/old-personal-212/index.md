@@ -4,6 +4,7 @@ date: 2005-04-01T09:27:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Nieuwe dingen](http://gmail.google.com/gmail/help/about_whatsnew.html) bij Google's [GMail](http://gmail.google.com)! GMail is nu op 1 april één jaar oud.

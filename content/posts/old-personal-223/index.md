@@ -4,6 +4,8 @@ date: 2005-04-10T16:47:00
 author: alper
 categories:
   - nederlands
+  - video
+  - climate
 ---
 
 [Nieuwslicht](http://www.nieuwslicht.nl) is een nieuw programma van de VARA over wetenschap. Wat toegankelijker en relaxter dan [Noorderlicht](http://noorderlicht.vpro.nl), maar nog steeds met wel een redelijk niveau. Presentatie door Paul Witteman met een roulerende cast van wetenschappers die commentaar leveren.

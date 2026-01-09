@@ -4,6 +4,7 @@ date: 2005-04-04T23:06:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Vandaag een partij GUI geschreven in [Java/Swing](http://java.sun.com/products/jfc/index.jsp). Jammer dat dat altijd zo'n ontzettende diarree aan code oplevert die veel minder doet dan je zou denken. Zonder Eclipse is er niet tegenop te vechten.

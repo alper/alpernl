@@ -4,6 +4,8 @@ date: 2005-08-29T13:16:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 Ik heb de afgelopen week in een bijna compleet media-isolement geleefd. Geen kranten, boeken, films, nauwelijks internet en in het vliegtuig een oude Groene. Gelukkig hebben we dan toch [Miguel om te wijzen op wat ik gemist heb](http://tirania.org/blog/archive/2005/Aug-27.html).

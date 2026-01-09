@@ -4,6 +4,7 @@ date: 2005-07-16T21:42:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Erg [mooie posters](http://netadblog.com/archivos/freaks/publicidad-censurada-a-mtv.php) van MTV ([via](http://www.sargasso.nl/?p=1048)). Toen niet gepubliceerd omdat het wat te gevoelig lag.

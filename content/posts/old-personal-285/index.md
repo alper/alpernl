@@ -4,6 +4,7 @@ date: 2005-06-04T23:13:00
 author: alper
 categories:
   - nederlands
+  - amsterdam
 ---
 
 Leuke theater dingen van de zomer. Deze [Ivanov](http://www.bostheater.nl/bostheater/content.php?actief=1) in het Amsterdamse Bos bijvoorbeeld.

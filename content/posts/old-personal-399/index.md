@@ -4,6 +4,7 @@ date: 2005-11-05T14:28:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Morgen is [Minister Pechtold te gast in Buitenhof](http://www.vpro.nl/programma/buitenhof/afleveringen/24496395/). Hij is de laatste tijd vanuit het kabinet lekker bezig te boel te fucken. De boel fucken is goed, zeker in Den Haag. Ik zou het leuker vinden als hij niet zo makkelijk zou terugkrabbelen, maar als dat moet dan moet het.

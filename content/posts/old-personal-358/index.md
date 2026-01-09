@@ -4,6 +4,8 @@ date: 2005-08-25T22:09:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - photography
 ---
 
 [Kottke schrijft het](http://www.kottke.org/05/08/googleos-webos) al en ik ben het grotendeels met hem eens. We zijn op de goede weg om alles ‘Web’ te maken. Web is goed (of temminste goed genoeg).

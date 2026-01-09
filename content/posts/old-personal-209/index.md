@@ -4,6 +4,7 @@ date: 2005-03-28T18:59:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Yahoo! [360°](http://360.yahoo.com/) schijnt heel erg gaaf te zijn/worden ([Mediafact.nl](http://www.mediafact.nl/weblog.php?id=P7940), [InsideGoogle](http://google.blognewschannel.com/index.php/archives/2005/03/25/yahoo-360-getting-buzz/), [jeremy.zawodny.com](http://jeremy.zawodny.com/blog/archives/004379.html)). Ik kom er niet in en ik kan ook geen bèta aanvragen.

@@ -4,6 +4,7 @@ date: 2005-07-09T00:01:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Gistermiddag al ademloos de ongeveer 200 (nu 700) foto's in de [Flickr 7/7 Community](http://www-us.flickr.com/groups/bomb/pool/) (toen de London Bomb Blasts Pool) bekeken. Ik heb geen tv; ik heb geen tv nodig. De aanslagen gisteren hebben meer dan ooit bewezen dat de nieuwe media niet meer weg te denken zijn in het internetlandschap.

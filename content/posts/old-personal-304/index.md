@@ -4,6 +4,8 @@ date: 2005-06-22T14:44:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 Net een aardig [stuk in Buitenhof](http://www.vpro.nl/programma/buitenhof/afleveringen/22311068/items/22888300/) gezien met ene Ben Verwaayen van [BT](http://www.bt.com) ([Real stream](http://cgi.omroep.nl/cgi-bin/streams?/tv/vpro/buitenhof/bb.20050619.rm?start=38:51<br />

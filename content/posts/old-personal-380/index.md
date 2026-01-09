@@ -4,6 +4,7 @@ date: 2005-09-26T13:03:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb geen televisie maar het wordt steeds makkelijker om die dingen die de moeite waard zijn te volgen. Kort overzichtje:

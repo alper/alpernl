@@ -4,6 +4,7 @@ date: 2005-10-16T12:56:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Toch even uitgeprobeerd wat ik nodig heb [volgens Ome Google](http://www.google.com/search?client=safari&rls=en&q=%22alper+needs%22&ie=UTF-8&oe=UTF-8):

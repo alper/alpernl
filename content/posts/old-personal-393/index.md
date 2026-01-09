@@ -4,6 +4,7 @@ date: 2005-10-27T22:35:00
 author: alper
 categories:
   - nederlands
+  - capoeira
 ---
 
 Mijn lichaam heeft nog nooit zo oud aangevoeld. Op latere leeftijd beginnen met extreme sporten als Capoeira eist toch meer tol dan ik had verwacht.

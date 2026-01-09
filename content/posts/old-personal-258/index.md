@@ -4,6 +4,8 @@ date: 2005-05-07T17:58:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 [Curieus item](http://radio-online.nl/pivot/entry.php?id=52) op RadioOnline over een forse heffing op **MP3-spelers** en andere datadragende gadgets.

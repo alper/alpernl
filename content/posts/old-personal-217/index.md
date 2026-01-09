@@ -4,6 +4,7 @@ date: 2005-04-04T23:45:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Sun komt bij zijn positieven en heeft [zinnige dingen](http://www.webwereld.nl/nieuws/21175.phtml) te melden over Open Source.

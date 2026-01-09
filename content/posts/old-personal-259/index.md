@@ -4,6 +4,8 @@ date: 2005-05-10T00:21:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 Miguel [bericht over het Real ID](http://primates.ximian.com/~miguel/archive/2005/May-09.html) wetsvoorstel in Amerika vergelijkbaar met onze identificatieplicht.

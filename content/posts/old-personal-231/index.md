@@ -4,6 +4,7 @@ date: 2005-04-16T11:24:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Dat ([Paycheck](http://www.imdb.com/title/tt0338337/combined)) is twee uur van mijn leven die ik kwijt ben. En het nare is dat ik na afloop ook niet even mijn geheugen kan laten wissen zoals de hoofdpersoon.

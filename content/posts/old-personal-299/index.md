@@ -4,6 +4,7 @@ date: 2005-06-19T21:55:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Vanochtend dus veel te laat opgestaan maar wel op tijd om een stampvolle tram 1 naar het Spui te nemen. De [skaters op het Spui](http://www.flickr.com/photos/alper/20280902/in/photostream/) ontweken en een kaartje gekocht voor de recital van Ibrahim Yazıcı, Fazıl Say, [Sertab Erener](http://www.sertab.net/) en het [Residentie Orkest](http://www.residentieorkest.nl).

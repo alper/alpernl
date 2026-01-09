@@ -4,6 +4,8 @@ date: 2005-04-03T00:31:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 TV-tips, en ik heb niet eens een tv.

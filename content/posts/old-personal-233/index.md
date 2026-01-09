@@ -4,6 +4,8 @@ date: 2005-04-16T14:48:00
 author: alper
 categories:
   - nederlands
+  - video
+  - delft
 ---
 
 Deze week begonnen en nog de hele volgende week het Iberische Filmfestival [Festibérico](http://www.festiberico.net) in [Filmhuis Lumen](http://www.filmhuis-lumen.nl).

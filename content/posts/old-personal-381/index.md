@@ -4,6 +4,7 @@ date: 2005-09-29T15:11:00
 author: alper
 categories:
   - nederlands
+  - cycling
 ---
 
 Eerst het **slechte nieuws**:

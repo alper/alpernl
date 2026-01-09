@@ -4,6 +4,7 @@ date: 2005-03-27T17:46:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Ik ben in een opwelling gisteravond begonnen om mijn eigen blog-software te schrijven. Niet echt omdat ik het nodig heb, maar om beter bekend te raken met een paar hele krachtige en ondergewaardeerde libraries (SQLObject & Twisted).

@@ -6,13 +6,11 @@ categories:
   - nederlands
 ---
 
-In die [Groene in dat vliegtuig](http://studentrate.ewi.tudelft.nl:9673/alper/alperblog/359) las ik ook een artikel over 100 jaar Stanley Kunitz met daarin een ontzettend mooi gedicht van de man. Ik zat een beetje te dubben of ik hem nu wel of niet ging posten maar zo lang twijfelen is niet goed en zoiets moois voor mezelf houden zou gewoon egoïstisch zijn.
+In die [Groene in dat vliegtuig](/posts/old-personal-359) las ik ook een artikel over 100 jaar Stanley Kunitz met daarin een ontzettend mooi gedicht van de man. Ik zat een beetje te dubben of ik hem nu wel of niet ging posten maar zo lang twijfelen is niet goed en zoiets moois voor mezelf houden zou gewoon egoïstisch zijn.
 
 Als tegenprestatie koop ik zijn bundel wel.
 
 > TOUCH ME
-
->
 
 > Summer is late, my heart.
 

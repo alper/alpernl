@@ -4,6 +4,7 @@ date: 2005-03-28T18:48:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik kom er nu aan toe om [RadioOnline van 15 maart](http://www.2525.com/log/archives/2005/03/de_integrale_ui.html) te [luisteren](http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20050315.rm?start=00:02:10&end=00:59:05).

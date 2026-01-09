@@ -4,6 +4,7 @@ date: 2005-05-19T00:58:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Net de [nieuwe film](http://www.imdb.com/title/tt0121766/combined) gezien.

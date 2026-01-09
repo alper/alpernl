@@ -4,6 +4,7 @@ date: 2005-07-06T16:44:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Het programma [Radio Online](http://www.radio-online.nl) is best aardig. Het is een laagdrempelig iets; **Internet voor iedereen**, als het ware. Ze zijn het beste in onderwerpen als:

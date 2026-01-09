@@ -4,6 +4,8 @@ date: 2005-04-09T16:20:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - internet
 ---
 
 [Akelig stuk](http://www.netkwesties.nl/editie124/artikel1.html) op Netkwesties over wat er gebeurt als je je burgerrechten overlevert aan incompetente ambtenaren.

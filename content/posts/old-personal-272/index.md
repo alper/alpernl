@@ -4,6 +4,8 @@ date: 2005-05-25T00:02:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - politics
 ---
 
 Er was sprake van dat het evenement **[What The Hack](http://www.whatthehack.org) niet door zou kunnen gaan. Ik dacht dat dat berustte op een simpel misverstand en dat het snel opgehelderd zou zijn.

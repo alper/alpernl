@@ -4,6 +4,7 @@ date: 2005-09-24T18:07:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Alsof ik het nog niet druk genoeg had, heb ik vandaag ook nog even een vlucht geboekt. Ik heb met wat [vrienden van de zomer](http://www.flickr.com/photos/alper/tags/su2005) afgesproken om elkaar weer te zien op de [Herfst-Agora](http://agora-izmir.org/agora/) van [AEGEE](http://www.aegee.org) en deze is in İzmir.
