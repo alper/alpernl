@@ -7,7 +7,7 @@ categories:
   - music
 ---
 
-I used to play music in my room on my [Marantz](http://www.marantz.com/) system with a nice set of [Infinity](http://www.infinitysystems.com/) speakers. The sound was great. You might think this a bit excessive, but I got it at the bargain bin at [Correct](http://www.correct.com/).
+I used to play music in my room on my [Marantz](http://www.marantz.com/) (Infinity SR-110 & CD-110) system with a nice set of [Infinity](http://www.infinitysystems.com/) (Reference 31) speakers. The sound was great. You might think this a bit excessive, but I got it at the bargain bin at [Correct](http://www.correct.com/).
 
 ![Music](http://farm1.static.flickr.com/147/353107397_fe0bc20419_m.jpg)[](http://www.flickr.com/photos/alper/353107397/)
 
