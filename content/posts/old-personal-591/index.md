@@ -4,6 +4,8 @@ date: 2006-03-26T00:32:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 Bloedstollende beelden op het nieuws uit Wit Rusland, de achtertuin van Europa.

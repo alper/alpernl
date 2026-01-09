@@ -4,6 +4,7 @@ date: 2006-01-24T00:35:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik vind Femke wel cool, al maakt ze het me soms wel wat moeilijk. Nu zag ik dat je op [Linkse Lente](http://www.linkselente.nl) kunt reageren op dingen. Dus dat heb ik maar gedaan.

@@ -4,6 +4,7 @@ date: 2006-02-22T13:41:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 In Radio Online een [hoogleraar die uitlegt](http://www.radio-online.nl/pivot/entry.php?id=458) dat we wat internet betreft in Nederland naar het Chinese model toe moeten.

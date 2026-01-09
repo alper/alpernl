@@ -4,6 +4,7 @@ date: 2006-02-08T17:51:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Geheel onverwacht, ga ik morgenavond mee op wintersport voor het weekend.

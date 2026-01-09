@@ -4,6 +4,7 @@ date: 2006-03-05T13:17:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Dacht je dat telefoonmaatschappijen leuk waren… [banken zijn ook kut](http://ioerror.livejournal.com/301520.html).

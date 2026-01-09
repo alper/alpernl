@@ -4,6 +4,7 @@ date: 2006-01-19T01:21:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
 ---
 
 Van een van [mijn favoriete blogs](http://37signals.com/svn/) het volgende citaat:

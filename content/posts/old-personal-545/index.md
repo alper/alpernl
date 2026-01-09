@@ -4,6 +4,8 @@ date: 2006-02-16T00:50:00
 author: alper
 categories:
   - nederlands
+  - sports
+  - video
 ---
 
 Wat ben ik blij als de Olympische Spelen zijn afgelopen. De NOS maakt heel veel mensen blij met [hun livestreams](http://www.nos.nl/winterspelen2006/voorpagina/index.html) van verschillende sport evenementen, dit is alleen allemaal Windows Media ellende. Daar heb ik dus niks aan.

@@ -4,6 +4,8 @@ date: 2006-02-23T13:14:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 Pak ze en pak ze hard!

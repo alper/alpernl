@@ -4,6 +4,7 @@ date: 2006-01-21T19:53:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 [Cris pimpt zijn phone](http://cbetta.blogspot.com/2006/01/pimp-my-mobile.html), die van mij begeeft het nu echt. Mijn prachtige vintage Nokia 3310 ([hoe zag die er ook alweer uit?](http://www.europe.nokia.com/nokia/0,,119,00.html)) gaat nu vanzelf uit tijdens telefoongesprekken.

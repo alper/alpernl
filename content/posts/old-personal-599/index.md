@@ -4,6 +4,8 @@ date: 2006-04-03T13:40:00
 author: alper
 categories:
   - nederlands
+  - work
+  - internet
 ---
 
 Even een stukje syndiceren van mijn interne blog:

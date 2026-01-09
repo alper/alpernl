@@ -4,6 +4,7 @@ date: 2006-01-23T18:49:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Net [De Flexmens](http://www.vpro.nl/programma/tegenlicht/afleveringen/26031884/) van Tegenlicht (aangekondigd en besproken [op Sargasso](http://www.sargasso.nl/archief/2006/01/22/herinnering-uitzending-de-flexmens/)) gezien en er zaten een heleboel dingen in die niet nieuw voor me waren maar ook veel interessante dingen.

@@ -4,6 +4,7 @@ date: 2006-02-18T22:15:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 En wat voor een antwoord...
@@ -12,11 +13,7 @@ Mijn toestel was stuk en ik krijg vandaag een (onvoldoende gefrankeerde) brief v
 
 > Het blijkt dat de door u opgegeven klacht een gevolg is van een defect aan het toestel dat niet wordt gedekt door de garantiebepalingen van de fabrikant importeur.
 
->
-
 > Het betreft namelijk **Val stoot- of drukschade**
-
->
 
 > De reparatiekosten daarvoor bedragen €107,70 (inclusief BTW)
 

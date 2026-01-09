@@ -4,6 +4,7 @@ date: 2006-02-06T01:01:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De AEL heeft volkomen gelijk om anti-semitische spotprenten te publiceren. Dit is logisch sluitend: als jullie dat mogen doen, dan mogen wij iets vergelijkbaars doen.

@@ -4,11 +4,13 @@ date: 2006-02-21T01:34:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - delft
 ---
 
 Buitengewoon fijne reactie van de BOP op [mijn brief](http://alper.nl/wiki/index.php/Municipal_WiFi#Letter):
 
-> From: peetsmit@xs4all.nl 	
+> From: peetsmit@xs4all.nl
 
 > Date: 21-Feb-2006 00:08
 

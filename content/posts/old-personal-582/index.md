@@ -4,6 +4,7 @@ date: 2006-03-15T22:47:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Ik heb vandaag in de trein vanaf Nuenen terug het boek [“Blink: The Power of Thinking Without Thinking”](http://www.gladwell.com/blink/) uitgelezen.
@@ -19,15 +20,10 @@ Daarnaast gaat hij ook nog eens dieper in op zijn anekdotes. Hij heeft natuurlij
 Ik neem aardig wat mee uit dit boek in anekdotes en (contra-intuïtief) inzicht:
 
 -Over the Pepsi challenge
-
 -Over het transfer-effect van verpakkingen
-
 -Over de veertien smaakdimensies van mayonaise
-
 -Over de blinde audities van muzikanten
-
 -Waarom *high speed chases* vaak een gewelddadig einde hebben
-
 -Hoe handig [FACS](http://face-and-emotion.com/dataface/facs/new_version.jsp) is om te kunnen
 
 en nog zo veel meer…

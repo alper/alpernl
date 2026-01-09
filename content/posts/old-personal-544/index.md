@@ -4,6 +4,8 @@ date: 2006-02-15T13:00:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 Erg intiem verhaal op Tegenlicht: [“Drie Kameraden”](http://www.vpro.nl/programma/tegenlicht/afleveringen/26725224/).

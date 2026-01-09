@@ -4,6 +4,7 @@ date: 2006-03-25T23:50:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Vandaag de 10 kilometer gelopen op de [City Pier City-loop](http://www.fortiscpcloop.nl/) of zoals zij het willen de *AD Haagsche Courant 10 km loop*.

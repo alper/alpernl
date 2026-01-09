@@ -6,7 +6,7 @@ categories:
   - nederlands
 ---
 
-[Mijn W800i](http://www.alper.nl/blog/alper/513) is best een leuke GSM. Het is alleen jammer dat de Bluetooth na een tijdje niet meer reageert. Bluetooth dan uit proberen te zetten resulteert in een hele harde crash van de telefoon (batterij eruit halen en opnieuw proberen). Leuk dat GSM's dat kunnen.
+[Mijn W800i](/posts/old-personal-513) is best een leuke GSM. Het is alleen jammer dat de Bluetooth na een tijdje niet meer reageert. Bluetooth dan uit proberen te zetten resulteert in een hele harde crash van de telefoon (batterij eruit halen en opnieuw proberen). Leuk dat GSM's dat kunnen.
 
 Na het uit en aanzetten van de telefoon doet alles het wel weer.
 

@@ -4,9 +4,11 @@ date: 2006-04-02T01:05:00
 author: alper
 categories:
   - nederlands
+  - video
+  - internet
 ---
 
-Na al [het gezeik](http://www.alper.nl/blog/alper/591#comment517), ook weer eens tijd voor wat goed nieuws. Ze hebben bij NOVA voor de items in het weekarchief nu ook [een RSS feed](http://www.novatv.nl/rss/novafeed.xml). Dit is iets wat ik al heel lang wilde en waar ik pas met een screen scraper aan was begonnen te schrijven. Dat hoeft nu dus niet meer.
+Na al [het gezeik](/posts/old-personal-591), ook weer eens tijd voor wat goed nieuws. Ze hebben bij NOVA voor de items in het weekarchief nu ook [een RSS feed](http://www.novatv.nl/rss/novafeed.xml). Dit is iets wat ik al heel lang wilde en waar ik pas met een screen scraper aan was begonnen te schrijven. Dat hoeft nu dus niet meer.
 
 Hun feed [valideert zelfs](http://www.feedvalidator.org/check.cgi?url=http%3A%2F%2Fwww.novatv.nl%2Frss%2Fnovafeed.xml) volgens de Feed Validator.
 

@@ -4,6 +4,7 @@ date: 2006-02-07T15:08:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De VVD heeft altijd de mond vol van marktwerking maar ze zijn te opportunistisch om dat te vertalen in consequent beleid.

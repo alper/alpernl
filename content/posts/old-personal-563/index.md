@@ -4,9 +4,11 @@ date: 2006-02-27T01:38:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - delft
 ---
 
-Het vervolg van [de saga](http://www.alper.nl/blog/alper/551)…
+Het vervolg van [de saga](/posts/old-personal-551)…
 
 De VVD had afgelopen vrijdag ook nog [een reactie op mijn vraag](http://alper.nl/wiki/index.php/Municipal_WiFi#VVD) geplaatst en wel regelrecht in mijn wiki. Petje af, de meeste mensen halen dat niet.
 

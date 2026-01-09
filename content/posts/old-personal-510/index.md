@@ -4,6 +4,7 @@ date: 2006-01-23T18:54:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 En GroenLinks wil met het kabinet een Doe Eens Normaal contract afsluiten. Met een paar simpele regels:

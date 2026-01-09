@@ -4,6 +4,7 @@ date: 2006-03-25T17:20:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Op het nieuws hoorde ik dat een van de maatregelen die de Europese Unie afkondigde tegen het bewind van Loekasjenko was dat hij niet meer welkom zou zijn in Europa.

@@ -4,9 +4,11 @@ date: 2006-02-13T23:03:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - travel
 ---
 
-Mijn [leuke nieuwe gave GSM](http://www.alper.nl/blog/alper/513) is stuk. Het Bluetooth probleem kon ik nog half mee leven. In de bus naar Flaine haalde ik hem uit mijn broekzak en toen bleek het scherm half stuk. De LCD is van binnen kapot en de helft van het scherm is onbruikbaar. Leuk, zo op vakantie.
+Mijn [leuke nieuwe gave GSM](/posts/old-personal-513) is stuk. Het Bluetooth probleem kon ik nog half mee leven. In de bus naar Flaine haalde ik hem uit mijn broekzak en toen bleek het scherm half stuk. De LCD is van binnen kapot en de helft van het scherm is onbruikbaar. Leuk, zo op vakantie.
 
 Vandaag bij de T-mobile winkel het ding weer ingeleverd. Ik heb er twee jaar garantie op en als dit een indicatie is hoe duurzaam SonyEricsson GSM's zijn dan heb ik die garantie hard nodig.
 

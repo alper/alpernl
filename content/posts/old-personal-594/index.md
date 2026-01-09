@@ -4,6 +4,7 @@ date: 2006-03-30T17:33:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 I [heard Plazes](http://blog.leapfrog.nl/archives/2006/03/30/plazes-can-make-you-famous/) can make you famous, so I thought I'd give it a whirl.

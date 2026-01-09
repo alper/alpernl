@@ -4,6 +4,8 @@ date: 2006-03-06T02:10:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - politics
 ---
 
 Zoals beloofd, hier dan mijn advies.

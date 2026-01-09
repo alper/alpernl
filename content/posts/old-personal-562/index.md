@@ -4,6 +4,7 @@ date: 2006-02-26T20:39:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik had dit weekend last van een flinke knoop in een spier bij mijn schouder. Erg ongemakkelijk en pijnlijk. Ik heb toen maar veel plat gelegen en de complete serie Vuurzee gekeken.

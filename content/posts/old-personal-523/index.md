@@ -4,6 +4,7 @@ date: 2006-01-30T17:29:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Google lanceert pas een [Nederlandstalige nieuwsdienst](http://news.google.nl) (hoera!). Het voorspelbare gebeurt, de traditionele noodlijdende pers ruikt geld en [gaat dreigen](http://www.mediafact.nl/comments.php?id=11261_0_1_0_C) [[via Breuls](http://breuls.org/blog?view/2748)].

@@ -4,6 +4,7 @@ date: 2006-02-27T22:23:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Vanmiddag bij [TOPdesk](http://www.topdesk.com) onze eerste les Ashanta Yoga gehad. De nieuwe lunchruimte helemaal leeggeruimd en een berg matjes neergelegd. We kregen les van [Jeanet Heilbron](http://www.jnana.nl/).

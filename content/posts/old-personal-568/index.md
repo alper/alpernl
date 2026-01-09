@@ -4,6 +4,8 @@ date: 2006-03-01T11:03:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - delft
 ---
 
 Ik heb van [GroenLinks](http://alper.nl/wiki/index.php/Municipal_WiFi#GroenLinks) ook een positief antwoord gehad.

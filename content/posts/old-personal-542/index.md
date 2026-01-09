@@ -4,6 +4,8 @@ date: 2006-02-14T16:45:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 Een leuk quotable [item uit Buitenhof](http://www.vpro.nl/programma/buitenhof/afleveringen/25675734/items/26939801/) afgelopen zondag over de krimp van de bevolking en van de economie.

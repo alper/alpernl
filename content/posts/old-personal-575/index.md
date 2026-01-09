@@ -4,6 +4,7 @@ date: 2006-03-05T23:26:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 GroenLinks [steunt de kandidatuur](http://www.groenlinks.nl/europa/nieuws/Nieuwsbericht.2006-03-02.0331) van Istanbul als Culturele Hoofdstad van Europa in 2010.

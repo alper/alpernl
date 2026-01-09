@@ -4,6 +4,7 @@ date: 2006-03-24T01:03:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 **Disclaimer:** Dit is een ruw verslag van de seminar Power to the People die ik vanmiddag heb bijgewoond. Vrijwel zeker klopt niet alles en heb ik niet iedereen eer kunnen geven waar dat toekomt. Addenda en errata mogen in het commentaar.
@@ -16,11 +17,11 @@ Voor het begin van de conferentie sprak ik [Jacqueline Fackeldey](http://www.fra
 
 **Hans Appel** Het eerste verhaal van de dag was van [Hans Appel](http://www.wemakethenetwork.nl/innovatiefondernemen/hans_appel/cv.php) industrieveteraan, lector multidisciplinaire informatica aan de Hanzehogeschool in Groningen en werkzaam bij Sun.
 
-Zoals [ik al voorspeld had](http://www.alper.nl/blog/study/405) draaide hij hetzelfde verhaal af waar Sun al een tijdje mee bezig is over community en verantwoord ondernemen. Ik heb een vergelijkbaar verhaal gehoord tijdens [Holland Open](http://www.hollandopen.nl/) vorig jaar en erg overtuigend is het niet. Sun is een bedrijf dat al tijden noodlijdend is en veel moeite heeft met de nieuwe orde.
+Zoals [ik al voorspeld had](/posts/old-studies-405) draaide hij hetzelfde verhaal af waar Sun al een tijdje mee bezig is over community en verantwoord ondernemen. Ik heb een vergelijkbaar verhaal gehoord tijdens [Holland Open](http://www.hollandopen.nl/) vorig jaar en erg overtuigend is het niet. Sun is een bedrijf dat al tijden noodlijdend is en veel moeite heeft met de nieuwe orde.
 
 Appel weet in ieder geval leuk en erg gedreven te vertellen. Het moet een genot zijn om college van hem te krijgen. Zijn verhaal over beraakt worden en outreach is relevant, maar niet op Sun. Dat blijft nog steeds een bedrijf dat servers schuift.
 
-In zijn verhaal over de nieuwe ontwikkelingen en trends weet hij alleen niet echt een lijn te vinden en de meeste dingen die hij noemt zullen voor het aanwezige publiek niet echt nieuw geweest zijn. Iemand die dit beter doet is [John Thackara](http://www.thackara.com/) waar ik pas een lezing van [heb bijgewoond](http://www.alper.nl/blog/study/373) en waar ik ook het boek [‘In the Bubble’](http://www.thackara.com/inthebubble/index.html) van heb gelezen.
+In zijn verhaal over de nieuwe ontwikkelingen en trends weet hij alleen niet echt een lijn te vinden en de meeste dingen die hij noemt zullen voor het aanwezige publiek niet echt nieuw geweest zijn. Iemand die dit beter doet is [John Thackara](http://www.thackara.com/) waar ik pas een lezing van [heb bijgewoond](/posts/old-studies-373) en waar ik ook het boek [‘In the Bubble’](http://www.thackara.com/inthebubble/index.html) van heb gelezen.
 
 Thackara schetst de grote trends die ons nu bezig houden en laat de noodzaak zien om door middel van goed ontwerp en slimme technologie de wereld beter te maken voor iedereen.
 
@@ -38,7 +39,7 @@ English cut is het blog van Thomas Mahon een bijzonder goede maker van maatpakke
 
 Stormhoek is een Zuid-Afrikaanse wijn en blog dat Hugh promoot door op diners van webloggers aan te bieden om de wijn te verzorgen: [100 Geek Dinners](http://www.gapingvoid.com/Moveable_Type/archives/002236.html).
 
-Sun kwam pas met een [vergelijkbaar initiatief](http://www.alper.nl/blog/tech/90). Ze bieden aan om iedereen die er eentje wil uitproberen geheel gratis een Niagara server toe te sturen. Als je er dan in de termijn van 60 dagen ook nog over blogt is de kans aanwezig dat je hem mag houden.
+Sun kwam pas met een [vergelijkbaar initiatief](/posts/old-tech-90). Ze bieden aan om iedereen die er eentje wil uitproberen geheel gratis een Niagara server toe te sturen. Als je er dan in de termijn van 60 dagen ook nog over blogt is de kans aanwezig dat je hem mag houden.
 
 **Macaw** Een voorbeeld van business blogging dat Frank lang geleden had gepost (en waar [ik toen negatief](http://frankwatching.com/archive/2005/04/10/macaw_scoort_met_blogs#alper-0504122305) over was) was dat van [Macaw](http://www.macaw.nl/). Ik was toen zo negatief omdat meer een PR-stunt was dan een serieuze poging om te bloggen. Ze hebben zich nu goed gerevancheerd met een serieuze [business blogging site](http://blogs.macaw.nl/). Reactiemogelijkheid, RSS en prominent gelinked op de voorpagina; dit mag er zijn.
 

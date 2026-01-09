@@ -4,6 +4,7 @@ date: 2006-01-26T01:46:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Bij Radio-Online hebben ze een item over iets waar Erwin Boogert (die in dezelfde uitzending was over [dit](http://weblog.r-win.com/archives/algemeen/de_koopman_bekl.html#003000)) al [eerder over berichtte](http://weblog.r-win.com/archives/algemeen/bezint_eer_ge_b.html): Arnoud Engelfriet's juridische gids voor bloggers.

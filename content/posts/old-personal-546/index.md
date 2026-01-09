@@ -4,6 +4,7 @@ date: 2006-02-17T10:47:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik weet nu wat gaat bepalen hoe ik ga stemmen in de aankomende gemeenteraadsverkiezingen. Er zijn twee factoren van belang:

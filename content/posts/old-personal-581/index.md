@@ -4,6 +4,7 @@ date: 2006-03-14T20:30:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Ik liep vanmiddag de Paagman binnen om geld uit te geven om een krant te kopen (de nieuwe NRC.Next). *Geld* uitgeven voor een *print medium*, stel je voor…

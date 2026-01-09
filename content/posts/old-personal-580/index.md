@@ -6,7 +6,7 @@ categories:
   - nederlands
 ---
 
-Nog als vervolg op [het T-mobile gezeik](http://www.alper.nl/blog/alper/552) (nu trouwens [nr. 3 in Google](http://www.google.com/search?client=safari&rls=en&q=t-mobile+klantenservice&ie=UTF-8&oe=UTF-8). Help mee!).
+Nog als vervolg op [het T-mobile gezeik](/posts/old-personal-552) (nu trouwens [nr. 3 in Google](http://www.google.com/search?client=safari&rls=en&q=t-mobile+klantenservice&ie=UTF-8&oe=UTF-8). Help mee!).
 
 Toen ik de originele brief met de reparatieofferte kreeg stond er strafporto op. De brief zat in een T-mobile envelop met daarop een *Port betaald*-merkje maar niet dus.
 

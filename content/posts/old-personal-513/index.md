@@ -4,6 +4,7 @@ date: 2006-01-25T18:59:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik liep vanmiddag de T-mobile winkel binnen met [het idee om een SonyEricsson K700i te regelen](/blog/alper/505). Daar kreeg ik te horen dat ding al hopeloos verouderd was. De opvolger, de K750i, was ook niet echt meer leverbaar.

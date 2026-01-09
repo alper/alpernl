@@ -4,6 +4,7 @@ date: 2006-04-02T00:20:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Bergen spectaculaire foto's op Flickr uit Parijs van [Gonzale](http://www.flickr.com/people/gonzale/), een vrouw met ballen en een [20D](http://www.canon.co.jp/Imaging/eos20d/).

@@ -4,6 +4,7 @@ date: 2006-02-27T22:13:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Het leven zonder televisie wordt steeds makkelijker. Lang verwacht, gesmeekt maar niet gelukt bij [Uitzendinggemist](http://www.uitzendinggemist.nl) komen er nu wel [Vodcasts bij Talpa](http://www.talpa.tv/web/show?id=271831) van BvD en NSE.

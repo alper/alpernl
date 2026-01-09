@@ -4,6 +4,7 @@ date: 2006-02-18T13:59:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Waarom zie je dit soort voorbeelden van vlijmscherp engagement en debat wél in Amerika en niet in Nedeland?

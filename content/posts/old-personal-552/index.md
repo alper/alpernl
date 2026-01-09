@@ -6,7 +6,7 @@ categories:
   - nederlands
 ---
 
-Als je me wil helpen zet dan ergens in een kleine blogpost of op een andere server de volgende link neer: [T-mobile klantenservice is heel heel slecht en Sony Ericsson W800i is zo stuk](http://www.alper.nl/blog/alper/552). Google ziet alles.
+Als je me wil helpen zet dan ergens in een kleine blogpost of op een andere server de volgende link neer: [T-mobile klantenservice is heel heel slecht en Sony Ericsson W800i is zo stuk](/posts/old-blog-552). Google ziet alles.
 
 Ok.
 

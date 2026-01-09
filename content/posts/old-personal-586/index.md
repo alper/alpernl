@@ -4,6 +4,7 @@ date: 2006-03-20T00:24:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 ![Im Juli](http://static.flickr.com/51/114902225_5b2838d501_m.jpg)[](http://www.flickr.com/photos/alper/114902225/)

@@ -4,6 +4,8 @@ date: 2006-03-04T00:34:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - video
 ---
 
 Wat een gezever in [NOVA Politiek van gisteren](http://www.novatv.nl/index.cfm?ln=nl&fuseaction=videoaudio.details&reportage_id=4160&selectArchiveDay=5). Prem Rhadakishun die zijn onvoorwaardelijke steun betuigt voor zijn kleurgenoot Laetitia Griffith.

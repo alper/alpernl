@@ -4,6 +4,7 @@ date: 2006-02-07T14:57:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Interessant [vervolg op de Flexmens](http://www.vpro.nl/programma/tegenlicht/afleveringen/26526818/) bij Tegenlicht. Een programma verzorgd door Felix Rottenberg (goed voor fijne televisie) in een lege fabriekshal. Illustratief voor de toekomst van Nederland.

@@ -4,6 +4,7 @@ date: 2006-03-02T23:13:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Deze week geen [Xing Yi](http://www.jingwu.nl/) en op donderdag geen [Capoeira](http://www.liberdade.nl/). De zaaltjes zijn dicht vanwege de schoolvakantie (vraag me niet waarom…).

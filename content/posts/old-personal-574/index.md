@@ -4,6 +4,7 @@ date: 2006-03-05T23:10:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Shit, weer niet genomineerd…
