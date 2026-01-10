@@ -1,6 +1,6 @@
 ---
 date: '2026-01-10T22:53:33+01:00'
-title: '1877'
+title: ''
 author: "alper"
 categories:
   - english
