@@ -100,7 +100,7 @@ The test itself in Düsseldorf was even harder than I expected and I think that 
 
 Even if I don’t get the certificate, stretching myself to N4 has made me study much much harder than I would ever have otherwise and I’ve advanced quite a bit. Also I got a quick trip to Düsseldorf out of it where I could eat Asian food at a level and authenticity that’s impossible to get in Berlin.
 
-**CulturaI**
+**Cultural**
 
 With everything else that was going on, I didn’t have anything significant happen here. No time, no energy, no relevance.
 

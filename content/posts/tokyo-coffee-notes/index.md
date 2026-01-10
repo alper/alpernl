@@ -125,7 +125,7 @@ In Kyoto I found it rather hard to get a coffee that I would term drinkable. Mos
 
 One exception to his in Kyoto was Unir ( [checkin](https://foursquare.com/alper/checkin/522c0a5311d2a641367a8943), [tip](https://foursquare.com/v/specialty-coffee-beans-unir-%E4%BA%AC%E9%83%BD%E5%BE%A1%E5%B9%B8%E7%94%BA%E5%BA%97/50050f2de4b0de12a3c2f630)) where they make a very nice cappuccino and which I visited a couple of times because of this.
 
-### ã‚¢ã‚«ãƒ„ã‚­ã‚³ãƒ¼ãƒ’ãƒ¼ (Akatsuki Coffee)
+### アカツキコーヒー (Akatsuki Coffee)
 
  [![Real deal](9707367312_c6308241ac_z.jpg)](http://www.flickr.com/photos/alper/9707367312/ "Real deal by illustir, on Flickr")
 
@@ -183,7 +183,7 @@ A bit further on is Hitinui ( [checkin](https://foursquare.com/alper/checkin/523
 
 ### Identity Coffee Bar+Gallery
 
-Identity Coffee Bar+ Gallery ( [checkin](https://foursquare.com/alper/checkin/5232d10511d280725ac66477), [tip](https://foursquare.com/item/52507d2d498e6215f63c9910)) also in Omotesando is a rather nice store and has an excellent selection of both Intelligentsia and Handsome beans which they prefer perfectly.
+Identity Coffee Bar+ Gallery ( [checkin](https://foursquare.com/alper/checkin/5232d10511d280725ac66477), [tip](https://foursquare.com/item/52507d2d498e6215f63c9910)) also in Omotesando is a rather nice store and has an excellent selection of both Intelligentsia and Handsome beans which they prepare perfectly.
 
 That was the roundup from my Tokyo coffee experience. I visited a couple of the places several times and brought back some bags of coffee but I am extremely impressed with the coffee culture and I'll definitely be back.
 

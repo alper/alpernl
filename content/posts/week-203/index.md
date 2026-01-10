@@ -18,7 +18,7 @@ Made a lot of progress on [Statlas](http://statlas.nl) during the course of the 
 
 _Maguro_ got updated and deployed again.
 
-Planned the ineraction and design for _acapulco_ and briefed designer [Martijn Broekman](http://www.martijnbroekman.nl/). Finally finished those wireframes in a café in Brussels and sent them in.
+Planned the interaction and design for _acapulco_ and briefed designer [Martijn Broekman](http://www.martijnbroekman.nl/). Finally finished those wireframes in a café in Brussels and sent them in.
 
 Made a tentative start on _hermosillo_.
 

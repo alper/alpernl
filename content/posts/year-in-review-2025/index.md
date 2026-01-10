@@ -43,7 +43,7 @@ The main problem is that once you start studying Japanese, you cannot stop. I'm 
 
 ## Books
 
-I already posted about [how bad of a year 2025 was for readin](/posts/18731/). Not sure whether I'll find the time to do better next year.
+I already posted about [how bad of a year 2025 was for reading](/posts/18731/). Not sure whether I'll find the time to do better next year.
 
 ## Movies and TV
 

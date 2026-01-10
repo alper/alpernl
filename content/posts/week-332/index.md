@@ -30,7 +30,7 @@ The next day we did another day at the client after which having been nicely fri
 
 [![Stij Oomes dropping some proper knowledge. Going to dive into 3D programming today.](9367161509_11fcc86be6_z.jpg)](http://www.flickr.com/photos/alper/9367161509/ "Stij Oomes dropping some proper knowledge. Going to dive into 3D programming today. by illustir, on Flickr")
 
-Then after having done all of this and with hardly enough sleep I dropped into our weekly Sheperditchi breakfast and then straight into a OpenGL ES course given by Stijn Oomes. Stijn has a PhD from my alma mater and we know many of the sam people even though I didn't have too many interactions with the computer graphics group at my faculty. We had talked earlier that year about his [current pursuit of 3D vision](http://www.solid-perspective-vision.com/) and about the potential of such a workshop for iOS programmers. It was a thoroughly enjoyable day of pure learning with a lot of hands on and a knowledgeable teacher at hand.
+Then after having done all of this and with hardly enough sleep I dropped into our weekly Sheperditchi breakfast and then straight into a OpenGL ES course given by Stijn Oomes. Stijn has a PhD from my alma mater and we know many of the same people even though I didn't have too many interactions with the computer graphics group at my faculty. We had talked earlier that year about his [current pursuit of 3D vision](http://www.solid-perspective-vision.com/) and about the potential of such a workshop for iOS programmers. It was a thoroughly enjoyable day of pure learning with a lot of hands on and a knowledgeable teacher at hand.
 
 {{< youtube id="JdTPPUtmCq0" >}}
 
