@@ -27,7 +27,7 @@ Going to the gym is made possible by my Fitbod subscription. Exercising regularl
 
 I'm doing winter cycling on the trainers at the gym while I debate whether I should get one for at home. That makes me one of those crazy people who wears a *chamois* to the gym.
 
-![In the elevator with the Bianchi](alper-bianchi.jpeg)
+![In the elevator with the Bianchi](featured-alper-bianchi.jpeg)
 
 It was a great year for cycling. I bought a proper road bike, the Bianchi 2024 Sprint ICR and I managed to join group rides (mostly those of the MAAP LAB Berlin) more or less weekly without having a single mechanical or crash. *knocks on wood*
 
