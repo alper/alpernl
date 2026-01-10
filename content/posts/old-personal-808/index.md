@@ -4,6 +4,9 @@ date: 2007-02-27T00:19:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - cycling
+  - politics
 ---
 
 Een van de weinige lokaal Delftse politieke thema's die mij raakt is het fietsenbeleid rondom het station. Ik kan nooit makkelijk mijn fiets kwijt rondom het station hier.

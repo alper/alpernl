@@ -4,6 +4,7 @@ date: 2006-10-19T11:29:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik zag Femke Halsema deze week bij P-Side en ik was blij om te zien hoe goed ze haar huiswerk had gedaan en alle thema's beheerst. Alle ‘antwoorden’ van de rechterzijde, zijn gericht op de korte termijn en lossen niks echt op, harder straffen onmenselijk behandelen. Dat soort werk.

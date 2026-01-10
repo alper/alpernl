@@ -4,6 +4,7 @@ date: 2006-12-06T12:37:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Na vorige week de [verschillende events](http://alper.nl/blog/tech/215) bijgewoond te hebben en ook nog eens een [Capoeira-workshop](http://www.liberdade.nl/?q=node/29) tussendoor nog even mijn interviews afgemaakt.

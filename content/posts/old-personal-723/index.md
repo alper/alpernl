@@ -3,6 +3,7 @@ title: "Mediawijsheid"
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 **Disclaimer:** Dit stuk is geschreven voor en [gepubliceerd op Frankwatching.com](http://www.frankwatching.com/archive/2006/10/19/Event_Mediawijsheid_in_een_gem#body). Bezoekers van Frankwatching welkom. Ik heb het hier ook staan voor mijn eigen archief.

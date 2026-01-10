@@ -4,6 +4,8 @@ date: 2006-06-18T16:08:00
 author: alper
 categories:
   - nederlands
+  - reading
+  - turkish
 ---
 
 Ik heb gisteren “Benim Adım Kırmızı” (*Mijn naam is Karmozijn*) van Orhan Pamuk uitgelezen. Dit is een van zijn grote boeken (samen met “Kar” (*Sneeuw*) en “Kara Kitap” (*Het Zwarte Boek*)) van een schrijver die terecht de beste van Turkije genoemd kan worden.

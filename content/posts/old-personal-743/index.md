@@ -4,6 +4,7 @@ date: 2006-11-16T00:54:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Job Cohen geeft commentaar op het verkiezingsdebat van vanavond en het fragment over de wachtlijsten. Volgens Balkenende zijn de wachtlijsten door het kabinet opgelost. Bos' riposte dat dat niet klopt wordt door Balkenende weggewuifd met een verwijzing naar de feiten.

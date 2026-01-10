@@ -4,6 +4,7 @@ date: 2006-06-06T22:55:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 De jubileumaflevering —de 100ste aflevering— van [The Colbert Report](http://www.comedycentral.com/shows/the_colbert_report/index.jhtml) gisteren is meer dan de moeite van het kijken waard.

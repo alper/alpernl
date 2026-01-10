@@ -4,6 +4,7 @@ date: 2007-02-27T12:02:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Een blij bericht op Mac OS X.nl dat minister Ronald Plasterk [een Apple gebruiker is](http://www.macosx.nl/?p=showarticle&art_id=2565).

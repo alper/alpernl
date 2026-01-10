@@ -4,6 +4,7 @@ date: 2006-09-22T00:19:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De wereld waarnaar ik hard op weg ben, ziet er opeens een stuk minder aantrekkelijk uit als je [Bruce Sterling zijn stukje](http://www.boingboing.net/2006/09/21/bruce_sterling_story.html) leest.

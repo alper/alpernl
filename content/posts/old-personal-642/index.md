@@ -4,6 +4,7 @@ date: 2006-06-10T21:24:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Net van dit blog een paar honderd trackback spam handmatig moeten verwijderen. Flink de bezem erdoor, en vanaf nu geen trackback meer.

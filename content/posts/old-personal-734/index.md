@@ -8,7 +8,7 @@ categories:
 
 Hier de lang verwachte post waarin ik uiteenzet hoe ik een Macbook heb gekocht en daarna compleet ben geschoffeerd door de winkel. Ik heb mijn redelijk precieze aantekeningen van toen maar in een prettigere vorm gegoten. Details zijn weggelaten om de leesbaarheid te vergroten.
 
-Ik heb eerder al [wat positiefs geschreven](http://alper.nl:9673/blog/alper/603) over [Apple Center Lijnbaan](http://www.applecenterlijnbaan.nl/). Ik heb daar toen ook mijn Macbook gekocht. Ik wilde eerst wat referentiemateriaal verzamelen voor ik het wereldkundig maakte. Ik heb pas mijn Macbook bij [LJS](http://www.ljs.nl) in Den Haag laten repareren dus ik denk dat de tijd nu rijp is voor een oordeel.
+Ik heb eerder al [wat positiefs geschreven](/posts/old-personal-603) over [Apple Center Lijnbaan](http://www.applecenterlijnbaan.nl/). Ik heb daar toen ook mijn Macbook gekocht. Ik wilde eerst wat referentiemateriaal verzamelen voor ik het wereldkundig maakte. Ik heb pas mijn Macbook bij [LJS](http://www.ljs.nl) in Den Haag laten repareren dus ik denk dat de tijd nu rijp is voor een oordeel.
 
 Om te beginnen met de conclusie: **Koop geen spullen bij Apple Center Lijnbaan!**
 
@@ -33,7 +33,7 @@ Om van me af te zijn —denk ik— stelde hij voor om mijn Macbook naar de repar
 
 	Het is raar dat Apple zijn merk op deze misleidende manier laat gebruiken door derde partijen die onder die vlag kunnen doen wat ze willen. Er lijkt nu verandering in te komen met het bericht dat Apple [de merknaam “Apple Centre” terugvordert](http://www.macfreak.nl/cgi-bin/forums/topic.cgi?forum=16&topic=4908&start=0).
 
-	
+
 
 Die beloofde week later heb ik negen keer gebeld voor ik te horen kreeg dat ik mijn Macbook op 17 juli terug zou krijgen. Op die datum hoorde ik niks. Ik belde met de technische dienst en kreeg te horen dat ik geen probleem had.
 
@@ -41,7 +41,7 @@ Die beloofde week later heb ik negen keer gebeld voor ik te horen kreeg dat ik m
 
 21 juli kon ik uiteindelijk bij Apple Centre Lijnbaan mijn laptop weer ophalen. Het had ze toen 15 dagen gekost om helemaal niks te doen aan mijn laptop, mij slecht en foutief te informeren over het proces en mij als klant niet serieus te nemen, impliciet uit te maken voor leugenaar en te schofferen.
 
-**Verlossing bij LJS**	
+**Verlossing bij LJS**
 
 De dag erna ben ik naar [LJS](http://www.ljs.nl)  gegaan op de Lutherse Burgwal (vlakbij de Grote Markt) in Den Haag. Ook een Apple-winkel maar naar bleek een stuk aangenamer in de omgang.
 
@@ -51,7 +51,7 @@ De technische dienst is er niet op zaterdag maar de persoon achter de balie weet
 
 Voor de reparatie moet ik er doordeweeks een keer langs als de technici er zijn. Omdat ik in theorie wel door kan werken en het doordeweeks erg druk heb in verband met mijn afstuderen laat ik het een tijdje versloffen. De muisknop is ongemakkelijk maar bruikbaar (‘alles went’). Het wordt wel erger.
 
-Uiteindelijk krijgt mijn Macbook ook nog eens te maken met het [random shutdown](http://www.macbookrandomshutdown.com/)-probleem (blogs [1](http://alper.nl/blog/tech/196), [2](http://alper.nl/blog/tech/199), [3](http://alper.nl/blog/tech/202)). Dat is toch wel storend genoeg om acute actie te rechtvaardigen. Ik ga een ochtend langs bij LJS om mijn problemen in te laten boeken:
+Uiteindelijk krijgt mijn Macbook ook nog eens te maken met het [random shutdown](http://www.macbookrandomshutdown.com/)-probleem (blogs [1](/posts/old-tech-196), [2](/posts/old-tech-199), [3](/posts/old-tech-202)). Dat is toch wel storend genoeg om acute actie te rechtvaardigen. Ik ga een ochtend langs bij LJS om mijn problemen in te laten boeken:
 
 - Random Shutdown
 - Squishy knop

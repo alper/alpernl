@@ -4,6 +4,8 @@ date: 2006-09-16T22:21:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - language
 ---
 
 Het was nog niet bij me opgekomen, maar het is eigenlijk heel logisch. Een podcast is een uitermate geschikt medium om les in taal te geven en te krijgen.

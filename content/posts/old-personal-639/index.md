@@ -4,6 +4,7 @@ date: 2006-06-08T15:14:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Deze [campagne van Amnesty](http://commercial-archive.com/129885.php) is buitengewoon heftig en perfect uitgevoerd. Helaas niet zichtbaar in Nederland —het moet redelijk heftig zijn om deze zomaar op straat tegen te komen— maar de foto's spreken voor zich [via [SvN](http://37signals.com/svn/)].

@@ -4,6 +4,8 @@ date: 2006-05-10T10:17:00
 author: alper
 categories:
   - nederlands
+  - london
+  - theater
 ---
 
 Ok, zie net een goede reden om in Londen te wonen langskomen op BoingBoing: [De Sultan's Olifant en de Kleine Reus](http://www.boingboing.net/2006/05/09/sultans_elephant_gra.html) liepen daar afgelopen week rond zie ook [de foto's](http://flickr.com/photos/tags/sultanselephant/interesting).

@@ -4,6 +4,7 @@ date: 2006-10-04T12:20:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Wat foto's van de laatste tijd.

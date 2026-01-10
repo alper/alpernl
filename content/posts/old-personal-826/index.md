@@ -4,6 +4,7 @@ date: 2007-04-11T22:46:00
 author: alper
 categories:
   - nederlands
+  - travel
 ---
 
 Caballero komt van *gast op paard* en betekent zoveel als ridder/heer. Vroeger waren in Spanje —net zoals overal— mensen die op paarden reden edellieden. Dat woord heeft het overleefd in het hedendaagse Spaans en je wordt er her en der mee aangesproken. Moet je je eens voorstellen dat je in Nederland wordt aangesproken met ‘ridder’ of ‘heer’.

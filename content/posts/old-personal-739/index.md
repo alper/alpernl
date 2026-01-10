@@ -4,6 +4,8 @@ date: 2006-11-12T19:34:00
 author: alper
 categories:
   - nederlands
+  - music
+  - sports
 ---
 
 Hardlopen met mijn nieuwe Shuffle is een verdeeld genoegen.

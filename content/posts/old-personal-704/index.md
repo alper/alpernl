@@ -4,9 +4,10 @@ date: 2006-09-16T13:06:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
-Ik wist natuurlijk al dat [T-mobile klantenservice buitengewoon slecht is](http://www.alper.nl/blog/alper/552). Ze blijven hun best doen om dat beeld te bevestigen.
+Ik wist natuurlijk al dat [T-mobile klantenservice buitengewoon slecht is](/posts/old-personal-552). Ze blijven hun best doen om dat beeld te bevestigen.
 
 Ik wil mijn kapotte W800i repareren en/of doorverkopen. Het zou dan wel fijn zijn als er geen SIM-lock meer op zat.
 

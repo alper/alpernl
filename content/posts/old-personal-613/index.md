@@ -4,6 +4,8 @@ date: 2006-05-04T01:01:00
 author: alper
 categories:
   - nederlands
+  - video
+  - internet
 ---
 
 Klinkt eng, hè? Dit is de titel van [een NOVA-item](http://www.novatv.nl/index.cfm?ln=nl&fuseaction=videoaudio.details&reportage_id=4318&selectArchiveDay=3) over het uitwisselen van films met behulp van Peer2Peer programma's. Iets wat in Nederland overigens legaal is.

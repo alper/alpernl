@@ -4,6 +4,8 @@ date: 2006-09-17T16:32:00
 author: alper
 categories:
   - nederlands
+  - photography
+  - delft
 ---
 
 Wordt dit nu een fotolog? Die kans zit er dik in.

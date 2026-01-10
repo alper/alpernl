@@ -4,6 +4,8 @@ date: 2006-11-17T15:55:00
 author: alper
 categories:
   - nederlands
+  - capoeira
+  - internet
 ---
 
 Na veel overleg, en ook een flink stapel werk is [de nieuwe site van Capoeira Liberdade](http://www.liberdade.nl) online.

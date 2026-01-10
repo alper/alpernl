@@ -4,6 +4,7 @@ date: 2006-11-17T16:04:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Ik ga zo bij [BestelICT](http://www.bestelict.nl) mijn klikker [RC-1](http://www.amazon.com/Canon-Wireless-Remote-Control-Digital/dp/B00004WCIC) ophalen voor mijn Canon EOS 350D.

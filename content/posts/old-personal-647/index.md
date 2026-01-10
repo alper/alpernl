@@ -4,6 +4,7 @@ date: 2006-06-20T01:23:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Ik ben nu wat schijnbaar lichter materiaal aan het lezen [“Ik was nooit in Isfahaan”](http://www.8weekly.nl/index.php?art=4031) van Tommy Wieringa. Het is nóg beter dan ik al dacht.

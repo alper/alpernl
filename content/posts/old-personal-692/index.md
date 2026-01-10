@@ -4,6 +4,7 @@ date: 2006-09-04T20:39:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 **Zaterdag** Op een abnormaal tijdstip opgestaan om om twaalf uur aanwezig te zijn op het [Nyama Wereldculturen Festival](http://upcoming.org/event/90293/). Daar gaf Liberdade een optreden. Erg leuk en daarna met Maracutaia de stad in geweest en mensen geflyered om naar het festival toe te komen. Foto's volgen binnenkort.

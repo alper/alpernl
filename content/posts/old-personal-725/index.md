@@ -4,6 +4,7 @@ date: 2006-10-20T16:56:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Hier op het werk een discussie of het Engelse woord *Tangerine* hetzelfde betekent als het Nederlandse [Mandarijn](http://nl.wikipedia.org/wiki/Mandarijn_%28vrucht%29). Het Nederlandse vruchtbegrip is sowieso beperkter omdat dit meer een groente-stamppot land is. Wij hebben gewoon minder woorden voor hetzelfde aantal vruchten.

@@ -4,6 +4,7 @@ date: 2007-03-16T21:16:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 A.s. dinsdag studeer ik af. Zie het [event op Upcoming](http://upcoming.org/event/161443/). Lezers van dit blog zijn uitgenodigd.

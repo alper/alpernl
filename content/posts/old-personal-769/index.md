@@ -4,6 +4,7 @@ date: 2006-12-27T14:50:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 De NS schaft een berg nieuwe treinen aan.

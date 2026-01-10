@@ -4,6 +4,7 @@ date: 2006-11-02T23:28:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 **Erik Terpstra** is een laf en hypocriet wijf. Die combinatie van eigenschappen komt binnen de VVD wel vaker voor.

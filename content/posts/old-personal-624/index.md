@@ -4,6 +4,10 @@ date: 2006-05-15T11:26:00
 author: alper
 categories:
   - nederlands
+  - reading
+  - copenhagen
+  - language
+  - portuguese
 ---
 
 Ik ben van het weekend in [Donner](http://www.donner.nl) geweest en dat betekent boeken.

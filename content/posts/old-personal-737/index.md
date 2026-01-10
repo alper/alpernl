@@ -4,6 +4,7 @@ date: 2006-11-09T12:20:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 *that the greatest menace to freedom is an inert people; --[Brandeis](http://en.wikipedia.org/wiki/Louis_Brandeis)*

@@ -4,6 +4,7 @@ date: 2006-08-01T01:08:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ze [zeggen het zelf](http://www.wijvertrouwenstemcomputersniet.nl/Klokkenluiders) al en het klopt, het is inderdaad ronduit hilarisch hoe onze verkiezingen zijn verkwanseld aan compleet incompetente bedrijven.

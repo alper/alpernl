@@ -4,6 +4,7 @@ date: 2006-11-02T23:47:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Ik heb vandaag een nieuwe [Shuffle](http://www.apple.com/ipodshuffle/) besteld ([online](http://www.apple.com/nlstore) natuurlijk).

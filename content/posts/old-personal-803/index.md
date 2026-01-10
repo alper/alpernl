@@ -4,11 +4,12 @@ date: 2007-02-15T01:53:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik ben niet de enige die ongelukkig is met de chistelijke aard van dit kabinet. 2525 is ook [redelijk over de zeik](http://www.2525.com/log/archives/2007/02/bestrijding_van.html) en hij heeft gelijk.
 
-Ik zal mijn standpunt ([vorige post](http://www.alper.nl/blog/alper/802)) nog eens toelichten (nog harder en nog helderder).
+Ik zal mijn standpunt ([vorige post](/posts/old-personal-802)) nog eens toelichten (nog harder en nog helderder).
 
 Ik snap niet wat er niet helder is aan de uitspraak: “De ChristenUnie wil dat mensen doodgaan.”
 

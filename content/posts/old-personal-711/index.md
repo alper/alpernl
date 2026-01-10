@@ -4,6 +4,7 @@ date: 2006-09-20T16:36:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik heb [een del.icio.us account](http://del.icio.us/alper) wat ik gebruik om links bij te houden en om interessante dingen door te spelen naar [mijn netwerk](http://del.icio.us/network/alper).

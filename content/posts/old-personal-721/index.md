@@ -4,6 +4,7 @@ date: 2006-10-18T11:09:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Een weekje geleden in het Parool [dit stukje](http://www.parool.nl/nieuws/2006/OKT/13/bin1.html) over de site [Last van de Burger](http://www.lastvandeburger.nl) waar ambtenaren een podium krijgen om terug te kunnen klagen tegen de burgers.

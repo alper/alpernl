@@ -4,6 +4,7 @@ date: 2007-02-11T22:56:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 [The Pirate Bay](http://thepiratebay.org/) lanceert de zoekmachine voor Oscar genomineerde films: [Oscar Torrents](http://oscartorrents.com/).[[via BoingBoing](http://www.boingboing.net/2007/02/11/piratebays_oscartorr.html)]

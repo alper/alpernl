@@ -4,6 +4,7 @@ date: 2006-09-10T18:38:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Zoals [al opgemerkt](http://www.alper.nl/blog/alper/689#comment612) staan de uitzendingen van [Zomergasten](http://www.vpro.nl/programma/zomergasten/) in hun geheel op de servers van de omroep en worden er ge-indexeerde links voorgeschoteld.

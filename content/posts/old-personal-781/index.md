@@ -4,9 +4,10 @@ date: 2007-01-15T15:07:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
-De volgende aflevering in de T-mobile-saga ([1](http://www.alper.nl/blog/alper/549), [2](http://alper.nl/blog/alper/552) en [3](http://alper.nl/blog/alper/704)) waarin ik probeer om van mijn Flex-abonnement af te komen.
+De volgende aflevering in de T-mobile-saga ([1](/posts/old-personal-549), [2](/posts/old-personal-552) en [3](/posts/old-personal-704)) waarin ik probeer om van mijn Flex-abonnement af te komen.
 
 **T-mobile Flex** is trouwens helemaal niet zo goedkoop als het lijkt. De prijzen lijken goedkoper te worden als je meer belt, maar omdat je meer belt betaal je elke maand wel gewoon meer dan je aanvankelijk dacht.
 
@@ -20,4 +21,4 @@ Zijn er mobiele telco's die fatsoenlijke contractvoorwaarden hanteren of zijn we
 
 **Idee:** In een echt vrije markt zouden opzegtermijn niet langer dan een paar weken tot maximaal een maand mogen zijn. Waarom is de VVD daar nou niet voor?
 
-**PageRank:** Het linken naar dit en in het bijzonder naar [het hoofdartikel](http://alper.nl/blog/alper/552) mag nog steeds.
+**PageRank:** Het linken naar dit en in het bijzonder naar [het hoofdartikel](/posts/old-personal-552) mag nog steeds.

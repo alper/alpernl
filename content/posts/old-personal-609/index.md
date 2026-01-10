@@ -4,6 +4,8 @@ date: 2006-04-25T14:27:00
 author: alper
 categories:
   - nederlands
+  - capoeira
+  - music
 ---
 
 Ik ben al tijden op zoek naar de teksten van dit capoeira lied en het is zo goed als onvindbaar. Ik kreeg gisteren van Gary een goede lead en vond daarmee in Google 1 (!) hit op een halve versie en in MSN één hit op een soort van volledige versie.
@@ -22,7 +24,7 @@ Ik heb een redelijke pagerank, dus ik post hem hier nog maar een keertje:
 
 > Morena baiana tem samba no pé¦
 
-> Ladeira do pelourinho morena baiana traz o vatapéў
+> Ladeira do pelourinho morena baiana traz o vatapé
 
 > Bahia de Todos Santos quem fica parado sé® fica a olhar
 

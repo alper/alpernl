@@ -4,6 +4,8 @@ date: 2006-06-05T16:06:00
 author: alper
 categories:
   - nederlands
+  - copenhagen
+  - travel
 ---
 
 Ik post dit nu vanaf het vliegveld van Kopenhagen. Internet kun je hier kopen 40DKK voor 30 minuten, struikroverij van het ergste soort, maar je doet het er maar mee.

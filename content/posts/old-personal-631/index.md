@@ -4,6 +4,7 @@ date: 2006-05-27T00:55:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Eergisteren [X3](http://www.imdb.com/title/tt0376994/) gezien in Pathé Schouwburgplein waar trouwens het hele kaartjessysteem eruit lag. Dit leidde tot een redelijke chaos bij de kassa's.

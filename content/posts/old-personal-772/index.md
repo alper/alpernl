@@ -4,6 +4,7 @@ date: 2007-01-07T00:52:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik las net het slechte stuk (origineel: [Digital Maoism](http://www.edge.org/3rd_culture/lanier06/lanier06_index.html)) van [Lanier](http://en.wikipedia.org/wiki/Jaron_Lanier) in de NRC, staat er ook een stuk over op [Sargasso](http://www.sargasso.nl/archief/2007/01/06/weekendquote-wiki-wisdom/). De reacties daar vallen me een beetje tegen.

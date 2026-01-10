@@ -4,6 +4,7 @@ date: 2006-08-17T23:02:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ligt het nou aan mij of zet het [CDA](http://www.cda.nl) met haar nieuwe programma vierkant in op de senioren demographic?

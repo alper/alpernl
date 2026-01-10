@@ -4,6 +4,7 @@ date: 2006-11-12T19:46:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 **Update:** Ik ben gelinked van de [Verkiezingen Startpagina](http://verkiezingen-2006.startpagina.nl/). Welkom bezoekers! Een commentaar achterlaten mag en is niet eng.

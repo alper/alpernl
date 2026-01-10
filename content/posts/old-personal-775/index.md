@@ -4,6 +4,8 @@ date: 2007-01-08T10:50:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - internet
 ---
 
 Dit weekend in M van [NRC](http://www.nrc.nl) een special gevuld met artikelen over het internet. Leuk spul, zeker voor mensen die geen internet ademen.

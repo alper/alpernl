@@ -4,6 +4,8 @@ date: 2006-05-06T17:43:00
 author: alper
 categories:
   - nederlands
+  - food
+  - delft
 ---
 
 Ik kreeg van Oliver pas de tip dat er in Delft een nieuw lunchcafé is geopend waar ze Portugese specialiteiten verkopen. Lunchcafé Vrij is een leuk klein zaakje op de Brabantse Turfmarkt (zie [Iens](http://www.iens.nl/restaurantsVan/Nederland/restaurant.htms?r=20967) & [Dinnersite](http://www.dinnersite.nl/restaurant/index.php?RN=436882) en [openingsbericht](http://www.zibb.nl/horeca/dossier/asp/portal/0/sctr/0/dossier/1531/hoofdstuk/2/sortering/False/artikel/1123756/bt//knooppunt/161/index.html)).

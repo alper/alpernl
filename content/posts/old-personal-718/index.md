@@ -4,6 +4,7 @@ date: 2006-10-05T12:24:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Wij vertrouwen stemcomputers niet heeft [het rapport over de Nedap/SDU stemcomputers](http://www.wijvertrouwenstemcomputersniet.nl/images/9/91/Es3b-en.pdf) op de site staan.

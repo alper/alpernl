@@ -4,6 +4,7 @@ date: 2006-06-18T18:31:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Hangplekken voor laagopgeleiden zijn er genoeg in Delft. Toegegeven deze groep is niet veeleisend. Een afdakje buiten om onder te kunnen staan, genoeg plek om met een paar brommers rondjes te kunnen rijden en de gelegenheid om bier te drinken en de flesjes op straat kapot te gooien zijn voldoende.
@@ -17,17 +18,11 @@ Waar ik aan denk als ik denk aan goede hangplekken zijn [de Balie](http://www.de
 Dit zijn plaatsen met:
 
 - een vriendelijke sfeer
-
 - goed bereikbaar
-
 - geen horeca-inflatie
-
 - goede cappuccino
-
 - gratis WiFi
-
 - een progressieve programmering
-
 - genoeg ruimte om een middagje te zitten hangen
 
 Nu is er in Delft al een tijdje iets nieuws (dus zo nieuw is het niet meer), [het Meisjeshuis](http://www.hetmeisjeshuis.nl/). Het Meisjeshuis in Delft is een historisch pand aan de Oude Delft ([Wikipedia](http://nl.wikipedia.org/wiki/Het_Meisjeshuis)).

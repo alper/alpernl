@@ -4,6 +4,8 @@ date: 2006-05-08T00:45:00
 author: alper
 categories:
   - nederlands
+  - capoeira
+  - travel
 ---
 
 Wat staat er de komende tijd in de agenda? Nogal wat…

@@ -4,6 +4,8 @@ date: 2006-05-21T19:15:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - politics
 ---
 
 [In Radio Online een item](http://www.radio-online.nl/pivot/entry.php?id=561) over [Het Nieuwe Stemmen](http://www.hetnieuwestemmen.nl). Een initiatief dat op een grappige manier de lijsttrekkersverkiezing binnen de VVD probeert te persifleren maar zelf veel serieuzere pretenties heeft.

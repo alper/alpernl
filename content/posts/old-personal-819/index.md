@@ -4,6 +4,8 @@ date: 2007-03-19T18:28:00
 author: alper
 categories:
   - nederlands
+  - capoeira
+  - travel
 ---
 
 ![Péage](http://farm1.static.flickr.com/172/426110704_59b13d849b.jpg)[](http://www.flickr.com/photos/alper/426110704/)

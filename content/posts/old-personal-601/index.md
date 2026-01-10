@@ -4,6 +4,7 @@ date: 2006-04-06T23:14:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Manon Uphoff:

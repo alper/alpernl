@@ -4,6 +4,8 @@ date: 2006-12-23T19:48:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 Nu ik toch weer televisie kan kijken op mijn Macbook, ben ik even Tegenlicht aan het inhalen.

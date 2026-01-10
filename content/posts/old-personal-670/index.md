@@ -4,6 +4,7 @@ date: 2006-08-07T11:47:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Mijn trouwe Nokia GSM heeft het nu compleet begeven. Hij doet heel weinig meer, is erg onbetrouwbaar en een volle batterij doet het nu misschien nog een uur of vier.

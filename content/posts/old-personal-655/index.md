@@ -4,6 +4,7 @@ date: 2006-07-10T15:16:00
 author: alper
 categories:
   - nederlands
+  - language
 ---
 
 Fragment van een Jabber gesprek:

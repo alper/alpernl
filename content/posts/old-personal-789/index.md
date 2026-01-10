@@ -4,6 +4,7 @@ date: 2007-01-28T23:10:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Leuk weekend. Wat losse flodders geschoten:

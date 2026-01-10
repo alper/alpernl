@@ -4,6 +4,7 @@ date: 2006-10-01T11:11:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Leuk het verkiezingsspotje van GroenLinks:

@@ -4,6 +4,7 @@ date: 2006-11-24T00:50:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 [Hilarisch filmfragment](http://my.break.com/media/view.aspx?ContentID=185806).

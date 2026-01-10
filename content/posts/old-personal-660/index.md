@@ -4,6 +4,7 @@ date: 2006-07-19T15:09:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De identificatieplicht was ingevoerd tegen het terrorisme. Het heeft heel goed gewerkt, want sindsdien is er in Nederland geen terrorisme meer gesignaleerd.

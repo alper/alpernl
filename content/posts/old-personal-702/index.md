@@ -4,6 +4,7 @@ date: 2006-09-13T00:25:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik had [Twitter](http://twitter.com/alper) even een mailtje gestuurd met een vraag over de kosten van de SMS'jes die ze versturen. Dit is wat ze te melden hadden:

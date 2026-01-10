@@ -4,6 +4,7 @@ date: 2006-08-03T11:42:00
 author: alper
 categories:
   - nederlands
+  - product-design
 ---
 
 [Toon](http://eelke-photo.blogspot.com/) is een van de coolste upcoming designers van het moment. Ga dat zien.

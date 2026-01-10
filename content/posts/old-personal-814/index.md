@@ -4,6 +4,7 @@ date: 2007-03-10T04:06:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 John Edwards is [begonnen Twitter](http://twitter.com/johnedwards) te gebruiken [[via](http://radar.oreilly.com/archives/2007/03/john_edwards_is_1.html)]. Amerikanen lopen lichtjaren voor in dit soot dingen. Kijk bijvoorbeeld ook naar [de sociale site van Barak Obama](http://www.barackobama.com/).

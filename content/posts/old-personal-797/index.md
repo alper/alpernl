@@ -4,6 +4,7 @@ date: 2007-02-11T20:03:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Gisteren naar Heerlen heen en weer gereisd om een lens op te halen die ik via Marktplaats gekocht had. Een trip naar Heerlen is op zich al geen feest, als de NS tussen Eindhoven en Weert een leidingbreuk heeft wordt het een kleine ramp.

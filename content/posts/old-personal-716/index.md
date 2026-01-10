@@ -4,6 +4,8 @@ date: 2006-10-02T00:17:00
 author: alper
 categories:
   - nederlands
+  - the-city
+  - delft
 ---
 
 Ik snap het wel, maar ik snap het toch ook weer niet. Krakers hebben veel goede dingen gedaan. Ze hebben Paradiso gered van de sloop en ze kaarten maatschappelijk onrecht aan met hun acties. Dat zijn goede dingen.

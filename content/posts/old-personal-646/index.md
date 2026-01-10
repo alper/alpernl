@@ -4,6 +4,7 @@ date: 2006-06-20T01:10:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Mijn achterband is aan flarden, nieuwe buiten en binnenband nodig. Zondag natuurlijk niets te vinden, de enige banden die ik heb passen er niet op.

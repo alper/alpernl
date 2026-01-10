@@ -4,6 +4,7 @@ date: 2007-04-15T23:26:00
 author: alper
 categories:
   - nederlands
+  - poetry
 ---
 
 Een gesprek met Martijn over *arriveren* deed me denken aan een oud gedicht van [Kavafis](http://en.wikipedia.org/wiki/Kavafis) wat ik ooit heb gelezen.

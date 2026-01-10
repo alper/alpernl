@@ -4,6 +4,7 @@ date: 2006-10-10T23:56:00
 author: alper
 categories:
   - nederlands
+  - capoeira
 ---
 
 Ik zit dit weekend in Hamburg voor de [batizado van Expressão Paulista](http://www.expressaopaulista.com/news.htm#germany).

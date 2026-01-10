@@ -4,6 +4,7 @@ date: 2006-05-31T18:21:00
 author: alper
 categories:
   - nederlands
+  - copenhagen
 ---
 
 Ik heb nou vandaag de hele dag in Kopenhagen rondgelopen en ik kan er niet onderuit. Het is echt een fantastische stad.

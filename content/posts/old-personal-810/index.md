@@ -4,9 +4,10 @@ date: 2007-03-04T18:08:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
-Naar aanleiding van [mijn vorige stukje](http://www.alper.nl/blog/alper/804) over de Provinciale Statenverkiezingen, had ik een e-mail naar de Volkskrant geschreven. Het is niet mijn beste en ik had niet echt gedacht die geplaatst zou worden, maar dus toch.
+Naar aanleiding van [mijn vorige stukje](/posts/old-personal-804) over de Provinciale Statenverkiezingen, had ik een e-mail naar de Volkskrant geschreven. Het is niet mijn beste en ik had niet echt gedacht die geplaatst zou worden, maar dus toch.
 
 Ik had er vandaag overheen gelezen, dus ik moet de moeder van [Eelke](http://www.eelkedekker.nl) bedanken.
 

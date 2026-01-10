@@ -4,6 +4,9 @@ date: 2006-12-19T18:01:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - software-engineering
+  - publicity
 ---
 
 Eelke en ik hebben net de programmeerwedstrijd “Ben jij beter dan Microsoft?” gewonnen!

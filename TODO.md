@@ -117,9 +117,9 @@
     * [x] 301-400
     * [x] 401-500
     * [x] 501-600
-    * [ ] 601-700
-    * [ ] 701-800
-    * [ ] 801-830
+    * [x] 601-700
+    * [x] 701-800
+    * [x] 801-830
   * [ ] Check all internal links in the blog and fix them
   * [ ] Re-include all flickr images (and their weird links)
 * [ ] Get rid of all GIFs

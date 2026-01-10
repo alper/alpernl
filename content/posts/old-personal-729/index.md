@@ -4,6 +4,7 @@ date: 2006-10-30T11:42:00
 author: alper
 categories:
   - nederlands
+  - sports
 ---
 
 Afgelopen zaterdag was het de [Droomtijdloop](http://www.droomtijdloop.nl) in Delft. Dat is een hardloopwedstrijd om twee uur 's nachts in de nacht dat de wintertijd ingaat. Er gaat dus boekhoudkundig een uur van je tijd af.

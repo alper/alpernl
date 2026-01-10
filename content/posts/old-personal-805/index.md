@@ -4,6 +4,7 @@ date: 2007-02-20T12:35:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Voor die mensen die er nog niet van overtuigd waren dat de VVD een **foute foute** partij is. Europarlementariër Toine Manders is zulke goede vriendjes met het bedrijfsleven dat burgers en consumenten hem weinig meer kunnen schelen. Op zijn website schijft hij letterlijk dat hij [consumenten wil criminaliseren](http://www.toinemanders.nl/content/view/122/28/) [[via](http://www.webwereld.nl/ref/rss/45132)].

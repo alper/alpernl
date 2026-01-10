@@ -4,6 +4,7 @@ date: 2006-05-12T17:24:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Als twee bekende webloggers schrijven over hun perikelen met [Radio 1](http://www.radio1.nl) dan kan ik niet achterblijven. Ik heb ook het probleem dat als ik 's avonds [Met het Oog op Morgen](http://www.nos.nl/nosjournaal/oogopmorgen/achterdeschermen/organisatie/index.html) wil kijken, de ontvangst bar slecht is en flink ruist.
@@ -20,7 +21,7 @@ Hoe blij was ik, toen Francisco van Jole [berichtte over hetzelfde probleem](htt
 
 >
 
-> Misschien weet jij of Ã©Ã©n van je lezers hier wat op. En jij zendt uit op Radio1. Kun je niet iemand daar hierover aanspreken?
+> Misschien weet jij of één van je lezers hier wat op. En jij zendt uit op Radio1. Kun je niet iemand daar hierover aanspreken?
 
 Als reactie op FvJ komt Corrie (collega van FvJ) met [een vergelijkbare post](http://www.camathome.com/weblog/archives/2006/05/radio_geen.html) over Radio 1.
 

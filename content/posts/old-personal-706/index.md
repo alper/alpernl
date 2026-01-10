@@ -4,6 +4,8 @@ date: 2006-09-16T23:44:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - video
 ---
 
 Naast de podcasts over taal in [het vorige bericht](http://www.alper.nl/blog/alper/705), is er binnenkort een gebeurtenis waar een beetje training erg van pas komt.

@@ -4,6 +4,8 @@ date: 2006-09-08T00:42:00
 author: alper
 categories:
   - nederlands
+  - video
+  - internet
 ---
 
 Over vodcasten gesproken, de kans dat ik iets van televisie mee zou krijgen zou een stuk groter zijn als het allemaal werd aangeboden als vodcast.

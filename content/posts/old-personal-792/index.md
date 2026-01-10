@@ -4,6 +4,7 @@ date: 2007-02-04T19:04:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik ben net weer de “I have a dream” speech van Martin Luther King Jr. De uitspraak kent iedereen wel maar de hele toespraak is meer dan de moeite waard om in zijn geheel te bekijken. King is een meester in tekst en presentatie.

@@ -4,6 +4,7 @@ date: 2006-09-08T00:24:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Wageningen heeft de primeur met [vodcasten van colleges](http://www.webwereld.nl/ref/rss/42759).

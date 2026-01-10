@@ -4,6 +4,7 @@ date: 2006-11-22T16:39:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik zie een trend.

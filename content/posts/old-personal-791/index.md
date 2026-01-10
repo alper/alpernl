@@ -4,6 +4,7 @@ date: 2007-02-03T18:04:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik loop vandaag weer door twee zaterdagkranten heen te scheuren (het gaat steeds sneller) en er zijn in [de Volkskrant](http://www.volkskrant.nl) toch veel dingen die me storen. Het is dat ik via [CJP](http://www.cjp.nl) zo'n gunstig abonnement heb, anders zou ik weer terug gaan naar NRC.Next+Zaterdag.

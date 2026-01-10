@@ -4,6 +4,8 @@ date: 2006-07-09T14:55:00
 author: alper
 categories:
   - nederlands
+  - internet
+  - amsterdam
 ---
 
 *Ik heb dit stukje geschreven als [gastcolumn](http://www.frankwatching.com/archive/2006/07/09/reportage_the_next_web) voor [Frankwatching](http://www.frankwatching.com). Bezoekers van Frankwatching welkom! Kijk gerust wat rond.*

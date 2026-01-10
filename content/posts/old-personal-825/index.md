@@ -4,6 +4,7 @@ date: 2007-04-11T21:18:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Ik had een tijdje geleden via Marktplaats een [Yashica D](http://www.camerapedia.org/wiki/Yashica_D) gescoord. Ik had goede dingen gehoord over middenformaat dubbele lens reflex camera's (TLR) en ik wilde het wel een keer uitproberen.

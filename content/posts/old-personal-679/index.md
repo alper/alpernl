@@ -4,6 +4,7 @@ date: 2006-08-14T12:38:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 **[Politie vriendjes op Hyves.nl](http://www.radio-online.nl/pivot/entry.php?id=575)**

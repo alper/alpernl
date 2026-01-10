@@ -4,6 +4,8 @@ date: 2006-06-06T23:39:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - internet
 ---
 
 Ik zit mijn stapel spam door te werken en de Quadraad —ons faculteitsblad— is toch best een aardig blad.

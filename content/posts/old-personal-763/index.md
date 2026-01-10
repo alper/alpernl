@@ -4,6 +4,9 @@ date: 2006-12-14T17:19:00
 author: alper
 categories:
   - nederlands
+  - software-engineering
+  - delft
+  - music
 ---
 
 [Eelke](http://www.eelkedekker.nl) en ik waren aan het medeoen met de mashup wedstrijd [“Ben jij beter dan Microsoft?”](http://www.benjijbeterdanmicrosoft.nl)

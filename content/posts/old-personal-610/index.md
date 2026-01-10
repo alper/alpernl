@@ -4,6 +4,7 @@ date: 2006-05-01T14:17:00
 author: alper
 categories:
   - nederlands
+  - capoeira
 ---
 
 Hele leuke koninginnedag gehad. Het optreden van [Liberdade](http://www.liberdade.nl) op het Agathaplein was erg leuk om te doen en vooral om te zien hoeveel publiek zo'n optreden trekt.

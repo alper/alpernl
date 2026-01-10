@@ -4,6 +4,8 @@ date: 2006-08-11T01:26:00
 author: alper
 categories:
   - nederlands
+  - video
+  - music
 ---
 
 Op Bright [een lijstje zomerhits](http://www.bright.nl/the-best-of-youtube-zomerhits) te bekijken op YouTube. Ze hebben gelijk, YouTube is inderdaad het nieuwe MTV.

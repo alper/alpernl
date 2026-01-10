@@ -4,6 +4,8 @@ date: 2006-04-23T23:52:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - internet
 ---
 
 Lang [verhaal by the New York Times](http://www.nytimes.com/2006/04/23/magazine/23google.html?ei=5088&en=9721027e105631bf&ex=1303444800&partner=rssnyt&emc=rss&pagewanted=all) over de (soms problematische) entree van Google in China. Aardig wat inzichten verborgen tussen heel veel claims. De meeste Chinezes schijnen erg lakoniek te zijn over de maatregelen van *hun* overheid.

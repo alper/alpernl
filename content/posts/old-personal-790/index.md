@@ -4,6 +4,7 @@ date: 2007-01-29T13:48:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Het [bericht op Fok](http://frontpage.fok.nl/nieuws/72863) dat een meisje is neergestoken terwijl ze niet eens degene was die belletje had getrokken.

@@ -4,6 +4,7 @@ date: 2007-01-14T02:09:00
 author: alper
 categories:
   - nederlands
+  - london
 ---
 
 Onze goede vrienden Cristiano (blog: [“Weg uit Delft”](http://www.ibbydibby.com/cbetta/blog/personal_files/78d713dfad39d76a584a3dcb0b44c400-13.html#unique-entry-id-13)) en Melinda gaan een nieuw leven beginnen in Londen. Het schijnt dat het goed afstuderen is aan [Imperial](http://www.ic.ac.uk) hebben ze gehoord van [deze](http://www.doc.ic.ac.uk/~maja/) [mensen](http://www.doc.ic.ac.uk/~mvalstar/). En als Londen roept, wie blijft er dan in Delft rondhangen.

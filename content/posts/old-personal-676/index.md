@@ -4,6 +4,7 @@ date: 2006-08-13T18:26:00
 author: alper
 categories:
   - nederlands
+  - reading
 ---
 
 Leuk [stuk bij The Guardian](http://blogs.guardian.co.uk/culturevulture/archives/2006/08/01/i_bet_you_look.html) over keuze in boeken en hun aantrekkingskracht op mensen.

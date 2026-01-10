@@ -4,6 +4,7 @@ date: 2006-12-24T00:56:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Normaal gooi ik hem ongelezen weg, maar ik zit nu de [Nobiles](http://www.nobiles.nl/) te lezen —vraag me niet waarom. Daarin een interview met Alexander Ribbink van TomTom wat toch wel leuk is:

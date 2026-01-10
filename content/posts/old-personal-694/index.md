@@ -4,6 +4,7 @@ date: 2006-09-04T23:35:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De SP had vragen gesteld over de verschillende software-contracten die de gemeente Delft heeft en de mogelijkheden tot het reduceren van kosten door het gebruik van FLOSS software.

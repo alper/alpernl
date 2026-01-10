@@ -4,6 +4,7 @@ date: 2006-08-30T22:43:00
 author: alper
 categories:
   - nederlands
+  - delft
 ---
 
 Voorlopig even weinig schokkende dingen hier of off-line. Ik zit de komende weken met mijn hoofd in een zwat gat van [PHP](http://drupal.org) waaruit weinig zinnigs ontsnappen kan.

@@ -4,8 +4,10 @@ date: 2006-09-13T11:38:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
+```
 ***************************************
 Ophef over sharia-standpunt Donner
 
@@ -29,6 +31,7 @@ worden beperkt van mensen die de
 rechtsstaat bestrijden en bijvoorbeeld
 de sharia willen invoeren.
 ***************************************
+```
 
 Het verschil is dat Donner een staatsman is en dat de Tweede Kamer wordt beheerst door populisten.
 

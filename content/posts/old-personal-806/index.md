@@ -4,6 +4,7 @@ date: 2007-02-22T12:11:00
 author: alper
 categories:
   - nederlands
+  - work
 ---
 
 Een site concept wat ik heb bedacht en heb helpen uitwerken voor TOPdesk staat nu eindelijk online. Bekijk het nieuwe [TOPdesk Magazine.nl](http://www.topdeskmagazine.nl/)!

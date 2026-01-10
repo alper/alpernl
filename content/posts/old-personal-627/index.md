@@ -4,6 +4,8 @@ date: 2006-05-21T20:52:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 Vandaag [een aflevering van Buitenhof](http://www.vpro.nl/programma/buitenhof/afleveringen/27979043/) met een discussie over de toekomst van Europa.

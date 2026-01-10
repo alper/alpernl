@@ -4,6 +4,7 @@ date: 2007-03-19T21:45:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Nu net het staartje van [de Wouter Tapes op Tegenlicht](http://www.vpro.nl/programma/tegenlicht/afleveringen/33546127/).

@@ -15,13 +15,8 @@ Iedereen die me daarin heeft gesteund afgelopen jaar bedankt. *Es ist fast vollb
 Goede voornemens doe ik niet aan. Het lijkt me wel aardig om wat doelen voor 2007 op een rijtje te zetten.
 
 * Afstuderen
-
 * Vakantie vieren en meer reizen
-
 * Zelfstandig worden wat werk, wonen en andere dingen betreft
-
 * Meer denken, spreken en schrijven
-
 * Niet per se *meer* fotograferen, wel beter
-
 * [SxSW](http://2007.sxsw.com/) en [Reboot](http://reboot.dk/) bezoeken en dit jaar op temminste één event presenteren

@@ -4,6 +4,7 @@ date: 2006-09-04T21:36:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Bij de [NOS](http://www.nos.nl) haten ze Mac-gebruikers. Dat was al bekend voor [de radio](http://www.alper.nl/blog/alper/623), nu wordt ook de televisie ontoegankelijker gemaakt.

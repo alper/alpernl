@@ -4,6 +4,8 @@ date: 2007-03-13T13:56:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 Buitenhof heeft een nieuwe columnist: Joshua Livestro. Lees [zijn column](http://www.vpro.nl/programma/buitenhof/afleveringen/32553572/items/33636180/) maar op de site. Hij komt met een waardeloze stelling, wat namedropping en vage vermoedens. Hier een antwoord.

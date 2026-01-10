@@ -4,6 +4,7 @@ date: 2006-12-08T11:25:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Mijn interview met David-Michel Davies staat nu ook [online bij Frank](http://www.frankwatching.com/pivot/entry.php?id=944). Hier nog even voor mijn eigen archief. Daarna ook nog een kort stukje over Innovation Playground.

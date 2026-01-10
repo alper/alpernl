@@ -4,6 +4,7 @@ date: 2006-08-28T10:06:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik heb van het weekend op de site de uitzending van Zomergasten met Halina Reijn gekeken.

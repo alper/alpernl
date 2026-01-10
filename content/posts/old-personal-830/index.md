@@ -4,11 +4,12 @@ date: 2007-04-18T00:58:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Dit blog in zijn huidige vorm houdt op te bestaan. De huidige opstelling was niet meer te onderhouden en al bijna een jaar lang aan vervanging toe. Nu na het afstuderen, komt het eindelijk van dit soort dingen.
 
-De boel verschuift van een brakke computer hier in de woonkamer naar een shared hosting op [Dreamhost](http://dreamhost.com). Voor een preciezere beschrijving van de beweegredenen verwijs ik door naar [een bericht op het zusterblog](http://alper.nl/blog/tech/246).
+De boel verschuift van een brakke computer hier in de woonkamer naar een shared hosting op [Dreamhost](http://dreamhost.com). Voor een preciezere beschrijving van de beweegredenen verwijs ik door naar [een bericht op het zusterblog](/posts/old-tech-246).
 
 Wegens beperkingen en tegen spam enzo zal alle content daar statisch staan en zijn commentaren e.d. dus niet meer mogelijk.
 

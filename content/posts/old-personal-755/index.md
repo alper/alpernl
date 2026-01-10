@@ -4,6 +4,7 @@ date: 2006-11-27T16:01:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Het citaat [van Fok.nl](http://frontpage.fok.nl/nieuws/70854):

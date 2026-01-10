@@ -4,6 +4,7 @@ date: 2006-12-12T23:37:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Er is op zondagmiddagen gratis leuke en goede jazz in het Doelencafé in Rotterdam. Afgelopen zondag lekker chillen met de jazzvocalisten van het conservatorium en cappuccini in een stampvol café.

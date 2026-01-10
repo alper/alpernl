@@ -4,6 +4,7 @@ date: 2007-02-05T11:05:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Zaterdag de slotfilm van het [IFFR](http://www.iffr.nl) gezien: [The Prestige](http://www.imdb.com/title/tt0482571/). Het zien meer dan dubbel waard.

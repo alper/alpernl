@@ -4,6 +4,7 @@ date: 2006-11-18T19:20:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 De weegschalentest bij [Kassa](http://kassa.vara.nl/portal) raakt kant nog wal.

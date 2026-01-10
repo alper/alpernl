@@ -4,6 +4,8 @@ date: 2006-08-13T18:14:00
 author: alper
 categories:
   - nederlands
+  - london
+  - politics
 ---
 
 Schneier [analyseert de terreurdreiging](http://www.schneier.com/blog/archives/2006/08/terrorism_secur.html) in Londen en ziet daarin een grote overwinning van ouderwetse opsporingsmethoden die zich richten op de terroristen zelf.

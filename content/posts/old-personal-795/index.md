@@ -4,6 +4,7 @@ date: 2007-02-10T21:28:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Ik zie net op televisie reclame voor een product van Philips en ik word overvallen door dat zeldzame gevoel dat ik normaal gesproken bewaar voor Apple-producten: **ik wil het hebben**.

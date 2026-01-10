@@ -4,6 +4,7 @@ date: 2006-09-10T15:49:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik heb weer een mobiel. Precies dezelfde als [die ik al had](http://www.flickr.com/photos/alper/89339494/) dus nog steeds lekker vintage maar nu zonder kèk OGD-logo. Bedankt Oliver!

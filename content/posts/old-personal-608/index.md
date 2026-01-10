@@ -4,6 +4,8 @@ date: 2006-04-25T00:53:00
 author: alper
 categories:
   - nederlands
+  - poetry
+  - video
 ---
 
 Het is de week van de poëzie. Vandaar [Menno Wigman](http://boeken.vpro.nl/personen/22551619/) in Casa Luna zojuist. Drie kwartier is te kort voor zo'n geweldige dichter.

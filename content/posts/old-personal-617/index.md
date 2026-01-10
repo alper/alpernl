@@ -4,6 +4,7 @@ date: 2006-05-08T11:08:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Er zijn een paar bedrijven actief bezig met bloggen. Deze initiatieven zijn lovenswaardig en ik heb het idee dat ze echt hun best doen om een leuk verhaal naar buiten te brengen.

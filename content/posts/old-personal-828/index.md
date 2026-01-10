@@ -4,6 +4,8 @@ date: 2007-04-15T23:19:00
 author: alper
 categories:
   - nederlands
+  - food
+  - music
 ---
 
 Gisteren wezen eten bij de familie en mijn nichtje Dilara vond het raar dat ik niet wist wat een [kanun](http://en.wikipedia.org/wiki/Kanun_%28Instrument%29) is. Ik verwarde het even met de [santur](http://en.wikipedia.org/wiki/Santur) die ik kende uit [Crossing the Bridge](http://www.imdb.com/title/tt0459242/).

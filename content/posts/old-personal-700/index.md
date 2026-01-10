@@ -4,6 +4,7 @@ date: 2006-09-11T14:39:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Regelmatig komen mensen binnen op deze site en gaan dan een beetje rondklikken. Ze komen dan uit op radicaal verouderde pagina's ([voorbeeld](http://alper.nl/softwarepatenten.html)) waar troep staat waar ik het waarschijnlijk niet eens meer mee eens ben en waar ik zeker niet de energie voor heb om het bij te houden.

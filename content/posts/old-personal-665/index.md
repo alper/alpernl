@@ -4,6 +4,7 @@ date: 2006-07-30T00:39:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 **Gezocht:** Lieve mensen die [Zomergasten](http://www.vpro.nl/programma/zomergasten/) willen kijken en het dan niet erg vinden om er een eigen zomergast bij te hebben.

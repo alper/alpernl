@@ -4,6 +4,7 @@ date: 2006-10-23T10:54:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Goed [plan van Juan Enriquez](http://www.kottke.org/06/10/voting-for-the-future) om ouders met kinderen voor elk minderjarig kind een extra stem te geven.

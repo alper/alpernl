@@ -4,6 +4,7 @@ date: 2006-05-11T12:17:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Ik vind [T-mobile nog steeds een schofterig bedrijf](http://www.alper.nl/blog/alper/552) maar vandaag in Webwereld [het bericht dat mobiel internet](http://www.webwereld.nl/ref/rss/41106) zelfs onder de huidige kreupele omstandigheden populairder wordt.

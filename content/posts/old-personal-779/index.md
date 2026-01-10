@@ -4,6 +4,7 @@ date: 2007-01-14T13:59:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Een nieuw seizoen van [Wie is de mol?](http://www.wieisdemol.nl) is begonnen. Ik kijk het zoals altijd in mijn egien tempo en ik probeer spoilers te mijden.

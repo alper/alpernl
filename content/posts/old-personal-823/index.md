@@ -4,6 +4,7 @@ date: 2007-04-03T19:09:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 De NOS start met het proces tegen Willem Holleeder tegelijkertijd een [videopodcast van de verslaggevers](http://www.nos.nl/nosjournaal/dossiers/holleeder/vodcast_holleeder.html) die het proces volgen. De eerste aflevering is vandaag en ik vind hem eigenlijk wel leuk.

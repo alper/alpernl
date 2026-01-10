@@ -4,6 +4,8 @@ date: 2006-05-03T10:26:00
 author: alper
 categories:
   - nederlands
+  - video
+  - politics
 ---
 
 Al vorige week [op Boing Boing het bericht](http://www.boingboing.net/2006/04/29/stephen_colbert_kick.html) dat Colbert absoluut had lopen heersen tijdens het Correspondents' Dinner.

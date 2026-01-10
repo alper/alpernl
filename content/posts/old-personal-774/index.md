@@ -4,6 +4,8 @@ date: 2007-01-08T00:37:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - software-engineering
 ---
 
 Ik heb [het ‘Waarom?’ verhaal van mijn pagina tegen softwarepatenten uitgeschreven](http://www.alper.nl/wiki/index.php/Softwarepatenten#Waarom) en Google-baar gemaakt.

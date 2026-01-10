@@ -4,6 +4,7 @@ date: 2006-05-04T12:42:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 **¡Si se puede!**

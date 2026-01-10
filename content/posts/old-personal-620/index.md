@@ -4,6 +4,8 @@ date: 2006-05-12T00:44:00
 author: alper
 categories:
   - nederlands
+  - politics
+  - internet
 ---
 
 [“Creative Commons licentie versimpelt auteursrecht op internet”](http://www.nrc.nl/media/article308703.ece) kopt een artikel van het NRC waar ik op kom via [Livre](http://www.livre.nl/index.php?option=com_content&task=view&id=471&Itemid=180).

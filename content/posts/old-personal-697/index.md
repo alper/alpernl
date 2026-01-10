@@ -4,6 +4,7 @@ date: 2006-09-08T10:21:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Deze twee essays geven het meest nuchtere en praktische antwoord op terrorisme tot nu toe.

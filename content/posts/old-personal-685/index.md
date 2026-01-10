@@ -4,11 +4,12 @@ date: 2006-08-21T14:12:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Zo ik ben weer bij… Voordeel van time shifted luisteren is wel dat je gewoon de stukjes die voor jou interessant zijn eruit kunt pakken en sneller kunt doorzappen.
 
-**[Tonie test AllPeers](http://www.radio-online.nl/pivot/entry.php?id=676)** — Ik had de ‘launch’ van AllPeers al gezien tijdens [The Next Web](http://thenextweb.org) en had daar al [iets over geschreven](http://www.alper.nl/blog/alper/653). Ik merkte toen al op dat het een lastige propositie is om een product aan te bieden als Firefox-extensie.
+**[Tonie test AllPeers](http://www.radio-online.nl/pivot/entry.php?id=676)** — Ik had de ‘launch’ van AllPeers al gezien tijdens [The Next Web](http://thenextweb.org) en had daar al [iets over geschreven](/posts/old-personal-653). Ik merkte toen al op dat het een lastige propositie is om een product aan te bieden als Firefox-extensie.
 
 Volgens Tonie bij Radio Online is dat de grootste (en waarschijnlijk fatale) beperking omdat Firefox in Nederland erg weinig gebruikt wordt. Tien procent hier tegenover 30% in Duitsland en Finland. Ja, dit is een achterlijk land.
 

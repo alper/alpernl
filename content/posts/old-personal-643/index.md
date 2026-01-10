@@ -4,6 +4,7 @@ date: 2006-06-16T12:09:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Bruce Schneier [heeft zijn winnaar](http://www.schneier.com/blog/archives/2006/06/movieplot_threa_1.html) aangekondigd van zijn *terrorisme wedstrijd* (Wired [artikel](http://www.wired.com/news/columns/0,71152-0.html?tw=wn_index_4)). Het is een buitengewoon geïnspireerd ramp-scenario.

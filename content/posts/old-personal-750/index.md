@@ -4,6 +4,7 @@ date: 2006-11-22T11:37:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Gisteren naar allebei de debatten gekeken. Het [smurfendebat](http://www.davidrietveld.nl/pivot/entry.php?id=1110) blonk uit in nietszeggendheid. Allemaal gepiep dwars door elkaar heen met domme hele domme uitspraken.

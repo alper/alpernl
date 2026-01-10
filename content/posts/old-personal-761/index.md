@@ -4,6 +4,8 @@ date: 2006-12-12T23:29:00
 author: alper
 categories:
   - nederlands
+  - photography
+  - capoeira
 ---
 
 Vorige week nog een aardige shoot gedaan met [Capoeira Liberdade](http://www.liberdade.nl). Onder andere voor onze kerstkaart dit jaar.

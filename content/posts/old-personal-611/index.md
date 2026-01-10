@@ -4,6 +4,7 @@ date: 2006-05-02T12:32:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 De Economist heeft een *survey* —een serie artikelen— over de revolutie die het internet teweeg brengt in het nieuwe media landschap.

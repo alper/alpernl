@@ -4,6 +4,7 @@ date: 2007-01-07T00:04:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Morgen is de laatste dag van de [tentoonstelling in Foam](http://www.foam.nl/index.php?pageId=9&tentoonId=98) van de Joop Swart Masterclass.

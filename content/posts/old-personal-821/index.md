@@ -4,6 +4,8 @@ date: 2007-04-01T19:05:00
 author: alper
 categories:
   - nederlands
+  - travel
+  - photography
 ---
 
 ![Semana Santa](http://farm1.static.flickr.com/168/442207294_722a179a40.jpg)[](http://www.flickr.com/photos/alper/442207294/)

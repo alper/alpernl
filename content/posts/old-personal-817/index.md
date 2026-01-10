@@ -4,6 +4,7 @@ date: 2007-03-16T00:34:00
 author: alper
 categories:
   - nederlands
+  - photography
 ---
 
 Waar een avondje schieten al niet toe kan leiden. Een verkoudheid en wat ingenomen benzine, maar ook tot hele leuke ontmoetingen en foto's:

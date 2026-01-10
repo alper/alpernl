@@ -4,6 +4,8 @@ date: 2006-09-21T11:33:00
 author: alper
 categories:
   - nederlands
+  - video
+  - delft
 ---
 
 Mijn [Filmhuis Lumen iCal generator](http://alper.nl/wiki/index.php/Lumen_iCal) deed het niet meer. En hij was stiekem toch best wel handig.

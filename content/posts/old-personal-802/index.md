@@ -4,6 +4,8 @@ date: 2007-02-14T01:09:00
 author: alper
 categories:
   - nederlands
+  - capoeira
+  - politics
 ---
 
 Thuis van capoeira aangekomen, is er pardoes een nieuw Kabinet.

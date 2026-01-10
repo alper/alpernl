@@ -4,6 +4,7 @@ date: 2006-07-15T22:59:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Geniale quote van Poetin (vanavond op het Journaal):

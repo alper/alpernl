@@ -4,6 +4,7 @@ date: 2007-02-11T22:48:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Barak Obama al tijden bekend als de grote belofte van de democratische partij heeft zichzelf verkiesbaar gesteld als presidentskandidaat. Ga naar de site: [Obama '08](http://www.barackobama.com/) en bekijk zijn toespraak.

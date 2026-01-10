@@ -4,6 +4,7 @@ date: 2006-08-19T18:29:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De [laatste nieuwsbrief](http://www.wijvertrouwenstemcomputersniet.nl/Nieuwsbrief_Nr._3_-_19_augustus_2006) van “Wij vertrouwen stemcomputers niet” is uit en bevat genoeg interessants.

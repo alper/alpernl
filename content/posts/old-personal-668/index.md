@@ -4,6 +4,7 @@ date: 2006-08-02T00:24:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Op 8weekly [een recensie](http://www.8weekly.nl/index.php?art=4377) van de film [Tapas](http://www.imdb.com/title/tt0434382/) die ik vorig week in Lantaren/Venster heb gezien. Een bioscoop zonder airco tijdens de hittegolf; we zaten er met een stuk of zes mensen.

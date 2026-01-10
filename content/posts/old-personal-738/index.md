@@ -4,6 +4,7 @@ date: 2006-11-12T17:47:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Mensen zonder Windows kunnen nu geen online uitzendingen van de omroep meer bekijken. Mac- en Linux-gebruikers betalen wel belastingen waar die uitzendingen van betaald worden.

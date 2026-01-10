@@ -4,6 +4,8 @@ date: 2007-01-19T12:16:00
 author: alper
 categories:
   - nederlands
+  - delft
+  - politics
 ---
 
 In één van de laatste nummers van de Delta van vorig jaar [een interview met Kees Zandbergen](http://www.delta.tudelft.nl/archief/j38/n39/21589), één of andere hoge pief van de politie in Delft waarin hij laat zien zich absoluut niet te kunnen inleven in studenten.

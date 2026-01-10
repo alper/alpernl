@@ -4,6 +4,7 @@ date: 2006-10-28T16:07:00
 author: alper
 categories:
   - nederlands
+  - video
 ---
 
 Deze week in Pauw & Witteman [al gezien](http://omroep.vara.nl/tvradiointernet_detail.jsp?maintopic=424&subtopic=333710&detail=540859) dat Joost Eerdmans een zak poep is die nog geen populistisch standpunt tegen is gekomen dat hij niet leuk vond.

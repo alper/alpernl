@@ -4,6 +4,7 @@ date: 2007-02-11T13:22:00
 author: alper
 categories:
   - nederlands
+  - music
 ---
 
 Behalve [Giel](http://giel.vara.nl) dan, zijn alle DJs onuitstaanbare zelfingenomen zakken.

@@ -4,11 +4,12 @@ date: 2006-08-19T22:46:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 ![Wij vertrouwen stemcomputers niet - www.wijvertrouwenstemcomputersniet.nl](http://www.wijvertrouwenstemcomputersniet.nl/images/b/bb/Bnr-5.gif)[](http://www.wijvertrouwenstemcomputersniet.nl)
 
-Mijn [vorige post](http://www.alper.nl/blog/alper/681) over stemcomputers voegde op zich niet zoveel toe aan de discussie anders dan het afzeiken van Groenendaal en consorten.
+Mijn [vorige post](/posts/old-personal-681) over stemcomputers voegde op zich niet zoveel toe aan de discussie anders dan het afzeiken van Groenendaal en consorten.
 
 Dat ze dat verdienen staat vast, maar hoe meer ik erover nadenk hoe bizarder ik de gang van zaken vindt rond de stemcomputers.
 

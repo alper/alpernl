@@ -4,6 +4,7 @@ date: 2007-02-18T17:22:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 Ik weet wel wát af van politiek en staatsinrichting, maar ik kan me nog steeds geen enkele zinnige reden verzinnen om te gaan stemmen op de Provinciale Statenverkiezingen.

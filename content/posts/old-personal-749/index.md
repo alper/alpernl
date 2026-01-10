@@ -4,6 +4,7 @@ date: 2006-11-21T16:44:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De [rebbe](http://www.ipsedixit.nl) blijkt ook voor [GroenLinks](http://www.groenlinks.nl) te zijn. Gek, ik had hem altijd voor een kameraad aangezien. Zijn argumentatie laat niets aan duidelijkheid te wensen over:

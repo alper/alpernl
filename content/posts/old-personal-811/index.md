@@ -4,6 +4,7 @@ date: 2007-03-08T01:01:00
 author: alper
 categories:
   - nederlands
+  - politics
 ---
 
 De verkiezingen vandaag zijn redelijk langs me heen gegaan. Ik heb wel gestemd, maar ik kan me hier weinig voor interesseren.

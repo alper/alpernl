@@ -4,6 +4,7 @@ date: 2007-02-09T11:54:00
 author: alper
 categories:
   - nederlands
+  - internet
 ---
 
 Het lijkt erop alsof [DDS](http://www.dds.nl) de hele nacht al plat is. Dat betekent geen mail voor mij op @dds.nl of @alper.nl voorlopig.
