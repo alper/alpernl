@@ -80,7 +80,7 @@
   * [x] Fix display of titleless posts
   * [x] Remove time to read
   * [x] Show all categories
-  * [ ] Remove dangling categories
+  * [x] Remove dangling categories
 * [x] Remove all tags from posts
 * [x] Remove post_id?
   * https://gohugobrasil.netlify.app/content-management/front-matter/
@@ -107,10 +107,10 @@
 * [x] What happened with the image in this post? http://localhost:1313/blog/17632/
 * [x] More encoding issues: (15ź centigrade), taquerÃ­as, 30-35Ëš C., mÃ­jn
 
-* [ ] Backport old blog content into markdown
+* [x] Backport old blog content into markdown
   * [x] Check and fix content for tech
   * [x] Check and fix content for studies
-  * [ ] Check and fix content for personal
+  * [x] Check and fix content for personal
     * [x] 1-100
     * [x] 101-200
     * [x] 201-300
@@ -122,10 +122,10 @@
     * [x] 801-830
   * [ ] Check all internal links in the blog and fix them
   * [ ] Re-include all flickr images (and their weird links)
-* [ ] Get rid of all GIFs
 * [ ] Redirect RSS of old blog to new RSS location
 * [ ] Create impressum page?
 * [ ] Get rid of comments
+- [ ] Check largest files that are in the blog and prune them
 * [x] Delete CloudFlare pages project
 * [ ] Use [Netlify](https://docs.netlify.com/manage/domains/get-started-with-domains/#domain-setup-options) static files hosting?
 * [ ] Clean up config
@@ -144,11 +144,9 @@
   2. /posts/dutch-public-broadcasting-goes-fake-news/ → ongelofelijke-mensenmassa.mp4 (missing, 2 references)
   3. /posts/fragment-tegengif-87-over-ozb/ → tegengif_ozb.mov (missing)
 
-
-## Manual Deployment
-
-* hugo --cleanDestinationDir --minify
-* rsync -avzP /Users/alpercugun/Documents/projects/wordpress/site/public/ vimexx:/home/u88479p83432/domains/alper.nl/public_html
+- [ ] Make a homepage which pulls to the front the latest post with a title, see: https://blowfish.page/docs/homepage-layout/#page-layout
+- [ ] Speed up search
+- [ ] Create search destination page that can be directly linked to
 
 ## Write a post
 
