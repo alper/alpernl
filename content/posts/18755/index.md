@@ -1,11 +1,11 @@
 ---
 date: '2026-01-10T22:40:41+01:00'
-draft: true
-title: '18755'
+title: ''
 author: "alper"
 categories:
   - english
-  - nederlands
+  - berlin
+  - politics
 ---
 Ai Weiwei is right to be angry and lashes out in this barrage of scathing statements. That Zeit would not publish this is curious given the garbage that they've been wont to put out over the past year. However undirected, criticism of Germany is not appreciated by the Germans.
 

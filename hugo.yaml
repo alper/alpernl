@@ -96,12 +96,17 @@ outputFormats:
     baseName: feed
 menus:
   main:
+  - name: "About"
+    pageRef: "pages/about"
   - name: "Posts"
     pageRef: "posts"
   - name: "Categories"
     pageRef: "categories"
   # - name: "Tags"
   #   pageRef: "tags"
+  footer:
+  - name: "Impressum"
+    pageRef: "pages/impressum"
 permalinks:
   page:
     posts: /posts/:contentbasename/
