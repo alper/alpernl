@@ -15,7 +15,7 @@ categories:
   - london
   - tokyo
 ---
-
+Just a quick review of 2025 as usual heavily inspired by [the one that Hans puts out](https://blog.hansdezwart.nl/2026/01/01/the-books-i-read-the-podcasts-i-listened-to-the-films-and-other-culture-i-saw-in-2025/).
 
 ## Sports and Health
 

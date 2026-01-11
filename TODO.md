@@ -130,8 +130,8 @@
 * [ ] Use [Netlify](https://docs.netlify.com/manage/domains/get-started-with-domains/#domain-setup-options) static files hosting?
 * [ ] Clean up config
 * [ ] Create automatic deploy on Github push
-* [ ] Write a script to create a new post
-* [ ] Ask Claude to spell check all my writing on the blog
+* [x] Write a script to create a new post
+* [x] Ask Claude to spell check all my writing on the blog
 
 * [x] Archive old blog to dingen.alper.nl
 * [x] [Change URL setting of old blog in the database](https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database?utm_campaign=Generic-Tutorials-DSA-t1%7CNT:Se%7CLang:EN%7CLO:DE&utm_medium=ppc&gad_source=1&gad_campaignid=16184995375&gbraid=0AAAAADMy-hZkuW3COPeD_MOdnnSqsweXh&gclid=Cj0KCQiA6sjKBhCSARIsAJvYcpPJVfBHlD_bfkvswdtf_qCu02iEIqUdzZapPPCCuaKS--0129YUEzEaAgKNEALw_wcB)
