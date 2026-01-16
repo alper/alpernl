@@ -11,6 +11,6 @@ I'm going to make a sign here so I can tap it whenever I run across these miscon
 > [!IMPORTANT]
 > A monorepo is a way of organizing different units of code in the same repository.
 >
-> Dependency management and deployment orchestration are orthogonal to where the code is physically stored and a monorepo does not dictate how to do either of these.
+> Dependency management and deployment orchestration are fully independent of where the code is physically stored and a monorepo does not dictate how to do either of these.
 
 Conflating all of these together is sloppy communication and creates bad outcomes.
