@@ -1,4 +1,5 @@
 {{ define "main" }}
+  <div class="mt-12">
   {{ $posts := where .Site.RegularPages "Type" "posts" }}
   {{ $latestWithTitle := (where $posts ".Title" "!=" "").ByDate.Reverse }}
 
@@ -8,9 +9,11 @@
     <!-- Latest Post in Full -->
     <article class="max-w-full prose dark:prose-invert mb-12">
       <header class="mb-6">
-        <h1 class="text-4xl font-bold">{{ $latest.Title | emojify }}</h1>
+        <h1 class="text-4xl font-bold mb-0">
+            {{ $latest.Title | emojify }}
+        </h1>
         {{ with $latest.Date }}
-          <div class="text-sm text-neutral-500 dark:text-neutral-400 mt-2">
+          <div class="text-sm text-neutral-500 dark:text-neutral-400">
             <time datetime="{{ .Format "2006-01-02" }}">
               {{ .Format "January 2, 2006" }}
             </time>
@@ -32,6 +35,12 @@
           {{ end }}
         </div>
       {{ end }}
+
+      <div class="mt-6">
+        <a href="{{ $latest.Permalink }}" class="text-primary-500 hover:text-primary-600 font-medium">
+          Permalink →
+        </a>
+      </div>
     </article>
 
     <!-- Divider -->
@@ -42,4 +51,5 @@
   <section>
     {{ partial "recent-articles/main.html" . }}
   </section>
+  </div>
 {{ end }}
