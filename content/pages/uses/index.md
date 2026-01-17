@@ -30,6 +30,8 @@ categories:
 
 - Cartel Contra 40% keyboard
 - Logitech m500s mouse
+- Håg Capisco chair
+- IKEA tiny desk
 
 ## Software
 

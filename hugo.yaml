@@ -96,18 +96,21 @@ outputFormats:
     baseName: feed
 menus:
   main:
+  - name: "Now"
+    pageRef: "pages/now"
+    weight: 10
   - name: "About"
     pageRef: "pages/about"
-    weight: 10
+    weight: 20
   - name: "Uses"
     pageRef: "pages/uses"
-    weight: 20
+    weight: 30
   - name: "Posts"
     pageRef: "posts"
-    weight: 30
+    weight: 40
   - name: "Categories"
     pageRef: "categories"
-    weight: 40
+    weight: 50
   # - name: "Tags"
   #   pageRef: "tags"
   footer:
