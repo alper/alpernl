@@ -1,0 +1,45 @@
+{{ define "main" }}
+  {{ $posts := where .Site.RegularPages "Type" "posts" }}
+  {{ $latestWithTitle := (where $posts ".Title" "!=" "").ByDate.Reverse }}
+
+  {{ if $latestWithTitle }}
+    {{ $latest := index $latestWithTitle 0 }}
+
+    <!-- Latest Post in Full -->
+    <article class="max-w-full prose dark:prose-invert mb-12">
+      <header class="mb-6">
+        <h1 class="text-4xl font-bold">{{ $latest.Title | emojify }}</h1>
+        {{ with $latest.Date }}
+          <div class="text-sm text-neutral-500 dark:text-neutral-400 mt-2">
+            <time datetime="{{ .Format "2006-01-02" }}">
+              {{ .Format "January 2, 2006" }}
+            </time>
+          </div>
+        {{ end }}
+      </header>
+
+      <section class="w-full">
+        {{ $latest.Content }}
+      </section>
+
+      {{ if $latest.Params.tags }}
+        <div class="mt-6 flex flex-wrap gap-2">
+          {{ range $latest.Params.tags }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}"
+               class="px-3 py-1 text-sm bg-neutral-100 dark:bg-neutral-800 rounded-full hover:bg-primary-100 dark:hover:bg-primary-900 no-underline">
+              {{ . }}
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </article>
+
+    <!-- Divider -->
+    <hr class="my-12 border-neutral-200 dark:border-neutral-700" />
+  {{ end }}
+
+  <!-- Recent Posts Section -->
+  <section>
+    {{ partial "recent-articles/main.html" . }}
+  </section>
+{{ end }}
