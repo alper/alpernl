@@ -98,10 +98,16 @@ menus:
   main:
   - name: "About"
     pageRef: "pages/about"
+    weight: 10
+  - name: "Uses"
+    pageRef: "pages/uses"
+    weight: 20
   - name: "Posts"
     pageRef: "posts"
+    weight: 30
   - name: "Categories"
     pageRef: "categories"
+    weight: 40
   # - name: "Tags"
   #   pageRef: "tags"
   footer:
