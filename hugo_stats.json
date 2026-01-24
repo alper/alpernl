@@ -363,6 +363,7 @@
       "text-xs",
       "thumbnail",
       "thumbnail-shadow",
+      "thumbnail_card",
       "thumbnail_card_related",
       "toc",
       "toc-inside",

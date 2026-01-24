@@ -144,9 +144,12 @@
   2. /posts/dutch-public-broadcasting-goes-fake-news/ → ongelofelijke-mensenmassa.mp4 (missing, 2 references)
   3. /posts/fragment-tegengif-87-over-ozb/ → tegengif_ozb.mov (missing)
 
-- [ ] Make a homepage which pulls to the front the latest post with a title, see: https://blowfish.page/docs/homepage-layout/#page-layout
+- [x] Make a homepage which pulls to the front the latest post with a title, see: https://blowfish.page/docs/homepage-layout/#page-layout
 - [ ] Speed up search
 - [ ] Create search destination page that can be directly linked to
+- [x] Setup Google webmaster tools
+  - [x] Submit sitemap
+  - [ ] Check tools regularly: https://search.google.com/search-console/performance/search-analytics?resource_id=sc-domain%3Aalper.nl&time_granularity=DAY&num_of_days=7
 
 ## Write a post
 

@@ -5,43 +5,68 @@ categories:
   - food
   - travel
 date: "2025-11-29T11:14:02+00:00"
-draft: "true"
 series: ["Iseji"]
+weight: 50
 title: Iseji - Day 5 - Atashika to Shingu
-aliases:
-  - /dingen/
-
 ---
-Today, it's the last bit of trails and then instead of walking along the beach for 25km I'll take a train to Shingu. It's time to wrap this thing up.
+![Sunrise](sunrise.jpeg)
 
-The first bit was Hadasu-no-michi, the road to Hadasu, which was a breeze. At the top of a hill some animals came running at me which would be the first somewhat larger animals I saw on this walk but turns out that it was the start of a village and somebody had put up a chicken coop. I almost missed the exit to Hadasu and if I did I would have missed the oldest Kamakura era stones.
+The last day and the last bit of trails. Then instead of walking along the beach for 25km, I'll take a quick train ride to Shingu. It's time to wrap this thing up.
 
-Then the next bit [Obuki-toge](https://www.kodo.pref.mie.lg.jp/en/course/15.html) would be the real deal, the last 'high' pass with 300m of elevation to be done. That's not that much, but nonetheless it's a bit of an effort to drag yourself and your pack up 300m from where you currently are. It's a 1000 steps on the stairmaster.
+![Breakfast](breakfast.jpeg)
 
-The signage and the path on this trail are very scant and in general on the Kumano Kodo I don't know how you would do it without a GPS trail and/or a topographical map. In the Alps I'm used to there being very regular markings for the main paths and clear paths in any case for most of the regularly frequented trails.
+My host makes me a very lovely and rich breakfast with self-baked rolls and gives me rice and fruit to last me on the trail.
 
-In this case, even with the Craig Mod's GPS trail the ferns had overgrown to the point where it wasn't really clear where the path should be, just a general direction through plants, fallen trees and rocks. I had to do some interesting bushwhacking just to get to the top.
+![Stone Path](stone-path.jpeg)
 
-From then on there was a romp alongside one of the wild boar walls. Not sure what kind of agriculture people were doing on the top here, but it seems they were.
+The first bit is [Hadasu-no-michi](https://www.kodo.pref.mie.lg.jp/en/course/14.html), the road to Hadasu, and it's a breeze. At the top of a hill some animals come running at me which would be the first somewhat larger animals I see on this walk but turns out that it's just a hamlet and somebody has put up a chicken coop. I almost miss the exit to Hadasu where there is the oldest Kamakura era stone path.
 
-So far this went pretty easy. The tragedy of hiking is that your body becomes relatively conditioned after 5-7 days and then you just want to do more and more of it. But then usually the trip is over and normal live kicks back in.
+![Slope](down.jpeg)
 
-That means an ideal hiking trip would be something like 2 easy days, 2-3 normal days, 1 rest day and then 5-7 days of pure brutality.
+Then the next bit [Obuki-toge](https://www.kodo.pref.mie.lg.jp/en/course/15.html) will be the real deal, the last ‘high’ pass with 300m of elevation. Not that much, but still the equivalent of 1000 steps on the stairmaster with pack.
 
-We come out of it at Odomari and go from one magical place to another one. The beach here is lovely and a dip in the ocean is of course obligatory. I stripped and changed into my swimming clothes on a pretty much entirely empty beach and got my ass into the water. The first waves hitting my poor beleaguered feet were divine (and not that cold).
+The signage and the path on this trail are very scant and in general on the Kumano Kodo I don't know how you would do it without a GPS trail and/or a topographical map. In the Alps I'm used to there being regular red/white markings for the main paths.
 
-I brought my swimming trunks and a tiny quick dry towel specifically for this moment. I dry up, circle around the town and get ready for the last trailhead and the [Matsumoto-toge](https://www.kodo.pref.mie.lg.jp/en/course/17.html). This one has some 135m and not even any switchbacks, it will be up and over very quickly.
+![Path](path.jpeg)
 
-Before I know it, I'm in Kumano and trekking along a grim not even beach front straight road. I shimmy to the Mos Burger for my lunch, then to [Chikotto](https://www.instagram.com/chikotto___?igsh=MXY3b2dtZGlsN2Rtaw%3D%3D&utm_source=qr) in front of the station for a coffee. The place is lovely and it seems to have opened very recently judging from the single review on Google Maps.
+In this case, even with Craig Mod's GPS trail the ferns have overgrown to the point where it isn't really clear whether there even is a path. I just push in a general direction through high foliage covering the rocky ground and bushwhack my way to the top.
 
-I get the feeling that things new things are developing and a lot of people are pushing forward and trying new things. There are lots of empty plots of land and old buildings (and increasingly more of them) that need to be repurposed.
+![Roots](roots.jpeg)
 
-My train leaves and I get out at Shingu so I don't have to walk very much anymore but mostly to be able to secure my tickets out. I need to be on the last fast train to Nagoya of 17:31 and I don't want to risk anything. At Shingu there are enough foreigners to justify station staff just to help people with buying tickets at the machine.
+From then on it's a quick romp along one of the wild boar walls. People seem to have been doing agriculture up here but I can't tell what kind.
 
-In Shingu again I see lots of kids. More kids than you would see in a similarly sized town on the Italian Ligurian coast it feels like.
+It goes pretty easily. The tragedy of hiking is that your body becomes conditioned after 5-7 days and then you want to do more and more of it. But usually the trip is over at that point and normal life kicks back in.
+
+![Sea](sea.jpeg)
+
+That means an ideal hiking trip would be something like 2 easy days, 2-3 normal days, 1 rest day and then 5-7 brutal days.
+
+![Beach](beach.jpeg)
+
+I come down at Odomari and see my next amazing location. The beach here is lovely and a dip in the ocean is obligatory. I strip and chang into my swimming clothes on an entirely empty beach and get my ass into the water. The first waves hitting my poor beleaguered feet are divine.
+
+![Stairs](stairs.jpeg)
+
+I brought my swimming trunks and a tiny quick dry towel specifically for this moment. I dry up, circle around town and get ready for the last trailhead and the [Matsumoto-toge](https://www.kodo.pref.mie.lg.jp/en/course/17.html). This one has 135m of elevation and no switchbacks. It will be over very quickly now.
+
+![Mos Burger](mos-burger.jpg)
+
+Before I know it, I'm in Kumano and pushing along a grim—not even beachfront—straight road. I shimmy to the Mos Burger for my lunch, then to [Chikotto](https://www.instagram.com/chikotto___?igsh=MXY3b2dtZGlsN2Rtaw%3D%3D&utm_source=qr) in front of the station for a coffee. It's a lovely place and it seems to have opened very recently judging from the single review on Google Maps.
+
+I get the impression here that lots of people are trying new things. There are empty plots of land and old buildings that need to be repurposed.
+
+My train leaves and I get out at Shingu so I can already buy the train ticket to get me on the last fast train to Nagoya at 17:31. There are enough foreigners here that there is station staff helping people buy the tickets.
+
+Again I see lots of kids here. More kids than you would see in a similarly sized town out on the Italian coast.
+
+![Kumano Hayatama Taisha](taisha.jpeg)
 
 A quick trip to the shrine, standing in line to clap my hands and buying an [ema](https://en.wikipedia.org/wiki/Ema_(Shinto)) with Yatagarasu on it and I'm done. Done!
 
-I walk around town a bunch but I'm not that hungry. I find a stellar bakery where they have a Marzocco and know how to use it. The best coffee I had so far not to mention the pastry. Oh my god, the pastry. I try to find interesting souvenirs or a store where I can buy some fresh clothes, but come up empty on both counts. Everything is shuttered. What is open is very sleepy and I'm done walking. I find a cute little takoyaki place on the other side of the tracks and then I call it a day.
+![Megane bakery](megane.jpeg)
 
-Sitting in the train to Nagoya now and seeing all those stations pass by that I walked through: Owase, Kiinagashima, Misedani. It makes for a weird mood. I've been at all of them and now we roll it back in the span of a couple of hours.
+I walk around town a bunch but I'm not that hungry. I find a stellar bakery, [Megane](https://maps.app.goo.gl/SbKTtgA7QKHSRqEN6), where they have a Marzocco and know how to use it. The best coffee I had so far and a terrific pastry. So incredibly good.
+
+I try to find interesting souvenirs or a store where I can buy some fresh clothes, but come up empty on both counts. Everything is shuttered. What is open is very sleepy and I'm done with walking. I find a cute takoyaki place, [Paso](https://maps.app.goo.gl/77EZtyYNwGEF7T2x7), on the other side of the tracks and I call it a day.
+
+Sitting in the train to Nagoya now and seeing all those stations pass by that I walked through: Owase, Kiinagashima, Misedani. It makes for a weird mood. I've been at all of them over the course of days and now we roll the entire thing back in the span of a couple of hours.

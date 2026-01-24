@@ -15,7 +15,7 @@ Reading this book took me quite some time since it [arrived in my mailbox](http:
 
 > too Canadianly dumb for anything but the brutalest work.
 
-> the terrible accident that resulted in all locks being taken off E.T.A. saunas' doors and the saunas' maximum temperature being hard-wired down to no more than 50Â°C.
+> the terrible accident that resulted in all locks being taken off E.T.A. saunas' doors and the saunas' maximum temperature being hard-wired down to no more than 50°C.
 
 > It now lately sometimes seemed like a kind of black miracle to me that people could actually care deeply about a subject or pursuit, and could go on caring this way for years on end.
 
