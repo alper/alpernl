@@ -67,4 +67,6 @@ The guesthouse is run by a lovely septuagenarian retired woman who's studying En
 
 My host cooks me a delicious nabe meal which probably is the best thing I could have eaten.
 
+The stats for the day say 15.94km and some 25.5k steps ([strava1](https://www.strava.com/activities/16588324121), [strava2](https://www.strava.com/activities/16588916093)).
+
 [^1]: Turns out that there aren't.

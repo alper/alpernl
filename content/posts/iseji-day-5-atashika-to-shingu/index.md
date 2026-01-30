@@ -49,7 +49,7 @@ I come down at Odomari and see my next amazing location. The beach here is lovel
 
 I brought my swimming trunks and a tiny quick dry towel specifically for this moment. I dry up, circle around town and get ready for the last trailhead and the [Matsumoto-toge](https://www.kodo.pref.mie.lg.jp/en/course/17.html). This one has 135m of elevation and no switchbacks. It will be over very quickly now.
 
-![Mos Burger](mos-burger.jpg)
+![Mos Burger](mos-burger.jpeg)
 
 Before I know it, I'm in Kumano and pushing along a grim—not even beachfront—straight road. I shimmy to the Mos Burger for my lunch, then to [Chikotto](https://www.instagram.com/chikotto___?igsh=MXY3b2dtZGlsN2Rtaw%3D%3D&utm_source=qr) in front of the station for a coffee. It's a lovely place and it seems to have opened very recently judging from the single review on Google Maps.
 
@@ -69,4 +69,6 @@ I walk around town a bunch but I'm not that hungry. I find a stellar bakery, [Me
 
 I try to find interesting souvenirs or a store where I can buy some fresh clothes, but come up empty on both counts. Everything is shuttered. What is open is very sleepy and I'm done with walking. I find a cute takoyaki place, [Paso](https://maps.app.goo.gl/77EZtyYNwGEF7T2x7), on the other side of the tracks and I call it a day.
 
-Sitting in the train to Nagoya now and seeing all those stations pass by that I walked through: Owase, Kiinagashima, Misedani. It makes for a weird mood. I've been at all of them over the course of days and now we roll the entire thing back in the span of a couple of hours.
+The stats for the day say 14.32km and some 30k steps ([strava1](https://www.strava.com/activities/16596439572), [strava2](https://www.strava.com/activities/16596642134)).
+
+Sitting in the train to Nagoya then and seeing all those stations pass by that I walked through: Owase, Kiinagashima, Misedani. It makes for a weird mood. I've been at all of them over the course of days and now we roll the entire thing back in the span of a couple of hours.
