@@ -2,6 +2,7 @@
 author: alper
 categories:
   - english
+  - travel
 date: "2025-11-28T15:11:44+00:00"
 title: Iseji - Day 4 - Owase to Atashika
 series: ["Iseji"]

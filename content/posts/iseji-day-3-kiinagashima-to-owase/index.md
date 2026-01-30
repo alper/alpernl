@@ -14,29 +14,27 @@ Another day, another broken night because of jetlag. Getting up at all is not ea
 
 My hostess offers to refund me the money (a trifle) for dinner because of the misunderstanding. Which I of course do not accept. The food was tasty, plentiful and home cooked and she might have saved my legs. She makes me the light breakfast with fish and rice that we know and love.
 
-{{< figure src="IMG_0147-Large.jpeg" alt="" caption="" >}}
+![Gate](gate.jpeg)
 
-{{< figure src="IMG_0152-Large.jpeg" alt="" caption="" >}}
+![Tunnel entrance](tunnel.jpeg)
 
 For my first bit I walk over a light pass with a view and circle around the harbour, the coast and some of the local beaches.
 
-{{< figure src="IMG_0177-Large.jpeg" alt="" caption="" >}}
+![Bay](bay.jpeg)
 
-{{< figure src="IMG_0185-Large.jpeg" alt="" caption="" >}}
+![Showers](showers.jpeg)
 
 My barista in Berlin says he would come to Mie to surf back in the day which looks like it could be amazing. But probably not in this part of Mie.
 
 The passes themselves, [Ikkoku-toge, Hirakata-toge and Miura-toge](https://www.kodo.pref.mie.lg.jp/en/course/06.html) are short work but it is where I meet the first other people I've seen on trail so far. Two old geezers who have driven here and did their walk ( _sanpo_) up and back down. The pass itself is short work with maybe 3-4 switchbacks. I remember having to make 1000 altimeters in the Alps where we would be doing hours of consecutive turns like this.
 
-{{< figure src="IMG_0165-Large.jpeg" alt="" caption="" >}}
+![Forest](forest.jpeg)
 
-{{< figure src="IMG_0168-Large.jpeg" alt="" caption="" >}}
+![Coastal view](coast.jpeg)
 
 In [Craig Mod's account](https://walkkumano.com/iseji/#day4) it says the walking from Minose to Aiga is relatively miserable along the road, so that's a perfect excuse for me to skip it and take the 11:37 train. Catching that is essential because it lines me up nicely for Magose. Missing it would mean the rest of the day would be a loss because of the lunch sized hole in the train schedule.
 
-{{< figure src="IMG_0174-Large.jpeg" alt="" caption="" >}}
-
-{{< figure src="IMG_0177-Large-1.jpeg" alt="" caption="" >}}
+![Rail](rail.jpeg)
 
 At the Minose train station a team is re-roofing the shack. Nice to see infrastructure investment like that even in the most rural of places. Something you will never see where I'm from.
 
@@ -44,11 +42,11 @@ That does prompt a comparison. If you think that these towns are empty, I have s
 
 During the train ride I see some of my first fellow hikers. One Japanese woman in the train going alone and a Western couple at Funatsu station who don't get on. It looks like they are walking the entire thing. If ever they read this: _ganbatte_!
 
-Aiga has quite some stuff going on for it in gastronomy. I'm not very hungry so I stop quickly behind the train station at [Cafe do Selecao](https://maps.app.goo.gl/k2mJFPubxJwdLdUi7) (!) for a strengthening coffee before the climb ahead. The coffee is good but unfortunately the owner is in the throes of bear frenzy. He keeps trying to convince me that there are lots of bears around and I should be careful. I'm not a bear denialist, but there's no reason to be stressed about them in this part of Japan.
+Aiga has quite some stuff going on for it in gastronomy. I'm not very hungry so I stop quickly behind the train station at [Cafe do Selecao](https://maps.app.goo.gl/k2mJFPubxJwdLdUi7) (sic!) for a strengthening coffee before the climb ahead. The coffee is good but unfortunately the owner is in the throes of bear frenzy. He keeps trying to convince me that there are lots of bears around and I should be careful. I'm not a bear denialist, but there's no reason to be stressed about them in this part of Japan.
 
-{{< figure src="IMG_0196-Large.jpeg" alt="" caption="" >}}
+![River](river.jpeg)
 
-{{< figure src="IMG_0203-Large.jpeg" alt="" caption="" >}}
+![Path](path.jpeg)
 
 Then I walked up and the climb is strenuous to put it mildly. The stone path is an interesting innovation here and I guess it helps but I'm just glad that it wasn't raining. Even in the best conditions I need about 15 minutes to go up 100m so the 330m here take the better part of an hour.
 
@@ -56,9 +54,9 @@ Then at the top I make the "fantastic" decision to go to the summit. Most of the
 
 During the summit climb another Western couple are absolutely balling it down and to my amazement the guy has a baby in a front carrier. I admire the show of dominance here but one misstep and that baby is toast. In mountainous territory it is acceptable to carry kids in a [kraxe](https://www.alpenverein.de/artikel/kinderkraxen_c98fcd75-3e52-43e6-9cae-ac1c41512895), not an ergo baby.
 
-{{< figure src="IMG_0211-Large.jpeg" alt="" caption="" >}}
+![City](city.jpeg)
 
-{{< figure src="IMG_0210-Large.jpeg" alt="" caption="" >}}
+![Me at the summit](summit.jpeg)
 
 The summit itself is sketchy as hell (as most summits are, really) but the views are definitely spectacular.
 
@@ -70,11 +68,9 @@ The walk down is uneventful and leads me through a large and active cemetery.
 
 Then finally in Owase I try to hunt down a bite and a coffee before checking in to my accommodation. It's hard to find something. Many stores are not up to date in either Google Maps or tabélog, which I find surprising since that is supposed to be *the* local restaurant app.
 
-{{< figure src="IMG_0225-Large.jpeg" alt="" caption="" >}}
+![Happy Bow](apotheke.jpeg)
 
-{{< figure src="IMG_0226-Large.jpeg" alt="" caption="" >}}
-
-What does help me find a nice place, is just walking and looking around. I stumble on a coffee and wine place (like is all the rage) with a proper espresso machine. An "Apotheke" sign on the building betrays that this used to be the pharmacy and the inside is modern and open. I get my cappuccino and see the friendly young and creative people of Owase congregate there.
+What does help me find a nice place, is just walking and looking around. I stumble on [a coffee and wine place](https://maps.app.goo.gl/hXRiQb1qs9rEERzE9) (like is all the rage) with a proper espresso machine. An "Apotheke" sign on the building betrays that this used to be the pharmacy and the inside is modern and open. I get my cappuccino and see the friendly young and creative people of Owase congregate there.
 
 People are doing interesting things, even in Owase, and it stays true that "new ideas, need old buildings". I see a general theme of repurposing happening all over anyway. From the sento turned museum, to the plots of land now being run as solar farms.
 
@@ -82,9 +78,9 @@ I check in without seeing anybody into an empty family house in a residential ar
 
 Then for dinner I go to a place called [Inaka](https://maps.app.goo.gl/66DQ7zMBXf26izMp8) which has a well deserved reputation as a fantastic family-run [kappou](https://guide.michelin.com/en/article/dining-out/what-is-japanese-kappo-cuisine) restaurant. I have some trouble trying to figure out what to order, but their summary English menu delivers the goods. I don't feel like fighting with some wild monk-/pufferfish after a long day of hiking anyway.
 
-{{< figure src="IMG_0235-Large.jpeg" alt="" caption="" >}}
+![Set menu](set.jpeg)
 
-{{< figure src="IMG_0236-Large.jpeg" alt="" caption="" >}}
+![Porcelain collection](porcelain.jpeg)
 
 What they delivered is absolute art. Probably the best meal I've had so far. The variety, the care, the detail and the different platings are out of the world. It is also not one of the cheapest meals I've had but I'm happy to pay for something _this_ good delivered this casually.
 
@@ -92,7 +88,7 @@ Then I make a tour of the city and Owase does not look that dead to me. During t
 
 Fun as that sounds, that's an amount of being awake and drinking which my current schedule cannot support, so off to bed it is for me.
 
-The stats for the day say 19.94km and some 34k steps ([strava1](https://www.strava.com/activities/16568003972), [strava2](https://www.strava.com/activities/16569422796)).
+The stats for the day say 19.94km and some 34k steps ([strava1](https://www.strava.com/activities/16578124601), [strava2](https://www.strava.com/activities/16578971811)).
 
 For tomorrow I'm doing some more drastic replanning. I only have two days left and an awful lot of walk ahead of me. I figure that [tomorrow's mountain](https://www.kodo.pref.mie.lg.jp/en/course/10.html) will be my _Angstgegner_ as it was for many people before me. The time indications are roughly correct and 5h would eat up my entire day for not that much distance gained. As a rule of thumb, every 1km of altitude is equivalent in effort to 10km of distance.
 
