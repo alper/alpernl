@@ -32,7 +32,7 @@ The Japanese weather forecasts report on the colors of the leaves. I wonder why 
 
 ![Stairs of Leaves](stairs.jpeg)
 
-Making my way from one provincial road to another, I arrive at the first pass, [Misesaka Toge](https://www.kodo.pref.mie.lg.jp/en/course/02.html). It's hardly challenging with just a couple of steep segments and switch backs. Moving off the road and making your way over the mountain is beautiful and feels secluded even if civilization is only a couple of hundred meters away.
+Making my way from one provincial road to another, I arrive at the first pass, [Meki-toge](https://www.kodo.pref.mie.lg.jp/en/course/01.html). It's hardly challenging with just a couple of steep segments and switch backs. Moving off the road and making your way over the mountain is beautiful and feels secluded even if civilization is only a couple of hundred meters away.
 
 At the guardian deity there is a box with a trail booklet. Even though it's quite thin, it goes back years because there are so few people on this trail. The person signing in before me did so three days ago.
 
