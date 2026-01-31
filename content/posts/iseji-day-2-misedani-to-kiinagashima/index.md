@@ -86,7 +86,7 @@ I head into town to find my accommodation but not before stopping at the [Cocoka
 
 I walk to my guest house in the old town when the owner of restaurant Kappa runs into me on the street and takes me on a tour of a repurposed [sento that's now a fishery museum](https://maps.app.goo.gl/jFhGqNXGGytYGsmBA). The objects in the museum are an interesting jumble but judging from the pictures the place comes alive during the events they host.
 
-I'm staying at [Toyohisa](https://maps.app.goo.gl/QVg1PBzMZmi6JaWw6) tonight where I have an entire floor to myself. The host insists on making me dinner in a way that I can't refuse. It's shrimp again along with fried fish and sashimi cut from fresh local fish. I eat it while she sits in the kitchen eating hers and having a drink. We talk about Kyoto jazz cafes and bears and solar panels. My legs are happy they don't have to walk anywhere anymore.
+I'm staying at [Toyohisa](https://maps.app.goo.gl/QVg1PBzMZmi6JaWw6) tonight where I have an entire floor to myself. The host insists on making me dinner in a way that I feel I can't refuse. She makes shrimp along with fried fish and sashimi cut from fresh local fish. I eat it while she sits in the kitchen eating hers and having a drink. We talk about Kyoto jazz cafes and bears and solar panels. My legs are happy they don't have to walk anywhere anymore.
 
 ![Dinner](dinner.jpeg)
 
