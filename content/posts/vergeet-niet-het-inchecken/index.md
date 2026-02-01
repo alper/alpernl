@@ -32,7 +32,7 @@ Of een mobiele applicatie die via GPS ziet wanneer je vergeten bent uit te check
 
 Voorlopig lijkt het erop dat het systeem goed draaiende krijgen prioriteit heeft (terecht) en dat dat al moeilijk genoeg is (jammer) zodat we nog even moeten wachten op dit soort technologische hoogstandjes.
 
-**Update:** Lees net bij de goede [mensen van Stamen](http://content.stamen.com/hq2_week1) over het project [Fake Subway APIs](http://fakesubwayapis.appspot.com/) ( [source](http://github.com/straup/gae-fakesubwayapis)) want:
+**Update:** Lees net bij de goede [mensen van Stamen](http://content.stamen.com/hq2_week1) over het project [Fake Subway APIs](http://fakesubwayapis.appspot.com/) ([source](http://github.com/straup/gae-fakesubwayapis)) want:
 
 > you know, for when realtime proper APIs are an assumed part of digital civic infrastructure, just like electricity
 

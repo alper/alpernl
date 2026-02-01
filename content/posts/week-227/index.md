@@ -23,7 +23,7 @@ Tuesday we went for a technical house call in the Hague:
 
 Kilian [wrote up his work on Statlas](http://kilianvalkhof.com/2011/web/statlas-beta-release/). Expect more on that after the Summer lull.
 
-My presentation on [CHI Sparks 2011](http://chi-sparks.nl/) was put online ( [thanks Yohan Creemers](https://twitter.com/#!/ylab/status/92868975934976000)) and quite pleased with how that turned out:
+My presentation on [CHI Sparks 2011](http://chi-sparks.nl/) was put online ([thanks Yohan Creemers](https://twitter.com/#!/ylab/status/92868975934976000)) and quite pleased with how that turned out:
 
 [Chi Sparks 2011: Code 4 - A large scale game for organizational change](http://vimeo.com/26477007) from [Chi Nederland](http://vimeo.com/chinederland) on [Vimeo](http://vimeo.com).
 

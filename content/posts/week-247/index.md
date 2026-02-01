@@ -18,7 +18,7 @@ aliases:
 Another week and another change at the office. One thing that does define the [Open Coop](http://www.opencooperatie.nl/) is that everything is in a constant state of flux adding jitter so none of us remain stuck in a local optimum. The global optimum we are shooting for in and around our location in North is rather ridiculous but best not shared in public.
 [![Yet another new desk](6460706915_a8b6b72e48.jpg)](http://www.flickr.com/photos/alper/6460706915/ "Yet another new desk by illustir, on Flickr")
 
-I flew into Amsterdam on Monday morning (takeoff Schönefeld at 07:20) to a rather broken working day. My locative transgressions leaving at least Peter Robinett confused enough to do something about it. He built me a personal glanceable: [Where's Alper?](http://labs.bubblefoundry.com/wheresalper/) ( [write up](http://www.bubblefoundry.com/blog/2011/12/because-i-needed-it/)). That is the best reason to build software: because you need it.
+I flew into Amsterdam on Monday morning (takeoff Schönefeld at 07:20) to a rather broken working day. My locative transgressions leaving at least Peter Robinett confused enough to do something about it. He built me a personal glanceable: [Where's Alper?](http://labs.bubblefoundry.com/wheresalper/) ([write up](http://www.bubblefoundry.com/blog/2011/12/because-i-needed-it/)). That is the best reason to build software: because you need it.
 
 Attended to it by my speaking agent Tessa, I submitted a talk brief to NEXT12 about [Love in Time of Gamification](http://nextberlin.eu/topic/love-in-times-of-gamification-dont-play-games-with-my-heart/). And I registered at [Hybrid Plattform](http://hybrid-plattform.org/) in Berlin, looking to see what kind of collaborations come from that.
 

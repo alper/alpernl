@@ -12,7 +12,7 @@ aliases:
 ---
 Last weekend I finished the Prince of Networks (which is in fact [available for free online](http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf) and I recommend you read it, though [Alien Phenomenology](http://www.bogost.com/blog/alien_phenomenology_or_what_it.shtml) may be a more concise and lighter introduction into speculative realism) by [Graham Harman](http://doctorzamalek2.wordpress.com/).
 
-I must say I'm quite impressed by the clarity and breadth of thought that Harman and many of the philosophers in that current express. This interview ( [my excerpts from it](/dingen/2012/06/an-interview-with-graham-harman/)) with him contained some insights and phrases that I had not seen expressed before.
+I must say I'm quite impressed by the clarity and breadth of thought that Harman and many of the philosophers in that current express. This interview ([my excerpts from it](/dingen/2012/06/an-interview-with-graham-harman/)) with him contained some insights and phrases that I had not seen expressed before.
 
 More generally speaking whether it is Harman or Bogost or DeLanda or any of the others, it is particularly nice to be reading the current philosophers of our age who right now are relevant, alive and online. This last bout of reading has finally made me reach the long overdue realization that philosophy need not be a dead pursuit nor that writings on philosophy need to be obtuse.
 

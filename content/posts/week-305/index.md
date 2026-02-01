@@ -9,7 +9,7 @@ aliases:
   - /dingen/2013/01/week-305/
 
 ---
-With most of my work focusing at Hubbub these days, the weeknotes over there ( [the past week](http://whatsthehubbub.nl/blog/2013/01/week-178/)) are going to form the meat of my work in the foreseeable future [^1]. I may need to use these weeknotes as an excuse for long form writing again and blog more here in general on loose ideas.
+With most of my work focusing at Hubbub these days, the weeknotes over there ([the past week](http://whatsthehubbub.nl/blog/2013/01/week-178/)) are going to form the meat of my work in the foreseeable future [^1]. I may need to use these weeknotes as an excuse for long form writing again and blog more here in general on loose ideas.
 
 I published my [piece about the Protocoletariat](/dingen/2013/01/29c3-long-live-the-protocoletariat/). I hope to be able to do more stuff in that field and tie in my professional endeavours in games, open government and computer science.
 

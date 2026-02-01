@@ -20,7 +20,7 @@ A large part of the rest of the week I spent in various states of bureaucracy tr
 
 [![Drizzly Berlin](8053635399_1a59fd9149.jpg)](http://www.flickr.com/photos/alper/8053635399/ "Drizzly Berlin by illustir, on Flickr")
 
-During the off hours of this week I started a small project to check the Dutch laws into github over at [Staten Generaal](https://github.com/statengeneraal/) ( [write-up](http://www.hackdeoverheid.nl/alle-nederlandse-wetten-in-github/)).
+During the off hours of this week I started a small project to check the Dutch laws into github over at [Staten Generaal](https://github.com/statengeneraal/) ([write-up](http://www.hackdeoverheid.nl/alle-nederlandse-wetten-in-github/)).
 
 Some nice responses to that:
 https://twitter.com/steeph/status/254579913183596544

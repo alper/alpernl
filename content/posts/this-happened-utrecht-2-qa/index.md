@@ -70,7 +70,7 @@ Kars Alfrink: Het is een research object wat toch op zichzelf staat. Vaak heb je
 Meer werk en tijd in het level design gestopt en de end state is niet zo goed. Hadden dat dan meer kunnen testen en meer aandacht aan besteden om dat meer compelling te maken.
 
 **Tjeerd IJtsma: Jullie hadden een research question en het spel is onderdeel van een research project. Was is heht antwoord op de vraag. Heb je hem proberen te beantwoorden?**
-Felix Boatsch heeft de vraag beantwoord in zijn thesis ( [“Paidia and Ludus”](http://softbody.hku.nl/Paidia%20and%20Ludus.pdf)) die te downloaden is.
+Felix Boatsch heeft de vraag beantwoord in zijn thesis ([“Paidia and Ludus”](http://softbody.hku.nl/Paidia%20and%20Ludus.pdf)) die te downloaden is.
 
 ### Irene van Peer - Mahlangu Hand-washer
 

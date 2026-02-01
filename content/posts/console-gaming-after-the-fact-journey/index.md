@@ -14,6 +14,6 @@ This is just a lovely experience. A small, beautiful, near perfect game with gra
 >
 > A photo posted by Alper Cugun (@alper) on Dec 12, 2014 at 11:29am PST
 
-Some of the transitions are among the most beautiful things I've seen in gaming. The sunset sand surf through the mountain in shimmering gold ( [video on YouTube](http://youtu.be/bkL94nKSd2M?t=30m58s)) stands out but most of it is excellent.
+Some of the transitions are among the most beautiful things I've seen in gaming. The sunset sand surf through the mountain in shimmering gold ([video on YouTube](http://youtu.be/bkL94nKSd2M?t=30m58s)) stands out but most of it is excellent.
 
 What comes to mind with regards to aesthetics and also breaking out of the ‘gamer’ confines is this year's hit [Monument Valley](http://www.monumentvalleygame.com/) but we could use a lot more.

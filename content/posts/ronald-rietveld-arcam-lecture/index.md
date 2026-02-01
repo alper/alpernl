@@ -10,7 +10,7 @@ aliases:
   - /dingen/2010/09/ronald-rietveld-arcam-lecture/
 
 ---
-[Alexander](http://twitter.com/dmos) and I attended the [ARCAM](http://www.arcam.nl) lecture tonight where landscape architect Ronald Rietveld ( [Rietveld Landscape](http://www.rietveldlandscape.nl/)) sketched a future for Amsterdam that isn't dormant and touristic, but somewhat ambitious even.
+[Alexander](http://twitter.com/dmos) and I attended the [ARCAM](http://www.arcam.nl) lecture tonight where landscape architect Ronald Rietveld ([Rietveld Landscape](http://www.rietveldlandscape.nl/)) sketched a future for Amsterdam that isn't dormant and touristic, but somewhat ambitious even.
 
 [![](4967968697_d077c4acc3.jpg)](http://www.flickr.com/photos/alper/4967968697/ "Untitled by illustir, on Flickr")
 
@@ -76,7 +76,7 @@ These are the rough notes from the presentation [^1]:
 >
 > _Social affordances, the affordances an environment offers for social interaction._ (Thesis by his brother.)
 >
-> Moor a bunch of barges ( [duwbakken](http://nl.wikipedia.org/wiki/Duwbak)) there with a every barge hosting a different taste/vibe/culture module of the park. Every container is connected with each other. Temporary park.
+> Moor a bunch of barges ([duwbakken](http://nl.wikipedia.org/wiki/Duwbak)) there with a every barge hosting a different taste/vibe/culture module of the park. Every container is connected with each other. Temporary park.
 >
 > Another inspiration is: trip through emptiness
 >

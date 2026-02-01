@@ -18,9 +18,9 @@ var _useChallenge = false;
 
 function validate_form(form) {
 
-if ( form.user_id.value == "" || form.password.value == "" ) {
+if (form.user_id.value == "" || form.password.value == "" ) {
 
-alert( "Please enter a username and password." );
+alert("Please enter a username and password." );
 
 return false;
 
@@ -28,9 +28,9 @@ return false;
 
 //short-cut if challenge/response is disabled.
 
-if ( !_useChallenge ) {
+if (!_useChallenge ) {
 
-form.encoded_pw.value = base64encode( form.password.value );
+form.encoded_pw.value = base64encode(form.password.value );
 
 form.password.value =  "";
 

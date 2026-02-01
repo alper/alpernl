@@ -13,7 +13,7 @@ aliases:
 ---
 Ik vernam al dat de NS op de afgelopen Mobile Monday probeerde hun nieuwe reisplanner te pitchen. Dat was afgaand op [de reacties via Twitter](http://search.twitter.com/search?q=momo+ns) geen doorslaand succes.
 
-Zojuist op de [gvenkdaily](http://gvenkdaily.nl/) ( [1](http://twitter.com/gvenkdaily/status/1430051480), [2](http://twitter.com/gvenkdaily/status/1430057131), [3](http://twitter.com/gvenkdaily/status/1430062685), [4](http://twitter.com/gvenkdaily/status/1430067592)) wat referenties naar verslaggeving over dit onderwerp en fragmentarisch de argumenten waarom de NS weigert hun gegevens open te gooien.
+Zojuist op de [gvenkdaily](http://gvenkdaily.nl/) ([1](http://twitter.com/gvenkdaily/status/1430051480), [2](http://twitter.com/gvenkdaily/status/1430057131), [3](http://twitter.com/gvenkdaily/status/1430062685), [4](http://twitter.com/gvenkdaily/status/1430067592)) wat referenties naar verslaggeving over dit onderwerp en fragmentarisch de argumenten waarom de NS weigert hun gegevens open te gooien.
 
 Ik [schreef hier eerder al over](/dingen/2009/03/op-radio-online-tegen-de-ns/) en mensen vragen steeds aan mí­j waarom de NS de gegevens niet zou willen vrijgeven. Niemand snapt het en de meeste mensen vinden het onvoorstelbaar dat de NS puur uit eigenbelang de gegevens voor zich zou willen houden.
 

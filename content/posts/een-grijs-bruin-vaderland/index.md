@@ -13,7 +13,7 @@ aliases:
 ---
 Ik schreef een tijdje geleden al bij [mijn foto](http://www.flickr.com/photos/alper/4476314878/) over de [Linkse Hobby](http://www.linksehobby.nu/):
 
-> Zonder linkse hobby's krijgen we een grijs-bruin land van spruitjeslucht en vlagparades. ( [Flickr](http://www.flickr.com/photos/alper/4476314878/))
+> Zonder linkse hobby's krijgen we een grijs-bruin land van spruitjeslucht en vlagparades. ([Flickr](http://www.flickr.com/photos/alper/4476314878/))
 
 En dat is bewaarheid.
 

@@ -10,7 +10,7 @@ aliases:
   - /dingen/2013/08/week-329/
 
 ---
-Most of the time this week was spent doing heads down work ( [notes on which elsewhere](http://whatsthehubbub.nl/blog/category/weeknotes/)). Meeting with [Igor](https://twitter.com/zeigor) and [Tijmen](https://twitter.com/TijmenR) and hanging out in parks. Summer.
+Most of the time this week was spent doing heads down work ([notes on which elsewhere](http://whatsthehubbub.nl/blog/category/weeknotes/)). Meeting with [Igor](https://twitter.com/zeigor) and [Tijmen](https://twitter.com/TijmenR) and hanging out in parks. Summer.
 
 [![Dessert](9184055367_27bd905bd3_z.jpg)](http://www.flickr.com/photos/alper/9184055367/ "Dessert by illustir, on Flickr")
 

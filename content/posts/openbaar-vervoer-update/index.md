@@ -26,7 +26,7 @@ Dan krijgen we in plaats van het huidige probleem een nieuw probleem dat degenen
 
 ### 9292 Wedstrijd
 
-Ik had na het hele gedoe rondom de Reisplanner Xtra van de NS al gehoord dat 9292 een wedstrijd aan het uitschrijven was ( [Emerce](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss)). De vergoeding [voor de winnaar van de wedstrijd](http://www.9292ov.nl/9292OV1496.asp) is op zijn best kinderachtig te noemen en deelnemers doen afstand van hun rechten op de applicatie [^2].
+Ik had na het hele gedoe rondom de Reisplanner Xtra van de NS al gehoord dat 9292 een wedstrijd aan het uitschrijven was ([Emerce](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss)). De vergoeding [voor de winnaar van de wedstrijd](http://www.9292ov.nl/9292OV1496.asp) is op zijn best kinderachtig te noemen en deelnemers doen afstand van hun rechten op de applicatie [^2].
 
 Deze ogenschijnlijk [nadelige voorwaarden](http://www.9292ov.nl/9292ov1497.asp) hebben 22 teams niet belet zich aan te melden, dus het is de vraag wat hieruit voort zal komen. 9292 steekt het in (zie ook het [commentaar van de marketing manager](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss#2947354)) als een soort gebruikersonderzoek wat als invoer gebruikt zal worden om te komen tot een uiteindelijke applicatie.
 

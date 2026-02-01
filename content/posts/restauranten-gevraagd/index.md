@@ -56,7 +56,7 @@ Het ‘gezonde’ fast food van de [In 'n Out Burger](http://en.wikipedia.org/wi
 
  [![Eggs, Chips and Beans](3891007286_187673dab0.jpg)](http://www.flickr.com/photos/alper/3891007286/ "Eggs, Chips and Beans by illustir, on Flickr")
 
-Pas in [Shepherdess Cafe](http://russelldavies.typepad.com/eggbaconchipsandbeans/2004/02/the_shepherdess.html) in Hackney het klassieke Engelse eten geprobeerd en dat was een succes! Alleen zó jammer dat we dat hier niet hebben; niet een goede plek om Engels eten te eten, niet een serie greasy spoons en eigenlijk helemaal geen plaatsen waar je voor Â£7 ( = €7) kunt zitten en lekker veel kunt eten.
+Pas in [Shepherdess Cafe](http://russelldavies.typepad.com/eggbaconchipsandbeans/2004/02/the_shepherdess.html) in Hackney het klassieke Engelse eten geprobeerd en dat was een succes! Alleen zó jammer dat we dat hier niet hebben; niet een goede plek om Engels eten te eten, niet een serie greasy spoons en eigenlijk helemaal geen plaatsen waar je voor Â£7 (= €7) kunt zitten en lekker veel kunt eten.
 
 Ik denk dat deze concepten mits goed uitgevoerd grote successen kunnen worden en in de meeste gevallen niche-vullers zullen zijn (zoals de Burgermeester nu is). Dus een slimme restaurateur kan hier zijn slag slaan en mijn buik vullen. Of moet ik toch naar San Francisco verhuizen?
 

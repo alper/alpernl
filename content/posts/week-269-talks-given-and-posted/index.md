@@ -12,7 +12,7 @@ aliases:
 ---
 The Hybrid Talk I gave the week before is up on Soundcloud. You can listen to it here and see if you agree with our ideas about how a client driven organization can operate without being rubbish.
 
-The rest of the week was spent preparing the presentation for [NEXT Berlin](http://nextberlin.eu/) about [Love in Times of Gamification](http://nextberlin.eu/topic/love-in-times-of-gamification-dont-play-games-with-my-heart/). It went well ( [1](https://twitter.com/#!/harmheibuelt/status/200208585739870208), [2](https://twitter.com/#!/iskandr/status/200204508196909057), [3](https://twitter.com/#!/lucas_mohr/status/200208647316451328), [4](https://twitter.com/#!/cervus/status/200208948521992192)) and should be online shortly. It was an honour to be invited and to share the stage with James Bridle, David Bausola and the many others present at the event.
+The rest of the week was spent preparing the presentation for [NEXT Berlin](http://nextberlin.eu/) about [Love in Times of Gamification](http://nextberlin.eu/topic/love-in-times-of-gamification-dont-play-games-with-my-heart/). It went well ([1](https://twitter.com/#!/harmheibuelt/status/200208585739870208), [2](https://twitter.com/#!/iskandr/status/200204508196909057), [3](https://twitter.com/#!/lucas_mohr/status/200208647316451328), [4](https://twitter.com/#!/cervus/status/200208948521992192)) and should be online shortly. It was an honour to be invited and to share the stage with James Bridle, David Bausola and the many others present at the event.
 
 After that it was time to unwind and meet a lot of nice people and go for a nice dinner.
 

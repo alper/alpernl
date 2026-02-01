@@ -10,6 +10,6 @@ aliases:
   - /dingen/2019/03/15294/
 
 ---
-Nice to see a talk by my colleague Alicia and grand-boss Dror featured in the local IT news.  
+Nice to see a talk by my colleague Alicia and grand-boss Dror featured in the local IT news.
 
-[https://www.golem.de/news/hacking-schutz-wie-findet-man-den-besten-threat-intelligence-provider-1903-140301.html]( https://www.golem.de/news/hacking-schutz-wie-findet-man-den-besten-threat-intelligence-provider-1903-140301.html)
+[https://www.golem.de/news/hacking-schutz-wie-findet-man-den-besten-threat-intelligence-provider-1903-140301.html](https://www.golem.de/news/hacking-schutz-wie-findet-man-den-besten-threat-intelligence-provider-1903-140301.html)

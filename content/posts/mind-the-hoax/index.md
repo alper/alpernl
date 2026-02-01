@@ -13,6 +13,6 @@ Sterk staaltje culture jamming in de fietstunnel van het station van Delft. Het 
 
 Misschien komt er op dit blog binnenkort nog een stukje over godsdienstwaanzin dat de kop op steekt [^1] en over de trend dat ruwweg de helft van de mensen steeds dommer wordt en steeds minder in staat om het hoofd te bieden aan de moderne complexe wereld waardoor ze hun toevlucht zoeken in dit soort bijgeloof en reactionaire politieke stromingen.
 
-( [meer op Flickr](http://www.flickr.com/photos/alper/tags/culturejam/))
+([meer op Flickr](http://www.flickr.com/photos/alper/tags/culturejam/))
 
 [^1]: Ik zag vorige nog wat andere affiches over "Kruistochten" van het een en ander.

@@ -10,7 +10,7 @@ aliases:
   - /dingen/2013/01/29c3-long-live-the-protocoletariat/
 
 ---
-I followed [the last CCC](https://events.ccc.de/congress/2012/wiki/Main_Page) from a distance reading the Twitter fallout and keeping track of the live streams while getting work done in an empty Berlin. Besides the various controversies playing out, there were some good talks. What I found to be the best of the event was [“Long live the protocoletariat”](http://events.ccc.de/congress/2012/Fahrplan/events/5305.en.html) by [Eleanor Saitta](http://dymaxion.org/) ( [@dymaxion](https://twitter.com/dymaxion)) and [Smári McCarthy](http://www.smarimccarthy.com/) ( [@smarimc](https://twitter.com/smarimc)) about a topic that is very near to the things I am thinking about: institutions and networks and all of the opportunities and problems associated with them. The presentation in the first thirty minutes of this video is well worth watching. Pull quotes below are paraphrases.
+I followed [the last CCC](https://events.ccc.de/congress/2012/wiki/Main_Page) from a distance reading the Twitter fallout and keeping track of the live streams while getting work done in an empty Berlin. Besides the various controversies playing out, there were some good talks. What I found to be the best of the event was [“Long live the protocoletariat”](http://events.ccc.de/congress/2012/Fahrplan/events/5305.en.html) by [Eleanor Saitta](http://dymaxion.org/) ([@dymaxion](https://twitter.com/dymaxion)) and [Smári McCarthy](http://www.smarimccarthy.com/) ([@smarimc](https://twitter.com/smarimc)) about a topic that is very near to the things I am thinking about: institutions and networks and all of the opportunities and problems associated with them. The presentation in the first thirty minutes of this video is well worth watching. Pull quotes below are paraphrases.
 
 {{< youtube 4HHhGKgYUGY >}}
 
@@ -44,7 +44,7 @@ They then identify the open problems that still need work:
 1. Better tools for network-instution interactions
 1. A concept of network jurisprudence and mercy
 
-The complexity theoretical treatment of social institutions is something that rather tickles my fancy. On university we never got to solve anything but the most theoretical of problems during those courses. I recently found some complexity theoretical treatments of games ( [“Classic Nintendo Games are (NP-)Hard”](http://arxiv.org/abs/1203.1895)) and I look forward to even broader applications.
+The complexity theoretical treatment of social institutions is something that rather tickles my fancy. On university we never got to solve anything but the most theoretical of problems during those courses. I recently found some complexity theoretical treatments of games ([“Classic Nintendo Games are (NP-)Hard”](http://arxiv.org/abs/1203.1895)) and I look forward to even broader applications.
 
 To stay in the vein of games, the problems stated in 1. and 2. are things that have a lot in common with what we do when we build games. The design of games consists of many similar information theoretical problems. Games may also be good staging grounds if you want to replace the nation state. The first thing that comes to mind to model these interactions is Joris Dormans's [Machinations](http://www.jorisdormans.nl/machinations/), a finite state machine modeling tool.
 

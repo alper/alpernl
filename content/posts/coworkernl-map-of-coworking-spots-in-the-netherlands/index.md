@@ -46,7 +46,7 @@ The data is available as [a KML file](http://maps.google.nl/maps/ms?ie=UTF8&hl=n
 
 ### Build your own local
 
-Because this is so simple to setup local versions have already been made ( [Coworking São Paulo](http://zappa.cc/cowork/) by [Michel Zappa](http://zappa.cc/)) by others but the vision is to eventually cover the entire world both with maps and locations one country at a time, so to get this started here's a small recipe how to set this up:
+Because this is so simple to setup local versions have already been made ([Coworking São Paulo](http://zappa.cc/cowork/) by [Michel Zappa](http://zappa.cc/)) by others but the vision is to eventually cover the entire world both with maps and locations one country at a time, so to get this started here's a small recipe how to set this up:
 
 1. Create a custom [Google Map](http://maps.google.com)
 1. Call out to your local scene on [Twitter](http://twitter.com/), [Jaiku](http://jaiku.com) and whatnot to ask if they're interested and if they have spaces they know.

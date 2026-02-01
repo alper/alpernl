@@ -17,7 +17,7 @@ aliases:
 >
 > Berlin as a metropole has altogether a very high level of doctors in the outpatient care. That includes also the number of paediatricians. In this respect, we have no shortage of paediatricians in general. Nevertheless, as in many other regions we have partially problems with a good distribution of these doctors.
 >
-> For Information about concrete measures to improve the supply situation, please contact the KV Berlin. If you have problems to find a paediatrician, you can try the online search engine of the KV Berlin. There you will find nearly 400 paediatricians in Berlin ( [https://www.kvberlin.de/61arztsuche\_en/index.html](https://www.kvberlin.de/61arztsuche_en/index.html)). You also can call or contact the "Terminservicestelle" of the KV Berlin. That is a special service center of the KV, that arranges appointments with doctors for you, if you canÂ´t find a doctor on your own.
+> For Information about concrete measures to improve the supply situation, please contact the KV Berlin. If you have problems to find a paediatrician, you can try the online search engine of the KV Berlin. There you will find nearly 400 paediatricians in Berlin ([https://www.kvberlin.de/61arztsuche\_en/index.html](https://www.kvberlin.de/61arztsuche_en/index.html)). You also can call or contact the "Terminservicestelle" of the KV Berlin. That is a special service center of the KV, that arranges appointments with doctors for you, if you canÂ´t find a doctor on your own.
 >
 > I hope this information will be helpful for you.
 >

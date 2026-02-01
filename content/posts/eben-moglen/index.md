@@ -50,7 +50,7 @@ From an experience point of view this is going [to be a hell of a nut to crack](
 
 There may be a large opportunity for such a device in the developing world and free culture innovation out of China or Brazil could help improve such a thing massively, but I wouldn't hold my breath.
 
-The broader problem is that both designers are not very keen to work on open source projects ( [though that is changing](http://www.drumbeat.org/)) and that open source projects are not very keen on design input. Yes, anybody can fork a project and build something ‘better’, but the division of effort is not useful while the division of labour within a project: programmer program, designer design, would be more welcome.
+The broader problem is that both designers are not very keen to work on open source projects ([though that is changing](http://www.drumbeat.org/)) and that open source projects are not very keen on design input. Yes, anybody can fork a project and build something ‘better’, but the division of effort is not useful while the division of labour within a project: programmer program, designer design, would be more welcome.
 
 My discussion with Mr. Moglen served as a reminder how immense this cultural divide is and frankly I don't think it is bridgeable in any traditional way [^4]. It gets mired in assumptions on technology use, problems that need solving and a misunderstanding of what people (users) actually want and value in software.
 
@@ -72,7 +72,7 @@ I think this is going to have large scale repercussions [^7] and it would be goo
 
 **Update:** This discussion is exactly one touched upon by Zittrain in his “The Future of the Internet and How to Stop It”:
 
-> But people do not buy PCs as insurance policies against appliances that limit their freedoms, even though PCs serve exactly this vital function. People buy them to perform certain tasks at the moment of acquisition. ( [Chapter 3](http://yupnet.org/zittrain/archives/11#79))
+> But people do not buy PCs as insurance policies against appliances that limit their freedoms, even though PCs serve exactly this vital function. People buy them to perform certain tasks at the moment of acquisition. ([Chapter 3](http://yupnet.org/zittrain/archives/11#79))
 
 [^1]: Otherwise you can read the Wikipedia page and 20+ years of Free Software literature.
 [^2]: These are the people that still can't figure out how to [connect a laptop to a beamer](http://twitter.com/#!/anildash/status/26592416315) or build a workable FTP-client.

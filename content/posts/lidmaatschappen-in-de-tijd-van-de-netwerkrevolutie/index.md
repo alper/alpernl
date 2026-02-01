@@ -16,7 +16,7 @@ Meestal word ik om de een of andere reden lid van dit soort organisaties en verg
 
 D66 is niet de enige waar dit gebeurt. Ik heb hetzelfde met bijvoorbeeld [SigCHI](http://sigchi.nl/) en met Entrée. [Cineville](http://www.cineville.nl) is eigenlijk het enige lidmaatschap dat ik heb dat nog steeds relevant is.
 
-In ieder geval, was ik me bij D66 aan het beraden of ik wel verder wilde en wat ik of zij dan zouden moeten doen om het de moeite waard te maken, toen zij in de tussentijd stilzwijgend mijn lidmaatschap verlengden. Die post negeerde ik uiteraard ook terwijl ik een keuze probeerde te maken ( _paradox of choice_) toen ik een brief kreeg met iets van ‘incasso’ erin.
+In ieder geval, was ik me bij D66 aan het beraden of ik wel verder wilde en wat ik of zij dan zouden moeten doen om het de moeite waard te maken, toen zij in de tussentijd stilzwijgend mijn lidmaatschap verlengden. Die post negeerde ik uiteraard ook terwijl ik een keuze probeerde te maken (_paradox of choice_) toen ik een brief kreeg met iets van ‘incasso’ erin.
 
 Toen betaalde ik mijn contributie wél en stuurde een e-mailtje dat ik niet wilde dat mijn lidmaatschap stilzwijgend verlengd werd. Tip: altijd als je ergens een lidmaatschap afsluit, het meteen ook weer opzeggen. Het later opnieuw afsluiten is vaak makkelijker dan het later opzeggen en vaak krijg je als nieuw lid dan ook weer een bonus.
 

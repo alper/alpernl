@@ -9,7 +9,7 @@ aliases:
   - /dingen/2014/05/berlin-real-estate-development-victoriapark-edition/
 
 ---
-Last Sunday the Senate's plan to build on Tempelhof was voted off thankfully. Not just to preserve the field which is a one-of-a-kind but to signal to the city that their way of managing construction and housing is not the right way ( [a full treatment in German](http://www.spreeblick.com/2014/05/26/als-ginge-es-nur-um-das-tempelhofer-feld/)).
+Last Sunday the Senate's plan to build on Tempelhof was voted off thankfully. Not just to preserve the field which is a one-of-a-kind but to signal to the city that their way of managing construction and housing is not the right way ([a full treatment in German](http://www.spreeblick.com/2014/05/26/als-ginge-es-nur-um-das-tempelhofer-feld/)).
 
 Then yesterday I went for a run in the nearby [Viktoriapark](https://goo.gl/maps/g0Evt). Out of necessity because I was trying out a running track which turned out to be closed to the public.
 

@@ -13,4 +13,4 @@ aliases:
 ---
 [![Dance](3600861927_997d6b5ba8.jpg)](http://www.flickr.com/photos/alper/3600861927/ "Dance by illustir, on Flickr")
 
-Took a stroll around the house and happened upon some contemporary dance ( [more](http://www.flickr.com/photos/alper/tags/mooiweerspelen/)).
+Took a stroll around the house and happened upon some contemporary dance ([more](http://www.flickr.com/photos/alper/tags/mooiweerspelen/)).

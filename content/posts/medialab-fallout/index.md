@@ -14,6 +14,6 @@ The outrage though seems to stem from a fundamental misunderstanding of what the
 
 Ito's role there is mostly to be a frontman and channel those money streams in a way that benefits the institution and himself while offering plausible deniability to those who work under him. By all accounts that seems exactly what he has been doing.
 
-The man knows his job. It would be good if others did as well ( [some already do](https://www.theverge.com/2019/8/27/20835696/mit-media-lab-joi-ito-apology-petition-jeffrey-epstein)).
+The man knows his job. It would be good if others did as well ([some already do](https://www.theverge.com/2019/8/27/20835696/mit-media-lab-joi-ito-apology-petition-jeffrey-epstein)).
 
 [https://medium.com/@EthanZ/on-me-and-the-media-lab-715bfc707f6f](https://medium.com/@EthanZ/on-me-and-the-media-lab-715bfc707f6f)

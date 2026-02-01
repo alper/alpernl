@@ -14,7 +14,7 @@ aliases:
 ---
 I was arguing against Systems Theory today (a necessary evil when you live in Germany) which prompted the thought of searching for the conjunction of Bruno Latour and Niklas Luhmann. That led me to [this gem](https://wittenbrink.net/lostandfound/clash-of-culturesbruno-latour-trifft-niklas-luhmann/).
 
-It turns out that they met each other for a debate in 1996 in Bielefeld and Latour **DESTROYED** his opponent ( [full article](https://www.leydesdorff.net/luhmannreconsidered/luhmann_and_latour.pdf)).
+It turns out that they met each other for a debate in 1996 in Bielefeld and Latour **DESTROYED** his opponent ([full article](https://www.leydesdorff.net/luhmannreconsidered/luhmann_and_latour.pdf)).
 
 Luhmann, as expected, failed to engage with the theme of the conference, Science and Technology Studies and didn't come out of his bubble. The same bubble that he has managed to trap most of the German humanities in.
 

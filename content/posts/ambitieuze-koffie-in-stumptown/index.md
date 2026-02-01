@@ -10,7 +10,7 @@ aliases:
   - /dingen/2010/05/ambitieuze-koffie-in-stumptown/
 
 ---
-Via [Johan Schaap](http://twitter.com/johanschaap/status/13536197385) kwam ik [op het spoor](http://twitter.com/johanschaap/status/13538951765) van een popup store van [Stumptown Coffee Roasters](http://www.stumptowncoffee.com/) hier in Amsterdam op de Albert Cuyp ( [4sq](http://foursquare.com/venue/1970833)).
+Via [Johan Schaap](http://twitter.com/johanschaap/status/13536197385) kwam ik [op het spoor](http://twitter.com/johanschaap/status/13538951765) van een popup store van [Stumptown Coffee Roasters](http://www.stumptowncoffee.com/) hier in Amsterdam op de Albert Cuyp ([4sq](http://foursquare.com/venue/1970833)).
 
 Popup stores zijn vet en nu is de Albert Cuyp niet het armoedigste deel van de stad wat betreft caffeïne-toevoer, maar zoals in [het artikel in de Times](http://tmagazine.blogs.nytimes.com/2010/03/18/going-dutch-stumptown-coffee-in-amsterdam/) ook te lezen staat:
 

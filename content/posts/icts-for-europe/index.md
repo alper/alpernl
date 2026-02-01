@@ -22,13 +22,13 @@ Baroso's brief is as follows (in part):
 > - I would also like you to establish an integrated single market for the delivery of electronic services. The EU possesses massive creative, cultural and multilingual potential, which efficient ICT tools can help to tap and transform into productivity gains.
 > - Europe must also invest in the ICT skills of its citizens. Your role will be to avoid a 'digital divide' and to give the possibility to all citizens to acquire e-skills.
 >
-> ( [Mission Statement](http://www.europarl.europa.eu/hearings/static/commissioners/mission_letters/kroes_digital_agenda_en.pdf))
+> ([Mission Statement](http://www.europarl.europa.eu/hearings/static/commissioners/mission_letters/kroes_digital_agenda_en.pdf))
 
 Her [answers to the questions are here in Dutch](http://www.europarl.europa.eu/hearings/static/commissioners/answers/kroes_replies_nl.pdf) [^1], you may be able to find documents in other languages at [the main site for the hearings](http://www.europarl.europa.eu/hearings/documents/default.htm?language=NL).
 
 I'd read about the question session and the next day Dutch public television put this debriefing with her online:
 
-In one interview she kept saying something about ‘ICTs’ ( [Maarten](http://twitter.com/mdbraber) said it sounded something like the interwebs) and in the above fragment she excells in vagueness. A lot of criticism on her has been indeed focused on her grasp of the field and her plans for the Digital Agenda which were termed weak.
+In one interview she kept saying something about ‘ICTs’ ([Maarten](http://twitter.com/mdbraber) said it sounded something like the interwebs) and in the above fragment she excells in vagueness. A lot of criticism on her has been indeed focused on her grasp of the field and her plans for the Digital Agenda which were termed weak.
 More [video here](http://nos.nl/video/129241-twijfel-over-geschiktheid-neelie-kroes.html) and [audio about the second term](http://nos.nl/audio/129421-kroes-krijgt-herkansing-na-het-weekend.html) this week.
 
 The other criticism that she would not be a champion of the consumer but would take side with the big companies put forward by the Euro Socialists is frankly ludicrous (Dennis de Jong is our Dutch socialist —say no— representative), if you look at her record battling Microsoft.

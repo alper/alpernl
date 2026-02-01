@@ -18,7 +18,7 @@ It was very interesting to see how people would behave in an environment [^1] wi
 For us Europeans attending an event such as this without a data plan is somewhat annoying [^2]. After leaving the convention center, [war walking](http://en.wikipedia.org/wiki/Wardriving) will only get you so far.
 Also the realization that you don't need a laptop or a DSLR (thanks [Derek](http://powazek.com/posts/1846)!) to enjoy a conference was a golden one. An iPhone, a charger and a small notebook will do just fine and won't wear you down as much. Most of the time you'll be busy talking to people at parties, walking around or eating, which does not require you to lug a complete digital office with you.
 
-[Steven Berlin Johnson](http://twitter.com/stevenbjohnson)'s [talk on the Ecosystem of News](http://sxsw.com/interactive/talks/schedule?action=show&id=IAP0901396) ( [text](http://www.stevenberlinjohnson.com/2009/03/the-following-is-a-speech-i-gave-yesterday-at-the-south-by-southwest-interactive-festival-in-austiniif-you-happened-to-being.html)) should not be missed. He painted a picture how the developments which look so bad for newspapers are actually good for news and journalism as a whole leading to a much richer and much more diverse ecosystem.
+[Steven Berlin Johnson](http://twitter.com/stevenbjohnson)'s [talk on the Ecosystem of News](http://sxsw.com/interactive/talks/schedule?action=show&id=IAP0901396) ([text](http://www.stevenberlinjohnson.com/2009/03/the-following-is-a-speech-i-gave-yesterday-at-the-south-by-southwest-interactive-festival-in-austiniif-you-happened-to-being.html)) should not be missed. He painted a picture how the developments which look so bad for newspapers are actually good for news and journalism as a whole leading to a much richer and much more diverse ecosystem.
 
 I almost missed the joint session by [Jon Gruber](http://daringfireball.net/) and [Merlin Mann](http://www.kungfugrippe.com/) but a quick tweet got me in the room shortly after it'd started. These are my favorite two bloggers and having them speak on the old theme of how to be yourself and do cool stuff was a lot of fun even if they're both dicks (by their own admission).
 
@@ -39,7 +39,7 @@ Hearing [Bruce Sterling talk](http://sxsw.com/interactive/talks/panels?action=sh
 
 The [Designing Change in America talk](http://sxsw.com/interactive/talks/schedule?action=show&id=IAP0901364) with the design team who did [the Obama campaign](http://www.barackobama.com/) was fantastic with a lot of interesting stories from inside the campaign and its break neck pace.
 
-At the SxSWi closing party there was a mechanical bull and not being from America I of course could not resist the chance of riding it ( [movie](http://vimeo.com/3776482)). As they say, when in Texas…
+At the SxSWi closing party there was a mechanical bull and not being from America I of course could not resist the chance of riding it ([movie](http://vimeo.com/3776482)). As they say, when in Texas…
 
 [![Polvos](3364774974_78f2ca21aa.jpg)](http://www.flickr.com/photos/alper/3364774974/ "Polvos by illustir, on Flickr")
 

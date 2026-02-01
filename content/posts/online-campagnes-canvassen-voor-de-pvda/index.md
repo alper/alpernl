@@ -15,7 +15,7 @@ Ik heb hier al geschreven over [datavisualisatie in campagnes](/dingen/2010/05/e
 
 [Maurits Martijn](http://twitter.com/mauritsmartijn/status/15029268800) schreef pas in VN een stuk [“Heeft online campagnevoeren zin?”](http://www.vn.nl/Archief/Politiek/Artikel-Politiek/Heeft-online-campagnevoeren-zin.htm) over de online campagnes met een redelijk pessimistisch beeld.
 
-> ‘Er lagen geen plannen klaar. De partijen zijn webmensen gaan inhuren, terwijl die er al een jaar hadden moeten werken. En dat terwijl ze zoveel tijd hebben gehad. Een strategische blunder.’ ( [VN](http://www.vn.nl/Archief/Politiek/Artikel-Politiek/Heeft-online-campagnevoeren-zin.htm))
+> ‘Er lagen geen plannen klaar. De partijen zijn webmensen gaan inhuren, terwijl die er al een jaar hadden moeten werken. En dat terwijl ze zoveel tijd hebben gehad. Een strategische blunder.’ ([VN](http://www.vn.nl/Archief/Politiek/Artikel-Politiek/Heeft-online-campagnevoeren-zin.htm))
 
 Die hadden er al een jaar moeten werken? Hoe lang hebben we dat internet nu al? [^1]
 

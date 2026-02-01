@@ -63,7 +63,7 @@ A long story and a bunch of orthopedic visits later I find out that I have what 
 
 {{< figure src="IM-0001-0001-0014.jpg" alt="" caption="" >}}
 
-The black tendon is my PCL. The grey cloud superimposed on it, is what remains of my Anterior Cruciate Ligament ( _voorste kruisband_).
+The black tendon is my PCL. The grey cloud superimposed on it, is what remains of my Anterior Cruciate Ligament (_voorste kruisband_).
 
 I’m scheduled to have my ACL reconstructed in February. Until then I’m not climbing or running anymore but doing some mild cycling. My knee does not bother me that much but it's also not very happy if I stand or walk too long. The goal for the coming year is to have a stable pain-free knee.
 
@@ -151,7 +151,7 @@ All the other stuff has been _fine_.
 
 ### Family
 
-Things are going well with the kids. They are doing well at daycare, they’ve completed their basic swimming certification ( _Seepferdchen_) and they’ll start school next year.
+Things are going well with the kids. They are doing well at daycare, they’ve completed their basic swimming certification (_Seepferdchen_) and they’ll start school next year.
 
 What’s most exciting is that they are getting to an age where we can consume media together. We watched both Frozen movies and they got a Nintendo Switch for Christmas. Pikmin 3 is a big hit.
 

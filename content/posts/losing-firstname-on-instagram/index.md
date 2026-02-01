@@ -10,7 +10,7 @@ aliases:
   - /dingen/2020/08/losing-firstname-on-instagram/
 
 ---
-I have my first name as my user name in a bunch of places. I've had my Twitter account ( [Twitter.com/alper](https://twitter.com/alper)) for a very long time but my Instagram account ( [Instagram.com/alper](http://instagram.com/alper)) got a lot more attention after Instagram got really big. A couple of weeks ago I lost that account.
+I have my first name as my user name in a bunch of places. I've had my Twitter account ([Twitter.com/alper](https://twitter.com/alper)) for a very long time but my Instagram account ([Instagram.com/alper](http://instagram.com/alper)) got a lot more attention after Instagram got really big. A couple of weeks ago I lost that account.
 
 I didn’t suspect that this time it would be permanent. It happened before that Instagram would lock me out of my account because they claimed I had infringed a not-specified guideline. I would open a support request, they would have me jump through some hoops and then re-enable my account.
 

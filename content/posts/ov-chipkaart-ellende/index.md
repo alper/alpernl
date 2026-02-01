@@ -19,7 +19,7 @@ Maar er zijn toch nog wel genoeg irritaties. Dus ik ben voor de ov-chipkaart maa
 Brenno de Winter somt mijn irritaties en meer netjes op in [dit artikel op Webwereld](http://mobile.webwereld.nl/de-vijf/64510/5--nee-25-problemen-met-ov-chipsysteem.html), met als belangrijkste:
 
 > **24\. De vervoerder staat centraal**
-> Het hele systeem lijkt er vooral zo gemaakt dat het de vervoerders het leven makkelijker maakt en de reizigers maar ten dele, en soms geheel niet. De vervoerder krijgt 'eerlijker' betaald voor zijn geleverde diensten. Overal waar problemen ontstaan, wordt de hete aardappel naar de reiziger geschoven. Niet de klant, maar de leverancier is koning. ( [Webwereld](http://mobile.webwereld.nl/de-vijf/64510/5--nee-25-problemen-met-ov-chipsysteem.html))
+> Het hele systeem lijkt er vooral zo gemaakt dat het de vervoerders het leven makkelijker maakt en de reizigers maar ten dele, en soms geheel niet. De vervoerder krijgt 'eerlijker' betaald voor zijn geleverde diensten. Overal waar problemen ontstaan, wordt de hete aardappel naar de reiziger geschoven. Niet de klant, maar de leverancier is koning. ([Webwereld](http://mobile.webwereld.nl/de-vijf/64510/5--nee-25-problemen-met-ov-chipsysteem.html))
 
 Er heeft geen enkel inclusief, toegankelijk, gebruikersgericht ontwerp plaats gevonden (of als het dat heeft gedaan, zijn de resultaten bijzonder mager [^1] ).
 

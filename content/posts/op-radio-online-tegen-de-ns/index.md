@@ -16,7 +16,7 @@ aliases:
   - /dingen/2009/03/op-radio-online-tegen-de-ns/
 
 ---
-Ik was [gisteren dus op Radio Online](http://www.radio-online.nl/pivot/entry.php?id=1836) [^1] ( [audio](http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20090321-17.wma?start=25:21)) waar ik [een kritiek](/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/) mocht uiten tegen de strategie van de [NS](http://www.ns.nl) van het niet vrijgeven van de vervoersgegevens.
+Ik was [gisteren dus op Radio Online](http://www.radio-online.nl/pivot/entry.php?id=1836) [^1] ([audio](http://cgi.omroep.nl/cgi-bin/streams?/radio1/tros/radioonline/20090321-17.wma?start=25:21)) waar ik [een kritiek](/dingen/2009/03/de-ns-spant-het-paard-achter-de-trein/) mocht uiten tegen de strategie van de [NS](http://www.ns.nl) van het niet vrijgeven van de vervoersgegevens.
 
 Corine van Drunen van de NS laat het na om in te gaan op de vragen die gesteld werden en maak zich er daarna van af door te verwijzen naar het feit dat de NS haar planmatige gegevens ter beschikking stelt aan 9292ov. 9292 is een gezamenlijke site van de vervoerders waar de gegevens in een bepaalde vorm worden ontsloten maar die niet een herbruikbare toegang tot vervoersgegevens biedt. Daarnaast zou het handig zijn om de dynamische reisgegevens (de actuele posities van vervoersmiddelen) te hebben maar in eerste instantie zouden we al blij zijn met de planmatige gegevens.
 

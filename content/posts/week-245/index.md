@@ -29,6 +29,6 @@ I submitted a proposal about data commons to the conference on the [Social Citie
 
 [![Building up Apps voor Nederland](6400182133_21e691eeee.jpg)](http://www.flickr.com/photos/alper/6400182133/ "Building up Apps voor Nederland by illustir, on Flickr")
 
-Friday was for the final preparations for Code Camping Amsterdam ( [write-up here](http://www.hackdeoverheid.nl/2011/11/code-camping-klaar/)), our largest [Hack de Overheid](http://www.hackdeoverheid.nl) event to date. We had the entire day hacking at the derelict Shell Tower —I [wrote about it before](/dingen/2011/11/code-camping-amsterdam-imminent/)— across the water in Amsterdam with great food and coffee and a party at night for another several hundred people.
+Friday was for the final preparations for Code Camping Amsterdam ([write-up here](http://www.hackdeoverheid.nl/2011/11/code-camping-klaar/)), our largest [Hack de Overheid](http://www.hackdeoverheid.nl) event to date. We had the entire day hacking at the derelict Shell Tower —I [wrote about it before](/dingen/2011/11/code-camping-amsterdam-imminent/)— across the water in Amsterdam with great food and coffee and a party at night for another several hundred people.
 
 [![Evening hacking](6406940137_c8f80a7a90.jpg)](http://www.flickr.com/photos/alper/6406940137/ "Evening hacking by illustir, on Flickr")

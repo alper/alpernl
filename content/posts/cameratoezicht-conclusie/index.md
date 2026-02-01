@@ -22,8 +22,8 @@ Daardoor konden we niet anders dan mijn aangifte onverrichter zake sluiten. Als 
 
 Vragen die blijven naar aanleiding van dit incident:
 
-- Waarom vertelt Stadgenoot in eerste instantie onwaarheid over hun camera ( [tweet](https://twitter.com/#!/alper/status/128452159305039872))? Is dat omdat ze niet beter weten? Hebben ze geen zin in gedoe? Of is het kwade opzet?
-- Kan iedereen een camera plaatsen die gericht is op de openbare weg en dan erbij zeggen dat deze niet functioneert? Wie controleert dat de camera echt niet aangesloten is en blijft ( [tweet](https://twitter.com/#!/alper/status/128452277857038337))?
+- Waarom vertelt Stadgenoot in eerste instantie onwaarheid over hun camera ([tweet](https://twitter.com/#!/alper/status/128452159305039872))? Is dat omdat ze niet beter weten? Hebben ze geen zin in gedoe? Of is het kwade opzet?
+- Kan iedereen een camera plaatsen die gericht is op de openbare weg en dan erbij zeggen dat deze niet functioneert? Wie controleert dat de camera echt niet aangesloten is en blijft ([tweet](https://twitter.com/#!/alper/status/128452277857038337))?
 
 Wat blijft:
 

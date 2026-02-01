@@ -21,7 +21,7 @@ It was a nice event, with some very interesting keynotes. A lot of fun was to se
 Matt Thompson had a great talk:
 [![Matt Thompson](4173621383_b9faac92e0.jpg)](http://www.flickr.com/photos/alper/4173621383/ "Matt Thompson by illustir, on Flickr")
 
-But I would recommend you watch [the video for Chris Thompson's talk](http://www.rethinkingmedia.nl/2009/12/12/videos-van-alle-keynotes-show-me-the-money-staan-nu-online/) ( [twitter](http://twitter.com/jaggeree)) about the Guardian Platform. The things they're doing there are really very inspiring:
+But I would recommend you watch [the video for Chris Thompson's talk](http://www.rethinkingmedia.nl/2009/12/12/videos-van-alle-keynotes-show-me-the-money-staan-nu-online/) ([twitter](http://twitter.com/jaggeree)) about the Guardian Platform. The things they're doing there are really very inspiring:
 [![Chris Thorpe](4173767647_94fe77e930.jpg)](http://www.flickr.com/photos/alper/4173767647/ "Chris Thorpe by illustir, on Flickr")
 
 My biggest takeaway from these industry events is that the industry is in nowhere near as bad a shape as they claim to be. The whole ‘the media is dying’ thing is mostly fear mongering. Money is still being made in the media industry, just not the same ridiculous amounts as they used to make and not wholly by the same people. I understand that this may upset some incumbents, but it's not the disaster it's made out to be.

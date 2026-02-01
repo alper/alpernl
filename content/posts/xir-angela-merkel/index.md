@@ -19,7 +19,7 @@ Turkish MC [XiR](https://www.facebook.com/xirgokdeniz/) has a new trap song out 
 
 The video has a quick and dirty German subtitle bundled with it which you can turn on and read.
 
-In the spirit of international relations, I will translate to English the hook of the song ( [lyrics on Genius](https://genius.com/Xir-gokdeniz-angela-merkel-lyrics)). The rest of the song is either not that interesting or I'm missing out on a lot of inside baseball. Either way, I won't try it.
+In the spirit of international relations, I will translate to English the hook of the song ([lyrics on Genius](https://genius.com/Xir-gokdeniz-angela-merkel-lyrics)). The rest of the song is either not that interesting or I'm missing out on a lot of inside baseball. Either way, I won't try it.
 
 > Angela Merkel
 > Schengen yok

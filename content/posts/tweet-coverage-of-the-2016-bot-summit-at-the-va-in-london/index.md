@@ -101,7 +101,7 @@ I was at the [2016 Bot Summit](http://tinysubversions.com/botsummit/2016/) in Lo
 >
 > — Alper Çuğun (@alper) [April 9, 2016](https://twitter.com/alper/status/718885882879717376)
 
-> . [@erocdrahs](https://twitter.com/erocdrahs) who has made some amazing bots ( [https://t.co/4lzn6xOvYZ](https://t.co/4lzn6xOvYZ) ) made us think about what it could be like to be a bot. [#botsummit](https://twitter.com/hashtag/botsummit?src=hash)
+> . [@erocdrahs](https://twitter.com/erocdrahs) who has made some amazing bots ([https://t.co/4lzn6xOvYZ](https://t.co/4lzn6xOvYZ) ) made us think about what it could be like to be a bot. [#botsummit](https://twitter.com/hashtag/botsummit?src=hash)
 >
 > — Alper Çuğun (@alper) [April 9, 2016](https://twitter.com/alper/status/718891442136072193)
 

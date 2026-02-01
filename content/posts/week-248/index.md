@@ -19,7 +19,7 @@ This week marked a strategic planning session for the coming year out of which a
 
 [![](rocks.png)](rocks.png)
 
-Next we did some project planning for a fun little thing ( _saba_) we're going to build in 2012Q1. And then we played [Quarriors](http://boardgamegeek.com/boardgame/91536/quarriors) which I won against all odds [^1].
+Next we did some project planning for a fun little thing (_saba_) we're going to build in 2012Q1. And then we played [Quarriors](http://boardgamegeek.com/boardgame/91536/quarriors) which I won against all odds [^1].
 
 [![Another day, another game](6505802945_b8ff03defb.jpg)](http://www.flickr.com/photos/alper/6505802945/ "Another day, another game by illustir, on Flickr")
 

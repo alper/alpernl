@@ -59,7 +59,7 @@ Het is technisch niet een hele complexe widget, maar de layout, huisstijl en de 
 
 ![](http://widgets.overheid20.nl/vacatures/screenshot.png)
 
-De vacatures van [Werken bij de Overheid](http://www.werkenbijdeoverheid.nl/) ( [RSS](http://www.werkenbijdeoverheid.nl/rss/)) zijn dat waar de meeste bezoekers van die website naar op zoek zijn —denken we. Dus iemand gaat naar Werken bij de Overheid om te zoeken naar een baan, vult op de voorpagina zijn eisen in en zoekt op die manier.
+De vacatures van [Werken bij de Overheid](http://www.werkenbijdeoverheid.nl/) ([RSS](http://www.werkenbijdeoverheid.nl/rss/)) zijn dat waar de meeste bezoekers van die website naar op zoek zijn —denken we. Dus iemand gaat naar Werken bij de Overheid om te zoeken naar een baan, vult op de voorpagina zijn eisen in en zoekt op die manier.
 
 De widget die we hebben gemaakt biedt precies dezelfde zoekcriteria als op die pagina en laat altijd de laatste vacatures zien. Op die manier bespaart de widget iemand die een baan zoekt herhaaldelijke bezoeken naar de site. Qua personaliseerbaarheid en relevantie (voor een baanzoeker) lijkt deze widget me het meest geslaagd.
 

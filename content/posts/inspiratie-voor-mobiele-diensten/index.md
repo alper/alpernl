@@ -21,7 +21,7 @@ Zoals ik schreef zijn de voorwaarden van de wedstrijd nogal in het voordeel van 
 
 ### Rechten
 
-Alle deelnemers moeten op dit moment de rechten op hun applicaties afstaan aan 9292. 9292 [zegt de applicaties](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss#2947354) niet te zullen overnemen maar te zullen gebruiken als inspiratie. Waarom kunnen deelnemers dan niet gewoon een verklaring tekenen dat ze 9292 toestaan om ideeën uit hun applicatie te gebruiken en gewoon hun rechten zelf behouden ( [tweet](http://twitter.com/alper/status/1534676494))?
+Alle deelnemers moeten op dit moment de rechten op hun applicaties afstaan aan 9292. 9292 [zegt de applicaties](http://www.emerce.nl/nieuws.jsp?id=2903799&utm_campaign=rss&utm_source=rss&utm_medium=rss#2947354) niet te zullen overnemen maar te zullen gebruiken als inspiratie. Waarom kunnen deelnemers dan niet gewoon een verklaring tekenen dat ze 9292 toestaan om ideeën uit hun applicatie te gebruiken en gewoon hun rechten zelf behouden ([tweet](http://twitter.com/alper/status/1534676494))?
 
 Wat Mark en 9292 [verstaan onder delen](http://weblogs3.nrc.nl/klaver/2009/04/10/ov-reiswijzer-crowdsourcet-mobiele-navigator-en-claimt-rechten/#comment-66887) is dat de applicaties ergens intern verdwijnen en ideeën en onderdelen eruit verwerkt zullen worden in hun gratis applicaties. Dat is geen delen maar gewoon het uitoefenen van de taak waar ze al mee bezig waren [^2].
 

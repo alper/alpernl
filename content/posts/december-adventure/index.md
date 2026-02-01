@@ -16,7 +16,7 @@ So I felt I couldn't really bring myself to do [Advent of Code](https://adventof
 
 I saw this thing called [December Adventure](https://eli.li/december-adventure) though and that fits in nicely with my current push to release a major update for [Cuppings](https://cuppin.gs). If I'm going to be programming until late this month, then I'd prefer it to be on something that I can release.
 
-I can't promise that I won't do any AoC ( [Factor](https://factorcode.org) is looking mighty cool) but I won't force myself to do anything. With that, let's get going.
+I can't promise that I won't do any AoC ([Factor](https://factorcode.org) is looking mighty cool) but I won't force myself to do anything. With that, let's get going.
 
 ### 1/12
 

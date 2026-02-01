@@ -12,7 +12,7 @@ aliases:
 ---
 For my international audience; if you've been living in the Netherlands you could not have missed this.
 
-Yesterday night we saw a live gig here in Delft by [Kyteman](http://www.kyteman.com/) ( [myspace](http://www.myspace.com/kyteman)) and his hip-hop orchestra and we stood agape with wonder. This guy is a recent musical sensation in the Netherlands and if you can catch a show by him run to it!
+Yesterday night we saw a live gig here in Delft by [Kyteman](http://www.kyteman.com/) ([myspace](http://www.myspace.com/kyteman)) and his hip-hop orchestra and we stood agape with wonder. This guy is a recent musical sensation in the Netherlands and if you can catch a show by him run to it!
 
 Kyteman is a hip-hop artist/conductor with a trumpet who leads a 21 piece orchestar with a full brass section, a string section and a host of M.C.s. A definite mashup formation with hip-hop, funky and blues sounds. I write orchestar because it is reminiscent even of more balkan influences like Bregović and Beirut [^1]. The sound they produce is rich and dynamic and the performances spectacular in their grandeur.
 

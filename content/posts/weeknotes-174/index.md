@@ -15,7 +15,7 @@ aliases:
 
 In other news…
 
-I started drafting [an open letter in Dutch](http://piratepad.net/2QwPw0cg0S) regarding the information platform for transit data for the Netherlands which will be created in the near future. We ( [Open Data Nederland](http://www.linkedin.com/groups?mostPopular=&gid=3112848)) want this platform to be open and inclusive to enable the greatest potential for innovation.
+I started drafting [an open letter in Dutch](http://piratepad.net/2QwPw0cg0S) regarding the information platform for transit data for the Netherlands which will be created in the near future. We ([Open Data Nederland](http://www.linkedin.com/groups?mostPopular=&gid=3112848)) want this platform to be open and inclusive to enable the greatest potential for innovation.
 
 Talked about an interesting quantified self dataviz project (codename: _nezahualcoyotl_) with a well-known hardware maker. More dataviz is forthcoming:
 _puebla_ got its public deadline (which is quite shortly) but could use some visual design attention

@@ -43,7 +43,7 @@ De volgende keer doe ik het wel via [Easyjet](http://www.easyjet.nl/) over Stans
 
 Wat mensen die zich bezig houden met groene initiatieven vaak vergeten is dat de Groene Keuze minstens net zo goedkoop, makkelijk en mooi moet zijn als de ‘slechte’ keuze. Het is misschien moeilijk, maar mainstream gaan í­s moeilijk. Als je niet voldoet aan die voorwaarden blijft de groene oplossing een marginaal alternatief dat alleen maar door eco-freaks gebruikt wordt [^3].
 
-**Update** (21/12/2009): En ik ben blij dat ik het heb afgezworen. Deze week zijn een heleboel mensen door de vrieskou een uur of 16 in de tunnel vast komen te zitten ( [BBC News](http://news.bbc.co.uk/2/hi/uk_news/8422305.stm)). Niet meer doen die trein.
+**Update** (21/12/2009): En ik ben blij dat ik het heb afgezworen. Deze week zijn een heleboel mensen door de vrieskou een uur of 16 in de tunnel vast komen te zitten ([BBC News](http://news.bbc.co.uk/2/hi/uk_news/8422305.stm)). Niet meer doen die trein.
 
 [^1]: Tijdsverschil niet meegerekend.
 [^2]: En daarnaast is de informatievoorziening en de situatie in de treinen etc. ver onder de maat. Ik weet niet of het met de onderontwikkeling door die Westerschelde of wat dan ook te maken heeft, maar we boffen hier wel met de NS.

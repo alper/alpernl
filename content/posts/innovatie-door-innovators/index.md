@@ -14,7 +14,7 @@ aliases:
 ---
 Dit [fijne dubbelinterview](http://www.wired.com/magazine/2010/09/mf_kellyjohnson/all/1) met [Kevin Kelly](http://www.kk.org/) en [Steven Berlin Johnson](http://www.stevenberlinjohnson.com/) is nog wel het aardigst omdat het uitlegt waarom we Engels moeten praten.
 
-> Johnson: If you look at history, innovation doesn’t come just from giving people incentives; it comes from creating environments where their ideas can connect. ( [Wired](http://www.wired.com/magazine/2010/09/mf_kellyjohnson/all/1))
+> Johnson: If you look at history, innovation doesn’t come just from giving people incentives; it comes from creating environments where their ideas can connect. ([Wired](http://www.wired.com/magazine/2010/09/mf_kellyjohnson/all/1))
 
 Omgevingen bouwen waar ideeën zich kunnen verbinden zorgt voor innovatie in de gehele omgeving. Naast nabijheid en toegang is taal een hele belangrijke factor voor de verbinding van ideeën.
 

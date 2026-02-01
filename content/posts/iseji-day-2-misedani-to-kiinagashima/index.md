@@ -96,6 +96,6 @@ Except for these highly sketchy stairs I have to go down if I want to use the re
 
 The stats for the day say 26,86km and some 34k steps ([strava1](https://www.strava.com/activities/16568003972), [strava2](https://www.strava.com/activities/16569422796)).
 
-As I write this I find the video that Craig Mod posted about one of his days along the route. Part of it matches what I walked today and it's a picture perfect match with how my day went: [https://www.youtube.com/watch?v=0QL5GB2vdS8](https://www.youtube.com/watch?v=0QL5GB2vdS8)
+As I write this I find the video that Craig Mod posted about one of his days along the route. Part of it covers what I walked today and it's a picture perfect match with how my day went: [https://www.youtube.com/watch?v=0QL5GB2vdS8](https://www.youtube.com/watch?v=0QL5GB2vdS8)
 
 This has been a very full day with so many different experiences and small victories that it's hard to take in. I can't believe that this is only day two. More tomorrow.

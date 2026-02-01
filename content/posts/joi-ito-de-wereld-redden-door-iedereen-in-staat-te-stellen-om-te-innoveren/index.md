@@ -51,7 +51,7 @@ Interoperabiliteit is belangrijk. Dat we één internet hebben is handig, omdat 
 
 Hoe kleiner je bent hoe lager de kosten van falen zijn. Dit is de compleet chaotische non-lineaire innovatie die gedreven wordt door ondernemers. De kosten van falen in tijd en geld voor overheden en grote bedrijven zijn gigantisch. Je kunt nu heel snel en zonder een bak geld iets maken wat werkt.
 
-Hij somt een hele rij kleine organisaties op die met behulp van het internet de wereld proberen te veranderen. De grote landen in de wereld ( zeg VS, China, Japan etc.) zijn veelal te corrupt, arrogant en disfunctioneel om daadwerkelijke verandering te kunnen bewerkstelligen. Hij werkt liever om de overheid heen en zegt dat je binnen de overheid moet werken als je de energie ertoe hebt. Volgens hem zijn kleinere landen wel in staat zijn om te luisteren, te leren en te veranderen.
+Hij somt een hele rij kleine organisaties op die met behulp van het internet de wereld proberen te veranderen. De grote landen in de wereld (zeg VS, China, Japan etc.) zijn veelal te corrupt, arrogant en disfunctioneel om daadwerkelijke verandering te kunnen bewerkstelligen. Hij werkt liever om de overheid heen en zegt dat je binnen de overheid moet werken als je de energie ertoe hebt. Volgens hem zijn kleinere landen wel in staat zijn om te luisteren, te leren en te veranderen.
 
 Mensenrechten zijn belangrijk maar kunnen niet ingevoerd worden zonder oog voor de bredere sociale context en gevolgen. In de Arabische wereld gaan dingen langzamerhand de goede kant op.
 

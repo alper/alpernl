@@ -10,7 +10,7 @@ aliases:
   - /dingen/2009/05/widgets-algemene-afwegingen/
 
 ---
-Het is nu een paar weken geleden dat ik de eerste release versie van een serie widgets die ik samen met [Tam Tam](http://www.tamtam.nl) in opdracht van het [Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](http://www.minbzk.nl/) (BZK) heb ontwikkeld ( [een overzichtsartikel](/dingen/2009/05/widgets-overzicht/)).
+Het is nu een paar weken geleden dat ik de eerste release versie van een serie widgets die ik samen met [Tam Tam](http://www.tamtam.nl) in opdracht van het [Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](http://www.minbzk.nl/) (BZK) heb ontwikkeld ([een overzichtsartikel](/dingen/2009/05/widgets-overzicht/)).
 
 Doel van het project was om in een breder initiatief aangaande overheid en open data te kijken of met widgets huidige overheidsdata dichter en aantrekkelijker bij de belevingswereld van gebruikers gebracht zou kunnen worden. Er lopen op dit vlak nog meer initiatieven en de grootste uitdaging is de beperktheid van middelen en kennis om de informatie op een goede manier te ontsluiten.
 
@@ -34,7 +34,7 @@ De motivatie om tot één generieke widget te komen bleek gerechtvaardigd. Ik he
 
 Een andere afweging wat betreft de genericiteit van de widgets betreft het maken van een widget of widgetplatform waarin een niet-programmeur door het opgeven van enkele plaatjes, kleuren en een databron automatisch een widget kan laten maken.
 
-Dit is de heilige graal maar het was binnen dit project niet realistisch. Er zijn heel weinig projecten die dit goed doen ( [Sprout Builder](http://sproutbuilder.com/) is eigenlijk de enige die ik ken) omdat het bijzonder moeilijk en bijzonder veel werk. En dit slecht doen is geen optie (dan kun je het beter niet doen).
+Dit is de heilige graal maar het was binnen dit project niet realistisch. Er zijn heel weinig projecten die dit goed doen ([Sprout Builder](http://sproutbuilder.com/) is eigenlijk de enige die ik ken) omdat het bijzonder moeilijk en bijzonder veel werk. En dit slecht doen is geen optie (dan kun je het beter niet doen).
 
 Bij een halve versie krijg je een rare tussenvorm die lastig werkbaar is en ofwel te weinig vrijheid toe laat of teveel en dan weer teveel voorafgesproken kennis veronderstelt. Dit terwijl het maken van een mooi en goed design juist één van de grootste toegevoegde waarden is die je kunt meegeven aan een widget (zie volgende punt).
 
@@ -42,7 +42,7 @@ We hebben er dus voor gekozen om concrete affe versies te maken maar wel met een
 
 ### Presentatie
 
-We hebben nogal wat tijd en aandacht besteed met [de ontwerpers van Tam Tam](http://www.tamtam.nl/) samen aan een mooie presentatie van de widgets binnen de huisstijl van de originele site. Je ziet dat dit al snel veel toegevoegde waarde heeft niet alleen in ‘branding’ maar ook in (gebruiks)vriendelijkheid van de gegevens. Vergelijk onze rijkere RSS nieuws-widgets maar met de standaardmanier om RSS te presenteren in iGoogle ( [zie screenshot](http://www.flickr.com/photos/alper/3545024691/)).
+We hebben nogal wat tijd en aandacht besteed met [de ontwerpers van Tam Tam](http://www.tamtam.nl/) samen aan een mooie presentatie van de widgets binnen de huisstijl van de originele site. Je ziet dat dit al snel veel toegevoegde waarde heeft niet alleen in ‘branding’ maar ook in (gebruiks)vriendelijkheid van de gegevens. Vergelijk onze rijkere RSS nieuws-widgets maar met de standaardmanier om RSS te presenteren in iGoogle ([zie screenshot](http://www.flickr.com/photos/alper/3545024691/)).
 
 [![Presentation of Feeds](3545024691_3c50e59661.jpg)](http://www.flickr.com/photos/alper/3545024691/ "Presentation of Feeds by illustir, on Flickr")
 

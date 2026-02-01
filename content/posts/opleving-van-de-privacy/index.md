@@ -10,7 +10,7 @@ aliases:
   - /dingen/2009/12/opleving-van-de-privacy/
 
 ---
-Een bijzonder sterk artikel een tijdje terug op Binnenlands Bestuur dat eigenlijk een soort voorbode was van deze opleving van de privacy: [“Iedereen verdacht”door Martijn Delaere](http://www.binnenlandsbestuur.nl/achtergrond/2009/10/iedereen-verdacht.131780.lynkx) ( [via](http://sargasso.nl/archief/2009/10/04/weekendquote-aanslagen-privacy-moslims-en-rookgordijnen/)).
+Een bijzonder sterk artikel een tijdje terug op Binnenlands Bestuur dat eigenlijk een soort voorbode was van deze opleving van de privacy: [“Iedereen verdacht”door Martijn Delaere](http://www.binnenlandsbestuur.nl/achtergrond/2009/10/iedereen-verdacht.131780.lynkx) ([via](http://sargasso.nl/archief/2009/10/04/weekendquote-aanslagen-privacy-moslims-en-rookgordijnen/)).
 
 Gelukkig is [Bits of Freedom](http://www.bitsoffreedom.nl/) op stoom en aan het uitbreiden en wordt er aan de linkerzijde van het politieke spectrum nu eindelijk geluisterd. Politiek links staat vanzelfsprekend aan de goede kant, maar privacy was tot op heden geen prioriteit en kennis van het internet schaars.
 

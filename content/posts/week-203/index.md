@@ -32,7 +32,7 @@ I also had a meeting to draft the road map for the small minor in data visualiza
 
 ### Writing
 
-Got my [review of “Zero History”](http://www.vn.nl/boeken/fictie/zero-history-william-gibson/) by [William Gibson](http://twitter.com/greatdismal) published on de Republiek der Letteren ( _the Republic of Literature_). I had spent quite some time writing and polishing it and I was quite pleased with having it published.
+Got my [review of “Zero History”](http://www.vn.nl/boeken/fictie/zero-history-william-gibson/) by [William Gibson](http://twitter.com/greatdismal) published on de Republiek der Letteren (_the Republic of Literature_). I had spent quite some time writing and polishing it and I was quite pleased with having it published.
 
 That also went into print that same Thursday, so yeah pretty cool:
 [![@GreatDismal review in VN](5413085752_2012b03ee3.jpg)](http://www.flickr.com/photos/alper/5413085752/ "@GreatDismal review in VN by illustir, on Flickr")

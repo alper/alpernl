@@ -35,6 +35,6 @@ Ik kan dus niet bij mí­jn gegevens (die wél [twee jaar bewaard](https://www.b
 
 **Update 2:** Je kunt ook een brief sturen naar: Klantenservice OV-chipkaart, Postbus 365, 3800 AJ Amersfoort. Alleen dan ook niet vergeten een kopie van een legitimatiebewijs mee te sturen. Niemand kan je vertellen of je verzoek dan ook gehonoreerd wordt, maar schrijven mag.
 
-**Update 3:** Volgens [het register van het CBP meldingsnummer 1277300](http://www.cbpweb.nl/asp/ORDetail.asp?moid=80858f8884&refer=true&theme=purple) is het Trans Link Systems die mijn gegevens opslaat teneinde de doeleinden daargenoemd te bereiken. [Volgens Bits of Freedom](https://twitter.com/#!/bitsoffreedom/status/49848994981097473) mag ik die gegevens ook hebben ( [artikel 35 WBP](http://wetten.overheid.nl/BWBR0011468/geldigheidsdatum_21-03-2011#Hoofdstuk6_Artikel35)).
+**Update 3:** Volgens [het register van het CBP meldingsnummer 1277300](http://www.cbpweb.nl/asp/ORDetail.asp?moid=80858f8884&refer=true&theme=purple) is het Trans Link Systems die mijn gegevens opslaat teneinde de doeleinden daargenoemd te bereiken. [Volgens Bits of Freedom](https://twitter.com/#!/bitsoffreedom/status/49848994981097473) mag ik die gegevens ook hebben ([artikel 35 WBP](http://wetten.overheid.nl/BWBR0011468/geldigheidsdatum_21-03-2011#Hoofdstuk6_Artikel35)).
 
 **Update 4:** Nogmaals bellen leert dat ov-chipkaart.nl gemaakt wordt door TLS dus dat mijn brief naar bovenstaand adres uiteindelijk bij hen terecht komt. Dus de volgende stap is schrijven. Updates volgen.

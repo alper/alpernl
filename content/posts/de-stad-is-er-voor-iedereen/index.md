@@ -17,7 +17,7 @@ Zo twitterde ik wat met [Sebastiaan Capel](http://www.sebastiaancapel.nl/), stad
 
 Dus kwamen we bij elkaar voor één van Sebastiaans stadsgesprekken, waarvan [het verslag nu op zijn site](http://www.sebastiaancapel.nl/weblog.cfm?blogInDetail=stadsgesprek_4_alper_cugu_over_24_uurs_economie_en_vertrutting) staat:
 
-> Het is een leefbare stad, het is hier prettig toeven, maar ik merk wel dat er heel weinig gebeurt, juist omdat iedereen het wel OK vindt. Ik vind dat je breder moet kijken, maar het overgrote deel wil dat niet, die zijn tevreden zoals het is. ( [“Stadsgesprek #4 Alper Cugun over 24-uurs economie en vertrutting”](http://www.sebastiaancapel.nl/weblog.cfm?blogInDetail=stadsgesprek_4_alper_cugu_over_24_uurs_economie_en_vertrutting))
+> Het is een leefbare stad, het is hier prettig toeven, maar ik merk wel dat er heel weinig gebeurt, juist omdat iedereen het wel OK vindt. Ik vind dat je breder moet kijken, maar het overgrote deel wil dat niet, die zijn tevreden zoals het is. ([“Stadsgesprek #4 Alper Cugun over 24-uurs economie en vertrutting”](http://www.sebastiaancapel.nl/weblog.cfm?blogInDetail=stadsgesprek_4_alper_cugu_over_24_uurs_economie_en_vertrutting))
 
 Een en ander behoeft misschien nog toelichting maar het was vroeg en we gingen hard, dus ik ben heel blij dat dit eruit is voortgekomen. De uitspraak over de _24 hour diner_ is trouwens van [Ben Hammersley](http://twitter.com/benhammersley/), maar hij vindt het vast niet erg dat ik hem geleend heb (voor een goed doel).
 

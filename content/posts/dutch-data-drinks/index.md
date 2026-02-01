@@ -14,9 +14,9 @@ aliases:
 ---
 There's a lot of stuff happening in the Dutch Data Scene and more communication and consolidation of efforts is in order.
 
-Quoting from [the Facebook event](http://www.facebook.com/event.php?eid=160152187333385) ( [Plancast](http://plancast.com/p/2b0c)) I created:
+Quoting from [the Facebook event](http://www.facebook.com/event.php?eid=160152187333385) ([Plancast](http://plancast.com/p/2b0c)) I created:
 
-> Open drinks for the Dutch Open Data / Dataviz Community next to PICNIC ( http://www.picnicnetwork.org/ ) both for conference attendees and those that want to attend but can't.
+> Open drinks for the Dutch Open Data / Dataviz Community next to PICNIC (http://www.picnicnetwork.org/ ) both for conference attendees and those that want to attend but can't.
 >
 > There are more and more people busy with data in the Netherlands, but most of the efforts are widely disparate. PICNIC seems like a good focal point for various efforts to come together.
 >

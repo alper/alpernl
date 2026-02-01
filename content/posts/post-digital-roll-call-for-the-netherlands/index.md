@@ -12,6 +12,6 @@ aliases:
 ---
 Russell Davies apologizes, though he needn't.
 
-> The only way to be a Post Digital business is to be a thoroughly, deeply, massively digital one. To be digital in culture not just in capabilities. To know how to iterate in public, to do experiments not research, to recognise that it's quicker and better to code something than it is to describe it in meetings. You need to be part of the wider digital culture, to have good sharing habits, to give credit where it's due, and at the very least to know how to do ellipses in Processing. ( [post digital - an apology](http://russelldavies.typepad.com/planning/2010/11/post-digital-an-apology.html))
+> The only way to be a Post Digital business is to be a thoroughly, deeply, massively digital one. To be digital in culture not just in capabilities. To know how to iterate in public, to do experiments not research, to recognise that it's quicker and better to code something than it is to describe it in meetings. You need to be part of the wider digital culture, to have good sharing habits, to give credit where it's due, and at the very least to know how to do ellipses in Processing. ([post digital - an apology](http://russelldavies.typepad.com/planning/2010/11/post-digital-an-apology.html))
 
 All Dutch agencies who think they qualify kindly to leave a comment below.

@@ -15,7 +15,7 @@ I'm enjoying another light season of [SPY x FAMILY](https://en.wikipedia.org/wik
 
 {{< figure src="IMG_5912.png" alt="" caption="" >}}
 
-Season 2 goes on with the story arc and some filler segments thrown in between. Of these, in the third episode ( [S02E03](https://trakt.tv/shows/spy-x-family/seasons/2/episodes/3)) they pull off a stunning take on [“Das Leben der Anderen”](https://letterboxd.com/film/the-lives-of-others/). I was watching it and by the time it was over I couldn't believe they'd done this.
+Season 2 goes on with the story arc and some filler segments thrown in between. Of these, in the third episode ([S02E03](https://trakt.tv/shows/spy-x-family/seasons/2/episodes/3)) they pull off a stunning take on [“Das Leben der Anderen”](https://letterboxd.com/film/the-lives-of-others/). I was watching it and by the time it was over I couldn't believe they'd done this.
 
 To connect it to the main plot, the listener who works at the secret police is Yor's overly jealous brother Yuri, an apt Stasi name if ever there was one. The episode also features some more set pieces which firmly establish Ostania—the city where they live—as Cold War East Berlin.
 

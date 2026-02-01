@@ -10,7 +10,7 @@ aliases:
 
 ---
 [![](http://farm3.static.flickr.com/2035/2117512295_24e409bf9d_m.jpg)](http://flickr.com/photos/zarkodrincic/2117512295/)
-Picture by [Zarko Drincic](http://flickr.com/people/zarkodrincic/) ( [CC by-nd license](http://creativecommons.org/licenses/by-nd/2.0/deed.en_GB))
+Picture by [Zarko Drincic](http://flickr.com/people/zarkodrincic/) ([CC by-nd license](http://creativecommons.org/licenses/by-nd/2.0/deed.en_GB))
 
 I've had a trial subscription to the fashionable Dutch morning paper: [NRC.next](http://www.nrcnext.nl/) [^1] and I got called today warning me that it is about to finish and whether I'd like to prolong my subscription with them.
 

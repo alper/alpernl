@@ -19,6 +19,6 @@ I got a new avatar picture taken by [Daphne Horn](http://daphnehorn.nl/). My cur
 
 [![](AlperPolaroid3.jpg)](AlperPolaroid3.jpg)
 
-Sunday marked the end of the Dutch mission in Afghanistan, so I used some downtime on Saturday to finish project _puebla_ which is [a small map with the origins](http://monsterswell.com/projects/uruzgan/) of our 24 fallen ( [write-up](/dingen/2010/08/uruzgan-in-the-netherlands/)).
+Sunday marked the end of the Dutch mission in Afghanistan, so I used some downtime on Saturday to finish project _puebla_ which is [a small map with the origins](http://monsterswell.com/projects/uruzgan/) of our 24 fallen ([write-up](/dingen/2010/08/uruzgan-in-the-netherlands/)).
 
 The launch of [PLAY Pilots](http://playpilots.nl) is going to be interesting, and there's a bunch of other stuff coming up: _nezahualcoyotl_, _guadalajara_ and some other proposals are progressing nicely.

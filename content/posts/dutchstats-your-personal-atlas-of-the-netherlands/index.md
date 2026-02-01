@@ -32,7 +32,7 @@ Dutchstats has been made by [Monster Swell](http://monsterswell.com/) with [Alpe
 
 The CBS [publishes Shapefiles](http://www.cbs.nl/nl-NL/menu/themas/dossiers/nederland-regionaal/publicaties/geografische-data/archief/2007/2006-wijk-en-buurtkaart.htm) with the boundaries of the municipalities, burroughs and neighborhoods of the Netherlands with a [legend of the statistics they bundle](http://www.cbs.nl/NR/rdonlyres/79BFE8EC-3328-463E-AED6-EB867CBC9307/0/2006b68pub.pdf). The tools that the CBS themselves provide to view this data are not very user friendly, see both: [Statline](http://statline.cbs.nl/) and [CBS in uw buurt](http://www.cbsinuwbuurt.nl/#pageLocation=index).
 
-The election results for the European Elections of 2009 came from [nlverkiezingen.com](http://www.nlverkiezingen.com). We entered the results for the 2010 Municipality Elections ourselves. Parliamentary Election results are provided by the [Kiesraad](http://www.verkiezingsuitslagen.nl/) ( _electoral council_).
+The election results for the European Elections of 2009 came from [nlverkiezingen.com](http://www.nlverkiezingen.com). We entered the results for the 2010 Municipality Elections ourselves. Parliamentary Election results are provided by the [Kiesraad](http://www.verkiezingsuitslagen.nl/) (_electoral council_).
 
 ### Why?
 

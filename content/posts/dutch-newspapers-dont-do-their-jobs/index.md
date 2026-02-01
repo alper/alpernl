@@ -13,7 +13,7 @@ Just another day in the Dutch election campaign.
 
 ![](/img/screenshots/Geert_Wilders_on_Twitter_D66_wil_Amsterdam_afsplitsen_als_de_verkiezingsuitslag_tegenvalt._Pechtold_demonstreert_met_Hamas-te_2017-02-06_22-27-41.jpg)
 
-Geert Wilders posts a photoshopped image ( [tweet](https://twitter.com/geertwilderspvv/status/828502461421850624)) of Alexander Pechtold his most direct opponent and says ‘Pechtold is protesting alongside Hamas terrorists.’
+Geert Wilders posts a photoshopped image ([tweet](https://twitter.com/geertwilderspvv/status/828502461421850624)) of Alexander Pechtold his most direct opponent and says ‘Pechtold is protesting alongside Hamas terrorists.’
 
 This is in reaction to the statement by Simone Kukenheim, Alderman of Amsterdam, who said [Amsterdam would not recognize fascist policies](http://www.parool.nl/amsterdam/kukenheim-wilders-premier-dan-wordt-amsterdam-een-republiek~a4458193/) under a possible Wilders government and could look to secede.
 

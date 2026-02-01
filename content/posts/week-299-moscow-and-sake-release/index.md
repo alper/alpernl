@@ -14,7 +14,7 @@ aliases:
 
 On Monday morning I flew to Moscow to participate in a panel at the [Moscow Urban Forum](http://mosurbanforum.com/). A gathering of experts on the subject of the city and policy who would shed some light on the development of a megacity such as Moscow. On the day I flew in, I got an opportunity to stroll a bit through the city.
 
-I was impressed by the incredible amount of traffic that didn't leave a lot of room for a person on foot. An experience I haven't had since Beirut. And as underwhelmed as I was by the Red Square itself, the church at the end ( [Saint Basil's Cathedral](http://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral)) was jarring in its familiarity. It had made a heavy impression on me when I was a small child and television commentary on the Soviet Union would feature it as a backdrop. An experience to finally see it in real life.
+I was impressed by the incredible amount of traffic that didn't leave a lot of room for a person on foot. An experience I haven't had since Beirut. And as underwhelmed as I was by the Red Square itself, the church at the end ([Saint Basil's Cathedral](http://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral)) was jarring in its familiarity. It had made a heavy impression on me when I was a small child and television commentary on the Soviet Union would feature it as a backdrop. An experience to finally see it in real life.
 
 [![Odd to finally see this in real life. #wander](8240567061_a47bbdcd65.jpg)](http://www.flickr.com/photos/alper/8240567061/ "Odd to finally see this in real life. #wander by illustir, on Flickr")
 

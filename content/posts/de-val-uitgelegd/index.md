@@ -11,7 +11,7 @@ aliases:
   - /dingen/2010/05/de-val-uitgelegd/
 
 ---
-Hier een hele leuke video over [de val van het kabinet](http://www.devalvanhetkabinet.nl/) ( [via](http://www.dutchcowboys.nl/video/19688)):
+Hier een hele leuke video over [de val van het kabinet](http://www.devalvanhetkabinet.nl/) ([via](http://www.dutchcowboys.nl/video/19688)):
 
 [De val van het kabinet](http://vimeo.com/11849317) from [twelve o'clock \| motion media](http://vimeo.com/twelve) on [Vimeo](http://vimeo.com).
 

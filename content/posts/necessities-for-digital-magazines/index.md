@@ -11,7 +11,7 @@ aliases:
   - /dingen/2009/12/necessities-for-digital-magazines/
 
 ---
-[Ben Hammersley poses the question](http://benhammersley.com/2009/12/e-books-the-bigger-problem-part-one-of-three/) which has been on my mind for a while ( [tweet](http://twitter.com/alper/status/6767585114)) now after seeing the various concept demoes of rich magazines on high resolution tablets.
+[Ben Hammersley poses the question](http://benhammersley.com/2009/12/e-books-the-bigger-problem-part-one-of-three/) which has been on my mind for a while ([tweet](http://twitter.com/alper/status/6767585114)) now after seeing the various concept demoes of rich magazines on high resolution tablets.
 
 There have been a couple of these concepts floated around recently among which the [digital Sports Illustrated](http://www.observer.com/2009/media/demo-future-sports-illustrated-tablet) and the [Mag+ demo for Bonnier](http://berglondon.com/blog/2009/12/17/magplus/):
 

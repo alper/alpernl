@@ -12,7 +12,7 @@ aliases:
   - /dingen/2010/01/big-data-makes-me-horny/
 
 ---
-Today at an event called ‘What makes you horny?’ ( [#wmyh](http://search.twitter.com/search?q=%23wmyh)), I gave a presentation about my inspiration: Big Data.
+Today at an event called ‘What makes you horny?’ ([#wmyh](http://search.twitter.com/search?q=%23wmyh)), I gave a presentation about my inspiration: Big Data.
 
 [What Makes You Horny? Big Data!](http://www.slideshare.net/alper/wmyh-publishable-key "What Makes You Horny? Big Data!")
 

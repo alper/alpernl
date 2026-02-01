@@ -12,7 +12,7 @@ aliases:
 ---
 Jelle Brandt Corstius _nailt_ het:
 
-> Ik had een Russische vriendin op bezoek, en we waren beland in een visrestaurant in een pittoresk Noord-Hollands kustplaatsje waar ik vaak kom. Nouja, pittoresk, op het centrale plein van het kustplaatsje komen regelmatig hangjongeren samen die bier zuipen en heel hard Heil Hitler! roepen. Maar het zijn geen Marokkanen, dus ze kunnen kun gang gaan. Ik ben helemaal voor het harder aanpakken van hangjongeren, maar dan wel alle hangjongeren. Maar dat terzijde. ( [Mighty Moscow](http://mightymoscow.blogspot.com/2010/06/jelle-krijgt-een-telefoontje-van-de.html))
+> Ik had een Russische vriendin op bezoek, en we waren beland in een visrestaurant in een pittoresk Noord-Hollands kustplaatsje waar ik vaak kom. Nouja, pittoresk, op het centrale plein van het kustplaatsje komen regelmatig hangjongeren samen die bier zuipen en heel hard Heil Hitler! roepen. Maar het zijn geen Marokkanen, dus ze kunnen kun gang gaan. Ik ben helemaal voor het harder aanpakken van hangjongeren, maar dan wel alle hangjongeren. Maar dat terzijde. ([Mighty Moscow](http://mightymoscow.blogspot.com/2010/06/jelle-krijgt-een-telefoontje-van-de.html))
 
 Ga in de zomer maar 'ns kijken in Harderwijk of Sneek of nog verder weg. Als je er wat van zegt wordt je [in elkaar getrapt](http://nl.wikipedia.org/wiki/Zaak-Meindert_Tjoelker).
 

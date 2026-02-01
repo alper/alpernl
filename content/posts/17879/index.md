@@ -21,7 +21,7 @@ The question example for the reasoning process in Figure 1 is on a multiple-choi
 
 > In parallel, Commonsense Question Answering shares similar complexities with Medical QA, particularly in its reliance on structured multi-step reasoning and iterative evidence retrieval.
 
-> rStar ( [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195))
+> rStar ([Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195))
 
 The rStar approach seems worth diving into. That will be the paper I read next.
 

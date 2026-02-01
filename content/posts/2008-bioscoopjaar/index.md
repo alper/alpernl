@@ -12,7 +12,7 @@ Ik lees de afgelopen week wat [verlekkerde lijstjes](http://www.firstshowing.net
 
 Het lijkt erop dat komend jaar een bijna wekelijks bezoek aan de bioscoop nodig is. En dan hebben we het nog niet eens over het filmhuis. Heel veel leuke films. Een kleine doorloop:
 
-- [21](http://imdb.com/title/tt0478087/) — Studententeam van blackjack hustlers met [Kevin Spacey](http://www.imdb.com/name/nm0000228/) als de baas ( [trailer](http://www.apple.com/trailers/sony_pictures/21/)). Jammer dat kaarten tellen in Nederland niet haalbaar is [^2].
+- [21](http://imdb.com/title/tt0478087/) — Studententeam van blackjack hustlers met [Kevin Spacey](http://www.imdb.com/name/nm0000228/) als de baas ([trailer](http://www.apple.com/trailers/sony_pictures/21/)). Jammer dat kaarten tellen in Nederland niet haalbaar is [^2].
 - [Australia](http://www.imdb.com/title/tt0455824/) — [Baz Luhrmann](http://www.imdb.com/name/nm0525303/) met een film over Australië in de Tweede Wereldoorlog.
 - [Babylon A.D.](http://www.imdb.com/title/tt0364970/) — [Vin Diesel](http://www.imdb.com/name/nm0004874/) in een film met een of ander debiel vergezocht verhaal kan alleen maar leuk zijn.
 - [Be kind rewind](http://imdb.com/title/tt0799934/) — [Jack Black](http://www.imdb.com/name/nm0085312/) in een film over low-budget remakes van klassieke films. Tof concept, toffe [trailer](http://www.firstshowing.net/2007/08/08/must-watch-michel-gondrys-be-kind-rewind-trailer/).

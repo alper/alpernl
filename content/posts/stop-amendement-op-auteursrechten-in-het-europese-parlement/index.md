@@ -11,7 +11,7 @@ aliases:
 ---
 [Via BoingBoing](http://www.boingboing.net/2008/01/21/europe-stop-isp-spyi.html) het bericht dat de CULT-commissie van het EP morgen gaat stemmen over het Guy Bono-rapport en dat er een schadelijk amendement aan dat rapport kleeft.
 
-Nederland heeft 2 substitute leden ( [Cornelis Visser](http://www.europarl.europa.eu/members/expert/committees/view.do?language=EN&id=39534) en [Emine Bozkurt](http://www.europarl.europa.eu/members/expert/committees/view.do?language=EN&id=28171)) in die [commissie](http://www.europarl.europa.eu/activities/committees/membersCom.do?body=CULT) —die wel stemrecht hebben— en een kort telefoontje leert dat je ze kunt mailen met argumenten dat ze tegen dat amendement moeten stemmen.
+Nederland heeft 2 substitute leden ([Cornelis Visser](http://www.europarl.europa.eu/members/expert/committees/view.do?language=EN&id=39534) en [Emine Bozkurt](http://www.europarl.europa.eu/members/expert/committees/view.do?language=EN&id=28171)) in die [commissie](http://www.europarl.europa.eu/activities/committees/membersCom.do?body=CULT) —die wel stemrecht hebben— en een kort telefoontje leert dat je ze kunt mailen met argumenten dat ze tegen dat amendement moeten stemmen.
 
 Hier mijn voorbeeldbrief (snel uitgetikt):
 

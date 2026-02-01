@@ -20,7 +20,7 @@ Work on Apps voor Nederland and _culiacan_ continues apace.
 
 Visited Gamelab to see contributions by all-stars [Karel Millenaar](http://www.fourcelabs.com/), [Niels 't Hooft](http://nielsthooft.com/) and [David Nieborg](http://www.gamespace.nl/).
 
-Also an interview I gave about Hack de Overheid was published under the great title [“How to Make the Skunk Work With Open Data”](http://www.openkent.org.uk/index.php?cID=199) ( [tweet](https://twitter.com/#!/noelito/status/119358278110158848)).
+Also an interview I gave about Hack de Overheid was published under the great title [“How to Make the Skunk Work With Open Data”](http://www.openkent.org.uk/index.php?cID=199) ([tweet](https://twitter.com/#!/noelito/status/119358278110158848)).
 
 [![Sexist Gender Markers](6197424539_ca782c3a79_m.jpg)](http://www.flickr.com/photos/alper/6197424539/ "Sexist Gender Markers by illustir, on Flickr")
 

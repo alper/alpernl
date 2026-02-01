@@ -16,7 +16,7 @@ I could quote this entire article by [Dan North](https://dannorth.net):
 
 Building software this way is the perfect balance of freedom and discipline. As the author mentions it's a matter of taste and experience and extremely hard to learn in any other way than by doing it.
 
-BSSN ( **Best** and **Simple** and **Now**) is the answer to "you should not build garbage" and "you should not overcomplicate your code prematurely" either.
+BSSN (**Best** and **Simple** and **Now**) is the answer to "you should not build garbage" and "you should not overcomplicate your code prematurely" either.
 
 Sketching in particular is a quality that should also apply to code (and will be impossible to explain to anybody who does not already get it).
 

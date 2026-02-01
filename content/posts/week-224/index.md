@@ -22,7 +22,7 @@ Tuesday was another day spent in Utrecht and in between things I pushed out the 
 
 [![http://statlas.nl/](5877327196_b37cefe8f4.jpg)](http://www.flickr.com/photos/alper/5877327196/ "http://statlas.nl/ by illustir, on Flickr")[![Talking to people from MENA](5880761503_1eefd46469.jpg)](http://www.flickr.com/photos/alper/5880761503/ "Talking to people from MENA by illustir, on Flickr")
 
-Also I [managed to bait](https://twitter.com/#!/alper/status/86377686913654785) ( [thread](http://www.exquisitetweets.com/tweets?eids=gxIUjWRnht.gxJgWZfjOK.gxJlGXqSJg.gxJrnMx13s.gxKVYYcurc.gxLHqSBlL2.gxL1Mqv8lp)) Dutch member of parliament Jeanine Hennis on the topic of her party's (the VVD) entanglement with large corporate interest when it comes to copyright law (or any internet related law). There is a lot more to be said about this topic and I don't know how effective this is as a strategy, but somebody should do this.
+Also I [managed to bait](https://twitter.com/#!/alper/status/86377686913654785) ([thread](http://www.exquisitetweets.com/tweets?eids=gxIUjWRnht.gxJgWZfjOK.gxJlGXqSJg.gxJrnMx13s.gxKVYYcurc.gxLHqSBlL2.gxL1Mqv8lp)) Dutch member of parliament Jeanine Hennis on the topic of her party's (the VVD) entanglement with large corporate interest when it comes to copyright law (or any internet related law). There is a lot more to be said about this topic and I don't know how effective this is as a strategy, but somebody should do this.
 
 [![Drinks in front of the building](5888139218_789883081c.jpg)](http://www.flickr.com/photos/alper/5888139218/ "Drinks in front of the building by illustir, on Flickr")
 

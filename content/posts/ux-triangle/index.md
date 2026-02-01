@@ -10,7 +10,7 @@ aliases:
   - /dingen/2010/06/ux-triangle/
 
 ---
-Some conversations with [Jaap Stronks](http://www.jaapstronks.nl) for the terminology and the rifts between UX designers I am witnessing more and more on events ( [dConstruct](http://dconstruct.org), [The Web and Beyond](http://thewebandbeyond.nl)) sparked this model below.
+Some conversations with [Jaap Stronks](http://www.jaapstronks.nl) for the terminology and the rifts between UX designers I am witnessing more and more on events ([dConstruct](http://dconstruct.org), [The Web and Beyond](http://thewebandbeyond.nl)) sparked this model below.
 
 [![UX Triangle](4726914407_b42d268f71.jpg)](http://www.flickr.com/photos/alper/4726914407/ "UX Triangle by illustir, on Flickr")
 

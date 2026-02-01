@@ -9,7 +9,7 @@ aliases:
   - /dingen/2007/10/prioriteit-bij-het-onderwijs/
 
 ---
-Vandaag het bericht dat de studiefinanciering af wordt geschaft ( [Fok](http://frontpage.fok.nl/nieuws/83031), [Fok](http://frontpage.fok.nl/nieuws/83028)). Dit is geen ramp, maar ik ben toch blij dat ik al in het oude systeem ben afgestudeerd. Ik kreeg deze week zelfs een brief van de IB-Groep waarin stond dat ze door hadden dat ik afgestudeerd was [^1] en dat ik in januari weer een brief van ze zou krijgen [^2].
+Vandaag het bericht dat de studiefinanciering af wordt geschaft ([Fok](http://frontpage.fok.nl/nieuws/83031), [Fok](http://frontpage.fok.nl/nieuws/83028)). Dit is geen ramp, maar ik ben toch blij dat ik al in het oude systeem ben afgestudeerd. Ik kreeg deze week zelfs een brief van de IB-Groep waarin stond dat ze door hadden dat ik afgestudeerd was [^1] en dat ik in januari weer een brief van ze zou krijgen [^2].
 
 Het is geen ramp omdat samen met het omzetten van alles in een lening de aflossing ook (waarschijnlijk) eenvoudiger en coulanter wordt gemaakt. Veel mensen hebben toch een aversie tegen het lenen van geld en dit zal drempelverhogend werken wat betreft het onderwijs.
 Nu iedereen geld moet lenen, wordt het misschien wel iets geaccepteerder.

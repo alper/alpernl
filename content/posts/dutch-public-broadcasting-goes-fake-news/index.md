@@ -20,7 +20,7 @@ The eight o'clock news of the [NOS](http://www.nos.nl/) (the Netherlands' state 
 
 \[video width="1520" height="856" mp4="/dingen/wp-content/uploads/2017/02/ongelofelijke-mensenmassa.mp4"\]\[/video\]
 
-Other reporters who were on the scene today ( [1](https://twitter.com/SBouchtaoui/status/832892352356352001), [2](https://twitter.com/Harokraak/status/832949481511514112)) said the number of people Wilders had attracted was somewhere between 80 to 200 and that the ratio of supporters and press was about 1:1.
+Other reporters who were on the scene today ([1](https://twitter.com/SBouchtaoui/status/832892352356352001), [2](https://twitter.com/Harokraak/status/832949481511514112)) said the number of people Wilders had attracted was somewhere between 80 to 200 and that the ratio of supporters and press was about 1:1.
 
 Salima Bouchtaoui: ‘Spijkenisse this Saturday morning. Lots of press. And lots of police. Few people.’
 

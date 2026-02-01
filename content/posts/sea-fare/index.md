@@ -11,7 +11,7 @@ aliases:
   - /dingen/2010/03/sea-fare/
 
 ---
-Just saw this picture of the Wellington RFID farecard system at [Adam Greenfield's Flickr stream](http://www.flickr.com/photos/studies_and_observations/) ( [CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en_GB) photograph):
+Just saw this picture of the Wellington RFID farecard system at [Adam Greenfield's Flickr stream](http://www.flickr.com/photos/studies_and_observations/) ([CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en_GB) photograph):
 [![Notxtian](http://farm5.static.flickr.com/4066/4410103749_8786b44b13.jpg)](http://www.flickr.com/photos/studies_and_observations/4410103749/ "Notxtian by adamgreenfield, on Flickr")
 
 It's called a [Snapper card](http://en.wikipedia.org/wiki/Snapper_card).
@@ -26,10 +26,10 @@ This international sea food theme makes me think that we have definitely missed 
 
 So I've got two proposed alternative names for our low countries farecard system:
 
-- **Herring card** ( _Haringkaart_)
+- **Herring card** (_Haringkaart_)
 
 or
- - **Mussel card** ( _Mosselkaart_)
+ - **Mussel card** (_Mosselkaart_)
 
 How do we get this change implemented? And anybody care to mockup a concept?
 

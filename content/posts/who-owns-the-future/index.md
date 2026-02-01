@@ -12,7 +12,7 @@ aliases:
 ---
 [In Conversation: Jaron Lanier and James Bridle On Who Owns the Future?](http://vimeo.com/61418990) from [The School of Life](http://vimeo.com/theschooloflife) on [Vimeo](http://vimeo.com).
 
-I have just watched the above conversation between Jaron Lanier and James Bridle in Conway Hall organized by the School of Life. The event was to mark the occasion of Lanier's new book “Who Owns The Future?”( [Guardian review](http://www.guardian.co.uk/books/2013/feb/27/who-owns-future-lanier-review)) and the conversation focused on some interesting ideas from it. I will probably not read the book itself, but I think the things said in the video above can be taken by themselves and though they are provocative they do not motivate me to give Lanier any money [^1].
+I have just watched the above conversation between Jaron Lanier and James Bridle in Conway Hall organized by the School of Life. The event was to mark the occasion of Lanier's new book “Who Owns The Future?”([Guardian review](http://www.guardian.co.uk/books/2013/feb/27/who-owns-future-lanier-review)) and the conversation focused on some interesting ideas from it. I will probably not read the book itself, but I think the things said in the video above can be taken by themselves and though they are provocative they do not motivate me to give Lanier any money [^1].
 
 The main issue is that Lanier signals some interesting problems (He's not alone. Om Malik just posted [this about Data Darwinism](http://gigaom.com/2013/03/17/uber-data-darwinism-and-the-future-of-work/)), he makes some terrible comparisons and posits solutions that are wholly unconvincing.
 

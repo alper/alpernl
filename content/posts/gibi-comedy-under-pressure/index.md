@@ -14,7 +14,7 @@ aliases:
 ---
 I just watched and finished season 1 of [Gibi](https://trakt.tv/shows/as-if-2021) which seems to have been enough of a success for them to quickly put out a second season. It's a Turkish dark comedy show that you can watch online on [Exxen](https://www.exxen.com/). I already [wrote it's a bit like Seinfeld](/dingen/2021/12/as-if/) but with a very dark undercurrent.
 
-How dark? Let's look at the next bit from an episode ( [S01E10](https://trakt.tv/shows/as-if-2021/seasons/1/episodes/10) @ 16:30) where Yılmaz and İlkkan are accused of having caused the death of an old man. They are getting ready to host the deceased's relatives at a restaurant and participate in the wake.
+How dark? Let's look at the next bit from an episode ([S01E10](https://trakt.tv/shows/as-if-2021/seasons/1/episodes/10) @ 16:30) where Yılmaz and İlkkan are accused of having caused the death of an old man. They are getting ready to host the deceased's relatives at a restaurant and participate in the wake.
 
 https://youtu.be/AfEVBhn-mqY
 
@@ -38,7 +38,7 @@ Yilmaz and Ilkkan having a conversation
 
 I don't know many other situational comedy shows that do something like this. It has no relation to the story and serves only to set the mood. Interspersing another death that's just brushed off in an episode that's already about death demonstrates how little a human life is worth. People die randomly and it's received with a wail and a shrug.
 
-They will most likely go to the funeral just like they did in a previous episode ( [S01E04](https://trakt.tv/shows/as-if-2021/seasons/1/episodes/4)) where Ersoy's grandmother was eaten by an Erasmus cannibal.
+They will most likely go to the funeral just like they did in a previous episode ([S01E04](https://trakt.tv/shows/as-if-2021/seasons/1/episodes/4)) where Ersoy's grandmother was eaten by an Erasmus cannibal.
 
 ## Overarching Theme
 

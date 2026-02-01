@@ -16,7 +16,7 @@ aliases:
 ---
 [Urbanode running from an Android Phone](http://vimeo.com/17403000) from [VURB](http://vimeo.com/user5376973) on [Vimeo](http://vimeo.com). The movie shows an Android phone controlling the stagelights at the Melkweg using a colour picker on a webpage.
 
-I'm quite proud to have been part of the local systems integration crew of [Urbanode](http://urbanode.net) with the steps we made on controlling environments using web technology. The movie above shows my laptop connected to a lighting panel in the [Melkweg](http://www.melkweg.nl) running an OLAD ( [Open Lighting Architecture](http://opendmx.net/index.php/OLA)) server talking ARTNET/ [DMX](http://en.wikipedia.org/wiki/DMX512) to talk with the panel and the [urbsville](https://github.com/termie/urbsville) [NodeJS](http://nodejs.org/) application that exposes the available lights as an interface on a webpage for the Android phone.
+I'm quite proud to have been part of the local systems integration crew of [Urbanode](http://urbanode.net) with the steps we made on controlling environments using web technology. The movie above shows my laptop connected to a lighting panel in the [Melkweg](http://www.melkweg.nl) running an OLAD ([Open Lighting Architecture](http://opendmx.net/index.php/OLA)) server talking ARTNET/ [DMX](http://en.wikipedia.org/wiki/DMX512) to talk with the panel and the [urbsville](https://github.com/termie/urbsville) [NodeJS](http://nodejs.org/) application that exposes the available lights as an interface on a webpage for the Android phone.
 
 So the flow is as follows:
 

@@ -16,6 +16,6 @@ Wat mij betreft moet de NZ-lijn er komen en nog tien door de hele Randstad heen.
 
 De mensen die voor het stoppen zijn getuigen van een onbeschrijfelijke lafheid die ik niet kan toestaan in mijn stad. Nu stoppen zou heel Amsterdam opzadelen met een collectief trauma voor de komende 50 jaar.
 
-Er is nog wel meer over te zeggen en natuurlijk moet het proces beter aangepakt worden, maar er zijn zoveel mensen tegen alle verandering dat ik me als tegenwicht genoodzaakt zie vóór elke verandering te zijn ( [tweet](http://twitter.com/alper/status/6694393457)).
+Er is nog wel meer over te zeggen en natuurlijk moet het proces beter aangepakt worden, maar er zijn zoveel mensen tegen alle verandering dat ik me als tegenwicht genoodzaakt zie vóór elke verandering te zijn ([tweet](http://twitter.com/alper/status/6694393457)).
 
 [^1]: Kijk bijvoorbeeld naar [de reacties op Joop.nl](http://www.joop.nl/politiek/detail/artikel/aanleg_noord_zuidlijn_was_fout_besluit/#comments). Het enige wat Joop.nl bewijst is dat er aan de linkerkant van het politieke spectrum net zoveel debielen zitten als aan de rechterkant.

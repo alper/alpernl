@@ -16,7 +16,7 @@ The belated weeknotes for the last week. My apologies. Another inbetween week, w
 
 Monday was [Mobile Monday](http://www.mobilemonday.nl/category/events/17/) on design with great performances by Arnall and Webb. Good to see our Dutch friends exposed to real design (i.e. _not_ solving problems). Let's hope interesting and valuable stuff comes from it.
 
-Tuesday I read into a bunch of arcane protocol stuff for [Urbanode](http://twitter.com/urbanode) and went to a lecture by landscape architect Ronald Rietveld ( [my notes](/dingen/2010/09/ronald-rietveld-arcam-lecture/)).
+Tuesday I read into a bunch of arcane protocol stuff for [Urbanode](http://twitter.com/urbanode) and went to a lecture by landscape architect Ronald Rietveld ([my notes](/dingen/2010/09/ronald-rietveld-arcam-lecture/)).
 
 Wednesday I got to talk with some of the chief [creative minds](http://www.buropony.nl/) in the Southern Randstad. Expect some awesome visuals headed this way sometime soonish.
 
