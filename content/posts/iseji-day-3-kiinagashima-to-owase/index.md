@@ -64,9 +64,7 @@ Going down I have to really take the descent step by step. My knee is definitely
 
 That's more people on the trail today than I saw in the previous days combined.
 
-The walk down is uneventful and leads me through a large and active cemetery.
-
-Walking into Owase proper I try to hunt down a bite and a coffee before checking in to my accommodation. It's hard to find anything. Many stores are not up to date in either Google Maps or tabélog.
+The walk down is uneventful and leads me through a large and active cemetery. Walking into Owase proper I try to hunt down a bite and a coffee before checking in to my accommodation. It's hard to find anything. Many stores are not up to date in either Google Maps or tabélog.
 
 ![Happy Bow](apotheke.jpeg)
 

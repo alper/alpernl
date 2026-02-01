@@ -45,27 +45,25 @@ I come down at Odomari and am met by another amazing sight. The beach here is lo
 
 The water isn't even that cold and the first waves hitting my poor feet feel divine. The waves are strong and pull at me but I don't have time to go swimming.
 
-![Stairs](stairs.jpeg)
-
 I dry up, circle around town and get ready for the last trailhead and the [Matsumoto-toge](https://www.kodo.pref.mie.lg.jp/en/course/17.html). This pass has 135m of elevation and no switchbacks. It will be over very quickly now.
 
-![Mos Burger](mos-burger.jpeg)
+![Stairs](stairs.jpeg)
 
 I go up and down and before I know it, I'm in Kumano pushing along a grim—not even beachfront—straight road. I shimmy to the Mos Burger for my lunch, then to [Chikotto](https://www.instagram.com/chikotto___) in front of the station for a coffee. It's a lovely place that has opened very recently.
 
-Lovely that so many young people are trying new things here.
+![Mos Burger](mos-burger.jpeg)
 
 My train leaves and I get out at Shingu so I can already buy the train ticket for the last fast train to Nagoya at 17:31. There are more than a few foreigners here, mostly from the other Kumano Kodo routes, and station staff to help them work the ticket machines.
 
-![Kumano Hayatama Taisha](taisha.jpeg)
-
 I quickly walk to the shrine, stand in line to clap my hands and buy an [ema](https://en.wikipedia.org/wiki/Ema_(Shinto)) with Yatagarasu on it. This shrine is big and very busy with people coming here from all over for all kinds of reasons. A family with children is dressed in traditional clothes receiving a blessing from the priest. Some Japanese people make a point of praying at each of the shrines. Tourists gather here to get their stamps and buy their souvenirs. But me, I'm done. Done!
+
+![Kumano Hayatama Taisha](taisha.jpeg)
 
 Arriving in front of the shrine is a mixed feeling of accomplishment, being tired and somewhat elated and also of not really knowing what to do now. Walking here was something of a purpose and now that purpose is gone.
 
-![Megane bakery](megane.jpeg)
-
 I walk around town a bunch but I'm not that hungry. I find a bakery, [Megane](https://maps.app.goo.gl/SbKTtgA7QKHSRqEN6), where they have a Marzocco machine and know how to use it. They serve me the best coffee I had so far on this trip and an incredible pastry. This place can stand the test with the best anywhere.
+
+![Megane bakery](megane.jpeg)
 
 I try to find interesting souvenirs or a store where I can buy some fresh clothes, but come up empty on both counts. What is open is very sleepy and I'm done with walking. I find a cute takoyaki place, [Paso](https://maps.app.goo.gl/77EZtyYNwGEF7T2x7), on the other side of the tracks and I call it a day.
 
