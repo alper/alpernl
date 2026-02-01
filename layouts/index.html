@@ -1,16 +1,19 @@
 {{ define "main" }}
   <div class="mt-12">
   {{ $posts := where .Site.RegularPages "Type" "posts" }}
-  {{ $latestWithTitle := (where $posts ".Title" "!=" "").ByDate.Reverse }}
+  {{ $featuredPosts := where $posts ".Params.featured" "=" true }}
+  {{ $latestFeatured := $featuredPosts.ByDate.Reverse }}
 
-  {{ if $latestWithTitle }}
-    {{ $latest := index $latestWithTitle 0 }}
+  {{ if $latestFeatured }}
+    {{ $latest := index $latestFeatured 0 }}
 
     <!-- Latest Post in Full -->
-    <article class="max-w-full prose dark:prose-invert mb-12">
+    <article class="max-w-prose prose dark:prose-invert mb-12">
       <header class="mb-6">
         <h1 class="text-4xl font-bold mb-0">
-            {{ $latest.Title | emojify }}
+            <a href="{{ $latest.Permalink }}" class="no-underline text-inherit font-bold hover:text-inherit">
+              {{ $latest.Title | emojify }}
+            </a>
         </h1>
         {{ with $latest.Date }}
           <div class="text-sm text-neutral-500 dark:text-neutral-400">

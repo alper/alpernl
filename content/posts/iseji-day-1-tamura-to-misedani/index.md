@@ -9,6 +9,7 @@ date: "2025-11-30T13:16:25+00:00"
 title: Iseji - Day 1 - Tamura to Misedani
 series: ["Iseji"]
 weight: 10
+featured: true
 aliases:
   - /dingen/2025/11/iseji-day-1-tamura-to-misedani/
 ---
