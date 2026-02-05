@@ -12,7 +12,7 @@ sync:
 _write title:
     echo "New path: content/posts/{{ title }}/index.md"
     hugo new content/posts/{{ title }}/index.md
-    code content/posts/{{ title }}/index.md
+    zed content/posts/{{ title }}/index.md
 
 write slug=next_number: (_write slug)
 
