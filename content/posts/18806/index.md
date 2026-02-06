@@ -1,7 +1,6 @@
 ---
 date: '2026-02-05T19:34:04+01:00'
-draft: true
-title: '18806'
+title: ''
 author: "alper"
 categories:
   - english
