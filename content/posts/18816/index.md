@@ -6,7 +6,9 @@ categories:
   - english
   - software-engineering
 ---
-I kept hearing so many good things about Go that I decided to make the jump from Rust. I had Claude port my app and couldn’t be happier with the result.
+I kept hearing so many good things about Go that I decided to make the jump from Rust. I had Claude [port my app](https://codeberg.org/alpercugun/cuppings/src/branch/main/backend-go)[^frontend] and couldn’t be happier with the result.
+
+[^frontend]: The frontend that I had painstakingly written in Dioxus (and then partially in Lustre) also was replaced by Claude with a Svelte version that's very easy to iterate on.
 
 ## Background
 
@@ -20,7 +22,7 @@ I could have taken the easy way out and built this entire thing in [Django](http
 
 But doing it the hard way and expanding my skills and horizon was the goal. I learned a lot and am now reasonably proficient in Rust, though there’s been a significant amount of self-castigation involved.
 
-## Learning
+## Rust
 
 The main issue with Rust is that even after reading many books and being more than interested in the topic, my lack of time prevents me from going hands-on with the lower level topics.
 
@@ -49,7 +51,7 @@ Rust is great if you need its specific capabilities and guarantees. If you’re 
 
 My main issue is that people often insist Rust is a general purpose programming language. At the same time, a lot of basics are just not there[^esoteric]. But if you complain about those issues, people insist it’s your own fault for either being dumb or not having suffered as much as they have. It does not surprise me much but I still think it’s messed up.
 
-[^esoteric]: They’ll tell you Rust is pretty much feature complete. So instead of fixing non-functional issues core language development is focused on increasingly esoteric features. That’s of course not limited to Rust. For instance in Python instead of fixing its packaging or async problems, they opted to put out an ill-fated walrus operator.
+[^esoteric]: They’ll tell you Rust is pretty much feature complete. So instead of fixing non-functional issues core language development is focused on increasingly esoteric features. That’s of course not limited to Rust. For instance in Python instead of fixing its packaging or async problems, they opted to put out an ill-fated [walrus operator](https://realpython.com/python-walrus-operator/).
 
 I want to thank the handful of people in discussions on the various forums who *didn’t* make me feel like I was insane. You know who you are.
 
@@ -57,7 +59,7 @@ I want to thank the handful of people in discussions on the various forums who *
 
 I’ve written a bunch of Go in a previous job and quite enjoyed it back then[^ride]. I tried it out with Claude almost a year ago now, and even then it could generate non-trivial Go applications entirely hands off. It could also talk me through the configuration hell of setting up a Slackbot much better than Slack’s documentation ever could.
 
-[^ride]: I get the argument in [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride). But there's a reason why Go is still more popular for writing high performance web services.
+[^ride]: I get the argument in [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride). It has been influential on me as well but there's a reason why Go is still more popular for writing high performance web services.
 
 Now I asked Claude to port my Rust application to Go. It had no trouble doing that with minimal oversight. I haven’t written a single line of Go yet. I’m [brushing up](https://gobyexample.com/) mostly to be able to read it effectively and to continue the higher level design.
 
