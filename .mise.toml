@@ -1,0 +1,31 @@
+[tasks.publish]
+description = "Build and publish site to server"
+run = """
+hugo --cleanDestinationDir --minify
+rsync -avzP --delete /Users/alpercugun/Documents/projects/wordpress/site/public/ vimexx:/home/u88479p83432/domains/alper.nl/public_html
+"""
+
+[tasks.sync]
+description = "Sync with git remote"
+run = """
+jj git fetch
+jj tug
+jj git push
+"""
+
+[tasks.write]
+description = "Create new post (optionally specify slug, defaults to next available number)"
+run = """
+if [ -z "$1" ]; then
+  slug=$(uv run find_next_number.py)
+else
+  slug=$1
+fi
+echo "New path: content/posts/$slug/index.md"
+hugo new content/posts/$slug/index.md
+zed content/posts/$slug/index.md
+"""
+
+[tasks.serve]
+description = "Run Hugo development server with drafts"
+run = "hugo server --buildDrafts --disableFastRender"

@@ -1,6 +1,6 @@
 ---
 date: '2026-02-21T12:07:32+01:00'
-title: 'Going out of Rust'
+title: 'Going off of Rust'
 author: "alper"
 categories:
   - english
