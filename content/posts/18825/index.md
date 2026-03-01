@@ -1,9 +1,10 @@
 ---
 date: '2026-03-01T23:09:51+01:00'
-draft: true
-title: '18825'
+title: ''
 author: "alper"
 categories:
   - english
-  - nederlands
 ---
+> The market for feeling productive is orders of magnitude larger than the market for being productive.
+
+https://minutes.substack.com/p/tool-shaped-objects
