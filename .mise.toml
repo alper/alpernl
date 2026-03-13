@@ -5,7 +5,7 @@ hugo --cleanDestinationDir --minify
 rsync -avzP --delete /Users/alpercugun/Documents/projects/wordpress/site/public/ vimexx:/home/u88479p83432/domains/alper.nl/public_html
 """
 
-[tasks.sync]
+[tasks.push]
 description = "Sync with git remote"
 run = """
 jj git fetch
