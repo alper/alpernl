@@ -55,3 +55,8 @@ being able to dominate celestials so easily is weird
 the mechanism of the deva is kinda weird and it could use some more mechanical explanation
 so what happened there? why were the balista left unmanned?
 > You look down at your cousin and realize you are *both* failed experiments.
+
+---
+Using postgres logical replication to dtream a video conference through the database is a brilliant hack that displays both the power of the database and of web standards. a great idea and well exexuted.
+
+https://planetscale.com/blog/video-conferencing-with-postgres
