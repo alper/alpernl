@@ -28,6 +28,8 @@ As a junior engineer you need to get to the point where you can use an LLM effec
 
 A driver’s license for LLMs may not be a perfect solution but at worst I think it’d remove a lot of sharp edges for the new problems it introduces. Think about it next time you see a multi thousand line PR fly by where you know no human has looked at any of it.
 
+https://aicoding.leaflet.pub/3mbrvhyye4k2e
+
 ——-
 
 Critical Role
@@ -57,24 +59,6 @@ so what happened there? why were the balista left unmanned?
 > You look down at your cousin and realize you are *both* failed experiments.
 
 ---
-Using postgres logical replication to dtream a video conference through the database is a brilliant hack that displays both the power of the database and of web standards. a great idea and well exexuted.
-
-https://planetscale.com/blog/video-conferencing-with-postgres
-
----
-
-Using my external 40% keyboards has always been very annoying with my laptop. The mapping
-through inly really eorks properly if the laptop is set to the US layout. that meant that ebeey tine i connect an external keyboarfd I have to switch put of my Dvorak layout.
-
-Debugging this did my head in a couple of times and its complicated enough to be difficult to ask for help online. what worked though was talking through the problem statement with Claude and coming up with solutions.
-
-the most straight forward way we found was to leave the laptop on US but remap the leys to Dvorak using Karabiner Elements. that means my QMK Dvorak layout keyboard can connect as is. this also vlears up my keyboard shortcurs though I'm hard pressed to explain exactly how that's the case.
-
-to do the remapping i found this blogpost of one of my former teachers Charl who has faced the exact same problem ands landed on the exact same solution. it's a small world. 
-
-https://cpbotha.net/2016/12/16/dvorak-remapping-with-karabiner-elements-on-macos-sierra-works/
-
----
 
 > To me, an obvious benefit of using jj is the power of the tooling and how intuitive it is to use. Once you have internalised the mental model, it doesn’t take many commands to achieve what you want.
 
@@ -99,6 +83,3 @@ https://apenwarr.ca/log/20260316
 What's interesting to read in Chiara's origin story are the resonances that I hadn't considered much myself. Why did we do this? I went to conferences while I was still in university. I read all the books to make myself competent in several fields. I organized events and gave talks. Looking around it seems that this is relatively rare. Where does it come from? Who has it and who doesn't?
 
 https://www.chiaracokieng.com/my-origin-story-part-2-the-hardest-year/
-
----
-
