@@ -73,3 +73,13 @@ the most straight forward way we found was to leave the laptop on US but remap t
 to do the remapping i found this blogpost of one of my former teachers Charl who has faced the exact same problem ands landed on the exact same solution. it's a small world. 
 
 https://cpbotha.net/2016/12/16/dvorak-remapping-with-karabiner-elements-on-macos-sierra-works/
+
+---
+
+> To me, an obvious benefit of using jj is the power of the tooling and how intuitive it is to use. Once you have internalised the mental model, it doesn’t take many commands to achieve what you want.
+
+JJ is so intuitive and powerful that it's possible to juggle around changes every which way. If you're still using git, you're missing out.
+
+https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/
+
+---
