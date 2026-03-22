@@ -83,3 +83,18 @@ JJ is so intuitive and powerful that it's possible to juggle around changes ever
 https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/
 
 ---
+
+> Claude Code only got good maybe a few months ago, so this only recenlty started happening, so I assume they will emerge from the spiral eventually.
+
+This is a hilarious note because even a year ago we had people proclaim that AI coding was going to be the future without having seen the inflection point the end of 2025 brought. they really had no way to know.
+
+> As companies grow, they all end up with more and more layers of collaboration, review, and management. Why? Because otherwise mistakes get made, and mistakes are increasingly expensive at scale.
+
+> The secret is, you have to get your engineers to engineer higher quality into the whole system, from top to bottom, repeatedly.
+
+https://apenwarr.ca/log/20260316
+
+---
+
+
+
