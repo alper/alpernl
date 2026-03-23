@@ -59,28 +59,6 @@ so what happened there? why were the balista left unmanned?
 > You look down at your cousin and realize you are *both* failed experiments.
 
 ---
-<<<<<<< conflict 1 of 1
-+++++++ wmkprnpm 1b0e2cb0 "Write posts" (rebase destination)
-
-> To me, an obvious benefit of using jj is the power of the tooling and how intuitive it is to use. Once you have internalised the mental model, it doesn’t take many commands to achieve what you want.
-
-JJ is so intuitive and powerful that it's possible to juggle around changes every which way. If you're still using git, you're missing out.
-
-https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/
-
----
-
-> Claude Code only got good maybe a few months ago, so this only recenlty started happening, so I assume they will emerge from the spiral eventually.
-
-This is a hilarious note because even a year ago we had people proclaim that AI coding was going to be the future without having seen the inflection point the end of 2025 brought. they really had no way to know.
-
-> As companies grow, they all end up with more and more layers of collaboration, review, and management. Why? Because otherwise mistakes get made, and mistakes are increasingly expensive at scale.
-
-> The secret is, you have to get your engineers to engineer higher quality into the whole system, from top to bottom, repeatedly.
-
-https://apenwarr.ca/log/20260316
-
----
 
 What's interesting to read in Chiara's origin story are the resonances that I hadn't considered much myself. Why did we do this? I went to conferences while I was still in university. I read all the books to make myself competent in several fields. I organized events and gave talks. Looking around it seems that this is relatively rare. Where does it come from? Who has it and who doesn't?
 
