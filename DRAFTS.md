@@ -59,6 +59,8 @@ so what happened there? why were the balista left unmanned?
 > You look down at your cousin and realize you are *both* failed experiments.
 
 ---
+<<<<<<< conflict 1 of 1
++++++++ wmkprnpm 1b0e2cb0 "Write posts" (rebase destination)
 
 > To me, an obvious benefit of using jj is the power of the tooling and how intuitive it is to use. Once you have internalised the mental model, it doesn’t take many commands to achieve what you want.
 
