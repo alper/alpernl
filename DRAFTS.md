@@ -73,14 +73,6 @@ https://www.chiaracokieng.com/my-origin-story-part-2-the-hardest-year/
 
 ---
 
-> If you use git rebase, the answer to this article’s question is probably yes. You will mostly likely love Jujutsu.
-
-I think this is a fair point. There are a lot of developers who don't even know what rebase does and they will probably not enjoy Jujutsu very much or care about it at all.
-
-https://etodd.io/2025/10/02/should-i-switch-from-git-to-jujutsu/
-
----
-
 This is an interesting realignment of the org chart. I'm not sure whether we'll reach that endpoint, but it's obvious to divide the team into the factors laid out in the article.
 
 * Product/Engineering Managers and other DRIs are responsible for collecting and refining the context required for their area of interest and work at hand.
@@ -91,17 +83,3 @@ This is not even that much different from how teams operate since how would any 
 https://block.xyz/inside/from-hierarchy-to-intelligence
 
 ---
-
-A quick little interview with the creator of Tantivy a Rust based search technology that I'm hearing incresaingly more about and which I'm dying to try out in production somewhere.
-
-https://www.paradedb.com/blog/tantivy-interview
-
----
-
-After hearing so kany good things anout it, we finally get to use a SAP solution as well. I wonder how quickly they'll get oht a first version and how usable it'll be.
-
-https://www.heise.de/news/SAP-und-Telekom-entwickeln-zentrale-Buerger-App-fuer-Deutschland-11247464.html
-
----
-
-
