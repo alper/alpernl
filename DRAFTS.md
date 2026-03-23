@@ -96,5 +96,9 @@ https://apenwarr.ca/log/20260316
 
 ---
 
+What's interesting to read in Chiara's origin story are the resonances that I hadn't considered much myself. Why did we do this? I went to conferences while I was still in university. I read all the books to make myself competent in several fields. I organized events and gave talks. Looking around it seems that this is relatively rare. Where does it come from? Who has it and who doesn't?
 
+https://www.chiaracokieng.com/my-origin-story-part-2-the-hardest-year/
+
+---
 
