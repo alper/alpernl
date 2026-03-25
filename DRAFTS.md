@@ -60,6 +60,11 @@ the mechanism of the deva is kinda weird and it could use some more mechanical e
 so what happened there? why were the balista left unmanned?
 > You look down at your cousin and realize you are *both* failed experiments.
 
+19
+> “Is it still an adventure if you find the treasure and to lose it or is it just a sad fucking life?!”
+> "I'll do whatever it takes." —"it's going to take a lot of us feeling that same way."
+> "I was going to repay all that was given, by giving you your brother back"
+> "If you want someone to come for you, I will be that person for you"
 ---
 
 What's interesting to read in Chiara's origin story are the resonances that I hadn't considered much myself. Why did we do this? I went to conferences while I was still in university. I read all the books to make myself competent in several fields. I organized events and gave talks. Looking around it seems that this is relatively rare. Where does it come from? Who has it and who doesn't?
