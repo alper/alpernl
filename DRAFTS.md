@@ -67,3 +67,12 @@ What's interesting to read in Chiara's origin story are the resonances that I ha
 https://www.chiaracokieng.com/my-origin-story-part-2-the-hardest-year/
 
 ---
+
+> If you use git rebase, the answer to this article’s question is probably yes. You will mostly likely love Jujutsu.
+
+I think this is a fair point. There are a lot of developers who don't even know what rebase does and they will probably not enjoy Jujutsu very much or care about it at all.
+
+https://etodd.io/2025/10/02/should-i-switch-from-git-to-jujutsu/
+
+---
+
