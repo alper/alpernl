@@ -81,3 +81,13 @@ https://etodd.io/2025/10/02/should-i-switch-from-git-to-jujutsu/
 
 ---
 
+This is an interesting realignment of the org chart. I'm not sure whether we'll reach that endpoint, but it's obvious to divide the team into the factors laid out in the article.
+
+* Product/Engineering Managers and other DRIs are responsible for collecting and refining the context required for their area of interest and work at hand.
+* The work is done by agents who are either human or LLM and who need that context to be able to do the work.
+
+This is not even that much different from how teams operate since how would any person do something without having context on it to begin with?
+
+https://block.xyz/inside/from-hierarchy-to-intelligence
+
+---
