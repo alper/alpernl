@@ -91,3 +91,7 @@ This is not even that much different from how teams operate since how would any 
 https://block.xyz/inside/from-hierarchy-to-intelligence
 
 ---
+
+A quick little interview with the creator of Tantivy a Rust based search technology that I'm hearing incresaingly more about and which I'm dying to try out in production somewhere.
+
+https://www.paradedb.com/blog/tantivy-interview
