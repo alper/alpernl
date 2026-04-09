@@ -95,3 +95,13 @@ https://block.xyz/inside/from-hierarchy-to-intelligence
 A quick little interview with the creator of Tantivy a Rust based search technology that I'm hearing incresaingly more about and which I'm dying to try out in production somewhere.
 
 https://www.paradedb.com/blog/tantivy-interview
+
+---
+
+After hearing so kany good things anout it, we finally get to use a SAP solution as well. I wonder how quickly they'll get oht a first version and how usable it'll be.
+
+https://www.heise.de/news/SAP-und-Telekom-entwickeln-zentrale-Buerger-App-fuer-Deutschland-11247464.html
+
+---
+
+
