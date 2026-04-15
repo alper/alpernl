@@ -83,3 +83,14 @@ This is not even that much different from how teams operate since how would any 
 https://block.xyz/inside/from-hierarchy-to-intelligence
 
 ---
+
+> The candidates who stand out are the ones who understood the problem before they started designing the solution.
+
+> The ability to incorporate new information fluidly, showing both conviction and flexibility, is one of the highest-signal moments in the entire loop.
+
+nothing new here. do you mean they were scream for these things?
+
+https://open.substack.com/pub/theskip/p/what-pm-hiring-managers-actually?r=wblf&utm_medium=ios
+
+---
+
