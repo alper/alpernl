@@ -116,3 +116,9 @@ https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/
 
 ---
 
+Filing this for when I get the itch to learn Haskell again though there has been some recent rumbling that as a language it's very clunky and increasingly irrelevant outside of a narrow academic context.
+
+https://vitez.me/learn-haskell-in-two-weeks
+
+--- 
+
