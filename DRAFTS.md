@@ -106,3 +106,13 @@ It's a fair enough take but it ignores that it's all path dependence. Any decisi
 
 ---
 
+> “My expectation is surely in 20 years we are going to see AI tools generating mathematics that in many measurable ways are better than every human mathematician,” Litt said. “I would be shocked if that doesn’t happen.”
+
+> But as Venkatesh told me, “In the end, there are infinitely many ways to formulate any piece of math.” The choices we make, he said, are governed by human values and shaped by the fact that mathematics is not only a science but also an art.
+
+It amazes me how many people continue to deny that there is a there there even with very clear proofs of the contrary.
+
+https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/
+
+---
+
