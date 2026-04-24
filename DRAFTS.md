@@ -122,3 +122,9 @@ https://vitez.me/learn-haskell-in-two-weeks
 
 --- 
 
+Locality of code, AI friendly and without needless extra tech stacks and back and forths. Lots of people will scoff at HTMX but that is often the case with tools that aren't hip but are used to get real work done.
+
+https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/
+
+---
+
