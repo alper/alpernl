@@ -127,4 +127,14 @@ Locality of code, AI friendly and without needless extra tech stacks and back an
 https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/
 
 ---
+> Railway, a cloud infrastructure provider that is generally regarded to be ‘friendlier’ than the likes of AWS
+
+Corollary: If your infrastructure provider is so "friendly" that it's trivial to do all kinds of things, it's also possible for a coding agent to drop your production database.
+
+Also this does not look like some kind of fly by night, pre-PMF company. There's no excuse for not having the basic separation of tenants in place at this level.
+
+https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue
+
+---
+
 
