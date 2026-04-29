@@ -163,6 +163,10 @@ https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/
 
 ---
 
+Strong arguments not to use HTTP to have your reverse proxy talk to your application server. Who knew thaht FastCGI was so solid?
+
+https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies
+
 ---
 
 RSS:
