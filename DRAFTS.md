@@ -137,4 +137,34 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powere
 
 ---
 
+I read some stuff by Zitron a while back and even back then it seemed untenable and divorced from reality mostly to score points with one audience who are more than eager to believe him.
 
+Another branch of leftism that's felt it easier to retreat from reality than to try to actually do the work.
+
+https://www.theargumentmag.com/p/ais-biggest-critic-has-lost-the-plot
+
+---
+
+Microsoft's stewardship of Github has been disastrously bad which was to be expected. It's amazing that Github worked as well as it did for as long as it did under what is actively malicious management.
+
+The many outages it is suffering are having a real effect 
+
+Gutting it and letting it die is the equivalent of burning one of the biggest libraries the world has ever seen.
+
+https://lucumr.pocoo.org/2026/4/28/before-github/
+
+https://mitchellh.com/writing/ghostty-leaving-github
+
+---
+
+Very funny and instructive how doable it is to build a handheld gaming device for under 10 cents.
+
+https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/
+
+---
+
+---
+
+RSS:
+
+* https://ratfactor.com/
