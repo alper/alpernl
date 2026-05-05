@@ -169,6 +169,17 @@ https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxi
 
 ---
 
+> Knowing what to build, knowing when the system is telling you something, knowing when to cut, knowing when the fast path is the wrong path — these were never just “execution.” They were always the harder parts and to pretend they’re solved by AI is questionable, to say the least.
+
+This is brutal but true: "The Faster You Go, the Wronger You Get" and it's unclear who will be able to inter internal İsa the red lesson this time round if they weren't able to do so previously
+
+Competitive advantage is still there and it's still more or less the same
+
+https://open.substack.com/pub/hagakure/p/the-bottleneck-was-understanding?r=wblf&utm_medium=ios
+---
+
+---
+
 RSS:
 
 * https://ratfactor.com/
