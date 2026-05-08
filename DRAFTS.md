@@ -177,9 +177,14 @@ Competitive advantage is still there and it's still more or less the same
 
 https://open.substack.com/pub/hagakure/p/the-bottleneck-was-understanding?r=wblf&utm_medium=ios
 ---
+Karin Spaink's positions and writings were formative for me online and her farewell note is a stellar parting volley on a life 
 
+https://www.spaink.net/2026/05/08/exit-spaink/
 ---
 
+
+
+--- 
 RSS:
 
 * https://ratfactor.com/
