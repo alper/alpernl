@@ -105,20 +105,6 @@ https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 
 ---
 
-The value of real skills is going up day by day.
-
-Yes, learning things is hard but that's the whole reason people go to universities. Nobody needs a university education to ask Claude to do their work for them.
-
-https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
-
----
-
-This level of anti-competitive behaviour from Claude and the other firms should be made illegal. The power disparities in AI are already stark, baking them in a way so that they can never be levelled is evil.
-
-https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
-
----
-
 Interesting new problem in database design about how to do observability for LLM traces.
 
 https://buttondown.com/jaffray/archive/smithdb/
@@ -139,7 +125,7 @@ A thorough treatment of the difficulties of rendering Arabic text.
 
 https://lr0.org/blog/p/arabic/#the-ligature-swamp
 
---- 
+---
 
 https://x.com/mitchellh/status/2031776788532379996
 https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/
@@ -203,28 +189,31 @@ https://blainsmith.com/articles/just-fucking-use-go/
 
 ---
 
-A beautiful story of how iteration on an app is a process that's worth it and that can yield something close to perfection. I wish every app had a person like this behind it who sweats every detail.
-
-https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
-
----
-
 The whole point of driverless cars is that they can be programmed to follow the rules even if the people in them want things to be otherwise. Code is law but it needs to be enforced.
 
 https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo
 
 ---
 
-It should surprise nobody that ed tech is mostly an excuse to shovel money to whoever has an open line to those politically making decisions at the moment.
+The state of AI security is such that you can't give a deployed LLM write access to any important endpoints.
 
-https://www.economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless
+I have a relatively high value Instagram username that I'm hanging onto for dear life. On the Meta side this is clearly not a priority, so I have a piece of my online identity that could disappear at any moment.
+
+https://thecybersecguru.com/news/instagram-meta-ai-vulnerability-account-recovery-exploit/
+
 ---
 
-We have been working in the "What comes after" for as long as I can remember because 1. it's obvious 2. you need to be ruthless about anything that does not add value.
+Ik weet nog dat we na een bezoek aan Kopenhagen ook dit idee hadden om Amsterdam een watertaxi te geven die over het IJ zig-zagt en inderdaad ook de Amstel af gaat. Het andere idee was om een kabelbaan over het IJ te trekken tussen twee hoge gebouwen als alternatief voor een brug.
 
-Join us on the other side if you dare.
+Natuurlijk wordt dit allemaal niet gedaan en blijft de stad doormodderen. Maar misschien ooit.
 
-https://death-of-scrum.net/#after
+https://www.parool.nl/columns-opinie/opinie-maak-het-water-in-amsterdam-de-ruggengraat-van-het-ov-netwerk-met-watertaxi-s-en-shuttles~be1a067b/
+
+---
+
+Surfacing the extent of Meta's malicious practices around Instagram and other services and then getting damages back from them is great.
+
+https://www.theguardian.com/media/2026/mar/25/jury-verdict-us-first-social-media-addiction-trial-meta-youtube
 
 ---
 
