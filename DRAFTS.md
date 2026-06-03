@@ -1,3 +1,15 @@
+There's a failure mode now in engineers who've gone too deep on AI. Whenever there is a problem they say "AI can fix this" or "We can fix this with AI." There are a bunch of issues with this.
+
+Anytime somebody says "We can" or "We should" that's a drop of ownership. "We" is not a specific person so it might as well be nobody.
+
+This is an issue that did not have anything to do with AI but as seen above AI is a useful layer of indirection that pretends to be a person so people may believe the ownership fumble does not happen.
+
+The next question would then be: "If AI can fix it, why hasn't AI done so then?" which of course has no answer because for AI to fix it, it would need sustained focus and push behind it to create a solution that would actually be fit for purpose and that's often not something that the person who says this wants to do.
+
+Conviction collapse is a useful term in these situations:
+
+And as a corollary, when AI fixes the issue, will AI also be on call for this or pay the Total Cost of Ownership for the solution? Of course not, AI will only do the fun and easy parts of solving the problem, the hard and unpleasant parts of solving it will still need to be carried by humans.
+
 ---
 
 > The candidates who stand out are the ones who understood the problem before they started designing the solution.
