@@ -73,6 +73,14 @@ It should surprise nobody that ed tech is mostly an excuse to shovel money to wh
 https://www.economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless
 ---
 
+We have been working in the "What comes after" for as long as I can remember because 1. it's obvious 2. you need to be ruthless about anything that does not add value.
+
+Join us on the other side if you dare.
+
+https://death-of-scrum.net/#after
+
+---
+
 RSS:
 
 * https://ratfactor.com/
