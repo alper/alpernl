@@ -1,3 +1,7 @@
+https://x.com/mitchellh/status/2031776788532379996
+https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/
+
+---
 There's a failure mode now in engineers who've gone too deep on AI. Whenever there is a problem they say "AI can fix this" or "We can fix this with AI." There are a bunch of issues with this.
 
 Anytime somebody says "We can" or "We should" that's a drop of ownership. "We" is not a specific person so it might as well be nobody.
