@@ -1,3 +1,21 @@
+---
+
+Why would anybody pay attention to what a German court says about something digital? The country has no idea and is behind by decades.
+
+Was the ruling delivered by fax machine?
+
+https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
+
+---
+
+> which means the best free Arabic font of the digital era is a one-man reconstruction of the best government-funded font of the metal era
+
+A thorough treatment of the difficulties of rendering Arabic text.
+
+https://lr0.org/blog/p/arabic/#the-ligature-swamp
+
+--- 
+
 https://x.com/mitchellh/status/2031776788532379996
 https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/
 
@@ -88,3 +106,4 @@ https://death-of-scrum.net/#after
 RSS:
 
 * https://ratfactor.com/
+* https://lr0.org/diary/#23042026
