@@ -1,5 +1,25 @@
 ---
 
+The value of real skills is going up day by day.
+
+Yes, learning things is hard but that's the whole reason people go to universities. Nobody needs a university education to ask Claude to do their work for them.
+
+https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
+
+---
+
+This level of anti-competitive behaviour from Claude and the other firms should be made illegal. The power disparities in AI are already stark, baking them in a way so that they can never be levelled is evil.
+
+https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
+
+---
+
+Interesting new problem in database design about how to do observability for LLM traces.
+
+https://buttondown.com/jaffray/archive/smithdb/
+
+---
+
 Why would anybody pay attention to what a German court says about something digital? The country has no idea and is behind by decades.
 
 Was the ruling delivered by fax machine?
