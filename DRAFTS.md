@@ -1,3 +1,19 @@
+> These look intimidating the first time you see them, but they are boilerplate.
+
+And that's exactly the problem with Rust. You can know precisely what you want to do but you'll spend lots of time making this stuff line up and dealing with obtuse type checking complaints.
+
+It really ruins what is an otherwise cool language.
+
+> Under the hood, the async block is the compiler’s desugaring of an anonymous state machine that implements Future, and Box::pin boxes-and-pins that anonymous future so its concrete type disappears behind the dyn in type Future = Pin<Box<dyn Future<…>>>.
+
+I've read stuff like this dozens of times and it does make sense at some point, but it remains aggravating. This is a good article and it does a decent job of explaining everything, but it's simply "too much".
+
+Of course a lot of this annoyance is now so well documented that it's relatively easy to have the LLM do this kind of work for you while you can stay busy with the real problem. And once everything is put together, it will run well and quickly.
+
+https://loige.co/writing-middlewares-for-rust-lambda-functions/
+
+---
+
 You can do lots of cool things with systemd, that is if you can fight your way through it's awful documentation.
 
 https://blog.tjll.net/you-dont-love-systemd-timers-enough/
