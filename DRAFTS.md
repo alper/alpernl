@@ -1,3 +1,9 @@
+You can do lots of cool things with systemd, that is if you can fight your way through it's awful documentation.
+
+https://blog.tjll.net/you-dont-love-systemd-timers-enough/
+
+---
+
 That the company who provide the streaming platform knew immediately what was up, tells me people leave these dashboards unsecured all the time.
 
 https://bobdahacker.com/blog/fifa-hack
