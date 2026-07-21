@@ -192,3 +192,7 @@ RSS:
 
 * https://ratfactor.com/
 * https://lr0.org/diary/#23042026
+* https://drewdevault.com
+* https://www.scattered-thoughts.net/log
+* https://www.toolofthought.com/posts
+* https://lambdaland.org/posts/2025-10-03_reading_papers/
