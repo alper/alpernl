@@ -1,3 +1,9 @@
+a lovely interview with Emily Wilson that reminds me i need to resd her translation and watch the movie adaptstion of The Odyssey
+
+https://open.substack.com/pub/derekthompson/p/emily-wilsons-complicated-feelings
+
+---
+
 Shoehorning the public forge and open source into the same website where private professional software engineering takes place was a historic mistake. It would be good to cut these two very different things loose from each other and explore what really makes sense for either use case.
 
 Open source is facing lots of challenges around trust, effort and financing at the moment fueleld in large part by the LLM boom in code. At the same time private software engineering is becoming faster and more industrial (also thanks to LLMs) with massive requirements in logic, gating and repository sizes.
