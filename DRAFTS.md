@@ -1,3 +1,12 @@
+
+---
+
+A truly wild story of debugging a really obscure race condition in sqlite. Even the most reliable systems when pushed to their limits will run into these kind of weird edge cases.
+
+https://tailscale.com/blog/sqlite-wal-reset-bug
+
+--- 
+
 The major inference providers are making their setups increasingly more proprietary and obfuscated removing user choice and portability.
 
 https://earendil.com/posts/session-portability/
