@@ -1,4 +1,8 @@
+A very helpful guide how to combine jj which already provides native stacked changes with Github's new stacked PR functionality.
 
+It's stunning mostly how a feature on Github that everybody has been waiting the better part of a decade for has come out and is so lacklustre.
+
+https://alan.norbauer.com/articles/github-stacks-with-jujutsu/
 
 ---
 
