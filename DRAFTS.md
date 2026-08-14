@@ -1,4 +1,11 @@
 
+
+---
+
+I've been waiting for the rewrite to conclude and to be able to use Roc for a long time now. Gleam scratches most of the itches that Roc does but for some reason I'm looking forward to this more.
+
+https://www.youtube.com/watch?v=a7qEOtkkDb8
+
 ---
 
 A truly wild story of debugging a really obscure race condition in sqlite. Even the most reliable systems when pushed to their limits will run into these kind of weird edge cases.
