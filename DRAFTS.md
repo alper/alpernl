@@ -1,3 +1,9 @@
+The major inference providers are making their setups increasingly more proprietary and obfuscated removing user choice and portability.
+
+https://earendil.com/posts/session-portability/
+
+---
+
 a lovely interview with Emily Wilson that reminds me i need to resd her translation and watch the movie adaptstion of The Odyssey
 
 https://open.substack.com/pub/derekthompson/p/emily-wilsons-complicated-feelings
