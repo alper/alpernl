@@ -1,3 +1,11 @@
+> The exact words we choose when writing matter. I want any LLM I use to choose the very best, most precise words at every single decision point.
+
+How can you in teh same sentence talk about e xact words when writing and talking about LLMs?
+
+https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+
+---
+
 A very helpful guide how to combine jj which already provides native stacked changes with Github's new stacked PR functionality.
 
 It's stunning mostly how a feature on Github that everybody has been waiting the better part of a decade for has come out and is so lacklustre.
