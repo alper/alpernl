@@ -68,12 +68,6 @@ https://blog.tjll.net/you-dont-love-systemd-timers-enough/
 
 ---
 
-That the company who provide the streaming platform knew immediately what was up, tells me people leave these dashboards unsecured all the time.
-
-https://bobdahacker.com/blog/fifa-hack
-
----
-
 You may have seen that deleting lots of small files on your laptop can already be a very intense and slow process. Deleting lots of things in a database can require so much extra work and bookkeeping that it can be quite detrimental to the health of the system.
 
 https://planetscale.com/blog/the-only-scalable-delete
@@ -92,16 +86,6 @@ This knowledge is especially useful in Berlin right now since we have empty comm
 This is also why it's hard to convert offices into housing. It's not so much about the architecture being unsuitable as it is about the financials not making sense anymore in that scenario.
 
 https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant
-
----
-
-I often joke that Kubernetes is nothing more than a docker installation and a bunch of shell scripts interacting with each other. In fact, at the most basic level, if you don't have any knowledge, you can for sure build a very fragile cluster that way. It might even be fun!
-
-But once you go about abstracting that and making it robust and turning it into a series of cascading and interlocking loops, you get the beast we all know and love.
-
-Fatih here does a good job of explaining what goes into it and how control theory plays a big role.
-
-https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 
 ---
 
