@@ -24,7 +24,7 @@ A truly wild story of debugging a really obscure race condition in sqlite. Even 
 
 https://tailscale.com/blog/sqlite-wal-reset-bug
 
---- 
+---
 
 The major inference providers are making their setups increasingly more proprietary and obfuscated removing user choice and portability.
 
@@ -72,7 +72,7 @@ That the company who provide the streaming platform knew immediately what was up
 
 https://bobdahacker.com/blog/fifa-hack
 
---- 
+---
 
 You may have seen that deleting lots of small files on your laptop can already be a very intense and slow process. Deleting lots of things in a database can require so much extra work and bookkeeping that it can be quite detrimental to the health of the system.
 
@@ -93,7 +93,7 @@ This is also why it's hard to convert offices into housing. It's not so much abo
 
 https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant
 
---- 
+---
 
 I often joke that Kubernetes is nothing more than a docker installation and a bunch of shell scripts interacting with each other. In fact, at the most basic level, if you don't have any knowledge, you can for sure build a very fragile cluster that way. It might even be fun!
 
@@ -116,14 +116,6 @@ Why would anybody pay attention to what a German court says about something digi
 Was the ruling delivered by fax machine?
 
 https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
-
----
-
-> which means the best free Arabic font of the digital era is a one-man reconstruction of the best government-funded font of the metal era
-
-A thorough treatment of the difficulties of rendering Arabic text.
-
-https://lr0.org/blog/p/arabic/#the-ligature-swamp
 
 ---
 
@@ -161,16 +153,6 @@ https://archive.ph/2026.04.21-180013/https://www.theatlantic.com/magazine/2026/0
 
 ---
 
-> “My expectation is surely in 20 years we are going to see AI tools generating mathematics that in many measurable ways are better than every human mathematician,” Litt said. “I would be shocked if that doesn’t happen.”
-
-> But as Venkatesh told me, “In the end, there are infinitely many ways to formulate any piece of math.” The choices we make, he said, are governed by human values and shaped by the fact that mathematics is not only a science but also an art.
-
-It amazes me how many people continue to deny that there is a there there even with very clear proofs of the contrary.
-
-https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/
-
----
-
 Microsoft's stewardship of Github has been disastrously bad which was to be expected. It's amazing that Github worked as well as it did for as long as it did under what is actively malicious management.
 
 The many outages it is suffering are having a real effect
@@ -189,25 +171,11 @@ https://blainsmith.com/articles/just-fucking-use-go/
 
 ---
 
-The whole point of driverless cars is that they can be programmed to follow the rules even if the people in them want things to be otherwise. Code is law but it needs to be enforced.
-
-https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo
-
----
-
 The state of AI security is such that you can't give a deployed LLM write access to any important endpoints.
 
 I have a relatively high value Instagram username that I'm hanging onto for dear life. On the Meta side this is clearly not a priority, so I have a piece of my online identity that could disappear at any moment.
 
 https://thecybersecguru.com/news/instagram-meta-ai-vulnerability-account-recovery-exploit/
-
----
-
-Ik weet nog dat we na een bezoek aan Kopenhagen ook dit idee hadden om Amsterdam een watertaxi te geven die over het IJ zig-zagt en inderdaad ook de Amstel af gaat. Het andere idee was om een kabelbaan over het IJ te trekken tussen twee hoge gebouwen als alternatief voor een brug.
-
-Natuurlijk wordt dit allemaal niet gedaan en blijft de stad doormodderen. Maar misschien ooit.
-
-https://www.parool.nl/columns-opinie/opinie-maak-het-water-in-amsterdam-de-ruggengraat-van-het-ov-netwerk-met-watertaxi-s-en-shuttles~be1a067b/
 
 ---
 

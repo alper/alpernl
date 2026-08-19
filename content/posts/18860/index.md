@@ -1,6 +1,5 @@
 ---
 date: '2026-04-12T13:36:52+02:00'
-draft: true
 title: 'Critical Role - Campaign 4 Episode 19-25'
 author: "alper"
 categories:
