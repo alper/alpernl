@@ -2,6 +2,12 @@
 
 ---
 
+ks it good if your CRO and CFO ddcxie to wuit just before you IPO?
+
+https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee
+
+---
+
 > The SQLite team themselves suggest that SQLite is a better fopen(), and they meant it as a design goal, not a joke.
 
 After using Postgres for everything, we can go one step further and use sqlite for everything.
