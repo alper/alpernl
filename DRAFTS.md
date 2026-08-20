@@ -1,3 +1,4 @@
+
 ---
 
 > The SQLite team themselves suggest that SQLite is a better fopen(), and they meant it as a design goal, not a joke.
