@@ -1,9 +1,4 @@
 
----
-
-Only to blog:
-
-> Here's an idea: I think video documentation of extremely risky behaviour (parkour, rooftopping etc.) and self-harm (mutilation, mukbang, ana) should be banned on all the major video platforms.
 
 ---
 
