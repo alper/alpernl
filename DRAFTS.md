@@ -1,6 +1,12 @@
 
 ---
 
+Only to blog:
+
+> Here's an idea: I think video documentation of extremely risky behaviour (parkour, rooftopping etc.) and self-harm (mutilation, mukbang, ana) should be banned on all the major video platforms.
+
+---
+
 > The SQLite team themselves suggest that SQLite is a better fopen(), and they meant it as a design goal, not a joke.
 
 After using Postgres for everything, we can go one step further and use sqlite for everything.
