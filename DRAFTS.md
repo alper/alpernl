@@ -1,4 +1,3 @@
-
 ---
 
 A good overview of a bunch of the most high profile Rust rewrites with both their successes and their failures.
@@ -31,22 +30,6 @@ https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/
 
 ---
 
-> The exact words we choose when writing matter. I want any LLM I use to choose the very best, most precise words at every single decision point.
-
-How can you in teh same sentence talk about e xact words when writing and talking about LLMs?
-
-https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
-
----
-
-A very helpful guide how to combine jj which already provides native stacked changes with Github's new stacked PR functionality.
-
-It's stunning mostly how a feature on Github that everybody has been waiting the better part of a decade for has come out and is so lacklustre.
-
-https://alan.norbauer.com/articles/github-stacks-with-jujutsu/
-
----
-
 I've been waiting for the rewrite to conclude and to be able to use Roc for a long time now. Gleam scratches most of the itches that Roc does but for some reason I'm looking forward to this more.
 
 https://www.youtube.com/watch?v=a7qEOtkkDb8
@@ -56,18 +39,6 @@ https://www.youtube.com/watch?v=a7qEOtkkDb8
 A truly wild story of debugging a really obscure race condition in sqlite. Even the most reliable systems when pushed to their limits will run into these kind of weird edge cases.
 
 https://tailscale.com/blog/sqlite-wal-reset-bug
-
----
-
-The major inference providers are making their setups increasingly more proprietary and obfuscated removing user choice and portability.
-
-https://earendil.com/posts/session-portability/
-
----
-
-a lovely interview with Emily Wilson that reminds me i need to resd her translation and watch the movie adaptstion of The Odyssey
-
-https://open.substack.com/pub/derekthompson/p/emily-wilsons-complicated-feelings
 
 ---
 
@@ -92,12 +63,6 @@ I've read stuff like this dozens of times and it does make sense at some point, 
 Of course a lot of this annoyance is now so well documented that it's relatively easy to have the LLM do this kind of work for you while you can stay busy with the real problem. And once everything is put together, it will run well and quickly.
 
 https://loige.co/writing-middlewares-for-rust-lambda-functions/
-
----
-
-You can do lots of cool things with systemd, that is if you can fight your way through it's awful documentation.
-
-https://blog.tjll.net/you-dont-love-systemd-timers-enough/
 
 ---
 
