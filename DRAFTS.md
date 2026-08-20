@@ -1,3 +1,13 @@
+
+
+---
+
+A really clean update for Mastodond and a well communicated set of changes. Particularly mixing dms with normal posts was something that I think caused no small amount of grief so I'm glad they fixed that.
+
+https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/
+
+---
+
 > The exact words we choose when writing matter. I want any LLM I use to choose the very best, most precise words at every single decision point.
 
 How can you in teh same sentence talk about e xact words when writing and talking about LLMs?
