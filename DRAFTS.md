@@ -7,6 +7,8 @@ After using Postgres for everything, we can go one step further and use sqlite f
 
 https://joecode.com/2026-08-19-sqlite3/
 
+https://www.raphaelbauer.com/posts/postgresql-everything/
+
 ---
 
 A really clean update for Mastodond and a well communicated set of changes. Particularly mixing dms with normal posts was something that I think caused no small amount of grief so I'm glad they fixed that.
