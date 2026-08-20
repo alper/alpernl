@@ -1,4 +1,10 @@
+---
 
+> The SQLite team themselves suggest that SQLite is a better fopen(), and they meant it as a design goal, not a joke.
+
+After using Postgres for everything, we can go one step further and use sqlite for everything.
+
+https://joecode.com/2026-08-19-sqlite3/
 
 ---
 
