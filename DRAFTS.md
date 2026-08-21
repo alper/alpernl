@@ -1,16 +1,24 @@
----
 
-A good overview of a bunch of the most high profile Rust rewrites with both their successes and their failures.
-
-It's interesting to see where the momentum behind this has gone given how much has changed in the software engineering landscape in general.
-
-https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/#rewriting-in-rust-what-can-go-wrong-and-why
 
 ---
 
-ks it good if your CRO and CFO ddcxie to wuit just before you IPO?
+It's an amazing testament to our times that something like Grok is still online and the people who created it are not behind bars.
 
-https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee
+https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/
+
+---
+
+Fun to use a software tool that exfiltrates all your data without your knowledge or consent. Weird also that it would be Grok doing such a thing.
+
+https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
+
+---
+
+As true as it is that monorepos require specific tooling to make them work, the same is true from any polyrepo setup. The main difference is what the price you pay is when you don't have this tooling in place yet.
+
+But I agree: Always go for a monorepo mostly because it makes things go faster.
+
+https://kore-nordmann.de/blog/always_go_with_a_monorepo.html
 
 ---
 
@@ -21,12 +29,6 @@ After using Postgres for everything, we can go one step further and use sqlite f
 https://joecode.com/2026-08-19-sqlite3/
 
 https://www.raphaelbauer.com/posts/postgresql-everything/
-
----
-
-A really clean update for Mastodond and a well communicated set of changes. Particularly mixing dms with normal posts was something that I think caused no small amount of grief so I'm glad they fixed that.
-
-https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/
 
 ---
 
@@ -164,6 +166,7 @@ https://thecybersecguru.com/news/instagram-meta-ai-vulnerability-account-recover
 Surfacing the extent of Meta's malicious practices around Instagram and other services and then getting damages back from them is great.
 
 https://www.theguardian.com/media/2026/mar/25/jury-verdict-us-first-social-media-addiction-trial-meta-youtube
+https://www.politico.eu/article/eu-orders-instagram-facebook-meta-change-addictive-design/
 
 ---
 
