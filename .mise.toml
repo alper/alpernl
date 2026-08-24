@@ -29,3 +29,6 @@ zed content/posts/$slug/index.md
 [tasks.serve]
 description = "Run Hugo development server with drafts"
 run = "hugo server --buildDrafts --disableFastRender"
+
+[tools]
+hugo = "0.165.0"
