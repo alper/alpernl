@@ -2,23 +2,9 @@
 
 ---
 
-It's an amazing testament to our times that something like Grok is still online and the people who created it are not behind bars.
-
-https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/
-
----
-
 Fun to use a software tool that exfiltrates all your data without your knowledge or consent. Weird also that it would be Grok doing such a thing.
 
 https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
-
----
-
-As true as it is that monorepos require specific tooling to make them work, the same is true from any polyrepo setup. The main difference is what the price you pay is when you don't have this tooling in place yet.
-
-But I agree: Always go for a monorepo mostly because it makes things go faster.
-
-https://kore-nordmann.de/blog/always_go_with_a_monorepo.html
 
 ---
 
@@ -29,42 +15,6 @@ After using Postgres for everything, we can go one step further and use sqlite f
 https://joecode.com/2026-08-19-sqlite3/
 
 https://www.raphaelbauer.com/posts/postgresql-everything/
-
----
-
-I've been waiting for the rewrite to conclude and to be able to use Roc for a long time now. Gleam scratches most of the itches that Roc does but for some reason I'm looking forward to this more.
-
-https://www.youtube.com/watch?v=a7qEOtkkDb8
-
----
-
-A truly wild story of debugging a really obscure race condition in sqlite. Even the most reliable systems when pushed to their limits will run into these kind of weird edge cases.
-
-https://tailscale.com/blog/sqlite-wal-reset-bug
-
----
-
-Shoehorning the public forge and open source into the same website where private professional software engineering takes place was a historic mistake. It would be good to cut these two very different things loose from each other and explore what really makes sense for either use case.
-
-Open source is facing lots of challenges around trust, effort and financing at the moment fueleld in large part by the LLM boom in code. At the same time private software engineering is becoming faster and more industrial (also thanks to LLMs) with massive requirements in logic, gating and repository sizes.
-
-https://nesbitt.io/2026/05/02/a-github-for-maintainers.html
-
----
-
-> These look intimidating the first time you see them, but they are boilerplate.
-
-And that's exactly the problem with Rust. You can know precisely what you want to do but you'll spend lots of time making this stuff line up and dealing with obtuse type checking complaints.
-
-It really ruins what is an otherwise cool language.
-
-> Under the hood, the async block is the compiler’s desugaring of an anonymous state machine that implements Future, and Box::pin boxes-and-pins that anonymous future so its concrete type disappears behind the dyn in type Future = Pin<Box<dyn Future<…>>>.
-
-I've read stuff like this dozens of times and it does make sense at some point, but it remains aggravating. This is a good article and it does a decent job of explaining everything, but it's simply "too much".
-
-Of course a lot of this annoyance is now so well documented that it's relatively easy to have the LLM do this kind of work for you while you can stay busy with the real problem. And once everything is put together, it will run well and quickly.
-
-https://loige.co/writing-middlewares-for-rust-lambda-functions/
 
 ---
 
@@ -89,20 +39,6 @@ https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant
 
 ---
 
-Interesting new problem in database design about how to do observability for LLM traces.
-
-https://buttondown.com/jaffray/archive/smithdb/
-
----
-
-Why would anybody pay attention to what a German court says about something digital? The country has no idea and is behind by decades.
-
-Was the ruling delivered by fax machine?
-
-https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
-
----
-
 https://x.com/mitchellh/status/2031776788532379996
 https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/
 
@@ -121,22 +57,6 @@ And as a corollary, when AI fixes the issue, will AI also be on call for this or
 
 ---
 
-> The candidates who stand out are the ones who understood the problem before they started designing the solution.
-
-> The ability to incorporate new information fluidly, showing both conviction and flexibility, is one of the highest-signal moments in the entire loop.
-
-nothing new here. do you mean they were scream for these things?
-
-https://open.substack.com/pub/theskip/p/what-pm-hiring-managers-actually
-
----
-
-> This sense of invulnerability has deep psychological ramifications. If everything is free and nothing matters, then the world and other people exist only to be acted upon, if they are acknowledged at all. This is different from classic narcissism, in which a grandiose but fragile self-image can mask deep insecurity. What I’m talking about is a self-definition in which the individual grows to the size of the universe, and the universe vanishes.
-
-https://archive.ph/2026.04.21-180013/https://www.theatlantic.com/magazine/2026/05/billionaire-consequence-free-reality/686588/
-
----
-
 Microsoft's stewardship of Github has been disastrously bad which was to be expected. It's amazing that Github worked as well as it did for as long as it did under what is actively malicious management.
 
 The many outages it is suffering are having a real effect
@@ -146,20 +66,6 @@ Gutting it and letting it die is the equivalent of burning one of the biggest li
 https://lucumr.pocoo.org/2026/4/28/before-github/
 
 https://mitchellh.com/writing/ghostty-leaving-github
-
----
-
-I can't agree more with this. Programming shouldn't be that complicated. Type systems are a plague that needs to be checked.
-
-https://blainsmith.com/articles/just-fucking-use-go/
-
----
-
-The state of AI security is such that you can't give a deployed LLM write access to any important endpoints.
-
-I have a relatively high value Instagram username that I'm hanging onto for dear life. On the Meta side this is clearly not a priority, so I have a piece of my online identity that could disappear at any moment.
-
-https://thecybersecguru.com/news/instagram-meta-ai-vulnerability-account-recovery-exploit/
 
 ---
 
