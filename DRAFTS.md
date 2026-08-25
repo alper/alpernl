@@ -71,6 +71,17 @@ https://www.politico.eu/article/eu-orders-instagram-facebook-meta-change-addicti
 
 ---
 
+Open Source is Art
+The art versus design debate is timeless and not really worth rehashing. To summarize my take would be that art is done for intrinsic motivations while design responds to extrinsic ones. You make art mainly for yourself and your own desire for expression while things are designed to meet some external aim (even if it can be self-imposed).
+
+With that in the back of my head I came to realize that open source software development is art.
+
+Open source developers constantly repeat and lament that the software is delivered “as is” and that nobody who can derive any rights or entitlements from the software being out there in the world. That is because usually open source software is written to “scratch somebody’s own itch” which is more or less exactly the definition of art.
+
+That means maybe software is art but only a certain type of software and not in the way that we may think.
+
+---
+
 RSS:
 
 * https://ratfactor.com/
