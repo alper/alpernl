@@ -1,4 +1,11 @@
 
+---
+
+Hot architecture failover like this is immensely difficult and costly to build into any system, but when the stakes are high enough this stuff becomes a non-negotiable.
+
+Interesting and fun write-up. We use Incident.io and are quite happy with the product.
+
+https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed
 
 ---
 
