@@ -1,5 +1,3 @@
-
-
 ---
 
 By jove, I think this may crack the entire Typescript Result pattern problem. Who would have thought that `anyhow` would come in handy after all. Also I now understand what anyhow is supposed to be doing.
@@ -20,66 +18,54 @@ https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
 
 ---
 
-Stuff like this is what I mean when I say that Go is a better fit for most programming tasks. I don't know for whom this GADT stuff is "simple", but I don't know them.
-
-https://inferara.com/blog/rust-tagless-final-gadt/#a-first-look-the-rust-expression-and-its-assembly
-
----
-
-Wasting people's time with AI generated output is immensely disrespectful, so posting back ai;dr seems more than appropriate in such cases.
-
-https://www.rickmanelius.com/p/aidr-ai-didnt-read
+In my ongoing quest for the best tiling/scrolling window managers on macOS, a new entrant has arrived on the scene: “Nehir”. I didn't expect it but, it is quite functional and has a couple of ideas that I think others should steal.
++
++I reminded myself again that I like the idea of scrolling WMs more than I like using them, so I'm back on Aerospace.
++
++https://github.com/apphane-dev/nehir
++
 
 ---
 
-Utterly mind bending functional proof of concept turning core file formats such as executables into a sqlite database. 
+Reconstituting rigor every time software engineering goes through a paradigm shift is a very smart move. Removal of constraints (or additional degrees of freedom if you will) is a systems theoretical move that affects the whole.
 
-https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
-
----
-
-Hot architecture failover like this is immensely difficult and costly to build into any system, but when the stakes are high enough this stuff becomes a non-negotiable.
-
-Interesting and fun write-up. We use Incident.io and are quite happy with the product.
-
-https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed
+https://aicoding.leaflet.pub/3mbrvhyye4k2e
 
 ---
 
-Fun to use a software tool that exfiltrates all your data without your knowledge or consent. Weird also that it would be Grok doing such a thing.
+This is the stuff that should be in a PRD anyway but these kind of documents tend to accumulate cruft so you have to regularly cut everything away and focus on the essence.
 
-https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
+https://marieclairedean.substack.com/p/got-no-time-for-prd
 
 ---
 
-> The SQLite team themselves suggest that SQLite is a better fopen(), and they meant it as a design goal, not a joke.
+A strong argument in German against the privatization of social media as a problem.
 
-After using Postgres for everything, we can go one step further and use sqlite for everything.
+I'm not sure whether this will do anything to course correct the idiotic course that all politicians have embarked on.
 
-https://joecode.com/2026-08-19-sqlite3/
+https://www.blaetter.de/ausgabe/2026/juni/die-tiktok-demokratie
 
-https://www.raphaelbauer.com/posts/postgresql-everything/
+---
+
+A goodbye note from Zarah whose diagnosis about the PEP German Left is entirely correct.
+
+I don't see the issues she's talking about becoming better anywhere in the next ten years. Brace for a hard landing into crisis.
+
+https://taz.de/Migrantisches-Leben-Warum-ich-Deutscland-nach-15-Jahren-verlasse/!6199140/
+
+---
+
+The German car industry has remained immensely profitable all while it was driving itself off a cliff.
+
+The crisis is entirely self-inflicted and a bunch of people have taken the money and ran. There need to be political and criminal consequences for this.
+
+https://www.somo.nl/manufactured-crisis/
 
 ---
 
 You may have seen that deleting lots of small files on your laptop can already be a very intense and slow process. Deleting lots of things in a database can require so much extra work and bookkeeping that it can be quite detrimental to the health of the system.
 
 https://planetscale.com/blog/the-only-scalable-delete
-
----
-
-This tallies with my intuition for why it's often more profitable to leave commercial properties vacant. The operating costs for an empty office are really not that high.
-
-Two data points that are essential:
-
-* Commercial real estate is a financial product much more than it is a building that humans use and its financing is structured in ways that are alien if you go by the residential properties you're used to.
-* Commercial leases are long term (in the Netherlands often 5+5 years) which means that if you settle for a lower rent than you had planned for, that is locked in for half a decade or more which when you think about 20 year terms is already a quarter of its runtime.
-
-This knowledge is especially useful in Berlin right now since we have empty commercial lots that were all built in the past 5-10 years flooding the market, all sitting empty as Berlin and the entire German economy goes into a slump. Adam Tooze said to have faith that the stimulus money is coming, which may be exactly what all these operators are doing right now.
-
-This is also why it's hard to convert offices into housing. It's not so much about the architecture being unsuitable as it is about the financials not making sense anymore in that scenario.
-
-https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant
 
 ---
 There's a failure mode now in engineers who've gone too deep on AI. Whenever there is a problem they say "AI can fix this" or "We can fix this with AI." There are a bunch of issues with this.
@@ -105,13 +91,6 @@ Gutting it and letting it die is the equivalent of burning one of the biggest li
 https://lucumr.pocoo.org/2026/4/28/before-github/
 
 https://mitchellh.com/writing/ghostty-leaving-github
-
----
-
-Surfacing the extent of Meta's malicious practices around Instagram and other services and then getting damages back from them is great.
-
-https://www.theguardian.com/media/2026/mar/25/jury-verdict-us-first-social-media-addiction-trial-meta-youtube
-https://www.politico.eu/article/eu-orders-instagram-facebook-meta-change-addictive-design/
 
 ---
 
