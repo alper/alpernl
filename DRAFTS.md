@@ -1,3 +1,10 @@
+
+---
+
+Wasting people's time with AI generated output is immensely disrespectful, so posting back ai;dr seems more than appropriate in such cases.
+
+https://www.rickmanelius.com/p/aidr-ai-didnt-read
+
 ---
 
 Utterly mind bending functional proof of concept turning core file formats such as executables into a sqlite database. 
