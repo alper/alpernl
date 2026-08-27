@@ -1,3 +1,8 @@
+---
+
+Utterly mind bending functional proof of concept turning core file formats such as executables into a sqlite database. 
+
+https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
 
 ---
 
