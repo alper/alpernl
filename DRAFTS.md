@@ -1,6 +1,12 @@
 
 ---
 
+Stuff like this is what I mean when I say that Go is a better fit for most programming tasks. I don't know for whom this GADT stuff is "simple", but I don't know them.
+
+https://inferara.com/blog/rust-tagless-final-gadt/#a-first-look-the-rust-expression-and-its-assembly
+
+---
+
 Wasting people's time with AI generated output is immensely disrespectful, so posting back ai;dr seems more than appropriate in such cases.
 
 https://www.rickmanelius.com/p/aidr-ai-didnt-read
