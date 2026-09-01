@@ -1,4 +1,8 @@
 
+A good overview of the differences between Rust and Zig. I can't say I'm very convinced.
+
+https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
+
 ---
 
 Stuff like this is what I mean when I say that Go is a better fit for most programming tasks. I don't know for whom this GADT stuff is "simple", but I don't know them.
