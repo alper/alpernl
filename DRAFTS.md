@@ -2,6 +2,12 @@
 
 ---
 
+By jove, I think this may crack the entire Typescript Result pattern problem. Who would have thought that `anyhow` would come in handy after all. Also I now understand what anyhow is supposed to be doing.
+
+https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern
+
+---
+
 A very good explanation of what the real difference is between simple and complex in software engineering and what the consequences of this tradeoff are.
 
 https://jyn.dev/simple-is-not-the-same-as-small/
