@@ -1,4 +1,13 @@
 
+
+---
+
+A very good explanation of what the real difference is between simple and complex in software engineering and what the consequences of this tradeoff are.
+
+https://jyn.dev/simple-is-not-the-same-as-small/
+
+---
+
 A good overview of the differences between Rust and Zig. I can't say I'm very convinced.
 
 https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
