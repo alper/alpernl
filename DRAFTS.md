@@ -1,3 +1,4 @@
+
 ---
 
 >  the company that coined the term ‘Site Reliability Engineer’ and wrote the SRE book.
@@ -29,17 +30,15 @@ https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-sto
 
 ---
 
-I was forced to create a passkey recently and I wanted to store that key in 1Password where I store all my other credentials as well. How to do that properly was entirely non-obvious and bad enough that it seems that it wasn't tested or a priority for anybody implementing these systems.
+I totally missed this.
 
-Third party managers not being supported well seems to be known and one might assume also that it's intentional to create further lock in on the main platforms.
-
-https://hawksley.dev/blog/i-dont-like-passkeys
+https://app.dealroom.co/news/note/infillion-buys-foursquare-adding-location-data-to-its-ad-platform
 
 ---
 
 https://www.businessinsider.de/gruenderszene/die-linke-koennte-berlin-regieren-gruender-macht-den-mund-auf/
 
---- 
+---
 
 https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving
 
@@ -66,33 +65,11 @@ https://marieclairedean.substack.com/p/got-no-time-for-prd
 
 ---
 
-A strong argument in German against the privatization of social media as a problem.
-
-I'm not sure whether this will do anything to course correct the idiotic course that all politicians have embarked on.
-
-https://www.blaetter.de/ausgabe/2026/juni/die-tiktok-demokratie
-
----
-
 A goodbye note from Zarah whose diagnosis about the PEP German Left is entirely correct.
 
 I don't see the issues she's talking about becoming better anywhere in the next ten years. Brace for a hard landing into crisis.
 
 https://taz.de/Migrantisches-Leben-Warum-ich-Deutscland-nach-15-Jahren-verlasse/!6199140/
-
----
-
-The German car industry has remained immensely profitable all while it was driving itself off a cliff.
-
-The crisis is entirely self-inflicted and a bunch of people have taken the money and ran. There need to be political and criminal consequences for this.
-
-https://www.somo.nl/manufactured-crisis/
-
----
-
-You may have seen that deleting lots of small files on your laptop can already be a very intense and slow process. Deleting lots of things in a database can require so much extra work and bookkeeping that it can be quite detrimental to the health of the system.
-
-https://planetscale.com/blog/the-only-scalable-delete
 
 ---
 There's a failure mode now in engineers who've gone too deep on AI. Whenever there is a problem they say "AI can fix this" or "We can fix this with AI." There are a bunch of issues with this.
