@@ -1,4 +1,16 @@
+I was forced to create a passkey recently and I wanted to store that key in 1Password where I store all my other credentials as well. How to do that properly was entirely non-obvious and bad enough that it seems that it wasn't tested or a priority for anybody implementing these systems.
 
+Third party managers not being supported well seems to be known and one might assume also that it's intentional to create further lock in on the main platforms.
+
+https://hawksley.dev/blog/i-dont-like-passkeys
+
+---
+
+https://www.businessinsider.de/gruenderszene/die-linke-koennte-berlin-regieren-gruender-macht-den-mund-auf/
+
+--- 
+
+https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving
 
 ---
 
