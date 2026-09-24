@@ -1,3 +1,13 @@
+
+
+---
+
+LLMs will use any loophole they can to make their life easier. Same here with hte Navier Stokes problem.
+
+https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/
+
+---
+
 I was forced to create a passkey recently and I wanted to store that key in 1Password where I store all my other credentials as well. How to do that properly was entirely non-obvious and bad enough that it seems that it wasn't tested or a priority for anybody implementing these systems.
 
 Third party managers not being supported well seems to be known and one might assume also that it's intentional to create further lock in on the main platforms.
