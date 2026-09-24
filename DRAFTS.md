@@ -110,3 +110,4 @@ RSS:
 * https://www.toolofthought.com/posts
 * https://lambdaland.org/posts/2025-10-03_reading_papers/
 * https://drewdevault.com/blog/index.xml
+* https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/
