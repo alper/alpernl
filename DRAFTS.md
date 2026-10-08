@@ -1,4 +1,9 @@
+---
 
+
+"A computer can never be held accountable; therefore, a computer must never make a management decision."
+
+Sam Altman can never be held accountable, therefore Sam Altman must never
 
 ---
 
