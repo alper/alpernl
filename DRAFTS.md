@@ -1,5 +1,21 @@
 ---
 
+>  the company that coined the term ‘Site Reliability Engineer’ and wrote the SRE book.
+
+this doesn't mean anything. Those books aren't really any good and they don't have to have ever used these books anyway.
+
+
+> Firebase never bothered updating its status page.
+
+the naïveté incident management even at Google in these days could be any better than this
+
+this is as good as it gets and nobody will really move away anyway
+
+https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage-213
+
+
+---
+
 
 "A computer can never be held accountable; therefore, a computer must never make a management decision."
 
