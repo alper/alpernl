@@ -1,38 +1,9 @@
 
 ---
 
->  the company that coined the term ‘Site Reliability Engineer’ and wrote the SRE book.
-
-this doesn't mean anything. Those books aren't really any good and they don't have to have ever used these books anyway.
-
-
-> Firebase never bothered updating its status page.
-
-the naïveté incident management even at Google in these days could be any better than this
-
-this is as good as it gets and nobody will really move away anyway
-
-https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage-213
-
-
----
-
-
 "A computer can never be held accountable; therefore, a computer must never make a management decision."
 
 Sam Altman can never be held accountable, therefore Sam Altman must never
-
----
-
-LLMs will use any loophole they can to make their life easier. Same here with hte Navier Stokes problem.
-
-https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/
-
----
-
-I totally missed this.
-
-https://app.dealroom.co/news/note/infillion-buys-foursquare-adding-location-data-to-its-ad-platform
 
 ---
 
