@@ -7,10 +7,6 @@ Sam Altman can never be held accountable, therefore Sam Altman must never
 
 ---
 
-https://www.businessinsider.de/gruenderszene/die-linke-koennte-berlin-regieren-gruender-macht-den-mund-auf/
-
----
-
 https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving
 
 ---
