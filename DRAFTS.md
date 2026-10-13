@@ -1,4 +1,9 @@
 
+---
+
+Google search as a product feels like it's dying. No idea what's happening there anymore.
+
+https://sancho.bearblog.dev/google-weird/
 
 
 --- 
