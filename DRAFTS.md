@@ -48,6 +48,8 @@ https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
 
 Sam Altman can never be held accountable, therefore Sam Altman must never
 
+https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/
+
 ---
 
 https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving
