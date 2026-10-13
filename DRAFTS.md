@@ -1,5 +1,9 @@
 
+---
 
+Whatever you think about it, this is going to be aan influential article.
+
+https://www.seangoedecke.com/weak-engineers/
 
 ---
 
