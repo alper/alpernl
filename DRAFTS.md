@@ -1,4 +1,12 @@
 
+
+
+--- 
+
+I learned a bunch of stuff about passkeys here and I continue to be validated in my decision not to use them. It's very complicated and opaque and the ‘just trust me bro‘ from the various proponents is not an adequate guarantee.
+
+https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+
 ---
 
 "A computer can never be held accountable; therefore, a computer must never make a management decision."
