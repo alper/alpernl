@@ -1,4 +1,8 @@
 
+https://skamille.medium.com/the-managers-path-in-the-age-of-ai-279cb6611d66
+
+---
+
 https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure
 
 ---
