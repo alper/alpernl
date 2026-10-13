@@ -1,4 +1,6 @@
 
+https://hugovk.dev/blog/2026/soft-deprecating-re.match/
+
 ---
 
 https://inrng.com/2026/10/shimano-bicycle-museum/
