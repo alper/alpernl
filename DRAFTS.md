@@ -1,4 +1,15 @@
 
+---
+
+It's very cool that it's possible to reverse engineer your hardware and rewrite the firmware. Not sure if this will break out to become a widespread thing but it just might if you bunch of things around UI design and LLMs come together.
+
+https://bensimms.moe/reverse-engineering-scooter/
+
+---
+
+A really simple bit of digital activation but part of an effective online communicaiton organization, it's something that does wonders.
+
+https://iamwillwang.com/notes/zohran-and-the-short-link
 
 ---
 
@@ -119,4 +130,11 @@ RSS:
 * https://drewdevault.com/blog/index.xml
 * https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/
 * https://fzakaria.com
+
+---
+
+Papers
+
+https://eighty-twenty.org/files/Henderson%20-%201982%20-%20Purely%20Functional%20Operating%20Systems.pdf
+
 
