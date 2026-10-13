@@ -1,4 +1,12 @@
 
+---
+
+https://inrng.com/2026/10/shimano-bicycle-museum/
+
+---
+
+https://underreacted.leaflet.pub/3mmevu6woys27
+https://luma.com/fywlrw6y
 
 ---
 
