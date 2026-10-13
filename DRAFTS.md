@@ -1,4 +1,12 @@
 
+
+
+---
+
+A useful guide how to capture state transitions in your postgres database reliably.
+
+https://thoughtbot.com/blog/inserting-state-transitions-in-postgres
+
 ---
 
 Google search as a product feels like it's dying. No idea what's happening there anymore.
