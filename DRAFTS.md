@@ -1,4 +1,11 @@
 
+
+---
+
+I love these posts where somebody with a high level of skill pushes nix to the very endpoint of what it means. Why couldn't an executable be a sqlite database? is a question some people will ask themselves. But only very few people will actually carry through with it.
+
+https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
+
 ---
 
 Whatever you think about it, this is going to be aan influential article.
