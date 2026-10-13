@@ -1,4 +1,16 @@
 
+
+
+---
+
+We'll see most of these venture funded projects revert back to the mean which is Node and it has gotten seriously better over the past years. Open source moves slow and steady and it endures.
+
+https://dbushell.com/2026/10/03/deno-to-node/
+
+---
+
+https://www.scs.stanford.edu/14sp-cs240h/slides/
+
 ---
 
 It's very cool that it's possible to reverse engineer your hardware and rewrite the firmware. Not sure if this will break out to become a widespread thing but it just might if you bunch of things around UI design and LLMs come together.
