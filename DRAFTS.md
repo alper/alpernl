@@ -1,4 +1,13 @@
 
+
+---
+
+I think many organizations could benefit from an LLM policy that's similar to what Rust is trying out here. Disclosure in particular is an area that would prevent a lot of time being wasted.
+
+https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
+
+---
+
 https://skamille.medium.com/the-managers-path-in-the-age-of-ai-279cb6611d66
 
 ---
