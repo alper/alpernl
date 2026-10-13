@@ -1,5 +1,9 @@
 
+https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure
 
+---
+
+https://x.com/cto_junior/status/2098717831097634865
 
 ---
 
