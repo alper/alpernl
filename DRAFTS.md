@@ -1,11 +1,4 @@
 
-
----
-
-Just like I also wrote, there's a lot to be gained from using jj as the version control harness for your LLM. It removes a lot of cruft and simplifies things. The only downside is that git is so much more widespread that LLMs know how to use it by default, but I hope that that may finally be changing.
-
-https://juju-chu.com
-
 ---
 
 https://hugovk.dev/blog/2026/soft-deprecating-re.match/
@@ -84,7 +77,7 @@ Google search as a product feels like it's dying. No idea what's happening there
 https://sancho.bearblog.dev/google-weird/
 
 
---- 
+---
 
 I learned a bunch of stuff about passkeys here and I continue to be validated in my decision not to use them. It's very complicated and opaque and the ‘just trust me bro‘ from the various proponents is not an adequate guarantee.
 
