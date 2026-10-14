@@ -1,8 +1,3 @@
-
----
-
-https://hugovk.dev/blog/2026/soft-deprecating-re.match/
-
 ---
 
 https://inrng.com/2026/10/shimano-bicycle-museum/
@@ -14,12 +9,6 @@ https://luma.com/fywlrw6y
 
 ---
 
-I think many organizations could benefit from an LLM policy that's similar to what Rust is trying out here. Disclosure in particular is an area that would prevent a lot of time being wasted.
-
-https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
-
----
-
 https://skamille.medium.com/the-managers-path-in-the-age-of-ai-279cb6611d66
 
 ---
@@ -28,29 +17,7 @@ https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure
 
 ---
 
-https://x.com/cto_junior/status/2098717831097634865
-
----
-
-We'll see most of these venture funded projects revert back to the mean which is Node and it has gotten seriously better over the past years. Open source moves slow and steady and it endures.
-
-https://dbushell.com/2026/10/03/deno-to-node/
-
----
-
 https://www.scs.stanford.edu/14sp-cs240h/slides/
-
----
-
-It's very cool that it's possible to reverse engineer your hardware and rewrite the firmware. Not sure if this will break out to become a widespread thing but it just might if you bunch of things around UI design and LLMs come together.
-
-https://bensimms.moe/reverse-engineering-scooter/
-
----
-
-A really simple bit of digital activation but part of an effective online communicaiton organization, it's something that does wonders.
-
-https://iamwillwang.com/notes/zohran-and-the-short-link
 
 ---
 
@@ -63,25 +30,6 @@ https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
 Whatever you think about it, this is going to be aan influential article.
 
 https://www.seangoedecke.com/weak-engineers/
-
----
-
-A useful guide how to capture state transitions in your postgres database reliably.
-
-https://thoughtbot.com/blog/inserting-state-transitions-in-postgres
-
----
-
-Google search as a product feels like it's dying. No idea what's happening there anymore.
-
-https://sancho.bearblog.dev/google-weird/
-
-
----
-
-I learned a bunch of stuff about passkeys here and I continue to be validated in my decision not to use them. It's very complicated and opaque and the ‘just trust me bro‘ from the various proponents is not an adequate guarantee.
-
-https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
 
 ---
 
