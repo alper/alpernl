@@ -1,3 +1,10 @@
+
+---
+
+Of course they need to pretend that Claude can generate anything and everything from first principles. Not giving attribution is one of the fundamental rules of marketing yourself.
+
+https://sunshowers.io/posts/anthropic-mononoke-2/
+
 ---
 
 https://inrng.com/2026/10/shimano-bicycle-museum/
@@ -129,3 +136,4 @@ Papers
 https://eighty-twenty.org/files/Henderson%20-%201982%20-%20Purely%20Functional%20Operating%20Systems.pdf
 
 https://cses.fi/book/book.pdf
+https://www.foundationdb.org/files/QuiCK.pdf
