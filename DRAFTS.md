@@ -1,4 +1,30 @@
 
+The global cybersecurity disaster that is the PHP critical vulnerabilities is a good moment to talk about the healthy and natural life cycle of open source projects.
+
+In some cases it may be better to shut down projects entirely instead of having them linger.
+
+PHP's response was inadequate
+the exploit was leaked and the fix wasn't expedited
+the organization refuses to backport this to widespread PHP versions
+that tells me this org has a competency and or a capacity problem
+
+PHP's moment has long passed
+Perl is dead, Ruby is well past its momentum
+Nobody should be using or deploying PHP on the internet in this day and age
+A suite like NextCloud being written in PHP is inexcusable
+
+There's nothing in the system preventing 10 more of these kind of exploits
+Deploying PHP to the internet in this day and age unless you know very very precisely what tradeoffs you're making is malpractice
+It's shouldn't be a default choice for anybody
+
+That means that any remaining market share of PHP is toxic and any effort that continues to be spent on it is wasted and could be spent more productively on platfroms that are not fundamentally borken
+
+I don't want to hear an open source project complain that they don't have enough capacity and the maintainers are burnt out
+Not every project can or should get capacity, we don't need every programming language to exist forever going forward
+
+Sometimes the mature response is to consider a project finished, cut your final release and archive the repos
+Make it clear to everybody that it's done
+
 ---
 
 Of course they need to pretend that Claude can generate anything and everything from first principles. Not giving attribution is one of the fundamental rules of marketing yourself.
