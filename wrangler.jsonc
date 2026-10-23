@@ -1,0 +1,11 @@
+{
+  "name": "Alper.nl",
+  "compatibility_date": "2026-11-04",
+  "build": {
+    "command": "curl -fsSL https://mise.run | sh; mise publish"
+  },
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+}

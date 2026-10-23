@@ -15,6 +15,9 @@ services:
     limit: 50
 sitemap:
   changeFreq: "daily"
+caches:
+  images:
+    dir: :cacheDir/images
 related:
   threshold: 0
   toLower: true

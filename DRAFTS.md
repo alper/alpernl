@@ -1,11 +1,6 @@
-
 Of course they need to pretend that Claude can generate anything and everything from first principles. Not giving attribution is one of the fundamental rules of marketing yourself.
 
 https://sunshowers.io/posts/anthropic-mononoke-2/
-
----
-
-https://inrng.com/2026/10/shimano-bicycle-museum/
 
 ---
 
