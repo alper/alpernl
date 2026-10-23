@@ -1,20 +1,4 @@
 
-The global cybersecurity disaster that consisted of yesterday's critical vulnerabilities in the PHP project is a good moment to talk about the natural life cycle of open source projects. In many cases it may be better to shut down projects instead of having them linger.
-
-The PHP foundation's response yesterday looked inadequate and not well coordinated. The consortium of companies that participated in the release look like they were more interested in this as a marketing opportunity than as a serious incident. How and why the exploit was leaked days ahead of the remediation is something we'll likely see more on in the coming days. The fixes have been back ported to older versions of PHP (of which there are a near infinite amount on the internet) by a third party who filled in the gap left by the official PHP release cycle. The nature of the technology here and the outlay of the governance around it does not seem in any way suitable to the scale of the problem they have let loose on the world.
-
-The nature of it is that PHP is a programming language which had a moment decades ago and that moment has long passed. That is the normal lifecycle. Perl is dead for all intents and purposes. Ruby has been past its moment for the better part of a decade and we should look for it to be effectively legacy soon as well. The only correct answer to yesterday's exploit as a professional software organisation is: “We don't run PHP.” Nobody should be deploying PHP on the internet anymore in this day and age. That there is still so much out there and that even privacy focused enterprise collaboration software such as [NextCloud](https://github.com/nextcloud/server) is being written in it is entirely inexcusable.
-
-In any large C/C++ codebase like the [PHP](https://github.com/php/php-src) one, there's nothing that tells us that we won't have 10 more exploits of this scale coming out in the next years. We should consider every poorly maintained PHP property online to be toxic waste. Yes, that would include all of Wordpress.
-
-The only way out is to either port the language itself to a memory safe language or to port your code off the language to something less exploitable. Both manoeuvres are practical enough these days that there's no excuse not to do it. Nobody is locked into anything anymore and it's hard to believe that writing PHP in particular is the thing that makes anybody happy. I have no stakes in it but probably if all these people would [just write Go](https://blainsmith.com/articles/just-fucking-use-go/), a lot of this could be avoided.
-
-Open source maintainers often complain about their lack of resources to do the tasks they ‘need’ to do. Undoubtedly they are right, but since we only have so many resources to go around it's probably better to cut and focus rather than try to keep every project alive and secure. One answer to a lack of resources and recognition can be to just drop the work. Why would you keep this going while at the same time complaining about it? Is the complaining the goal?
-
-We don't need that many interpreted web languages, we don't need half a dozen libraries doing the same thing. Sometimes the mature thing can be, even for a project that is very ‘successful’ (even if that success is by now mostly toxic) to consider the project finished, cut a final release and archive the repo.
-
----
-
 Of course they need to pretend that Claude can generate anything and everything from first principles. Not giving attribution is one of the fundamental rules of marketing yourself.
 
 https://sunshowers.io/posts/anthropic-mononoke-2/
