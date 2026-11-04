@@ -1,5 +1,5 @@
 {
-  "name": "Alper.nl",
+  "name": "alpernl",
   "compatibility_date": "2026-11-04",
   "build": {
     "command": "curl -fsSL https://mise.run | sh; mise publish"
