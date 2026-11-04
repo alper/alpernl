@@ -1,7 +1,11 @@
+[tasks.build]
+description = "Build site"
+run = "hugo --cleanDestinationDir --minify"
+
 [tasks.publish]
-description = "Build and publish site to server"
+description = "Publish site to server"
+depends = ["build"]
 run = """
-hugo --cleanDestinationDir --minify
 rsync -avzP --delete /Users/alpercugun/Documents/projects/wordpress/site/public/ vimexx:/home/u88479p83432/domains/alper.nl/public_html
 """
 
