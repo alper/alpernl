@@ -1,3 +1,35 @@
+Adieu to Lobsters
+
+More to record this for myself than anything else, I'll write down and document the events that led me to be banned from the programming community Lobsters.
+
+The events For background: Lobsters is where a certain self-selected elite of the software engineering community hangs out. It describes itself as a garden party and it has a relatively well considered and deliberate tone.
+
+My history on Lobsters has always been difficult. I like to shoot from the hip in discussions both off- and online. And Additionally I am culturally out of place there both as a manager among engineers (we value vastly different things) and as a European among Americans (we think vastly different things are normal).
+
+That difference in perspective had led to my standing on the site to be not so great more times than I can count. "Unkind" is a reporting flag on the website which is a concept that's alien to most Europeans. From an American perspective almost everything we do here is unkind.
+
+At the same time the site and all of its denizens has been having a bit of an existential crisis the past year or so. Software engineers, already not really known for not taking themselves too seriously, have not been taking their profession being automated away and devalued very well. The site has reflected the identity crisis both in its tone and contents as well as in its moderation policy.
+
+It's not particularly relevant to my case, just to say that moderation on that particular website always has been very heavy but understandably so. I would not want to be responsible for the moderation of any significant web property.
+
+Now to my case. I was banned for bigotry and I'm fine by that.
+
+	•	There was a massive PHP security breach.
+	•	The proof of concept video for the exploit is questionable, as videos from the depths of cybersecurity often are.
+	•	This particular video featured a dancing anime female child prominently overlaid on top of it.
+	•	I commented and remarked that I objected to this 'normalization of paedophilia' on display.
+	•	At that point I was banned for bigotry.
+
+Now it can be debated whether the use of Moe promotes the sexualization of children. I certainly believe it does. This is something it's possible to be of different opinions on. As such I won't be spending any energy appealing this ban (other than documenting it here, because as time passes details on these things inevitably become murky).
+
+If these people consider my opinion to be bigotry then I'm more than happy to be called a bigot.
+
+Just to think though, wouldn't you think it weird to be at a garden party having beers with a bunch of adults and then some people come in displaying images of prepubescent girls prominently. Wouldn't that be weird??
+
+4/11/2026
+
+---
+
 Of course they need to pretend that Claude can generate anything and everything from first principles. Not giving attribution is one of the fundamental rules of marketing yourself.
 
 https://sunshowers.io/posts/anthropic-mononoke-2/
