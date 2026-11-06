@@ -1,3 +1,13 @@
+
+
+---
+
+As somebody who also loved the product that Slack was and was rooting for them very much, this is a helpful bit of closure and insight of how bad things are inside these big companies. They make money, but not by doing anything that you would consider to be good.
+
+https://buildingslack.com/salesforce-part-two/
+
+---
+
 Adieu to Lobsters
 
 More to record this for myself than anything else, I'll write down and document the events that led me to be banned from the programming community Lobsters.
