@@ -1,4 +1,9 @@
 
+---
+
+Very nice to see that parts of Germany have a land tax "Grundsteuer C" that penalizes leaving plots empty. That way either people have to build or they have to pay more for the privilege of wasting land.
+
+https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/unbebaute-grundstuecke-kosten-bald-das-doppelte-in-neckargemuend-100.html
 
 ---
 
