@@ -1,4 +1,9 @@
 
+---
+
+Making people work in data centers without protective gear in Europe is just one of tons of really sketchy operating practices.
+
+https://www.investigate-europe.eu/posts/electrocutions-mental-terror-and-withheld-wages-the-exploited-workers-building-europes-data-centres
 
 ---
 
