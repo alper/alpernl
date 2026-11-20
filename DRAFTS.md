@@ -1,4 +1,11 @@
 
+
+---
+
+https://www.saintjavelin.com/collections/bags-and-gear/products/arakawa-mini-slingpack-saint-javelin-x-keep
+https://helikon-tex.com/en/bandicoot-waist-pack-corduraen.html
+https://helikon-tex.com/en/possum-waist-pack-corduraen.html
+
 ---
 
 Making people work in data centers without protective gear in Europe is just one of tons of really sketchy operating practices.
