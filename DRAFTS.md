@@ -1,4 +1,7 @@
 
+---
+
+https://refactoringenglish.com/blog/anti-patterns-software-blogging/
 
 ---
 
