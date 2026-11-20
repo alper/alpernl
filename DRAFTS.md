@@ -1,5 +1,12 @@
 
 
+---
+
+I'm still in the market for a split portable wireless keyboard. There are very few solid options in the market but maybe that's changing now with Keychron coming out with their version.
+
+Thanks to EU regulatory overreach though, it won't be possible to buy this in the EU.
+
+https://www.kickstarter.com/projects/keytron/keychron-orca-echo-split-keyboard-with-built-in-trackball
 
 ---
 
