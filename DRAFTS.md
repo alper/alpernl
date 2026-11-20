@@ -1,4 +1,10 @@
 
+--- 
+
+Theres' barely a point even in reviewing GTA VI. What is there to say even?
+
+https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html
+
 ---
 
 Very nice to see that parts of Germany have a land tax "Grundsteuer C" that penalizes leaving plots empty. That way either people have to build or they have to pay more for the privilege of wasting land.
