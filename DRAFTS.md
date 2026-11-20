@@ -1,4 +1,9 @@
 
+
+---
+
+https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/
+
 ---
 
 https://refactoringenglish.com/blog/anti-patterns-software-blogging/
