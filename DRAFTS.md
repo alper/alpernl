@@ -1,4 +1,12 @@
 
+
+
+---
+
+Github Actions is horribly and unfixably broken, but small things like being able to lock actions at least fix some of the day to day issues.
+
+https://hugovk.dev/blog/2026/lock-github-actions/
+
 --- 
 
 Theres' barely a point even in reviewing GTA VI. What is there to say even?
