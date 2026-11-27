@@ -1,4 +1,7 @@
 
+just like AI isnt responsubel for the wave of firings, its also not responsible for thr slee of cubersttacks
+
+https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy
 
 ---
 
